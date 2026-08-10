@@ -1,0 +1,120 @@
+22b_field_notes#155		<icon=typeELECTRIC> attacks <icon=fieldUp> <c=green>x1.3</c> when . . .
+22b_field_notes#156		<icon=typeELECTRIC> attacks <icon=fieldUp> <c=green>x1.5</c>
+22b_field_notes#157		<icon=typeELECTRIC> attacks <icon=fieldUp> <c=green>x1.5</c> when . . .
+22b_field_notes#158		<icon=typeELECTRIC> attacks <icon=fieldUp> <c=green>x2</c>
+22b_field_notes#159		<icon=typeFAIRY> Pokémon's Sp.Def <icon=fieldUp> <c=green>x1.5</c>
+22b_field_notes#160		<icon=typeFAIRY> attacks <icon=fieldUp> <c=green>x1.3</c>
+22b_field_notes#161		<icon=typeFAIRY> attacks <icon=fieldUp> <c=green>x1.5</c>
+22b_field_notes#162		<icon=typeFIGHTING> Pokémon or Pokémon with . . .
+22b_field_notes#163		<icon=typeFIRE> attacks <icon=fieldDown> <c=red>x0.5</c>
+22b_field_notes#164		<icon=typeFIRE> attacks <icon=fieldDown> <c=red>x0.5</c> when . . .
+22b_field_notes#165		<icon=typeFIRE> attacks <icon=fieldPlus,tts="gain the"> <icon=typeDRAGON>
+22b_field_notes#166		<icon=typeFIRE> attacks <icon=fieldUp> <c=green>x1.1</c>
+22b_field_notes#167		<icon=typeFIRE> attacks <icon=fieldUp> <c=green>x1.5</c>
+22b_field_notes#168		<icon=typeFIRE> attacks <icon=fieldUp> <c=green>x1.5</c> when . . .
+22b_field_notes#169		<icon=typeFLYING> attacks <icon=fieldDown> <c=red>x0.5</c> when . . .
+22b_field_notes#170		<icon=typeFLYING> attacks <icon=fieldUp> <c=green>x1.5</c>
+22b_field_notes#171		<icon=typeGHOST> Pokémon's defenses <icon=fieldUp> <c=green>x1.5</c>
+22b_field_notes#172		<icon=typeGHOST> attacks <icon=fieldDown> <c=red>x0.5</c>
+22b_field_notes#173		<icon=typeGRASS> attacks <icon=fieldDown> <c=red>x0.5</c> when . . .
+22b_field_notes#174		<icon=typeGRASS> attacks <icon=fieldPlus,tts="gain the"> <icon=typePOISON>
+22b_field_notes#175		<icon=typeGRASS> attacks <icon=fieldUp,tts="boosted"> . . .
+22b_field_notes#176		<icon=typeGRASS> attacks <icon=fieldUp> <c=green>x1.5</c>
+22b_field_notes#177		<icon=typeGRASS> attacks <icon=fieldUp> <c=green>x1.5</c> when . . .
+22b_field_notes#178		<icon=typeGROUND> Pokémon's Sp.Def <icon=fieldUp> <c=green>x1.5</c>
+22b_field_notes#179		<icon=typeGROUND> attacks <icon=fieldPlus,tts="gain"> <icon=typeWATER>
+22b_field_notes#180		<icon=typeGROUND> attacks hit <icon=typeFLYING>/Levitate
+22b_field_notes#181		<icon=typeICE> Pokémon's Defense <icon=fieldUp> <c=green>x1.5</c> when . . .
+22b_field_notes#182		<icon=typeICE> attacks <icon=fieldDown> <c=red>x0.5</c>
+22b_field_notes#183		<icon=typeICE> attacks <icon=fieldUp> <c=green>x1.5</c>
+22b_field_notes#184		<icon=typePOISON> attacks <icon=fieldUp> <c=green>x1.5</c>
+22b_field_notes#185		<icon=typePOISON> attacks <icon=fieldUp> <c=green>x1.5</c> when. . .
+22b_field_notes#186		<icon=typePSYCHIC> attacks <icon=fieldUp> <c=green>x1.2</c>
+22b_field_notes#187		<icon=typePSYCHIC> attacks <icon=fieldUp> <c=green>x1.5</c>
+22b_field_notes#188		<icon=typePSYCHIC> attacks <icon=fieldUp> <c=green>x1.5</c> when . . .
+22b_field_notes#189		<icon=typeROCK> attacks <icon=fieldPlus,tts="gain the"> <icon=typeICE>
+22b_field_notes#190		<icon=typeROCK> attacks <icon=fieldUp> <c=green>x1.5</c>
+22b_field_notes#191		<icon=typeSTEEL> attacks <icon=fieldUp> <c=green>x1.5</c>
+22b_field_notes#192		<icon=typeSTEEL> attacks <icon=fieldUp> <c=green>x2</c> vs <icon=typeDRAGON>
+22b_field_notes#193		<icon=typeWATER> attacks <icon=fieldChange,tts="change to"> x1 vs <icon=typeWATER>
+22b_field_notes#194		<icon=typeWATER> attacks <icon=fieldDown> <c=red>x0.5</c>
+22b_field_notes#195		<icon=typeWATER> attacks <icon=fieldDown> <c=red>x0.5</c> when . . .
+22b_field_notes#196		<icon=typeWATER> attacks <icon=fieldDown> <c=red>x0.9</c>
+22b_field_notes#197		<icon=typeWATER> attacks <icon=fieldPlus,tts="gain the"> <icon=typePOISON>
+22b_field_notes#198		<icon=typeWATER> attacks <icon=fieldUp> <c=green>x1.5</c>
+22b_field_notes#199		Accuracy/Evasion <c=red>ignored</c> when . . .
+22b_field_notes#200		Acid Armor's effect <icon=fieldUp,tts="boosted">
+22b_field_notes#201		Acid Armor's effect <icon=fieldUp,tts="boosted"> <c=green>+1</c>
+22b_field_notes#202		Acid Downpour <c=red>resets</c> to <c=orange>Stage 1</c>
+22b_field_notes#203		Acrobatics <icon=fieldChange,tts="is"> always <c=green>full</c> damage
+22b_field_notes#204		Activates <c=orange>Elemental Seed</c> . . .
+22b_field_notes#205		Activates <c=orange>Magical Seed</c> . . .
+22b_field_notes#206		Activates <c=orange>Synthetic Seed</c> . . .
+22b_field_notes#207		Activates <c=orange>Telluric Seed</c> . . .
+22b_field_notes#208		Aerilate power boost <icon=fieldChange> <c=green>x1.5</c>
+22b_field_notes#209		Aftermath damage <icon=fieldChange> <c=green>50 % HP</c>
+22b_field_notes#210		Airborne Pokémon's defenses <icon=fieldDown> <c=red>x0.9</c>
+22b_field_notes#211		All Pokémon <icon=fieldFaint> when . . .
+22b_field_notes#212		All Pokémon <icon=fieldfaint> when . . .
+22b_field_notes#213		All Pokémon get <icon=fieldPoisonStatus> each turn
+22b_field_notes#214		Allies <c=green>avoid</c> damage from . . .
+22b_field_notes#215		Amplifield Rock <icon=fieldPlus,tts="plus"> <c=green>3</c> turns . . .
+22b_field_notes#216		Anticipation <icon=fieldPlus> <c=green>boosts</c> Sp.Atk . . .
+22b_field_notes#217		Aqua Ring <c=red>damages</c> user unless . . .
+22b_field_notes#218		Aqua Ring recovery <icon=fieldChange> <c=green>1/8 HP</c>
+22b_field_notes#219		Attacks <icon=fieldUp> <c=green>x1.3</c> when <c=orange>transforming</c> . . .
+22b_field_notes#220		Attacks <icon=fieldUp> <c=green>x1.3</c> when <c=red>destroying</c> . . .
+22b_field_notes#221		Attacks fatigue after <c=red>1</c> turn . . .
+22b_field_notes#222		Becomes <c=orange>Burning Field</c> when . . .
+22b_field_notes#223		Becomes <c=orange>Corrosive Field</c> when . . .
+22b_field_notes#224		Becomes <c=orange>Corrosive Mist</c> when . . .
+22b_field_notes#225		Becomes <c=orange>Crystal Cavern</c> when . . .
+22b_field_notes#226		Becomes <c=orange>Dark Crystal Cavern</c> when . . .
+22b_field_notes#227		Becomes <c=orange>Factory Field</c> when . . .
+22b_field_notes#228		Becomes <c=orange>Grassy Terrain</c> when . . .
+22b_field_notes#229		Becomes <c=orange>Icy Field</c> when . . .
+22b_field_notes#230		Becomes <c=orange>Misty Terrain</c> when . . .
+22b_field_notes#231		Becomes <c=orange>Murkwater</c> when . . .
+22b_field_notes#232		Becomes <c=orange>Short-Circuit</c> when . . .
+22b_field_notes#233		Becomes <c=orange>Snowy Mountain</c> when . . .
+22b_field_notes#234		Becomes <c=orange>Starlight Arena</c> when . . .
+22b_field_notes#235		Becomes <c=orange>Underwater</c> when . . .
+22b_field_notes#236		Becomes <c=orange>Water Surface</c> when . . .
+22b_field_notes#237		Becomes a <c=orange>Burning Field</c> when . . .
+22b_field_notes#238		Becomes a <c=orange>Cave</c> when . . .
+22b_field_notes#239		Becomes a <c=orange>Mountain</c> when . . .
+22b_field_notes#240		Belly Drum <c=green>boosts</c> Def/Sp.Def
+22b_field_notes#241		Blizzard's Accuracy <icon=fieldChange> <c=green>90</c>
+22b_field_notes#242		Camouflage <icon=fieldChange> <icon=typeDARK>
+22b_field_notes#243		Camouflage <icon=fieldChange> <icon=typeDRAGON>
+22b_field_notes#244		Camouflage <icon=fieldChange> <icon=typeELECTRIC>
+22b_field_notes#245		Camouflage <icon=fieldChange> <icon=typeFAIRY>
+22b_field_notes#246		Camouflage <icon=fieldChange> <icon=typeFIRE>
+22b_field_notes#247		Camouflage <icon=fieldChange> <icon=typeGRASS>
+22b_field_notes#248		Camouflage <icon=fieldChange> <icon=typeGROUND>
+22b_field_notes#249		Camouflage <icon=fieldChange> <icon=typeICE>
+22b_field_notes#250		Camouflage <icon=fieldChange> <icon=typeNORMAL>
+22b_field_notes#251		Camouflage <icon=fieldChange> <icon=typeNORMAL> . . .
+22b_field_notes#252		Camouflage <icon=fieldChange> <icon=typePOISON>
+22b_field_notes#253		Camouflage <icon=fieldChange> <icon=typePSYCHIC>
+22b_field_notes#254		Camouflage <icon=fieldChange> <icon=typeQMARKS>
+22b_field_notes#255		Camouflage <icon=fieldChange> <icon=typeROCK>
+22b_field_notes#256		Camouflage <icon=fieldChange> <icon=typeSTEEL>
+22b_field_notes#257		Camouflage <icon=fieldChange> <icon=typeWATER>
+22b_field_notes#258		Camouflage <icon=fieldChange> random type
+22b_field_notes#259		Camouflage <icon=fieldChange> variable type . . .
+22b_field_notes#260		Certain abilities <c=green>boost</c> Accuracy . . .
+22b_field_notes#261		Certain abilities <c=green>boost</c> Evasion . . .
+22b_field_notes#262		Certain abilities <c=green>restore HP</c> . . .
+22b_field_notes#263		Certain abilities <c=green>restore HP</c> when . . .
+22b_field_notes#264		Certain abilities <icon=fieldPlus> <icon=fieldUp,tts="boost"> Defense . . .
+22b_field_notes#265		Certain abilities <icon=fieldPlus> <icon=fieldUp,tts="boost"> Sp.Def . . .
+22b_field_notes#266		Certain abilities change type . . .
+22b_field_notes#267		Certain abilities' chance <icon=fieldUp> <c=green>x2</c>
+22b_field_notes#268		Certain attacks <c=green>hit all</c> opposing
+22b_field_notes#269		Certain attacks <c=orange>grow</c> 1 <c=orange>Stage</c> . . .
+22b_field_notes#270		Certain attacks <c=orange>reflect</c> when . . .
+22b_field_notes#271		Certain attacks <icon=fieldChange,tts="change to"> <icon=typeFAIRY> . . .
+22b_field_notes#272		Certain attacks <icon=fieldChange,tts="change to"> <icon=typeSTEEL> . . .
+22b_field_notes#273		Certain attacks <icon=fieldChange,tts="change to"> <icon=typeWATER> / <icon=typePOISON>
+22b_field_notes#274		Certain attacks <icon=fieldChange,tts="have"> <c=green>no charge turn</c> . . .

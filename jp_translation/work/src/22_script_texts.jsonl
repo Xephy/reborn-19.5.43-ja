@@ -2943,7 +2943,7 @@
 {"sec": 22, "key": "Flip:", "en": "Flip:", "ja": "反転:"}
 {"sec": 22, "key": "False", "en": "False", "ja": "False"}
 {"sec": 22, "key": "True", "en": "True", "ja": "True"}
-{"sec": 22, "key": "Back", "en": "Back", "ja": "後ろ"}
+{"sec": 22, "key": "Back", "en": "Back", "ja": "もどる"}
 {"sec": 22, "key": "Front", "en": "Front", "ja": "前"}
 {"sec": 22, "key": "Below focus", "en": "Below focus", "ja": "フォーカスの下"}
 {"sec": 22, "key": "Above focus", "en": "Above focus", "ja": "フォーカスの上"}

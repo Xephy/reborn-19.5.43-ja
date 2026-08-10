@@ -1,0 +1,120 @@
+22b_field_notes#275	一部のわざ <icon=fieldDown> <c=red>x0.25</c> . . .
+22b_field_notes#276	一部のわざ <icon=fieldDown> <c=red>x0.5</c> . . .
+22b_field_notes#277	一部のわざ <icon=fieldPlus,tts="are additionally"> <icon=fieldUp> <c=green>x1.5</c> 条件つき . . .
+22b_field_notes#278	一部のわざ <icon=fieldPlus,tts="gain an"> 追加タイプ . . .
+22b_field_notes#279	一部のわざ <icon=fieldPlus,tts="gain the"> <icon=typeELECTRIC> . . .
+22b_field_notes#280	一部のわざ <icon=fieldPlus,tts="gain the"> <icon=typeFIRE> . . .
+22b_field_notes#281	一部のわざ <icon=fieldPlus,tts="gain the"> <icon=typePOISON> . . .
+22b_field_notes#282	一部のわざ <icon=fieldPlus,tts="gain the"> <icon=typeROCK> . . .
+22b_field_notes#283	一部のわざ <icon=fieldPlus,tts="gain the"> <icon=typeWATER> . . .
+22b_field_notes#284	一部のわざ <icon=fieldPlus> とくこう<c=green>上昇</c> . . .
+22b_field_notes#285	一部のわざ <icon=fieldPlus> 能力<c=green>上昇</c> . . .
+22b_field_notes#286	一部のわざ <icon=fieldPlus> ねむり<c=green>回復</c>
+22b_field_notes#287	一部のわざ <icon=fieldUp,tts="boosted"> . . .
+22b_field_notes#288	一部のわざ <icon=fieldUp> <c=green>x1.2</c> . . .
+22b_field_notes#289	一部のわざ <icon=fieldUp> <c=green>x1.3</c> . . .
+22b_field_notes#290	一部のわざ <icon=fieldUp> <c=green>x1.5</c> . . .
+22b_field_notes#291	一部のわざ <icon=fieldUp> <c=green>x1.5</c> さらに . . .
+22b_field_notes#292	一部のわざ <icon=fieldUp> <c=green>x2</c> . . .
+22b_field_notes#293	一部のわざ <icon=fieldUp> <c=green>x2</c> 条件つき . . .
+22b_field_notes#294	一部のわざは <c=orange>灰</c>を 巻き上げる . . .
+22b_field_notes#295	一部のどうぐ めいちゅう<c=green>上昇</c> . . .
+22b_field_notes#296	一部のどうぐ かいひ<c=green>上昇</c> . . .
+22b_field_notes#297	一部のわざ すばやさ<c=green>上昇</c> 条件つき . . .
+22b_field_notes#298	一部のわざ <icon=fieldChange,tts="become"> <c=orange>チェスこうげき</c>
+22b_field_notes#299	一部のわざ <icon=fieldChange,tts="become"> <c=orange>ハイストライカーわざ</c>
+22b_field_notes#300	一部のわざ <icon=fieldPlus,tts="inflict a"> <icon=fieldAllStat> . . .
+22b_field_notes#301	一部のわざが <c=orange>蒸気</c>を 発生 . . .
+22b_field_notes#302	一部のわざの めいちゅう <icon=fieldChange> <c=green>100</c> . . .
+22b_field_notes#303	一部のわざの めいちゅう <icon=fieldChange> <c=green>85</c>
+22b_field_notes#304	一部のわざの 効果 <icon=fieldChange> <c=green>8</c> ターン
+22b_field_notes#305	一部の能力変化わざの 効果 <icon=fieldUp,tts="boosted"> <c=green>+1</c> . . .
+22b_field_notes#306	ノーてんき 徐々に ランダムな能力<c=green>上昇</c>
+22b_field_notes#307	腐食わざ <icon=fieldPlus,tts="additionally inflict a"> <icon=fieldAllStat>
+22b_field_notes#308	腐食ダメージ <icon=fieldUp> <c=green>x1.5</c>
+22b_field_notes#309	コスモパワーの 効果 <icon=fieldUp,tts="boosted">
+22b_field_notes#310	きゅうしょ率 <icon=fieldUp,tts="increased"> 条件つき . . .
+22b_field_notes#311	きゅうしょ率 <icon=fieldUp,tts="increased"> 条件つき . . .
+22b_field_notes#312	いあいぎり <icon=fieldUp> <c=green>x1.5</c>
+22b_field_notes#313	いあいぎり <icon=fieldUp> <c=green>x2</c> 対 <icon=typeGRASS>
+22b_field_notes#314	いあいぎり、シザークロス <c=red>-1</c> <c=orange>ステージ</c>
+22b_field_notes#315	おどりこ すばやさと とくこう<c=green>上昇</c> . . .
+22b_field_notes#316	ダークホールの めいちゅう <icon=fieldChange> <c=green>100</c>
+22b_field_notes#317	ダークホールの めいちゅう <icon=fieldChange> <c=green>85</c>
+22b_field_notes#318	<icon=typePOISON> の<c=orange>設置ダメージ</c>を 与える 条件つき . . .
+22b_field_notes#319	ダイビングは <c=green>1</c> ターン つづく
+22b_field_notes#320	はめつのねがい <icon=fieldUp> <c=green>x4</c> さらに <icon=fieldPlus,tts="gains the"> <icon=typeFIRE>
+22b_field_notes#321	ダウンロードの 上昇 <icon=fieldUp,tts="increased to"> <c=green>x1.5</c>
+22b_field_notes#322	ドレインキッス <icon=fieldUp> <c=green>x2</c>
+22b_field_notes#323	かんそうはだ 自分に <c=red>ダメージ</c>
+22b_field_notes#324	かんそうはだ 自分に <c=red>ダメージ</c> ただし . . .
+22b_field_notes#325	かんそうはだ 徐々に <c=green>HP回復</c>
+22b_field_notes#326	ほうしの 確率 <icon=fieldUp> <c=green>x2</c>
+22b_field_notes#327	アンコールは <c=green>6</c> ターン つづく
+22b_field_notes#328	ターン終了時 <icon=typeFIRE> <c=orange>ダメージ</c> 条件つき . . .
+22b_field_notes#329	ターン終了時 <icon=typePOISON> <c=orange>ダメージ</c> 条件つき . . .
+22b_field_notes#330	ターン終了時 <icon=typeWATER> <c=orange>ダメージ</c> 条件つき . . .
+22b_field_notes#331	設置わざは <c=orange>消費</c>される . . .
+22b_field_notes#332	フェアリーオーラの ポケモン <icon=fieldPlus> <c=green>必中</c>
+22b_field_notes#333	ほのおのうずの ダメージ <icon=fieldChange> <c=green>HPの1/6</c>
+22b_field_notes#334	じわれは <c=red>失敗</c>
+22b_field_notes#335	フラッシュの 効果 <icon=fieldUp,tts="boosted">
+22b_field_notes#336	ひるんだ ポケモンは <c=orange>反動</c>ダメージ . . .
+22b_field_notes#337	フラワーヒール <icon=fieldPlus,tts="additionally inflicts the"> <icon=fieldPoisonStatus>
+22b_field_notes#338	フラワーヒールの 回復 <icon=fieldChange> <c=green>HPの100 %</c>
+22b_field_notes#339	フラワーガード <icon=fieldPlus> 能力<c=green>上昇</c> . . .
+22b_field_notes#340	フラワーガードの 効果 <icon=fieldUp,tts="boosted">
+22b_field_notes#341	フラワーベール <icon=fieldPlus> ダメージ<c=green>軽減</c> . . .
+22b_field_notes#342	そらをとぶと とびはねるは 1 ターン
+22b_field_notes#343	きあいだまの めいちゅう <icon=fieldChange> <c=green>90</c>
+22b_field_notes#344	きあいだめの 効果 <icon=fieldUp,tts="boosted">
+22b_field_notes#345	きあいパンチは かならず <c=red>失敗</c>
+22b_field_notes#346	もりののろい <icon=fieldPlus,tts="additionally inflicts the"> のろいの 効果
+22b_field_notes#347	エレキスキンの 威力上昇 <icon=fieldChange> <c=green>x1.5</c>
+22b_field_notes#348	エレキスキンの 威力上昇 <icon=fieldChange> <c=green>x2</c>
+22b_field_notes#349	アシストギアの 効果 <icon=fieldUp,tts="doubled"> <c=green>x2</c>
+22b_field_notes#350	ジオコントロール <icon=fieldChange,tts="has"> <c=green>ため不要</c>
+22b_field_notes#351	ぬめぬめの 効果 <icon=fieldPlus,tts="additionally inflicts the"> <icon=fieldPoisonStatus>
+22b_field_notes#352	ぬめぬめの 効果 <icon=fieldUp> <c=green>x2</c>
+22b_field_notes#353	くさのけがわ 自分に <c=red>ダメージ</c> ただし . . .
+22b_field_notes#354	くさぶえの めいちゅう <icon=fieldChange> <c=green>80</c>
+22b_field_notes#355	くさタイプの 弱点が <c=green>無効</c>
+22b_field_notes#356	地上の <icon=fieldSleep> ポケモンが <c=red>ダメージ</c> . . .
+22b_field_notes#357	地上のポケモンは 状態異常 <c=red>無効</c>
+22b_field_notes#358	地上のポケモン <icon=fieldChange,tts="are"> <icon=fieldNoSleep>
+22b_field_notes#359	せいちょうの 効果 <icon=fieldUp,tts="boosted"> . . .
+22b_field_notes#360	ガーディアン・デ・アローラ <icon=fieldChange> <c=green>最大HP3/4</c>
+22b_field_notes#361	あられは <c=red>消える</c>
+22b_field_notes#362	あられは <c=green>8</c> ターン つづく
+22b_field_notes#363	かいふくしれいの 回復 <icon=fieldChange> <c=green>HPの66 %</c>
+22b_field_notes#364	いやしのねがい <icon=fieldPlus> 能力<c=green>上昇</c> . . .
+22b_field_notes#365	ハートスワップ <icon=fieldPlus,tts="additionally inflicts the"> いたみわけの 効果
+22b_field_notes#366	さいみんじゅつの めいちゅう <icon=fieldChange> <c=green>90</c>
+22b_field_notes#367	こごえるかぜ <icon=fieldUp> <c=green>x2</c>
+22b_field_notes#368	はっこう <icon=fieldPlus> とくこう<c=green>上昇</c> . . .
+22b_field_notes#369	はっこう <icon=fieldPlus> めいちゅう<c=green>低下</c> . . .
+22b_field_notes#370	まとわりつくの ダメージ <icon=fieldChange> <c=green>HPの1/6</c>
+22b_field_notes#371	まとわりつくの ダメージ <icon=fieldUp,tts="boosted"> . . .
+22b_field_notes#372	ねをはる 自分に <c=red>ダメージ</c> ただし . . .
+22b_field_notes#373	ねをはるの 回復 <icon=fieldUp> <c=green>x2</c>
+22b_field_notes#374	ねをはるの 効果 <icon=fieldUp,tts="boosted"> . . .
+22b_field_notes#375	せいぎのこころの 効果 <icon=fieldUp> <c=green>x2</c>
+22b_field_notes#376	スプーンまげ <icon=fieldPlus> <icon=fieldUp,tts="boosts"> こうげき/とくこう
+22b_field_notes#377	キングシールド <icon=fieldPlus,tts="gain"> <c=green>まもる</c> . . .
+22b_field_notes#378	キングシールド <icon=fieldPlus> とくこう<c=green>低下</c>
+22b_field_notes#379	やどりぎのタネの 効果 <icon=fieldUp> <c=green>x2</c>
+22b_field_notes#380	ヘドロえき <icon=fieldUp> <c=green>x2</c>
+22b_field_notes#381	ヘドロえきの ダメージ <icon=fieldUp> <c=green>x2</c>
+22b_field_notes#382	うるおいボイス <icon=fieldChange,tts="type change becomes"> <icon=typeICE>
+22b_field_notes#383	えんかくの めいちゅう <icon=fieldDown> <c=red>x0.9</c>
+22b_field_notes#384	えんかくの ダメージ <icon=fieldUp> <c=green>x1.5</c>
+22b_field_notes#385	みかづきのまい <icon=fieldPlus> 全能力<c=green>上昇</c>
+22b_field_notes#386	マジックミラー <icon=fieldPlus> <icon=fieldUp,tts="boosts"> かいひ 条件つき . . .
+22b_field_notes#387	マジシャン <icon=fieldPlus> <icon=fieldUp,tts="boosts"> とくこう . . .
+22b_field_notes#388	マグマのよろい <icon=fieldPlus,tts="grants"> <icon=typeFIRE> <c=red>無効</c>
+22b_field_notes#389	マグマのよろい <icon=fieldPlus> 能力<c=green>上昇</c> . . .
+22b_field_notes#390	マグマストームの ダメージ <icon=fieldChange> <c=green>HPの1/6</c>
+22b_field_notes#391	でんじふゆうは <c=green>8</c> ターン つづく
+22b_field_notes#392	でんじふゆうは <c=green>8</c> ターン つづく
+22b_field_notes#393	ゆびをふるは わざを <c=green>選ぶ</c> . . .
+22b_field_notes#394	ミラクルアイ <icon=fieldPlus> とくこう<c=green>上昇</c>

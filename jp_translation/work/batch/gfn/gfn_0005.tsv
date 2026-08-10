@@ -1,0 +1,122 @@
+22b_field_notes#515		Smack Down <icon=fieldPlus,tts="gains the"> <icon=typePOISON>
+22b_field_notes#516		Smokescreen effect <icon=fieldUp,tts="boosted">
+22b_field_notes#517		Smokescreen effect <icon=fieldUp,tts="boosted"> <c=green>+1</c>
+22b_field_notes#518		Sonic Boom damage <icon=fieldChange> <c=green>140</c>
+22b_field_notes#519		Soul-Heart <icon=fieldPlus> <c=green>boosts</c> Sp.Def
+22b_field_notes#520		Sound-based moves <icon=fieldUp> <c=green>x1.5</c>
+22b_field_notes#521		Special <icon=typeBUG> attacks <icon=fieldUp> <c=green>x1.5</c>
+22b_field_notes#522		Special <icon=typeDARK> attacks <icon=fieldDown> <c=red>x0.5</c>
+22b_field_notes#523		Special <icon=typeFAIRY> attacks <icon=fieldUp> <c=green>x1.5</c>
+22b_field_notes#524		Special <icon=typeNORMAL> attacks <icon=fieldPlus,tts="gain"> <icon=typeQMARKS> . . .
+22b_field_notes#525		Special <icon=typeNORMAL> attacks <icon=fieldUp> <c=green>x1.5</c>
+22b_field_notes#526		Special attacks <c=orange>calculate</c> on . . .
+22b_field_notes#527		Speed <icon=fieldDown> <c=red>x0.5</c> unless <icon=typeWATER> or . . .
+22b_field_notes#528		Speed <icon=fieldDown> <c=red>x0.75</c> unless <icon=typeWATER> or . . .
+22b_field_notes#529		Speed <icon=fieldDown> <c=red>x0.75</c> when grounded
+22b_field_notes#530		Spikes/Toxic Spikes <c=red>terminated</c>
+22b_field_notes#531		Spit Up <icon=fieldUp> <c=green>x2</c>
+22b_field_notes#532		Splash <icon=fieldPlus> <c=green>lowers</c> Accuracy
+22b_field_notes#533		Splintered Stormshards <c=red>removes</c> . . .
+22b_field_notes#534		Spotlight <c=green>boosts</c> Atk/Sp.Atk . . .
+22b_field_notes#535		Stance Change <c=orange>alters</c> stats . . .
+22b_field_notes#536		Static chance <icon=fieldUp> <c=green>x2</c>
+22b_field_notes#537		Stealth Rock <icon=fieldPlus,tts="gains an"> extra type . . .
+22b_field_notes#538		Stealth Rock damage <icon=fieldUp> <c=green>x2</c>
+22b_field_notes#539		Steelworker <icon=fieldPlus,tts="additionally works with the"> <icon=typeELECTRIC>
+22b_field_notes#540		Steelworker power boost <icon=fieldChange> <c=green>x2</c>
+22b_field_notes#541		Stench chance <icon=fieldUp> <c=green>x2</c>
+22b_field_notes#542		Sticky Web effect <icon=fieldUp> <c=green>x2</c>
+22b_field_notes#543		Strength <icon=fieldChange> <icon=typeFIGHTING>/<icon=typePSYCHIC>
+22b_field_notes#544		Strength Sap recovery <icon=fieldUp> <c=green>30 %</c>
+22b_field_notes#545		Sun and Hail last for <c=green>8</c> turns
+22b_field_notes#546		Sun and Sand last <c=green>8</c> turns
+22b_field_notes#547		Sun lasts <c=green>8</c> turns
+22b_field_notes#548		Swallow <icon=fieldUp> <c=green>x2</c> <icon=fieldPlus> <c=green>cures</c> when max stack
+22b_field_notes#549		Swarm's effect <icon=fieldUp,tts="boosted"> . . .
+22b_field_notes#550		Sweet Scent <c=red>lowers</c> Def & Sp.Def
+22b_field_notes#551		Sweet Scent <icon=fieldPlus> <c=green>lowers</c> defenses
+22b_field_notes#552		Sweet Scent's effect <icon=fieldUp,tts="boosted"> . . .
+22b_field_notes#553		Synthesis/Morning Sun <icon=fieldChange,tts="recovery changes to"> <c=red>25 % HP</c>
+22b_field_notes#554		Tailwind <icon=fieldPlus,tts="additionally kicks up"> Strong Winds
+22b_field_notes#555		Tailwind lasts <c=green>6</c> turns
+22b_field_notes#556		Technician applies up to BP <c=green>80</c>
+22b_field_notes#557		Teeter Dance <icon=fieldPlus> <c=green>lowers</c> Defense
+22b_field_notes#558		Telekinesis <icon=fieldPlus> <icon=fieldDown> Defense/Sp.Def . . .
+22b_field_notes#559		Telepathy <c=green>boosts</c> Speed <c=green>x2</c>
+22b_field_notes#560		The type chart is <c=orange> inverted</c>
+22b_field_notes#561		The type chart is <c=orange>altered</c> . . .
+22b_field_notes#562		Thunder <c=green>never misses</c>
+22b_field_notes#563		Toxic Spikes <c=red>can't</c> be absorbed
+22b_field_notes#564		Toxic's Accuracy <icon=fieldChange> <c=green>100</c>
+22b_field_notes#565		Trick Room lasts <c=green>8</c> turns
+22b_field_notes#566		Type attacks <icon=fieldChange,tts="are"> always Physical . . .
+22b_field_notes#567		Type attacks <icon=fieldChange,tts="are"> always Special . . .
+22b_field_notes#568		Victory Star damage <icon=fieldUp> <c=green>x1.5</c>
+22b_field_notes#569		Volt Absorb slowly <c=green>restores HP</c>
+22b_field_notes#570		Water Compaction <icon=fieldPlus> <c=green>boosts</c> Sp.Def
+22b_field_notes#571		Water Veil <icon=fieldPlus> <c=green>cures</c> status
+22b_field_notes#572		Weather <c=red>stops</c> boosts . . .
+22b_field_notes#573		Whirlpool <icon=fieldPlus> confuses target
+22b_field_notes#574		Whirlpool damage <icon=fieldChange> <c=green>1/6 HP</c>
+22b_field_notes#575		Wild Charge <icon=fieldChange,tts="has"> <c=green>no recoil</c>
+22b_field_notes#576		Will-O-Wisp's Accuracy <icon=fieldChange> <c=green>100</c>
+22b_field_notes#577		Wish recovery <icon=fieldChange> <c=green> 75 % HP</c>
+22b_field_notes#578		Wish recovery <icon=fieldChange> <c=green>75 % HP</c>
+22b_field_notes#579		Wonder Skin always <c=green>activates</c>
+22b_field_notes#580		Zap Cannon's Accuracy <icon=fieldChange> <c=green>80</c>
+22b_field_notes#581		Zen Mode <c=green>always active</c>
+22b_field_notes#582		...and damages all active Pokémon for 1/2 max HP: Boomburst, Bulldoze, Earthquake, Explosion, Fissure, Hyper Voice, Magnitude, Self-Destruct, Tectonic Rage.
+Pokémon behind applicable protect moves, or having Shell Armor or Battle Armor are immune to the shatter damage.
+22b_field_notes#583		...and deals 1.25x damage when using a move in a double battle that targets both opponents.
+22b_field_notes#584		...and never miss: Aurora Beam, Dazzling Gleam, Doom Desire, Flash Cannon, Light That Burns The Sky, Luster Purge, Photon Geyser, Prismatic Laser, Signal Beam, Techno Blast
+22b_field_notes#585		...and never misses and always lowers target's Accuracy.
+22b_field_notes#586		...any field unless explicitly stated otherwise.
+Does not get the field destruction damage boost.
+22b_field_notes#587		...based on specific criteria. A Pokémon can only be one Piece.
+22b_field_notes#588		...each turn.
+22b_field_notes#589		...of both the target and the user.
+22b_field_notes#590		...selects attacks of 70 base power or higher only.
+22b_field_notes#591		...unless Poison or Steel type, or one of these abilities is active: Immunity, Poison Heal, Toxic Boost, Wonder Guard
+22b_field_notes#592		...unless Poison or Steel type.
+22b_field_notes#593		...unless Steel type. Poison types are healed instead.
+22b_field_notes#594		...unless Water type, airborne, or the abilities Surge Surfer or Swift Swim are active.
+22b_field_notes#595		...unless Water type, or the abilities Swift Swim or Steelworker are active.
+22b_field_notes#596		...unless attack is Water type or user has Steelworker or Swift Swim.
+22b_field_notes#597		...unless they have Steadfast or Sturdy.
+22b_field_notes#598		...when Acid Downpour is used, or Sludge Wave is used twice, KOing all non-Poison or Steel type Pokémon.
+22b_field_notes#599		...when Acid Downpour is used, or Sludge Wave is used twice.
+22b_field_notes#600		...when Acid Downpour is used, or when one of these moves is used twice: Clear Smog, Poison Gas, Smog
+22b_field_notes#601		...when Acid Downpour, Sludge Wave is used.
+22b_field_notes#602		...when Blizzard, Glaciate, Subzero Slammer is used, or it has been hailing for 3 turns.
+22b_field_notes#603		...when Blizzard, Glaciate, Subzero Slammer is used.
+22b_field_notes#604		...when Bounce, Dive, Fly, Sky Drop is used.
+22b_field_notes#605		...when Bulldoze, Continental Crush, Earthquake, Fissure, Magnitude, Tectonic Rage is used twice. Pokémon using Endure, or having Sturdy may survive with 1 HP from full health. Pokémon with Battle Armor and Shell Armor take 50% damage. Pokémon with Prism Armor or Solid Rock take 33% damage. Pokémon behind applicable protect moves, or having Bulletproof or Rock Head are immune to the damage.
+22b_field_notes#606		...when Bulldoze, Discharge, Earthquake, Explosion, Fissure, Light That Burns The Sky, Magnitude, Self-Destruct, Tectonic Rage is used.
+22b_field_notes#607		...when Bulldoze, Earthquake, Fissure, Magnitude, Tectonic Rage is used.
+22b_field_notes#608		...when Charge Beam, Discharge, Gigavolt Havoc, Ion Deluge, Parabolic Charge, Wild Charge is used.
+22b_field_notes#609		...when Dark Pulse, Dark Void, Light That Burns The Sky, Night Daze is used.
+22b_field_notes#610		...when Defense is increased or Substitute is up, attacks that can be blocked by Bulletproof can be dodged behind rocks.
+22b_field_notes#611		...when Defense is increased.
+22b_field_notes#612		...when Diamond Storm, Power Gem is used.
+22b_field_notes#613		...when Dive, Gravity is used.
+22b_field_notes#614		...when Eruption, Explosion, Fire Pledge, Flame Burst, Heat Wave, Incinerate, Inferno Overdrive, Lava Plume, Mind Blown, Searing Shot, Self-Destruct is used in the absence of Rain or Water Sport.
+22b_field_notes#615		...when Eruption, Fire Pledge, Flame Burst, Heat Wave, Incinerate, Inferno Overdrive, Lava Plume, Mind Blown, Searing Shot is used in the absence of Rain or Water Sport.
+22b_field_notes#616		...when Eruption, Fire Pledge, Flame Burst, Heat Wave, Incinerate, Inferno Overdrive, Lava Plume, Mind Blown, Searing Shot is used, or if Water Surface is already under the ice and Bulldoze, Earthquake, Fissure, Magnitude, Tectonic Rage is used. Also turns into Water Surface if Scald or Steam Eruption is used twice.
+22b_field_notes#617		...when Eruption, Fire Pledge, Flame Burst, Heat Wave, Incinerate, Inferno Overdrive, Lava Plume, Mind Blown, Searing Shot is used.
+22b_field_notes#618		...when Geomancy is used, or when Gravity is used for as long as Gravity lasts.
+22b_field_notes#619		...when Glaciate, Hydro Vortex, Oceanic Operetta or Subzero Slammer is used, or when Muddy Water, Sparkling Aria or Surf is used twice.
+22b_field_notes#620		...when Gravity is used.
+22b_field_notes#621		...when Hail is up.
+22b_field_notes#622		...when Light That Burns The Sky is used.
+22b_field_notes#623		...when Poison or Steel type, or one of these abilities is active: Immunity, Poison Heal, Toxic Boost, Wonder Guard
+22b_field_notes#624		...when Pokémon is sent out.
+22b_field_notes#625		...when Pokémon is underwater (x4) or has one of the following abilities (x2): Dry Skin, Flame Body, Magma Armor, Water Absorb
+22b_field_notes#626		...when Pokémon is weak to Water and does not have Swift Swim.
+22b_field_notes#627		...when Sand or Hail are in effect, or Light That Burns The Sky is used.
+22b_field_notes#628		...when Seed Flare is used.
+22b_field_notes#629		...when Strong Winds are active, further boosts all special Flying attacks, as well as Fairy Wind, Gust, Icy Wind, Ominous Wind, Razor Wind, Silver Wind, Twister
+22b_field_notes#630		...when Whirlpool is used.
+22b_field_notes#631		...when a Dance move is used on its own turn.
+22b_field_notes#632		...when airborne or the abilities Quick Feet or Swift Swim are active.
+22b_field_notes#633		...when an attack is successfully bounced.
+22b_field_notes#634		...when attacker is grounded, these moves boost Speed: All attacking physical contact priority moves, Defense Curl, Feint, Lunge, Ice Ball, Rollout, Steamroller

@@ -1,7 +1,7 @@
 # Pokémon Reborn 19.5.43 日本語化パッチ
 
 Pokémon Reborn（RPG Maker XP / Pokémon Essentials, mkxp-z）の日本語化。
-マップ会話・UI・システムテキストを含む **79,335 / 79,427 行（99.9%）** を翻訳済み。
+マップ会話・UI・システムテキストを含む **80,217 / 80,309 行（99.9%）** を翻訳済み。
 
 **対象バージョン: 19.5.43 専用。** マップIDと行インデックスに依存しているため、
 他のバージョンに当てると内容がずれる。
@@ -10,7 +10,7 @@ Pokémon Reborn（RPG Maker XP / Pokémon Essentials, mkxp-z）の日本語化�
 
 ## 導入
 
-ゲームのインストール先に、次の15ファイルを同じ階層構造で上書きコピーする。
+ゲームのインストール先に、次の17ファイルを同じ階層構造で上書きコピーする。
 
 ```
 patch/Data/japanese.dat
@@ -28,6 +28,8 @@ Scripts/Battle_MoveEffects.rb
 Scripts/Battle_Scene.rb
 Scripts/Battler.rb
 Scripts/BattleData.rb
+Scripts/FieldNotes.rb
+Scripts/Reborn/FieldNoteCompiler.rb
 ```
 
 ゲーム内のオプションで言語を「日本語」に切り替える。
@@ -40,7 +42,7 @@ LANGUAGES = [
 ]
 ```
 
-`jp_translation/tools/sync.sh` は、この15ファイルを Windows 版と Linux（AppImage）版の
+`jp_translation/tools/sync.sh` は、この17ファイルを Windows 版と Linux（AppImage）版の
 両方へ配る。配布先のパスはスクリプト冒頭の `WIN` / `LIN` を書き換える。
 
 ### 元に戻す
@@ -82,6 +84,23 @@ messages.dat のハッシュを引き直す仕組みになっている。
 翻訳した文字列をそのまま描くと空白の箱になる。`pbNarrowFontName` は日本語のときだけ
 システムフォント（かな・漢字を持つ唯一のフォント）を返す。スモール体は
 `Lv.` と HP の数字しか描かないので触っていない。
+
+### 一度だけコンパイルされるデータ（フィールドノート）
+
+フィールドノートの本文は `Scripts/Reborn/FieldNoteCompiler.rb` の中の英語リテラルで、
+初回起動時に `Data/fieldnotes.dat` へ書き出されて以降は再生成されない。フィールド名も
+同様に `Data/fields.dat` に固まる。**この2つは全言語で共有される**ので、中身が言語に
+依存してはいけない。素の実装は本文の一部を `getMoveName` / `getTypeName` で埋めており、
+日本語で初回起動すると訳語が焼き付くうえ、`<icon=typeでんき>` という存在しない
+アイコン名になってタイプアイコンが消える。英語で固定するよう直してある
+（`feMoveName` / `feTypeIcon`。パッチ後も出力が既存の .dat とバイト一致することを
+Ruby で確認済み）。
+
+そのうえで、表示直前に `_INTL` を通して訳す（`fieldNoteName` / `fieldNoteText` /
+`fieldNoteElaboration`）。キーは英語の原文そのままで、訳は
+`work/src/22b_field_notes.jsonl` にセクション22として入れている。本文847件
+（見出し547・詳細300）とフィールド名37件。`Wasteland` と `Cave` はPCボックスの
+壁紙名として既にセクション22にあるので、そちらの訳を共有している。
 
 ### 未訳の92行について
 
@@ -180,5 +199,5 @@ sync.sh         パッチ一式を実機へ配布
 リポジトリのルートはゲームのインストール先そのもの。`.gitignore` はホワイトリスト方式で、
 `/*` で全体を除外してから必要なパスだけを戻している。ゲーム本体（Audio / Graphics /
 Data / エンジンDLL）は含まれない。`Scripts/` もディレクトリごとではなく、改変した
-13ファイルだけを名指しで許可している。ルートに新しいファイルを置くときは
+15ファイルだけを名指しで許可している。ルートに新しいファイルを置くときは
 `.gitignore` に `!` 付きで追記しないと無視されるので注意。

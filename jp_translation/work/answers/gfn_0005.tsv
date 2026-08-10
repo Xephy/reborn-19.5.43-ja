@@ -1,0 +1,122 @@
+22b_field_notes#515	うちおとす <icon=fieldPlus,tts="gains the"> <icon=typePOISON>
+22b_field_notes#516	えんまくの 効果 <icon=fieldUp,tts="boosted">
+22b_field_notes#517	えんまくの 効果 <icon=fieldUp,tts="boosted"> <c=green>+1</c>
+22b_field_notes#518	ソニックブームの ダメージ <icon=fieldChange> <c=green>140</c>
+22b_field_notes#519	ソウルハート <icon=fieldPlus> <c=green>とくぼう上昇</c>
+22b_field_notes#520	音のわざ <icon=fieldUp> <c=green>x1.5</c>
+22b_field_notes#521	特殊の <icon=typeBUG> こうげき <icon=fieldUp> <c=green>x1.5</c>
+22b_field_notes#522	特殊の <icon=typeDARK> こうげき <icon=fieldDown> <c=red>x0.5</c>
+22b_field_notes#523	特殊の <icon=typeFAIRY> こうげき <icon=fieldUp> <c=green>x1.5</c>
+22b_field_notes#524	特殊の <icon=typeNORMAL> こうげき <icon=fieldPlus,tts="gain"> <icon=typeQMARKS> . . .
+22b_field_notes#525	特殊の <icon=typeNORMAL> こうげき <icon=fieldUp> <c=green>x1.5</c>
+22b_field_notes#526	特殊こうげきの <c=orange>計算</c>は . . .
+22b_field_notes#527	すばやさ <icon=fieldDown> <c=red>x0.5</c> ただし <icon=typeWATER> か . . .
+22b_field_notes#528	すばやさ <icon=fieldDown> <c=red>x0.75</c> ただし <icon=typeWATER> か . . .
+22b_field_notes#529	すばやさ <icon=fieldDown> <c=red>x0.75</c> 地上のとき
+22b_field_notes#530	まきびし/どくびしを <c=red>消す</c>
+22b_field_notes#531	はきだす <icon=fieldUp> <c=green>x2</c>
+22b_field_notes#532	はねる <icon=fieldPlus> <c=green>めいちゅう低下</c>
+22b_field_notes#533	ラジアルエッジストームが <c=red>消す</c> . . .
+22b_field_notes#534	スポットライト <c=green>こうげき/とくこう上昇</c> . . .
+22b_field_notes#535	バトルスイッチが <c=orange>能力を変える</c> . . .
+22b_field_notes#536	せいでんきの 発動率 <icon=fieldUp> <c=green>x2</c>
+22b_field_notes#537	ステルスロック <icon=fieldPlus,tts="gains an"> 追加タイプ . . .
+22b_field_notes#538	ステルスロックの ダメージ <icon=fieldUp> <c=green>x2</c>
+22b_field_notes#539	はがねつかい <icon=fieldPlus,tts="additionally works with the"> <icon=typeELECTRIC>
+22b_field_notes#540	はがねつかいの 威力上昇 <icon=fieldChange> <c=green>x2</c>
+22b_field_notes#541	あくしゅうの 発動率 <icon=fieldUp> <c=green>x2</c>
+22b_field_notes#542	ねばねばネットの 効果 <icon=fieldUp> <c=green>x2</c>
+22b_field_notes#543	かいりき <icon=fieldChange> <icon=typeFIGHTING>/<icon=typePSYCHIC>
+22b_field_notes#544	ちからをすいとるの 回復 <icon=fieldUp> <c=green>30 %</c>
+22b_field_notes#545	晴れと あられが <c=green>8</c> ターン続く
+22b_field_notes#546	晴れと すなあらしが <c=green>8</c> ターン続く
+22b_field_notes#547	晴れが <c=green>8</c> ターン続く
+22b_field_notes#548	のみこむ <icon=fieldUp> <c=green>x2</c> <icon=fieldPlus> <c=green>状態異常回復</c> 最大時
+22b_field_notes#549	むしのしらせの 効果 <icon=fieldUp,tts="boosted"> . . .
+22b_field_notes#550	あまいかおり <c=red>ぼうぎょ・とくぼう低下</c>
+22b_field_notes#551	あまいかおり <icon=fieldPlus> <c=green>防御を下げる</c>
+22b_field_notes#552	あまいかおりの 効果 <icon=fieldUp,tts="boosted"> . . .
+22b_field_notes#553	こうごうせい/あさのひざし <icon=fieldChange,tts="recovery changes to"> <c=red>25 % HP</c>
+22b_field_notes#554	おいかぜ <icon=fieldPlus,tts="additionally kicks up"> 強い風
+22b_field_notes#555	おいかぜが <c=green>6</c> ターン続く
+22b_field_notes#556	テクニシャンが 威力 <c=green>80</c> まで適用
+22b_field_notes#557	フラフラダンス <icon=fieldPlus> <c=green>ぼうぎょ低下</c>
+22b_field_notes#558	テレキネシス <icon=fieldPlus> <icon=fieldDown> ぼうぎょ/とくぼう . . .
+22b_field_notes#559	テレパシー <c=green>すばやさ上昇</c> <c=green>x2</c>
+22b_field_notes#560	タイプ相性が <c=orange>反転する</c>
+22b_field_notes#561	タイプ相性が <c=orange>変化する</c> . . .
+22b_field_notes#562	かみなりは <c=green>必ず命中</c>
+22b_field_notes#563	どくびしは <c=red>吸収されない</c>
+22b_field_notes#564	どくどくの めいちゅう <icon=fieldChange> <c=green>100</c>
+22b_field_notes#565	トリックルームが <c=green>8</c> ターン続く
+22b_field_notes#566	タイプわざ <icon=fieldChange,tts="are"> つねに 物理 . . .
+22b_field_notes#567	タイプわざ <icon=fieldChange,tts="are"> つねに 特殊 . . .
+22b_field_notes#568	しょうりのほしの ダメージ <icon=fieldUp> <c=green>x1.5</c>
+22b_field_notes#569	ちくでんが 少しずつ <c=green>HP回復</c>
+22b_field_notes#570	みずがため <icon=fieldPlus> <c=green>とくぼう上昇</c>
+22b_field_notes#571	みずのベール <icon=fieldPlus> <c=green>状態異常回復</c>
+22b_field_notes#572	天気が 強化を <c=red>止める</c> . . .
+22b_field_notes#573	うずしお <icon=fieldPlus> 相手をこんらん
+22b_field_notes#574	うずしおの ダメージ <icon=fieldChange> <c=green>1/6 HP</c>
+22b_field_notes#575	ワイルドボルト <icon=fieldChange,tts="has"> <c=green>反動なし</c>
+22b_field_notes#576	おにびの めいちゅう <icon=fieldChange> <c=green>100</c>
+22b_field_notes#577	ねがいごとの 回復 <icon=fieldChange> <c=green> 75 % HP</c>
+22b_field_notes#578	ねがいごとの 回復 <icon=fieldChange> <c=green>75 % HP</c>
+22b_field_notes#579	ミラクルスキンが つねに <c=green>発動</c>
+22b_field_notes#580	でんじほうの めいちゅう <icon=fieldChange> <c=green>80</c>
+22b_field_notes#581	ダルマモードが <c=green>つねに発動</c>
+22b_field_notes#582	...さらに つぎの わざは 場の すべての ポケモンに 最大HPの 1/2の ダメージを 与える: ばくおんぱ、じならし、じしん、だいばくはつ、じわれ、ハイパーボイス、マグニチュード、じばく、ランドオーバー。
+まもる系の わざで 守られた ポケモンや シェルアーマー・カブトアーマーを もつ ポケモンは この 崩壊ダメージを 受けない。
+22b_field_notes#583	...さらに ダブルバトルで 相手 2体を 対象に する わざは ダメージが 1.25倍に なる。
+22b_field_notes#584	...さらに 必ず 命中する: オーロラビーム、マジカルシャイン、はめつのねがい、ラスターカノン、てんこがすめつぼうのひかり、ラスターパージ、フォトンゲイザー、プリズムレーザー、シグナルビーム、テクノバスター
+22b_field_notes#585	...さらに 必ず 命中し 必ず 相手の 命中率を 下げる。
+22b_field_notes#586	...特に 記載が ない かぎり どんな フィールドも 消す。
+フィールド破壊の ダメージ上昇は 受けない。
+22b_field_notes#587	...一定の 条件に もとづいて 決まる。ポケモンは 1つの 駒にしか なれない。
+22b_field_notes#588	...毎ターン。
+22b_field_notes#589	...相手と 自分 両方の 数値を もとに 計算する。
+22b_field_notes#590	...威力 70以上の わざだけを 選ぶ。
+22b_field_notes#591	...ただし どく・はがねタイプ または つぎの とくせいが ある ときを のぞく: めんえき、ポイズンヒール、どくぼうそう、ふしぎなまもり
+22b_field_notes#592	...ただし どく・はがねタイプを のぞく。
+22b_field_notes#593	...ただし はがねタイプを のぞく。どくタイプは かわりに 回復する。
+22b_field_notes#594	...ただし みずタイプ、空中、または サーフテールや すいすいが ある ときを のぞく。
+22b_field_notes#595	...ただし みずタイプ、または すいすいや はがねつかいが ある ときを のぞく。
+22b_field_notes#596	...ただし わざが みずタイプ または 自分に はがねつかいや すいすいが ある ときを のぞく。
+22b_field_notes#597	...ただし ふくつのこころや がんじょうが ある ときを のぞく。
+22b_field_notes#598	...アシッドポイズンを 使うか ヘドロウェーブを 2回 使った とき どく・はがね以外の ポケモンは すべて ひんしに なる。
+22b_field_notes#599	...アシッドポイズンを 使うか ヘドロウェーブを 2回 使った とき。
+22b_field_notes#600	...アシッドポイズンを 使うか つぎの わざを 2回 使った とき: クリアスモッグ、どくガス、スモッグ
+22b_field_notes#601	...アシッドポイズン、ヘドロウェーブを 使った とき。
+22b_field_notes#602	...ふぶき、こごえるせかい、ジオフリーズを 使うか あられが 3ターン 続いた とき。
+22b_field_notes#603	...ふぶき、こごえるせかい、ジオフリーズを 使った とき。
+22b_field_notes#604	...とびはねる、ダイビング、そらをとぶ、フリーフォールを 使った とき。
+22b_field_notes#605	...じならし、ワールズエンドフォール、じしん、じわれ、マグニチュード、ランドオーバーを 2回 使った とき。こらえるを 使った ポケモンや がんじょうの ポケモンは HP満タンなら HP1で 残る ことが ある。カブトアーマー・シェルアーマーの ポケモンは ダメージが 50%に なる。プリズムアーマー・ハードロックの ポケモンは 33%に なる。まもる系の わざで 守られた ポケモンや ぼうだん・いしあたまの ポケモンは この ダメージを 受けない。
+22b_field_notes#606	...じならし、ほうでん、じしん、だいばくはつ、じわれ、てんこがすめつぼうのひかり、マグニチュード、じばく、ランドオーバーを 使った とき。
+22b_field_notes#607	...じならし、じしん、じわれ、マグニチュード、ランドオーバーを 使った とき。
+22b_field_notes#608	...チャージビーム、ほうでん、ギガボルト、プラズマシャワー、パラボラチャージ、ワイルドボルトを 使った とき。
+22b_field_notes#609	...あくのはどう、ダークホール、てんこがすめつぼうのひかり、ナイトバーストを 使った とき。
+22b_field_notes#610	...ぼうぎょが 上がったか みがわりが ある とき ぼうだんで 防げる こうげきは 岩の かげに 隠れて かわせる。
+22b_field_notes#611	...ぼうぎょが 上がった とき。
+22b_field_notes#612	...ダイヤストーム、パワージェムを 使った とき。
+22b_field_notes#613	...ダイビング、じゅうりょくを 使った とき。
+22b_field_notes#614	...あめや みずあそびが ない ときに ふんか、だいばくはつ、ほのおのちかい、はじけるほのお、ねっぷう、やきつくす、ダイナミックフルフレイム、ふんえん、ビックリヘッド、かえんだん、じばくを 使った とき。
+22b_field_notes#615	...あめや みずあそびが ない ときに ふんか、ほのおのちかい、はじけるほのお、ねっぷう、やきつくす、ダイナミックフルフレイム、ふんえん、ビックリヘッド、かえんだんを 使った とき。
+22b_field_notes#616	...ふんか、ほのおのちかい、はじけるほのお、ねっぷう、やきつくす、ダイナミックフルフレイム、ふんえん、ビックリヘッド、かえんだんを 使った とき または 氷の下が すでに 水面で じならし、じしん、じわれ、マグニチュード、ランドオーバーを 使った とき。ねっとうや スチームバーストを 2回 使っても 水面に なる。
+22b_field_notes#617	...ふんか、ほのおのちかい、はじけるほのお、ねっぷう、やきつくす、ダイナミックフルフレイム、ふんえん、ビックリヘッド、かえんだんを 使った とき。
+22b_field_notes#618	...ジオコントロールを 使った とき または じゅうりょくを 使った とき その 効果が 続く あいだ。
+22b_field_notes#619	...こごえるせかい、アクアトルネード、わだつみのシンフォニア、ジオフリーズを 使うか だくりゅう、うたかたのアリア、なみのりを 2回 使った とき。
+22b_field_notes#620	...じゅうりょくを 使った とき。
+22b_field_notes#621	...あられが ふって いる とき。
+22b_field_notes#622	...てんこがすめつぼうのひかりを 使った とき。
+22b_field_notes#623	...どく・はがねタイプ または つぎの とくせいが ある とき: めんえき、ポイズンヒール、どくぼうそう、ふしぎなまもり
+22b_field_notes#624	...ポケモンが 場に 出た とき。
+22b_field_notes#625	...ポケモンが 水中に いる とき (x4) または つぎの とくせいを もつ とき (x2): かんそうはだ、ほのおのからだ、マグマのよろい、ちょすい
+22b_field_notes#626	...ポケモンが みずタイプに 弱く すいすいを もたない とき。
+22b_field_notes#627	...すなあらしや あられの とき または てんこがすめつぼうのひかりを 使った とき。
+22b_field_notes#628	...シードフレアを 使った とき。
+22b_field_notes#629	...強い風の あいだ ひこうタイプの 特殊こうげき すべてと ようせいのかぜ、かぜおこし、こごえるかぜ、あやしいかぜ、かまいたち、ぎんいろのかぜ、たつまきの 威力が さらに 上がる
+22b_field_notes#630	...うずしおを 使った とき。
+22b_field_notes#631	...そのターンに おどり系の わざを 使った とき。
+22b_field_notes#632	...空中に いる とき または はやあしや すいすいが ある とき。
+22b_field_notes#633	...こうげきを はね返す ことに 成功した とき。
+22b_field_notes#634	...攻撃側が 地上に いる とき つぎの わざは すばやさを 上げる: 接触する 物理の 先制わざ すべて、まるくなる、フェイント、とびかかる、アイスボール、ころがる、ハードローラー

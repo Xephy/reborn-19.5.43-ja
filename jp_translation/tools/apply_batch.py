@@ -43,6 +43,11 @@ TTS = re.compile(r'\\tts\[[^\]]*\]')
 # and any pattern tight enough to validate them rejects real source data.
 CH = re.compile(r'\\ch\[[^\]]*\]')
 
+# Markup tags: <icon=fieldUp>, <c=green>, </c>, <fs=28>, <b>. Only the field
+# notes are dense enough in these for a dropped tag to go unnoticed, so the
+# check is opt-in via --tags rather than folded into the placeholder rule.
+TAG = re.compile(r'<[^<>]*>')
+
 # Established convention in the approved text: halfwidth ! and ?, which also
 # cost half the width of the fullwidth forms in the message window.
 WIDE_PUNCT = str.maketrans('！？', '!?')
@@ -76,10 +81,33 @@ def compatible(ja, en):
     return not (b - a) and set(extra) <= {'\\PN'}
 
 
+ROW_START = re.compile(r'[^\t]+#\d+\t')
+
+
+def records(path):
+    """Yield (line number, row) from an answer file, one row per id.
+
+    A handful of source strings contain a newline of their own (the ability
+    descriptions on the field-note detail pages list one clause per line), so a
+    row is not always a line. Anything that does not open with an `id<TAB>` is
+    a continuation of the row above it.
+    """
+    rows = []
+    for ln, line in enumerate(open(path, encoding='utf-8'), 1):
+        line = line.rstrip('\n')
+        if ROW_START.match(line) or not rows:
+            rows.append([ln, line])
+        else:
+            rows[-1][1] += '\n' + line
+    return rows
+
+
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument('files', nargs='+')
     ap.add_argument('--dry-run', action='store_true')
+    ap.add_argument('--tags', action='store_true',
+                    help='also require <...> markup tags to match the English')
     a = ap.parse_args()
 
     paths = []
@@ -89,7 +117,7 @@ def main():
     answers = {}
     dupes = 0
     for p in paths:
-        for ln, line in enumerate(open(p, encoding='utf-8'), 1):
+        for ln, line in records(p):
             line = line.rstrip('\n')
             if not line.strip():
                 continue
@@ -138,6 +166,10 @@ def main():
                 continue
             if not compatible(ja, r['en']):
                 problems.append(f'{name}#{idx}: placeholder mismatch | {r["en"]} | {ja}')
+                rejected += 1
+                continue
+            if a.tags and collections.Counter(TAG.findall(ja)) != collections.Counter(TAG.findall(r['en'])):
+                problems.append(f'{name}#{idx}: tag mismatch | {r["en"]} | {ja}')
                 rejected += 1
                 continue
             # Identity is the right answer for symbols, digits, acronyms and the

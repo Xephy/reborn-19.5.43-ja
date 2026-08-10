@@ -1,0 +1,122 @@
+22b_field_notes#635		...when attacker is grounded.
+22b_field_notes#636		...when creating or transforming any field effect.
+22b_field_notes#637		...when destroying any field effect.
+22b_field_notes#638		...when grounded and Poison type, Dry Skin and Water Absorb slowly restore HP.
+22b_field_notes#639		...when grounded and not Fire type.
+22b_field_notes#640		...when grounded, activates Hydration, Schooling, Surge Surfer, Swift Swim, Torrent, and Water Compaction each turn.
+22b_field_notes#641		...when grounded, activates Merciless, Poison Heal, Schooling, Surge Surfer, Swift Swim, Toxic Boost and Water Compaction each turn.
+22b_field_notes#642		...when grounded, activates Poison Heal, Toxic Boost and Merciless.
+22b_field_notes#643		...when grounded, and not Poison or Steel type.
+22b_field_notes#644		...when grounded, each turn.
+22b_field_notes#645		...when grounded.
+22b_field_notes#646		...when inside Aqua Ring or one of these abilities is active: Flame Body, Flare Boost, Flash Fire, Heatproof, Magma Armor, Water Bubble, Water Veil
+22b_field_notes#647		...when non-contact.
+22b_field_notes#648		...when one of the following abilities is active: Immunity, Poison Heal, Toxic Boost, Wonder Guard
+22b_field_notes#649		...when one of these abilities is active: Fluffy, Grass Pelt, Ice Body, Leaf Guard
+22b_field_notes#650		...when one of these moves is used and Water Surface isn't beneath the ice: Bulldoze, Earthquake, Fissure, Magnitude, Tectonic Rage.
+22b_field_notes#651		...when one of these moves is used in the absence of Damp: Eruption, Explosion, Fire Pledge, Flame Burst, Heat Wave, Incinerate, Inferno Overdrive, Lava Plume, Mind Blown, Searing Shot, Self-Destruct.
+Pokémon behind applicable protect moves, or having Flash Fire are immune to the damage.
+22b_field_notes#652		...when opponent is grounded.
+22b_field_notes#653		...when target is grounded.
+22b_field_notes#654		...when the abilities Magma Armor or Flame Body are active.
+22b_field_notes#655		...when the attacker has one of these abilities: Sheer Force, Guts, Huge Power, Pure Power
+22b_field_notes#656		...when the attacker's base Speed is higher than the target's.
+22b_field_notes#657		...when the move knocks out a Pokémon.
+22b_field_notes#658		...when the target does not have Unnerve, and one of these abilities is active: Inner Focus, Own Tempo, Pure Power, Sand Veil, Steadfast
+22b_field_notes#659		...when the target has Adaptability, Synchronize, Anticipation or Telepathy.
+22b_field_notes#660		...when the target has Oblivious, Simple, Unaware or Klutz, or is confused.
+22b_field_notes#661		...when the weather is Sunny, for as long as the Sun lasts.
+22b_field_notes#662		...when transforming any field effect.
+22b_field_notes#663		...when used in succession, for 4 turns. These can also reset the duration of the field once it is created.
+22b_field_notes#664		...when used in succession, for 5 turns. These can also reset the duration of the field once it is created.
+22b_field_notes#665		...when used on grounded targets.
+22b_field_notes#666		...while no field effect is active.
+22b_field_notes#667		...with Inner Focus can't get confused.
+22b_field_notes#668		A boosted Attack stat increases the chance of high rolls. Lowered Attack decreases the chance of high rolls, regardless of ability.
+22b_field_notes#669		Accelerock, Bulldoze, Earthquake, Magnitude, Rock Climb, Strength
+22b_field_notes#670		Acid Armor, Noble Roar, Swords Dance
+22b_field_notes#671		Acid Downpour, Gunk Shot, Octazooka, Sludge, Sludge Bomb and Sludge Wave inflict a random status unless the target has Poison or Steel type, or one of these abilities: Immunity, Poison Heal, Toxic Boost
+22b_field_notes#672		Acid Spray, Bubble, Bubble Beam, Clear Smog, Smog, Sparkling Aria
+22b_field_notes#673		Acid, Acid Spray, Brine, Mud Bomb, Mud Shot, Mud-Slap, Smack Down, Thousand Waves
+22b_field_notes#674		Acid, Acid Spray, Grass Knot
+22b_field_notes#675		Acrobatics, Fiery Dance, Fire Lash, First Impression, Fly, Petal Dance, Power Whip, Revelation Dance, Vine Whip
+22b_field_notes#676		Aeroblast, Aurora Beam, Blue Flare, Bolt Strike, Continental Crush, Core Enforcer, Crush Grip, Dazzling Gleam, Diamond Storm, Dragon Ascent, Earth Power, Eruption, Flash Cannon, Fleur Cannon, Freeze Shock, Fusion Bolt, Fusion Flare, Genesis Supernova, Glaciate, Ice Burn, Judgment, Land's Wrath, Light That Burns The Sky, Luster Purge, Magma Storm, Menacing Moonraze Maelstrom, Mind Blown, Mirror Shot, Mist Ball, Moongeist Beam, Multi-Attack, Oblivion Wing, Origin Pulse, Photon Geyser, Plasma Fists, Power Gem, Precipice Blades, Prismatic Laser, Psycho Boost, Psystrike, Relic Song, Roar of Time, Sacred Fire, Sacred Sword, Searing Shot, Searing Sunraze Smash, Secret Sword, Seed Flare, Shadow Force, Signal Beam, Soul-Stealing 7-Star Strike, Spectral Thief, Steam Eruption, Sunsteel Strike, Techno Blast, Thousand Arrows, Thousand Waves, V-create
+22b_field_notes#677		Aeroblast, Crush Grip, Diamond Storm, Doom Desire, Dragon Ascent, Fleur Cannon, Genesis Supernova, Hyperspace Hole, Land's Wrath, Luster Purge, Menacing Moonraze Maelstrom, Mist Ball, Moongeist Beam, Origin Pulse, Precipice Blades, Prismatic Laser, Psycho Boost, Psystrike, Relic Song, Roar of Time, Searing Sunraze Smash, Secret Sword, Spacial Rend, Sunsteel Strike, V-create
+22b_field_notes#678		Air Slash, Ancient Power, Fleur Cannon, Leaf Blade, Magical Leaf, Menacing Moonraze Maelstrom, Moongeist Beam, Mystical Fire, Night Slash, Oceanic Operetta, Psycho Cut, Relic Song, Smart Strike, Solar Blade, Sparkling Aria
+22b_field_notes#679		All physical Fighting moves, Blaze Kick, Body Slam, Bounce, Brutal Swing, Bulldoze, Continental Crush, Crabhammer, Dragon Hammer, Dragon Rush, Dual Chop, Earthquake, Giga Impact, Heat Crash, Heavy Slam, High Horsepower, Ice Hammer, Icicle Crash, Iron Tail, Magnitude, Meteor Mash, Pound, Sky Drop, Slam, Smack Down, Stomp, Stomping Tantrum, Strength, Wood Hammer
+22b_field_notes#680		All special Flying attacks, Fire Spin, Leaf Tornado, Razor Wind, Twister and Whirlpool stir up ash, lowering all active Pokémon's Accuracy.
+22b_field_notes#681		All special Flying moves, Bubble, Bubble Beam, Energy Ball, Sparkling Aria
+22b_field_notes#682		Allies avoid damage from their partners' moves.
+22b_field_notes#683		Anchor Shot
+22b_field_notes#684		Ancient Power, Black Hole Eclipse, Comet Punch, Draco Meteor, Future Sight, Hyperspace Fury, Hyperspace Hole, Meteor Mash, Moonblast, Spacial Rend, Swift, Vacuum Wave
+22b_field_notes#685		Ancient Power, Continental Crush, Fake Out, Feint, Feint Attack, First Impression, Psychic, Secret Power, Shadow Sneak, Shattered Psyche, Smart Strike, Strength, Sucker Punch
+22b_field_notes#686		Ancient Power, Continental Crush, Psychic, Secret Power, Shattered Psyche, Strength
+22b_field_notes#687		Ancient Power, Diamond Storm, Judgment, Multi-Attack, Power Gem, Rock Climb, Rock Smash, Rock Tomb, Strength
+22b_field_notes#688		Ancient Power, Extreme Speed, Judgment, Magical Leaf, Mystical Fire, Return, Sacred Fire, Sacred Sword
+22b_field_notes#689		Anticipation boosts Special Attack by two stages upon switching in.
+22b_field_notes#690		Applies Baneful Bunker to the user.
+22b_field_notes#691		Applies Focus Energy to the user.
+22b_field_notes#692		Applies King's Shield to the user.
+22b_field_notes#693		Applies Spiky Shield to the user.
+22b_field_notes#694		Applies to Outrage, Petal Dance and Thrash.
+22b_field_notes#695		Aromatic Mist, Cosmic Power
+22b_field_notes#696		At Stage 3 and later, Sweet Scent additionally lowers Defense and Special Defense. Sweet Scent's effect increases (x2,x3) at Stages (4,5).
+22b_field_notes#697		Attack Order, Cut, Electroweb
+22b_field_notes#698		Aura Sphere, Dazzling Gleam, Doom Desire, Fairy Wind, Icy Wind, Magical Leaf, Mist Ball, Moonblast, Moongeist Beam, Mystical Fire, Silver Wind, Steam Eruption
+22b_field_notes#699		Aura Sphere, Focus Blast, Stored Power, Zen Headbutt
+22b_field_notes#700		Aura Sphere, Hex, Magical Leaf, Mind Blown, Moonblast, Mystical Fire
+22b_field_notes#701		Aurora Beam, Dark Pulse, Dazzling Gleam, Diamond Storm, Doom Desire, Flash Cannon, Luster Purge, Menacing Moonraze Maelstrom, Mirror Shot, Moongeist Beam, Night Daze, Night Slash, Photon Geyser, Power Gem, Shadow Ball, Shadow Bone, Shadow Claw, Shadow Force, Shadow Punch, Shadow Sneak, Signal Beam, Techno Blast
+22b_field_notes#702		Aurora Beam, Dazzling Gleam, Doom Desire, Flash Cannon, Luster Purge, Menacing Moonraze Maelstrom, Mirror Shot, Moongeist Beam, Photon Geyser, Signal Beam, Techno Blast
+22b_field_notes#703		Aurora Beam, Dazzling Gleam, Dragon Pulse, Fire Pledge, Fleur Cannon, Grass Pledge, Heart Stamp, Hidden Power, Judgment, Mist Ball, Moonblast, Mystical Fire, Oceanic Operetta, Prismatic Laser, Relic Song, Sacred Fire, Secret Power, Silver Wind, Solar Beam, Solar Blade, Sparkling Aria, Tri Attack, Twinkle Tackle, Water Pledge, Weather Ball, Zen Headbutt
+22b_field_notes#704		Aurora Beam, Dazzling Gleam, Flash Cannon, Luster Purge, Mirror Shot, Moonblast, Photon Geyser, Signal Beam, Solar Beam, Techno Blast
+22b_field_notes#705		Autotomize, Iron Defense, Metal Sound, Shift Gear
+22b_field_notes#706		Avalanche, Circle Throw, Eruption, Fairy Wind, Hyper Voice, Icy Wind, Ominous Wind, Razor Wind, Silver Wind, Storm Throw, Thunder, Twister, Vital Throw
+22b_field_notes#707		Avalanche, Circle Throw, Fairy Wind, Glaciate, Hyper Voice, Ominous Wind, Powder Snow, Razor Wind, Silver Wind, Storm Throw, Twister, Vital Throw
+22b_field_notes#708		Battle Armor, Power of Alchemy and Shell Armor boost Defense upon switching in.
+22b_field_notes#709		Black Hole Eclipse, Comet Punch, Draco Meteor, Hyperspace Fury, Hyperspace Hole, Menacing Moonraze Maelstrom, Meteor Mash, Moongeist Beam, Searing Sunraze Smash, Spacial Rend, Sunsteel Strike, Swift
+22b_field_notes#710		Black Hole Eclipse, Prismatic Laser
+22b_field_notes#711		Blaze, Flare Boost, Flash Fire
+22b_field_notes#712		Blizzard, Glaciate, Subzero Slammer
+22b_field_notes#713		Bloom Doom, Flower Shield, Growth, Ingrain, Rain Dance, Rototiller, Sunny Day, Water Sport.
+Additionally, these abilities grow the field one stage on switch-in: Drizzle, Drought, Flower Gift, Flower Veil
+22b_field_notes#714		Boosts Attack and Special Attack and lays Stealth Rocks on both sides of the battle.
+22b_field_notes#715		Boosts Attack and Special Attack but badly poisons the user.
+22b_field_notes#716		Boosts Attack and applies Helping Hand to the user.
+22b_field_notes#717		Boosts Attack by two stages, but lowers Accuracy.
+22b_field_notes#718		Boosts Attack, Special Attack and Speed, but applies Fire Spin to the user.
+22b_field_notes#719		Boosts Defense and Special Defense and applies Ingrain to the user.
+22b_field_notes#720		Boosts Defense and applies Ingrain to the user.
+22b_field_notes#721		Boosts Defense and applies Shell Trap to the user.
+22b_field_notes#722		Boosts Defense and makes the user ???-type.
+22b_field_notes#723		Boosts Defense by two stages but damages the user with Stealth Rocks.
+22b_field_notes#724		Boosts Defense, Special Defense and Speed, but applies Sand Tomb to the user.
+22b_field_notes#725		Boosts Defense, but damages the user with Stealth Rocks.
+22b_field_notes#726		Boosts Evasion and applies Magic Coat to the user.
+22b_field_notes#727		Boosts Special Attack and applies Flash Fire's power boost to the user.
+22b_field_notes#728		Boosts Special Attack and applies Laser Focus to the user.
+22b_field_notes#729		Boosts Special Attack and applies Magic Coat to the user.
+22b_field_notes#730		Boosts Special Attack and applies Wish to the user.
+22b_field_notes#731		Boosts Special Attack by two stages, but confuses the user.
+22b_field_notes#732		Boosts Special Attack by two stages, but lowers Accuracy.
+22b_field_notes#733		Boosts Special Defense and applies Aqua Ring to the user.
+22b_field_notes#734		Boosts Special Defense and applies Ingrain to the user, and makes the field grow 1 Stage.
+22b_field_notes#735		Boosts Special Defense and applies Magic Coat to the user.
+22b_field_notes#736		Boosts Special Defense and applies Magnet Rise to the user.
+22b_field_notes#737		Boosts Special Defense and applies Wish to the user.
+22b_field_notes#738		Boosts Speed and applies Aqua Ring, but poisons the user.
+22b_field_notes#739		Boosts Speed and applies Charge to the user.
+22b_field_notes#740		Boosts Speed and applies Soak to the user.
+22b_field_notes#741		Boosts Speed by two stages, but damages the user with Spikes.
+22b_field_notes#742		Boosts all stats, but makes the user recharge.
+22b_field_notes#743		Bright Powder and Lax Incense boost Evasion when switched in.
+22b_field_notes#744		Brine, Gunk Shot, Hydro Vortex, Mud Bomb, Mud Shot, Mud-Slap, Muddy Water, Sludge Wave, Smack Down, Surf, Thousand Arrows
+22b_field_notes#745		Bubble Beam, Charge Beam, Fleur Cannon, Hyper Beam, Ice Beam, Moongeist Beam, Origin Pulse, Psybeam, Solar Beam and Tri-Attack are boosted when hitting targets with raised evasion.
+22b_field_notes#746		Bug-type attacks increase in base power (x1.5,x2) at Stages (2,4).
+22b_field_notes#747		Bulldoze, Earthquake, Magnitude
+22b_field_notes#748		Bulldoze, Earthquake, Magnitude, Muddy Water, Surf
+22b_field_notes#749		Bulldoze, Earthquake, Magnitude, Rock Climb, Strength
+22b_field_notes#750		Burn Up, Dig, Heat Wave, Needle Arm, Pin Missile, Sand Tomb, Searing Sunraze Smash, Solar Beam, Solar Blade, Thousand Waves
+22b_field_notes#751		Calm Mind, Cosmic Power, Kinesis, Meditate, Nasty Plot
+22b_field_notes#752		Calm Mind, Kinesis, Meditate, Sand Attack
+22b_field_notes#753		Calm Mind, Nasty Plot
+22b_field_notes#754		Camouflage and Mimicry choose one of Fire, Water, Grass or Psychic typings in that repeating pattern.

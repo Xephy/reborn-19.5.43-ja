@@ -1,0 +1,120 @@
+22b_field_notes#155	<icon=typeELECTRIC> わざ <icon=fieldUp> <c=green>x1.3</c> 条件 . . .
+22b_field_notes#156	<icon=typeELECTRIC> わざ <icon=fieldUp> <c=green>x1.5</c>
+22b_field_notes#157	<icon=typeELECTRIC> わざ <icon=fieldUp> <c=green>x1.5</c> 条件 . . .
+22b_field_notes#158	<icon=typeELECTRIC> わざ <icon=fieldUp> <c=green>x2</c>
+22b_field_notes#159	<icon=typeFAIRY> ポケモンの とくぼう <icon=fieldUp> <c=green>x1.5</c>
+22b_field_notes#160	<icon=typeFAIRY> わざ <icon=fieldUp> <c=green>x1.3</c>
+22b_field_notes#161	<icon=typeFAIRY> わざ <icon=fieldUp> <c=green>x1.5</c>
+22b_field_notes#162	<icon=typeFIGHTING> ポケモン または . . .
+22b_field_notes#163	<icon=typeFIRE> わざ <icon=fieldDown> <c=red>x0.5</c>
+22b_field_notes#164	<icon=typeFIRE> わざ <icon=fieldDown> <c=red>x0.5</c> 条件 . . .
+22b_field_notes#165	<icon=typeFIRE> わざに <icon=fieldPlus,tts="gain the"> <icon=typeDRAGON>
+22b_field_notes#166	<icon=typeFIRE> わざ <icon=fieldUp> <c=green>x1.1</c>
+22b_field_notes#167	<icon=typeFIRE> わざ <icon=fieldUp> <c=green>x1.5</c>
+22b_field_notes#168	<icon=typeFIRE> わざ <icon=fieldUp> <c=green>x1.5</c> 条件 . . .
+22b_field_notes#169	<icon=typeFLYING> わざ <icon=fieldDown> <c=red>x0.5</c> 条件 . . .
+22b_field_notes#170	<icon=typeFLYING> わざ <icon=fieldUp> <c=green>x1.5</c>
+22b_field_notes#171	<icon=typeGHOST> ポケモンの ぼうぎょ面 <icon=fieldUp> <c=green>x1.5</c>
+22b_field_notes#172	<icon=typeGHOST> わざ <icon=fieldDown> <c=red>x0.5</c>
+22b_field_notes#173	<icon=typeGRASS> わざ <icon=fieldDown> <c=red>x0.5</c> 条件 . . .
+22b_field_notes#174	<icon=typeGRASS> わざに <icon=fieldPlus,tts="gain the"> <icon=typePOISON>
+22b_field_notes#175	<icon=typeGRASS> わざ <icon=fieldUp,tts="boosted"> . . .
+22b_field_notes#176	<icon=typeGRASS> わざ <icon=fieldUp> <c=green>x1.5</c>
+22b_field_notes#177	<icon=typeGRASS> わざ <icon=fieldUp> <c=green>x1.5</c> 条件 . . .
+22b_field_notes#178	<icon=typeGROUND> ポケモンの とくぼう <icon=fieldUp> <c=green>x1.5</c>
+22b_field_notes#179	<icon=typeGROUND> わざに <icon=fieldPlus,tts="gain"> <icon=typeWATER>
+22b_field_notes#180	<icon=typeGROUND> わざは <icon=typeFLYING>/ふゆうにも 命中
+22b_field_notes#181	<icon=typeICE> ポケモンの ぼうぎょ <icon=fieldUp> <c=green>x1.5</c> 条件 . . .
+22b_field_notes#182	<icon=typeICE> わざ <icon=fieldDown> <c=red>x0.5</c>
+22b_field_notes#183	<icon=typeICE> わざ <icon=fieldUp> <c=green>x1.5</c>
+22b_field_notes#184	<icon=typePOISON> わざ <icon=fieldUp> <c=green>x1.5</c>
+22b_field_notes#185	<icon=typePOISON> わざ <icon=fieldUp> <c=green>x1.5</c> 条件 . . .
+22b_field_notes#186	<icon=typePSYCHIC> わざ <icon=fieldUp> <c=green>x1.2</c>
+22b_field_notes#187	<icon=typePSYCHIC> わざ <icon=fieldUp> <c=green>x1.5</c>
+22b_field_notes#188	<icon=typePSYCHIC> わざ <icon=fieldUp> <c=green>x1.5</c> 条件 . . .
+22b_field_notes#189	<icon=typeROCK> わざに <icon=fieldPlus,tts="gain the"> <icon=typeICE>
+22b_field_notes#190	<icon=typeROCK> わざ <icon=fieldUp> <c=green>x1.5</c>
+22b_field_notes#191	<icon=typeSTEEL> わざ <icon=fieldUp> <c=green>x1.5</c>
+22b_field_notes#192	<icon=typeSTEEL> わざ <icon=fieldUp> <c=green>x2</c> 対 <icon=typeDRAGON>
+22b_field_notes#193	<icon=typeWATER> わざ <icon=fieldChange,tts="change to"> x1 対 <icon=typeWATER>
+22b_field_notes#194	<icon=typeWATER> わざ <icon=fieldDown> <c=red>x0.5</c>
+22b_field_notes#195	<icon=typeWATER> わざ <icon=fieldDown> <c=red>x0.5</c> 条件 . . .
+22b_field_notes#196	<icon=typeWATER> わざ <icon=fieldDown> <c=red>x0.9</c>
+22b_field_notes#197	<icon=typeWATER> わざに <icon=fieldPlus,tts="gain the"> <icon=typePOISON>
+22b_field_notes#198	<icon=typeWATER> わざ <icon=fieldUp> <c=green>x1.5</c>
+22b_field_notes#199	めいちゅう/回避率 <c=red>無視</c> 条件 . . .
+22b_field_notes#200	とけるの 効果 <icon=fieldUp,tts="boosted">
+22b_field_notes#201	とけるの 効果 <icon=fieldUp,tts="boosted"> <c=green>+1</c>
+22b_field_notes#202	アシッドポイズンデリート <c=red>リセット</c><c=orange>第1段階</c>
+22b_field_notes#203	アクロバット <icon=fieldChange,tts="is"> つねに <c=green>2倍</c>ダメージ
+22b_field_notes#204	<c=orange>エレメンタルシード</c>が 発動 . . .
+22b_field_notes#205	<c=orange>マジカルシード</c>が 発動 . . .
+22b_field_notes#206	<c=orange>シンセティックシード</c>が 発動 . . .
+22b_field_notes#207	<c=orange>テルリックシード</c>が 発動 . . .
+22b_field_notes#208	スカイスキンの 威力上昇 <icon=fieldChange> <c=green>x1.5</c>
+22b_field_notes#209	ゆうばくの ダメージ <icon=fieldChange> <c=green>50 % HP</c>
+22b_field_notes#210	空中の ポケモンの ぼうぎょ面 <icon=fieldDown> <c=red>x0.9</c>
+22b_field_notes#211	すべての ポケモン <icon=fieldFaint> 条件 . . .
+22b_field_notes#212	すべての ポケモン <icon=fieldfaint> 条件 . . .
+22b_field_notes#213	すべての ポケモンが 毎ターン <icon=fieldPoisonStatus>
+22b_field_notes#214	味方は <c=green>ダメージを 受けない</c> . . .
+22b_field_notes#215	アンプリフィールドロック <icon=fieldPlus,tts="plus"> <c=green>3</c> ターン . . .
+22b_field_notes#216	きけんよち <icon=fieldPlus> <c=green>とくこう</c> 上昇 . . .
+22b_field_notes#217	アクアリングは つかいてに <c=red>ダメージ</c> . . .
+22b_field_notes#218	アクアリングの 回復 <icon=fieldChange> <c=green>1/8 HP</c>
+22b_field_notes#219	わざ <icon=fieldUp> <c=green>x1.3</c> <c=orange>変身</c>の とき . . .
+22b_field_notes#220	わざ <icon=fieldUp> <c=green>x1.3</c> <c=red>破壊</c>の とき . . .
+22b_field_notes#221	わざは <c=red>1</c> ターン後に 疲労 . . .
+22b_field_notes#222	<c=orange>燃えるフィールド</c>に なる 条件 . . .
+22b_field_notes#223	<c=orange>腐食フィールド</c>に なる 条件 . . .
+22b_field_notes#224	<c=orange>腐食ミストフィールド</c>に なる 条件 . . .
+22b_field_notes#225	<c=orange>クリスタルのどうくつ</c>に なる 条件 . . .
+22b_field_notes#226	<c=orange>暗黒クリスタルのどうくつ</c>に なる 条件 . . .
+22b_field_notes#227	<c=orange>工場フィールド</c>に なる 条件 . . .
+22b_field_notes#228	<c=orange>グラスフィールド</c>に なる 条件 . . .
+22b_field_notes#229	<c=orange>氷のフィールド</c>に なる 条件 . . .
+22b_field_notes#230	<c=orange>ミストフィールド</c>に なる 条件 . . .
+22b_field_notes#231	<c=orange>濁った水面</c>に なる 条件 . . .
+22b_field_notes#232	<c=orange>ショートフィールド</c>に なる 条件 . . .
+22b_field_notes#233	<c=orange>雪山</c>に なる 条件 . . .
+22b_field_notes#234	<c=orange>星空アリーナ</c>に なる 条件 . . .
+22b_field_notes#235	<c=orange>水中</c>に なる 条件 . . .
+22b_field_notes#236	<c=orange>水面</c>に なる 条件 . . .
+22b_field_notes#237	<c=orange>燃えるフィールド</c>に なる 条件 . . .
+22b_field_notes#238	<c=orange>どうくつ</c>に なる 条件 . . .
+22b_field_notes#239	<c=orange>山</c>に なる 条件 . . .
+22b_field_notes#240	はらだいこは <c=green>ぼうぎょ/とくぼう</c> 上昇
+22b_field_notes#241	ふぶきの めいちゅう <icon=fieldChange> <c=green>90</c>
+22b_field_notes#242	ほごしょく <icon=fieldChange> <icon=typeDARK>
+22b_field_notes#243	ほごしょく <icon=fieldChange> <icon=typeDRAGON>
+22b_field_notes#244	ほごしょく <icon=fieldChange> <icon=typeELECTRIC>
+22b_field_notes#245	ほごしょく <icon=fieldChange> <icon=typeFAIRY>
+22b_field_notes#246	ほごしょく <icon=fieldChange> <icon=typeFIRE>
+22b_field_notes#247	ほごしょく <icon=fieldChange> <icon=typeGRASS>
+22b_field_notes#248	ほごしょく <icon=fieldChange> <icon=typeGROUND>
+22b_field_notes#249	ほごしょく <icon=fieldChange> <icon=typeICE>
+22b_field_notes#250	ほごしょく <icon=fieldChange> <icon=typeNORMAL>
+22b_field_notes#251	ほごしょく <icon=fieldChange> <icon=typeNORMAL> . . .
+22b_field_notes#252	ほごしょく <icon=fieldChange> <icon=typePOISON>
+22b_field_notes#253	ほごしょく <icon=fieldChange> <icon=typePSYCHIC>
+22b_field_notes#254	ほごしょく <icon=fieldChange> <icon=typeQMARKS>
+22b_field_notes#255	ほごしょく <icon=fieldChange> <icon=typeROCK>
+22b_field_notes#256	ほごしょく <icon=fieldChange> <icon=typeSTEEL>
+22b_field_notes#257	ほごしょく <icon=fieldChange> <icon=typeWATER>
+22b_field_notes#258	ほごしょく <icon=fieldChange> ランダムな タイプ
+22b_field_notes#259	ほごしょく <icon=fieldChange> 変動する タイプ . . .
+22b_field_notes#260	一部の とくせいで <c=green>めいちゅう</c> 上昇 . . .
+22b_field_notes#261	一部の とくせいで <c=green>回避率</c> 上昇 . . .
+22b_field_notes#262	一部の とくせいで <c=green>HP回復</c> . . .
+22b_field_notes#263	一部の とくせいで <c=green>HP回復</c> 条件 . . .
+22b_field_notes#264	一部の とくせい <icon=fieldPlus> <icon=fieldUp,tts="boost"> ぼうぎょ . . .
+22b_field_notes#265	一部の とくせい <icon=fieldPlus> <icon=fieldUp,tts="boost"> とくぼう . . .
+22b_field_notes#266	一部の とくせいで タイプ変化 . . .
+22b_field_notes#267	一部の とくせいの 確率 <icon=fieldUp> <c=green>x2</c>
+22b_field_notes#268	一部の わざは <c=green>相手全体</c>に 当たる
+22b_field_notes#269	一部の わざで <c=orange>成長</c> 1 <c=orange>段階</c> . . .
+22b_field_notes#270	一部の わざが <c=orange>反射</c> 条件 . . .
+22b_field_notes#271	一部の わざ <icon=fieldChange,tts="change to"> <icon=typeFAIRY> . . .
+22b_field_notes#272	一部の わざ <icon=fieldChange,tts="change to"> <icon=typeSTEEL> . . .
+22b_field_notes#273	一部の わざ <icon=fieldChange,tts="change to"> <icon=typeWATER> / <icon=typePOISON>
+22b_field_notes#274	一部の わざ <icon=fieldChange,tts="have"> <c=green>ためターン なし</c> . . .

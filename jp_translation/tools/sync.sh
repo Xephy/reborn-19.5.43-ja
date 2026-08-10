@@ -42,6 +42,10 @@ FILES=(
   "Scripts/Battle_Scene.rb"
   "Scripts/Battler.rb"
   "Scripts/BattleData.rb"
+  # Field notes: the note bodies and field names are baked into fieldnotes.dat /
+  # fields.dat, which are compiled once and shared by every language.
+  "Scripts/FieldNotes.rb"
+  "Scripts/Reborn/FieldNoteCompiler.rb"
 )
 
 push() {

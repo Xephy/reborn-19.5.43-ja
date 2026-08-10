@@ -16,6 +16,7 @@
 !/Scripts/Load.rb
 !/Scripts/PBIntl.rb
 !/Scripts/Summary.rb
+!/Scripts/Items.rb
 !/Scripts/SpriteWindow.rb
 !/Scripts/Battle_Move.rb
 !/Scripts/Battle_MoveEffects.rb

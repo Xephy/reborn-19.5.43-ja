@@ -10,7 +10,7 @@ Pokémon Reborn（RPG Maker XP / Pokémon Essentials, mkxp-z）の日本語化�
 
 ## 導入
 
-ゲームのインストール先に、次の14ファイルを同じ階層構造で上書きコピーする。
+ゲームのインストール先に、次の15ファイルを同じ階層構造で上書きコピーする。
 
 ```
 patch/Data/japanese.dat
@@ -21,6 +21,7 @@ Scripts/Load.rb
 Scripts/PBIntl.rb
 Scripts/Summary.rb
 Scripts/SpriteWindow.rb
+Scripts/Items.rb
 Scripts/Reborn/Settings.rb
 Scripts/Battle_Move.rb
 Scripts/Battle_MoveEffects.rb
@@ -39,7 +40,7 @@ LANGUAGES = [
 ]
 ```
 
-`jp_translation/tools/sync.sh` は、この14ファイルを Windows 版と Linux（AppImage）版の
+`jp_translation/tools/sync.sh` は、この15ファイルを Windows 版と Linux（AppImage）版の
 両方へ配る。配布先のパスはスクリプト冒頭の `WIN` / `LIN` を書き換える。
 
 ### 元に戻す
@@ -105,7 +106,7 @@ make_batch.py   未訳行を抽出  →  work/batch/gN/gN_XXXX.tsv   (id, 話者
 apply_batch.py  訳文を書き戻し（id指定なので他ファイルを汚さない）
 dejoyo.py       常用外漢字を一括で仮名／常用漢字の同義語へ
 build.py        work/src/*.jsonl  →  patch/Data/japanese.dat（書き出し後に読み直して検証）
-sync.sh         9ファイルを実機へ配布
+sync.sh         パッチ一式を実機へ配布
 ```
 
 チェックポイントは必ず `apply_batch.py → dejoyo.py → build.py → sync.sh` の順。
@@ -179,5 +180,5 @@ sync.sh         9ファイルを実機へ配布
 リポジトリのルートはゲームのインストール先そのもの。`.gitignore` はホワイトリスト方式で、
 `/*` で全体を除外してから必要なパスだけを戻している。ゲーム本体（Audio / Graphics /
 Data / エンジンDLL）は含まれない。`Scripts/` もディレクトリごとではなく、改変した
-12ファイルだけを名指しで許可している。ルートに新しいファイルを置くときは
+13ファイルだけを名指しで許可している。ルートに新しいファイルを置くときは
 `.gitignore` に `!` 付きで追記しないと無視されるので注意。

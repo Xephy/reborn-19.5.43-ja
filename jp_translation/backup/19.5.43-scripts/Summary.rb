@@ -345,7 +345,7 @@ class PokemonSummaryScene
     imagepos.push([ballimage, 14, 60, 0, 0, -1, -1])
     pbDrawImagePositions(overlay, imagepos)
     pbSetSystemFont(overlay)
-    naturename = getNatureName(@pokemon.nature)
+    naturename = $cache.natures[@pokemon.nature].name
     itemname = pokemon.hasAnItem? ? getItemName(pokemon.item) : _INTL("None")
     pokename = @pokemon.name
     textpos = [
@@ -364,7 +364,7 @@ class PokemonSummaryScene
     memo = ""
     abil = $cache.abil[@pokemon.ability]
     abilname = abil.nil? ? (@pokemon.ability.nil? ? NoAbilName : @pokemon.ability.to_s) : abil.name.nil? ? MissingAbilName : getAbilityName(@pokemon.ability)
-    abildesc = abil.nil? ? (@pokemon.ability.nil? ? NoAbilDesc : NotRealAbil) : abil.desc.nil? ? MissingAbilDesc : getAbilityDesc(@pokemon.ability)
+    abildesc = abil.nil? ? (@pokemon.ability.nil? ? NoAbilDesc : NotRealAbil) : abil.desc.nil? ? MissingAbilDesc : abil.fullDesc
     memo += _INTL("<c3=F8F8F8,686868>Ability:<c3=404040,B0B0B0>\n")
     memo += _INTL("<c3=404040,B0B0B0>{1}\n", abilname)
     memo += _INTL("<c3=F8F8F8,686868>Description:\n")
@@ -395,7 +395,7 @@ class PokemonSummaryScene
     imagepos.push([ballimage, 14, 60, 0, 0, -1, -1])
     pbDrawImagePositions(overlay, imagepos)
     pbSetSystemFont(overlay)
-    naturename = getNatureName(@pokemon.nature)
+    naturename = $cache.natures[@pokemon.nature].name
     itemname = pokemon.hasAnItem? ? getItemName(pokemon.item) : _INTL("None")
     pokename = @pokemon.name
     textpos = [
@@ -432,14 +432,11 @@ class PokemonSummaryScene
       memo += _INTL("<c3=F83820,E09890>Faraway place\n")
     end
     if pokemon.obtainMode
-      mettext = [
-        _INTL("Met at Lv. {1}.", pokemon.obtainLevel),
-        _INTL("Egg received."),
-        _INTL("Traded at Lv. {1}.", pokemon.obtainLevel),
-        _INTL("Caught at Lv. {1}.", pokemon.obtainLevel),
-        _INTL("Had a fateful encounter at Lv. {1}.", pokemon.obtainLevel),
-        _INTL("Snagged at Lv. {1}.", pokemon.obtainLevel),
-      ][pokemon.obtainMode]
+      mettext = [_INTL("Met at Lv. {1}.", pokemon.obtainLevel),
+                 _INTL("Egg received."),
+                 _INTL("Traded at Lv. {1}.", pokemon.obtainLevel),
+                 "",
+                 _INTL("Had a fateful encounter at Lv. {1}.", pokemon.obtainLevel)][pokemon.obtainMode]
       memo += sprintf("<c3=404040,B0B0B0>%s\n", mettext)
       if pokemon.obtainMode == 1 # hatched
         if pokemon.timeEggHatched
@@ -460,7 +457,46 @@ class PokemonSummaryScene
       end
     end
     if shownature
-      memo += sprintf("<c3=404040,B0B0B0>%s\n", getCharacteristic(pokemon))
+      bestiv = 0
+      tiebreaker = pokemon.personalID % 6
+      for i in 0...6
+        if pokemon.iv[i] == pokemon.iv[bestiv]
+          bestiv = i if i >= tiebreaker && bestiv < tiebreaker
+        elsif pokemon.iv[i] > pokemon.iv[bestiv]
+          bestiv = i
+        end
+      end
+      characteristic = [_INTL("Loves to eat."),
+                        _INTL("Often dozes off."),
+                        _INTL("Often scatters things."),
+                        _INTL("Scatters things often."),
+                        _INTL("Likes to relax."),
+                        _INTL("Proud of its power."),
+                        _INTL("Likes to thrash about."),
+                        _INTL("A little quick tempered."),
+                        _INTL("Likes to fight."),
+                        _INTL("Quick tempered."),
+                        _INTL("Sturdy body."),
+                        _INTL("Capable of taking hits."),
+                        _INTL("Highly persistent."),
+                        _INTL("Good endurance."),
+                        _INTL("Good perseverance."),
+                        _INTL("Likes to run."),
+                        _INTL("Alert to sounds."),
+                        _INTL("Impetuous and silly."),
+                        _INTL("Somewhat of a clown."),
+                        _INTL("Quick to flee."),
+                        _INTL("Highly curious."),
+                        _INTL("Mischievous."),
+                        _INTL("Thoroughly cunning."),
+                        _INTL("Often lost in thought."),
+                        _INTL("Very finicky."),
+                        _INTL("Strong willed."),
+                        _INTL("Somewhat vain."),
+                        _INTL("Strongly defiant."),
+                        _INTL("Hates to lose."),
+                        _INTL("Somewhat stubborn.")][bestiv * 5 + pokemon.iv[bestiv] % 5]
+      memo += sprintf("<c3=404040,B0B0B0>%s\n", characteristic)
       # if $cache.natures[pokemon.nature].like != $cache.natures[pokemon.nature].dislike
       #  memo+=sprintf("<c3=404040,B0B0B0>It likes <c3=F83820,E09890>%s<c3=404040,B0B0B0> food.\n",$cache.natures[pokemon.nature].like)
       #  memo+=sprintf("<c3=404040,B0B0B0>It dislikes <c3=F83820,E09890>%s<c3=404040,B0B0B0> food.\n",$cache.natures[pokemon.nature].dislike)
@@ -470,51 +506,6 @@ class PokemonSummaryScene
     end
     drawFormattedTextEx(overlay, 232, 78, 276, memo)
     drawMarkings(overlay, 15, 291, 72, 20, pokemon.markings)
-  end
-
-  def getCharacteristic(pokemon)
-    characteristics = [
-      _INTL("Loves to eat."),
-      _INTL("Often dozes off."),
-      _INTL("Often scatters things."),
-      _INTL("Scatters things often."),
-      _INTL("Likes to relax."),
-      _INTL("Proud of its power."),
-      _INTL("Likes to thrash about."),
-      _INTL("A little quick tempered."),
-      _INTL("Likes to fight."),
-      _INTL("Quick tempered."),
-      _INTL("Sturdy body."),
-      _INTL("Capable of taking hits."),
-      _INTL("Highly persistent."),
-      _INTL("Good endurance."),
-      _INTL("Good perseverance."),
-      _INTL("Highly curious."),
-      _INTL("Mischievous."),
-      _INTL("Thoroughly cunning."),
-      _INTL("Often lost in thought."),
-      _INTL("Very finicky."),
-      _INTL("Strong willed."),
-      _INTL("Somewhat vain."),
-      _INTL("Strongly defiant."),
-      _INTL("Hates to lose."),
-      _INTL("Somewhat stubborn."),
-      _INTL("Likes to run."),
-      _INTL("Alert to sounds."),
-      _INTL("Impetuous and silly."),
-      _INTL("Somewhat of a clown."),
-      _INTL("Quick to flee."),
-    ]
-    bestiv = 0
-    tiebreaker = pokemon.personalID % 6
-    for i in 0...6
-      if pokemon.iv[i] == pokemon.iv[bestiv]
-        bestiv = i if i >= tiebreaker && bestiv < tiebreaker
-      elsif pokemon.iv[i] > pokemon.iv[bestiv]
-        bestiv = i
-      end
-    end
-    return characteristics[bestiv * 5 + pokemon.iv[bestiv] % 5]
   end
 
   def drawPageThree(pokemon)
@@ -549,7 +540,7 @@ class PokemonSummaryScene
     pbSetSystemFont(overlay)
     abil = $cache.abil[pokemon.ability]
     abilityname = abil.nil? ? (pokemon.ability.nil? ? NoAbilName : pokemon.ability.to_s) : abil.name.nil? ? MissingAbilName : getAbilityName(pokemon.ability, true)
-    abilitydesc = abil.nil? ? (@pokemon.ability.nil? ? NoAbilDesc : NotRealAbil) : abil.desc.nil? ? MissingAbilDesc : getAbilityDesc(pokemon.ability, true)
+    abilitydesc = abil.nil? ? (@pokemon.ability.nil? ? NoAbilDesc : NotRealAbil) : abil.desc.nil? ? MissingAbilDesc : abil.desc
     itemname = pokemon.hasAnItem? ? getItemName(pokemon.item) : _INTL("None")
     pokename = @pokemon.name
     textpos = [
@@ -571,6 +562,7 @@ class PokemonSummaryScene
       [_INTL("Speed"), 248, 248, 0, LightBase, statshadows[PBStats::SPEED]],
       [sprintf("%d", pokemon.speed), 456, 248, 1, DarkBase, DarkShadow],
       [_INTL("Ability"), 224, 284, 0, LightBase, LightShadow],
+      [abilityname, 362, 284, 0, DarkBase, DarkShadow],
     ]
     if pokemon.isMale?
       textpos.push([_INTL("♂"), 178, 62, 0, Color.new(24, 112, 216), Color.new(136, 168, 208)])
@@ -578,10 +570,7 @@ class PokemonSummaryScene
       textpos.push([_INTL("♀"), 178, 62, 0, ShinyBase, ShinyShadow])
     end
     pbDrawTextPositions(overlay, textpos)
-    # The ability name is drawn on its own so the font can step down when a
-    # Japanese name is wider than the slot English left room for.
-    pbDrawTextFitted(overlay, abilityname, 328, 284, 178, DarkBase, DarkShadow)
-    drawTextExFitted(overlay, 224, 316, 282, 2, abilitydesc, DarkBase, DarkShadow)
+    drawTextEx(overlay, 224, 316, 282, 2, abilitydesc, DarkBase, DarkShadow)
     drawMarkings(overlay, 15, 291, 72, 20, pokemon.markings)
     if pokemon.hp > 0
       hpcolors = [
@@ -629,7 +618,7 @@ class PokemonSummaryScene
     pbSetSystemFont(overlay)
     abil = $cache.abil[pokemon.ability]
     abilityname = abil.nil? ? (pokemon.ability.nil? ? NoAbilName : pokemon.ability.to_s) : abil.name.nil? ? MissingAbilName : getAbilityName(pokemon.ability, true)
-    abilitydesc = abil.nil? ? (pokemon.ability.nil? ? NoAbilDesc : NotRealAbil) : abil.desc.nil? ? MissingAbilDesc : getAbilityDesc(pokemon.ability, true)
+    abilitydesc = abil.nil? ? (pokemon.ability.nil? ? NoAbilDesc : NotRealAbil) : abil.desc.nil? ? MissingAbilDesc : abil.desc
     itemname = pokemon.item.nil? ? _INTL("None") : getItemName(pokemon.item)
     pokename = @pokemon.name
     if @pokemon.name.split().last == "?" || @pokemon.name.split().last == "!"
@@ -654,6 +643,7 @@ class PokemonSummaryScene
       [_INTL("Speed"), 248, 248, 0, LightBase, statshadows[PBStats::SPEED]],
       [_ISPRINTF("{1:3d}/{2:3d}", pokemon.ev[5], pokemon.iv[5]), 456, 248, 1, DarkBase, DarkShadow],
       [_INTL("Ability"), 224, 284, 0, LightBase, LightShadow],
+      [abilityname, 362, 284, 0, DarkBase, DarkShadow],
     ]
     if pokemon.isMale?
       textpos.push([_INTL("♂"), 178, 62, 0, Color.new(24, 112, 216), Color.new(136, 168, 208)])
@@ -661,10 +651,7 @@ class PokemonSummaryScene
       textpos.push([_INTL("♀"), 178, 62, 0, ShinyBase, ShinyShadow])
     end
     pbDrawTextPositions(overlay, textpos)
-    # The ability name is drawn on its own so the font can step down when a
-    # Japanese name is wider than the slot English left room for.
-    pbDrawTextFitted(overlay, abilityname, 328, 284, 178, DarkBase, DarkShadow)
-    drawTextExFitted(overlay, 224, 316, 282, 2, abilitydesc, DarkBase, DarkShadow)
+    drawTextEx(overlay, 224, 316, 282, 2, abilitydesc, DarkBase, DarkShadow)
     drawMarkings(overlay, 15, 291, 72, 20, pokemon.markings)
     if pokemon.hp > 0
       hpcolors = [
@@ -735,7 +722,7 @@ class PokemonSummaryScene
       end
       yPos += 64
     end
-    imagepos.push(["Graphics/Pictures/Summary/summary5zmovebtn", 324, 60, 0, 0, -1, -1]) if pokemon.zmoves != nil && pokemon.zmoves.any? { |x| x != nil }
+    imagepos.push(["Graphics/Pictures/Summary/summary5zmovebtn", 324, 60, 0, 0, -1, -1]) if pokemon.zmoves != nil && pokemon.zmoves.any? {|x| x != nil}
     pbDrawTextPositions(overlay, textpos)
     pbDrawImagePositions(overlay, imagepos)
     drawMarkings(overlay, 15, 291, 72, 20, pokemon.markings)
@@ -786,9 +773,7 @@ class PokemonSummaryScene
       if pokemon.zmoves[i] != nil && pokemon.zmoves[i].move != nil
         imagepos.push([sprintf("Graphics/Icons/type%s", pokemon.zmoves[i].type), 248, yPos + 2, 0, 0, 64, 28])
         name = getMoveName(pokemon.zmoves[i].move)
-        # Reborn shortens this one name by hand because the English full name
-        # overruns the slot. The Japanese name already fits, so keep it.
-        name = "Menace Moonraze Maelstrom" if pokemon.zmoves[i].move == :MENACINGMOONRAZEMAELSTROM && !pbJapaneseMessages?
+        name = "Menace Moonraze Maelstrom" if pokemon.zmoves[i].move == :MENACINGMOONRAZEMAELSTROM
         name = "Z-" + name if $cache.moves[pokemon.zmoves[i].move].category == :status && ![:EXTREMEEVOBOOST, :ELYSIANSHIELD, :CHTHONICMALADY, :DOMAINSHIFT].include?(pokemon.zmoves[i].move)
         drawTextEx(overlay, 316, yPos - 3, 174, 2, name, DarkBase, DarkShadow)
       elsif pokemon.moves[i].move != nil
@@ -812,23 +797,26 @@ class PokemonSummaryScene
 
   def moveToString(move, moveobj)
     movedata = $game_switches[:Randomized_Challenge] && $Randomizer.randomMoves ? $rndcache.moves[move] : $cache.moves[move]
-    string = getMoveName(move)
-    string += ", " + movedata.type.name + " type, "
-    string += movedata.category.to_s.capitalize + ", "
-    if movedata.category != :status
-      if movedata.basedamage == 1
-        string += "Unknown power, "
-      else
-        string += movedata.basedamage.to_s + " power, "
-      end
+    string = movedata.name
+    string = string + ", " + movedata.type.name + " type, "
+    if movedata.category == :physical
+      string = string + "Physical, "
+      string = string + movedata.basedamage.to_s + " power, "
+    end
+    if movedata.category == :special
+      string = string + "Special, "
+      string = string + movedata.basedamage.to_s + " power, "
+    end
+    if movedata.category == :status
+      string = string + "Status, "
     end
     if movedata.accuracy == 0
-      string += "Perfect accuracy, "
+      string = string + "Perfect accuracy, "
     else
-      string += movedata.accuracy.to_s + " accuracy, "
+      string = string + movedata.accuracy.to_s + " accuracy, "
     end
-    string += moveobj.pp.to_s + " out of " + moveobj.totalpp.to_s + " PP, "
-    string += movedata.desc
+    string = string + moveobj.pp.to_s + " out of " + moveobj.totalpp.to_s + " PP, "
+    string = string + movedata.desc
   end
 
   def drawSelectedMove(pokemon, moveToLearn, move)
@@ -857,7 +845,7 @@ class PokemonSummaryScene
     end
     imagepos = [["Graphics/Pictures/category", 166, 124, 0, cattype * 28, 64, 28]]
     z = @zmovepage ? "" : "z"
-    imagepos.push(["Graphics/Pictures/Summary/summary5#{z}movebtn", 324, 60, 0, 0, -1, -1]) if pokemon.zmoves != nil && pokemon.zmoves.any? { |x| x != nil } && moveToLearn == 0
+    imagepos.push(["Graphics/Pictures/Summary/summary5#{z}movebtn", 324, 60, 0, 0, -1, -1]) if pokemon.zmoves != nil && pokemon.zmoves.any? {|x| x != nil} && moveToLearn == 0
     pbDrawImagePositions(overlay, imagepos)
     drawTextEx(overlay, 4, 218, 238, 5, getMoveDesc(move), DarkBase, DarkShadow)
   end
@@ -935,7 +923,7 @@ class PokemonSummaryScene
         if @zmovepage && !pokemon.zmoves[i].nil? && moveobject.move != nil
           imagepos.push([sprintf("Graphics/Icons/type%s", moveobject.type), 248, yPos + 2, 0, 0, 64, 28])
           name = getMoveName(moveobject.move)
-          name = "Menace Moonraze Maelstrom" if moveobject.move == :MENACINGMOONRAZEMAELSTROM && !pbJapaneseMessages?
+          name = "Menace Moonraze Maelstrom" if moveobject.move == :MENACINGMOONRAZEMAELSTROM
           name = "Z-" + name if $cache.moves[moveobject.move].category == :status && ![:EXTREMEEVOBOOST, :ELYSIANSHIELD, :CHTHONICMALADY, :DOMAINSHIFT].include?(moveobject.move)
           drawTextEx(overlay, 316, yPos - 3, 174, 2, name, DarkBase, DarkShadow)
         elsif moveobject.move != nil
@@ -1026,7 +1014,6 @@ class PokemonSummaryScene
       @sprites["movepresel"].z += 1 if @sprites["movepresel"].index == @sprites["movesel"].index
       if Input.trigger?(Input::B)
         break if !switching
-
         @sprites["movepresel"].visible = false
         switching = false
       end
@@ -1050,7 +1037,7 @@ class PokemonSummaryScene
           @zmovepage && !zmoves[selmove].nil? ? drawSelectedZeeMove(@pokemon, moves[selmove].move, zmoves[selmove].move) : drawSelectedMove(@pokemon, 0, moves[selmove].move)
         end
       end
-      if Input.trigger?(Input::X) && zmoves != nil && zmoves.any? { |x| x != nil }
+      if Input.trigger?(Input::X) && zmoves != nil && zmoves.any? {|x| x != nil}
         @zmovepage = !@zmovepage
         @zmovepage && !zmoves[selmove].nil? ? drawSelectedZeeMove(@pokemon, moves[selmove].move, zmoves[selmove].move) : drawSelectedMove(@pokemon, 0, moves[selmove].move)
       end
@@ -1166,7 +1153,7 @@ class PokemonSummaryScene
         end
       end
       if Input.trigger?(Input::X)
-        if @page == 4 && !@zmovepage && @pokemon.zmoves != nil && @pokemon.zmoves.any? { |x| x != nil }
+        if @page == 4 && !@zmovepage && @pokemon.zmoves != nil && @pokemon.zmoves.any? {|x| x != nil}
           @zmovepage = true
           drawZMovePage(@pokemon)
         elsif @zmovepage
@@ -1277,4 +1264,35 @@ class PokemonSummary
     @scene.pbEndScene
     return ret
   end
+end
+
+def getStatusZMoveDesc(move)
+  effect = PBStuff::ZSTATUSEFFECTS[move]
+  if effect.length == 2
+    statname = [nil, "Attack", "Defense", "Sp. Atk", "Sp. Def", "Speed", "Accuracy", "Evasion"][effect[0]]
+    statamount = [nil, "", "sharply ", "drastically "][effect[1]]
+    desc = "Z-Power additionally " + statamount + "raises the user's " + statname + " stat."
+  elsif effect[0] == :allstat1
+    desc = "Z-Power additionally raises all of the user's stats."
+  elsif effect[0] == :crit1
+    desc = "Z-Power additionally raises the user's critical-hit rate."
+  elsif effect[0] == :reset
+    desc = "Z-Power additionally eliminates any stat drops applied to the user."
+  elsif effect[0] == :heal
+    desc = "Z-Power additionally fully restores the user's HP."
+  elsif effect[0] == :heal2
+    desc = "Z-Power additionally fully restores the HP of the ally the user switches into."
+  elsif effect[0] == :centre
+    desc = "Z-Power additionally causes the user to become the centre of attention."
+  else
+    desc = "Z-Power does not grant any additional effects."
+  end
+  if move == :CURSE
+    desc += " Ghost-type user is fully healed instead."
+  elsif [:COPYCAT, :MEFIRST, :MIRRORMOVE].include?(move)
+    desc += " Copied damaging move becomes a Z-Move."
+  elsif [:ASSIST, :METRONOME, :NATUREPOWER, :SLEEPTALK].include?(move)
+    desc += " Called damaging move becomes a Z-Move."
+  end
+  return desc
 end

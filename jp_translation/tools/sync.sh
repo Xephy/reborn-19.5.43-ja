@@ -31,6 +31,9 @@ FILES=(
   "Scripts/PBIntl.rb"
   "Scripts/Reborn/Settings.rb"
   "Scripts/Summary.rb"
+  # Nature names and ability descriptions on the summary screen came straight
+  # from the data objects instead of the message tables.
+  "Scripts/Items.rb"
   "Scripts/SpriteWindow.rb"
   # Move names in battle: the fight menu drew PokeBattle_Move#name, which held
   # the raw data name and never went through the message table.

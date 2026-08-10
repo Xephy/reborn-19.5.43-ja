@@ -32,6 +32,13 @@ FILES=(
   "Scripts/Reborn/Settings.rb"
   "Scripts/Summary.rb"
   "Scripts/SpriteWindow.rb"
+  # Move names in battle: the fight menu drew PokeBattle_Move#name, which held
+  # the raw data name and never went through the message table.
+  "Scripts/Battle_Move.rb"
+  "Scripts/Battle_MoveEffects.rb"
+  "Scripts/Battle_Scene.rb"
+  "Scripts/Battler.rb"
+  "Scripts/BattleData.rb"
 )
 
 push() {

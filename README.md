@@ -10,7 +10,7 @@ Pokémon Reborn（RPG Maker XP / Pokémon Essentials, mkxp-z）の日本語化�
 
 ## 導入
 
-ゲームのインストール先に、次の9ファイルを同じ階層構造で上書きコピーする。
+ゲームのインストール先に、次の14ファイルを同じ階層構造で上書きコピーする。
 
 ```
 patch/Data/japanese.dat
@@ -22,6 +22,11 @@ Scripts/PBIntl.rb
 Scripts/Summary.rb
 Scripts/SpriteWindow.rb
 Scripts/Reborn/Settings.rb
+Scripts/Battle_Move.rb
+Scripts/Battle_MoveEffects.rb
+Scripts/Battle_Scene.rb
+Scripts/Battler.rb
+Scripts/BattleData.rb
 ```
 
 ゲーム内のオプションで言語を「日本語」に切り替える。
@@ -34,7 +39,7 @@ LANGUAGES = [
 ]
 ```
 
-`jp_translation/tools/sync.sh` は、この9ファイルを Windows 版と Linux（AppImage）版の
+`jp_translation/tools/sync.sh` は、この14ファイルを Windows 版と Linux（AppImage）版の
 両方へ配る。配布先のパスはスクリプト冒頭の `WIN` / `LIN` を書き換える。
 
 ### 元に戻す
@@ -59,6 +64,23 @@ LANGUAGES = [
 
 **すべてのセクションが「英語テキストをキーにした Hash」**なので、インデックスのずれが
 構造的に起こらない。部分的な翻訳のまま出荷しても壊れない。
+
+### データ由来の名前（わざ名・とくせい名など）
+
+ポケモン名・わざ名・どうぐ名は会話文と違って `_INTL` を通らない。ゲームデータ側の
+オブジェクトが英語名を持っていて、表示のたびに `getMoveName` などが
+messages.dat のハッシュを引き直す仕組みになっている。
+
+**この引き直しを飛ばして英語名を直接描いている箇所があると、そこだけ英語のまま残る。**
+バトルのわざ選択がまさにそれで、`PokeBattle_Move#name`（生成時にデータの英語名を
+コピーしたもの）を描いていた。`Scripts/Battle_Move.rb` で生成時に翻訳名を入れるよう
+変更し、英語名が必要な2箇所——ボスのチャージ技の一致判定と `BattleData` の
+わざ使用回数の集計キー——だけ新しい `englishName` を参照するようにしてある。
+
+もう1つの落とし穴がフォント。ナロー体（`Power Green Narrow`）は英字しか持たないので、
+翻訳した文字列をそのまま描くと空白の箱になる。`pbNarrowFontName` は日本語のときだけ
+システムフォント（かな・漢字を持つ唯一のフォント）を返す。スモール体は
+`Lv.` と HP の数字しか描かないので触っていない。
 
 ### 未訳の92行について
 
@@ -143,7 +165,8 @@ sync.sh         9ファイルを実機へ配布
   保持されている
 - **`patch/Data/japanese.dat`** は Pokémon Reborn の脚本の翻案物。加えてポケモン名等の
   公式日本語名（任天堂／ゲームフリーク／クリーチャーズの商標）を含む
-- **`Scripts/*.rb`** は Reborn / Pokémon Essentials のソースの改変版（改変は計451行）
+- **`Scripts/*.rb`** は Reborn / Pokémon Essentials のソースの改変版。改変前のものは
+  `jp_translation/backup/19.5.43-scripts/` にある（`19.5.0-scripts/` は旧版のもの）
 - **`jp_translation/work/src/`** は Reborn の英語スクリプト全文を含む
 
 公開する場合は、ゲーム本体を同梱せず、パッチのみを配布すること。
@@ -156,4 +179,5 @@ sync.sh         9ファイルを実機へ配布
 リポジトリのルートはゲームのインストール先そのもの。`.gitignore` はホワイトリスト方式で、
 `/*` で全体を除外してから必要なパスだけを戻している。ゲーム本体（Audio / Graphics /
 Data / エンジンDLL）は含まれない。`Scripts/` もディレクトリごとではなく、改変した
-7ファイルだけを名指しで許可している。
+12ファイルだけを名指しで許可している。ルートに新しいファイルを置くときは
+`.gitignore` に `!` 付きで追記しないと無視されるので注意。

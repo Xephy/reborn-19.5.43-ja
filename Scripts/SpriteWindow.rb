@@ -1083,6 +1083,17 @@ def pbSmallFontName()
   return MessageConfig.pbTryFonts("Power Green Small", "Pokemon Emerald Small", "Arial Narrow", "Arial")
 end
 
+# True while the Japanese message file is the active language.
+def pbJapaneseMessages?
+  return false if !defined?(LANGUAGES) || LANGUAGES.length < 2
+  return false if !$Settings
+
+  lang = $Settings.language
+  return false if !lang.is_a?(Integer) || lang < 0 || lang >= LANGUAGES.length
+
+  return LANGUAGES[lang][1] == "japanese.dat"
+end
+
 # Gets the name of the system narrow font.
 def pbNarrowFontName()
   if $game_switches
@@ -1090,6 +1101,13 @@ def pbNarrowFontName()
       return "Untitled1"
     end
   end
+  # The narrow cut of the game font is Latin-only, so a translated string drawn
+  # with it comes out as blank boxes. The system font is the only one in Fonts/
+  # that carries kana and kanji, so it stands in while Japanese is active. The
+  # small font is deliberately left alone: every one of its call sites draws
+  # ASCII only ("Lv.", HP counters), and those slots are sized for its metrics.
+  return MessageConfig.pbGetSystemFontName() if pbJapaneseMessages?
+
   return MessageConfig.pbTryFonts("Power Green Narrow", "Pokemon Emerald Narrow", "Arial Narrow", "Arial")
 end
 

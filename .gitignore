@@ -8,7 +8,7 @@
 !/jp_translation/
 !/patch/
 
-# Only the seven engine scripts this project modifies, not Reborn's tree.
+# Only the engine scripts this project modifies, not Reborn's tree.
 !/Scripts/
 /Scripts/*
 !/Scripts/DrawText.rb
@@ -17,6 +17,11 @@
 !/Scripts/PBIntl.rb
 !/Scripts/Summary.rb
 !/Scripts/SpriteWindow.rb
+!/Scripts/Battle_Move.rb
+!/Scripts/Battle_MoveEffects.rb
+!/Scripts/Battle_Scene.rb
+!/Scripts/Battler.rb
+!/Scripts/BattleData.rb
 !/Scripts/Reborn/
 /Scripts/Reborn/*
 !/Scripts/Reborn/Settings.rb

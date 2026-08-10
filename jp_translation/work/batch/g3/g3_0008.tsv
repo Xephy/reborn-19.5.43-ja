@@ -1,0 +1,350 @@
+map_0413#325		NOEL: This is pointless.
+map_0413#326		I don't know what I expected from finding our father, but it wasn't this.
+map_0413#327		RADOMUS: Can I ask you something?
+map_0413#328		ANNA: Of course!
+map_0413#329		RADOMUS: Is there perhaps anything about me that's different from most other people?
+map_0413#330		Something you might see that others don't, for instance.
+map_0413#331		ANNA: Hmm...
+map_0413#332		Aside from an amazing collection of hats, nope!
+map_0413#333		Not that I can tell!
+map_0413#334		RADOMUS: I see... So that's the same as for her.
+map_0413#335		RADOMUS: I suppose the final battle will begin soon, won't it?
+map_0413#336		Anna is still absent.
+map_0413#337		I suspect she intends to keep it that way for some time.
+map_0413#338		And with Noel...
+map_0413#339		I feel as if I am already in checkmate.
+map_0413#340		Any move I can take with him seems to be the wrong one.
+map_0413#341		But that is not a game I may quit.
+map_0413#342		So, how to play...
+map_0413#343		RADOMUS: Lost time cannot be recovered, but better times can always be found.
+map_0413#344		Still, I will be beyond content to play the role of the father I haven't been for as long as I may.
+map_0413#345		For the time being, I must entrust the rest to you, \PN.
+map_0413#346		SAPHIRA: Laura being safe isn't enough.
+map_0413#347		She should be here, with us.
+map_0413#348		If ANYTHING happens to her under that boy's watch, he will dearly regret it.
+map_0413#349		CHARLOTTE: It was her choice. 
+map_0413#350		What's the big deal?
+map_0413#351		If she wants to prance off with some new boy toy, then forget her.
+map_0413#352		She can.
+map_0413#353		In the meantime, maybe try not to have an aneurysm. 
+map_0413#354		CHARLOTTE: And she's gone again.
+map_0413#355		Out to find Laura, no doubt.
+map_0413#356		Guess I'll stay put here.
+map_0413#357		If she gets back and I'm gone, I'm pretty sure she'll just up and die of shock on the spot.
+map_0413#358		Thanks, "Mom".
+map_0413#359		CHARLOTTE: You guys save the world yet?
+map_0413#360		If not, it's cool.
+map_0413#361		Save some for me.
+map_0413#362		Or let it burn.
+map_0413#363		I don't care all that much as long as the ones who matter are safe.
+map_0413#364		EVE: I've told some of the others already, but there's a few things you need to know about Team Meteor.
+map_0413#365		As time went on, Zero was increasingly ostracized from the proverbial inner circle, so there is much I cannot speak to.
+map_0413#366		However, I can tell you in depth about their remaining PULSE systems.
+map_0413#367		There are four you must be aware of:
+map_0413#368		PULSE-Mime, PULSE-Clawitzer, PULSE2 and Arc- PULSE.
+map_0413#369		If you want to hear their details, ask me for them.
+map_0413#370		EVE: Which PULSE do you want to know about?
+map_0413#371		The goal of the PULSE-Mime project was to capture and protect a large area.
+map_0413#372		Originally, the resulting barrier was intended to encapsulate both Labradorra and Calcenon City,
+map_0413#373		But willful ignorance afforded me the opportunity to implement some "technological limitations", reducing its effective area to only one of the cities.
+map_0413#374		I would have liked to minimize it further, however it was difficult to implement such caveats with Zero policing our ideas.
+map_0413#375		The PULSE-Mime relies on Labradorra City's power grid to function, meaning its function has been preserved even after shutting off Calcenon's.
+map_0413#376		On a long range scale, the PULSE-Mime's capabilities are solely defensive, however in close quarters it is as capable of defending itself as any Pokémon.
+map_0413#377		The barrier itself can only be permeated by authorized personnel as regulated by the machine system itself.
+map_0413#378		In other words, the only way to get through it will be for someone on the inside to grant us access.
+map_0413#379		Unfortunately, even Lumi and I don't qualify to pass through it, as we were sharing Zero's body.
+map_0413#380		The PULSE-Clawitzer was intended to serve as high-powered super long range artillery.
+map_0413#381		In tandem with the original conception of the PULSE-Mime, it would have turned the Labradorra- Calcenon area into an undefeatable weapon. 
+map_0413#382		Fortunately, I was able to reduce the effective power and range through a series of serendipitous "mistakes".
+map_0413#383		The attacks on Calcenon City were effectively an arms test.
+map_0413#384		I am personally grateful that the damage could be minimized.
+map_0413#385		The PULSE-Clawitzer was energized by Calcenon's power grid, meaning unless Meteor recaptures the station below, it is inoperational.
+map_0413#386		However, the Pokémon itself is alive and well within the barrier and continues to suffer the system's side effects.
+map_0413#387		I am relieved that Lumi is not around to hear me advise this, but the best course of mercy for that Pokémon would be to put it down entirely.
+map_0413#388		The PULSE2 is an entirely separate line of PULSE systems created for mass production and portability.
+map_0413#389		When designing the PULSE2, I was permitted to make the safety of the affected Pokémon a priority, 
+map_0413#390		So I am relieved to say that it is much less harmful than its predecessors.
+map_0413#391		In return, it is also much less effective.
+map_0413#392		Unlike the previous line, it is also capable of applying to any Pokémon, as opposed to the specific species it is constructed for. 
+map_0413#393		The PULSE2 does not cause mutations, but it also cannot amplify a Pokémon's strength to extreme levels.
+map_0413#394		Its effect is two-fold:
+map_0413#395		First, the Pokémon's abilities are enhanced by a small degree.
+map_0413#396		This is done by effectively maximizing what would otherwise be considered effort values, exceeding the maximum limit that most Pokémon can achieve.
+map_0413#397		Second, the Pokémon's free will is suppressed.
+map_0413#398		Stolen Pokémon, for example, may be controlled without fail this way.
+map_0413#399		Many high ranking Meteors have treated their Pokémon with PULSE2s by now. 
+map_0413#400		Please prepare accordingly.
+map_0413#401		The Arc-PULSE is an incomplete project combining the functions of the PULSE2 with the original line.
+map_0413#402		Using the foundation of the original PULSE system, it is designed for a specific species.
+map_0413#403		As you may conclude from the name, it is Arceus.
+map_0413#404		However, it is more akin to a PULSE2 in that it does not require a static location, and it contains a strong function to suppress a Pokémon's free will.
+map_0413#405		I cannot fully say what effects it would produce or if it would cause mutations,
+map_0413#406		Since, as one might expect, Team Meteor lacks an Arceus to test it on.
+map_0413#407		Further, with the demands for power, portability and control that have been placed on the project, it requires a unique energy source.
+map_0413#408		Team Meteor lacks this as well, but I understand that their movements in Agate City have been dedicated to producing such a thing.
+map_0413#409		The PULSE-Hypno was originally created to put Agate City to sleep and allow Team Meteor to freely search for this power source.
+map_0413#410		Its hypnotic control functions were added later.
+map_0413#411		Still, there is no evidence that a power source capable of fueling the machine exists at all.
+map_0413#412		Since that, the Arceus, and now my technical expertise are all absent from Team Meteor, I find it highly unlikely the project will ever be finished.
+map_0413#413		SERRA: "Happy little family", huh...
+map_0413#414		Tch. I'm having these naive thoughts again.
+map_0413#415		Maybe I could stand to try again.
+map_0413#416		We'll see, I guess.
+map_0413#417		SERRA: Geez, I feel like a high schooler or something.
+map_0413#418		NOEL: You'd think one would be less alone after finding their father, not more.
+map_0413#419		I guess that's not how it works.
+map_0413#420		RADOMUS: Ah, \PN.
+map_0413#421		I see you were successful in obtaining another badge.
+map_0413#422		As I ever am with your efforts, I am impressed but not surprised.
+map_0413#423		But pray tell, have you seen Anna about?
+map_0413#424		She said there was something she needed to do and made off alone in rather a haste.
+map_0413#425		She even insisted Noel not go with her.
+map_0413#426		I... wonder if this was for his sake.
+map_0413#427		NOEL: Why are you acting like this now?
+map_0413#428		RADOMUS: I beg your pardon?
+map_0413#429		Acting like what?
+map_0413#430		NOEL: Doting on me.
+map_0413#431		Like Anna.
+map_0413#432		RADOMUS: Ah, she often takes this role for you?
+map_0413#433		NOEL: No, for you.
+map_0413#434		You always focus on her.
+map_0413#435		RADOMUS: Ah, I was just worried, but I see your concern.
+map_0413#436		I assure you, I don't intend to favor either of you over each other.
+map_0413#437		Both of you are precious to me.
+map_0413#438		NOEL: You say that but...
+map_0413#439		That doesn't change the fact that you only talk to me when she's not around.
+map_0413#440		I guess I'm just your second choice.
+map_0413#441		RADOMUS: I--
+map_0413#442		NOEL: That's normal.
+map_0413#443		Most people only talk to me when they can't talk to her.
+map_0413#444		I'm used to it.
+map_0413#445		NOEL: There's nothing special about me.
+map_0413#446		Other than being forgettable, I guess.
+map_0413#447		NOEL: How do you know if someone is important to you?
+map_0413#448		Is it something you decide, or something you feel?
+map_0413#449		NOEL: I see.
+map_0413#450		So he hasn't made that decision.
+map_0413#451		Then I decide not to need him.
+map_0413#452		Thanks.
+map_0413#453		So he doesn't feel that way.
+map_0413#454		That's not fair.
+map_0413#455		I haven't had a father all this time so far.
+map_0413#456		So that will just have to continue.
+map_0413#457		I'm even in the middle of the Gym Leaders.
+map_0413#458		Average at everything.
+map_0413#459		I guess my Type is perfect for me.
+map_0413#460		CHARLOTTE: Well, well, if it isn't the local bigshot back in town.
+map_0413#461		And why? Nothing's happened here forever.
+map_0413#462		At least now we can chill out since what's-her-face confirmed they can't use the PULSE to attack here anymore.
+map_0413#463		But it is soooo boring here.
+map_0413#464		Even those other girls went off to catch Pokémon or train or something.
+map_0413#465		By the way, who even are they?
+map_0413#466		Someone wanna fill me in?
+map_0413#467		I dunno what our next move is gonna be, but my gut says it's gonna be big.
+map_0413#468		You itchin' to kick Team Meteor down as much as I am, mate?
+map_0413#469		HARDY: That's what I like to hear!
+map_0413#470		They ain't gonna see a single thing comin'!
+map_0413#471		Let's stick it to Meteor once and for all!
+map_0413#472		HARDY: No need to be modest, mate!
+map_0413#473		I've seen what you can do.
+map_0413#474		Pull yourself together and let's rock their worlds once and for all!
+map_0413#475		That's what Aya'd want, right?
+map_0413#476		BENNETT: It is not a "risk" to unhand me, woman!
+map_0413#477		As I've already said, I will follow you voluntarily.
+map_0413#478		SAPHIRA: No chances.
+map_0413#479		LAURA: Saphira, please!
+map_0413#480		He's not a bad person!
+map_0413#481		SAPHIRA: Oh, so that's why he's been with Team Meteor all this time.
+map_0413#482		You. Catch.
+map_0413#483		SAPHIRA: Nice catch.
+map_0413#484		HARDY: Wot, you meant me?
+map_0413#485		SAPHIRA: Doesn't matter.
+map_0413#486		SAPHIRA: You, however...
+map_0413#487		SAPHIRA: You and I have business.
+map_0413#488		BENNETT: Enough already.
+map_0413#489		You know rough-handling a compliant captive is a solid way to jeopardize that compliance.
+map_0413#490		SAPHIRA: It's not the only thing I'll jeopardize if you don't start talking.
+map_0413#491		BENNETT: I've been talking. You haven't been listening.
+map_0413#492		SAPHIRA: I didn't like what you had to say.
+map_0413#493		BENNETT: You didn't like me saying I've left Team Meteor behind?
+map_0413#494		SAPHIRA: I didn't believe you.
+map_0413#495		BENNETT: If you won't believe me anyway, then there's no point in us talking.
+map_0413#496		SAPHIRA: The right circumstances can breed honesty.
+map_0413#497		You'll tell us the truth or your comrade's injuries will be on your hands.
+map_0413#498		BENNETT: Firstly, no. 
+map_0413#499		No matter what you say, I'm not responsible for whatever you choose to do to him.
+map_0413#500		Secondly, if you listened to what both your sister and I have already explained to you, you'd know that he's no longer my comrade.
+map_0413#501		Frankly, and not that any of this is necessary, you'd have better luck forcing answers out of me by threatening your sister instead.
+map_0413#502		LAURA: Saphira!
+map_0413#503		HARDY: Whoa there, you don't have to hit the guy.
+map_0413#504		SAPHIRA: Don't you dare presume that I would ever do anything to hurt my sisters.
+map_0413#505		BENNETT: You sure don't seem to think twice about anyone else.
+map_0413#506		SAPHIRA: I'm not surprised to learn that loyalty is a foreign concept to you.
+map_0413#507		BENNETT: And I, discretion, to you.
+map_0413#508		LAURA: Enough!
+map_0413#509		SAPHIRA: Move. We're not done yet.
+map_0413#510		LAURA: Yes, you are.
+map_0413#511		SAPHIRA: Laura, please move.
+map_0413#512		LAURA: I will not.
+map_0413#513		SAPHIRA: Just what did he do to earn your grace?
+map_0413#514		LAURA: I do not believe that respect and mercy are things that need to be earned.
+map_0413#515		SAPHIRA: Respect and mercy won't keep you safe from our enemies.
+map_0413#516		LAURA: Then I would rather be in danger.
+map_0413#517		SAPHIRA: You've always been innocent...
+map_0413#518		But I was always hoping that innocence wouldn't fall into naiveté.
+map_0413#519		LAURA: With all due respect and appreciation, sister, 
+map_0413#520		In my opinion, it is more naive to think that people are not worth believing in.
+map_0413#521		SAPHIRA: Next you'll tell me we should all hold hands and sing hymns with Sigmund fucking Connal.
+map_0413#522		LAURA: Not everybody is like him.
+map_0413#523		And I am sure that, in some misguided way, he also thinks that what he does is for the best of others.
+map_0413#524		Perhaps he, too, can still change.
+map_0413#525		SAPHIRA: How can YOU say that?
+map_0413#526		YOU of all people know what he's--
+map_0413#527		What we've been through--
+map_0413#528		Now you want to lap sympathy on him?!
+map_0413#529		After...
+map_0413#530	Corin-Rouge	I...
+map_0413#531		LAURA: Saphira........
+map_0413#532		SAPHIRA: DON'T TOUCH ME!
+map_0413#533		SAPHIRA: Don't touch me...
+map_0413#534		Don't even think about touching me...
+map_0413#535		Stop--
+map_0413#536		STOP!
+map_0413#537		Please stop...
+map_0413#538		HARDY: Oi, lady. You good?
+map_0413#539		It is just me, okay?
+map_0413#540		You are safe.
+map_0413#541		The doctor isn't here.
+map_0413#542		It's going to be okay. Just breathe for now.
+map_0413#543		SAPHIRA: ...
+map_0413#544		HARDY: So uh... You mind explainin' what just happened?
+map_0413#545		LAURA: I'm sorry........ 
+map_0413#546		I'm afraid it isn't my place to say something like that.
+map_0413#547		But if this is like the past has been, she may need some time to collect herself.
+map_0413#548		Back then there were times where she was unable to even speak at all afterwards for quite some while...
+map_0413#549		BENNETT: Please forgive me if I don't consider that a loss in the immediate moment.
+map_0413#550		LAURA: I apologize for how she was treating you.
+map_0413#551		She is rather protective of Charlotte and I, you see........
+map_0413#552		BENNETT: I saw.
+map_0413#553		HARDY: I think we all knew that one, lass.
+map_0413#554		LAURA: For now, I will step aside and make sure she is all right.
+map_0413#555		HARDY: Awkward.
+map_0413#556		BENNETT: Rather.
+map_0413#557		LUMI: Z-Zero?
+map_0413#558		LUMI: Um...
+map_0413#559		Why--
+map_0413#560		Why is Zero here?
+map_0413#561		Is he okay?
+map_0413#562		BENNETT: Don't worry. It's just Sleep Powder.
+map_0413#563		I couldn't let him make it back to Labradorra.
+map_0413#564		HARDY: Where've you two been anyway?
+map_0413#565		EVE: We took the lull as an opportunity to catch up on some much needed training now that each of us may have our own teams again.
+map_0413#566		LUMI: We don't wanna be deadweight after all!
+map_0413#567		And you-- you're here too?
+map_0413#568		EVE: Do you really intend to turn tail on Team Meteor?
+map_0413#569		BENNETT: Yes, not that anyone has seemed to believe me about it.
+map_0413#570		Except Laura, somehow.
+map_0413#571		So if you won't trust that I'm here for the greater good, then let's just say I'm here for her.
+map_0413#572		I'll make things right and support her however I'm able to.
+map_0413#573		It's something I frankly should've started doing a long time ago.
+map_0413#574		LUMI: I believe you.
+map_0413#575		BENNETT: I don't know what to do with that, but I'll take it.
+map_0413#576		EVE: At any rate, it's not as if whether or not you are trusted will impact your course, correct?
+map_0413#577		BENNETT: Correct. 
+map_0413#578		And though I would appreciate if I were not literally dragged along by the ear in the meantime, trust must be earned through merit.
+map_0413#579		To that end, I have an offer.
+map_0413#580		EVE: The barrier.
+map_0413#581		BENNETT: Correct again.
+map_0413#582		HARDY: What do you mean? What's the offer?
+map_0413#583		EVE: As I explained to some others previously, only authorized personnel may pass through that barrier.
+map_0413#584		BENNETT: Zero and I are both authorized.
+map_0413#585		I will bring him into the city, claiming to have rescued him from you all as enemies of Team Meteor.
+map_0413#586		This can be my justification for coming through the Calcenon side.
+map_0413#587		Then, I will cut the PULSE-Mime's power supply, lowering the barrier for all of you to enter and finish off Team Meteor once and for all.
+map_0413#588		EVE: It's true that we will need the help of someone trusted by Team Meteor if we want to get into Labradorra City.
+map_0413#589		There is no other way, and right now, we don't have another willing subject.
+map_0413#590		LUMI: I don't think Zero would do it either...
+map_0413#591		EVE: Right. He sees Team Meteor as the only place he can turn to.
+map_0413#592		BENNETT: Then it must be done before he wakes up.
+map_0413#593		HARDY: I unno, mate. This is kinda fishy if you ask me.
+map_0413#594		What's to say you don't just take off once you're in there and turn against us again?
+map_0413#595		This'd be a clever way for you to get out of your enemies' hands.
+map_0413#596		BENNETT: A fair concern.
+map_0413#597		Unfortunately, I don't believe I have a way to make satisfactory guarantees.
+map_0413#598		But you will see whether or not I've stayed true to my word when the barrier lowers.
+map_0413#599		HARDY: An' by then it'd already be too late for us to regret it, huh.
+map_0413#600		EVE: An alternative may not present itself.
+map_0413#601		HARDY: What do you think, \PN? Should we trust this guy?
+map_0413#602		HARDY: If you say so...
+map_0413#603		All right! I'll go with it!
+map_0413#604		It may just be the quickest way to save Aya after all!
+map_0413#605		BENNETT: I thank you for offering me the chance to prove my allegiance.
+map_0413#606		LUMI: I guess that works for Zero too...
+map_0413#607		He'd prefer to be on that side, right?
+map_0413#608		HARDY: Yea, it's a little sus', ain't it?
+map_0413#609		BENNETT: While I cannot fault you for thinking that, there may not be another way forward right now.
+map_0413#610		LUMI: Would it be best for Zero to stay here?
+map_0413#611		EVE: It feels strange to have to wonder.
+map_0413#612		EVE: What are you looking at me like that for?
+map_0413#613		LUMI: Do...
+map_0413#614		Do you miss how things were?
+map_0413#615		EVE: I don't know.
+map_0413#616		LUMI: I do.
+map_0413#617		I don't want things to go back to how they were, but I miss it.
+map_0413#618		I miss him.
+map_0413#619		Does that make sense?
+map_0413#620		I don't think it does...
+map_0413#621		EVE: It makes no sense whatsoever.
+map_0413#622		I fully understand.
+map_0413#623		CAL: Oh, this is where everyone was...
+map_0413#624		CAL: Am... I interrupting something?
+map_0413#625		HARDY: I can hardly tell myself, mate.
+map_0413#626		LUMI: Oh, it's Cal!
+map_0413#627		When did you turn your hair blue?
+map_0413#628		CAL: Uh.
+map_0413#629		Do I know you?
+map_0413#630		EVE: Evelynn Seijaya. 
+map_0413#631		This is Lumi.
+map_0413#632		We only spoke in passing, and only under that one's face.
+map_0413#633		CAL: ...
+map_0413#634		Yeah, I don't get it.
+map_0413#635		But uh, have any of you seen Shelly around?
+map_0413#636		Heather had a message for her.
+map_0413#637		HARDY: She an' most of the others went down to the city to put the slammer on some of the Meteors they caught in Agate.
+map_0413#638		CAL: Bad day to be a Meteor.
+map_0413#639		BENNETT: Might be the last day to be a Meteor.
+map_0413#640		LUMI: Aha, I guess most of us here have been on the other side at some point, huh?
+map_0413#641		CAL: And yet I don't think I've seen any of you before.
+map_0413#642		VICTORIA: Cal...?
+map_0413#643		CAL: Oh.
+map_0413#644		Um, hi.
+map_0413#645		Been a while.
+map_0413#646		VICTORIA: Not long enough, if you ask me.
+map_0413#647		CAL: What, uh, brings you here?
+map_0413#648		VICTORIA: Oh, you know... I just thought I'd get out from behind the desk for once.
+map_0413#649		Maybe check up on how things were going here while I take a break from the literal mountains of paperwork and responsibilities building up,
+map_0413#650		Not only from having to deal with everything going on in Reborn City but also from the very slight tiny miniscule teensy weensy issue of
+map_0413#651		Having had to have taken charge of all of Apophyll Academy after YOU got Kiki killed!
+map_0413#652		CAL: I'm aware there's no way I can atone for what happened there.
+map_0413#653		VICTORIA: Yeah, there isn't.
+map_0413#654		HARDY: Did I miss somethin'?
+map_0413#655		BENNETT: Let's assume so and not get in the way of it.
+map_0413#656		CAL: I wasn't going to let Apophyll go.
+map_0413#657		VICTORIA: Oh, you weren't!
+map_0413#658		Well, that totally explains you betraying us all and setting up the PULSE that was going to burn it all to a crisp!
+map_0413#659		So THAT explains what happened to Kiki's Medicham!
+map_0413#660		So that's why you stopped Team Meteor on Pyrous Mountain and she's still alive today--
+map_0413#661		Oh, wait.
+map_0413#662		CAL: I sabotaged the PULSE.
+map_0413#663		It wouldn't have done anything but overheat.
+map_0413#664		VICTORIA: And you REALLY think I'm going to believe something as convenient as that--
+map_0413#665		EVE: It's true.
+map_0413#666		VICTORIA: Who even are you?
+map_0413#667		EVE: I created the PULSE.
+map_0413#668		VICTORIA: Oh.
+map_0413#669		You did, did you?
+map_0413#670		Well, today seems to have been a great day to come up here after all.
+map_0413#671		I get to solve not one, but two problems.
+map_0413#672		EVE: I will accept any punishment you deem fit to apply to me.
+map_0413#673		LUMI: Eve--
+map_0413#674		EVE: But before you do, 

@@ -1,0 +1,589 @@
+{"sec": 2, "key": "Seed", "en": "Seed", "ja": "たね"}
+{"sec": 2, "key": "Lizard", "en": "Lizard", "ja": "とかげ"}
+{"sec": 2, "key": "Flame", "en": "Flame", "ja": "かえん"}
+{"sec": 2, "key": "Tiny Turtle", "en": "Tiny Turtle", "ja": "かめのこ"}
+{"sec": 2, "key": "Turtle", "en": "Turtle", "ja": "かめ"}
+{"sec": 2, "key": "Shellfish", "en": "Shellfish", "ja": "こうら"}
+{"sec": 2, "key": "Worm", "en": "Worm", "ja": "いもむし"}
+{"sec": 2, "key": "Cocoon", "en": "Cocoon", "ja": "さなぎ"}
+{"sec": 2, "key": "Butterfly", "en": "Butterfly", "ja": "ちょうちょ"}
+{"sec": 2, "key": "Hairy Bug", "en": "Hairy Bug", "ja": "けむし"}
+{"sec": 2, "key": "Poison Bee", "en": "Poison Bee", "ja": "どくばち"}
+{"sec": 2, "key": "Tiny Bird", "en": "Tiny Bird", "ja": "ことり"}
+{"sec": 2, "key": "Bird", "en": "Bird", "ja": "とり"}
+{"sec": 2, "key": "Mouse", "en": "Mouse", "ja": "ねずみ"}
+{"sec": 2, "key": "Beak", "en": "Beak", "ja": "くちばし"}
+{"sec": 2, "key": "Snake", "en": "Snake", "ja": "へび"}
+{"sec": 2, "key": "Cobra", "en": "Cobra", "ja": "コブラ"}
+{"sec": 2, "key": "Poison Pin", "en": "Poison Pin", "ja": "どくばり"}
+{"sec": 2, "key": "Drill", "en": "Drill", "ja": "ドリル"}
+{"sec": 2, "key": "Fairy", "en": "Fairy", "ja": "ようせい"}
+{"sec": 2, "key": "Fox", "en": "Fox", "ja": "きつね"}
+{"sec": 2, "key": "Balloon", "en": "Balloon", "ja": "ふうせん"}
+{"sec": 2, "key": "Bat", "en": "Bat", "ja": "こうもり"}
+{"sec": 2, "key": "Weed", "en": "Weed", "ja": "ざっそう"}
+{"sec": 2, "key": "Flower", "en": "Flower", "ja": "フラワー"}
+{"sec": 2, "key": "Mushroom", "en": "Mushroom", "ja": "きのこ"}
+{"sec": 2, "key": "Insect", "en": "Insect", "ja": "こんちゅう"}
+{"sec": 2, "key": "Poison Moth", "en": "Poison Moth", "ja": "どくが"}
+{"sec": 2, "key": "Mole", "en": "Mole", "ja": "もぐら"}
+{"sec": 2, "key": "Scratch Cat", "en": "Scratch Cat", "ja": "ばけねこ"}
+{"sec": 2, "key": "Classy Cat", "en": "Classy Cat", "ja": "シャムネコ"}
+{"sec": 2, "key": "Duck", "en": "Duck", "ja": "あひる"}
+{"sec": 2, "key": "Pig Monkey", "en": "Pig Monkey", "ja": "ぶたざる"}
+{"sec": 2, "key": "Puppy", "en": "Puppy", "ja": "こいぬ"}
+{"sec": 2, "key": "Legendary", "en": "Legendary", "ja": "でんせつ"}
+{"sec": 2, "key": "Tadpole", "en": "Tadpole", "ja": "おたま"}
+{"sec": 2, "key": "Psi", "en": "Psi", "ja": "ねんりき"}
+{"sec": 2, "key": "Superpower", "en": "Superpower", "ja": "かいりき"}
+{"sec": 2, "key": "Flycatcher", "en": "Flycatcher", "ja": "ハエとり"}
+{"sec": 2, "key": "Jellyfish", "en": "Jellyfish", "ja": "くらげ"}
+{"sec": 2, "key": "Rock", "en": "Rock", "ja": "がんせき"}
+{"sec": 2, "key": "Megaton", "en": "Megaton", "ja": "メガトン"}
+{"sec": 2, "key": "Fire Horse", "en": "Fire Horse", "ja": "ひのうま"}
+{"sec": 2, "key": "Dopey", "en": "Dopey", "ja": "まぬけ"}
+{"sec": 2, "key": "Hermit Crab", "en": "Hermit Crab", "ja": "やどかり"}
+{"sec": 2, "key": "Magnet", "en": "Magnet", "ja": "じしゃく"}
+{"sec": 2, "key": "Wild Duck", "en": "Wild Duck", "ja": "かるがも"}
+{"sec": 2, "key": "Twin Bird", "en": "Twin Bird", "ja": "ふたごどり"}
+{"sec": 2, "key": "Triple Bird", "en": "Triple Bird", "ja": "みつごどり"}
+{"sec": 2, "key": "Sea Lion", "en": "Sea Lion", "ja": "あしか"}
+{"sec": 2, "key": "Sludge", "en": "Sludge", "ja": "ヘドロ"}
+{"sec": 2, "key": "Bivalve", "en": "Bivalve", "ja": "２まいがい"}
+{"sec": 2, "key": "Gas", "en": "Gas", "ja": "ガスじょう"}
+{"sec": 2, "key": "Shadow", "en": "Shadow", "ja": "シャドー"}
+{"sec": 2, "key": "Rock Snake", "en": "Rock Snake", "ja": "いわへび"}
+{"sec": 2, "key": "Hypnosis", "en": "Hypnosis", "ja": "さいみん"}
+{"sec": 2, "key": "River Crab", "en": "River Crab", "ja": "さわがに"}
+{"sec": 2, "key": "Pincer", "en": "Pincer", "ja": "はさみ"}
+{"sec": 2, "key": "Ball", "en": "Ball", "ja": "ボール"}
+{"sec": 2, "key": "Egg", "en": "Egg", "ja": "たまご"}
+{"sec": 2, "key": "Coconut", "en": "Coconut", "ja": "やしのみ"}
+{"sec": 2, "key": "Lonely", "en": "Lonely", "ja": "こどく"}
+{"sec": 2, "key": "Bone Keeper", "en": "Bone Keeper", "ja": "ほねずき"}
+{"sec": 2, "key": "Kicking", "en": "Kicking", "ja": "キック"}
+{"sec": 2, "key": "Punching", "en": "Punching", "ja": "パンチ"}
+{"sec": 2, "key": "Licking", "en": "Licking", "ja": "なめまわし"}
+{"sec": 2, "key": "Poison Gas", "en": "Poison Gas", "ja": "どくガス"}
+{"sec": 2, "key": "Spikes", "en": "Spikes", "ja": "とげとげ"}
+{"sec": 2, "key": "Vine", "en": "Vine", "ja": "ツルじょう"}
+{"sec": 2, "key": "Parent", "en": "Parent", "ja": "おやこ"}
+{"sec": 2, "key": "Dragon", "en": "Dragon", "ja": "ドラゴン"}
+{"sec": 2, "key": "Goldfish", "en": "Goldfish", "ja": "きんぎょ"}
+{"sec": 2, "key": "Star Shape", "en": "Star Shape", "ja": "ほしがた"}
+{"sec": 2, "key": "Mysterious", "en": "Mysterious", "ja": "なぞの"}
+{"sec": 2, "key": "Barrier", "en": "Barrier", "ja": "バリアー"}
+{"sec": 2, "key": "Mantis", "en": "Mantis", "ja": "かまきり"}
+{"sec": 2, "key": "Human Shape", "en": "Human Shape", "ja": "ひとがた"}
+{"sec": 2, "key": "Electric", "en": "Electric", "ja": "でんき"}
+{"sec": 2, "key": "Spitfire", "en": "Spitfire", "ja": "ひふき"}
+{"sec": 2, "key": "Stag Beetle", "en": "Stag Beetle", "ja": "くわがた"}
+{"sec": 2, "key": "Wild Bull", "en": "Wild Bull", "ja": "あばれうし"}
+{"sec": 2, "key": "Fish", "en": "Fish", "ja": "さかな"}
+{"sec": 2, "key": "Atrocious", "en": "Atrocious", "ja": "きょうあく"}
+{"sec": 2, "key": "Transport", "en": "Transport", "ja": "のりもの"}
+{"sec": 2, "key": "Transform", "en": "Transform", "ja": "へんしん"}
+{"sec": 2, "key": "Evolution", "en": "Evolution", "ja": "しんか"}
+{"sec": 2, "key": "Bubble Jet", "en": "Bubble Jet", "ja": "あわはき"}
+{"sec": 2, "key": "Lightning", "en": "Lightning", "ja": "いなずま"}
+{"sec": 2, "key": "Virtual", "en": "Virtual", "ja": "バーチャル"}
+{"sec": 2, "key": "Spiral", "en": "Spiral", "ja": "うずまき"}
+{"sec": 2, "key": "Fossil", "en": "Fossil", "ja": "かせき"}
+{"sec": 2, "key": "Sleeping", "en": "Sleeping", "ja": "い眠り"}
+{"sec": 2, "key": "Freeze", "en": "Freeze", "ja": "れいとう"}
+{"sec": 2, "key": "Genetic", "en": "Genetic", "ja": "いでんし"}
+{"sec": 2, "key": "New Species", "en": "New Species", "ja": "しんしゅ"}
+{"sec": 2, "key": "Leaf", "en": "Leaf", "ja": "はっぱ"}
+{"sec": 2, "key": "Herb", "en": "Herb", "ja": "ハーブ"}
+{"sec": 2, "key": "Fire Mouse", "en": "Fire Mouse", "ja": "ひねずみ"}
+{"sec": 2, "key": "Volcano", "en": "Volcano", "ja": "かざん"}
+{"sec": 2, "key": "Big Jaw", "en": "Big Jaw", "ja": "おおあご"}
+{"sec": 2, "key": "Scout", "en": "Scout", "ja": "みはり"}
+{"sec": 2, "key": "Long Body", "en": "Long Body", "ja": "どうなが"}
+{"sec": 2, "key": "Owl", "en": "Owl", "ja": "ふくろう"}
+{"sec": 2, "key": "Five Star", "en": "Five Star", "ja": "いつつぼし"}
+{"sec": 2, "key": "String Spit", "en": "String Spit", "ja": "いとはき"}
+{"sec": 2, "key": "Long Leg", "en": "Long Leg", "ja": "あしなが"}
+{"sec": 2, "key": "Angler", "en": "Angler", "ja": "あんこう"}
+{"sec": 2, "key": "Light", "en": "Light", "ja": "ライト"}
+{"sec": 2, "key": "Tiny Mouse", "en": "Tiny Mouse", "ja": "こねずみ"}
+{"sec": 2, "key": "Spike Ball", "en": "Spike Ball", "ja": "はりたま"}
+{"sec": 2, "key": "Happiness", "en": "Happiness", "ja": "しあわせ"}
+{"sec": 2, "key": "Mystic", "en": "Mystic", "ja": "せいれい"}
+{"sec": 2, "key": "Wool", "en": "Wool", "ja": "わたげ"}
+{"sec": 2, "key": "Aqua Mouse", "en": "Aqua Mouse", "ja": "みずねずみ"}
+{"sec": 2, "key": "Aqua Rabbit", "en": "Aqua Rabbit", "ja": "みずうさぎ"}
+{"sec": 2, "key": "Imitation", "en": "Imitation", "ja": "まね"}
+{"sec": 2, "key": "Frog", "en": "Frog", "ja": "かえる"}
+{"sec": 2, "key": "Cottonweed", "en": "Cottonweed", "ja": "わたくさ"}
+{"sec": 2, "key": "Long Tail", "en": "Long Tail", "ja": "おなが"}
+{"sec": 2, "key": "Sun", "en": "Sun", "ja": "たいよう"}
+{"sec": 2, "key": "Clear Wing", "en": "Clear Wing", "ja": "うすばね"}
+{"sec": 2, "key": "Water Fish", "en": "Water Fish", "ja": "みずうお"}
+{"sec": 2, "key": "Moonlight", "en": "Moonlight", "ja": "げっこう"}
+{"sec": 2, "key": "Darkness", "en": "Darkness", "ja": "くらやみ"}
+{"sec": 2, "key": "Royal", "en": "Royal", "ja": "おうじゃ"}
+{"sec": 2, "key": "Screech", "en": "Screech", "ja": "よなき"}
+{"sec": 2, "key": "Symbol", "en": "Symbol", "ja": "シンボル"}
+{"sec": 2, "key": "Patient", "en": "Patient", "ja": "がまん"}
+{"sec": 2, "key": "Long Neck", "en": "Long Neck", "ja": "くびなが"}
+{"sec": 2, "key": "Bagworm", "en": "Bagworm", "ja": "みのむし"}
+{"sec": 2, "key": "Land Snake", "en": "Land Snake", "ja": "つちへび"}
+{"sec": 2, "key": "FlyScorpion", "en": "FlyScorpion", "ja": "とびさそり"}
+{"sec": 2, "key": "Iron Snake", "en": "Iron Snake", "ja": "てつへび"}
+{"sec": 2, "key": "Mold", "en": "Mold", "ja": "はっこう"}
+{"sec": 2, "key": "Single Horn", "en": "Single Horn", "ja": "１ぽんヅノ"}
+{"sec": 2, "key": "Sharp Claw", "en": "Sharp Claw", "ja": "かぎづめ"}
+{"sec": 2, "key": "Little Bear", "en": "Little Bear", "ja": "こぐま"}
+{"sec": 2, "key": "Hibernator", "en": "Hibernator", "ja": "とうみん"}
+{"sec": 2, "key": "Lava", "en": "Lava", "ja": "ようがん"}
+{"sec": 2, "key": "Pig", "en": "Pig", "ja": "いのぶた"}
+{"sec": 2, "key": "Swine", "en": "Swine", "ja": "いのしし"}
+{"sec": 2, "key": "Coral", "en": "Coral", "ja": "さんご"}
+{"sec": 2, "key": "Jet", "en": "Jet", "ja": "ふんしゃ"}
+{"sec": 2, "key": "Delivery", "en": "Delivery", "ja": "はこびや"}
+{"sec": 2, "key": "Kite", "en": "Kite", "ja": "カイト"}
+{"sec": 2, "key": "Armor Bird", "en": "Armor Bird", "ja": "よろいどり"}
+{"sec": 2, "key": "Dark", "en": "Dark", "ja": "ダーク"}
+{"sec": 2, "key": "Long Nose", "en": "Long Nose", "ja": "ながはな"}
+{"sec": 2, "key": "Armor", "en": "Armor", "ja": "よろい"}
+{"sec": 2, "key": "Big Horn", "en": "Big Horn", "ja": "おおツノ"}
+{"sec": 2, "key": "Painter", "en": "Painter", "ja": "えかき"}
+{"sec": 2, "key": "Scuffle", "en": "Scuffle", "ja": "けんか"}
+{"sec": 2, "key": "Handstand", "en": "Handstand", "ja": "さかだち"}
+{"sec": 2, "key": "Kiss", "en": "Kiss", "ja": "くちづけ"}
+{"sec": 2, "key": "Live Coal", "en": "Live Coal", "ja": "ひだね"}
+{"sec": 2, "key": "Milk Cow", "en": "Milk Cow", "ja": "ちちうし"}
+{"sec": 2, "key": "Thunder", "en": "Thunder", "ja": "いかずち"}
+{"sec": 2, "key": "Aurora", "en": "Aurora", "ja": "オーロラ"}
+{"sec": 2, "key": "Rock Skin", "en": "Rock Skin", "ja": "いわはだ"}
+{"sec": 2, "key": "Hard Shell", "en": "Hard Shell", "ja": "だんがん"}
+{"sec": 2, "key": "Diving", "en": "Diving", "ja": "せんすい"}
+{"sec": 2, "key": "Rainbow", "en": "Rainbow", "ja": "にじいろ"}
+{"sec": 2, "key": "Time Travel", "en": "Time Travel", "ja": "ときわたり"}
+{"sec": 2, "key": "Wood Gecko", "en": "Wood Gecko", "ja": "もりトカゲ"}
+{"sec": 2, "key": "Forest", "en": "Forest", "ja": "みつりん"}
+{"sec": 2, "key": "Chick", "en": "Chick", "ja": "ひよこ"}
+{"sec": 2, "key": "Young Fowl", "en": "Young Fowl", "ja": "わかどり"}
+{"sec": 2, "key": "Blaze", "en": "Blaze", "ja": "もうか"}
+{"sec": 2, "key": "Mud Fish", "en": "Mud Fish", "ja": "ぬまうお"}
+{"sec": 2, "key": "Bite", "en": "Bite", "ja": "かみつき"}
+{"sec": 2, "key": "TinyRaccoon", "en": "TinyRaccoon", "ja": "まめだぬき"}
+{"sec": 2, "key": "Rushing", "en": "Rushing", "ja": "とっしん"}
+{"sec": 2, "key": "Water Weed", "en": "Water Weed", "ja": "うきくさ"}
+{"sec": 2, "key": "Jolly", "en": "Jolly", "ja": "ようき"}
+{"sec": 2, "key": "Carefree", "en": "Carefree", "ja": "のう天気"}
+{"sec": 2, "key": "Acorn", "en": "Acorn", "ja": "どんぐり"}
+{"sec": 2, "key": "Wily", "en": "Wily", "ja": "いじわる"}
+{"sec": 2, "key": "Wicked", "en": "Wicked", "ja": "よこしま"}
+{"sec": 2, "key": "TinySwallow", "en": "TinySwallow", "ja": "こツバメ"}
+{"sec": 2, "key": "Swallow", "en": "Swallow", "ja": "ツバメ"}
+{"sec": 2, "key": "Seagull", "en": "Seagull", "ja": "うみねこ"}
+{"sec": 2, "key": "Water Bird", "en": "Water Bird", "ja": "みずどり"}
+{"sec": 2, "key": "Feeling", "en": "Feeling", "ja": "きもち"}
+{"sec": 2, "key": "Emotion", "en": "Emotion", "ja": "かんじょう"}
+{"sec": 2, "key": "Embrace", "en": "Embrace", "ja": "ほうよう"}
+{"sec": 2, "key": "Pond Skater", "en": "Pond Skater", "ja": "あめんぼ"}
+{"sec": 2, "key": "Eyeball", "en": "Eyeball", "ja": "めだま"}
+{"sec": 2, "key": "Slacker", "en": "Slacker", "ja": "なまけもの"}
+{"sec": 2, "key": "Wild Monkey", "en": "Wild Monkey", "ja": "あばれザル"}
+{"sec": 2, "key": "Lazy", "en": "Lazy", "ja": "ものぐさ"}
+{"sec": 2, "key": "Trainee", "en": "Trainee", "ja": "したづみ"}
+{"sec": 2, "key": "Ninja", "en": "Ninja", "ja": "しのび"}
+{"sec": 2, "key": "Shed", "en": "Shed", "ja": "ぬけがら"}
+{"sec": 2, "key": "Whisper", "en": "Whisper", "ja": "ささやき"}
+{"sec": 2, "key": "Big Voice", "en": "Big Voice", "ja": "おおごえ"}
+{"sec": 2, "key": "Loud Noise", "en": "Loud Noise", "ja": "そうおん"}
+{"sec": 2, "key": "Guts", "en": "Guts", "ja": "こんじょう"}
+{"sec": 2, "key": "Arm Thrust", "en": "Arm Thrust", "ja": "つっぱり"}
+{"sec": 2, "key": "Polka Dot", "en": "Polka Dot", "ja": "みずたま"}
+{"sec": 2, "key": "Compass", "en": "Compass", "ja": "コンパス"}
+{"sec": 2, "key": "Kitten", "en": "Kitten", "ja": "こねこ"}
+{"sec": 2, "key": "Prim", "en": "Prim", "ja": "おすまし"}
+{"sec": 2, "key": "Deceiver", "en": "Deceiver", "ja": "あざむき"}
+{"sec": 2, "key": "Iron Armor", "en": "Iron Armor", "ja": "てつヨロイ"}
+{"sec": 2, "key": "Meditate", "en": "Meditate", "ja": "めいそう"}
+{"sec": 2, "key": "Discharge", "en": "Discharge", "ja": "ほうでん"}
+{"sec": 2, "key": "Cheering", "en": "Cheering", "ja": "おうえん"}
+{"sec": 2, "key": "Firefly", "en": "Firefly", "ja": "ほたる"}
+{"sec": 2, "key": "Thorn", "en": "Thorn", "ja": "いばら"}
+{"sec": 2, "key": "Stomach", "en": "Stomach", "ja": "いぶくろ"}
+{"sec": 2, "key": "Poison Bag", "en": "Poison Bag", "ja": "どくぶくろ"}
+{"sec": 2, "key": "Savage", "en": "Savage", "ja": "どうもう"}
+{"sec": 2, "key": "Brutal", "en": "Brutal", "ja": "きょうぼう"}
+{"sec": 2, "key": "Ball Whale", "en": "Ball Whale", "ja": "たまくじら"}
+{"sec": 2, "key": "Float Whale", "en": "Float Whale", "ja": "うきくじら"}
+{"sec": 2, "key": "Numb", "en": "Numb", "ja": "どんかん"}
+{"sec": 2, "key": "Eruption", "en": "Eruption", "ja": "ふんか"}
+{"sec": 2, "key": "Coal", "en": "Coal", "ja": "せきたん"}
+{"sec": 2, "key": "Bounce", "en": "Bounce", "ja": "とびはね"}
+{"sec": 2, "key": "Manipulate", "en": "Manipulate", "ja": "あやつり"}
+{"sec": 2, "key": "Spot Panda", "en": "Spot Panda", "ja": "ぶちパンダ"}
+{"sec": 2, "key": "Ant Pit", "en": "Ant Pit", "ja": "ありじごく"}
+{"sec": 2, "key": "Vibration", "en": "Vibration", "ja": "しんどう"}
+{"sec": 2, "key": "Cactus", "en": "Cactus", "ja": "サボテン"}
+{"sec": 2, "key": "Scarecrow", "en": "Scarecrow", "ja": "カカシぐさ"}
+{"sec": 2, "key": "Cotton Bird", "en": "Cotton Bird", "ja": "わたどり"}
+{"sec": 2, "key": "Humming", "en": "Humming", "ja": "ハミング"}
+{"sec": 2, "key": "Cat Ferret", "en": "Cat Ferret", "ja": "ネコイタチ"}
+{"sec": 2, "key": "Fang Snake", "en": "Fang Snake", "ja": "キバへび"}
+{"sec": 2, "key": "Meteorite", "en": "Meteorite", "ja": "いんせき"}
+{"sec": 2, "key": "Whiskers", "en": "Whiskers", "ja": "ひげうお"}
+{"sec": 2, "key": "Ruffian", "en": "Ruffian", "ja": "ごろつき"}
+{"sec": 2, "key": "Rogue", "en": "Rogue", "ja": "ならずもの"}
+{"sec": 2, "key": "Clay Doll", "en": "Clay Doll", "ja": "どぐう"}
+{"sec": 2, "key": "Sea Lily", "en": "Sea Lily", "ja": "ウミユリ"}
+{"sec": 2, "key": "Barnacle", "en": "Barnacle", "ja": "いわつぼ"}
+{"sec": 2, "key": "Old Shrimp", "en": "Old Shrimp", "ja": "むかしエビ"}
+{"sec": 2, "key": "Plate", "en": "Plate", "ja": "かっちゅう"}
+{"sec": 2, "key": "Tender", "en": "Tender", "ja": "いつくしみ"}
+{"sec": 2, "key": "Weather", "en": "Weather", "ja": "天気"}
+{"sec": 2, "key": "Color Swap", "en": "Color Swap", "ja": "いろへんげ"}
+{"sec": 2, "key": "Puppet", "en": "Puppet", "ja": "にんぎょう"}
+{"sec": 2, "key": "Marionette", "en": "Marionette", "ja": "ぬいぐるみ"}
+{"sec": 2, "key": "Requiem", "en": "Requiem", "ja": "おむかえ"}
+{"sec": 2, "key": "Beckon", "en": "Beckon", "ja": "てまねき"}
+{"sec": 2, "key": "Fruit", "en": "Fruit", "ja": "フルーツ"}
+{"sec": 2, "key": "Wind Chime", "en": "Wind Chime", "ja": "ふうりん"}
+{"sec": 2, "key": "Disaster", "en": "Disaster", "ja": "わざわい"}
+{"sec": 2, "key": "Bright", "en": "Bright", "ja": "ほがらか"}
+{"sec": 2, "key": "Snow Hat", "en": "Snow Hat", "ja": "ゆきかさ"}
+{"sec": 2, "key": "Face", "en": "Face", "ja": "がんめん"}
+{"sec": 2, "key": "Clap", "en": "Clap", "ja": "てたたき"}
+{"sec": 2, "key": "Ball Roll", "en": "Ball Roll", "ja": "たままわし"}
+{"sec": 2, "key": "Ice Break", "en": "Ice Break", "ja": "こおりわり"}
+{"sec": 2, "key": "Deep Sea", "en": "Deep Sea", "ja": "しんかい"}
+{"sec": 2, "key": "South Sea", "en": "South Sea", "ja": "なんかい"}
+{"sec": 2, "key": "Longevity", "en": "Longevity", "ja": "ちょうじゅ"}
+{"sec": 2, "key": "Rendezvous", "en": "Rendezvous", "ja": "ランデブー"}
+{"sec": 2, "key": "Rock Head", "en": "Rock Head", "ja": "いし頭"}
+{"sec": 2, "key": "Endurance", "en": "Endurance", "ja": "にんたい"}
+{"sec": 2, "key": "Iron Ball", "en": "Iron Ball", "ja": "てっきゅう"}
+{"sec": 2, "key": "Iron Claw", "en": "Iron Claw", "ja": "てつツメ"}
+{"sec": 2, "key": "Iron Leg", "en": "Iron Leg", "ja": "てつあし"}
+{"sec": 2, "key": "Rock Peak", "en": "Rock Peak", "ja": "いわやま"}
+{"sec": 2, "key": "Iceberg", "en": "Iceberg", "ja": "ひょうざん"}
+{"sec": 2, "key": "Iron", "en": "Iron", "ja": "くろがね"}
+{"sec": 2, "key": "Eon", "en": "Eon", "ja": "むげん"}
+{"sec": 2, "key": "Sea Basin", "en": "Sea Basin", "ja": "かいてい"}
+{"sec": 2, "key": "Continent", "en": "Continent", "ja": "たいりく"}
+{"sec": 2, "key": "Sky High", "en": "Sky High", "ja": "てんくう"}
+{"sec": 2, "key": "Wish", "en": "Wish", "ja": "ねがいごと"}
+{"sec": 2, "key": "DNA", "en": "DNA", "ja": "ＤＮＡ"}
+{"sec": 2, "key": "Tiny Leaf", "en": "Tiny Leaf", "ja": "わかば"}
+{"sec": 2, "key": "Grove", "en": "Grove", "ja": "こだち"}
+{"sec": 2, "key": "Chimp", "en": "Chimp", "ja": "こざる"}
+{"sec": 2, "key": "Playful", "en": "Playful", "ja": "やんちゃ"}
+{"sec": 2, "key": "Penguin", "en": "Penguin", "ja": "ペンギン"}
+{"sec": 2, "key": "Emperor", "en": "Emperor", "ja": "こうてい"}
+{"sec": 2, "key": "Starling", "en": "Starling", "ja": "むくどり"}
+{"sec": 2, "key": "Predator", "en": "Predator", "ja": "もうきん"}
+{"sec": 2, "key": "Plump Mouse", "en": "Plump Mouse", "ja": "まるねずみ"}
+{"sec": 2, "key": "Beaver", "en": "Beaver", "ja": "ビーバー"}
+{"sec": 2, "key": "Cricket", "en": "Cricket", "ja": "こおろぎ"}
+{"sec": 2, "key": "Flash", "en": "Flash", "ja": "せんこう"}
+{"sec": 2, "key": "Spark", "en": "Spark", "ja": "でんこう"}
+{"sec": 2, "key": "Gleam Eyes", "en": "Gleam Eyes", "ja": "がんこう"}
+{"sec": 2, "key": "Bud", "en": "Bud", "ja": "つぼみ"}
+{"sec": 2, "key": "Bouquet", "en": "Bouquet", "ja": "ブーケ"}
+{"sec": 2, "key": "Head Butt", "en": "Head Butt", "ja": "ずつき"}
+{"sec": 2, "key": "Shield", "en": "Shield", "ja": "シールド"}
+{"sec": 2, "key": "Moth", "en": "Moth", "ja": "ミノガ"}
+{"sec": 2, "key": "Tiny Bee", "en": "Tiny Bee", "ja": "はちのこ"}
+{"sec": 2, "key": "Beehive", "en": "Beehive", "ja": "はちのす"}
+{"sec": 2, "key": "EleSquirrel", "en": "EleSquirrel", "ja": "でんきりす"}
+{"sec": 2, "key": "Sea Weasel", "en": "Sea Weasel", "ja": "うみイタチ"}
+{"sec": 2, "key": "Cherry", "en": "Cherry", "ja": "さくらんぼ"}
+{"sec": 2, "key": "Blossom", "en": "Blossom", "ja": "サクラ"}
+{"sec": 2, "key": "Sea Slug", "en": "Sea Slug", "ja": "ウミウシ"}
+{"sec": 2, "key": "Blimp", "en": "Blimp", "ja": "ききゅう"}
+{"sec": 2, "key": "Rabbit", "en": "Rabbit", "ja": "うさぎ"}
+{"sec": 2, "key": "Magical", "en": "Magical", "ja": "マジカル"}
+{"sec": 2, "key": "Big Boss", "en": "Big Boss", "ja": "おおボス"}
+{"sec": 2, "key": "Catty", "en": "Catty", "ja": "ねこかぶり"}
+{"sec": 2, "key": "Tiger Cat", "en": "Tiger Cat", "ja": "とらねこ"}
+{"sec": 2, "key": "Bell", "en": "Bell", "ja": "すず"}
+{"sec": 2, "key": "Skunk", "en": "Skunk", "ja": "スカンク"}
+{"sec": 2, "key": "Bronze", "en": "Bronze", "ja": "せいどう"}
+{"sec": 2, "key": "Bronze Bell", "en": "Bronze Bell", "ja": "どうたく"}
+{"sec": 2, "key": "Bonsai", "en": "Bonsai", "ja": "ぼんさい"}
+{"sec": 2, "key": "Mime", "en": "Mime", "ja": "マイム"}
+{"sec": 2, "key": "Playhouse", "en": "Playhouse", "ja": "ままごと"}
+{"sec": 2, "key": "Music Note", "en": "Music Note", "ja": "おんぷ"}
+{"sec": 2, "key": "Forbidden", "en": "Forbidden", "ja": "ふういん"}
+{"sec": 2, "key": "Land Shark", "en": "Land Shark", "ja": "りくザメ"}
+{"sec": 2, "key": "Cave", "en": "Cave", "ja": "ほらあな"}
+{"sec": 2, "key": "Mach", "en": "Mach", "ja": "マッハ"}
+{"sec": 2, "key": "Big Eater", "en": "Big Eater", "ja": "おおぐい"}
+{"sec": 2, "key": "Emanation", "en": "Emanation", "ja": "はもん"}
+{"sec": 2, "key": "Aura", "en": "Aura", "ja": "はどう"}
+{"sec": 2, "key": "Hippo", "en": "Hippo", "ja": "カバ"}
+{"sec": 2, "key": "Heavyweight", "en": "Heavyweight", "ja": "じゅうりょう"}
+{"sec": 2, "key": "Scorpion", "en": "Scorpion", "ja": "さそり"}
+{"sec": 2, "key": "Ogre Scorpion", "en": "Ogre Scorpion", "ja": "ばけさそり"}
+{"sec": 2, "key": "Toxic Mouth", "en": "Toxic Mouth", "ja": "どくづき"}
+{"sec": 2, "key": "Bug Catcher", "en": "Bug Catcher", "ja": "むしとり"}
+{"sec": 2, "key": "Wing Fish", "en": "Wing Fish", "ja": "はねうお"}
+{"sec": 2, "key": "Neon", "en": "Neon", "ja": "ネオン"}
+{"sec": 2, "key": "Frost Tree", "en": "Frost Tree", "ja": "じゅひょう"}
+{"sec": 2, "key": "Magnet Area", "en": "Magnet Area", "ja": "じば"}
+{"sec": 2, "key": "Thunderbolt", "en": "Thunderbolt", "ja": "らいでん"}
+{"sec": 2, "key": "Blast", "en": "Blast", "ja": "ばくえん"}
+{"sec": 2, "key": "Jubilee", "en": "Jubilee", "ja": "しゅくふく"}
+{"sec": 2, "key": "Ogre Darner", "en": "Ogre Darner", "ja": "オニトンボ"}
+{"sec": 2, "key": "Verdant", "en": "Verdant", "ja": "しんりょく"}
+{"sec": 2, "key": "Fresh Snow", "en": "Fresh Snow", "ja": "しんせつ"}
+{"sec": 2, "key": "Fang Scorpion", "en": "Fang Scorpion", "ja": "キバさそり"}
+{"sec": 2, "key": "Twin Tusk", "en": "Twin Tusk", "ja": "２ほんキバ"}
+{"sec": 2, "key": "Blade", "en": "Blade", "ja": "やいば"}
+{"sec": 2, "key": "Gripper", "en": "Gripper", "ja": "てづかみ"}
+{"sec": 2, "key": "Snow Land", "en": "Snow Land", "ja": "ゆきぐに"}
+{"sec": 2, "key": "Plasma", "en": "Plasma", "ja": "プラズマ"}
+{"sec": 2, "key": "Knowledge", "en": "Knowledge", "ja": "ちしき"}
+{"sec": 2, "key": "Willpower", "en": "Willpower", "ja": "いし"}
+{"sec": 2, "key": "Temporal", "en": "Temporal", "ja": "時間"}
+{"sec": 2, "key": "Spatial", "en": "Spatial", "ja": "くうかん"}
+{"sec": 2, "key": "Lava Dome", "en": "Lava Dome", "ja": "かこう"}
+{"sec": 2, "key": "Colossal", "en": "Colossal", "ja": "きょだい"}
+{"sec": 2, "key": "Renegade", "en": "Renegade", "ja": "はんこつ"}
+{"sec": 2, "key": "Lunar", "en": "Lunar", "ja": "みかづき"}
+{"sec": 2, "key": "Sea Drifter", "en": "Sea Drifter", "ja": "かいよう"}
+{"sec": 2, "key": "Seafaring", "en": "Seafaring", "ja": "かいゆう"}
+{"sec": 2, "key": "Pitch-Black", "en": "Pitch-Black", "ja": "あんこく"}
+{"sec": 2, "key": "Gratitude", "en": "Gratitude", "ja": "かんしゃ"}
+{"sec": 2, "key": "Alpha", "en": "Alpha", "ja": "そうぞう"}
+{"sec": 2, "key": "Victory", "en": "Victory", "ja": "しょうり"}
+{"sec": 2, "key": "Grass Snake", "en": "Grass Snake", "ja": "くさへび"}
+{"sec": 2, "key": "Regal", "en": "Regal", "ja": "ロイヤル"}
+{"sec": 2, "key": "Fire Pig", "en": "Fire Pig", "ja": "ひぶた"}
+{"sec": 2, "key": "Mega Fire Pig", "en": "Mega Fire Pig", "ja": "おおひぶた"}
+{"sec": 2, "key": "Sea Otter", "en": "Sea Otter", "ja": "ラッコ"}
+{"sec": 2, "key": "Discipline", "en": "Discipline", "ja": "しゅぎょう"}
+{"sec": 2, "key": "Formidable", "en": "Formidable", "ja": "かんろく"}
+{"sec": 2, "key": "Lookout", "en": "Lookout", "ja": "けいかい"}
+{"sec": 2, "key": "Loyal Dog", "en": "Loyal Dog", "ja": "ちゅうけん"}
+{"sec": 2, "key": "Big-Hearted", "en": "Big-Hearted", "ja": "かんだい"}
+{"sec": 2, "key": "Devious", "en": "Devious", "ja": "しょうわる"}
+{"sec": 2, "key": "Cruel", "en": "Cruel", "ja": "れいこく"}
+{"sec": 2, "key": "Grass Monkey", "en": "Grass Monkey", "ja": "くさざる"}
+{"sec": 2, "key": "Thorn Monkey", "en": "Thorn Monkey", "ja": "とげざる"}
+{"sec": 2, "key": "High Temp", "en": "High Temp", "ja": "こうおん"}
+{"sec": 2, "key": "Ember", "en": "Ember", "ja": "ひのこ"}
+{"sec": 2, "key": "Spray", "en": "Spray", "ja": "みずかけ"}
+{"sec": 2, "key": "Geyser", "en": "Geyser", "ja": "ほうすい"}
+{"sec": 2, "key": "Dream Eater", "en": "Dream Eater", "ja": "ゆめくい"}
+{"sec": 2, "key": "Drowsing", "en": "Drowsing", "ja": "ゆめうつつ"}
+{"sec": 2, "key": "Tiny Pigeon", "en": "Tiny Pigeon", "ja": "こばと"}
+{"sec": 2, "key": "Wild Pigeon", "en": "Wild Pigeon", "ja": "のばと"}
+{"sec": 2, "key": "Proud", "en": "Proud", "ja": "プライド"}
+{"sec": 2, "key": "Electrified", "en": "Electrified", "ja": "たいでん"}
+{"sec": 2, "key": "Mantle", "en": "Mantle", "ja": "マントル"}
+{"sec": 2, "key": "Ore", "en": "Ore", "ja": "こうせき"}
+{"sec": 2, "key": "Compressed", "en": "Compressed", "ja": "こうあつ"}
+{"sec": 2, "key": "Courting", "en": "Courting", "ja": "きゅうあい"}
+{"sec": 2, "key": "Subterrene", "en": "Subterrene", "ja": "ちてい"}
+{"sec": 2, "key": "Hearing", "en": "Hearing", "ja": "ヒヤリング"}
+{"sec": 2, "key": "Muscular", "en": "Muscular", "ja": "きんこつ"}
+{"sec": 2, "key": "Judo", "en": "Judo", "ja": "じゅうどう"}
+{"sec": 2, "key": "Karate", "en": "Karate", "ja": "からて"}
+{"sec": 2, "key": "Sewing", "en": "Sewing", "ja": "さいほう"}
+{"sec": 2, "key": "Leaf-Wrapped", "en": "Leaf-Wrapped", "ja": "はごもり"}
+{"sec": 2, "key": "Nurturing", "en": "Nurturing", "ja": "こそだて"}
+{"sec": 2, "key": "Centipede", "en": "Centipede", "ja": "ムカデ"}
+{"sec": 2, "key": "Curlipede", "en": "Curlipede", "ja": "まゆムカデ"}
+{"sec": 2, "key": "Megapede", "en": "Megapede", "ja": "メガムカデ"}
+{"sec": 2, "key": "Cotton Puff", "en": "Cotton Puff", "ja": "わたたま"}
+{"sec": 2, "key": "Windveiled", "en": "Windveiled", "ja": "風かくれ"}
+{"sec": 2, "key": "Bulb", "en": "Bulb", "ja": "ねっこ"}
+{"sec": 2, "key": "Flowering", "en": "Flowering", "ja": "わたかざり"}
+{"sec": 2, "key": "Hostile", "en": "Hostile", "ja": "らんぼう"}
+{"sec": 2, "key": "Desert Croc", "en": "Desert Croc", "ja": "さばくワニ"}
+{"sec": 2, "key": "Intimidation", "en": "Intimidation", "ja": "いかく"}
+{"sec": 2, "key": "Zen Charm", "en": "Zen Charm", "ja": "だるま"}
+{"sec": 2, "key": "Blazing", "en": "Blazing", "ja": "えんじょう"}
+{"sec": 2, "key": "Rock Inn", "en": "Rock Inn", "ja": "いしやど"}
+{"sec": 2, "key": "Stone Home", "en": "Stone Home", "ja": "いわやど"}
+{"sec": 2, "key": "Shedding", "en": "Shedding", "ja": "だっぴ"}
+{"sec": 2, "key": "Hoodlum", "en": "Hoodlum", "ja": "あくとう"}
+{"sec": 2, "key": "Avianoid", "en": "Avianoid", "ja": "とりもどき"}
+{"sec": 2, "key": "Spirit", "en": "Spirit", "ja": "たましい"}
+{"sec": 2, "key": "Coffin", "en": "Coffin", "ja": "かんおけ"}
+{"sec": 2, "key": "Prototurtle", "en": "Prototurtle", "ja": "こだいがめ"}
+{"sec": 2, "key": "First Bird", "en": "First Bird", "ja": "さいこどり"}
+{"sec": 2, "key": "Trash Bag", "en": "Trash Bag", "ja": "ゴミぶくろ"}
+{"sec": 2, "key": "Trash Heap", "en": "Trash Heap", "ja": "ゴミすてば"}
+{"sec": 2, "key": "Tricky Fox", "en": "Tricky Fox", "ja": "わるぎつね"}
+{"sec": 2, "key": "Illusion Fox", "en": "Illusion Fox", "ja": "ばけぎつね"}
+{"sec": 2, "key": "Chinchilla", "en": "Chinchilla", "ja": "チンチラ"}
+{"sec": 2, "key": "Scarf", "en": "Scarf", "ja": "スカーフ"}
+{"sec": 2, "key": "Fixation", "en": "Fixation", "ja": "ぎょうし"}
+{"sec": 2, "key": "Astral Body", "en": "Astral Body", "ja": "てんたい"}
+{"sec": 2, "key": "Cell", "en": "Cell", "ja": "さいぼう"}
+{"sec": 2, "key": "Mitosis", "en": "Mitosis", "ja": "ぶんかつ"}
+{"sec": 2, "key": "Multiplying", "en": "Multiplying", "ja": "ぞうふく"}
+{"sec": 2, "key": "White Bird", "en": "White Bird", "ja": "しらとり"}
+{"sec": 2, "key": "Icy Snow", "en": "Icy Snow", "ja": "ひょうせつ"}
+{"sec": 2, "key": "Snowstorm", "en": "Snowstorm", "ja": "ブリザード"}
+{"sec": 2, "key": "Season", "en": "Season", "ja": "きせつ"}
+{"sec": 2, "key": "Sky Squirrel", "en": "Sky Squirrel", "ja": "モモンガ"}
+{"sec": 2, "key": "Clamping", "en": "Clamping", "ja": "かぶりつき"}
+{"sec": 2, "key": "Cavalry", "en": "Cavalry", "ja": "きへい"}
+{"sec": 2, "key": "Floating", "en": "Floating", "ja": "ふゆう"}
+{"sec": 2, "key": "Caring", "en": "Caring", "ja": "かいほう"}
+{"sec": 2, "key": "Attaching", "en": "Attaching", "ja": "くっつき"}
+{"sec": 2, "key": "EleSpider", "en": "EleSpider", "ja": "でんきグモ"}
+{"sec": 2, "key": "Thorn Seed", "en": "Thorn Seed", "ja": "とげのみ"}
+{"sec": 2, "key": "Thorn Pod", "en": "Thorn Pod", "ja": "とげだま"}
+{"sec": 2, "key": "Gear", "en": "Gear", "ja": "はぐるま"}
+{"sec": 2, "key": "EleFish", "en": "EleFish", "ja": "でんきうお"}
+{"sec": 2, "key": "Cerebral", "en": "Cerebral", "ja": "ブレイン"}
+{"sec": 2, "key": "Candle", "en": "Candle", "ja": "ろうそく"}
+{"sec": 2, "key": "Lamp", "en": "Lamp", "ja": "ランプ"}
+{"sec": 2, "key": "Luring", "en": "Luring", "ja": "いざない"}
+{"sec": 2, "key": "Tusk", "en": "Tusk", "ja": "キバ"}
+{"sec": 2, "key": "Axe Jaw", "en": "Axe Jaw", "ja": "あごオノ"}
+{"sec": 2, "key": "Chill", "en": "Chill", "ja": "ひょうけつ"}
+{"sec": 2, "key": "Freezing", "en": "Freezing", "ja": "とうけつ"}
+{"sec": 2, "key": "Crystallizing", "en": "Crystallizing", "ja": "けっしょう"}
+{"sec": 2, "key": "Snail", "en": "Snail", "ja": "マイマイ"}
+{"sec": 2, "key": "Shell Out", "en": "Shell Out", "ja": "からぬけ"}
+{"sec": 2, "key": "Trap", "en": "Trap", "ja": "トラップ"}
+{"sec": 2, "key": "Martial Arts", "en": "Martial Arts", "ja": "ぶじゅつ"}
+{"sec": 2, "key": "Automaton", "en": "Automaton", "ja": "ゴーレム"}
+{"sec": 2, "key": "Sharp Blade", "en": "Sharp Blade", "ja": "はもの"}
+{"sec": 2, "key": "Sword Blade", "en": "Sword Blade", "ja": "とうじん"}
+{"sec": 2, "key": "Bash Buffalo", "en": "Bash Buffalo", "ja": "ずつきうし"}
+{"sec": 2, "key": "Eaglet", "en": "Eaglet", "ja": "ヒナわし"}
+{"sec": 2, "key": "Valiant", "en": "Valiant", "ja": "ゆうもう"}
+{"sec": 2, "key": "Diapered", "en": "Diapered", "ja": "おむつ"}
+{"sec": 2, "key": "Bone Vulture", "en": "Bone Vulture", "ja": "ほねわし"}
+{"sec": 2, "key": "Anteater", "en": "Anteater", "ja": "アリクイ"}
+{"sec": 2, "key": "Iron Ant", "en": "Iron Ant", "ja": "てつアリ"}
+{"sec": 2, "key": "Irate", "en": "Irate", "ja": "そぼう"}
+{"sec": 2, "key": "Torch", "en": "Torch", "ja": "たいまつ"}
+{"sec": 2, "key": "Iron Will", "en": "Iron Will", "ja": "てっしん"}
+{"sec": 2, "key": "Cavern", "en": "Cavern", "ja": "がんくつ"}
+{"sec": 2, "key": "Grassland", "en": "Grassland", "ja": "そうげん"}
+{"sec": 2, "key": "Cyclone", "en": "Cyclone", "ja": "せんぷう"}
+{"sec": 2, "key": "Bolt Strike", "en": "Bolt Strike", "ja": "らいげき"}
+{"sec": 2, "key": "Vast White", "en": "Vast White", "ja": "はくよう"}
+{"sec": 2, "key": "Deep Black", "en": "Deep Black", "ja": "こくいん"}
+{"sec": 2, "key": "Abundance", "en": "Abundance", "ja": "ほうじょう"}
+{"sec": 2, "key": "Boundary", "en": "Boundary", "ja": "きょうかい"}
+{"sec": 2, "key": "Colt", "en": "Colt", "ja": "わかごま"}
+{"sec": 2, "key": "Melody", "en": "Melody", "ja": "せんりつ"}
+{"sec": 2, "key": "Paleozoic", "en": "Paleozoic", "ja": "こせいだい"}
+{"sec": 2, "key": "Spiky Nut", "en": "Spiky Nut", "ja": "いがぐり"}
+{"sec": 2, "key": "Spiky Armor", "en": "Spiky Armor", "ja": "とげよろい"}
+{"sec": 2, "key": "Bubble Frog", "en": "Bubble Frog", "ja": "あわがえる"}
+{"sec": 2, "key": "Digging", "en": "Digging", "ja": "あなほり"}
+{"sec": 2, "key": "Tiny Robin", "en": "Tiny Robin", "ja": "コマドリ"}
+{"sec": 2, "key": "Scorching", "en": "Scorching", "ja": "れっか"}
+{"sec": 2, "key": "Scatterdust", "en": "Scatterdust", "ja": "こなふき"}
+{"sec": 2, "key": "Scale", "en": "Scale", "ja": "りんぷん"}
+{"sec": 2, "key": "Lion Cub", "en": "Lion Cub", "ja": "わかじし"}
+{"sec": 2, "key": "Single Bloom", "en": "Single Bloom", "ja": "いちりん"}
+{"sec": 2, "key": "Garden", "en": "Garden", "ja": "ガーデン"}
+{"sec": 2, "key": "Mount", "en": "Mount", "ja": "ライド"}
+{"sec": 2, "key": "Daunting", "en": "Daunting", "ja": "こわもて"}
+{"sec": 2, "key": "Poodle", "en": "Poodle", "ja": "プードル"}
+{"sec": 2, "key": "Restraint", "en": "Restraint", "ja": "じせい"}
+{"sec": 2, "key": "Constraint", "en": "Constraint", "ja": "よくせい"}
+{"sec": 2, "key": "Sword", "en": "Sword", "ja": "とうけん"}
+{"sec": 2, "key": "Royal Sword", "en": "Royal Sword", "ja": "おうけん"}
+{"sec": 2, "key": "Perfume", "en": "Perfume", "ja": "こうすい"}
+{"sec": 2, "key": "Fragrance", "en": "Fragrance", "ja": "ほうこう"}
+{"sec": 2, "key": "Cotton Candy", "en": "Cotton Candy", "ja": "わたあめ"}
+{"sec": 2, "key": "Meringue", "en": "Meringue", "ja": "ホイップ"}
+{"sec": 2, "key": "Revolving", "en": "Revolving", "ja": "かいてん"}
+{"sec": 2, "key": "Overturning", "en": "Overturning", "ja": "ぎゃくてん"}
+{"sec": 2, "key": "Two-Handed", "en": "Two-Handed", "ja": "ふたて"}
+{"sec": 2, "key": "Collective", "en": "Collective", "ja": "しゅうごう"}
+{"sec": 2, "key": "Mock Kelp", "en": "Mock Kelp", "ja": "クサモドキ"}
+{"sec": 2, "key": "Water Gun", "en": "Water Gun", "ja": "みずでっぽう"}
+{"sec": 2, "key": "Howitzer", "en": "Howitzer", "ja": "ランチャー"}
+{"sec": 2, "key": "Generator", "en": "Generator", "ja": "はつでん"}
+{"sec": 2, "key": "Royal Heir", "en": "Royal Heir", "ja": "ようくん"}
+{"sec": 2, "key": "Despot", "en": "Despot", "ja": "ぼうくん"}
+{"sec": 2, "key": "Tundra", "en": "Tundra", "ja": "ツンドラ"}
+{"sec": 2, "key": "Intertwining", "en": "Intertwining", "ja": "むすびつき"}
+{"sec": 2, "key": "Wrestling", "en": "Wrestling", "ja": "レスリング"}
+{"sec": 2, "key": "Antenna", "en": "Antenna", "ja": "アンテナ"}
+{"sec": 2, "key": "Jewel", "en": "Jewel", "ja": "ほうせき"}
+{"sec": 2, "key": "Soft Tissue", "en": "Soft Tissue", "ja": "なんたい"}
+{"sec": 2, "key": "Key Ring", "en": "Key Ring", "ja": "かぎたば"}
+{"sec": 2, "key": "Stump", "en": "Stump", "ja": "きりかぶ"}
+{"sec": 2, "key": "Elder Tree", "en": "Elder Tree", "ja": "ろうぼく"}
+{"sec": 2, "key": "Pumpkin", "en": "Pumpkin", "ja": "かぼちゃ"}
+{"sec": 2, "key": "Ice Chunk", "en": "Ice Chunk", "ja": "ひょうかい"}
+{"sec": 2, "key": "Sound Wave", "en": "Sound Wave", "ja": "おんぱ"}
+{"sec": 2, "key": "Life", "en": "Life", "ja": "せいめい"}
+{"sec": 2, "key": "Destruction", "en": "Destruction", "ja": "はかい"}
+{"sec": 2, "key": "Order", "en": "Order", "ja": "ちつじょ"}
+{"sec": 2, "key": "Mischief", "en": "Mischief", "ja": "いたずら"}
+{"sec": 2, "key": "Steam", "en": "Steam", "ja": "スチーム"}
+{"sec": 2, "key": "Grass Quill", "en": "Grass Quill", "ja": "くさばね"}
+{"sec": 2, "key": "Blade Quill", "en": "Blade Quill", "ja": "はばね"}
+{"sec": 2, "key": "Arrow Quill", "en": "Arrow Quill", "ja": "やばね"}
+{"sec": 2, "key": "Fire Cat", "en": "Fire Cat", "ja": "ひねこ"}
+{"sec": 2, "key": "Heel", "en": "Heel", "ja": "ヒール"}
+{"sec": 2, "key": "Pop Star", "en": "Pop Star", "ja": "アイドル"}
+{"sec": 2, "key": "Soloist", "en": "Soloist", "ja": "ソリスト"}
+{"sec": 2, "key": "Woodpecker", "en": "Woodpecker", "ja": "きつつき"}
+{"sec": 2, "key": "Bugle Beak", "en": "Bugle Beak", "ja": "ラッパぐち"}
+{"sec": 2, "key": "Cannon", "en": "Cannon", "ja": "おおづつ"}
+{"sec": 2, "key": "Loitering", "en": "Loitering", "ja": "うろつき"}
+{"sec": 2, "key": "Stakeout", "en": "Stakeout", "ja": "はりこみ"}
+{"sec": 2, "key": "Larva", "en": "Larva", "ja": "ようちゅう"}
+{"sec": 2, "key": "Battery", "en": "Battery", "ja": "バッテリー"}
+{"sec": 2, "key": "Boxing", "en": "Boxing", "ja": "けんとう"}
+{"sec": 2, "key": "Woolly Crab", "en": "Woolly Crab", "ja": "けがに"}
+{"sec": 2, "key": "Dancing", "en": "Dancing", "ja": "ダンス"}
+{"sec": 2, "key": "Bee Fly", "en": "Bee Fly", "ja": "ツリアブ"}
+{"sec": 2, "key": "Wolf", "en": "Wolf", "ja": "オオカミ"}
+{"sec": 2, "key": "Small Fry", "en": "Small Fry", "ja": "こざかな"}
+{"sec": 2, "key": "Brutal Star", "en": "Brutal Star", "ja": "ヒトデナシ"}
+{"sec": 2, "key": "Donkey", "en": "Donkey", "ja": "うさぎうま"}
+{"sec": 2, "key": "Draft Horse", "en": "Draft Horse", "ja": "ばんば"}
+{"sec": 2, "key": "Water Bubble", "en": "Water Bubble", "ja": "すいほう"}
+{"sec": 2, "key": "Sickle Grass", "en": "Sickle Grass", "ja": "かまくさ"}
+{"sec": 2, "key": "Bloom Sickle", "en": "Bloom Sickle", "ja": "はなかま"}
+{"sec": 2, "key": "Illuminating", "en": "Illuminating", "ja": "はっこう"}
+{"sec": 2, "key": "Toxic Lizard", "en": "Toxic Lizard", "ja": "どくトカゲ"}
+{"sec": 2, "key": "Flailing", "en": "Flailing", "ja": "じたばた"}
+{"sec": 2, "key": "Strong Arm", "en": "Strong Arm", "ja": "ごうわん"}
+{"sec": 2, "key": "Posy Picker", "en": "Posy Picker", "ja": "はなつみ"}
+{"sec": 2, "key": "Sage", "en": "Sage", "ja": "けんじゃ"}
+{"sec": 2, "key": "Teamwork", "en": "Teamwork", "ja": "れんけい"}
+{"sec": 2, "key": "Turn Tail", "en": "Turn Tail", "ja": "そうこう"}
+{"sec": 2, "key": "Hard Scale", "en": "Hard Scale", "ja": "そうこう"}
+{"sec": 2, "key": "Sand Heap", "en": "Sand Heap", "ja": "すなやま"}
+{"sec": 2, "key": "Sand Castle", "en": "Sand Castle", "ja": "すなのしろ"}
+{"sec": 2, "key": "Sea Cucumber", "en": "Sea Cucumber", "ja": "なまこ"}
+{"sec": 2, "key": "Synthetic", "en": "Synthetic", "ja": "じんこう"}
+{"sec": 2, "key": "Meteor", "en": "Meteor", "ja": "ながれぼし"}
+{"sec": 2, "key": "Blast Turtle", "en": "Blast Turtle", "ja": "爆発がめ"}
+{"sec": 2, "key": "Roly-Poly", "en": "Roly-Poly", "ja": "まるまり"}
+{"sec": 2, "key": "Disguise", "en": "Disguise", "ja": "ばけのかわ"}
+{"sec": 2, "key": "Gnash Teeth", "en": "Gnash Teeth", "ja": "はぎしり"}
+{"sec": 2, "key": "Placid", "en": "Placid", "ja": "ゆうゆう"}
+{"sec": 2, "key": "Sea Creeper", "en": "Sea Creeper", "ja": "もくず"}
+{"sec": 2, "key": "Scaly", "en": "Scaly", "ja": "うろこ"}
+{"sec": 2, "key": "Land Spirit", "en": "Land Spirit", "ja": "とちがみ"}
+{"sec": 2, "key": "Nebula", "en": "Nebula", "ja": "せいうん"}
+{"sec": 2, "key": "Protostar", "en": "Protostar", "ja": "げんしせい"}
+{"sec": 2, "key": "Sunne", "en": "Sunne", "ja": "にちりん"}
+{"sec": 2, "key": "Moone", "en": "Moone", "ja": "がちりん"}
+{"sec": 2, "key": "Parasite", "en": "Parasite", "ja": "きせい"}
+{"sec": 2, "key": "Swollen", "en": "Swollen", "ja": "ぼうちょう"}
+{"sec": 2, "key": "Lissome", "en": "Lissome", "ja": "えんび"}
+{"sec": 2, "key": "Glowing", "en": "Glowing", "ja": "でんしょく"}
+{"sec": 2, "key": "Launch", "en": "Launch", "ja": "うちあげ"}
+{"sec": 2, "key": "Drawn Sword", "en": "Drawn Sword", "ja": "ばっとう"}
+{"sec": 2, "key": "Junkivore", "en": "Junkivore", "ja": "あくじき"}
+{"sec": 2, "key": "Prism", "en": "Prism", "ja": "プリズム"}
+{"sec": 2, "key": "Artificial", "en": "Artificial", "ja": "じんぞう"}
+{"sec": 2, "key": "Gloomdweller", "en": "Gloomdweller", "ja": "かげすみ"}
+{"sec": 2, "key": "Rampart", "en": "Rampart", "ja": "いしがき"}
+{"sec": 2, "key": "Fireworks", "en": "Fireworks", "ja": "はなび"}
+{"sec": 2, "key": "Thunderclap", "en": "Thunderclap", "ja": "じんらい"}

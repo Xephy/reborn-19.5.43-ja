@@ -1,0 +1,350 @@
+map_0245#136		With his help, we have now obtained two of the four keys-- Ruby and Amethyst.
+map_0245#137		SIGMUND: Forgive me for asking, but have we, somehow, met before?
+map_0245#138		LIN: Impossible.
+map_0245#139		SIGMUND: Y-yes.
+map_0245#140		SIRIUS: As for the other keys, Solaris has a lead on Sapphire, and the Emerald--
+map_0245#142		LIN: Go on.
+map_0245#143		SIRIUS: There is... no particular news about the Emerald Brooch.
+map_0245#144		LIN: Lying becomes you, Sirius. 
+map_0245#145		SIRIUS: I beg your pardon?
+map_0245#146		You may have received no shortage of praise from Solaris, but do not assume you can talk down to me.
+map_0245#147		I still have seniority, and I will have your res--
+map_0245#148		LIN: Know your place,
+map_0245#149		Sirius,
+map_0245#150		Or has it not already made itself known to you?
+map_0245#151		What more will you lose before you learn it?
+map_0245#152		SIRIUS: ...You.
+map_0245#153		You set up that fake Emerald Brooch!
+map_0245#154		LIN: A bold accusation.
+map_0245#155		Can you provide any evidence? 
+map_0245#156		SIRIUS: As the one who rigged it to explode, you already know the answer to that!
+map_0245#157		Do you know all that was lost up there?!
+map_0245#158		LIN: Can you not create a more professional outlet to vent your frustration at your own failures?
+map_0245#159		To turn on your fellow commander...
+map_0245#160		I fear it will call into question your loyalty.
+map_0245#161		SIRIUS: MY loyalty?!
+map_0245#162		LIN: Your competence as well.
+map_0245#163		An astute leader like yourself should have the common sense to know when to fight,
+map_0245#164		When to stay quiet,
+map_0245#165		And when to bend the knee.
+map_0245#166		GRUNT: Commander! 
+map_0245#167		A giant Steelix has just breached the side of the base!
+map_0245#168		It's tearing it apart!
+map_0245#169		It bit right through the holding cells!
+map_0245#170		SIRIUS: A what?
+map_0245#171		LIN: You wouldn't happen to know anything about this, would you, \PN?
+map_0245#172		LIN: Size does not equate to strength. 
+map_0245#173		I'll deal with it.
+map_0245#174		SIRIUS: \PN.
+map_0245#175		Leave us.
+map_0245#176		NOW.
+map_0245#177		This will be your only chance.
+map_0245#178		SIRIUS: Go.
+map_0245#179		I will not afford you the chance to be told twice.
+map_0245#180		zeL: Good luck, \PN...
+map_0245#181		Zel: Lumi, \PN is the enemy, don't wish them luck!
+map_0245#182		zeL: O-oh... Right.
+map_0250#0		"Captain's Log"
+map_0250#1		Should you read this?
+map_0250#2		Transit Log: Stock: 4,600 Poké Balls; 1,200 Potions; 1,200 Super Potions; 1,200 Hyper Potions; 1,200 Max Potions; 2,400 Full Heals; 800 Full Restores
+map_0250#3		En route to Reborn City via the Orre Region, order of Silph Co.
+map_0250#4		Transit: Empty Freight
+map_0250#5		En route to the Orre Region via Reborn City
+map_0250#6		Transit Log: Stock: 4,600 Poké Balls; 4,600 Great Balls; 4,600 Ultra Balls; 800 Lure Balls; 800 Heavy Balls; 800 Timer Balls; 800 Dusk Balls
+map_0250#7		Continue reading?
+map_0250#8		Transit Log: Stock: 6,000 Oran Berries; 4,000 Pecha Berries; 4,000 Chesto Berries; 4,000 Pomeg Berries; 5,000 Lum Berries; 100 Jaboca Berries
+map_0250#9		Incident Record: A regular pitstop was made this afternoon at 3:15 PM in the Tourmaline Desert to service engine trouble.
+map_0250#10		After local wildlife endured a scuffle, the crew incidentally adopted one Pokémon Egg, now in cargo.
+map_0250#11		No issues expected with the Egg's acquisition.
+map_0250#12		It will be relinquished to company or personnel at request.
+map_0250#13		And a little bonus I picked up for my little girl back home in Orre.
+map_0250#14		Incident Record: An emergency stop was made this Tuesday at 11:53 PM.
+map_0250#15		An unidentified railway obstruction has brought the vehicle to a halt. 
+map_0250#16		Suspected fallen tree or other similar debris.
+map_0250#17		Though currently too dark to investigate, will do so in the morning. 
+map_0250#18		Approx. projected delay: 8 hours.
+map_0250#19		Friday 9:12 AM: I've identified the aforementioned obstruction, though it baffles me. 
+map_0250#20		Specifically, an entire tree has grown in the middle of the rails.
+map_0250#21		I do not believe there is any such way that I can clear it alone. 
+map_0250#22		As such, I will be returning to Reborn City to request assistance. 
+map_0250#23		Incident Record: Friday 1:37 PM
+map_0250#24		In what I can only assume is an elaborate prank, I have failed to return to Reborn City.
+map_0250#25		As I reversed the train down the same track which I had traveled just yesterday, I found a large portion of the rail to be missing entirely.
+map_0250#26		The wood beams are scattered haplessly between the trees, and the metal has been contorted, and in some places, is absent entirely. 
+map_0250#27		In light of this, I am unable to move the freight at all, and will be returning to Reborn City on foot.
+map_0250#28		It should not take more than a day to reach the city, and assuming available resources, repairing the rail could be done in as little as two weeks.
+map_0250#29		Approx. projected delay: 18 days.
+map_0250#30		Sunday 8:25 PM:
+map_0250#31		In the continuing saga of happenstances causing me to question my mental health, I have been unable to follow the track to Reborn City.
+map_0250#32		The scattered wood and disjointed metal I mentioned before was a dramatic understatement. 
+map_0250#33		Entire segments of the track have been disapparated.
+map_0250#34		Between the increasingly befuddling thickness of forestry and the baffling apparent deconstruction of the rail, I am unable to return to Reborn.
+map_0250#35		In response to this distortion, I will follow the track on foot-- the only way in which it is (relatively) navigable, towards the Orre Region.
+map_0250#36		Though it is a considerable distance to walk, I see no second option.
+map_0250#37		Approx projected delay: 7 days.
+map_0250#38		Monday 5:39 PM:
+map_0250#39		It appears I was hasty in my evaluation of the forward-going rail as 'navigable'.
+map_0250#40		Though I have ridden this way many times, I find the track going forward to be as distorted as it was going back.
+map_0250#41		These woods are mocking, with trees so in and out and roundabout such that one feels as if they've gone in circles forever.
+map_0250#42		It was probably by luck that I stumbled upon this train again after having been lost in my expedition.
+map_0250#43		I'll continue searching for any sign of orient.
+map_0250#44		Thursday 7:18 PM: It's now been just about a full week since I was stranded in this forest.
+map_0250#45		Supplies in the train are diminishing quickly. 
+map_0250#46		I find myself rationing more and I desperately hope to discover a source of berries in the woods.
+map_0250#47		It seems the Pokémon I obtained as a surprise for my daughter will have to be relegated to a gift of apology instead.
+map_0250#48		Approx. projected delay: Unknown.
+map_0250#49		Saturday 1:20 AM:
+map_0250#50		This nightmarish place knows no logic, and yet I think that by a stroke of luck, I may have found the way.
+map_0250#51		While searching deep in among the woods, I spotted an opening I did not recogize. 
+map_0250#52		As I followed it down a twisted path, I came to a cave.
+map_0250#53		The very cave through which the rail traveled! 
+map_0250#54		I recognized the stone, but strangely, I could see no rail.
+map_0250#55		Tomorrow I will gather what supplies I have left and quit this place once and for all.
+map_0250#56		Sunday 11:20 PM:
+map_0250#57		As if to taunt me with a glimpse of hope, I have not been successful in my evacuation.
+map_0250#58		Though I left early this morning, and searched again through every hour of the day, I was unable to locate the railcave from last night.
+map_0250#59		At this point, and with as little food as is left in this car, I will likely scarcely be able to make it to Orre alive.
+map_0250#60		Wednesday 2:47 PM:
+map_0250#61		To my amazement, I once again found the same cave last night.
+map_0250#62		To my chagrin, I was unable to traverse it.
+map_0250#63		Though the rails linger inside the cave, they lead nowhere. 
+map_0250#64		What I knew once as a sensible and one-directional tunnel now twists endlessly.
+map_0250#65		As if my entire life had been tossed into a kaleidoscope, I was unable to navigate the cave, and in fact, when I did finally find an exit--
+map_0250#66		It turned out to be the very way in which I entered.
+map_0250#67		I've returned here for the night.
+map_0250#68		I will try again tomorrow.
+map_0250#69		Sunday 3:34 AM: 
+map_0250#70		When even finding the entrance to a cave proves difficult, traversing it appears impossible.
+map_0250#71		I have gone a precise way for these past few days, tracing my steps exactly. 
+map_0250#72		By now I have reliably found that although the path shifts, it is always through the southeast that I am able to stumble into it.
+map_0250#73		The inside is maddening alone, however. This will require further expedition.
+map_0250#74		Wednesday 7:44 PM:
+map_0250#75		After exploring the cave and its nonsensical passages several times more,
+map_0250#76		I have reliably found a path to a certain cove within the Railcave, and I plan to relocate my remaining supplies there as I press forward.
+map_0250#77		I will move forward as swiftly as possible with what little food is left, and my daughter's Pokémon in tow. 
+map_0250#78		For whoever may find this train, know the hardships I have faced. 
+map_0250#79		Know, too, how you might escape these labyrinthine woods.
+map_0250#80		Should you find the Railcave, remember, the direction the rails move is no clue to traversing it.
+map_0250#81		But as it may be, while they do not point you in the right direction, that appears to be all the guidance you need.
+map_0250#82		Good luck, stranger. 
+map_0250#83		This is the captain, signing out.
+map_0250#84		An Egg seems to have been abandoned here...
+map_0250#85		Take it?
+map_0250#86		\PN got the Egg!
+map_0250#87		Yes
+map_0250#88		No
+map_0251#0		Skip railcave puzzle?
+map_0251#1		Yes
+map_0251#2		No
+map_0252#2		It seems too sturdy to break or move...
+map_0252#3		The rock base may hold more valuables. Do you want to open it with Blast Powder?
+map_0252#4		\PN found an Eevee!
+map_0252#5		"Captain's Log"
+map_0252#6		Should you read this?
+map_0252#7		Day unknown. 
+map_0252#8		I've been unsuccessful thus far in navigating this hellish cave.
+map_0252#9		Despite the rails--
+map_0252#10		Despite the stone markings I've tried to leave--
+map_0252#11		Despite carefully recording my passages through this place--
+map_0252#12		I'm baffled. 
+map_0252#13		Utterly and completely...
+map_0252#14		I felt relocating here would be a leap towards progress to finding my way home.
+map_0252#15		Instead I feel I've entrenched myself in the prison of this place.
+map_0252#16		Continue reading?
+map_0252#17		Progress has once again teased me with her coy seduction. 
+map_0252#18		In my continual stumbling through the labyrinth, I found nestled into the wall, a door imprinted upon the stone in a glowing light.
+map_0252#19		Beyond its threshold, a world of glittering, static blue and stars.
+map_0252#20		I do not know what awaits me in the world.
+map_0252#21		I do know that I am weak.
+map_0252#22		I am thin, and exhausted-- physically, mentally, emotionally.
+map_0252#23		I cannot refuse the chance that this will lead me to safety.
+map_0252#24		But there is no promise in those jilted lands, and I do not expect to return.
+map_0252#25		If anyone finds this--
+map_0252#26		Please apologize to my little girl, Snow, for me.
+map_0252#27		And her gift-- I would ask someone look after the Pokémon.
+map_0252#28		I may disappear into this strange dimension, but it need not share my fate.
+map_0252#29		This is Captain Florence, signing out. 
+map_0252#30		Good night.
+map_0252#31		\PN obtained Field Effect Read-Out 37!
+map_0252#32		Info on Psychic Terrain now available!
+map_0252#33		ARC: You're just in time.
+map_0252#34		ARC: Hey, \PN.
+map_0252#35		Though I'd join you on this one,
+map_0252#36		Given the nature of who we're dealing with here.
+map_0252#37		???: And you're the Champion.
+map_0252#38		And you've been working with the cops, is that right?
+map_0252#39		Gotta say, I never imagined the likes of me comin' to someone like you.
+map_0252#40		ARCLIGHT: Do you mean you're the one who sent in the report?
+map_0252#41		An illegal poacher, asking for city help?
+map_0252#42		???: And you must be Arclight.
+map_0252#43		Name's Breslin.
+map_0252#44		I'll try to keep this short:
+map_0252#45		Me and my gang were commissioned to help acquire a valuable Electric-Type Pokémon.
+map_0252#46		ARCLIGHT: "Acquire."
+map_0252#47		BRESLIN: Standard work, really.
+map_0252#48		But this commissioner...
+map_0252#49		She seems to care very little about what happens to me or my crew.
+map_0252#50		ARCLIGHT: Surely you're used to taking a few risks, operating outside the law and all.
+map_0252#51		BRESLIN: It's not only that.
+map_0252#52		She seems a little... unhinged.
+map_0252#53		It's got to the point that I don't care what happens to her, or even if we get our cut-- 
+map_0252#54		We're out.
+map_0252#55		It's too dangerous.
+map_0252#56		And that's where you two come in.
+map_0252#57		I can lead you right to her and my team,
+map_0252#58		All I ask is a little protection from the long arm of the law.
+map_0252#59		What do you say?
+map_0252#60		BRESLIN: Good.
+map_0252#61		Let's put a stop to whatever her plans are.
+map_0252#62		ARC: We'll help,
+map_0252#63		But I'm not promising any form of legal immunity.
+map_0252#64		BRESLIN: I get it.
+map_0252#65		Should've known better than to trust a Champion.
+map_0252#66		Let alone a cop.
+map_0252#67		ARC: We can't guarantee you any "protection".
+map_0252#68		You still have to answer for illegal hunting and trading.
+map_0252#69		BRESLIN: The law's everything to you, huh?
+map_0252#70		ARC: Not everything.
+map_0252#71		We don't serve the law-- the law serves us.
+map_0252#72		It's to keep everyone accountable for keeping everyone safe.
+map_0252#73		So first, we'll make sure you're safe.
+map_0252#74		Then we'll make sure you're accountable.
+map_0252#75		We clear?
+map_0252#76		BRESLIN: I can tell this is gonna go over great...
+map_0252#77		ARC: Complain later.
+map_0252#78		You said your crew was in danger, right?
+map_0252#79		BRESLIN: ...One of us has already been waylaid.
+map_0252#80		This way.
+map_0252#81		ARC: I didn't expect them to be asking for our help...
+map_0252#82		Can't say I care for it,
+map_0252#83		But there's no turning back when someone's in need.
+map_0252#84		I suspect I'll be counting on you, \PN.
+map_0252#85		Skip railcave puzzle?
+map_0252#86		Yes
+map_0252#87		No
+map_0253#0		So, my entire house randomly appeared in the middle of the forest.
+map_0253#1		And ya know what? 
+map_0253#2		I'm fine with it!
+map_0253#3		I was thinking of moving anyway. It just did the work for me!
+map_0253#4		Some people say I'm kinda weird like that. 
+map_0253#5		But ya know what? 
+map_0253#6		Weird is good!
+map_0253#7		I'm a fan of weird Pokémon, too.
+map_0253#8		Hey stranger, want one?
+map_0253#9		I happen to be looking for a Mothim. Funny little guys. 
+map_0253#10		If ya got one, I'll trade.
+map_0253#11		Nah? Too bad!
+map_0253#12		Whoa, now that's what I'm talkin' about! All right!
+map_0253#13		\PN traded MOTHIM for BRUXISH!
+map_0253#14		Take care!
+map_0253#15		This is nice. 
+map_0253#16		This is the wilderness! 
+map_0253#17		Ya got me?
+map_0253#18		Yes
+map_0253#19		No
+map_0255#0		Heh, our luck's sour lately, huh?
+map_0255#1	Coleman	I suppose you're the one responsible for that.
+map_0255#2		The bosses even lost control of the PULSE here. Oops.
+map_0255#3		We were originally developing new technology here, but it kindaaaa went bad. You won't get to see it though!
+map_0255#4	Mary	Okay, maybe you will.
+map_0255#5		The power from this PULSE project would have been really useful, but it backfired and caused a bunch of problems everywhere.
+map_0255#6		First all these earthquakes underneath the base. Now you again!
+map_0255#7	Gretchen	Grrrrrr!
+map_0255#8		This place is just full of problems!
+map_0255#9		Hey. Pokémon out. This time, I'm taking you down.
+map_0255#10	Regina	Stop trying to make this happen. It's not going to happen!
+map_0255#11		Get away from me already!
+map_0255#12		\PN obtained PULSE Read-Out 07!
+map_0255#13		PULSE Dex updated!
+map_0256#0		It's an ice cream vending machine.\nWhich flavor would you like?\G
+map_0256#1		\G...Wait, what?
+map_0256#2		\GBlue Moon Ice Cream dropped down!
+map_0256#3		\GVanilla Ice Cream dropped down!
+map_0256#4		\GYou don't have enough money.
+map_0256#5		\GChocolate Ice Cream dropped down!
+map_0256#6		\GYou have no room left in the Bag.
+map_0256#7		\GStrawberry Ice Cream dropped down!
+map_0256#8		\GVanillite dropped down!
+map_0256#9		There was no room for Vanillite...
+map_0256#10		\GBerry Ice Cream dropped down!
+map_0256#11		Unyuuu... I really want some ice cream from this vending machine, but I don't have any money...
+map_0256#12		...Hey... Is that Vanilla Ice Cream you have there?
+map_0256#13		Hey... Could I have it? Pretty please?
+map_0256#14		Yayyy! Thank you, thank you tons!
+map_0256#15		Imma go eat it outside, 'kay? Bye-bye!
+map_0256#16		Oh... It's okay...
+map_0256#17		...Hey... Is that Chocolate Ice Cream you have there?
+map_0256#18		...Hey... Is that Strawberry Ice Cream you have there?
+map_0256#19		What's your favorite candy? A bear?!
+map_0256#20		I want one of those!
+map_0256#21		And those!
+map_0256#22		And that! And this! And-and-and-and!
+map_0256#23		Aaaaah, why can't I hold all these candies?!
+map_0256#24		Hello! Welcome to the Sweet Kiss Candy Shop!
+map_0256#25		We boast a wonderful array of succulent sweets guaranteed to bring a smile to your-- and your Pokémon's-- face, every day!
+map_0256#26		We are also hiring new employees in many positions!
+map_0256#27		If you'd like to work with us, please visit our company headquarters at 9th and Saffron, or log on to our website and download the form.
+map_0256#28		We boast a wondeful array of succulent sweets guaranteed to bring a smile to your-- and your Pokémon's-- face, every day!
+map_0256#30		This new employee though...
+map_0256#31		Does he ever chill out?
+map_0256#32		I heard that if you give your Pokémon candy, they'll like you more.
+map_0256#33		Makes sense; if someone gave ME candy, I'd like them more!
+map_0256#34		That's true for all types of candy except EXP Candy!
+map_0256#35		Maybe it's a manufacturing issue? I just don't feel it.
+map_0256#36		Hello! Would you like to play Sweet Kiss' exclusive promotion challenge for a chance at a fantastic prize?
+map_0256#37		Do you want to skip this tile puzzle?
+map_0256#38		Excellent! All you have to do is arrange the tiles to form the proper picture. Rotate the tiles using the Ready Item key, and move them with the Action key.
+map_0256#39		We have a winner!
+map_0256#40		And for your prize, we present your very own Sweet Kiss official mascot, Swirlix!
+map_0256#41		Well, take your time! This promotion won't end anytime soon!
+map_0256#42		Oh? Any time!
+map_0256#43		No, I won't get down!
+map_0256#44		You can't tell me to get down when you're not down yourself!
+map_0256#45		RAZZY: Listen, I'm excited too! But we can't just stand on the shelves all day!
+map_0256#46		Will you get down with me now?
+map_0256#47		Vanilla - $400
+map_0256#48		Chocolate - $700
+map_0256#49		Strawberry - $1000
+map_0256#50		Cancel
+map_0256#51		Vanilla - $1000
+map_0256#52		Yes
+map_0256#53		No
+map_0257#0		LAURA: ........
+map_0257#1		LAURA: ........\PN?
+map_0257#2		Ew........ My outfit is all dirty........
+map_0257#3		Where are we?
+map_0257#4		It smells awful in here.
+map_0257#5		And is this some kind of acid?
+map_0257#6		These containers look like the ones in the Meteor's base........
+map_0257#7		One, two........
+map_0257#8		Three, four, five........
+map_0257#9		........Six, seven.
+map_0257#10		Isn't there another one somewhere? 
+map_0257#11		I really hate the number seven........
+map_0257#12		That must seem really strange to you, I'm sorry.
+map_0257#13		Um........ How do I explain?
+map_0257#14		For me, it really like, bothers me when there isn't an even number of something. 
+map_0257#15		I know it's weird, but it's how I've always been.
+map_0257#16		In particular, the number eight has always held special significance for me.
+map_0257#17		To me it's just relaxing to see something set up in eight parts.
+map_0257#18		It's a sort of perfect symmetry. 
+map_0257#19		Does that make sense at all?
+map_0257#20		Charlotte likes to give me a hard time about it. 
+map_0257#21		Ahahaha, she'd be laughing at me now........
+map_0257#22		But the reason I hate the number seven........ 
+map_0257#23		I was reminded by something one of the Meteors said........
+map_0257#24		They mentioned a Lin, right?
+map_0257#25		I knew a girl named Lin once, back at the Orphanage.
+map_0257#26		It was a couple years ago. 
+map_0257#27		She was a little girl, just a little younger than Anna........
+map_0257#28		But she was terrifying.
+map_0257#29		She took pleasure in finding out others' secrets and extorting them.
+map_0257#30		Even though she was so young, she always tried to manipulate everyone........
+map_0257#31		And she was good at it.
+map_0257#32		And for me, whenever I finally had eight of something, she would always take one.
+map_0257#33		For instance, I would often write and draw in my notebook, and I had differently-colored pens........ 
+map_0257#34		But if I ever got eight pens, she would break one of them. 
+map_0257#35		And she would just walk away laughing.
+map_0257#36		I know it seems childish, but in a place like that, you don't get your own possessions very often. 
+map_0257#37		And she always had to ruin it.
+map_0257#38		I was always left with seven, and something broken that couldn't be replaced.

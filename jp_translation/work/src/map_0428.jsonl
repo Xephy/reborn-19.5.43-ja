@@ -1,0 +1,571 @@
+{"sec": "map:428", "key": "\"Electric Field\"\\nRead?", "en": "\"Electric Field\"\\nRead?", "ja": "「エレキフィールド」\\n読む?"}
+{"sec": "map:428", "key": "Opening: \"The ground is hyper-charged!\"", "en": "Opening: \"The ground is hyper-charged!\"", "ja": "開始: 「大地に 電気が 満ちている!」"}
+{"sec": "map:428", "key": "Created by Electric Terrain", "en": "Created by Electric Terrain", "ja": "エレキフィールドで 発生"}
+{"sec": "map:428", "key": "Grounded Pokémon cannot fall asleep", "en": "Grounded Pokémon cannot fall asleep", "ja": "地上のポケモンは ねむり状態に ならない"}
+{"sec": "map:428", "key": "Electric Moves from grounded Pokémon increase by x1.5", "en": "Electric Moves from grounded Pokémon increase by x1.5", "ja": "地上のポケモンの でんきわざは 威力1.5倍"}
+{"sec": "map:428", "key": "The following moves now apply additional Electric type damage and are amplified by x1.5:", "en": "The following moves now apply additional Electric type damage and are amplified by x1.5:", "ja": "つぎのわざは でんきタイプの 追加ダメージを 与え 威力1.5倍になる:"}
+{"sec": "map:428", "key": "Explosion, Selfdestruct, Surf, Muddy Water, Hurricane, Smack Down, Thousand Arrows", "en": "Explosion, Selfdestruct, Surf, Muddy Water, Hurricane, Smack Down, Thousand Arrows", "ja": "だいばくはつ、じばく、なみのり、だくりゅう、ぼうふう、うちおとす、サウザンアロー"}
+{"sec": "map:428", "key": "Focus Punch will always fail", "en": "Focus Punch will always fail", "ja": "きあいパンチは かならず 失敗する"}
+{"sec": "map:428", "key": "The stat-changing effect of the following moves is amplified:", "en": "The stat-changing effect of the following moves is amplified:", "ja": "つぎのわざの 能力変化の 効果が 強まる:"}
+{"sec": "map:428", "key": "Charge, Eerie Impulse", "en": "Charge, Eerie Impulse", "ja": "じゅうでん、かいでんぱ"}
+{"sec": "map:428", "key": "Magnet Rise lasts for 8 turns", "en": "Magnet Rise lasts for 8 turns", "ja": "でんじふゆうの 効果が 8ターン つづく"}
+{"sec": "map:428", "key": "The following move gains a x2 increase in power:", "en": "The following move gains a x2 increase in power:", "ja": "つぎのわざは 威力が 2倍になる:"}
+{"sec": "map:428", "key": "Magnet Bomb", "en": "Magnet Bomb", "ja": "マグネットボム"}
+{"sec": "map:428", "key": "The following move will terminate this field effect:", "en": "The following move will terminate this field effect:", "ja": "つぎのわざで このフィールド効果は 消える:"}
+{"sec": "map:428", "key": "Mud Sport", "en": "Mud Sport", "ja": "どろあそび"}
+{"sec": "map:428", "key": "Nature Power becomes Thunderbolt", "en": "Nature Power becomes Thunderbolt", "ja": "しぜんのちからは 10まんボルトになる"}
+{"sec": "map:428", "key": "Camouflage changes the user's type to Electric.", "en": "Camouflage changes the user's type to Electric.", "ja": "ほごしょくは つかいてを でんきタイプに かえる"}
+{"sec": "map:428", "key": "Secret Power may paralyze.", "en": "Secret Power may paralyze.", "ja": "ひみつのちからは まひさせることが ある"}
+{"sec": "map:428", "key": "\"Grassy Field\"\\nRead?", "en": "\"Grassy Field\"\\nRead?", "ja": "「グラスフィールド」\\n読む?"}
+{"sec": "map:428", "key": "Opening: \"The field is in full bloom.\"", "en": "Opening: \"The field is in full bloom.\"", "ja": "開始: 「大地が 花ざかりだ」"}
+{"sec": "map:428", "key": "Created by Grassy Terrain", "en": "Created by Grassy Terrain", "ja": "グラスフィールドで 発生"}
+{"sec": "map:428", "key": "Grounded Pokémon restore 1/16th Max HP each turn", "en": "Grounded Pokémon restore 1/16th Max HP each turn", "ja": "地上のポケモンは 毎ターン 最大HPの1/16 回復する"}
+{"sec": "map:428", "key": "Grass moves from grounded Pokémon increase base power x1.5", "en": "Grass moves from grounded Pokémon increase base power x1.5", "ja": "地上のポケモンの くさわざは 威力1.5倍"}
+{"sec": "map:428", "key": "Fire moves against grounded Pokémon increase base power x1.5", "en": "Fire moves against grounded Pokémon increase base power x1.5", "ja": "地上のポケモンへの ほのおわざは 威力1.5倍"}
+{"sec": "map:428", "key": "The ability Grass Pelt is activated", "en": "The ability Grass Pelt is activated", "ja": "とくせい くさのけがわが 発動する"}
+{"sec": "map:428", "key": "The follow moves gain a x1.5 increase in power:", "en": "The follow moves gain a x1.5 increase in power:", "ja": "つぎのわざは 威力が 1.5倍になる:"}
+{"sec": "map:428", "key": "Fairy Wind, Silver Wind", "en": "Fairy Wind, Silver Wind", "ja": "ようせいのかぜ、ぎんいろのかぜ"}
+{"sec": "map:428", "key": "The following moves suffer a x0.5 decrease of power:", "en": "The following moves suffer a x0.5 decrease of power:", "ja": "つぎのわざは 威力が 0.5倍になる:"}
+{"sec": "map:428", "key": "Muddy Water, Surf", "en": "Muddy Water, Surf", "ja": "だくりゅう、なみのり"}
+{"sec": "map:428", "key": "The base accuracy of the following move becomes 80:", "en": "The base accuracy of the following move becomes 80:", "ja": "つぎのわざの 命中率が 80になる:"}
+{"sec": "map:428", "key": "Grass Whistle", "en": "Grass Whistle", "ja": "くさぶえ"}
+{"sec": "map:428", "key": "The following moves gain double their normal stat- changing effects:", "en": "The following moves gain double their normal stat- changing effects:", "ja": "つぎのわざは 能力変化の 効果が 2倍になる:"}
+{"sec": "map:428", "key": "Growth, Coil", "en": "Growth, Coil", "ja": "せいちょう、とぐろをまく"}
+{"sec": "map:428", "key": "(This boost will not stack with Growth's Sun boost)", "en": "(This boost will not stack with Growth's Sun boost)", "ja": "(この上昇は せいちょうの 晴れ効果とは 重ならない)"}
+{"sec": "map:428", "key": "If not under the effects of Water Sport or Rain,", "en": "If not under the effects of Water Sport or Rain,", "ja": "みずあそびや あめの 効果が ないとき"}
+{"sec": "map:428", "key": "the \\nfollowing moves will transform this field into a Burning Field: Eruption, Heat Wave, Flame Burst, Lava Plume,", "en": "the \\nfollowing moves will transform this field into a Burning Field: Eruption, Heat Wave, Flame Burst, Lava Plume, ", "ja": "つぎの\\nわざで このフィールドは 燃えるフィールドに 変わる: ふんか、ねっぷう、はじけるほのお、ふんえん、"}
+{"sec": "map:428", "key": "Searing Shot, Fire Pledge", "en": "Searing Shot, Fire Pledge", "ja": "かえんだん、ほのおのちかい"}
+{"sec": "map:428", "key": "The following move will transform this field into a Corrosive Field:", "en": "The following move will transform this field into a Corrosive Field:\t", "ja": "つぎのわざで このフィールドは 腐食フィールドに 変わる:"}
+{"sec": "map:428", "key": "Sludge Wave", "en": "Sludge Wave", "ja": "ヘドロウェーブ"}
+{"sec": "map:428", "key": "Nature Power becomes Energy Ball", "en": "Nature Power becomes Energy Ball", "ja": "しぜんのちからは エナジーボールになる"}
+{"sec": "map:428", "key": "Camouflage changes the user's type to Grass", "en": "Camouflage changes the user's type to Grass", "ja": "ほごしょくは つかいてを くさタイプに かえる"}
+{"sec": "map:428", "key": "Secret Power may induce sleep.", "en": "Secret Power may induce sleep.", "ja": "ひみつのちからは ねむらせることが ある"}
+{"sec": "map:428", "key": "\"Misty Terrain\"\\nRead?", "en": "\"Misty Terrain\"\\nRead?", "ja": "「ミストフィールド」\\n読む?"}
+{"sec": "map:428", "key": "Opening: \"Mist settles on the field.\"", "en": "Opening: \"Mist settles on the field.\"", "ja": "開始: 「きりが フィールドを 包んだ」"}
+{"sec": "map:428", "key": "Created by Misty Terrain and Mist.", "en": "Created by Misty Terrain and Mist.", "ja": "ミストフィールドと しろいきりで 発生"}
+{"sec": "map:428", "key": "Dragon moves decrease in base power x0.5", "en": "Dragon moves decrease in base power x0.5", "ja": "ドラゴンわざは 威力0.5倍"}
+{"sec": "map:428", "key": "The ability Marvel Scale is activated", "en": "The ability Marvel Scale is activated", "ja": "とくせい ふしぎなうろこが 発動する"}
+{"sec": "map:428", "key": "Pokémon with the ability Dry Skin recover 1/16 Max HP each turn", "en": "Pokémon with the ability Dry Skin recover 1/16 Max HP each turn", "ja": "とくせい かんそうはだの ポケモンは 毎ターン 最大HPの1/16 回復する"}
+{"sec": "map:428", "key": "Pixilate's base power boost becomes x1.5 (from x1.3)", "en": "Pixilate's base power boost becomes x1.5 (from x1.3)", "ja": "フェアリースキンの 威力上昇が 1.3倍から 1.5倍になる"}
+{"sec": "map:428", "key": "The following moves gain a x1.5 increase in power:", "en": "The following moves gain a x1.5 increase in power:", "ja": "つぎのわざは 威力が 1.5倍になる:"}
+{"sec": "map:428", "key": "Fairy Wind, Mystical Fire, Moonblast, Magical Leaf, Doom Desire, Icy Wind, Aura Sphere, Mist Ball,", "en": "Fairy Wind, Mystical Fire, Moonblast, Magical Leaf, Doom Desire, Icy Wind, Aura Sphere, Mist Ball,", "ja": "ようせいのかぜ、マジカルフレイム、ムーンフォース、マジカルリーフ、はめつのねがい、こごえるかぜ、はどうだん、ミストボール、"}
+{"sec": "map:428", "key": "Steam \\nEruption The following moves suffer a x0.5 decrease of power:", "en": "Steam \\nEruption The following moves suffer a x0.5 decrease of power:", "ja": "スチーム\\nバースト つぎのわざは 威力が 0.5倍になる:"}
+{"sec": "map:428", "key": "Dark Pulse, Night Daze, Shadow Ball", "en": "Dark Pulse, Night Daze, Shadow Ball", "ja": "あくのはどう、ナイトバースト、シャドーボール"}
+{"sec": "map:428", "key": "The base accuracy of Sweet Kiss becomes 100.", "en": "The base accuracy of Sweet Kiss becomes 100.", "ja": "てんしのキッスの 命中率が 100になる"}
+{"sec": "map:428", "key": "The stat changing effect of the following moves is amplified:", "en": "The stat changing effect of the following moves is amplified:", "ja": "つぎのわざの 能力変化の 効果が 強まる:"}
+{"sec": "map:428", "key": "Sweet Scent lowers Defense and SpDef", "en": "Sweet Scent lowers Defense and SpDef", "ja": "あまいかおりは ぼうぎょと とくぼうを 下げる"}
+{"sec": "map:428", "key": "Cosmic Power, Aromatic Mist", "en": "Cosmic Power, Aromatic Mist", "ja": "コスモパワー、アロマミスト"}
+{"sec": "map:428", "key": "Wish restores 75% of the user's Max HP (from 50%)", "en": "Wish restores 75% of the user's Max HP (from 50%)", "ja": "ねがいごとは 最大HPの75%を 回復する (50%から)"}
+{"sec": "map:428", "key": "Aqua Ring restores 1/8 Max HP each turn (from 1/16)", "en": "Aqua Ring restores 1/8 Max HP each turn (from 1/16)", "ja": "アクアリングは 毎ターン 最大HPの1/8 回復する (1/16から)"}
+{"sec": "map:428", "key": "The following moves will terminate this field effect:", "en": "The following moves will terminate this field effect:", "ja": "つぎのわざで このフィールド効果は 消える:"}
+{"sec": "map:428", "key": "Whirlwind, Gust, Razor Wind, Hurricane, Defog, Tailwind, Twister", "en": "Whirlwind, Gust, Razor Wind, Hurricane, Defog, Tailwind, Twister", "ja": "ふきとばし、かぜおこし、かまいたち、ぼうふう、きりばらい、おいかぜ、たつまき"}
+{"sec": "map:428", "key": "The following moves will transform this field into a Corrosive Mist Field:", "en": "The following moves will transform this field into a Corrosive Mist Field:", "ja": "つぎのわざで このフィールドは 腐食ミストフィールドに 変わる:"}
+{"sec": "map:428", "key": "Clear Smog, Smog, Poison Gas", "en": "Clear Smog, Smog, Poison Gas", "ja": "クリアスモッグ、スモッグ、どくガス"}
+{"sec": "map:428", "key": "Prevents use of Selfdestruct and Explosion", "en": "Prevents use of Selfdestruct and Explosion", "ja": "じばくと だいばくはつは 使えない"}
+{"sec": "map:428", "key": "Nature Power becomes Moonblast", "en": "Nature Power becomes Moonblast", "ja": "しぜんのちからは ムーンフォースになる"}
+{"sec": "map:428", "key": "Camouflage changes the user's type to Fairy", "en": "Camouflage changes the user's type to Fairy", "ja": "ほごしょくは つかいてを フェアリータイプに かえる"}
+{"sec": "map:428", "key": "Secret Power may lower special attack.", "en": "Secret Power may lower special attack.", "ja": "ひみつのちからは とくこうを 下げることが ある"}
+{"sec": "map:428", "key": "\"Dark Crystal Cavern\"\\nRead?", "en": "\"Dark Crystal Cavern\"\\nRead?", "ja": "「暗黒クリスタルのどうくつ」\\n読む?"}
+{"sec": "map:428", "key": "Opening: \"Darkness is gathering...\"", "en": "Opening: \"Darkness is gathering...\"", "ja": "開始: 「闇が 集まってくる……」"}
+{"sec": "map:428", "key": "Dark Pulse, Night Daze, Night Slash, Shadow Ball, Shadow Claw, Shadow Force, Shadow Sneak, Shadow Punch, Aurora Beam, Signal Beam,", "en": "Dark Pulse, Night Daze, Night Slash, Shadow Ball, Shadow Claw, Shadow Force, Shadow Sneak, Shadow Punch, Aurora Beam, Signal Beam,", "ja": "あくのはどう、ナイトバースト、つじぎり、シャドーボール、シャドークロー、シャドーダイブ、かげうち、シャドーパンチ、オーロラビーム、シグナルビーム、"}
+{"sec": "map:428", "key": "Flash Cannon, Luster Purge, Dazzling Gleam, Mirror Shot, Doom Desire, Technoblast, Power Gem", "en": "Flash Cannon, Luster Purge, Dazzling Gleam, Mirror Shot, Doom Desire, Technoblast, Power Gem", "ja": "ラスターカノン、ラスターパージ、マジカルシャイン、ミラーショット、はめつのねがい、テクノバスター、パワージェム"}
+{"sec": "map:428", "key": "The following move gain double its normal stat- changing effects:", "en": "The following move gain double its normal stat- changing effects:", "ja": "つぎのわざは 能力変化の 効果が 2倍になる:"}
+{"sec": "map:428", "key": "Flash", "en": "Flash", "ja": "フラッシュ"}
+{"sec": "map:428", "key": "The base accuracy of the following move becomes 100:", "en": "The base accuracy of the following move becomes 100:", "ja": "つぎのわざの 命中率が 100になる:"}
+{"sec": "map:428", "key": "Dark Void", "en": "Dark Void", "ja": "ダークホール"}
+{"sec": "map:428", "key": "Moonlight restores 75% of the user's Max HP", "en": "Moonlight restores 75% of the user's Max HP", "ja": "つきのひかりは 最大HPの75%を 回復する"}
+{"sec": "map:428", "key": "Synthesis and Morning Sun restores 25% of the user's Max HP", "en": "Synthesis and Morning Sun restores 25% of the user's Max HP", "ja": "こうごうせいと あさのひざしは 最大HPの25%を 回復する"}
+{"sec": "map:428", "key": "Solar Beam will always fail", "en": "Solar Beam will always fail", "ja": "ソーラービームは かならず 失敗する"}
+{"sec": "map:428", "key": "Temporarily transformed by sunny weather into Crystal Cavern.", "en": "Temporarily transformed by sunny weather into Crystal Cavern.", "ja": "晴れの あいだ 一時的に クリスタルのどうくつに 変わる"}
+{"sec": "map:428", "key": "Transformed into a Cave field by Earthquake and Bulldoze.", "en": "Transformed into a Cave field by Earthquake and Bulldoze.", "ja": "じしんと じならしで どうくつフィールドに 変わる"}
+{"sec": "map:428", "key": "Nature Power becomes Dark Pulse", "en": "Nature Power becomes Dark Pulse", "ja": "しぜんのちからは あくのはどうになる"}
+{"sec": "map:428", "key": "Camouflage changes the user's type to Dark", "en": "Camouflage changes the user's type to Dark", "ja": "ほごしょくは つかいてを あくタイプに かえる"}
+{"sec": "map:428", "key": "Secret Power may lower accuracy.", "en": "Secret Power may lower accuracy.", "ja": "ひみつのちからは 命中率を 下げることが ある"}
+{"sec": "map:428", "key": "\"Chess Board\"\\nRead?", "en": "\"Chess Board\"\\nRead?", "ja": "「チェスボード」\\n読む?"}
+{"sec": "map:428", "key": "Opening: \"Opening variation set.\"", "en": "Opening: \"Opening variation set.\"", "ja": "開始: 「序盤の 定跡が 決まった」"}
+{"sec": "map:428", "key": "The following moves become 'Chess Attacks,' gaining a x1.5 increase in power and applying additional Rock type damage.", "en": "The following moves become 'Chess Attacks,' gaining a x1.5 increase in power and applying additional Rock type damage.", "ja": "つぎのわざは 「チェスこうげき」となり 威力1.5倍で いわタイプの 追加ダメージを 与える"}
+{"sec": "map:428", "key": "Psychic, Strength, Ancient Power", "en": "Psychic, Strength, Ancient Power", "ja": "サイコキネシス、かいりき、げんしのちから"}
+{"sec": "map:428", "key": "Chess Attacks deal x2 damage to Pokémon with the following abilities:", "en": "Chess Attacks deal x2 damage to Pokémon with the following abilities:", "ja": "チェスこうげきは つぎのとくせいの ポケモンに 2倍ダメージ:"}
+{"sec": "map:428", "key": "Oblivious, Simple, Unaware, Klutz", "en": "Oblivious, Simple, Unaware, Klutz", "ja": "どんかん、たんじゅん、てんねん、ぶきよう"}
+{"sec": "map:428", "key": "Chess Attacks deal x2 damage to Pokémon suffering from Confusion (This does not stack with the above abilities)", "en": "Chess Attacks deal x2 damage to Pokémon suffering from Confusion (This does not stack with the above abilities)", "ja": "チェスこうげきは こんらん状態の ポケモンに 2倍ダメージ (上のとくせいとは 重ならない)"}
+{"sec": "map:428", "key": "Chess Attacks deal x0.5 damage to Pokémon with the following abilities:", "en": "Chess Attacks deal x0.5 damage to Pokémon with the following abilities:", "ja": "チェスこうげきは つぎのとくせいの ポケモンに 0.5倍ダメージ:"}
+{"sec": "map:428", "key": "Adaptability, Syncronize, Anticipation, Telepathy", "en": "Adaptability, Syncronize, Anticipation, Telepathy", "ja": "てきおうりょく、シンクロ、きけんよち、テレパシー"}
+{"sec": "map:428", "key": "The following move gains double its normal stat- changing effects:", "en": "The following move gains double its normal stat- changing effects:", "ja": "つぎのわざは 能力変化の 効果が 2倍になる:"}
+{"sec": "map:428", "key": "Calm Mind", "en": "Calm Mind", "ja": "めいそう"}
+{"sec": "map:428", "key": "Nasty Plot boosts Sp.Atk by a total of 3 stages", "en": "Nasty Plot boosts Sp.Atk by a total of 3 stages", "ja": "わるだくみは とくこうを 合計3段階 上げる"}
+{"sec": "map:428", "key": "Trick Room lasts for 8 turns", "en": "Trick Room lasts for 8 turns", "ja": "トリックルームの 効果が 8ターン つづく"}
+{"sec": "map:428", "key": "Fake Out, Feint, Feint Attack", "en": "Fake Out, Feint, Feint Attack", "ja": "ねこだまし、フェイント、だましうち"}
+{"sec": "map:428", "key": "Nature Power becomes Ancient Power", "en": "Nature Power becomes Ancient Power", "ja": "しぜんのちからは げんしのちからになる"}
+{"sec": "map:428", "key": "Camouflage changes the user's type to Psychic", "en": "Camouflage changes the user's type to Psychic", "ja": "ほごしょくは つかいてを エスパータイプに かえる"}
+{"sec": "map:428", "key": "Secret Power may lower defense.", "en": "Secret Power may lower defense.", "ja": "ひみつのちからは ぼうぎょを 下げることが ある"}
+{"sec": "map:428", "key": "\"Big Top\"\\nRead?", "en": "\"Big Top\"\\nRead?", "ja": "「サーカステント」\\n読む?"}
+{"sec": "map:428", "key": "Opening: \"Now presenting...!\"", "en": "Opening: \"Now presenting...!\"", "ja": "開始: 「ただいまより 開演!」"}
+{"sec": "map:428", "key": "Fighting Type attacks and the following moves become High Striker attacks,", "en": "Fighting Type attacks and the following moves become High Striker attacks,", "ja": "かくとうタイプの こうげきと つぎのわざは ハイストライカーこうげきになり"}
+{"sec": "map:428", "key": "which have deal a \\nrandom increment of damage between x0.8 and x2.5 Strength, Wood Hammer, Dual Chop, Heat Crash, Sky Drop, Bulldoze, Icicle Crash, Body Slam, Stop,", "en": "which have deal a \\nrandom increment of damage between x0.8 and x2.5 Strength, Wood Hammer, Dual Chop, Heat Crash, Sky Drop, Bulldoze, Icicle Crash, Body Slam, Stop,", "ja": "ダメージが\\n0.8倍から 2.5倍の あいだで ランダムに 決まる かいりき、ウッドハンマー、ダブルチョップ、ヒートスタンプ、フリーフォール、じならし、つららおとし、のしかかり、ふみつけ、"}
+{"sec": "map:428", "key": "Giga \\nImpact, Pound, Smack Down, Iron Tail,", "en": "Giga \\nImpact, Pound, Smack Down, Iron Tail,", "ja": "ギガ\\nインパクト、はたく、うちおとす、アイアンテール、"}
+{"sec": "map:428", "key": "Meteor Mash, Crabhammer, Dragon Rush, Bounce, Slam, Heavy Slam, Earthquake, Magnitude", "en": "Meteor Mash, Crabhammer, Dragon Rush, Bounce, Slam, Heavy Slam, Earthquake, Magnitude", "ja": "コメットパンチ、クラブハンマー、ドラゴンダイブ、とびはねる、たたきつける、ヘビーボンバー、じしん、マグニチュード"}
+{"sec": "map:428", "key": "Pokémon with the abilities Sheer Force, Huge Power, Pure Power and Guts will always hit high rolls on High Striker attacks.", "en": "Pokémon with the abilities Sheer Force, Huge Power, Pure Power and Guts will always hit high rolls on High Striker attacks.", "ja": "とくせい ちからずく、ちからもち、ヨガパワー、こんじょうの ポケモンは ハイストライカーで かならず 高い値が 出る"}
+{"sec": "map:428", "key": "A Pokémon's Attack stage impacts the probability of High Striker rolls", "en": "A Pokémon's Attack stage impacts the probability of High Striker rolls", "ja": "ポケモンの こうげきの 段階が ハイストライカーの 出目に 影響する"}
+{"sec": "map:428", "key": "The move Acrobatics will always deal double damage.", "en": "The move Acrobatics will always deal double damage.", "ja": "わざ アクロバットは かならず 2倍ダメージに なる"}
+{"sec": "map:428", "key": "Sound-based attacks receive a x1.5 increase in power.", "en": "Sound-based attacks receive a x1.5 increase in power.", "ja": "音の こうげきは 威力が 1.5倍になる"}
+{"sec": "map:428", "key": "Payday", "en": "Payday", "ja": "ネコにこばん"}
+{"sec": "map:428", "key": "Vine Whip, Power Whip, Firey Dance, Petal Dance", "en": "Vine Whip, Power Whip, Firey Dance, Petal Dance", "ja": "つるのムチ、パワーウィップ、ほのおのまい、はなびらのまい"}
+{"sec": "map:428", "key": "The length of Encore's effect is doubled.", "en": "The length of Encore's effect is doubled.", "ja": "アンコールの 効果が 2倍の 長さに なる"}
+{"sec": "map:428", "key": "Dragon Dance, Quiver Dance, Swords Dance, Feather Dance", "en": "Dragon Dance, Quiver Dance, Swords Dance, Feather Dance", "ja": "りゅうのまい、ちょうのまい、つるぎのまい、フェザーダンス"}
+{"sec": "map:428", "key": "Sing", "en": "Sing", "ja": "うたう"}
+{"sec": "map:428", "key": "The effect of Rain Dance lasts 8 turns", "en": "The effect of Rain Dance lasts 8 turns", "ja": "あまごいの 効果が 8ターン つづく"}
+{"sec": "map:428", "key": "The move Belly Drum increases Defense and Sp. Def by 1 stage each", "en": "The move Belly Drum increases Defense and Sp. Def by 1 stage each", "ja": "わざ はらだいこは ぼうぎょと とくぼうを 1段階ずつ 上げる"}
+{"sec": "map:428", "key": "Nature Power becomes Acrobatics", "en": "Nature Power becomes Acrobatics", "ja": "しぜんのちからは アクロバットになる"}
+{"sec": "map:428", "key": "Camouflage changes the user's type to Normal", "en": "Camouflage changes the user's type to Normal", "ja": "ほごしょくは つかいてを ノーマルタイプに かえる"}
+{"sec": "map:428", "key": "Secret Power may lower special defense.", "en": "Secret Power may lower special defense.", "ja": "ひみつのちからは とくぼうを 下げることが ある"}
+{"sec": "map:428", "key": "\"Burning Field\"\\nRead?", "en": "\"Burning Field\"\\nRead?", "ja": "「燃えるフィールド」\\n読む?"}
+{"sec": "map:428", "key": "Opening: \"The field is ablaze!\"", "en": "Opening: \"The field is ablaze!\"", "ja": "開始: 「フィールドが 燃えている!」"}
+{"sec": "map:428", "key": "Created by Grass Pledge + Fire Pledge", "en": "Created by Grass Pledge + Fire Pledge", "ja": "くさのちかいと ほのおのちかいで 発生"}
+{"sec": "map:428", "key": "Grounded non-fire types take type-scaling Fire damage at the end of each turn", "en": "Grounded non-fire types take type-scaling Fire damage at the end of each turn", "ja": "地上の ほのおタイプ以外は ターンの 終わりに タイプ相性ぶんの ほのおダメージを 受ける"}
+{"sec": "map:428", "key": "Pokémon with the following abilities are immune to the field damage:", "en": "Pokémon with the following abilities are immune to the field damage:", "ja": "つぎのとくせいの ポケモンは フィールドダメージを 受けない:"}
+{"sec": "map:428", "key": "Magma Armor, Flame Body, Flash Fire, Flare Boost, Water Veil, Heatproof", "en": "Magma Armor, Flame Body, Flash Fire, Flare Boost, Water Veil, Heatproof", "ja": "マグマのよろい、ほのおのからだ、もらいび、ねつぼうそう、みずのベール、たいねつ"}
+{"sec": "map:428", "key": "Pokémon in an Aqua Ring are immune to the field damage", "en": "Pokémon in an Aqua Ring are immune to the field damage", "ja": "アクアリング状態の ポケモンは フィールドダメージを 受けない"}
+{"sec": "map:428", "key": "Pokémon with the following abilities take x2 field damage:", "en": "Pokémon with the following abilities take x2 field damage:", "ja": "つぎのとくせいの ポケモンは フィールドダメージが 2倍:"}
+{"sec": "map:428", "key": "Ice Body, Leaf Guard, Grass Pelt", "en": "Ice Body, Leaf Guard, Grass Pelt", "ja": "アイスボディ、リーフガード、くさのけがわ"}
+{"sec": "map:428", "key": "Fire moves from grounded Pokémon increase base power x1.5", "en": "Fire moves from grounded Pokémon increase base power x1.5", "ja": "地上のポケモンの ほのおわざは 威力1.5倍"}
+{"sec": "map:428", "key": "Grass moves against grounded Pokémon decrease in base power x0.5", "en": "Grass moves against grounded Pokémon decrease in base power x0.5", "ja": "地上のポケモンへの くさわざは 威力0.5倍"}
+{"sec": "map:428", "key": "Ice moves decrease in base power x0.5", "en": "Ice moves decrease in base power x0.5", "ja": "こおりわざは 威力0.5倍"}
+{"sec": "map:428", "key": "Surf, Muddy Water, Sludge Wave, Gust, Whirlwind, Razor Wind, Defog, Sand Tomb, Water Sport, Water Pledge, Hurricane, Water Spout,", "en": "Surf, Muddy Water, Sludge Wave, Gust, Whirlwind, Razor Wind, Defog, Sand Tomb, Water Sport, Water Pledge, Hurricane, Water Spout,", "ja": "なみのり、だくりゅう、ヘドロウェーブ、かぜおこし、ふきとばし、かまいたち、きりばらい、すなじごく、みずあそび、みずのちかい、ぼうふう、しおふき、"}
+{"sec": "map:428", "key": "Tailwind\\nSand and Rain weather effects terminate this field effect.", "en": "Tailwind\\nSand and Rain weather effects terminate this field effect.", "ja": "おいかぜ\\nすなあらしと あめの 天気で このフィールド効果は 消える"}
+{"sec": "map:428", "key": "The abilities Flash Fire, Flare Boost, and Blaze are activated", "en": "The abilities Flash Fire, Flare Boost, and Blaze are activated", "ja": "とくせい もらいび、ねつぼうそう、もうかが 発動する"}
+{"sec": "map:428", "key": "Will-o-wisp", "en": "Will-o-wisp", "ja": "おにび"}
+{"sec": "map:428", "key": "No Pokémon can be frozen", "en": "No Pokémon can be frozen", "ja": "ポケモンは こおり状態に ならない"}
+{"sec": "map:428", "key": "Smokescreen", "en": "Smokescreen", "ja": "えんまく"}
+{"sec": "map:428", "key": "The following moves gain a x1.5 increase in power and apply additional Fire type damage:", "en": "The following moves gain a x1.5 increase in power and apply additional Fire type damage:", "ja": "つぎのわざは 威力1.5倍になり ほのおタイプの 追加ダメージを 与える:"}
+{"sec": "map:428", "key": "Smack Down, Thousand Arrows", "en": "Smack Down, Thousand Arrows", "ja": "うちおとす、サウザンアロー"}
+{"sec": "map:428", "key": "The following moves gain a x2.0 increase in power:", "en": "The following moves gain a x2.0 increase in power:", "ja": "つぎのわざは 威力が 2.0倍になる:"}
+{"sec": "map:428", "key": "Smog, Clear Smog", "en": "Smog, Clear Smog", "ja": "スモッグ、クリアスモッグ"}
+{"sec": "map:428", "key": "Nature Power becomes Flamethrower", "en": "Nature Power becomes Flamethrower", "ja": "しぜんのちからは かえんほうしゃになる"}
+{"sec": "map:428", "key": "Camouflage changes the user's type to Fire", "en": "Camouflage changes the user's type to Fire", "ja": "ほごしょくは つかいてを ほのおタイプに かえる"}
+{"sec": "map:428", "key": "Secret Power may burn.", "en": "Secret Power may burn.", "ja": "ひみつのちからは やけどさせることが ある"}
+{"sec": "map:428", "key": "\"Swamp Field\"\\nRead?", "en": "\"Swamp Field\"\\nRead?", "ja": "「沼地フィールド」\\n読む?"}
+{"sec": "map:428", "key": "Opening: \"The field is swamped.\"", "en": "Opening: \"The field is swamped.\"", "ja": "開始: 「フィールドが 沼に なった」"}
+{"sec": "map:428", "key": "Created by Water Pledge + Grass Pledge", "en": "Created by Water Pledge + Grass Pledge", "ja": "みずのちかいと くさのちかいで 発生"}
+{"sec": "map:428", "key": "At the end of each turn the speed of each grounded Pokémon is reduced one stage", "en": "At the end of each turn the speed of each grounded Pokémon is reduced one stage", "ja": "ターンの 終わりに 地上のポケモンの すばやさが 1段階 下がる"}
+{"sec": "map:428", "key": "Pokémon with the following abilities are immune to the field slow:", "en": "Pokémon with the following abilities are immune to the field slow:", "ja": "つぎのとくせいの ポケモンは 沼の 減速を 受けない:"}
+{"sec": "map:428", "key": "Quick Feet, Swift Swim", "en": "Quick Feet, Swift Swim", "ja": "はやあし、すいすい"}
+{"sec": "map:428", "key": "The effect of Gooey is doubled.", "en": "The effect of Gooey is doubled.", "ja": "ぬめぬめの 効果が 2倍になる"}
+{"sec": "map:428", "key": "Ingrain damages its user instead of heals", "en": "Ingrain damages its user instead of heals", "ja": "ねをはるは つかいてを 回復せず ダメージを 与える"}
+{"sec": "map:428", "key": "Poison moves against grounded Pokémon increase base power x1.5", "en": "Poison moves against grounded Pokémon increase base power x1.5", "ja": "地上のポケモンへの どくわざは 威力1.5倍"}
+{"sec": "map:428", "key": "Mud Bomb, Mud Shot, Roar, Mud Slap, Muddy Water, Surf, Sludge Wave, Gunk Shot, Brine, Smack Down,", "en": "Mud Bomb, Mud Shot, Roar, Mud Slap, Muddy Water, Surf, Sludge Wave, Gunk Shot, Brine, Smack Down,", "ja": "どろばくだん、マッドショット、ほえる、どろかけ、だくりゅう、なみのり、ヘドロウェーブ、ダストシュート、しおみず、うちおとす、"}
+{"sec": "map:428", "key": "Thousand Arrows\\nPrevents use of Selfdestruct and Explosion", "en": "Thousand Arrows\\nPrevents use of Selfdestruct and Explosion", "ja": "サウザンアロー\\nじばくと だいばくはつは 使えない"}
+{"sec": "map:428", "key": "Sleep Powder", "en": "Sleep Powder", "ja": "ねむりごな"}
+{"sec": "map:428", "key": "Sleeping Pokémon suffer 1/16 Max HP damage each turn", "en": "Sleeping Pokémon suffer 1/16 Max HP damage each turn", "ja": "ねむり状態の ポケモンは 毎ターン 最大HPの1/16の ダメージを 受ける"}
+{"sec": "map:428", "key": "Nature Power becomes Muddy Water", "en": "Nature Power becomes Muddy Water", "ja": "しぜんのちからは だくりゅうになる"}
+{"sec": "map:428", "key": "Camouflage changes the user's type to Water", "en": "Camouflage changes the user's type to Water", "ja": "ほごしょくは つかいてを みずタイプに かえる"}
+{"sec": "map:428", "key": "Secret Power may lower speed.", "en": "Secret Power may lower speed.", "ja": "ひみつのちからは すばやさを 下げることが ある"}
+{"sec": "map:428", "key": "\"Rainbow Field\"\\nRead?", "en": "\"Rainbow Field\"\\nRead?", "ja": "「虹のフィールド」\\n読む?"}
+{"sec": "map:428", "key": "Opening: \"What does it mean?\"", "en": "Opening: \"What does it mean?\"", "ja": "開始: 「これは 何の しるしだろう?」"}
+{"sec": "map:428", "key": "Created by Fire Pledge + Water Pledge, or by cancelling Sunny or Rainy weather with its opposite.", "en": "Created by Fire Pledge + Water Pledge, or by cancelling Sunny or Rainy weather with its opposite.", "ja": "ほのおのちかいと みずのちかい または 晴れと あめを たがいに 打ち消して 発生する"}
+{"sec": "map:428", "key": "If created by weather, the field is removed when it ends.", "en": "If created by weather, the field is removed when it ends.", "ja": "天気で 発生した場合 天気が 終わると フィールドも 消える"}
+{"sec": "map:428", "key": "The secondary effect chance of all moves is doubled", "en": "The secondary effect chance of all moves is doubled", "ja": "すべてのわざの 追加効果の 発生率が 2倍になる"}
+{"sec": "map:428", "key": "Cloud Nine will randomly boost one stat at the end of each turn", "en": "Cloud Nine will randomly boost one stat at the end of each turn", "ja": "ノーてんきは ターンの 終わりに ランダムな 能力を 1つ 上げる"}
+{"sec": "map:428", "key": "Wonderskin will evade all status moves (from 50%)", "en": "Wonderskin will evade all status moves (from 50%)", "ja": "ミラクルスキンは すべての 変化わざを かわす (50%から)"}
+{"sec": "map:428", "key": "Special Normal moves increase base power x1.5 and apply damage of a random type", "en": "Special Normal moves increase base power x1.5 and apply damage of a random type", "ja": "とくしゅの ノーマルわざは 威力1.5倍になり ランダムな タイプの ダメージを 与える"}
+{"sec": "map:428", "key": "Silver Wind, Mystical Fire, Dragon Pulse, Tri Attack, Sacred Fire, Fire Pledge, Water Pledge, Grass Pledge, Aurora Beam, Judgment,", "en": "Silver Wind, Mystical Fire, Dragon Pulse, Tri Attack, Sacred Fire, Fire Pledge, Water Pledge, Grass Pledge, Aurora Beam, Judgment,", "ja": "ぎんいろのかぜ、マジカルフレイム、りゅうのはどう、トライアタック、せいなるほのお、ほのおのちかい、みずのちかい、くさのちかい、オーロラビーム、さばきのつぶて、"}
+{"sec": "map:428", "key": "Relic Song, Hidden Power, Secret Power, Weather Ball, Mist Ball, Heart Stamp, Moonblast, Zen Headbutt", "en": "Relic Song, Hidden Power, Secret Power, Weather Ball, Mist Ball, Heart Stamp, Moonblast, Zen Headbutt", "ja": "いにしえのうた、めざめるパワー、ひみつのちから、ウェザーボール、ミストボール、ハートスタンプ、ムーンフォース、しねんのずつき"}
+{"sec": "map:428", "key": "The following moves' stat-boosting effect is amplified:", "en": "The following moves' stat-boosting effect is amplified:", "ja": "つぎのわざの 能力上昇の 効果が 強まる:"}
+{"sec": "map:428", "key": "Meditate, Cosmic Power", "en": "Meditate, Cosmic Power", "ja": "ヨガのポーズ、コスモパワー"}
+{"sec": "map:428", "key": "Nightmare and Bad Dreams have no effect.", "en": "Nightmare and Bad Dreams have no effect.", "ja": "あくむと ナイトメアは 効果が ない"}
+{"sec": "map:428", "key": "Sleep Pokémon recover 1/16 Max HP each turn", "en": "Sleep Pokémon recover 1/16 Max HP each turn", "ja": "ねむり状態の ポケモンは 毎ターン 最大HPの1/16 回復する"}
+{"sec": "map:428", "key": "Sonicboom deals 140 flat HP damage", "en": "Sonicboom deals 140 flat HP damage", "ja": "ソニックブームは 140の 固定ダメージを 与える"}
+{"sec": "map:428", "key": "Nature Power becomes Aurora Beam", "en": "Nature Power becomes Aurora Beam", "ja": "しぜんのちからは オーロラビームになる"}
+{"sec": "map:428", "key": "Camouflage changes the user's type to Dragon", "en": "Camouflage changes the user's type to Dragon", "ja": "ほごしょくは つかいてを ドラゴンタイプに かえる"}
+{"sec": "map:428", "key": "Secret Power may inflict any status randomly.", "en": "Secret Power may inflict any status randomly.", "ja": "ひみつのちからは ランダムな 状態異常を 起こすことが ある"}
+{"sec": "map:428", "key": "\"Corrosive Field\"\\nRead?", "en": "\"Corrosive Field\"\\nRead?", "ja": "「腐食フィールド」\\n読む?"}
+{"sec": "map:428", "key": "Opening: \"The field is corrupted!\"", "en": "Opening: \"The field is corrupted!\"", "ja": "開始: 「フィールドが おかされている!」"}
+{"sec": "map:428", "key": "Contains an entry hazard that deals type-scaling Poison damage to grounded non-Poison and Steel types", "en": "Contains an entry hazard that deals type-scaling Poison damage to grounded non-Poison and Steel types", "ja": "地上の どく・はがねタイプ以外に タイプ相性ぶんの どくダメージを 与える 設置ダメージが ある"}
+{"sec": "map:428", "key": "Transformed into Grassy Terrain by Seed Flare.", "en": "Transformed into Grassy Terrain by Seed Flare.", "ja": "シードフレアで グラスフィールドに 変わる"}
+{"sec": "map:428", "key": "Pokémon with the following abilities ignore entry damage:", "en": "Pokémon with the following abilities ignore entry damage:", "ja": "つぎのとくせいの ポケモンは 設置ダメージを 受けない:"}
+{"sec": "map:428", "key": "Toxic Boost, Poison Heal, Immunity, Wonder Guard", "en": "Toxic Boost, Poison Heal, Immunity, Wonder Guard", "ja": "どくぼうそう、ポイズンヒール、めんえき、ふしぎなまもり"}
+{"sec": "map:428", "key": "Ingrain and Grass Pelt damage their users each turn", "en": "Ingrain and Grass Pelt damage their users each turn", "ja": "ねをはると くさのけがわは 毎ターン つかいてに ダメージを 与える"}
+{"sec": "map:428", "key": "The abilities Poison Heal and Toxic Boost are activated for grounded Pokémon", "en": "The abilities Poison Heal and Toxic Boost are activated for grounded Pokémon", "ja": "地上のポケモンは とくせい ポイズンヒールと どくぼうそうが 発動する"}
+{"sec": "map:428", "key": "Grass type attacks deal additional poison type damage", "en": "Grass type attacks deal additional poison type damage", "ja": "くさタイプの こうげきは どくタイプの 追加ダメージを 与える"}
+{"sec": "map:428", "key": "The following moves deal additional Poison type damage and increase power x1.5:", "en": "The following moves deal additional Poison type damage and increase power x1.5:", "ja": "つぎのわざは どくタイプの 追加ダメージを 与え 威力1.5倍になる:"}
+{"sec": "map:428", "key": "Smack Down, Mud Slap, Mudshot, Muddy Water, Mud Bomb, Whirlpool, Thousand Arrows", "en": "Smack Down, Mud Slap, Mudshot, Muddy Water, Mud Bomb, Whirlpool, Thousand Arrows", "ja": "うちおとす、どろかけ、マッドショット、だくりゅう、どろばくだん、うずしお、サウザンアロー"}
+{"sec": "map:428", "key": "The following moves increase in base power x2:", "en": "The following moves increase in base power x2:", "ja": "つぎのわざは 威力が 2倍になる:"}
+{"sec": "map:428", "key": "Grass Knot, Acid, Acid Spray", "en": "Grass Knot, Acid, Acid Spray", "ja": "くさむすび、ようかいえき、アシッドボム"}
+{"sec": "map:428", "key": "The stat changing effect of the following move is amplified:", "en": "The stat changing effect of the following move is amplified:", "ja": "つぎのわざの 能力変化の 効果が 強まる:"}
+{"sec": "map:428", "key": "Acid Armor", "en": "Acid Armor", "ja": "とける"}
+{"sec": "map:428", "key": "Activates Venom Drench and Venoshock", "en": "Activates Venom Drench and Venoshock", "ja": "ベノムトラップと ベノムショックが 発動する"}
+{"sec": "map:428", "key": "The base accuracy of the following moves becomes 100:", "en": "The base accuracy of the following moves becomes 100:", "ja": "つぎのわざの 命中率が 100になる:"}
+{"sec": "map:428", "key": "Sleep Powder, Poison Powder, Stun Spore, Toxic", "en": "Sleep Powder, Poison Powder, Stun Spore, Toxic", "ja": "ねむりごな、どくのこな、しびれごな、どくどく"}
+{"sec": "map:428", "key": "Sleeping non-Poison/Steel Pokémon suffer 1/16 Max HP damage each turn", "en": "Sleeping non-Poison/Steel Pokémon suffer 1/16 Max HP damage each turn", "ja": "ねむり状態の どく・はがね以外の ポケモンは 毎ターン 最大HPの1/16の ダメージを 受ける"}
+{"sec": "map:428", "key": "Toxic Spikes cannot be absorbed", "en": "Toxic Spikes cannot be absorbed", "ja": "どくびしは 吸収されない"}
+{"sec": "map:428", "key": "Nature Power becomes Acid", "en": "Nature Power becomes Acid", "ja": "しぜんのちからは ようかいえきになる"}
+{"sec": "map:428", "key": "Camouflage changes the user's type to Poison", "en": "Camouflage changes the user's type to Poison", "ja": "ほごしょくは つかいてを どくタイプに かえる"}
+{"sec": "map:428", "key": "Secret Power may poison.", "en": "Secret Power may poison.", "ja": "ひみつのちからは どく状態に することが ある"}
+{"sec": "map:428", "key": "\"Corrosive Mist Field\"\\nRead?", "en": "\"Corrosive Mist Field\"\\nRead?", "ja": "「腐食ミストフィールド」\\n読む?"}
+{"sec": "map:428", "key": "Opening: \"Corrosive mist settles on the field!\"", "en": "Opening: \"Corrosive mist settles on the field!\"", "ja": "開始: 「腐食性の きりが フィールドを 包んだ!」"}
+{"sec": "map:428", "key": "All Pokémon are poisoned at the end of each round", "en": "All Pokémon are poisoned at the end of each round", "ja": "ターンの 終わりに すべてのポケモンが どく状態に なる"}
+{"sec": "map:428", "key": "Aqua Ring and Dry Skin damage their users each turn", "en": "Aqua Ring and Dry Skin damage their users each turn", "ja": "アクアリングと かんそうはだは 毎ターン つかいてに ダメージを 与える"}
+{"sec": "map:428", "key": "Poison Types will be healed by Dry Skin instead", "en": "Poison Types will be healed by Dry Skin instead", "ja": "どくタイプは かわりに かんそうはだで 回復する"}
+{"sec": "map:428", "key": "The abilities Poison Heal and Toxic Boost are activated", "en": "The abilities Poison Heal and Toxic Boost are activated\t", "ja": "とくせい ポイズンヒールと どくぼうそうが 発動する"}
+{"sec": "map:428", "key": "Special Flying attacks and the following moves deal additional Poison type damage:", "en": "Special Flying attacks and the following moves deal additional Poison type damage:", "ja": "とくしゅの ひこうこうげきと つぎのわざは どくタイプの 追加ダメージを 与える:"}
+{"sec": "map:428", "key": "Bubble, Bubblebeam, Energy Ball", "en": "Bubble, Bubblebeam, Energy Ball", "ja": "あわ、バブルこうせん、エナジーボール"}
+{"sec": "map:428", "key": "The following moves increase in base power x1.5:", "en": "The following moves increase in base power x1.5:", "ja": "つぎのわざは 威力が 1.5倍になる:"}
+{"sec": "map:428", "key": "Smog, Clear Smog, Acid Spray, Bubble, Bubblebeam", "en": "Smog, Clear Smog, Acid Spray, Bubble, Bubblebeam", "ja": "スモッグ、クリアスモッグ、アシッドボム、あわ、バブルこうせん"}
+{"sec": "map:428", "key": "Acid Armor, Smokescreen", "en": "Acid Armor, Smokescreen", "ja": "とける、えんまく"}
+{"sec": "map:428", "key": "Toxic", "en": "Toxic", "ja": "どくどく"}
+{"sec": "map:428", "key": "The ability Aftermath damages for 50% HP (from 25%)", "en": "The ability Aftermath damages for 50% HP (from 25%)", "ja": "とくせい ゆうばくの ダメージが 25%から 50%になる"}
+{"sec": "map:428", "key": "Fire moves increase base power x1.5", "en": "Fire moves increase base power x1.5", "ja": "ほのおわざは 威力1.5倍"}
+{"sec": "map:428", "key": "Selfdestruct, Explosion", "en": "Selfdestruct, Explosion", "ja": "じばく、だいばくはつ"}
+{"sec": "map:428", "key": "Gust, Whirlwind, Defog, Hurricane, Tailwind, Razor Wind, Selfdestruct, Explosion, Twister", "en": "Gust, Whirlwind, Defog, Hurricane, Tailwind, Razor Wind, Selfdestruct, Explosion, Twister", "ja": "かぜおこし、ふきとばし、きりばらい、ぼうふう、おいかぜ、かまいたち、じばく、だいばくはつ、たつまき"}
+{"sec": "map:428", "key": "The following moves will terminate this field effect, KOing all active Pokémon:", "en": "The following moves will terminate this field effect, KOing all active Pokémon:", "ja": "つぎのわざで このフィールド効果は 消え 場の 全ポケモンが ひんしになる:"}
+{"sec": "map:428", "key": "Heat Wave, Eruption, Lava Plume, Searing Shot, Fire Pledge, Flame Burst", "en": "Heat Wave, Eruption, Lava Plume, Searing Shot, Fire Pledge, Flame Burst", "ja": "ねっぷう、ふんか、ふんえん、かえんだん、ほのおのちかい、はじけるほのお"}
+{"sec": "map:428", "key": "The following moves will transform this field into a Corrosive Field:", "en": "The following moves will transform this field into a Corrosive Field:", "ja": "つぎのわざで このフィールドは 腐食フィールドに 変わる:"}
+{"sec": "map:428", "key": "Gravity", "en": "Gravity", "ja": "じゅうりょく"}
+{"sec": "map:428", "key": "Nature Power becomes Acid Spray", "en": "Nature Power becomes Acid Spray", "ja": "しぜんのちからは アシッドボムになる"}
+{"sec": "map:428", "key": "\"Desert Field\"\\nRead?", "en": "\"Desert Field\"\\nRead?", "ja": "「砂漠フィールド」\\n読む?"}
+{"sec": "map:428", "key": "Opening: \"The field is rife with sand.\"", "en": "Opening: \"The field is rife with sand.\"", "ja": "開始: 「フィールドは 砂だらけだ」"}
+{"sec": "map:428", "key": "The abilities Sand Veil, Sand Rush and Sand Force are activated", "en": "The abilities Sand Veil, Sand Rush and Sand Force are activated", "ja": "とくせい すながくれ、すなかき、すなのちからが 発動する"}
+{"sec": "map:428", "key": "Sunny Day, Drought, Sandstorm and Sandstream last for 8 turns", "en": "Sunny Day, Drought, Sandstorm and Sandstream last for 8 turns", "ja": "にほんばれ、ひでり、すなあらし、すなおこしは 8ターン つづく"}
+{"sec": "map:428", "key": "Heat Wave, Needle Arm, Pin Missile, Dig, Sand Tomb, Thousand Waves", "en": "Heat Wave, Needle Arm, Pin Missile, Dig, Sand Tomb, Thousand Waves", "ja": "ねっぷう、ニードルアーム、ミサイルばり、あなをほる、すなじごく、サウザンウェーブ"}
+{"sec": "map:428", "key": "Sand Attack", "en": "Sand Attack", "ja": "すなかけ"}
+{"sec": "map:428", "key": "Dry Skin damages its user each turn", "en": "Dry Skin damages its user each turn", "ja": "かんそうはだは 毎ターン つかいてに ダメージを 与える"}
+{"sec": "map:428", "key": "Sand Tomb deals 1/6 Max HP damage per turn", "en": "Sand Tomb deals 1/6 Max HP damage per turn", "ja": "すなじごくは 毎ターン 最大HPの1/6の ダメージを 与える"}
+{"sec": "map:428", "key": "Water moves from grounded Pokémon decrease base power x0.5", "en": "Water moves from grounded Pokémon decrease base power x0.5", "ja": "地上のポケモンの みずわざは 威力0.5倍"}
+{"sec": "map:428", "key": "Electric moves against grounded Pokémon decrease base power x0.5", "en": "Electric moves against grounded Pokémon decrease base power x0.5", "ja": "地上のポケモンへの でんきわざは 威力0.5倍"}
+{"sec": "map:428", "key": "Nature Power becomes Sand Tomb", "en": "Nature Power becomes Sand Tomb", "ja": "しぜんのちからは すなじごくになる"}
+{"sec": "map:428", "key": "Camouflage changes the user's type to Ground", "en": "Camouflage changes the user's type to Ground", "ja": "ほごしょくは つかいてを じめんタイプに かえる"}
+{"sec": "map:428", "key": "\"Icy Field\"\\nRead?", "en": "\"Icy Field\"\\nRead?", "ja": "「氷のフィールド」\\n読む?"}
+{"sec": "map:428", "key": "Opening: \"The field is covered in ice.\"", "en": "Opening: \"The field is covered in ice.\"", "ja": "開始: 「フィールドが 氷に おおわれている」"}
+{"sec": "map:428", "key": "Grounded Pokémon increase Speed when using the following moves:", "en": "Grounded Pokémon increase Speed when using the following moves:", "ja": "地上のポケモンは つぎのわざで すばやさが 上がる:"}
+{"sec": "map:428", "key": "All attacking, physical-contact priority moves, Feint, Rollout, Steamroller, Defense Curl", "en": "All attacking, physical-contact priority moves, Feint, Rollout, Steamroller, Defense Curl", "ja": "こうげきわざのうち 直接せっしょくの せんこうわざ、フェイント、ころがる、ハードローラー、まるくなる"}
+{"sec": "map:428", "key": "Ice type attacks have a double chance to freeze", "en": "Ice type attacks have a double chance to freeze", "ja": "こおりタイプの こうげきは こおらせる 確率が 2倍"}
+{"sec": "map:428", "key": "Ice moves increase in base power x1.5", "en": "Ice moves increase in base power x1.5", "ja": "こおりわざは 威力1.5倍"}
+{"sec": "map:428", "key": "Fire moves decrease in base power x0.5", "en": "Fire moves decrease in base power x0.5", "ja": "ほのおわざは 威力0.5倍"}
+{"sec": "map:428", "key": "The following move suffers a x0.5 decrease of power:", "en": "The following move suffers a x0.5 decrease of power:", "ja": "つぎのわざは 威力が 0.5倍になる:"}
+{"sec": "map:428", "key": "Scald, Steam Eruption", "en": "Scald, Steam Eruption", "ja": "ねっとう、スチームバースト"}
+{"sec": "map:428", "key": "Rock type attacks deal Ice type damage instead.", "en": "Rock type attacks deal Ice type damage instead.", "ja": "いわタイプの こうげきは かわりに こおりタイプの ダメージに なる"}
+{"sec": "map:428", "key": "Burn damage is halved", "en": "Burn damage is halved", "ja": "やけどの ダメージが 半分になる"}
+{"sec": "map:428", "key": "Heat Wave, Flame Burst, Lava Plume, Eruption, Searing Shot, Fire Pledge, Earthquake, Magnitude", "en": "Heat Wave, Flame Burst, Lava Plume, Eruption, Searing Shot, Fire Pledge, Earthquake, Magnitude", "ja": "ねっぷう、はじけるほのお、ふんえん、ふんか、かえんだん、ほのおのちかい、じしん、マグニチュード"}
+{"sec": "map:428", "key": "Hail lasts for 8 turns", "en": "Hail lasts for 8 turns", "ja": "あられの 効果が 8ターン つづく"}
+{"sec": "map:428", "key": "Activates Ice Body and Snow Cloak", "en": "Activates Ice Body and Snow Cloak", "ja": "アイスボディと ゆきがくれが 発動する"}
+{"sec": "map:428", "key": "Refrigerate's base power boost becomes x1.5 (from x1.3)", "en": "Refrigerate's base power boost becomes x1.5 (from x1.3)", "ja": "フリーズスキンの 威力上昇が 1.3倍から 1.5倍になる"}
+{"sec": "map:428", "key": "Nature Power becomes Ice Beam", "en": "Nature Power becomes Ice Beam", "ja": "しぜんのちからは れいとうビームになる"}
+{"sec": "map:428", "key": "Camouflage changes the user's type to Ice", "en": "Camouflage changes the user's type to Ice", "ja": "ほごしょくは つかいてを こおりタイプに かえる"}
+{"sec": "map:428", "key": "Secret Power may freeze.", "en": "Secret Power may freeze.", "ja": "ひみつのちからは こおらせることが ある"}
+{"sec": "map:428", "key": "\"Rocky Field\"\\nRead?", "en": "\"Rocky Field\"\\nRead?", "ja": "「岩場フィールド」\\n読む?"}
+{"sec": "map:428", "key": "Opening: \"The field is littered with rocks.\"", "en": "Opening: \"The field is littered with rocks.\"", "ja": "開始: 「フィールドに 岩が ちらばっている」"}
+{"sec": "map:428", "key": "While a substitute is up or evasion is increased, Pokémon may dodge Bulletproof-blockable attacks behind rocks.", "en": "While a substitute is up or evasion is increased, Pokémon may dodge Bulletproof-blockable attacks behind rocks.", "ja": "みがわりが あるか 回避率が 上がっているとき ポケモンは 岩かげで ぼうだんで 防げる こうげきを かわすことが ある"}
+{"sec": "map:428", "key": "Missing a physical contact attack causes 1/8 Max HP recoil damage,", "en": "Missing a physical contact attack causes 1/8 Max HP recoil damage,", "ja": "直接せっしょくの こうげきを 外すと 最大HPの1/8の 反動ダメージを 受ける"}
+{"sec": "map:428", "key": "this does not affect Pokémon with Rock Head Stealth Rock damage is doubled", "en": "this does not affect Pokémon with Rock Head Stealth Rock damage is doubled", "ja": "いしあたまの ポケモンには 効果がない ステルスロックの ダメージは 2倍になる"}
+{"sec": "map:428", "key": "Flinched Pokémon suffer 1/16 Max HP damage, this does not affect Pokémon with Sturdy or Steadfast", "en": "Flinched Pokémon suffer 1/16 Max HP damage, this does not affect Pokémon with Sturdy or Steadfast", "ja": "ひるんだ ポケモンは 最大HPの1/16の ダメージを 受ける がんじょうや ふくつのこころの ポケモンには 効果がない"}
+{"sec": "map:428", "key": "The following moves increase in power x1.5 and apply additional Rock type damage:", "en": "The following moves increase in power x1.5 and apply additional Rock type damage:", "ja": "つぎのわざは 威力1.5倍になり いわタイプの 追加ダメージを 与える:"}
+{"sec": "map:428", "key": "Earthquake, Magnitude, Rock Climb, Strength", "en": "Earthquake, Magnitude, Rock Climb, Strength", "ja": "じしん、マグニチュード、ロッククライム、かいりき"}
+{"sec": "map:428", "key": "Rock moves increase in base power x1.5", "en": "Rock moves increase in base power x1.5", "ja": "いわわざは 威力1.5倍"}
+{"sec": "map:428", "key": "Rock Smash increases in base power x2", "en": "Rock Smash increases in base power x2", "ja": "いわくだきは 威力2倍になる"}
+{"sec": "map:428", "key": "The stat-changing effect of the following move is amplified:", "en": "The stat-changing effect of the following move is amplified:", "ja": "つぎのわざの 能力変化の 効果が 強まる:"}
+{"sec": "map:428", "key": "Rock Polish", "en": "Rock Polish", "ja": "ロックカット"}
+{"sec": "map:428", "key": "Nature Power becomes Rock Smash", "en": "Nature Power becomes Rock Smash", "ja": "しぜんのちからは いわくだきになる"}
+{"sec": "map:428", "key": "Camouflage changes the user's type to Rock", "en": "Camouflage changes the user's type to Rock", "ja": "ほごしょくは つかいてを いわタイプに かえる"}
+{"sec": "map:428", "key": "Secret Power may flinch.", "en": "Secret Power may flinch.", "ja": "ひみつのちからは ひるませることが ある"}
+{"sec": "map:428", "key": "\"Forest Field\"\\nRead?", "en": "\"Forest Field\"\\nRead?", "ja": "「森林フィールド」\\n読む?"}
+{"sec": "map:428", "key": "Opening: \"The field is abound with trees.\"", "en": "Opening: \"The field is abound with trees.\"", "ja": "開始: 「フィールドは 木々に つつまれている」"}
+{"sec": "map:428", "key": "Effect Spore's activation chance is doubled to 60%", "en": "Effect Spore's activation chance is doubled to 60%", "ja": "ほうしの 発動率が 2倍の 60%になる"}
+{"sec": "map:428", "key": "Activates Overgrow, Swarm, Grass Pelt and Leaf Guard", "en": "Activates Overgrow, Swarm, Grass Pelt and Leaf Guard", "ja": "しんりょく、むしのしらせ、くさのけがわ、リーフガードが 発動する"}
+{"sec": "map:428", "key": "Grass and special Bug moves increase base power x1.5", "en": "Grass and special Bug moves increase base power x1.5", "ja": "くさわざと とくしゅの むしわざは 威力1.5倍"}
+{"sec": "map:428", "key": "Infestation deals 1/6 Max HP damage per turn (from 1/8)", "en": "Infestation deals 1/6 Max HP damage per turn (from 1/8)", "ja": "まとわりつくは 毎ターン 最大HPの1/6の ダメージを 与える (1/8から)"}
+{"sec": "map:428", "key": "The following move increases in base power x1.5:", "en": "The following move increases in base power x1.5:", "ja": "つぎのわざは 威力が 1.5倍になる:"}
+{"sec": "map:428", "key": "Attack Order", "en": "Attack Order", "ja": "こうげきしれい"}
+{"sec": "map:428", "key": "The following move deals additional Grass type damage and increase power x2:", "en": "The following move deals additional Grass type damage and increase power x2:", "ja": "つぎのわざは くさタイプの 追加ダメージを 与え 威力2倍になる:"}
+{"sec": "map:428", "key": "Cut", "en": "Cut", "ja": "いあいぎり"}
+{"sec": "map:428", "key": "Surf, Muddy Water", "en": "Surf, Muddy Water", "ja": "なみのり、だくりゅう"}
+{"sec": "map:428", "key": "Forest's Curse additionally Curses the target", "en": "Forest's Curse additionally Curses the target", "ja": "もりののろいは 相手を のろい状態にも する"}
+{"sec": "map:428", "key": "Sap Sipper gradually restores HP", "en": "Sap Sipper gradually restores HP", "ja": "そうしょくは じょじょに HPを 回復する"}
+{"sec": "map:428", "key": "Ingrain's healing effect is doubled", "en": "Ingrain's healing effect is doubled", "ja": "ねをはるの 回復効果が 2倍になる"}
+{"sec": "map:428", "key": "Growth, Defend Order", "en": "Growth, Defend Order", "ja": "せいちょう、ぼうぎょしれい"}
+{"sec": "map:428", "key": "Heal Order restores 66% of the user's Max HP (from 50%)", "en": "Heal Order restores 66% of the user's Max HP (from 50%)", "ja": "かいふくしれいは 最大HPの66%を 回復する (50%から)"}
+{"sec": "map:428", "key": "Sticky Web's effect is doubled.", "en": "Sticky Web's effect is doubled.", "ja": "ねばねばネットの 効果が 2倍になる"}
+{"sec": "map:428", "key": "In the absence of Rain or Water Sport, the following moves will transform this field into a Burning Field:", "en": "In the absence of Rain or Water Sport, the following moves will transform this field into a Burning Field:", "ja": "あめや みずあそびが ないとき つぎのわざで このフィールドは 燃えるフィールドに 変わる:"}
+{"sec": "map:428", "key": "Eruption, Heat Wave, Flame Burst, Lava Plume, Searing Shot, Fire Pledge", "en": "Eruption, Heat Wave, Flame Burst, Lava Plume, Searing Shot, Fire Pledge", "ja": "ふんか、ねっぷう、はじけるほのお、ふんえん、かえんだん、ほのおのちかい"}
+{"sec": "map:428", "key": "Nature Power becomes Wood Hammer", "en": "Nature Power becomes Wood Hammer", "ja": "しぜんのちからは ウッドハンマーになる"}
+{"sec": "map:428", "key": "\"Superheated field\"\\nRead?", "en": "\"Superheated field\"\\nRead?", "ja": "「超高温フィールド」\\n読む?"}
+{"sec": "map:428", "key": "Opening: \"The field is super-heated!\"", "en": "Opening: \"The field is super-heated!\"", "ja": "開始: 「フィールドが 超高温だ!」"}
+{"sec": "map:428", "key": "Fire moves increase base power x1.1", "en": "Fire moves increase base power x1.1", "ja": "ほのおわざは 威力1.1倍"}
+{"sec": "map:428", "key": "Water moves decrease in base power x0.9", "en": "Water moves decrease in base power x0.9", "ja": "みずわざは 威力0.9倍"}
+{"sec": "map:428", "key": "The following moves suffer a x0.625 decrease of base power (totalling x0.5) and generate steam at the end of the turn,", "en": "The following moves suffer a x0.625 decrease of base power (totalling x0.5) and generate steam at the end of the turn,", "ja": "つぎのわざは 威力が 0.625倍になり (合計0.5倍) ターンの 終わりに 蒸気が 発生して"}
+{"sec": "map:428", "key": "lowering all active Pokémon's accuracy one stage: Surf, Muddy Water, Water Pledge, Water Spout,", "en": "lowering all active Pokémon's accuracy one stage: Surf, Muddy Water, Water Pledge, Water Spout,", "ja": "場の 全ポケモンの 命中率を 1段階 下げる: なみのり、だくりゅう、みずのちかい、しおふき、"}
+{"sec": "map:428", "key": "Water Sport\\nThe following move increases in base power x1.667 (totalling x1.5):", "en": "Water Sport\\nThe following move increases in base power x1.667 (totalling x1.5):", "ja": "みずあそび\\nつぎのわざは 威力が 1.667倍になる (合計1.5倍):"}
+{"sec": "map:428", "key": "Scald", "en": "Scald", "ja": "ねっとう"}
+{"sec": "map:428", "key": "Eruption, Heat Wave, Flame Burst, Lava Plume, Searing Shot, Fire Pledge, Explosion, Selfdestruct", "en": "Eruption, Heat Wave, Flame Burst, Lava Plume, Searing Shot, Fire Pledge, Explosion, Selfdestruct", "ja": "ふんか、ねっぷう、はじけるほのお、ふんえん、かえんだん、ほのおのちかい、だいばくはつ、じばく"}
+{"sec": "map:428", "key": "The newly created Burning Field will revert to Superheated when destroyed.", "en": "The newly created Burning Field will revert to Superheated when destroyed.", "ja": "新たに できた 燃えるフィールドは 消えると 超高温フィールドに もどる"}
+{"sec": "map:428", "key": "Blizzard, Glaciate", "en": "Blizzard, Glaciate", "ja": "ふぶき、こごえるせかい"}
+{"sec": "map:428", "key": "Hail is terminated", "en": "Hail is terminated", "ja": "あられが 終わる"}
+{"sec": "map:428", "key": "Outrage, Thrash, and Petal Dance fatigue after a single turn", "en": "Outrage, Thrash, and Petal Dance fatigue after a single turn", "ja": "げきりん、あばれる、はなびらのまいは 1ターンで つかれる"}
+{"sec": "map:428", "key": "Nature Power becomes Heat Wave", "en": "Nature Power becomes Heat Wave", "ja": "しぜんのちからは ねっぷうになる"}
+{"sec": "map:428", "key": "\"Factory Field\"\\nRead?", "en": "\"Factory Field\"\\nRead?", "ja": "「工場フィールド」\\n読む?"}
+{"sec": "map:428", "key": "Opening: \"Machines whir in the background.\"", "en": "Opening: \"Machines whir in the background.\"", "ja": "開始: 「機械の うなりが 響いている」"}
+{"sec": "map:428", "key": "Electric moves increase base power x1.2", "en": "Electric moves increase base power x1.2", "ja": "でんきわざは 威力1.2倍"}
+{"sec": "map:428", "key": "Motor Drive and Download's boosts are doubled", "en": "Motor Drive and Download's boosts are doubled", "ja": "でんきエンジンと ダウンロードの 上昇が 2倍になる"}
+{"sec": "map:428", "key": "Technician applies on base powers up to 80", "en": "Technician applies on base powers up to 80", "ja": "テクニシャンは 威力80までに 効果が ある"}
+{"sec": "map:428", "key": "Steam Roller, Techno Blast", "en": "Steam Roller, Techno Blast", "ja": "ハードローラー、テクノバスター"}
+{"sec": "map:428", "key": "The follow moves gain a x2 increase in power:", "en": "The follow moves gain a x2 increase in power:", "ja": "つぎのわざは 威力が 2倍になる:"}
+{"sec": "map:428", "key": "Flash Cannon, Gyro Ball, Gear Grind, Magnet Bomb", "en": "Flash Cannon, Gyro Ball, Gear Grind, Magnet Bomb", "ja": "ラスターカノン、ジャイロボール、ギアソーサー、マグネットボム"}
+{"sec": "map:428", "key": "Metal Sound, Iron Defense, Shift Gear, Autotomize", "en": "Metal Sound, Iron Defense, Shift Gear, Autotomize", "ja": "きんぞくおん、てっぺき、ギアチェンジ、ボディパージ"}
+{"sec": "map:428", "key": "The following moves will transform this field into a Short-circuit Field:", "en": "The following moves will transform this field into a Short-circuit Field:", "ja": "つぎのわざで このフィールドは ショートフィールドに 変わる:"}
+{"sec": "map:428", "key": "Discharge, Explosion, Selfdestruct, Magnitude, Fissure, Earthquake, Ion Deluge, Fissure", "en": "Discharge, Explosion, Selfdestruct, Magnitude, Fissure, Earthquake, Ion Deluge, Fissure", "ja": "ほうでん、だいばくはつ、じばく、マグニチュード、じわれ、じしん、プラズマシャワー、じわれ"}
+{"sec": "map:428", "key": "Nature Power becomes Gear Grind", "en": "Nature Power becomes Gear Grind", "ja": "しぜんのちからは ギアソーサーになる"}
+{"sec": "map:428", "key": "Camouflage changes the user's type to Steel", "en": "Camouflage changes the user's type to Steel", "ja": "ほごしょくは つかいてを はがねタイプに かえる"}
+{"sec": "map:428", "key": "Secret Power may lower attack.", "en": "Secret Power may lower attack.", "ja": "ひみつのちからは こうげきを 下げることが ある"}
+{"sec": "map:428", "key": "\"Short-Circuit Field\"\\nRead?", "en": "\"Short-Circuit Field\"\\nRead?", "ja": "「ショートフィールド」\\n読む?"}
+{"sec": "map:428", "key": "Opening: \"Bzzt!\"", "en": "Opening: \"Bzzt!\"", "ja": "開始: 「バチッ!」"}
+{"sec": "map:428", "key": "Static's activation chance is doubled to 60%", "en": "Static's activation chance is doubled to 60%", "ja": "せいでんきの 発動率が 2倍の 60%になる"}
+{"sec": "map:428", "key": "Volt Absorb gradually restores HP", "en": "Volt Absorb gradually restores HP", "ja": "ちくでんは じょじょに HPを 回復する"}
+{"sec": "map:428", "key": "Activates Plus and Minus", "en": "Activates Plus and Minus", "ja": "プラスと マイナスが 発動する"}
+{"sec": "map:428", "key": "Electric attacks amplify a random increment of base power between x0.5 and x2", "en": "Electric attacks amplify a random increment of base power between x0.5 and x2", "ja": "でんきこうげきは 威力が 0.5倍から 2倍の あいだで ランダムに 変わる"}
+{"sec": "map:428", "key": "The follow move gains a x1.5 increase in power:", "en": "The follow move gains a x1.5 increase in power:", "ja": "つぎのわざは 威力が 1.5倍になる:"}
+{"sec": "map:428", "key": "Dazzling Gleam", "en": "Dazzling Gleam", "ja": "マジカルシャイン"}
+{"sec": "map:428", "key": "The follow moves gain a x1.3 increase in power:", "en": "The follow moves gain a x1.3 increase in power:", "ja": "つぎのわざは 威力が 1.3倍になる:"}
+{"sec": "map:428", "key": "Dark Pulse, Night Daze, Night Slash, Shadow Ball, Shadow Claw, Shadow Force, Shadow Sneak,", "en": "Dark Pulse, Night Daze, Night Slash, Shadow Ball, Shadow Claw, Shadow Force, Shadow Sneak,", "ja": "あくのはどう、ナイトバースト、つじぎり、シャドーボール、シャドークロー、シャドーダイブ、かげうち、"}
+{"sec": "map:428", "key": "Shadow Punch\\nThe following moves deal additional Electric type damage and increase power x1.5:", "en": "Shadow Punch\\nThe following moves deal additional Electric type damage and increase power x1.5:", "ja": "シャドーパンチ\\nつぎのわざは でんきタイプの 追加ダメージを 与え 威力1.5倍になる:"}
+{"sec": "map:428", "key": "Surf, Muddy Water, Gyro Ball, Magnet Bomb, Flash Cannon, Gear Grind", "en": "Surf, Muddy Water, Gyro Ball, Magnet Bomb, Flash Cannon, Gear Grind", "ja": "なみのり、だくりゅう、ジャイロボール、マグネットボム、ラスターカノン、ギアソーサー"}
+{"sec": "map:428", "key": "The following moves will transform this field into a Factory Field:", "en": "The following moves will transform this field into a Factory Field:", "ja": "つぎのわざで このフィールドは 工場フィールドに 変わる:"}
+{"sec": "map:428", "key": "Charge Beam, Discharge, Wild Charge, Parabolic Charge", "en": "Charge Beam, Discharge, Wild Charge, Parabolic Charge", "ja": "チャージビーム、ほうでん、ワイルドボルト、パラボラチャージ"}
+{"sec": "map:428", "key": "Metal Sound, Flash", "en": "Metal Sound, Flash", "ja": "きんぞくおん、フラッシュ"}
+{"sec": "map:428", "key": "Zap Cannon", "en": "Zap Cannon", "ja": "でんじほう"}
+{"sec": "map:428", "key": "Nature Power becomes Discharge", "en": "Nature Power becomes Discharge", "ja": "しぜんのちからは ほうでんになる"}
+{"sec": "map:428", "key": "Camouflage changes the user's type to Electric", "en": "Camouflage changes the user's type to Electric", "ja": "ほごしょくは つかいてを でんきタイプに かえる"}
+{"sec": "map:428", "key": "\"Wasteland Field\"\\nRead?", "en": "\"Wasteland Field\"\\nRead?", "ja": "「荒れ地フィールド」\\n読む?"}
+{"sec": "map:428", "key": "Opening: \"The waste is watching...\"", "en": "Opening: \"The waste is watching...\"", "ja": "開始: 「荒れ地が 見ている……」"}
+{"sec": "map:428", "key": "Entry hazards are consumed at the end of the turn, returning a special effect to the side they were on:", "en": "Entry hazards are consumed at the end of the turn, returning a special effect to the side they were on:", "ja": "設置わざは ターンの 終わりに 消費され それが あった側に 特別な 効果を 返す:"}
+{"sec": "map:428", "key": "Stealth Rocks: deal type-scaling Rock damage double the normal effect to Pokémon.", "en": "Stealth Rocks: deal type-scaling Rock damage double the normal effect to Pokémon.", "ja": "ステルスロック: タイプ相性ぶんの いわダメージを 通常の 2倍 ポケモンに 与える"}
+{"sec": "map:428", "key": "Spikes: deal 33% max HP to grounded Pokémon.", "en": "Spikes: deal 33% max HP to grounded Pokémon.", "ja": "まきびし: 地上のポケモンに 最大HPの33%の ダメージを 与える"}
+{"sec": "map:428", "key": "Toxic Spikes: deal 12.5% max HP to ground Pokémon, and, if applicable, poison them.", "en": "Toxic Spikes: deal 12.5% max HP to ground Pokémon, and, if applicable, poison them.", "ja": "どくびし: 地上のポケモンに 最大HPの12.5%の ダメージを 与え 可能なら どく状態にする"}
+{"sec": "map:428", "key": "Sticky Web: severely lower Pokémon's speed", "en": "Sticky Web: severely lower Pokémon's speed", "ja": "ねばねばネット: ポケモンの すばやさを 大きく 下げる"}
+{"sec": "map:428", "key": "The following moves gain a boost of x1.2 and have a chance to inflict a random status condition on any non-poison/steel targets without Immunity,", "en": "The following moves gain a boost of x1.2 and have a chance to inflict a random status condition on any non-poison/steel targets without Immunity,", "ja": "つぎのわざは 威力1.2倍になり めんえき、"}
+{"sec": "map:428", "key": "Poison Heal or Toxic Boost.", "en": "Poison Heal or Toxic Boost.", "ja": "ポイズンヒール、どくぼうそうを もたない どく・はがね以外の 相手に ランダムな 状態異常を 起こすことが ある"}
+{"sec": "map:428", "key": "Gunk Shot, Sludge, Sludge Wave, Sludge Bomb", "en": "Gunk Shot, Sludge, Sludge Wave, Sludge Bomb", "ja": "ダストシュート、ヘドロこうげき、ヘドロウェーブ、ヘドロばくだん"}
+{"sec": "map:428", "key": "Effect Spore, Poison Point and Stench's activation chances are doubled.", "en": "Effect Spore, Poison Point and Stench's activation chances are doubled.", "ja": "ほうし、どくのトゲ、あくしゅうの 発動率が 2倍になる"}
+{"sec": "map:428", "key": "Liquid Ooze deals double damage.", "en": "Liquid Ooze deals double damage.", "ja": "ヘドロえきの ダメージが 2倍になる"}
+{"sec": "map:428", "key": "Activates Poison Heal and Toxic Boost.", "en": "Activates Poison Heal and Toxic Boost.", "ja": "ポイズンヒールと どくぼうそうが 発動する"}
+{"sec": "map:428", "key": "Gooey additionally poisons on contact.", "en": "Gooey additionally poisons on contact.", "ja": "ぬめぬめは せっしょく時に どく状態にも する"}
+{"sec": "map:428", "key": "Activates Venom Drench and Venoshock.", "en": "Activates Venom Drench and Venoshock.", "ja": "ベノムトラップと ベノムショックが 発動する"}
+{"sec": "map:428", "key": "Spit-up gains a x2 boost in power.", "en": "Spit-up gains a x2 boost in power.", "ja": "はきだすは 威力が 2倍になる"}
+{"sec": "map:428", "key": "Swallow's healing effect is doubled, curing the user of status at maximum stock.", "en": "Swallow's healing effect is doubled, curing the user of status at maximum stock.", "ja": "のみこむの 回復効果が 2倍になり 最大まで ためていれば 状態異常も 治す"}
+{"sec": "map:428", "key": "Vine Whip, Power Whip", "en": "Vine Whip, Power Whip", "ja": "つるのムチ、パワーウィップ"}
+{"sec": "map:428", "key": "The follow moves gain a x1.5 increase in power and deal additional Poison type damage:", "en": "The follow moves gain a x1.5 increase in power and deal additional Poison type damage:", "ja": "つぎのわざは 威力1.5倍になり どくタイプの 追加ダメージを 与える:"}
+{"sec": "map:428", "key": "Mud Bomb, Mud Slap, Mud Shot", "en": "Mud Bomb, Mud Slap, Mud Shot", "ja": "どろばくだん、どろかけ、マッドショット"}
+{"sec": "map:428", "key": "The following moves suffer a x0.25 decrease in power:", "en": "The following moves suffer a x0.25 decrease in power:", "ja": "つぎのわざは 威力が 0.25倍になる:"}
+{"sec": "map:428", "key": "Magnitude, Earthquake, Bulldoze", "en": "Magnitude, Earthquake, Bulldoze", "ja": "マグニチュード、じしん、じならし"}
+{"sec": "map:428", "key": "Nature Power becomes Gunk Shot.", "en": "Nature Power becomes Gunk Shot.", "ja": "しぜんのちからは ダストシュートになる"}
+{"sec": "map:428", "key": "Camouflage changes user's type to Poison.", "en": "Camouflage changes user's type to Poison.", "ja": "ほごしょくは つかいてを どくタイプに かえる"}
+{"sec": "map:428", "key": "Secret Power may inflict Burn, Paralysis, Freeze or Poison.", "en": "Secret Power may inflict Burn, Paralysis, Freeze or Poison.", "ja": "ひみつのちからは やけど、まひ、こおり、どくの いずれかに することが ある"}
+{"sec": "map:428", "key": "\"Ashen Beach\"\\nRead?", "en": "\"Ashen Beach\"\\nRead?", "ja": "「灰の浜辺」\\n読む?"}
+{"sec": "map:428", "key": "Opening: \"Ash and sand line the field.\"", "en": "Opening: \"Ash and sand line the field.\"", "ja": "開始: 「灰と 砂が フィールドを おおっている」"}
+{"sec": "map:428", "key": "The following moves stir up ash at the end of the turn,", "en": "The following moves stir up ash at the end of the turn,", "ja": "つぎのわざは ターンの 終わりに 灰を まき上げ"}
+{"sec": "map:428", "key": "lowering all active Pokémon's accuracy one stage: Special Flying Attacks, Twister, Fire Spin, Leaf Tornado, Razor Wind,", "en": "lowering all active Pokémon's accuracy one stage: Special Flying Attacks, Twister, Fire Spin, Leaf Tornado, Razor Wind,", "ja": "場の 全ポケモンの 命中率を 1段階 下げる: とくしゅの ひこうこうげき、たつまき、ほのおのうず、グラスミキサー、かまいたち、"}
+{"sec": "map:428", "key": "Whirlpool\\nFighting types are immune to confusion.", "en": "Whirlpool\\nFighting types are immune to confusion.", "ja": "うずしお\\nかくとうタイプは こんらんに ならない"}
+{"sec": "map:428", "key": "Pokémon with the following abilities ignore accuracy and evasion changes when attacking,", "en": "Pokémon with the following abilities ignore accuracy and evasion changes when attacking,", "ja": "つぎのとくせいの ポケモンは こうげき時に 命中率と 回避率の 変化を 無視する"}
+{"sec": "map:428", "key": "unless an \\nopponent has Unnerve: Own Tempo, Sand Veil, Pure Power, Steadfast", "en": "unless an \\nopponent has Unnerve: Own Tempo, Sand Veil, Pure Power, Steadfast", "ja": "ただし\\n相手に きんちょうかんが あるときは のぞく: マイペース、すながくれ、ヨガパワー、ふくつのこころ"}
+{"sec": "map:428", "key": "Activates Sand Veil, Sand Rush and Sand Force.", "en": "Activates Sand Veil, Sand Rush and Sand Force.", "ja": "すながくれ、すなかき、すなのちからが 発動する"}
+{"sec": "map:428", "key": "Calm Mind, Sand Attack, Kinesis, Meditate", "en": "Calm Mind, Sand Attack, Kinesis, Meditate", "ja": "めいそう、すなかけ、スプーンまげ、ヨガのポーズ"}
+{"sec": "map:428", "key": "Sand Storm and Sandstream last for 8 turns.", "en": "Sand Storm and Sandstream last for 8 turns.", "ja": "すなあらしと すなおこしは 8ターン つづく"}
+{"sec": "map:428", "key": "Psych-up cures the user's status.", "en": "Psych-up cures the user's status.", "ja": "じこあんじは つかいての 状態異常を 治す"}
+{"sec": "map:428", "key": "Focus Energy boosts the critical hit rate 3 stages, (from 2.)", "en": "Focus Energy boosts the critical hit rate 3 stages, (from 2.)", "ja": "きあいだめは きゅうしょ率を 2段階から 3段階 上げる"}
+{"sec": "map:428", "key": "The following moves gain a x2 increase in power:", "en": "The following moves gain a x2 increase in power:", "ja": "つぎのわざは 威力が 2倍になる:"}
+{"sec": "map:428", "key": "Mud Slap, Mud Shot, Mud Bomb", "en": "Mud Slap, Mud Shot, Mud Bomb", "ja": "どろかけ、マッドショット、どろばくだん"}
+{"sec": "map:428", "key": "Strength gains a 1.5x increase and power and deals Fighting/Psychic damage.", "en": "Strength gains a 1.5x increase and power and deals Fighting/Psychic damage.", "ja": "かいりきは 威力1.5倍になり かくとう・エスパーの ダメージを 与える"}
+{"sec": "map:428", "key": "Hidden Power, Land's Wrath, Surf, Muddy Water, Thousand Waves, Sand Tomb", "en": "Hidden Power, Land's Wrath, Surf, Muddy Water, Thousand Waves, Sand Tomb", "ja": "めざめるパワー、グランドフォース、なみのり、だくりゅう、サウザンウェーブ、すなじごく"}
+{"sec": "map:428", "key": "The following moves gain a x1.3 increase in power:", "en": "The following moves gain a x1.3 increase in power:", "ja": "つぎのわざは 威力が 1.3倍になる:"}
+{"sec": "map:428", "key": "Zen Headbutt, Stored Power, Aura Sphere, Focus Blast", "en": "Zen Headbutt, Stored Power, Aura Sphere, Focus Blast", "ja": "しねんのずつき、アシストパワー、はどうだん、きあいだま"}
+{"sec": "map:428", "key": "The following move gains a x1.2 increase in power:", "en": "The following move gains a x1.2 increase in power:", "ja": "つぎのわざは 威力が 1.2倍になる:"}
+{"sec": "map:428", "key": "Psychic", "en": "Psychic", "ja": "エスパー"}
+{"sec": "map:428", "key": "Pokémon trapped in Sand Tomb suffer an accuracy drop each turn.", "en": "Pokémon trapped in Sand Tomb suffer an accuracy drop each turn.", "ja": "すなじごくに とらわれた ポケモンは 毎ターン 命中率が 下がる"}
+{"sec": "map:428", "key": "Nature Power becomes Mediate.", "en": "Nature Power becomes Mediate.", "ja": "しぜんのちからは ヨガのポーズになる"}
+{"sec": "map:428", "key": "Camouflage changes user's type to Ground.", "en": "Camouflage changes user's type to Ground.", "ja": "ほごしょくは つかいてを じめんタイプに かえる"}
+{"sec": "map:428", "key": "\"Water's Surface\"\\nRead?", "en": "\"Water's Surface\"\\nRead?", "ja": "「水面」\\n読む?"}
+{"sec": "map:428", "key": "Opening: \"The water's surface is calm.\"", "en": "Opening: \"The water's surface is calm.\"", "ja": "開始: 「水面は おだやかだ」"}
+{"sec": "map:428", "key": "Grounded non-Water Types' Speed is halved, except for Swift Swimmers.", "en": "Grounded non-Water Types' Speed is halved, except for Swift Swimmers.", "ja": "地上の みずタイプ以外は すばやさが 半分になる ただし すいすいは のぞく"}
+{"sec": "map:428", "key": "Transformed into Murkwater Surface by Sludge Wave", "en": "Transformed into Murkwater Surface by Sludge Wave", "ja": "ヘドロウェーブで 濁った水面に 変わる"}
+{"sec": "map:428", "key": "Ground attacks always fail.", "en": "Ground attacks always fail.", "ja": "じめんこうげきは かならず 失敗する"}
+{"sec": "map:428", "key": "Spikes and Toxic Spikes sink into the water, vanishing.", "en": "Spikes and Toxic Spikes sink into the water, vanishing.", "ja": "まきびしと どくびしは 水に しずんで 消える"}
+{"sec": "map:428", "key": "Dive lasts only one turn.", "en": "Dive lasts only one turn.", "ja": "ダイビングは 1ターンで 終わる"}
+{"sec": "map:428", "key": "Water Veil cures all status conditions.", "en": "Water Veil cures all status conditions.", "ja": "みずのベールは すべての 状態異常を 治す"}
+{"sec": "map:428", "key": "Activates Swift Swim, Hydration, Torrent.", "en": "Activates Swift Swim, Hydration, Torrent.", "ja": "すいすい、うるおいボディ、げきりゅうが 発動する"}
+{"sec": "map:428", "key": "Splash lowers the opponent's accuracy.", "en": "Splash lowers the opponent's accuracy.", "ja": "はねるは 相手の 命中率を 下げる"}
+{"sec": "map:428", "key": "Aqua Ring restores 1/8 Max HP each turn, (from 1/16.)", "en": "Aqua Ring restores 1/8 Max HP each turn, (from 1/16.)", "ja": "アクアリングは 毎ターン 最大HPの1/8 回復する (1/16から)"}
+{"sec": "map:428", "key": "Grounded Pokémon with Dry Skin and Water Absorb gradually restore HP.", "en": "Grounded Pokémon with Dry Skin and Water Absorb gradually restore HP.", "ja": "かんそうはだと ちょすいの 地上のポケモンは じょじょに HPを 回復する"}
+{"sec": "map:428", "key": "Whirlpool deals 1/6 Max HP damage per turn (from 1/8) and confuses the target.", "en": "Whirlpool deals 1/6 Max HP damage per turn (from 1/8) and confuses the target.", "ja": "うずしおは 毎ターン 最大HPの1/6の ダメージを 与え (1/8から) 相手を こんらんさせる"}
+{"sec": "map:428", "key": "Water and Electric moves increase base power x1.5.", "en": "Water and Electric moves increase base power x1.5.", "ja": "みずわざと でんきわざは 威力1.5倍"}
+{"sec": "map:428", "key": "Fire moves against grounded Pokémon decrease base power x0.5.", "en": "Fire moves against grounded Pokémon decrease base power x0.5.", "ja": "地上のポケモンへの ほのおわざは 威力0.5倍"}
+{"sec": "map:428", "key": "Whirlpool, Dive, Surf, Muddy Water.", "en": "Whirlpool, Dive, Surf, Muddy Water.", "ja": "うずしお、ダイビング、なみのり、だくりゅう"}
+{"sec": "map:428", "key": "The following moves transform this field into the Underwater field:", "en": "The following moves transform this field into the Underwater field:", "ja": "つぎのわざで このフィールドは 水中フィールドに 変わる:"}
+{"sec": "map:428", "key": "Dive, Gravity", "en": "Dive, Gravity", "ja": "ダイビング、じゅうりょく"}
+{"sec": "map:428", "key": "The follow moves transform this field into an Icy Field:", "en": "The follow moves transform this field into an Icy Field:", "ja": "つぎのわざで このフィールドは 氷のフィールドに 変わる:"}
+{"sec": "map:428", "key": "Nature Power becomes Whirlpool.", "en": "Nature Power becomes Whirlpool.", "ja": "しぜんのちからは うずしおになる"}
+{"sec": "map:428", "key": "Camouflage changes user's type to Water.", "en": "Camouflage changes user's type to Water.", "ja": "ほごしょくは つかいてを みずタイプに かえる"}
+{"sec": "map:428", "key": "\"Underwater\"\\nRead?", "en": "\"Underwater\"\\nRead?", "ja": "「水中」\\n読む?"}
+{"sec": "map:428", "key": "Opening: \"Blub blub...\"", "en": "Opening: \"Blub blub...\"", "ja": "開始: 「ブクブク……」"}
+{"sec": "map:428", "key": "Non-Water Types' Speed is quartered, except for Swift Swimmers.", "en": "Non-Water Types' Speed is quartered, except for Swift Swimmers.", "ja": "みずタイプ以外は すばやさが 4分の1になる ただし すいすいは のぞく"}
+{"sec": "map:428", "key": "Transformed into Murkwater Surface by Sludge Wave with a total x2 damage boost.", "en": "Transformed into Murkwater Surface by Sludge Wave with a total x2 damage boost.", "ja": "ヘドロウェーブで 濁った水面に 変わり 合計2倍の ダメージに なる"}
+{"sec": "map:428", "key": "Fire attacks always fail.", "en": "Fire attacks always fail.", "ja": "ほのおこうげきは かならず 失敗する"}
+{"sec": "map:428", "key": "All weather is annulled.", "en": "All weather is annulled.", "ja": "すべての 天気は 打ち消される"}
+{"sec": "map:428", "key": "Water attacks deal neutral damage to Water type Pokémon.", "en": "Water attacks deal neutral damage to Water type Pokémon.", "ja": "みずこうげきは みずタイプの ポケモンに 等倍ダメージを 与える"}
+{"sec": "map:428", "key": "Non-Water physical attacks' damage is halved.", "en": "Non-Water physical attacks' damage is halved.", "ja": "みず以外の 物理こうげきの ダメージは 半分になる"}
+{"sec": "map:428", "key": "Non-Water types that are weak to Water take type- scaling damage each turn.", "en": "Non-Water types that are weak to Water take type- scaling damage each turn.", "ja": "みず以外で みずに 弱いタイプは 毎ターン タイプ相性ぶんの ダメージを 受ける"}
+{"sec": "map:428", "key": "Magic Guard, Swift Swim", "en": "Magic Guard, Swift Swim", "ja": "マジックガード、すいすい"}
+{"sec": "map:428", "key": "Magma Armor, Flame Body", "en": "Magma Armor, Flame Body", "ja": "マグマのよろい、ほのおのからだ"}
+{"sec": "map:428", "key": "Dry Skin and Water Absorb gradually restore HP.", "en": "Dry Skin and Water Absorb gradually restore HP.", "ja": "かんそうはだと ちょすいは じょじょに HPを 回復する"}
+{"sec": "map:428", "key": "Ground type attacks deal additional Water damage.", "en": "Ground type attacks deal additional Water damage.", "ja": "じめんタイプの こうげきは みずの 追加ダメージを 与える"}
+{"sec": "map:428", "key": "Water moves increase base power x1.5.", "en": "Water moves increase base power x1.5.", "ja": "みずわざは 威力1.5倍"}
+{"sec": "map:428", "key": "Electric moves increase base power x2.", "en": "Electric moves increase base power x2.", "ja": "でんきわざは 威力2倍"}
+{"sec": "map:428", "key": "The following move gains a x1.5 increase in power:", "en": "The following move gains a x1.5 increase in power:", "ja": "つぎのわざは 威力が 1.5倍になる:"}
+{"sec": "map:428", "key": "Water Pulse", "en": "Water Pulse", "ja": "みずのはどう"}
+{"sec": "map:428", "key": "The following moves transform this field into the Water Surface field:", "en": "The following moves transform this field into the Water Surface field:", "ja": "つぎのわざで このフィールドは 水面フィールドに 変わる:"}
+{"sec": "map:428", "key": "Dive, Fly, Bounce, Sky Drop.", "en": "Dive, Fly, Bounce, Sky Drop.", "ja": "ダイビング、そらをとぶ、とびはねる、フリーフォール"}
+{"sec": "map:428", "key": "Nature Power becomes Water Pulse.", "en": "Nature Power becomes Water Pulse.", "ja": "しぜんのちからは みずのはどうになる"}
+{"sec": "map:428", "key": "\"Cave\"\\nRead?", "en": "\"Cave\"\\nRead?", "ja": "「どうくつ」\\n読む?"}
+{"sec": "map:428", "key": "Opening: \"The cave echoes dully...\"", "en": "Opening: \"The cave echoes dully...\"", "ja": "開始: 「どうくつに 鈍い 音が 響く……」"}
+{"sec": "map:428", "key": "Ground type attacks can hit airborne Pokémon.", "en": "Ground type attacks can hit airborne Pokémon.", "ja": "じめんタイプの こうげきは 空中の ポケモンにも 当たる"}
+{"sec": "map:428", "key": "Earthquake and/or Magnitude used twice collapse the cave at the end of the turn, KOing all active Pokémon.", "en": "Earthquake and/or Magnitude used twice collapse the cave at the end of the turn, KOing all active Pokémon.", "ja": "じしんか じならしを 2回 使うと ターンの 終わりに どうくつが 崩れ 場の 全ポケモンが ひんしになる"}
+{"sec": "map:428", "key": "Pokémon using Endure, or having Sturdy survive the collapse with 1 HP from full health.", "en": "Pokémon using Endure, or having Sturdy survive the collapse with 1 HP from full health.", "ja": "こらえるを 使ったか がんじょうの ポケモンは 全快なら HP1で 崩落を 耐える"}
+{"sec": "map:428", "key": "Pokémon with Battle Armor and Shell armor take 50% damage from the collapse.", "en": "Pokémon with Battle Armor and Shell armor take 50% damage from the collapse.", "ja": "カブトアーマーと シェルアーマーの ポケモンは 崩落ダメージが 50%になる"}
+{"sec": "map:428", "key": "Pokémon with Solid Rock take 33% damage from the collapse.", "en": "Pokémon with Solid Rock take 33% damage from the collapse.", "ja": "ハードロックの ポケモンは 崩落ダメージが 33%になる"}
+{"sec": "map:428", "key": "Pokémon behind protect moves including Wide Guard, or having Bulletproof, Rock Head or Wonderguard are immune to the collapse damage.", "en": "Pokémon behind protect moves including Wide Guard, or having Bulletproof, Rock Head or Wonderguard are immune to the collapse damage.", "ja": "ワイドガードを ふくむ まもる系の わざの かげ または ぼうだん、いしあたま、ふしぎなまもりの ポケモンは 崩落ダメージを 受けない"}
+{"sec": "map:428", "key": "Transformed into Crystal Cavern by Power Gem or Diamond Storm.", "en": "Transformed into Crystal Cavern by Power Gem or Diamond Storm.", "ja": "パワージェムか ダイヤストームで クリスタルのどうくつに 変わる"}
+{"sec": "map:428", "key": "Fly and Bounce each last only one turn.", "en": "Fly and Bounce each last only one turn.", "ja": "そらをとぶと とびはねるは 1ターンで 終わる"}
+{"sec": "map:428", "key": "Stealth Rock damage is doubled.", "en": "Stealth Rock damage is doubled.", "ja": "ステルスロックの ダメージが 2倍になる"}
+{"sec": "map:428", "key": "Rock moves increase in base power x1.5.", "en": "Rock moves increase in base power x1.5.", "ja": "いわわざは 威力1.5倍になる"}
+{"sec": "map:428", "key": "Non-contact flying moves decrease in base power x0.5.", "en": "Non-contact flying moves decrease in base power x0.5.", "ja": "直接せっしょく以外の ひこうわざは 威力0.5倍になる"}
+{"sec": "map:428", "key": "The following move gains an additional x1.5 increase in power:", "en": "The following move gains an additional x1.5 increase in power:", "ja": "つぎのわざは さらに 威力が 1.5倍になる:"}
+{"sec": "map:428", "key": "Rock Tomb", "en": "Rock Tomb", "ja": "がんせきふうじ"}
+{"sec": "map:428", "key": "Nature Power becomes Rock Tomb.", "en": "Nature Power becomes Rock Tomb.", "ja": "しぜんのちからは がんせきふうじになる"}
+{"sec": "map:428", "key": "Camouflage changes user's type to Rock.", "en": "Camouflage changes user's type to Rock.", "ja": "ほごしょくは つかいてを いわタイプに かえる"}
+{"sec": "map:428", "key": "\"Glitch Field\"\\nRead?", "en": "\"Glitch Field\"\\nRead?", "ja": "「グリッチフィールド」\\n読む?"}
+{"sec": "map:428", "key": "Opening: \"1n!taliz3 .b//////attl3\"", "en": "Opening: \"1n!taliz3 .b//////attl3\"", "ja": "開始: 「1せ!んと3 か//////いし1」"}
+{"sec": "map:428", "key": "The physical/special move split is undone.", "en": "The physical/special move split is undone.", "ja": "物理と とくしゅの 区別が なくなる"}
+{"sec": "map:428", "key": "Special Attacks, for both the attacker and defender, calculate off of the higher stat between SpAtk and SpDef.", "en": "Special Attacks, for both the attacker and defender, calculate off of the higher stat between SpAtk and SpDef.", "ja": "とくしゅこうげきは こうげき側も 防御側も とくこうと とくぼうの 高いほうで 計算する"}
+{"sec": "map:428", "key": "Dark, Steel, and Fairy type attacks become Normal type.", "en": "Dark, Steel, and Fairy type attacks become Normal type.", "ja": "あく、はがね、フェアリータイプの こうげきは ノーマルタイプになる"}
+{"sec": "map:428", "key": "The type chart is altered as follows:", "en": "The type chart is altered as follows:", "ja": "タイプ相性が つぎのように 変わる:"}
+{"sec": "map:428", "key": "Dragon always deals neutral damage, Bug now hits Poison types super-effectively,", "en": "Dragon always deals neutral damage, Bug now hits Poison types super-effectively,", "ja": "ドラゴンは つねに 等倍 むしは どくタイプに 効果ばつぐん"}
+{"sec": "map:428", "key": "Ice now hits Fire types neutrally. Ghost now cannot hit Psychic types,", "en": "Ice now hits Fire types neutrally. Ghost now cannot hit Psychic types,", "ja": "こおりは ほのおタイプに 等倍 ゴーストは エスパータイプに 当たらない"}
+{"sec": "map:428", "key": "Poison now hits Bug types super-effectively. Critical hit rate increases by one stage if an attacker is faster than its target.", "en": "Poison now hits Bug types super-effectively. Critical hit rate increases by one stage if an attacker is faster than its target.", "ja": "どくは むしタイプに 効果ばつぐん こうげき側が 相手より 速ければ きゅうしょ率が 1段階 上がる"}
+{"sec": "map:428", "key": "Rage locks the user into the move indefinitely.", "en": "Rage locks the user into the move indefinitely.", "ja": "いかりは つかいてを いつまでも そのわざに しばりつける"}
+{"sec": "map:428", "key": "Psychic moves increase in base power x1.2.", "en": "Psychic moves increase in base power x1.2.", "ja": "エスパーわざは 威力1.2倍になる"}
+{"sec": "map:428", "key": "Blizzard is set to 90 accuracy.", "en": "Blizzard is set to 90 accuracy.", "ja": "ふぶきの 命中率は 90になる"}
+{"sec": "map:428", "key": "Metronome will never choose a move with less than 70 base power.", "en": "Metronome will never choose a move with less than 70 base power.", "ja": "ゆびをふるは 威力70未満の わざを 選ばない"}
+{"sec": "map:428", "key": "Explosion and Selfdestruct reduce targets' defense by half.", "en": "Explosion and Selfdestruct reduce targets' defense by half.", "ja": "だいばくはつと じばくは 相手の ぼうぎょを 半分にする"}
+{"sec": "map:428", "key": "Nature Power becomes Metronome.", "en": "Nature Power becomes Metronome.", "ja": "しぜんのちからは ゆびをふるになる"}
+{"sec": "map:428", "key": "Camouflage changes user's type to Bird, as such, Ame will not feed it.", "en": "Camouflage changes user's type to Bird, as such, Ame will not feed it.", "ja": "ほごしょくは つかいてを とりタイプに かえる よって アメは エサを あげない"}
+{"sec": "map:428", "key": "\"Crystal Cavern\"\\nRead?", "en": "\"Crystal Cavern\"\\nRead?", "ja": "「クリスタルのどうくつ」\\n読む?"}
+{"sec": "map:428", "key": "Opening: \"The cave is littered with crystals.\"", "en": "Opening: \"The cave is littered with crystals.\"", "ja": "開始: 「どうくつに クリスタルが ちらばっている」"}
+{"sec": "map:428", "key": "Rock type attacks and these moves randomly gain Fire, Water, Grass, or Psychic typing,", "en": "Rock type attacks and these moves randomly gain Fire, Water, Grass, or Psychic typing,", "ja": "いわタイプの こうげきと つぎのわざは ほのお、みず、くさ、エスパーの いずれかに ランダムで 変わり"}
+{"sec": "map:428", "key": "and increase in \\nbase power x1.5: Judgment, Strength, Rock Climb", "en": "and increase in \\nbase power x1.5: Judgment, Strength, Rock Climb", "ja": "威力が\\n1.5倍になる: さばきのつぶて、かいりき、ロッククライム"}
+{"sec": "map:428", "key": "Dragon moves increase in base power x1.5", "en": "Dragon moves increase in base power x1.5", "ja": "ドラゴンわざは 威力1.5倍になる"}
+{"sec": "map:428", "key": "These moves increase in base power x1.5:", "en": "These moves increase in base power x1.5:", "ja": "つぎのわざは 威力1.5倍になる:"}
+{"sec": "map:428", "key": "Power Gem, Diamond Storm, Ancient Power, Rock Smash, Rock Tomb.", "en": "Power Gem, Diamond Storm, Ancient Power, Rock Smash, Rock Tomb.", "ja": "パワージェム、ダイヤストーム、げんしのちから、いわくだき、がんせきふうじ"}
+{"sec": "map:428", "key": "These moves increase in base power x1.3:", "en": "These moves increase in base power x1.3:", "ja": "つぎのわざは 威力1.3倍になる:"}
+{"sec": "map:428", "key": "Aurora Beam, Signal Beam, Flash Cannon, Luster Purge, Dazzling Gleam, Mirror Shot, Doom Desire, Technoblast.", "en": "Aurora Beam, Signal Beam, Flash Cannon, Luster Purge, Dazzling Gleam, Mirror Shot, Doom Desire, Technoblast.", "ja": "オーロラビーム、シグナルビーム、ラスターカノン、ラスターパージ、マジカルシャイン、ミラーショット、はめつのねがい、テクノバスター"}
+{"sec": "map:428", "key": "These moves will transform this field into a Dark Crystal Cavern:", "en": "These moves will transform this field into a Dark Crystal Cavern:", "ja": "つぎのわざで このフィールドは 暗黒クリスタルのどうくつに 変わる:"}
+{"sec": "map:428", "key": "Dark Pulse, Dark Void, Night Daze.", "en": "Dark Pulse, Dark Void, Night Daze.", "ja": "あくのはどう、ダークホール、ナイトバースト"}
+{"sec": "map:428", "key": "These moves will transform this field into a Cave:", "en": "These moves will transform this field into a Cave:", "ja": "つぎのわざで このフィールドは どうくつに 変わる:"}
+{"sec": "map:428", "key": "Earthquake and Bulldoze", "en": "Earthquake and Bulldoze", "ja": "じしんと じならし"}
+{"sec": "map:428", "key": "Rock Polish additionally increases Attack and SpAtk one stage each.", "en": "Rock Polish additionally increases Attack and SpAtk one stage each.", "ja": "ロックカットは さらに こうげきと とくこうを 1段階ずつ 上げる"}
+{"sec": "map:428", "key": "Stealth Rocks' damage type randomly becomes Fire, Water, Grass or Psychic.", "en": "Stealth Rocks' damage type randomly becomes Fire, Water, Grass or Psychic.", "ja": "ステルスロックの ダメージタイプが ほのお、みず、くさ、エスパーの いずれかに ランダムで なる"}
+{"sec": "map:428", "key": "Nature Power becomes Power Gem.", "en": "Nature Power becomes Power Gem.", "ja": "しぜんのちからは パワージェムになる"}
+{"sec": "map:428", "key": "Camouflage changes the user's type to one of Fire, Water, Grass or Psychic.", "en": "Camouflage changes the user's type to one of Fire, Water, Grass or Psychic.", "ja": "ほごしょくは つかいてを ほのお、みず、くさ、エスパーの いずれかの タイプに かえる"}
+{"sec": "map:428", "key": "Secret Power may inflict a random status between Burn, Freeze, Sleep or Confusion.", "en": "Secret Power may inflict a random status between Burn, Freeze, Sleep or Confusion.", "ja": "ひみつのちからは やけど、こおり、ねむり、こんらんの いずれかを ランダムに 起こすことが ある"}
+{"sec": "map:428", "key": "\"Murkwater Surface\"\\nRead?", "en": "\"Murkwater Surface\"\\nRead?", "ja": "「濁った水面」\\n読む?"}
+{"sec": "map:428", "key": "Opening: \"The water is tainted...\"", "en": "Opening: \"The water is tainted...\"", "ja": "開始: 「水が よごれている……」"}
+{"sec": "map:428", "key": "Grounded non-Poison or Steel types take type- scaling Poison damage at the end of each turn.", "en": "Grounded non-Poison or Steel types take type- scaling Poison damage at the end of each turn.", "ja": "地上の どく・はがねタイプ以外は ターンの 終わりに タイプ相性ぶんの どくダメージを 受ける"}
+{"sec": "map:428", "key": "Immunity, Toxic Boost, Poison Heal, Magic Guard, Wonder Guard.", "en": "Immunity, Toxic Boost, Poison Heal, Magic Guard, Wonder Guard.", "ja": "めんえき、どくぼうそう、ポイズンヒール、マジックガード、ふしぎなまもり"}
+{"sec": "map:428", "key": "Pokémon using Dive take x4 field damage.", "en": "Pokémon using Dive take x4 field damage.", "ja": "ダイビングを 使う ポケモンは フィールドダメージが 4倍になる"}
+{"sec": "map:428", "key": "Dry Skin, Water Absorb, Magma Armor, Flame Body.", "en": "Dry Skin, Water Absorb, Magma Armor, Flame Body.", "ja": "かんそうはだ、ちょすい、マグマのよろい、ほのおのからだ"}
+{"sec": "map:428", "key": "Grounded Poison-type Pokémon with Dry Skin or Water Absorb gradually recover HP.", "en": "Grounded Poison-type Pokémon with Dry Skin or Water Absorb gradually recover HP.", "ja": "かんそうはだか ちょすいの 地上の どくタイプは じょじょに HPを 回復する"}
+{"sec": "map:428", "key": "The abilities Poison Heal and Toxic Boost are activated for grounded Pokémon.", "en": "The abilities Poison Heal and Toxic Boost are activated for grounded Pokémon.", "ja": "地上のポケモンは とくせい ポイズンヒールと どくぼうそうが 発動する"}
+{"sec": "map:428", "key": "Activates Swift Swim.", "en": "Activates Swift Swim.", "ja": "すいすいが 発動する"}
+{"sec": "map:428", "key": "Water attacks deal additional Poison type damage and increase in base power x1.5.", "en": "Water attacks deal additional Poison type damage and increase in base power x1.5.", "ja": "みずこうげきは どくタイプの 追加ダメージを 与え 威力1.5倍になる"}
+{"sec": "map:428", "key": "Poison type attacks increase in base power x1.5.", "en": "Poison type attacks increase in base power x1.5.", "ja": "どくタイプの こうげきは 威力1.5倍になる"}
+{"sec": "map:428", "key": "Electric attacks increase in base power x1.3", "en": "Electric attacks increase in base power x1.3", "ja": "でんきこうげきは 威力1.3倍になる"}
+{"sec": "map:428", "key": "Sludge Wave deals additional Water-Type damage.", "en": "Sludge Wave deals additional Water-Type damage.", "ja": "ヘドロウェーブは みずタイプの 追加ダメージを 与える"}
+{"sec": "map:428", "key": "These moves deal Water/Poison type damage and increase in base power x1.5:", "en": "These moves deal Water/Poison type damage and increase in base power x1.5:", "ja": "つぎのわざは みず・どくタイプの ダメージを 与え 威力1.5倍になる:"}
+{"sec": "map:428", "key": "Mud Bomb, Mud Shot, Mud Slap, Thousand Waves.", "en": "Mud Bomb, Mud Shot, Mud Slap, Thousand Waves.", "ja": "どろばくだん、マッドショット、どろかけ、サウザンウェーブ"}
+{"sec": "map:428", "key": "Smack Down deals additional Poison-Type damage and increases in base power x1.5.", "en": "Smack Down deals additional Poison-Type damage and increases in base power x1.5.", "ja": "うちおとすは どくタイプの 追加ダメージを 与え 威力1.5倍になる"}
+{"sec": "map:428", "key": "Acid, Acid Spray, Brine.", "en": "Acid, Acid Spray, Brine.", "ja": "ようかいえき、アシッドボム、しおみず"}
+{"sec": "map:428", "key": "Stench's activation chance is doubled.", "en": "Stench's activation chance is doubled.", "ja": "あくしゅうの 発動率が 2倍になる"}
+{"sec": "map:428", "key": "The stat changing effect of Acid Armor is amplified.", "en": "The stat changing effect of Acid Armor is amplified.", "ja": "とけるの 能力変化の 効果が 強まる"}
+{"sec": "map:428", "key": "Whirlpool transforms this field into the Water Surface.", "en": "Whirlpool transforms this field into the Water Surface.", "ja": "うずしおで このフィールドは 水面に 変わる"}
+{"sec": "map:428", "key": "Blizzard and Glaciate transform this field into an Icy Field.", "en": "Blizzard and Glaciate transform this field into an Icy Field.", "ja": "ふぶきと こごえるせかいで このフィールドは 氷のフィールドに 変わる"}
+{"sec": "map:428", "key": "Nature Power becomes Sludge Wave.", "en": "Nature Power becomes Sludge Wave.", "ja": "しぜんのちからは ヘドロウェーブになる"}
+{"sec": "map:428", "key": "Camouflage changes the user's type to Poison.", "en": "Camouflage changes the user's type to Poison.", "ja": "ほごしょくは つかいてを どくタイプに かえる"}
+{"sec": "map:428", "key": "Secret Power may inflict poison.", "en": "Secret Power may inflict poison.", "ja": "ひみつのちからは どく状態に することが ある"}
+{"sec": "map:428", "key": "\"Mountain\"\\nRead?", "en": "\"Mountain\"\\nRead?", "ja": "「山」\\n読む?"}
+{"sec": "map:428", "key": "Opening: \"Adieu to disappointment and spleen.\"", "en": "Opening: \"Adieu to disappointment and spleen.\"", "ja": "開始: 「失望と 不機嫌に さらば」"}
+{"sec": "map:428", "key": "Tailwind lasts 5 turns.", "en": "Tailwind lasts 5 turns.", "ja": "おいかぜの 効果が 5ターン つづく"}
+{"sec": "map:428", "key": "Rock and Flying type attacks increase in base power x1.5.", "en": "Rock and Flying type attacks increase in base power x1.5.", "ja": "いわと ひこうタイプの こうげきは 威力1.5倍になる"}
+{"sec": "map:428", "key": "Thunder, Eruption, Avalanche, Vital Throw, Storm Throw, Circle Throw.", "en": "Thunder, Eruption, Avalanche, Vital Throw, Storm Throw, Circle Throw.", "ja": "かみなり、ふんか、ゆきなだれ、あてみなげ、やまあらし、ともえなげ"}
+{"sec": "map:428", "key": "These moves increase in base power x2:", "en": "These moves increase in base power x2:", "ja": "つぎのわざは 威力2倍になる:"}
+{"sec": "map:428", "key": "Ominous Wind, Razor Wind, Icy Wind, Silver Wind, Fairy Wind, Twister.", "en": "Ominous Wind, Razor Wind, Icy Wind, Silver Wind, Fairy Wind, Twister.", "ja": "あやしいかぜ、かまいたち、こごえるかぜ、ぎんいろのかぜ、ようせいのかぜ、たつまき"}
+{"sec": "map:428", "key": "Thunder never misses.", "en": "Thunder never misses.", "ja": "かみなりは かならず 命中する"}
+{"sec": "map:428", "key": "Blizzard transforms this field into a Snowy Mountain.", "en": "Blizzard transforms this field into a Snowy Mountain.", "ja": "ふぶきで このフィールドは 雪山に 変わる"}
+{"sec": "map:428", "key": "After three consecutive turns, Hail weather will transforms this field into a Snowy Mountain.", "en": "After three consecutive turns, Hail weather will transforms this field into a Snowy Mountain.", "ja": "あられの 天候が 3ターン 続くと このフィールドは 雪山に 変化する。"}
+{"sec": "map:428", "key": "Nature Power becomes Rock Slide.", "en": "Nature Power becomes Rock Slide.", "ja": "しぜんのちからは いわなだれに なる。"}
+{"sec": "map:428", "key": "Camouflage changes the user's type to Rock.", "en": "Camouflage changes the user's type to Rock.", "ja": "ほごしょくで じぶんの タイプが いわタイプに なる。"}
+{"sec": "map:428", "key": "\"Snowy Mountain\"\\nRead?", "en": "\"Snowy Mountain\"\\nRead?", "ja": "「雪山」\\n読む?"}
+{"sec": "map:428", "key": "Opening: \"The snow glows white on the mountain...\"", "en": "Opening: \"The snow glows white on the mountain...\"", "ja": "開始時: 「山の 雪が 白く 輝いている……」"}
+{"sec": "map:428", "key": "Rock attacks deal additional Ice type damage and increase in base power x1.5.", "en": "Rock attacks deal additional Ice type damage and increase in base power x1.5.", "ja": "いわタイプの わざは こおりタイプの ダメージを 追加し 威力が 1.5倍に なる。"}
+{"sec": "map:428", "key": "Rock, Ice and Flying type attacks increase in base power x1.5.", "en": "Rock, Ice and Flying type attacks increase in base power x1.5.", "ja": "いわ・こおり・ひこうタイプの わざは 威力が 1.5倍に なる。"}
+{"sec": "map:428", "key": "Fire moves decrease in base power x0.5.", "en": "Fire moves decrease in base power x0.5.", "ja": "ほのおタイプの わざは 威力が 0.5倍に なる。"}
+{"sec": "map:428", "key": "Powder Snow, Avalanche, Vital Throw, Storm Throw, Circle Throw.", "en": "Powder Snow, Avalanche, Vital Throw, Storm Throw, Circle Throw.", "ja": "こなゆき、ゆきなだれ、あてみなげ、やまあらし、ともえなげ。"}
+{"sec": "map:428", "key": "These moves suffer a x0.5 decrease in power:", "en": "These moves suffer a x0.5 decrease in power:", "ja": "次の わざは 威力が 0.5倍に なる:"}
+{"sec": "map:428", "key": "Hail lasts for 8 turns.", "en": "Hail lasts for 8 turns.", "ja": "あられは 8ターン 続く。"}
+{"sec": "map:428", "key": "Activates Ice Body and Snow Cloak.", "en": "Activates Ice Body and Snow Cloak.", "ja": "アイスボディと ゆきがくれが 発動する。"}
+{"sec": "map:428", "key": "Refrigerate's base power boost becomes x1.5 (from x1.3.)", "en": "Refrigerate's base power boost becomes x1.5 (from x1.3.)", "ja": "フリーズスキンの 威力上昇が 1.3倍から 1.5倍に なる。"}
+{"sec": "map:428", "key": "These moves will transform this field into a Mountain:", "en": "These moves will transform this field into a Mountain:", "ja": "次の わざは このフィールドを 山岳に 変える:"}
+{"sec": "map:428", "key": "Heat Wave, Falem Burst, Lava Plume, Eruption, Searing Shot, Fire Pledge.", "en": "Heat Wave, Falem Burst, Lava Plume, Eruption, Searing Shot, Fire Pledge.", "ja": "ねっぷう、はじけるほのお、ふんえん、ふんか、かえんだん、ほのおのちかい。"}
+{"sec": "map:428", "key": "Nature Power becomes Avalanche.", "en": "Nature Power becomes Avalanche.", "ja": "しぜんのちからは ゆきなだれに なる。"}
+{"sec": "map:428", "key": "Camouflage changes the user's type to Ice.", "en": "Camouflage changes the user's type to Ice.", "ja": "ほごしょくで じぶんの タイプが こおりタイプに なる。"}
+{"sec": "map:428", "key": "\"Mirror Arena\"\\nRead?", "en": "\"Mirror Arena\"\\nRead?", "ja": "「ミラーアリーナ」\\n読む?"}
+{"sec": "map:428", "key": "Opening: \"Mirror, Mirror, on the field, who shalt this fractured power wield?\"", "en": "Opening: \"Mirror, Mirror, on the field, who shalt this fractured power wield?\"", "ja": "開始時: 「鏡よ 鏡 この地の 鏡よ 砕けた 力を 手にするは 誰?」"}
+{"sec": "map:428", "key": "The critical hit rate is increased by one stage for each of the attacker's Evasion/Accuracy buffs, and the target's Evasion/Accuracy de-buffs.", "en": "The critical hit rate is increased by one stage for each of the attacker's Evasion/Accuracy buffs, and the target's Evasion/Accuracy de-buffs.", "ja": "攻撃側の 回避率・命中率の 上昇と 相手の 回避率・命中率の 低下の 数だけ 急所率が 1段階ずつ 上がる。"}
+{"sec": "map:428", "key": "Critical hits deal additional damage based on the user's Evasion/Accuracy buffs and the target's Evasion/Accuracy de-buffs, consuming each.", "en": "Critical hits deal additional damage based on the user's Evasion/Accuracy buffs and the target's Evasion/Accuracy de-buffs, consuming each.", "ja": "急所に 当たると 自分の 回避率・命中率の 上昇と 相手の 低下ぶんだけ 追加ダメージを あたえ それらを 消費する。"}
+{"sec": "map:428", "key": "Single-targeted, special, non-contact attacks that would miss will sometimes be reflected, hitting the target anyway.", "en": "Single-targeted, special, non-contact attacks that would miss will sometimes be reflected, hitting the target anyway.", "ja": "単体を ねらう 非接触の 特殊わざは 外れても ときどき 反射して 相手に 命中する。"}
+{"sec": "map:428", "key": "These moves increase in base power x2 when reflected per the above:", "en": "These moves increase in base power x2 when reflected per the above:", "ja": "上記のように 反射された とき 次の わざは 威力が 2倍に なる:"}
+{"sec": "map:428", "key": "Charge Beam, Solar Beam, Psybeam, Tri-Attack, Ice Beam, Hyper Beam, Bubblebeam, Origin Pulse.", "en": "Charge Beam, Solar Beam, Psybeam, Tri-Attack, Ice Beam, Hyper Beam, Bubblebeam, Origin Pulse.", "ja": "チャージビーム、ソーラービーム、サイケこうせん、トライアタック、れいとうビーム、はかいこうせん、バブルこうせん、こんげんのはどう。"}
+{"sec": "map:428", "key": "Missing a physical contact attack causes 1/4 Max HP recoil damage.", "en": "Missing a physical contact attack causes 1/4 Max HP recoil damage.", "ja": "接触する 物理わざを 外すと 最大HPの 4分の1の 反動ダメージを 受ける。"}
+{"sec": "map:428", "key": "Evasion decreases when a Pokémon hurts itself in confusion.", "en": "Evasion decreases when a Pokémon hurts itself in confusion.", "ja": "こんらんで じぶんを 攻撃すると 回避率が 下がる。"}
+{"sec": "map:428", "key": "Pokémon with the following abilities have their Evasion boosted on switch-in:", "en": "Pokémon with the following abilities have their Evasion boosted on switch-in:", "ja": "次の とくせいを もつ ポケモンは 場に 出た とき 回避率が 上がる:"}
+{"sec": "map:428", "key": "Sand Veil, Snow Cloak, Illusion, Tangled Feet, Magic Bounce, Color Change.", "en": "Sand Veil, Snow Cloak, Illusion, Tangled Feet, Magic Bounce, Color Change.", "ja": "すながくれ、ゆきがくれ、イリュージョン、ちどりあし、マジックミラー、へんしょく。"}
+{"sec": "map:428", "key": "Pokémon holding Brightpowder or Lax Incense have their Evasion boosted on switch-in.", "en": "Pokémon holding Brightpowder or Lax Incense have their Evasion boosted on switch-in.", "ja": "ひかりのこなや のんきのおこうを もつ ポケモンは 場に 出た とき 回避率が 上がる。"}
+{"sec": "map:428", "key": "Illuminate lowers opponents' Accuracy on switch-in.", "en": "Illuminate lowers opponents' Accuracy on switch-in.", "ja": "はっこうは 場に 出た とき 相手の 命中率を 下げる。"}
+{"sec": "map:428", "key": "Magic Bounce increases Evasion on successful bounce.", "en": "Magic Bounce increases Evasion on successful bounce.", "ja": "マジックミラーは 反射に 成功すると 回避率が 上がる。"}
+{"sec": "map:428", "key": "Light Screen and Reflect last 8 turns each and increase the user's Evasion.", "en": "Light Screen and Reflect last 8 turns each and increase the user's Evasion.", "ja": "ひかりのかべと リフレクターは それぞれ 8ターン 続き 使い手の 回避率を 上げる。"}
+{"sec": "map:428", "key": "Mirror Coat increases Evasion, Defense and SpDef on successful use.", "en": "Mirror Coat increases Evasion, Defense and SpDef on successful use.", "ja": "ミラーコートは 成功すると 回避率・防御・特防が 上がる。"}
+{"sec": "map:428", "key": "Mirror Move increases Accuracy, Attack and SpAtk on successful use.", "en": "Mirror Move increases Accuracy, Attack and SpAtk on successful use.", "ja": "オウムがえしは 成功すると 命中率・攻撃・特攻が 上がる。"}
+{"sec": "map:428", "key": "Mirror Shot increases in base power x2, will never miss, and will always reduces Accuracy.", "en": "Mirror Shot increases in base power x2, will never miss, and will always reduces Accuracy.", "ja": "ミラーショットは 威力が 2倍に なり 必ず 命中し 必ず 命中率を 下げる。"}
+{"sec": "map:428", "key": "These moves increase in base power x1.5 and will never miss:", "en": "These moves increase in base power x1.5 and will never miss:", "ja": "次の わざは 威力が 1.5倍に なり 必ず 命中する:"}
+{"sec": "map:428", "key": "Aurora Beam, Signal Beam, Flash Cannon, Luster Purge, Doom Desire, Dazzling Gleam, Techno Blast.", "en": "Aurora Beam, Signal Beam, Flash Cannon, Luster Purge, Doom Desire, Dazzling Gleam, Techno Blast.", "ja": "オーロラビーム、シグナルビーム、ラスターカノン、ラスターパージ、はめつのねがい、マジカルシャイン、テクノバスター。"}
+{"sec": "map:428", "key": "The stat changing effect of Flash and Double Team are amplified.", "en": "The stat changing effect of Flash and Double Team are amplified.", "ja": "フラッシュと かげぶんしんの 能力変化の 効果が 大きくなる。"}
+{"sec": "map:428", "key": "These moves terminate this field effect, damaging all active Pokémon for 1/2 of their Max HP:", "en": "These moves terminate this field effect, damaging all active Pokémon for 1/2 of their Max HP:", "ja": "次の わざは このフィールド効果を 終わらせ 場の 全ポケモンに 最大HPの 半分の ダメージを あたえる:"}
+{"sec": "map:428", "key": "Earthquake, Bulldoze, Boomburst, Hyper Voice.", "en": "Earthquake, Bulldoze, Boomburst, Hyper Voice.", "ja": "じしん、じならし、ばくおんぱ、ハイパーボイス。"}
+{"sec": "map:428", "key": "Pokémon behind protect moves including Wide Guard, or having Shell Armor, Battle Armor or Wonder Guard are immune to the shatter damage.", "en": "Pokémon behind protect moves including Wide Guard, or having Shell Armor, Battle Armor or Wonder Guard are immune to the shatter damage.", "ja": "ワイドガードなど まもる系の わざで 守られた ポケモンや シェルアーマー・カブトアーマー・ふしぎなまもりを もつ ポケモンは この 崩壊ダメージを 受けない。"}
+{"sec": "map:428", "key": "Nature Power becomes Mirror Shot.", "en": "Nature Power becomes Mirror Shot.", "ja": "しぜんのちからは ミラーショットに なる。"}
+{"sec": "map:428", "key": "Camouflage changes the user's type to Steel.", "en": "Camouflage changes the user's type to Steel.", "ja": "ほごしょくで じぶんの タイプが はがねタイプに なる。"}
+{"sec": "map:428", "key": "Secret Power may lower evasion.", "en": "Secret Power may lower evasion.", "ja": "ひみつのちからは 回避率を 下げる ことが ある。"}
+{"sec": "map:428", "key": "\"Holy Field\"\\nRead?", "en": "\"Holy Field\"\\nRead?", "ja": "「聖なるフィールド」\\n読む?"}
+{"sec": "map:428", "key": "Opening: \"Benedictus Sanctus Spiritus...\"", "en": "Opening: \"Benedictus Sanctus Spiritus...\"", "ja": "開始時: 「ベネディクトゥス サンクトゥス スピリトゥス……」"}
+{"sec": "map:428", "key": "Normal type attacks hit Ghost and Dark types for super effective damage.", "en": "Normal type attacks hit Ghost and Dark types for super effective damage.", "ja": "ノーマルタイプの わざは ゴースト・あくタイプに 効果抜群に なる。"}
+{"sec": "map:428", "key": "Ghost and special Dark moves decrease in base power x0.5.", "en": "Ghost and special Dark moves decrease in base power x0.5.", "ja": "ゴーストタイプの わざと 特殊の あくタイプの わざは 威力が 0.5倍に なる。"}
+{"sec": "map:428", "key": "Fairy and special Normal moves increase in base power x1.5.", "en": "Fairy and special Normal moves increase in base power x1.5.", "ja": "フェアリータイプの わざと 特殊の ノーマルタイプの わざは 威力が 1.5倍に なる。"}
+{"sec": "map:428", "key": "Dragon and Psychic moves increase in base power x1.2.", "en": "Dragon and Psychic moves increase in base power x1.2.", "ja": "ドラゴン・エスパータイプの わざは 威力が 1.2倍に なる。"}
+{"sec": "map:428", "key": "Psystrike, Aeroblast, Origin Pulse, Precipice Blades, Dragon Ascent, Doom Desire, Mist Ball, Luster Purge, Psycho Boost, Spacial Rend, Roar of Time,", "en": "Psystrike, Aeroblast, Origin Pulse, Precipice Blades, Dragon Ascent, Doom Desire, Mist Ball, Luster Purge, Psycho Boost, Spacial Rend, Roar of Time,", "ja": "サイコブレイク、エアロブラスト、こんげんのはどう、だんがいのつるぎ、ガリョウテンセイ、はめつのねがい、ミストボール、ラスターパージ、サイコブースト、あくうせつだん、ときのほうこう、"}
+{"sec": "map:428", "key": "Crush Grip, Secret Sword, Relic Song, Hyperspace Hole, Lands Wrath.", "en": "Crush Grip, Secret Sword, Relic Song, Hyperspace Hole, Lands Wrath.", "ja": "にぎりつぶす、しんぴのつるぎ、いにしえのうた、いじげんホール、グランドフォース。"}
+{"sec": "map:428", "key": "Mystical Fire, Magical Leaf, Judgment, Sacred Fire, Ancient Power.", "en": "Mystical Fire, Magical Leaf, Judgment, Sacred Fire, Ancient Power.", "ja": "マジカルフレイム、マジカルリーフ、さばきのつぶて、せいなるほのお、げんしのちから。"}
+{"sec": "map:428", "key": "Justified's effect is doubled.", "en": "Justified's effect is doubled.", "ja": "せいぎのこころの 効果が 2倍に なる。"}
+{"sec": "map:428", "key": "Wish restores 75% of the user's Max HP (from 50%.)", "en": "Wish restores 75% of the user's Max HP (from 50%.)", "ja": "ねがいごとは 最大HPの 50%ではなく 75%を 回復する。"}
+{"sec": "map:428", "key": "Cursed Body has no effect.", "en": "Cursed Body has no effect.", "ja": "のろわれボディは 効果が ない。"}
+{"sec": "map:428", "key": "Curses are lifted after each turn.", "en": "Curses are lifted after each turn.", "ja": "のろいは 毎ターン 終わりに 解ける。"}
+{"sec": "map:428", "key": "Miracle Eye additionally boosts SpAtk.", "en": "Miracle Eye additionally boosts SpAtk.", "ja": "ミラクルアイは さらに 特攻を 上げる。"}
+{"sec": "map:428", "key": "The stat changing effect of Comsic Power is amplified.", "en": "The stat changing effect of Comsic Power is amplified.", "ja": "コスモパワーの 能力変化の 効果が 大きくなる。"}
+{"sec": "map:428", "key": "Nature Power becomes Judgment.", "en": "Nature Power becomes Judgment.", "ja": "しぜんのちからは さばきのつぶてに なる。"}
+{"sec": "map:428", "key": "Camouflage changes the user's type to Normal.", "en": "Camouflage changes the user's type to Normal.", "ja": "ほごしょくで じぶんの タイプが ノーマルタイプに なる。"}
+{"sec": "map:428", "key": "Secret Power may lower SpAtk.", "en": "Secret Power may lower SpAtk.", "ja": "ひみつのちからは 特攻を 下げる ことが ある。"}
+{"sec": "map:428", "key": "Yes", "en": "Yes", "ja": "はい"}
+{"sec": "map:428", "key": "No", "en": "No", "ja": "いいえ"}

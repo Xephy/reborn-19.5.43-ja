@@ -1,0 +1,21 @@
+# The repository root is the installed game, so everything is excluded by
+# default and only the localization work is whitelisted back in. Nothing from
+# the game itself (Audio, Graphics, Data, the engine DLLs) is ever committed.
+/*
+
+!.gitignore
+!/jp_translation/
+!/patch/
+
+# Only the seven engine scripts this project modifies, not Reborn's tree.
+!/Scripts/
+/Scripts/*
+!/Scripts/DrawText.rb
+!/Scripts/System.rb
+!/Scripts/Load.rb
+!/Scripts/PBIntl.rb
+!/Scripts/Summary.rb
+!/Scripts/SpriteWindow.rb
+!/Scripts/Reborn/
+/Scripts/Reborn/*
+!/Scripts/Reborn/Settings.rb

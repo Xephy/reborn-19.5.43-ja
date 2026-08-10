@@ -1,0 +1,387 @@
+{"sec": "map:846", "key": "A switch on the machine opens the case.", "en": "A switch on the machine opens the case.", "ja": "機械のスイッチで　ケースが開くようだ"}
+{"sec": "map:846", "key": "Press it?", "en": "Press it?", "ja": "押しますか?"}
+{"sec": "map:846", "key": "Who wouldn't?", "en": "Who wouldn't?", "ja": "押すに決まってる"}
+{"sec": "map:846", "key": "Captured a Z-Cell!", "en": "Captured a Z-Cell!", "ja": "Zセルを手に入れた!"}
+{"sec": "map:846", "key": "Better not...", "en": "Better not...", "ja": "やめておこう……"}
+{"sec": "map:846", "key": "CELLS ACTIVE: \\v[591]", "en": "CELLS ACTIVE: \\v[591]", "ja": "起動セル数: \\v[591]"}
+{"sec": "map:846", "key": "10 CELLS REQUIRED.", "en": "10 CELLS REQUIRED.", "ja": "セル10個が必要。"}
+{"sec": "map:846", "key": "CONSTRUCT?", "en": "CONSTRUCT?", "ja": "構築しますか?"}
+{"sec": "map:846", "key": "CONSTRUCTING.", "en": "CONSTRUCTING.", "ja": "構築中。"}
+{"sec": "map:846", "key": "CONSTRUCTING . .", "en": "CONSTRUCTING . .", "ja": "構築中 . ."}
+{"sec": "map:846", "key": "CONSTRUCTING . . .", "en": "CONSTRUCTING . . .", "ja": "構築中 . . ."}
+{"sec": "map:846", "key": "COMPLETE.", "en": "COMPLETE.", "ja": "完了。"}
+{"sec": "map:846", "key": "INNER GATE OPEN", "en": "INNER GATE OPEN", "ja": "インナーゲート開放"}
+{"sec": "map:846", "key": "SECOND GATE OPEN", "en": "SECOND GATE OPEN", "ja": "第二ゲート開放"}
+{"sec": "map:846", "key": "THIRD GATE OPEN", "en": "THIRD GATE OPEN", "ja": "第三ゲート開放"}
+{"sec": "map:846", "key": "CELL INVERTER ACTIVE", "en": "CELL INVERTER ACTIVE", "ja": "セルインバーター起動"}
+{"sec": "map:846", "key": "CELL IMPRINTS CAN BE REVERSED FOR 0 IV FUNCTIONALITY.", "en": "CELL IMPRINTS CAN BE REVERSED FOR 0 IV FUNCTIONALITY.", "ja": "セル刻印は個体値0の機能として反転可能。"}
+{"sec": "map:846", "key": "INVERT IMPRINT?", "en": "INVERT IMPRINT?", "ja": "刻印を反転しますか?"}
+{"sec": "map:846", "key": "CONVERTING .", "en": "CONVERTING .", "ja": "変換中 ."}
+{"sec": "map:846", "key": "CONVERTING . .", "en": "CONVERTING . .", "ja": "変換中 . ."}
+{"sec": "map:846", "key": "CONVERTING . . .", "en": "CONVERTING . . . ", "ja": "変換中 . . ."}
+{"sec": "map:846", "key": "ERROR 404 CELL IMPRINT NOT FOUND", "en": "ERROR 404 CELL IMPRINT NOT FOUND", "ja": "エラー404 セル刻印が見つかりません"}
+{"sec": "map:846", "key": "FOURTH GATE OPEN", "en": "FOURTH GATE OPEN", "ja": "第四ゲート開放"}
+{"sec": "map:846", "key": "DECONSTRUCT?", "en": "DECONSTRUCT?", "ja": "分解しますか?"}
+{"sec": "map:846", "key": "INPUT NOT ACCEPTED.", "en": "INPUT NOT ACCEPTED.", "ja": "入力は受け付けられません。"}
+{"sec": "map:846", "key": "DECONSTRUCTING.", "en": "DECONSTRUCTING.", "ja": "分解中。"}
+{"sec": "map:846", "key": "DECONSTRUCTING . .", "en": "DECONSTRUCTING . .", "ja": "分解中 . ."}
+{"sec": "map:846", "key": "DECONSTRUCTING . . .", "en": "DECONSTRUCTING . . .", "ja": "分解中 . . ."}
+{"sec": "map:846", "key": "\\v[49] CELLS RECOVERED.", "en": "\\v[49] CELLS RECOVERED.", "ja": "\\v[49]個のセルを回収。"}
+{"sec": "map:846", "key": "\\v[590] CELL IMPRINTS DISCOVERED.", "en": "\\v[590] CELL IMPRINTS DISCOVERED.", "ja": "\\v[590]個のセル刻印を発見。"}
+{"sec": "map:846", "key": "CLONING APPLICABLE CELLS...", "en": "CLONING APPLICABLE CELLS...", "ja": "適用可能なセルを複製中…"}
+{"sec": "map:846", "key": "NO UNTAPPED CELLS DETECTED.", "en": "NO UNTAPPED CELLS DETECTED.", "ja": "未使用のセルは検出されませんでした。"}
+{"sec": "map:846", "key": "FLORINIA: Greetings.", "en": "FLORINIA: Greetings.", "ja": "フロリニア: ご挨拶申し上げます。"}
+{"sec": "map:846", "key": "I received a report of a kind of unknown machinery located here, and so I thought it might be prudent to investigate.", "en": "I received a report of a kind of unknown machinery located here, and so I thought it might be prudent to investigate.", "ja": "ここに未知の機械があるという報告を受け、調査するのが賢明だと考えました。"}
+{"sec": "map:846", "key": "After a thorough analysis, it appears that this panel's primary purpose is to scan and inspect gathered Z- Cells.", "en": "After a thorough analysis, it appears that this panel's primary purpose is to scan and inspect gathered Z- Cells.", "ja": "詳細な分析の結果、このパネルの主な目的は、集めたZセルを走査・検査することのようです。"}
+{"sec": "map:846", "key": "At the moment, it does not appear as if collecting all 50 Z-Cells is a necessity, although it may be in the future.", "en": "At the moment, it does not appear as if collecting all 50 Z-Cells is a necessity, although it may be in the future.", "ja": "現時点では、50個すべてのZセルを集める必要性はないようですが、将来的にはそうなるかもしれません。"}
+{"sec": "map:846", "key": "It appears that for every 10 Z-Cells brought here, another gate will open.", "en": "It appears that for every 10 Z-Cells brought here, another gate will open.", "ja": "Zセルを10個ここに持ち込むごとに、別のゲートが開くようです。"}
+{"sec": "map:846", "key": "It can probably be assumed that behind all of these, there exists a way to fuse the cells into a 100% Zygarde.", "en": "It can probably be assumed that behind all of these, there exists a way to fuse the cells into a 100% Zygarde.", "ja": "おそらく、これらすべての先に、セルを融合させて100%のジガルデにする方法が存在すると考えられます。"}
+{"sec": "map:846", "key": "...I did try to hack the system, but unfortunately all of the usual methods appear ineffective.", "en": "...I did try to hack the system, but unfortunately all of the usual methods appear ineffective.", "ja": "…システムのハッキングも試みましたが、あいにく通常の手法はすべて効果がないようです。"}
+{"sec": "map:846", "key": "I am struggling to find any similarities to modern back-end infrastructures in these machines.", "en": "I am struggling to find any similarities to modern back-end infrastructures in these machines.", "ja": "これらの機械には、現代のバックエンド基盤との類似点を見出すのに苦労しています。"}
+{"sec": "map:846", "key": "It is as if they are only made to look like common devices, rather than actually being them.", "en": "It is as if they are only made to look like common devices, rather than actually being them.", "ja": "まるで、実際にそうであるというより、一般的な装置に見えるように作られているだけのようです。"}
+{"sec": "map:846", "key": "One might say that it is slightly frustrating.", "en": "One might say that it is slightly frustrating.", "ja": "いささか苛立たしい、と言ってもいいかもしれません。"}
+{"sec": "map:846", "key": "However, I am admittedly a bit curious as to how it works still, so I plan to remain here just a while longer and continue trying.", "en": "However, I am admittedly a bit curious as to how it works still, so I plan to remain here just a while longer and continue trying.", "ja": "とはいえ、これがどう機能しているのか、正直まだ少し興味がありますので、もうしばらくここに留まって試み続けるつもりです。"}
+{"sec": "map:846", "key": "FLORINIA: Greetings, \\PN.", "en": "FLORINIA: Greetings, \\PN.", "ja": "フロリニア: ご挨拶申し上げます、\\PN。"}
+{"sec": "map:846", "key": "This speaker received a report of unidentifiable machinery located in this New World space.", "en": "This speaker received a report of unidentifiable machinery located in this New World space.", "ja": "この発話者は、このニューワールド空間に位置する未確認の機械についての報告を受けました。"}
+{"sec": "map:846", "key": "A thorough analysis of the program's operation has determined that this panel is primarily for the inspection of gathered Zygarde Cells.", "en": "A thorough analysis of the program's operation has determined that this panel is primarily for the inspection of gathered Zygarde Cells.", "ja": "プログラムの動作を詳細に分析した結果、このパネルは主に集められたジガルデセルの検査用であると判断されました。"}
+{"sec": "map:846", "key": "This speaker hypothesizes that the collection of 50 Zygarde Cells is strictly unnecessary as a passive pursuit, and time may be dedicated to more productive means of action.", "en": "This speaker hypothesizes that the collection of 50 Zygarde Cells is strictly unnecessary as a passive pursuit, and time may be dedicated to more productive means of action.", "ja": "この発話者は、50個のジガルデセルを集めることは受動的な行為としては厳密には不要であり、より生産的な行動に時間を割くべきだと仮説を立てます。"}
+{"sec": "map:846", "key": "Upon detecting intervals of 10 Zygarde Cells, additional shutters will open.", "en": "Upon detecting intervals of 10 Zygarde Cells, additional shutters will open.", "ja": "ジガルデセル10個ごとの間隔を検知すると、追加のシャッターが開きます。"}
+{"sec": "map:846", "key": "Hypothesis: Equipment used to coalesce 100 Zygarde Cells into a fully-formed 100% Zygarde exists at the posterior of this facility.", "en": "Hypothesis: Equipment used to coalesce 100 Zygarde Cells into a fully-formed 100% Zygarde exists at the posterior of this facility.", "ja": "仮説: 100個のジガルデセルを完全な100%のジガルデへと融合させるための装置が、この施設の奥に存在する。"}
+{"sec": "map:846", "key": "A preliminary effort was made to bypass these protocol, but all machines appeared entirely unresponsive to it.", "en": "A preliminary effort was made to bypass these protocol, but all machines appeared entirely unresponsive to it.", "ja": "これらのプロトコルをう回する予備的な試みを行いましたが、すべての機械はまったく反応しませんでした。"}
+{"sec": "map:846", "key": "Additional hypothesis: The logic behind these generated machines is inconsistent with real world circuitry and logic.", "en": "Additional hypothesis: The logic behind these generated machines is inconsistent with real world circuitry and logic.", "ja": "追加の仮説: これらの生成された機械の背後にある論理は、現実世界の回路や論理と一致していません。"}
+{"sec": "map:846", "key": "Thus, conventional methods may not apply.", "en": "Thus, conventional methods may not apply.", "ja": "したがって、従来の手法は適用できない可能性があります。"}
+{"sec": "map:846", "key": "Nevertheless, additional efforts will be made at this operator's convenience.", "en": "Nevertheless, additional efforts will be made at this operator's convenience.", "ja": "とはいえ、この操作者の都合に応じて、追加の試みが行われる予定です。"}
+{"sec": "map:846", "key": "Consider the matter solved.", "en": "Consider the matter solved.", "ja": "この件は解決したものとお考えください。"}
+{"sec": "map:846", "key": "If additional intervention on your part is warranted, you will be notified.", "en": "If additional intervention on your part is warranted, you will be notified.", "ja": "あなたの側でさらなる介入が必要な場合は、通知いたします。"}
+{"sec": "map:846", "key": "FLORINIA: For every 10 Z-Cells brought here, another gate will open.", "en": "FLORINIA: For every 10 Z-Cells brought here, another gate will open.", "ja": "フロリニア: Zセルを10個ここに持ち込むごとに、別のゲートが開きます。"}
+{"sec": "map:846", "key": "At this point in time, it does not appear as if collecting all 50 Z-Cells is a necessity.", "en": "At this point in time, it does not appear as if collecting all 50 Z-Cells is a necessity.", "ja": "現時点では、50個すべてのZセルを集める必要性はないようです。"}
+{"sec": "map:846", "key": "It can probably be assumed that behind all of these, there exists a way to fuse the cells into an 100% Zygarde.", "en": "It can probably be assumed that behind all of these, there exists a way to fuse the cells into an 100% Zygarde.", "ja": "おそらく、これらすべての先に、セルを融合させて100%のジガルデにする方法が存在すると考えられます。"}
+{"sec": "map:846", "key": "I'm still trying to find a way around that, but I'll go back to the Nightclub eventually if it appears to be unproductive.", "en": "I'm still trying to find a way around that, but I'll go back to the Nightclub eventually if it appears to be unproductive.", "ja": "まだその方法を探ろうとしていますが、生産的でないと分かれば、いずれナイトクラブに戻るつもりです。"}
+{"sec": "map:846", "key": "FLORINIA: Upon detecting intervals of 10 Zygarde Cells, shutters will open a path forward.", "en": "FLORINIA: Upon detecting intervals of 10 Zygarde Cells, shutters will open a path forward.", "ja": "フロリニア: ジガルデセル10個ごとの間隔を検知すると、シャッターが道を開きます。"}
+{"sec": "map:846", "key": "This speaker hypothesizes that the collection of 50 Zygarde Cells is strictly unnecessary, and time may be dedicated to more productive means of action.", "en": "This speaker hypothesizes that the collection of 50 Zygarde Cells is strictly unnecessary, and time may be dedicated to more productive means of action.", "ja": "この発話者は、50個のジガルデセルを集めることは厳密には不要であり、より生産的な行動に時間を割くべきだと仮説を立てます。"}
+{"sec": "map:846", "key": "Hypothesis: Equipment used to coallesce 100 Zygarde Cells into a fully-formed 100% Zygarde exists at the posterior of this facility.", "en": "Hypothesis: Equipment used to coallesce 100 Zygarde Cells into a fully-formed 100% Zygarde exists at the posterior of this facility.", "ja": "仮説: 100個のジガルデセルを完全な100%のジガルデへと融合させるための装置が、この施設の奥に存在する。"}
+{"sec": "map:846", "key": "This operator will temporarily remain and continue to study the generated machinations for a brief spell before returning to more productive measures.", "en": "This operator will temporarily remain and continue to study the generated machinations for a brief spell before returning to more productive measures. ", "ja": "この操作者は一時的にここに留まり、しばらくの間これらの生成された機構の研究を続けた後、より生産的な手段に戻る予定です。"}
+{"sec": "map:846", "key": "DETECTING CELLS...", "en": "DETECTING CELLS...", "ja": "セル検出中…"}
+{"sec": "map:846", "key": "\\v[590] CELLS COLLECTED.", "en": "\\v[590] CELLS COLLECTED.", "ja": "\\v[590]個のセルを収集済み。"}
+{"sec": "map:846", "key": "ACTIVATING SHUTTER.", "en": "ACTIVATING SHUTTER.", "ja": "シャッター起動中。"}
+{"sec": "map:846", "key": "INSUFFICIENT CELLS.", "en": "INSUFFICIENT CELLS.", "ja": "セル数が不足しています。"}
+{"sec": "map:846", "key": "PRELIMINARY GATES OPENED.", "en": "PRELIMINARY GATES OPENED.", "ja": "予備ゲート開放。"}
+{"sec": "map:846", "key": "50% ENHANCEMENT", "en": "50% ENHANCEMENT", "ja": "50%エンハンスメント"}
+{"sec": "map:846", "key": "EXISTING 50% ENHANCEMENT DETECTED.", "en": "EXISTING 50% ENHANCEMENT DETECTED.", "ja": "既存の50%エンハンスメントを検出。"}
+{"sec": "map:846", "key": "40 CELLS REQUIRED.", "en": "40 CELLS REQUIRED.", "ja": "セル40個が必要。"}
+{"sec": "map:846", "key": "ENHANCE?", "en": "ENHANCE?", "ja": "エンハンスしますか?"}
+{"sec": "map:846", "key": "ENHANCING.", "en": "ENHANCING.", "ja": "エンハンス中。"}
+{"sec": "map:846", "key": "ENHANCING . .", "en": "ENHANCING . .", "ja": "エンハンス中 . ."}
+{"sec": "map:846", "key": "ENHANCING . . .", "en": "ENHANCING . . .", "ja": "エンハンス中 . . ."}
+{"sec": "map:846", "key": "EXISTING 100% FORM DETECTED.", "en": "EXISTING 100% FORM DETECTED.", "ja": "既存の100%フォルムを検出。"}
+{"sec": "map:846", "key": "REDUCE?", "en": "REDUCE?", "ja": "リデュースしますか?"}
+{"sec": "map:846", "key": "REDUCING.", "en": "REDUCING.", "ja": "リデュース中。"}
+{"sec": "map:846", "key": "REUSING . .", "en": "REUSING . .", "ja": "再利用中 . ."}
+{"sec": "map:846", "key": "RECYCLING . . .", "en": "RECYCLING . . .", "ja": "リサイクル中 . . ."}
+{"sec": "map:846", "key": "50 CELLS RECOVERED.", "en": "50 CELLS RECOVERED.", "ja": "セル50個を回収。"}
+{"sec": "map:846", "key": "100% ENHANCEMENT", "en": "100% ENHANCEMENT", "ja": "100%エンハンスメント"}
+{"sec": "map:846", "key": "EXISTING 100% ENHANCEMENT DETECTED.", "en": "EXISTING 100% ENHANCEMENT DETECTED.", "ja": "既存の100%エンハンスメントを検出。"}
+{"sec": "map:846", "key": "50 CELLS REQUIRED.", "en": "50 CELLS REQUIRED.", "ja": "セル50個が必要。"}
+{"sec": "map:846", "key": "90 CELLS REQUIRED.", "en": "90 CELLS REQUIRED.", "ja": "セル90個が必要。"}
+{"sec": "map:846", "key": "TERRA: ah yes, a \\PN.", "en": "TERRA: ah yes, a \\PN.", "ja": "テラ: ふふ、\\PNか。"}
+{"sec": "map:846", "key": "for us to meet here in this far-off deserted location................", "en": "for us to meet here in this far-off deserted location................", "ja": "こんなへんぴな廃虚でアタシたちが出会うなんて................"}
+{"sec": "map:846", "key": "it can only mean one (1) thing................", "en": "it can only mean one (1) thing................", "ja": "意味することはただひとつ（1つ）................"}
+{"sec": "map:846", "key": "is it destiny...........................", "en": "is it destiny...........................", "ja": "運命ってやつ?..........................."}
+{"sec": "map:846", "key": ".............or is it a drug deal", "en": ".............or is it a drug deal", "ja": ".............それとも、麻薬取引?"}
+{"sec": "map:846", "key": "TERRA: so that was 2 (two) things actually", "en": "TERRA: so that was 2 (two) things actually", "ja": "テラ: あ、今の実は2つ（two）あったわ"}
+{"sec": "map:846", "key": "counting hard", "en": "counting hard", "ja": "数えるのマジ大変"}
+{"sec": "map:846", "key": "but it ain't the only thing tha's hard ynowhatimsayin'? ;)\\tts[but it ain't the only thing tha's hard YnoWhatImSayin'? ;)]", "en": "but it ain't the only thing tha's hard ynowhatimsayin'? ;)\\tts[but it ain't the only thing tha's hard YnoWhatImSayin'?  ;)]", "ja": "でもハードなのはそれだけじゃないっしょ、わかるっしょ?;)\\tts[でもハードなのはそれだけじゃないっしょ、わかるっしょ?;)]"}
+{"sec": "map:846", "key": "and ynowhatimsayin'.\\tts[and YnoWhatImSayin'.]", "en": "and ynowhatimsayin'.\\tts[and YnoWhatImSayin'.]", "ja": "つまりそういうこと。\\tts[つまりそういうこと。]"}
+{"sec": "map:846", "key": "i'm talkin' about hacking.", "en": "i'm talkin' about hacking.", "ja": "ハッキングの話だし。"}
+{"sec": "map:846", "key": "DUH.", "en": "DUH.", "ja": "当然っしょ。"}
+{"sec": "map:846", "key": "MACHINES ARE STUPID DUMB B4KA MITAI-KUNS AND I HATE THEM\\tts[MACHINES ARE STUPID DUMB BAKA MITAI-KUNS AND I HATE THEM]", "en": "MACHINES ARE STUPID DUMB B4KA MITAI-KUNS AND I HATE THEM\\tts[MACHINES ARE STUPID DUMB BAKA MITAI-KUNS AND I HATE THEM]", "ja": "機械なんてバ4カみたいクンで、アタシ大嫌い\\tts[機械なんてバカみたいクンで、アタシ大嫌い]"}
+{"sec": "map:846", "key": "AHO AHO AHO AHO AHO AHO--", "en": "AHO AHO AHO AHO AHO AHO--", "ja": "アホ アホ アホ アホ アホ アホ――"}
+{"sec": "map:846", "key": "AHO AHO AHO AHO AHO AHO!!!!!", "en": "AHO AHO AHO AHO AHO AHO!!!!!", "ja": "アホ アホ アホ アホ アホ アホ!!!!!"}
+{"sec": "map:846", "key": "TERRA: Yepperz, that's me--", "en": "TERRA: Yepperz, that's me--", "ja": "テラ: そそ、それアタシ――"}
+{"sec": "map:846", "key": "Rainbow locks, big mallet, bigger b00ty--\\tts[Rainbow locks, big mallet, bigger booty--]", "en": "Rainbow locks, big mallet, bigger b00ty--\\tts[Rainbow locks, big mallet, bigger booty--]", "ja": "虹色の髪に、でっかいハンマー、もっとでっかいお尻――\\tts[虹色の髪に、でっかいハンマー、もっとでっかいお尻――]"}
+{"sec": "map:846", "key": "And absolutely poundin' that computer ;)", "en": "And absolutely poundin' that computer ;)", "ja": "そんでコンピューターをガンガンたたいてる ;)"}
+{"sec": "map:846", "key": "Now I bet ur w0ndering how I got into this s1tuation,\\tts[Now I bet ur wondering how I got into this situation,]", "en": "Now I bet ur w0ndering how I got into this s1tuation,\\tts[Now I bet ur wondering how I got into this situation,]", "ja": "さーて、なんでこんな状況になったか気になってるっしょ、\\tts[さーて、なんでこんな状況になったか気になってるっしょ、]"}
+{"sec": "map:846", "key": "And if u weren't,", "en": "And if u weren't,", "ja": "気になってなかったとしても、"}
+{"sec": "map:846", "key": "Start wonderin', BIYOTCH!!!!!", "en": "Start wonderin', BIYOTCH!!!!!", "ja": "今から気になれ、あばずれ!!!!!"}
+{"sec": "map:846", "key": "RAWWWWWWWWWWWRRRRR!!!!", "en": "RAWWWWWWWWWWWRRRRR!!!!", "ja": "ガアアアアアアアアアオオオ!!!!"}
+{"sec": "map:846", "key": "TERRA: ok, everybody nice and wondered up?", "en": "TERRA: ok, everybody nice and wondered up?", "ja": "テラ: よし、みんないい感じに気になってきた?"}
+{"sec": "map:846", "key": "we would've given you more of a pause to wonder longer but our studio director wouldn't allow it", "en": "we would've given you more of a pause to wonder longer but our studio director wouldn't allow it", "ja": "もっと長く気にならせる間を取りたかったんだけど、うちのスタジオディレクターが許してくれなかったのよ"}
+{"sec": "map:846", "key": "probs cuz he had to pee", "en": "probs cuz he had to pee", "ja": "たぶんおしっこ行きたかったんだと思う"}
+{"sec": "map:846", "key": "just a guess", "en": "just a guess", "ja": "ただの推測だけど"}
+{"sec": "map:846", "key": "SO ANYWAY, THIS IS A STORY ALL ABOUT HOW", "en": "SO ANYWAY, THIS IS A STORY ALL ABOUT HOW", "ja": "ってわけで、これはこういう話――"}
+{"sec": "map:846", "key": "UR MOM GOT FLIP-TURNED UPSIDE D0WN\\tts[UR MOM GOT FLIP-TURNED UPSIDE DOWN]", "en": "UR MOM GOT FLIP-TURNED UPSIDE D0WN\\tts[UR MOM GOT FLIP-TURNED UPSIDE DOWN]", "ja": "お前のママがひっくり返って逆さまになった話\\tts[お前のママがひっくり返って逆さまになった話]"}
+{"sec": "map:846", "key": "AND I'D LIKE TO TAKE A MINUTE TO MAKE THIS CLEAR", "en": "AND I'D LIKE TO TAKE A MINUTE TO MAKE THIS CLEAR", "ja": "だからちょっとだけ、はっきりさせときたい"}
+{"sec": "map:846", "key": "I'LL TELL YOU ALL ABOUT WHAT THE FUCK I'M DOIN' HERE", "en": "I'LL TELL YOU ALL ABOUT WHAT THE FUCK I'M DOIN' HERE", "ja": "アタシがここで一体全体何やってんのか、洗いざらい教えてやるよ"}
+{"sec": "map:846", "key": "kk so flobot", "en": "kk so flobot", "ja": "はいはい、それでフロボット"}
+{"sec": "map:846", "key": "heard she was talkin' shit", "en": "heard she was talkin' shit", "ja": "あいつがくだらねーこと言ってたって聞いたわけ"}
+{"sec": "map:846", "key": "wait can we drop the freeze frame", "en": "wait can we drop the freeze frame", "ja": "待って、この静止画面もう解除できる?"}
+{"sec": "map:846", "key": "TERRA: thx bb", "en": "TERRA: thx bb", "ja": "テラ: サンキュー、あんた"}
+{"sec": "map:846", "key": "was starting to get sore", "en": "was starting to get sore", "ja": "だんだん体痛くなってきてたし"}
+{"sec": "map:846", "key": ";)", "en": ";)", "ja": ";)"}
+{"sec": "map:846", "key": "OK SO FLOBOT", "en": "OK SO FLOBOT", "ja": "はい、それでフロボット"}
+{"sec": "map:846", "key": "She came here before and was like", "en": "She came here before and was like", "ja": "あいつ前にここに来て、こんな感じだったの"}
+{"sec": "map:846", "key": "-beep boop boop beep-", "en": "-beep boop boop beep-", "ja": "―ピー ポー ポー ピー―"}
+{"sec": "map:846", "key": "\"G R E E T I N G S\"", "en": "\"G R E E T I N G S\"", "ja": "『ご あ い さ つ し ま す』"}
+{"sec": "map:846", "key": "\"I MEAN SHIT I FORGOT THE WORD FOR HELL0 BECAUSE IM STILL A FUCKING ROBLOX\"\\tts[\"I MEAN SHIT I FORGOT THE WORD FOR HELLO BECAUSE IM STILL A FUCKING ROBLOX\"]", "en": "\"I MEAN SHIT I FORGOT THE WORD FOR HELL0 BECAUSE IM STILL A FUCKING ROBLOX\"\\tts[\"I MEAN SHIT I FORGOT THE WORD FOR HELLO BECAUSE IM STILL A FUCKING ROBLOX\"]", "ja": "『ってかヤベ、こんにちはって単語忘れちった、だってあたしまだクソロブロックスだから』\\tts[『ってかヤベ、こんにちはって単語忘れちった、だってあたしまだクソロブロックスだから』]"}
+{"sec": "map:846", "key": "\"E R R O R 4 0 4 F E E L I N G S N O T F O U N D\"", "en": "\"E R R O R 4 0 4 F E E L I N G S N O T F O U N D\"", "ja": "『エ ラ ー 4 0 4 感 情 が 見 つ か り ま せ ん』"}
+{"sec": "map:846", "key": "...-beep-", "en": "...-beep-", "ja": "…―ピー―"}
+{"sec": "map:846", "key": "ANyw4Y she trieD TO HACK THIS PLACe AND T0TALLY BOMBED IT\\tts[Anyway she tried TO HACK THIS PLACE AND TOTALLY BOMBED it]", "en": "ANyw4Y she trieD TO HACK THIS PLACe AND T0TALLY BOMBED IT\\tts[Anyway she tried TO HACK THIS PLACE AND TOTALLY BOMBED it]", "ja": "とにかくあいつ、ここをハックしようとして完全に大失敗したわけ\\tts[とにかくあいつ、ここをハックしようとして完全に大失敗したわけ]"}
+{"sec": "map:846", "key": "like failed, not like self-destruct", "en": "like failed, not like self-destruct", "ja": "失敗したっていうか、自爆はしてない感じの"}
+{"sec": "map:846", "key": "that's why it's still intact, see", "en": "that's why it's still intact, see", "ja": "だからまだ壊れずに残ってんの、わかる?"}
+{"sec": "map:846", "key": "not that i know about \"tact\"", "en": "not that i know about \"tact\"", "ja": "まあアタシに『空気読む』ってのが分かるかは別として"}
+{"sec": "map:846", "key": "so i figured i'd come here and RAWWWWWWRRRRR on her stYYYle for Re:Venge\\tts[so i figured i'd come here and RAWWWWWWRRRRR on her styyyle for Re:Venge]", "en": "so i figured i'd come here and RAWWWWWWRRRRR on her stYYYle for Re:Venge\\tts[so i figured i'd come here and RAWWWWWWRRRRR on her styyyle for Re:Venge]", "ja": "だからアタシがここに来て、あいつのスタイルにガアアアオオオしてRe:ベンジすることにしたの\\tts[だからアタシがここに来て、あいつのスタイルにガアアアオオオしてRe:ベンジすることにしたの]"}
+{"sec": "map:846", "key": "for That Time I Got Re1ncarnated As a D1g1tal G1rl\\tts[for That Time I Got Reincarnated As a Digital Girl]", "en": "for That Time I Got Re1ncarnated As a D1g1tal G1rl\\tts[for That Time I Got Reincarnated As a Digital Girl]", "ja": "『デジタル少女に転生したらの件』のためにね\\tts[『デジタル少女に転生したらの件』のためにね]"}
+{"sec": "map:846", "key": "1n a D1g1tal World\\tts[In a Digital World]", "en": "1n a D1g1tal World\\tts[In a Digital World]", "ja": "デジタルワールドの中で\\tts[デジタルワールドの中で]"}
+{"sec": "map:846", "key": "L1fe 1n Plast1c, 1t's Fantasti1c\\tts[Life in Plastic, it's Fantastic]", "en": "L1fe 1n Plast1c, 1t's Fantasti1c\\tts[Life in Plastic, it's Fantastic]", "ja": "ライフ・イン・プラスチック、イッツ・ファンタスティック\\tts[ライフ・イン・プラスチック、イッツ・ファンタスティック]"}
+{"sec": "map:846", "key": "wait no", "en": "wait no", "ja": "あ、違う"}
+{"sec": "map:846", "key": "anyway she got me then right but now if i get this right then i got her, you get me?", "en": "anyway she got me then right but now if i get this right then i got her, you get me?", "ja": "とにかくあの時あいつにやられたわけだけど、今度はアタシがちゃんとやり返す番、わかる?"}
+{"sec": "map:846", "key": "SO 1337 HAXORUS IN PROGRESS\\tts[SO LEET HAXORUS IN PROGRESS]", "en": "SO 1337 HAXORUS IN PROGRESS\\tts[SO LEET HAXORUS IN PROGRESS]", "ja": "リート・ハクサウルス起動中\\tts[リート・ハクサウルス起動中]"}
+{"sec": "map:846", "key": "DO YOU WANNA HELP, OR DO YOU WANNA HELP?", "en": "DO YOU WANNA HELP, OR DO YOU WANNA HELP?", "ja": "手伝いたい?それとも手伝いたい?"}
+{"sec": "map:846", "key": "TERRA: Gr88888888, then les' git down to the dirty biz.", "en": "TERRA: Gr88888888, then les' git down to the dirty biz. ", "ja": "テラ: よっしゃあああ、んじゃ汚れ仕事に取りかかるわよ"}
+{"sec": "map:846", "key": "C, the reason L1ttle M1ss R0bl0x couldn't hakk it, izzat alladis?\\tts[C, the reason Little Miss Roblox couldn't hakk it, iz zat all adis?]", "en": "C, the reason L1ttle M1ss R0bl0x couldn't hakk it, izzat alladis?\\tts[C, the reason Little Miss Roblox couldn't hakk it, iz zat all adis?]", "ja": "見て、リトル・ミス・ロブロックスがハックできなかった理由、これがぜーんぶ?\\tts[見て、リトル・ミス・ロブロックスがハックできなかった理由、これがぜーんぶ?]"}
+{"sec": "map:846", "key": "It only Looks like Mach1ne,\\tts[It only Looks like Machine,]", "en": "It only Looks like Mach1ne,\\tts[It only Looks like Machine,]", "ja": "こいつ、機械に見えるだけで、\\tts[こいつ、機械に見えるだけで、]"}
+{"sec": "map:846", "key": "But akshually is Not Mach1ne!\\tts[But akshually is Not Machine!]", "en": "But akshually is Not Mach1ne!\\tts[But akshually is Not Machine!]", "ja": "実はマジで機械じゃない!\\tts[実はマジで機械じゃない!]"}
+{"sec": "map:846", "key": "New World is not smart enough 4 Real Mach1ne!\\tts[New World is not smart enough for Real Machine!]", "en": "New World is not smart enough 4 Real Mach1ne!\\tts[New World is not smart enough for Real Machine!]", "ja": "ニューワールドは、本物の機械を作れるほど賢くない!\\tts[ニューワールドは、本物の機械を作れるほど賢くない!]"}
+{"sec": "map:846", "key": "only smart enough 4 L00k Like Real Mach1ne.\\tts[only smart enough for LOOK Like Real Machine.]", "en": "only smart enough 4 L00k Like Real Mach1ne.\\tts[only smart enough for LOOK Like Real Machine.]", "ja": "本物の機械に見せかけるくらいしか賢くない。\\tts[本物の機械に見せかけるくらいしか賢くない。]"}
+{"sec": "map:846", "key": "But not Real Mach1ne!!!!!\\tts[But not Real Machine!!!!!]", "en": "But not Real Mach1ne!!!!!\\tts[But not Real Machine!!!!!]", "ja": "でも本物の機械じゃない!!!!!\\tts[でも本物の機械じゃない!!!!!]"}
+{"sec": "map:846", "key": "Robl0x used Conventional Hacking Methods!\\tts[Roblox used Conventional Hacking Methods!]", "en": "Robl0x used Conventional Hacking Methods!\\tts[Roblox used Conventional Hacking Methods!]", "ja": "ロブロックスは、ふつうのハッキング手法をつかった!\\tts[ロブロックスは、ふつうのハッキング手法をつかった!]"}
+{"sec": "map:846", "key": "It's not very effective...", "en": "It's not very effective...", "ja": "こうかは いまひとつのようだ…"}
+{"sec": "map:846", "key": "But T3RR4WR--\\tts[But TERRAWR--]", "en": "But T3RR4WR--\\tts[But TERRAWR--]", "ja": "でもテラアアアアー――\\tts[でもテラアアアアー――]"}
+{"sec": "map:846", "key": "TERRA: T3RR4WR used MALLET.\\tts[TERRA: TERRAWR used MALLET.]", "en": "TERRA: T3RR4WR used MALLET.\\tts[TERRA: TERRAWR used MALLET.]", "ja": "テラ: テラアアアアーは、ハンマーをつかった。\\tts[テラ: テラアアアアーは、ハンマーをつかった。]"}
+{"sec": "map:846", "key": "It's super effective!", "en": "It's super effective!", "ja": "こうかは ばつぐんだ!"}
+{"sec": "map:846", "key": "TERRA: ...Wait, I wasn't supp0sed to do this yet.\\tts[TERRA: ...Wait, I wasn't supposed to do this yet.]", "en": "TERRA: ...Wait, I wasn't supp0sed to do this yet.\\tts[TERRA: ...Wait, I wasn't supposed to do this yet.]", "ja": "テラ: …あ、まだこれやっちゃダメだったんだ。\\tts[テラ: …あ、まだこれやっちゃダメだったんだ。]"}
+{"sec": "map:846", "key": "TERRA: OKAY SO BASICALLY these doors will just, like, open if you have enough Z-cred.", "en": "TERRA: OKAY SO BASICALLY these doors will just, like, open if you have enough Z-cred.", "ja": "テラ: よし、つまりざっくり言うと、Zクレドが十分たまってれば、このドアはこう、開くって感じ。"}
+{"sec": "map:846", "key": "That's Zed-cred if you're a peon, but then it sounds cooler, so like, better be bein' a peon imo tbh js roflcopter", "en": "That's Zed-cred if you're a peon, but then it sounds cooler, so like, better be bein' a peon imo tbh js roflcopter", "ja": "庶民的に言うとゼッド・クレドね、でもそっちの方がなんかカッコよく聞こえるから、まあ庶民でいたほうがいいかも、個人的にはマジで、そんな感じ"}
+{"sec": "map:846", "key": "but once we get to 50, i got a plan for the rest, so don't you B sweatin' that.", "en": "but once we get to 50, i got a plan for the rest, so don't you B sweatin' that.", "ja": "でも50まで集まったら、あとはアタシに考えがあるから、汗かいて心配すんな。"}
+{"sec": "map:846", "key": "...and according to my keikakulations, you got \\v[590] Z-cred already.", "en": "...and according to my keikakulations, you got \\v[590] Z-cred already.", "ja": "…んで、アタシのケイカクレーションによると、あんたもう\\v[590]Zクレド持ってるじゃん。"}
+{"sec": "map:846", "key": "well ok.", "en": "well ok.", "ja": "まあ、オッケー。"}
+{"sec": "map:846", "key": "PULL THE LEVER, CRUNK.", "en": "PULL THE LEVER, CRUNK.", "ja": "レバーを引け、クランク。"}
+{"sec": "map:846", "key": "So now you gotta choice decision.", "en": "So now you gotta choice decision.", "ja": "だから今、あんたは選択の決断をしなきゃいけない。"}
+{"sec": "map:846", "key": "You can either go collect enuff Z-cred to make these doors RAWR themselves open to you,", "en": "You can either go collect enuff Z-cred to make these doors RAWR themselves open to you,", "ja": "十分なZクレドを集めて、このドアたちに自分でガアアアと開いてもらうか、"}
+{"sec": "map:846", "key": "or i can whack 'em with a mallet until they open and we both deal with the messy consequences of whatever happens like adults", "en": "or i can whack 'em with a mallet until they open and we both deal with the messy consequences of whatever happens like adults", "ja": "それとも、アタシがハンマーで開くまでぶったたいて、その後起こる面倒な結果に大人として二人で向き合うか、"}
+{"sec": "map:846", "key": "fight our way through like men", "en": "fight our way through like men", "ja": "男らしく戦い抜くってわけ"}
+{"sec": "map:846", "key": "after all", "en": "after all", "ja": "だって"}
+{"sec": "map:846", "key": "( ´_>`) we are men( ´_>`) *", "en": "( ´_>`) we are men( ´_>`) *", "ja": "( ´_>`) アタシたちは男( ´_>`) *"}
+{"sec": "map:846", "key": "*we aren't but shhhh", "en": "*we aren't but shhhh", "ja": "*違うんだけどシー"}
+{"sec": "map:846", "key": "( ´_>`) we are men( ´_>`)", "en": "( ´_>`) we are men( ´_>`) ", "ja": "( ´_>`) アタシたちは男( ´_>`)"}
+{"sec": "map:846", "key": "so according to my keikakulations, you got \\v[590] Z-cred, and according to my spidey senses, there's 70 out there.", "en": "so according to my keikakulations, you got \\v[590] Z-cred, and according to my spidey senses, there's 70 out there.", "ja": "アタシのケイカクレーションによると、あんたは\\v[590]Zクレド持ってて、アタシのスパイダーセンスによると、外に70個ある。"}
+{"sec": "map:846", "key": "what'll it be?", "en": "what'll it be?", "ja": "どうする?"}
+{"sec": "map:846", "key": "should i get whackin'?", "en": "should i get whackin'?", "ja": "ぶったたき始めていい?"}
+{"sec": "map:846", "key": "TERRA: ;)", "en": "TERRA: ;)", "ja": "テラ: ;)"}
+{"sec": "map:846", "key": "ok but not to l1ke, put the pressure on or whatever, but u sure bb?\\tts[ok but not to like, put the pressure on or whatever, but u sure bb?]", "en": "ok but not to l1ke, put the pressure on or whatever, but u sure bb?\\tts[ok but not to like, put the pressure on or whatever, but u sure bb?]", "ja": "まあプレッシャーかけるとかじゃないんだけど、マジで大丈夫?\\tts[まあプレッシャーかけるとかじゃないんだけど、マジで大丈夫?]"}
+{"sec": "map:846", "key": "u can always get them zeds later, but lyk, cmon. you only need 50.", "en": "u can always get them zeds later, but lyk, cmon. you only need 50.", "ja": "ゼッドは後からでも集められるけど、まあ、ほら。必要なのは50だけだし。"}
+{"sec": "map:846", "key": "we doin' this?", "en": "we doin' this?", "ja": "やる?"}
+{"sec": "map:846", "key": "get ready, sweaty", "en": "get ready, sweaty", "ja": "覚悟しなさいよ、あんた"}
+{"sec": "map:846", "key": "WHAM, BAM, THANK YOU MA'AM", "en": "WHAM, BAM, THANK YOU MA'AM", "ja": "ドカン、バコン、ありがとサンキュー"}
+{"sec": "map:846", "key": "TERRA: ............ok.", "en": "TERRA: ............ok.", "ja": "テラ: ............オッケー。"}
+{"sec": "map:846", "key": "u can go collect more zeds.", "en": "u can go collect more zeds.", "ja": "もっとゼッド集めてきていいよ。"}
+{"sec": "map:846", "key": "but i can't avoid whacking it forever, so hurry up, ok?", "en": "but i can't avoid whacking it forever, so hurry up, ok?", "ja": "でもいつまでもたたかずにはいられないから、急いでね、いい?"}
+{"sec": "map:846", "key": "ok.", "en": "ok.", "ja": "はい。"}
+{"sec": "map:846", "key": "TERRA: o.", "en": "TERRA: o.", "ja": "テラ: お。"}
+{"sec": "map:846", "key": "u did it.", "en": "u did it.", "ja": "やったじゃん。"}
+{"sec": "map:846", "key": "guess i won't be whackin' it today.......................", "en": "guess i won't be whackin' it today.......................", "ja": "今日はぶったたかずに済みそうね......................."}
+{"sec": "map:846", "key": "pls accept these as a token of my blue balls...................................", "en": "pls accept these as a token of my blue balls...................................", "ja": "アタシの欲求不満のしるしとして、これ受け取ってちょうだい..................................."}
+{"sec": "map:846", "key": "NOW \\PN, I GOTTA QUESTION 4 U\\tts[NOW \\PN, I GOTTA QUESTION FOR U]", "en": "NOW \\PN, I GOTTA QUESTION 4 U\\tts[NOW \\PN, I GOTTA QUESTION FOR U]", "ja": "さあ\\PN、あんたに質問があるんだけど\\tts[さあ\\PN、あんたに質問があるんだけど]"}
+{"sec": "map:846", "key": "ARE YOU WITHIN AGES 1-99", "en": "ARE YOU WITHIN AGES 1-99", "ja": "あんた、1歳から99歳の間?"}
+{"sec": "map:846", "key": "cuz lego", "en": "cuz lego", "ja": "だってレゴだし"}
+{"sec": "map:846", "key": "5s5s5s5s5s", "en": "5s5s5s5s5s", "ja": "5s5s5s5s5s"}
+{"sec": "map:846", "key": "hhhhhhhhGreg", "en": "hhhhhhhhGreg", "ja": "hhhhhhhhGreg"}
+{"sec": "map:846", "key": "SK1LL N0T P0UND", "en": "SK1LL N0T P0UND", "ja": "スキル・ノット・パウンド"}
+{"sec": "map:846", "key": "memory address forgotten", "en": "memory address forgotten", "ja": "メモリアドレスを忘れた"}
+{"sec": "map:846", "key": "M3W!", "en": "M3W!", "ja": "ミュウ!"}
+{"sec": "map:846", "key": "TERRA: AND TH4T'S A R4P!\\tts[TERRA: AND THAT'S A RAP!]", "en": "TERRA: AND TH4T'S A R4P!\\tts[TERRA: AND THAT'S A RAP!]", "ja": "テラ: これにてラアアップ終了!\\tts[テラ: これにてラップ終了!]"}
+{"sec": "map:846", "key": "*beatboxing noises*", "en": "*beatboxing noises*", "ja": "*ビートボックスの音*"}
+{"sec": "map:846", "key": "the rest g0nna g0 down realllllllll EZ\\tts[the rest gonna go down realllllllll E Z]", "en": "the rest g0nna g0 down realllllllll EZ\\tts[the rest gonna go down realllllllll E Z]", "ja": "残りはマジでらくしょ～に片付くから\\tts[残りはマジでらくしょーに片付くから]"}
+{"sec": "map:846", "key": "jus' like ciel\\tts[jus like ciel]", "en": "jus' like ciel\\tts[jus like ciel]", "ja": "シエルみたいにね\\tts[シエルみたいにね]"}
+{"sec": "map:846", "key": "but u know what's ez?\\tts[but u know what's E Z?]", "en": "but u know what's ez?\\tts[but u know what's E Z?]", "ja": "でも何がらくしょーか知ってる?\\tts[でも何がらくしょーか知ってる?]"}
+{"sec": "map:846", "key": "ur mom lol", "en": "ur mom lol", "ja": "お前のママ、ｗ"}
+{"sec": "map:846", "key": "BUT ALSO SHOWING UP FL0BOT\\tts[BUT ALSO SHOWING UP FLOBOT]", "en": "BUT ALSO SHOWING UP FL0BOT\\tts[BUT ALSO SHOWING UP FLOBOT]", "ja": "でもついでにフロボットにも思い知らせてやる\\tts[でもついでにフロボットにも思い知らせてやる]"}
+{"sec": "map:846", "key": "TERRA: T3RR4WR used BRAINCELL\\tts[TERRA: TERRAWR used BRAINCELL]", "en": "TERRA: T3RR4WR used BRAINCELL\\tts[TERRA: TERRAWR used BRAINCELL]", "ja": "テラ: テラアアアアーは、ブレインセルをつかった\\tts[テラ: テラアアアアーは、ブレインセルをつかった]"}
+{"sec": "map:846", "key": "C, these doors will just, like, open if you have enough Z-cred.", "en": "C, these doors will just, like, open if you have enough Z-cred.", "ja": "見て、このドアたちは、Zクレドが十分あればこう、開くって感じ。"}
+{"sec": "map:846", "key": "ANYWEIGH you need like, 100 billion Z-creds just to gasl1ght these g4tekeeping g1rlb0sses.\\tts[ANYWEIGH you need like, 100 billion Z-creds just to gaslight these gatekeeping GirlBosses.]", "en": "ANYWEIGH you need like, 100 billion Z-creds just to gasl1ght these g4tekeeping g1rlb0sses.\\tts[ANYWEIGH you need like, 100 billion Z-creds just to gaslight these gatekeeping GirlBosses.]", "ja": "とにかくさ、この門番ガールボスどもをガスライティングするだけでも、1000億のZクレドが要るってわけ\\tts[とにかくさ、この門番ガールボスどもをガスライティングするだけでも、1000億のZクレドが要るってわけ]"}
+{"sec": "map:846", "key": "ain' nobody got time for that.", "en": "ain' nobody got time for that.", "ja": "そんな暇、誰にもないっしょ。"}
+{"sec": "map:846", "key": "but is ok.", "en": "but is ok.", "ja": "でも大丈夫。"}
+{"sec": "map:846", "key": "bcuz i?", "en": "bcuz i?", "ja": "だってアタシは?"}
+{"sec": "map:846", "key": "have PLAN.", "en": "have PLAN.", "ja": "計画がある。"}
+{"sec": "map:846", "key": "all u gotta do is show me a 50% zygarde and imma take it from there.", "en": "all u gotta do is show me a 50% zygarde and imma take it from there.", "ja": "あんたがすることは、50%ジガルデをアタシに見せるだけ、あとはアタシがどうにかする。"}
+{"sec": "map:846", "key": "trust.", "en": "trust.", "ja": "信じて。"}
+{"sec": "map:846", "key": "TERRA: OK, PHASE 2.", "en": "TERRA: OK, PHASE 2.", "ja": "テラ: よし、フェーズ2。"}
+{"sec": "map:846", "key": "THIS IS THE SIMPLE PART.", "en": "THIS IS THE SIMPLE PART.", "ja": "ここは簡単なパートよ。"}
+{"sec": "map:846", "key": "like a bibarel", "en": "like a bibarel", "ja": "ビーダルみたいに"}
+{"sec": "map:846", "key": "or a numel", "en": "or a numel", "ja": "ウリムーみたいに"}
+{"sec": "map:846", "key": "ALL YOU MUST DO IS BR1NG ME\\tts[ALL YOU MUST DO IS BRING ME]", "en": "ALL YOU MUST DO IS BR1NG ME\\tts[ALL YOU MUST DO IS BRING ME]", "ja": "あんたがすべきことは、アタシに持ってくることだけ\\tts[あんたがすべきことは、アタシに持ってくることだけ]"}
+{"sec": "map:846", "key": "A SHRUBBERY", "en": "A SHRUBBERY", "ja": "低木"}
+{"sec": "map:846", "key": "also a zygarde thx bb", "en": "also a zygarde thx bb", "ja": "あ、あとジガルデも。よろしくね"}
+{"sec": "map:846", "key": "also a 50% zygarde thx bb", "en": "also a 50% zygarde thx bb", "ja": "あ、あと50%ジガルデも。よろしくね"}
+{"sec": "map:846", "key": "TERRA: 4LL UR ZYGARDE ARE BEL0NG 2 US!!!\\tts[TERRA: ALL UR ZYGARDE ARE BELONG to us!!!]", "en": "TERRA: 4LL UR ZYGARDE ARE BEL0NG 2 US!!!\\tts[TERRA: ALL UR ZYGARDE ARE BELONG to us!!!]", "ja": "テラ: お前のジガルデは、すべてアタシたちのものだ!!!\\tts[テラ: お前のジガルデは、すべてアタシたちのものだ!!!]"}
+{"sec": "map:846", "key": "TERRA: na0, I'm no Zygarde expert, but i'm PR33333333TTY shur that ain't a 50% Zygarde.\\tts[TERRA: nao, I'm no Zygarde expert, but i'm PREEEEEEEETTY shur that ain't a 50% Zygarde.]", "en": "TERRA: na0, I'm no Zygarde expert, but i'm PR33333333TTY shur that ain't a 50% Zygarde.\\tts[TERRA: nao, I'm no Zygarde expert, but i'm PREEEEEEEETTY shur that ain't a 50% Zygarde.]", "ja": "テラ: いやー、アタシはジガルデ専門家じゃないけど、それ50%ジガルデじゃないの、かーなり確信してるんだけど。\\tts[テラ: いやー、アタシはジガルデ専門家じゃないけど、それ50%ジガルデじゃないの、かーなり確信してるんだけど。]"}
+{"sec": "map:846", "key": "w8w8w8, i know this gag-- you're fishing through your pocket for something and u gotta take out like five other s1lly things that shouldn't be in there!\\tts[wait wait wait, i know this gag-- you're fishing through your pocket for something and u gotta take out like five other silly things that shouldn't be in there!]]", "en": "w8w8w8, i know this gag-- you're fishing through your pocket for something and u gotta take out like five other s1lly things that shouldn't be in there!\\tts[wait wait wait, i know this gag-- you're fishing through your pocket for something and u gotta take out like five other silly things that shouldn't be in there!]]", "ja": "ちょっと待って待って待って、このネタ知ってるし――ポケットの中に手を突っ込んで何か探してたら、そこにあるはずのない変なものを5個くらい取り出しちゃうやつ!\\tts[ちょっと待って待って待って、このネタ知ってるし――ポケットの中に手を突っ込んで何か探してたら、そこにあるはずのない変なものを5個くらい取り出しちゃうやつ!]]"}
+{"sec": "map:846", "key": "standard cl0wnfare.\\tts[standard clownfare.]", "en": "standard cl0wnfare.\\tts[standard clownfare.]", "ja": "お決まりのクラウン芸ね。\\tts[お決まりのクラウン芸ね。]"}
+{"sec": "map:846", "key": "good bit, good bit, clown it up, \\PN!", "en": "good bit, good bit, clown it up, \\PN!", "ja": "いいネタ、いいネタ、もっとピエロっぽくやって、\\PN!"}
+{"sec": "map:846", "key": "RAWRRRRR!", "en": "RAWRRRRR!", "ja": "ガアアアアアア!"}
+{"sec": "map:846", "key": "TERRA: na0, I'm no Zygarde expert, but i'm PR33333333TTY shur that ain't a Zygarde.\\tts[TERRA: nao, I'm no Zygarde expert, but i'm PREEEEEEEETTY shur that ain't a Zygarde.]", "en": "TERRA: na0, I'm no Zygarde expert, but i'm PR33333333TTY shur that ain't a Zygarde.\\tts[TERRA: nao, I'm no Zygarde expert, but i'm PREEEEEEEETTY shur that ain't a Zygarde.]", "ja": "テラ: いやー、アタシはジガルデ専門家じゃないけど、それジガルデじゃないの、かーなり確信してるんだけど。\\tts[テラ: いやー、アタシはジガルデ専門家じゃないけど、それジガルデじゃないの、かーなり確信してるんだけど。]"}
+{"sec": "map:846", "key": "TERRA: nice", "en": "TERRA: nice", "ja": "テラ: ナイス"}
+{"sec": "map:846", "key": "F1ne, we'll raise ur ZYD0NGER for a while.\\tts[Fine, we'll raise ur ZyDonger for a while.]", "en": "F1ne, we'll raise ur ZYD0NGER for a while.\\tts[Fine, we'll raise ur ZyDonger for a while.]", "ja": "しゃーない、あんたのザイドンガーはしばらくアタシたちが育てとくわ。\\tts[しゃーない、あんたのザイドンガーはしばらくアタシたちが育てとくわ。]"}
+{"sec": "map:846", "key": "Come back for it later, kk bb?", "en": "Come back for it later, kk bb?", "ja": "後で取りに来てね、オッケー?"}
+{"sec": "map:846", "key": "TERRA: AND NOW FOR MY ULTIMATE ATTACK!", "en": "TERRA: AND NOW FOR MY ULTIMATE ATTACK!", "ja": "テラ: そんじゃ次は、アタシの必殺技いくわよ!"}
+{"sec": "map:846", "key": "Do u want 2 raise a second D0NGER?!\\tts[Do u want to raise a second DONGER?!]", "en": "Do u want 2 raise a second D0NGER?!\\tts[Do u want to raise a second DONGER?!]", "ja": "2本目のドンガー育てたい?!\\tts[2本目のドンガー育てたい?!]"}
+{"sec": "map:846", "key": ">YES\\n>YES", "en": ">YES\\n>YES", "ja": ">はい\\n>はい"}
+{"sec": "map:846", "key": "Like all g00d daycares, all we needs is 1 (1ne) sw33t, sw33t D1tt0 for that gucci lovin'\\tts[Like all good daycares, all we needs is 1 (one) sweet, sweet Ditto for that gucci lovin']", "en": "Like all g00d daycares, all we needs is 1 (1ne) sw33t, sw33t D1tt0 for that gucci lovin'\\tts[Like all good daycares, all we needs is 1 (one) sweet, sweet Ditto for that gucci lovin']", "ja": "ちゃんとした託児所と同じで、必要なのはグッチな愛のための、あまーいあまーいメタモン1匹（1こ）だけ\\tts[ちゃんとした託児所と同じで、必要なのはグッチな愛のための、あまーいあまーいメタモン1匹（1こ）だけ]"}
+{"sec": "map:846", "key": "D1tto, I chews you!\\tts[Ditto, I chews you!]", "en": "D1tto, I chews you!\\tts[Ditto, I chews you!]", "ja": "メタモン、キミにキメた（かむかむ）!\\tts[メタモン、キミにキメた（かむかむ）!]"}
+{"sec": "map:846", "key": "TERRA: and by one ditto", "en": "TERRA: and by one ditto", "ja": "テラ: であ、メタモン1匹っていうのは"}
+{"sec": "map:846", "key": "i mean multiple ditto squished together in a trench coat", "en": "i mean multiple ditto squished together in a trench coat", "ja": "実は複数のメタモンがトレンチコートの中でひとつに押し込まれてるってこと"}
+{"sec": "map:846", "key": "\"But queen! O my queen of b00ty,\" the people call, eyes sparkled over with equal parts adoration and and deeto dust,\\tts[\"But queen! O my queen of booty,\" the people call, eyes sparkled over with equal parts adoration and and deeto dust,]", "en": "\"But queen! O my queen of b00ty,\" the people call, eyes sparkled over with equal parts adoration and and deeto dust,\\tts[\"But queen! O my queen of booty,\" the people call, eyes sparkled over with equal parts adoration and and deeto dust,]", "ja": "「でも女王様! ああ、お尻の女王様!」と人々は呼びかける、その瞳は憧れとメタモンの粉ちりとで等しくきらめきながら、\\tts[「でも女王様! ああ、お尻の女王様!」と人々は呼びかける、その瞳は憧れとメタモンの粉ちりとで等しくきらめきながら、]"}
+{"sec": "map:846", "key": "\"Where did you get all these Ditto?!\"", "en": "\"Where did you get all these Ditto?!\"", "ja": "「このメタモンたち、一体どこで手に入れたんですか!?」"}
+{"sec": "map:846", "key": "and to that, i can only say...", "en": "and to that, i can only say...", "ja": "それに対して、アタシに言えるのはただひとつ…"}
+{"sec": "map:846", "key": "u dont want 2 know ;)\\tts[u dont want to know ;)]", "en": "u dont want 2 know ;)\\tts[u dont want to know ;)]", "ja": "知らない方がいいって ;)\\tts[知らない方がいいって ;)]"}
+{"sec": "map:846", "key": "TERRA: \"But queen! O my queen of b00ty,\" the people call, eyes sparkled over with equal parts adoration and and deeto dust,\\tts[TERRA: \"But queen! O my queen of booty,\" the people call, eyes sparkled over with equal parts adoration and and deeto dust,]", "en": "TERRA: \"But queen! O my queen of b00ty,\" the people call, eyes sparkled over with equal parts adoration and and deeto dust,\\tts[TERRA: \"But queen! O my queen of booty,\" the people call, eyes sparkled over with equal parts adoration and and deeto dust,]", "ja": "テラ: 「でも女王様! ああ、お尻の女王様!」と人々は呼びかける、その瞳は憧れとメタモンの粉ちりとで等しくきらめきながら、\\tts[テラ: 「でも女王様! ああ、お尻の女王様!」と人々は呼びかける、その瞳は憧れとメタモンの粉ちりとで等しくきらめきながら、]"}
+{"sec": "map:846", "key": "\"Where did you get a Ditto?!\"", "en": "\"Where did you get a Ditto?!\"", "ja": "「そのメタモン、どこで手に入れたんですか!?」"}
+{"sec": "map:846", "key": "OBVIOUSLY I stole it from El1as.", "en": "OBVIOUSLY I stole it from El1as.", "ja": "そんなん、決まってるじゃん、イライアスから盗んだの。"}
+{"sec": "map:846", "key": "duh.", "en": "duh.", "ja": "当然っしょ。"}
+{"sec": "map:846", "key": "DITTO, BEGIN MAHOU SHOUJO TRANSFORMATION SEQUENCE!", "en": "DITTO, BEGIN MAHOU SHOUJO TRANSFORMATION SEQUENCE!", "ja": "メタモン、魔法少女変身シーケンス開始!"}
+{"sec": "map:846", "key": "HOP, STEP, JUMP! FOR THE HONOR OF MOON CRYSTAL DUAL SPIRITUAL RAISING HEART HONEY FLASH METAMORPHOSE RELEASE~!!!", "en": "HOP, STEP, JUMP! FOR THE HONOR OF MOON CRYSTAL DUAL SPIRITUAL RAISING HEART HONEY FLASH METAMORPHOSE RELEASE~!!!", "ja": "ホップ、ステップ、ジャンプ! ムーン・クリスタル・デュアル・スピリチュアル・レイジングハート・ハニーフラッシュ・メタモルフォーゼ・リリースの名において～!!!"}
+{"sec": "map:846", "key": "TERRA: SQUAD 69, LET'S M0VE OUT!\\tts[TERRA: SQUAD 69, LET'S MOVE OUT!]", "en": "TERRA: SQUAD 69, LET'S M0VE OUT!\\tts[TERRA: SQUAD 69, LET'S MOVE OUT!]", "ja": "テラ: 分隊69、出撃するわよ!\\tts[テラ: 分隊69、出撃するわよ!]"}
+{"sec": "map:846", "key": "TERRA: drop them walls like i drop them beatz", "en": "TERRA: drop them walls like i drop them beatz", "ja": "テラ: アタシがビートを落とすみたいに、その壁も落としてやる"}
+{"sec": "map:846", "key": "RAWWWWWWRRRRRRR!!!!!", "en": "RAWWWWWWRRRRRRR!!!!!", "ja": "ガアアアアアアアアアアア!!!!!"}
+{"sec": "map:846", "key": "TERRA: wa1twa1twa1t hol' up this wasn't in the m4nual\\tts[TERRA: wait wait wait hol' up this wasn't in the manual]", "en": "TERRA: wa1twa1twa1t hol' up this wasn't in the m4nual\\tts[TERRA: wait wait wait hol' up this wasn't in the manual]", "ja": "テラ: ちょまちょまちょま待って、これマニュアルになかったんだけど\\tts[テラ: ちょっと待って待って待って、これマニュアルになかったんだけど]"}
+{"sec": "map:846", "key": "S0me0ne tell me what the 4unky 4resh 4uck is goin' on here!!!\\tts[Someone tell me what the funky fresh fuck is goin' on here!!!]", "en": "S0me0ne tell me what the 4unky 4resh 4uck is goin' on here!!!\\tts[Someone tell me what the funky fresh fuck is goin' on here!!!]", "ja": "誰かここで何がどうファンキーフレッシュに起こってんのか教えて!!!\\tts[誰かここで何がどうファンキーフレッシュに起こってんのか教えて!!!]"}
+{"sec": "map:846", "key": "LIN: calm your tits, terra.", "en": "LIN: calm your tits, terra. ", "ja": "リン: 落ち着きなさい、テラ。"}
+{"sec": "map:846", "key": "i'm just turning on the megaphone to say 'thanks' for a sec.", "en": "i'm just turning on the megaphone to say 'thanks' for a sec.", "ja": "ちょっとメガホンつけて『ありがとう』って言うだけだから。"}
+{"sec": "map:846", "key": "TERRA: Oh, hayy gurl supp", "en": "TERRA: Oh, hayy gurl supp", "ja": "テラ: あ、よっす、調子どう"}
+{"sec": "map:846", "key": "TATAS: HAKUNA'D", "en": "TATAS: HAKUNA'D", "ja": "タタス: ハクナ完了"}
+{"sec": "map:846", "key": "wat megaphone tho", "en": "wat megaphone tho", "ja": "つーかメガホンって何"}
+{"sec": "map:846", "key": "LIN: you know, spooky new world arceus powers?", "en": "LIN: you know, spooky new world arceus powers?", "ja": "リン: ほら、不気味なニューワールドのアルセウスパワーってやつ?"}
+{"sec": "map:846", "key": "TERRA: The uzhe then.", "en": "TERRA: The uzhe then.", "ja": "テラ: いつものやつね"}
+{"sec": "map:846", "key": "LIN: it's easier than trying to speak through \\PN, anyway.", "en": "LIN: it's easier than trying to speak through \\PN, anyway.", "ja": "リン: とにかく、\\PNを通してしゃべろうとするより楽だし。"}
+{"sec": "map:846", "key": "you know how much effort it is to manage fine motor movement through dialogue choices?", "en": "you know how much effort it is to manage fine motor movement through dialogue choices?", "ja": "選択肢を通して細かい動きをコントロールするのに、どれだけ手間かかるか知ってる?"}
+{"sec": "map:846", "key": "swear i was gonna yeet that aevium girl for SO many reasons.", "en": "swear i was gonna yeet that aevium girl for SO many reasons. ", "ja": "マジで、あのエイビウムの女、色んな理由でぶん投げてやろうと思ってたんだから。"}
+{"sec": "map:846", "key": "TERRA: waitbackup", "en": "TERRA: waitbackup", "ja": "テラ: ちょっと待って戻って"}
+{"sec": "map:846", "key": "wh4444t do y0u mean 'speak through \\PN' tho\\tts[whaaaat do you mean 'speak through \\PN' tho]", "en": "wh4444t do y0u mean 'speak through \\PN' tho\\tts[whaaaat do you mean 'speak through \\PN' tho]", "ja": "『\\PNを通してしゃべる』って、どういうことおおお\\tts[『\\PNを通してしゃべる』って、どういうことおおお]"}
+{"sec": "map:846", "key": "LIN: oh yeah, forgot to tell you, \\PN's just like the other doll.", "en": "LIN: oh yeah, forgot to tell you, \\PN's just like the other doll.", "ja": "リン: あ、そうだ、言い忘れてたけど、\\PNもあの人形と同じなの。"}
+{"sec": "map:846", "key": "surprise~!", "en": "surprise~!", "ja": "サプラーイズ～!"}
+{"sec": "map:846", "key": "TERRA: \\PN is WAT", "en": "TERRA: \\PN is WAT", "ja": "テラ: \\PNがナニ"}
+{"sec": "map:846", "key": "LIN: ok, seriously, chill", "en": "LIN: ok, seriously, chill", "ja": "リン: はいはい、マジで落ち着いて"}
+{"sec": "map:846", "key": "TERRA: ...", "en": "TERRA: ...", "ja": "テラ: …"}
+{"sec": "map:846", "key": "LIN: ...", "en": "LIN: ...", "ja": "リン: …"}
+{"sec": "map:846", "key": "LIN: omfg.", "en": "LIN: omfg.", "ja": "リン: マジかんべんして。"}
+{"sec": "map:846", "key": "TERRA: awh, cmon, u know u wub me <333", "en": "TERRA: awh, cmon, u know u wub me <333", "ja": "テラ: えー、やだなー、アタシのこと好きなくせに <333"}
+{"sec": "map:846", "key": "LIN: keep telling yourself that.", "en": "LIN: keep telling yourself that.", "ja": "リン: そう思い込んでれば?"}
+{"sec": "map:846", "key": "like, for a dilapidated clown, you could be worse.", "en": "like, for a dilapidated clown, you could be worse.", "ja": "まあ、ボロボロのピエロにしては、もっと酷くてもおかしくないし。"}
+{"sec": "map:846", "key": "TERRA: das what i like to hear B)", "en": "TERRA: das what i like to hear B)", "ja": "テラ: それそれ、それが聞きたかったのよ B)"}
+{"sec": "map:846", "key": "LIN: but your memes are as old as you act, and i'm one more over-clocked 'rawr' from bleeding out my ears.", "en": "LIN: but your memes are as old as you act, and i'm one more over-clocked 'rawr' from bleeding out my ears.", "ja": "リン: でもあんたのネタ、その言動と同じくらい古臭いし、あとひとつオーバークロックした『ガアア』で耳から血が出そう。"}
+{"sec": "map:846", "key": "B(", "en": "B(", "ja": "B("}
+{"sec": "map:846", "key": "LIN: but it's not like you're all bad.", "en": "LIN: but it's not like you're all bad.", "ja": "リン: でも、あんたが全部ダメってわけでもないし。"}
+{"sec": "map:846", "key": "B-Sides, if \\PN is you, you already said you appr0ved of my bananagins\\tts[B-Sides, if \\PN is you, you already said you approved of my bananagins]", "en": "B-Sides, if \\PN is you, you already said you appr0ved of my bananagins\\tts[B-Sides, if \\PN is you, you already said you approved of my bananagins]", "ja": "ってか、\\PNがあんただっていうなら、アタシのバナナ狂騒には賛成済みってことじゃん\\tts[ってか、\\PNがあんただっていうなら、アタシのバナナ狂騒には賛成済みってことじゃん]"}
+{"sec": "map:846", "key": "NO TAKE-BACKSIES OR ELSE, RAWWWWRRRR!!!!", "en": "NO TAKE-BACKSIES OR ELSE, RAWWWWRRRR!!!!", "ja": "撤回はナシ、じゃなきゃガアアアアアア!!!!"}
+{"sec": "map:846", "key": "LIN: ugh.", "en": "LIN: ugh.", "ja": "リン: うわ。"}
+{"sec": "map:846", "key": "i only said that because you were all depressed and boring at the time.", "en": "i only said that because you were all depressed and boring at the time.", "ja": "あの時あんたが落ち込んでてつまんなかったから、言っただけなんだけど。"}
+{"sec": "map:846", "key": "don't make me regret it, ok?", "en": "don't make me regret it, ok?", "ja": "後悔させないでよね、いい?"}
+{"sec": "map:846", "key": "TERRA: N0 CAN D0\\tts[TERRA: NO CAN DO]", "en": "TERRA: N0 CAN D0\\tts[TERRA: NO CAN DO]", "ja": "テラ: それはデキナイ\\tts[テラ: それはデキナイ]"}
+{"sec": "map:846", "key": "THIS TRAIN HAS ONLY 0NE STOP, AND IT'S AT REGRETVILLE STATI0N\\tts[THIS TRAIN HAS ONLY ONE STOP, AND it's AT REGRETVILLE STATION]", "en": "THIS TRAIN HAS ONLY 0NE STOP, AND IT'S AT REGRETVILLE STATI0N\\tts[THIS TRAIN HAS ONLY ONE STOP, AND it's AT REGRETVILLE STATION]", "ja": "この電車の停車駅はひとつだけ、リグレットヴィル駅よ\\tts[この電車の停車駅はひとつだけ、リグレットヴィル駅よ]"}
+{"sec": "map:846", "key": "LIN: already live there, thanks.", "en": "LIN: already live there, thanks.", "ja": "リン: もうそこ住んでるし、どうも。"}
+{"sec": "map:846", "key": "...anyway, it's not like you're all bad.", "en": "...anyway, it's not like you're all bad.", "ja": "…とにかく、あんたが全部ダメってわけでもないから。"}
+{"sec": "map:846", "key": "even an ugly, worthless nerd like you managed to be more interesting and helpful than, like, 90% of the other people in this cracked-up region.", "en": "even an ugly, worthless nerd like you managed to be more interesting and helpful than, like, 90% of the other people in this cracked-up region.", "ja": "あんたみたいな不細工で役立たずのオタクでも、このイカれた地方の他の連中の9割よりは、面白くて役に立ってるし。"}
+{"sec": "map:846", "key": "...ugh, why'd you make me go and roast you?", "en": "...ugh, why'd you make me go and roast you?", "ja": "…うわ、なんであんたのことこき下ろさせるようなことさせるのよ?"}
+{"sec": "map:846", "key": "i was trying to have, like, a vulnerable moment here?", "en": "i was trying to have, like, a vulnerable moment here?", "ja": "こっちはこう、素直な瞬間を作ろうとしてたんだけど?"}
+{"sec": "map:846", "key": "i was going to say i appreciated you being the one person who actually took my side.", "en": "i was going to say i appreciated you being the one person who actually took my side.", "ja": "本当にアタシの味方をしてくれた唯一の人だってこと、感謝してるって言おうとしてたのに。"}
+{"sec": "map:846", "key": "you're even here helping out with zygarde and you didn't have to be.", "en": "you're even here helping out with zygarde and you didn't have to be.", "ja": "しなくてもよかったのに、ジガルデのことまで手伝いに来てくれてるし。"}
+{"sec": "map:846", "key": "so, uh,", "en": "so, uh,", "ja": "だから、その、"}
+{"sec": "map:846", "key": "thanks", "en": "thanks", "ja": "ありがと"}
+{"sec": "map:846", "key": "or whatever.", "en": "or whatever.", "ja": "とか、まあなんでもいいけど。"}
+{"sec": "map:846", "key": "TERRA: sry what the font cut out.", "en": "TERRA: sry what the font cut out.", "ja": "テラ: ごめん、フォント切れて聞こえなかった。"}
+{"sec": "map:846", "key": "LIN: ...i was trying to say,", "en": "LIN: ...i was trying to say,", "ja": "リン: …だから言おうとしてたのは、"}
+{"sec": "map:846", "key": "thanks for standing by me", "en": "thanks for standing by me", "ja": "アタシのそばにいてくれてありがとう"}
+{"sec": "map:846", "key": "TERRA: sorry what the font cut out again", "en": "TERRA: sorry what the font cut out again", "ja": "テラ: ごめん、また聞こえなかった"}
+{"sec": "map:846", "key": "LIN: oh my GOD, i said", "en": "LIN: oh my GOD, i said", "ja": "リン: もう、マジで、だから言ったの"}
+{"sec": "map:846", "key": "THANKS FOR BEING THE ONE TO STAND BY ME", "en": "THANKS FOR BEING THE ONE TO STAND BY ME", "ja": "アタシのそばにいてくれてありがとうって"}
+{"sec": "map:846", "key": "did the stupid font work this time", "en": "did the stupid font work this time", "ja": "今度はそのバカなフォント、ちゃんと聞こえた?"}
+{"sec": "map:846", "key": "TERRA: no sorry", "en": "TERRA: no sorry", "ja": "テラ: ごめん、無理"}
+{"sec": "map:846", "key": "LIN: i should delete you again", "en": "LIN: i should delete you again", "ja": "リン: もう一回消去した方がいいかも"}
+{"sec": "map:846", "key": "TERRA: ye pr0b4bly.\\tts[TERRA: ye probably.]", "en": "TERRA: ye pr0b4bly.\\tts[TERRA: ye probably.]", "ja": "テラ: そだね、多分。\\tts[テラ: そだね、多分。]"}
+{"sec": "map:846", "key": "LIN: whatEVER.", "en": "LIN: whatEVER.", "ja": "リン: もういい。"}
+{"sec": "map:846", "key": "i'm taking my zygarde back now, thanks.", "en": "i'm taking my zygarde back now, thanks.", "ja": "ジガルデ、返してもらうから、どうも。"}
+{"sec": "map:846", "key": "i was GONNA do the thing where i show up and say edgy words and then anomalize it just for funsies, but i don't even know if i feel like it anymore.", "en": "i was GONNA do the thing where i show up and say edgy words and then anomalize it just for funsies, but i don't even know if i feel like it anymore.", "ja": "登場してとがった台詞を言って、面白半分でアノーマライズするつもりだったんだけど、もうそんな気分かどうかも分かんなくなってきた。"}
+{"sec": "map:846", "key": "should i?", "en": "should i?", "ja": "やる?"}
+{"sec": "map:846", "key": "LIN: i mean, i guess i may as well.", "en": "LIN: i mean, i guess i may as well.", "ja": "リン: まあ、やっちゃったほうがいいか。"}
+{"sec": "map:846", "key": "what else am i gonna do, play some other game?", "en": "what else am i gonna do, play some other game?", "ja": "他に何すんのよ、別のゲームでもやれって?"}
+{"sec": "map:846", "key": "you can stay out of this, terra.", "en": "you can stay out of this, terra.", "ja": "テラ、あんたは口出さないでいいから。"}
+{"sec": "map:846", "key": "i have protagonist stuff to do.", "en": "i have protagonist stuff to do.", "ja": "アタシには主人公としてやることがあるの。"}
+{"sec": "map:846", "key": "bippity bomaly, you're now an anomaly!", "en": "bippity bomaly, you're now an anomaly!", "ja": "びっぴてぃ・ぼまりー、あんたは今アノマリーになった!"}
+{"sec": "map:846", "key": "LIN: anyway, the megaphone battery is dying again, so i'm gonna go charge it", "en": "LIN: anyway, the megaphone battery is dying again, so i'm gonna go charge it", "ja": "リン: とにかく、メガホンの電池がまた切れそうだから、充電しに行くわ"}
+{"sec": "map:846", "key": "LIN: ...yeah, what's even the point.", "en": "LIN: ...yeah, what's even the point.", "ja": "リン: …まあ、意味あるのかって話だけど。"}
+{"sec": "map:846", "key": "anyway, the megaphone battery is dying again, so i'm gonna go charge it", "en": "anyway, the megaphone battery is dying again, so i'm gonna go charge it", "ja": "とにかく、メガホンの電池がまた切れそうだから、充電しに行くわ"}
+{"sec": "map:846", "key": "swear to god, arceus runs on AAAs.", "en": "swear to god, arceus runs on AAAs.", "ja": "マジで、アルセウスって単三電池で動いてるらしいから。"}
+{"sec": "map:846", "key": "and i'm not talking about gamefreak.", "en": "and i'm not talking about gamefreak.", "ja": "ゲームフリークの話じゃないから。"}
+{"sec": "map:846", "key": "i'm still listening though, so don't talk smack!", "en": "i'm still listening though, so don't talk smack!", "ja": "でもちゃんと聞いてるから、陰口たたかないでよね!"}
+{"sec": "map:846", "key": "byeeee", "en": "byeeee", "ja": "ばいばーい"}
+{"sec": "map:846", "key": "TERRA: sm4ck sm4ck sm4ck sm4ck sm4ck sm4ck", "en": "TERRA: sm4ck sm4ck sm4ck sm4ck sm4ck sm4ck ", "ja": "テラ: 陰口 陰口 陰口 陰口 陰口 陰口"}
+{"sec": "map:846", "key": "LIN: okay, what did i JUST say", "en": "LIN: okay, what did i JUST say", "ja": "リン: はい、今なんて言ったばっかり?"}
+{"sec": "map:846", "key": "ZYGARDE: Gyaaaaar!!!!", "en": "ZYGARDE: Gyaaaaar!!!!", "ja": "ジガルデ: ギャアアアア!!!!"}
+{"sec": "map:846", "key": "LIN: UGH, i GUESS we can't just leave zygarde there forever", "en": "LIN: UGH, i GUESS we can't just leave zygarde there forever", "ja": "リン: うわ、ジガルデをそのまま放っておくわけにもいかないか"}
+{"sec": "map:846", "key": "fine, you're off the hook this time.", "en": "fine, you're off the hook this time.", "ja": "しゃーない、今回は見逃してあげる。"}
+{"sec": "map:846", "key": "but next time, i'm yeeting you directly into Pokémon Pinball.", "en": "but next time, i'm yeeting you directly into Pokémon Pinball.", "ja": "でも次はあんたを直接ポケモンピンボールにぶち込んでやるから。"}
+{"sec": "map:846", "key": "the original! not even the RSE version!", "en": "the original! not even the RSE version!", "ja": "オリジナルの方よ!RSE版ですらない!"}
+{"sec": "map:846", "key": "okay BYE", "en": "okay BYE", "ja": "はい、バイ"}
+{"sec": "map:846", "key": "Zaarrgh-", "en": "Zaarrgh-", "ja": "ザアアアグ―"}
+{"sec": "map:846", "key": "ZYGARDE: Zaaar!!!", "en": "ZYGARDE: Zaaar!!!", "ja": "ジガルデ: ザアアア!!!"}
+{"sec": "map:846", "key": "TERRA: OK NOPE", "en": "TERRA: OK NOPE", "ja": "テラ: いや、無理"}
+{"sec": "map:846", "key": "TH4T's EN0ugh 0UT OF Y0U BUSTER\\tts[THAT'S ENOUGH OUT OF YOU BUSTER]", "en": "TH4T's EN0ugh 0UT OF Y0U BUSTER\\tts[THAT'S ENOUGH OUT OF YOU BUSTER]", "ja": "アンタもういい加減にしなさいよ\\tts[アンタもういい加減にしなさいよ]"}
+{"sec": "map:846", "key": "GET BACK IN UR BALL OR I'LL BE FORCED TO RAWR ALL OVER U WITH LETHAL 4CE.\\tts[GET BACK IN ur BALL OR I'LL BE FORCED TO RAWR ALL OVER U WITH LETHAL FORCE.]", "en": "GET BACK IN UR BALL OR I'LL BE FORCED TO RAWR ALL OVER U WITH LETHAL 4CE.\\tts[GET BACK IN ur BALL OR I'LL BE FORCED TO RAWR ALL OVER U WITH LETHAL FORCE.]", "ja": "さっさとボールに戻りなさい、じゃなきゃ殺傷力全開でガアアアしなきゃいけなくなるから。\\tts[さっさとボールに戻りなさい、じゃなきゃ殺傷力全開でガアアアしなきゃいけなくなるから。]"}
+{"sec": "map:846", "key": "ZYGARDE: ...Zar?", "en": "ZYGARDE: ...Zar?", "ja": "ジガルデ: …ザル?"}
+{"sec": "map:846", "key": "TERRA: DON'T U 'ZAR' AT ME", "en": "TERRA: DON'T U 'ZAR' AT ME", "ja": "テラ: アタシに『ザル』とか言わないで"}
+{"sec": "map:846", "key": "0NLY ONE OF US IS ALLOWED TO MAKE VAGUELY ANGY-S0UNDING NO1SES ENDING IN 'AR'\\tts[ONLY ONE OF us is ALLOWED TO MAKE VAGUELY ANGY-SOUNDING NOISES ENDING IN 'AR']", "en": "0NLY ONE OF US IS ALLOWED TO MAKE VAGUELY ANGY-S0UNDING NO1SES ENDING IN 'AR'\\tts[ONLY ONE OF us is ALLOWED TO MAKE VAGUELY ANGY-SOUNDING NOISES ENDING IN 'AR']", "ja": "『アー』で終わる、微妙に怒ってる感じの声出していいのは、アタシたちのうちどっちか片方だけなの\\tts[『アー』で終わる、微妙に怒ってる感じの声出していいのは、アタシたちのうちどっちか片方だけなの]"}
+{"sec": "map:846", "key": "AND I DIDN'T FITE L10NS BEAR HANDED IN THE PITS OF THE KALOSIAN DESERT JUS7 T0 BE BOSSED AR0UND BY THE L1KES OF YOU.\\tts[AND I DIDN'T FITE LIONS BEAR HANDED IN THE PITS OF THE KALOSIAN DESERT JUST TO BE BOSSED AROUND BY THE LIKES OF YOU.]", "en": "AND I DIDN'T FITE L10NS BEAR HANDED IN THE PITS OF THE KALOSIAN DESERT JUS7 T0 BE BOSSED AR0UND BY THE L1KES OF YOU.\\tts[AND I DIDN'T FITE LIONS BEAR HANDED IN THE PITS OF THE KALOSIAN DESERT JUST TO BE BOSSED AROUND BY THE LIKES OF YOU.]", "ja": "それに、カロス砂漠の穴の中で素手でライオンと戦ってきたのは、あんたなんかに指図されるためじゃないんだから。\\tts[それに、カロス砂漠の穴の中で素手でライオンと戦ってきたのは、あんたなんかに指図されるためじゃないんだから。]"}
+{"sec": "map:846", "key": "NOW G0 GET IN THE BALL.\\tts[NOW GO GET IN THE BALL.]", "en": "NOW G0 GET IN THE BALL.\\tts[NOW GO GET IN THE BALL.]", "ja": "さっさとボールに入りなさい。\\tts[さっさとボールに入りなさい。]"}
+{"sec": "map:846", "key": "ZYGARDE: ...", "en": "ZYGARDE: ...", "ja": "ジガルデ: …"}
+{"sec": "map:846", "key": "ZYGARDE: Za???", "en": "ZYGARDE: Za???", "ja": "ジガルデ: ザ???"}
+{"sec": "map:846", "key": "TERRA: G1T.\\tts[TERRA: GIT.]", "en": "TERRA: G1T.\\tts[TERRA: GIT.]", "ja": "テラ: 行け。\\tts[テラ: 行け。]"}
+{"sec": "map:846", "key": "Zygarde eventually rejoins the party!", "en": "Zygarde eventually rejoins the party!", "ja": "ジガルデは、やがてパーティに戻った!"}
+{"sec": "map:846", "key": "TERRA: few!", "en": "TERRA: few!", "ja": "テラ: ふぅ!"}
+{"sec": "map:846", "key": "Gl4d that w0rked, cuz 1've never actually been to Kal0s.\\tts[Glad that worked, cuz i've never actually been to Kalos.]", "en": "Gl4d that w0rked, cuz 1've never actually been to Kal0s.\\tts[Glad that worked, cuz i've never actually been to Kalos.]", "ja": "うまくいってよかった、だってアタシ実はカロスなんて行ったことないし。\\tts[うまくいってよかった、だってアタシ実はカロスなんて行ったことないし。]"}
+{"sec": "map:846", "key": "And I sure d0n't have bears for hands!\\tts[And I sure don't have bears for hands!]", "en": "And I sure d0n't have bears for hands!\\tts[And I sure don't have bears for hands!]", "ja": "それに、アタシの手は熊なんかじゃ全然ないし!\\tts[それに、アタシの手は熊なんかじゃ全然ないし!]"}
+{"sec": "map:846", "key": "dummy zygarde.", "en": "dummy zygarde.", "ja": "ばかジガルデ。"}
+{"sec": "map:846", "key": "jus' don't think 2 hard about what happened 2 that ditto\\tts[jus don't think too hard about what happened to that ditto]", "en": "jus' don't think 2 hard about what happened 2 that ditto\\tts[jus don't think too hard about what happened to that ditto]", "ja": "あのメタモンがどうなったかは、あんまり深く考えないでね\\tts[あのメタモンがどうなったかは、あんまり深く考えないでね]"}
+{"sec": "map:846", "key": "OK T1ME FOR ME TO G0 RECONSIDER MY ENTIRE R0LE IN THIS ST0RY, BYE!!!!!!\\tts[OK TIME FOR ME TO GO RECONSIDER MY ENTIRE ROLE IN THIS STORY, BYE!!!!!!]", "en": "OK T1ME FOR ME TO G0 RECONSIDER MY ENTIRE R0LE IN THIS ST0RY, BYE!!!!!!\\tts[OK TIME FOR ME TO GO RECONSIDER MY ENTIRE ROLE IN THIS STORY, BYE!!!!!!]", "ja": "よし、このストーリーにおけるアタシの役割を、全部見つめ直す時間よ、バイ!!!!!!\\tts[よし、このストーリーにおけるアタシの役割を、全部見つめ直す時間よ、バイ!!!!!!]"}
+{"sec": "map:846", "key": "pleased0ntputme1npinballllllllll~\\tts[PleaseDon'tPutMeInPinballllllllll~]", "en": "pleased0ntputme1npinballllllllll~\\tts[PleaseDon'tPutMeInPinballllllllll~]", "ja": "おねがいだからピンボールにいれないでえええええ～\\tts[お願いだからピンボールに入れないでえええええ～]"}
+{"sec": "map:846", "key": "we firin' up that vaporwave????????", "en": "we firin' up that vaporwave????????", "ja": "ヴェイパーウェイヴかけちゃう???????"}
+{"sec": "map:846", "key": "ANNA: i suppose i should've expected the circus to come to town!", "en": "ANNA: i suppose i should've expected the circus to come to town!", "ja": "アンナ: サーカスが街にやってくるって、予想しとくべきだったわね!"}
+{"sec": "map:846", "key": "you two always were buddy-buddy, right?", "en": "you two always were buddy-buddy, right?", "ja": "あんたたち二人、いつも仲良しだったもんね?"}
+{"sec": "map:846", "key": "i suppose now you don't have any need to hide it.", "en": "i suppose now you don't have any need to hide it.", "ja": "もう隠す必要もないってことよね。"}
+{"sec": "map:846", "key": "it's a perfect match, really!", "en": "it's a perfect match, really!", "ja": "本当にお似合いのカップルだわ!"}
+{"sec": "map:846", "key": "TERRA: wat", "en": "TERRA: wat", "ja": "テラ: ナニ"}
+{"sec": "map:846", "key": "pls", "en": "pls", "ja": "やめて"}
+{"sec": "map:846", "key": "\\PN only bearly toler8s me\\tts[\\PN only bearly tolerates me]", "en": "\\PN only bearly toler8s me\\tts[\\PN only bearly tolerates me]", "ja": "\\PNはアタシのこと、ギリギリ我慢してくれてるだけなんですけどおお\\tts[\\PNはアタシのこと、ギリギリ我慢してくれてるだけなんですけどおお]"}
+{"sec": "map:846", "key": "i mean, obvs, \\PN already admitted he secretly appreciates my tomfoolery", "en": "i mean, obvs, \\PN already admitted he secretly appreciates my tomfoolery", "ja": "まあ、明らかに\\PNはもう、内心アタシのおふざけを楽しんでるって認めてるけど"}
+{"sec": "map:846", "key": "i mean, obvs, \\PN already admitted she secretly appreciates my tomfoolery", "en": "i mean, obvs, \\PN already admitted she secretly appreciates my tomfoolery", "ja": "まあ、明らかに\\PNはもう、内心アタシのおふざけを楽しんでるって認めてるけど"}
+{"sec": "map:846", "key": "i mean, obvs, \\PN already admitted they secretly appreciate my tomfoolery", "en": "i mean, obvs, \\PN already admitted they secretly appreciate my tomfoolery", "ja": "まあ、明らかに\\PNはもう、内心アタシのおふざけを楽しんでるって認めてるけど"}
+{"sec": "map:846", "key": "which i mean rly whoever tom is, he should know better by now but WHATEVER N0T MY PR0BLEM\\tts[which i mean rly whoever tom is, he should know better by now but WHATEVER NOT MY PROBLEM]", "en": "which i mean rly whoever tom is, he should know better by now but WHATEVER N0T MY PR0BLEM\\tts[which i mean rly whoever tom is, he should know better by now but WHATEVER NOT MY PROBLEM]", "ja": "つーかトムってやつが誰だか知らないけど、もういい加減わかってるはずでしょ、まあどうでもいいけど、アタシの問題じゃないし\\tts[つーかトムってやつが誰だか知らないけど、もういい加減わかってるはずでしょ、まあどうでもいいけど、アタシの問題じゃないし]"}
+{"sec": "map:846", "key": "BUT TOM WOULD NEVER APPROVE OF OUR L0VE\\tts[BUT TOM WOULD NEVER APPROVE OF OUR LOVE]", "en": "BUT TOM WOULD NEVER APPROVE OF OUR L0VE\\tts[BUT TOM WOULD NEVER APPROVE OF OUR LOVE]", "ja": "でもトムは絶対アタシたちの愛を認めてくれない\\tts[でもトムは絶対アタシたちの愛を認めてくれない]"}
+{"sec": "map:846", "key": "ANNA: uh huh.", "en": "ANNA: uh huh.", "ja": "アンナ: ふーん。"}
+{"sec": "map:846", "key": "someone really should've put both of you in time-out ages ago!", "en": "someone really should've put both of you in time-out ages ago!", "ja": "誰かがとっくの昔に、あんたたち二人をお仕置き部屋に入れとくべきだったわね!"}
+{"sec": "map:846", "key": "but it's okay!", "en": "but it's okay!", "ja": "でも大丈夫!"}
+{"sec": "map:846", "key": "it's not too late.", "en": "it's not too late.", "ja": "まだ遅くないから。"}
+{"sec": "map:846", "key": "TERRA: WAT.", "en": "TERRA: WAT.", "ja": "テラ: ナニ。"}
+{"sec": "map:846", "key": "WA1T\\tts[WAIT]", "en": "WA1T\\tts[WAIT]", "ja": "待っ\\tts[待って]"}
+{"sec": "map:846", "key": "Th4t's alr34dy \\PN's P0kém0ntage!\\tts[That's already \\PN's Pokémontage!]", "en": "Th4t's alr34dy \\PN's P0kém0ntage!\\tts[That's already \\PN's Pokémontage!]", "ja": "それもうすでに\\PNのポケモンテージじゃん!\\tts[それもうすでに\\PNのポケモンテージじゃん!]"}
+{"sec": "map:846", "key": "Y0U CAn't JUST MaKE OthER pEOPLE's POCKET MONDAYS WH1TE KAREN", "en": "Y0U CAn't JUST MaKE OthER pEOPLE's POCKET MONDAYS WH1TE KAREN ", "ja": "他人のポケットマンデーを勝手に白くしないでよね、カレン"}
+{"sec": "map:846", "key": "ANNA: i can't?", "en": "ANNA: i can't?", "ja": "アンナ: できないの?"}
+{"sec": "map:846", "key": "TERRA: NO!!!!!", "en": "TERRA: NO!!!!!", "ja": "テラ: 違う!!!!!"}
+{"sec": "map:846", "key": "ANNA: then how did i just do that?", "en": "ANNA: then how did i just do that?", "ja": "アンナ: じゃあ今のは何をしたのかしら?"}
+{"sec": "map:846", "key": "TERRA: WTF HAXOR", "en": "TERRA: WTF HAXOR", "ja": "テラ: はぁ?ハクサー"}
+{"sec": "map:846", "key": "ANNA: you both have a penchant for wanton and reckless destruction for the sole purpose of your own amusements.", "en": "ANNA: you both have a penchant for wanton and reckless destruction for the sole purpose of your own amusements.", "ja": "アンナ: あんたたち二人とも、自分たちの楽しみのためだけに、無軌道で無謀な破壊をする癖があるのよね。"}
+{"sec": "map:846", "key": "it's time someone brought an end to it.", "en": "it's time someone brought an end to it.", "ja": "そろそろ誰かが、それに終止符を打つ時よ。"}
+{"sec": "map:846", "key": "also why does anna think ur lin lol", "en": "also why does anna think ur lin lol", "ja": "つーかなんでアンナ、あんたのことリンだと思ってんの、ｗ"}
+{"sec": "map:846", "key": "is it bcuz ur secretly lin", "en": "is it bcuz ur secretly lin", "ja": "実は隠れリンだから?"}
+{"sec": "map:846", "key": "TERRA: hmmmm", "en": "TERRA: hmmmm", "ja": "テラ: んー"}
+{"sec": "map:846", "key": "nah", "en": "nah", "ja": "いや"}
+{"sec": "map:846", "key": "TERRA: sus", "en": "TERRA: sus", "ja": "テラ: あやしい"}
+{"sec": "map:846", "key": "OK T1ME FOR ME TO G0, BYE, YOU'RE WELCOME!!!!!!\\tts[OK TIME FOR ME TO GO, BYE, YOU'RE WELCOME!!!!!!]", "en": "OK T1ME FOR ME TO G0, BYE, YOU'RE WELCOME!!!!!!\\tts[OK TIME FOR ME TO GO, BYE, YOU'RE WELCOME!!!!!!]", "ja": "よし、アタシはもう行く時間、バイ、どういたしまして!!!!!!\\tts[よし、アタシはもう行く時間、バイ、どういたしまして!!!!!!]"}
+{"sec": "map:846", "key": "RAWWWWWWWWWWWWR~", "en": "RAWWWWWWWWWWWWR~", "ja": "ガアアアアアアアアアアアア～"}
+{"sec": "map:846", "key": "ACTIVATING SECURITY MECHANISM", "en": "ACTIVATING SECURITY MECHANISM", "ja": "セキュリティ機構を起動中"}
+{"sec": "map:846", "key": "DO YOU WANT TO SKIP THIS TILE PUZZLE?", "en": "DO YOU WANT TO SKIP THIS TILE PUZZLE?", "ja": "このタイルパズルをスキップしますか?"}
+{"sec": "map:846", "key": "FINAL SECURITY UNLOCKED", "en": "FINAL SECURITY UNLOCKED", "ja": "最終セキュリティ解除"}
+{"sec": "map:846", "key": "Yes", "en": "Yes", "ja": "はい"}
+{"sec": "map:846", "key": "No", "en": "No", "ja": "いいえ"}
+{"sec": "map:846", "key": "Help!", "en": "Help!", "ja": "助けて!"}
+{"sec": "map:846", "key": "Help.", "en": "Help.", "ja": "助けて。"}
+{"sec": "map:846", "key": "Help!?", "en": "Help!?", "ja": "助けて!?"}

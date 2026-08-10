@@ -1,0 +1,533 @@
+{"sec": "map:324", "key": "Locked.", "en": "Locked.", "ja": "鍵がかかっている。"}
+{"sec": "map:324", "key": "--POKÉMON PSYCHOLOGY--", "en": "--POKÉMON PSYCHOLOGY--", "ja": "――ポケモン心理学――"}
+{"sec": "map:324", "key": "I've got the rarest wares around! Wanna take a look?", "en": "I've got the rarest wares around! Wanna take a look?", "ja": "一番レアな品そろえだぜ! 見てくか?"}
+{"sec": "map:324", "key": "Heh, whaddya mean it's all junk?", "en": "Heh, whaddya mean it's all junk?", "ja": "へっ、全部ガラクタってどういう意味だよ?"}
+{"sec": "map:324", "key": "Ah, you're that trainer what helped Arclight, innit?", "en": "Ah, you're that trainer what helped Arclight, innit?", "ja": "ああ、お前、アークライトを助けたトレーナーだろ?"}
+{"sec": "map:324", "key": "Thanks for that.", "en": "Thanks for that.", "ja": "ありがとよ。"}
+{"sec": "map:324", "key": "We're rounding up some final evidence to use against the rest of those who were involved in illegal Pokémon trafficking.", "en": "We're rounding up some final evidence to use against the rest of those who were involved in illegal Pokémon trafficking.", "ja": "違法ポケモン取引に関わった残りの連中を追い詰めるための、最後の証拠集めをしてるとこだ。"}
+{"sec": "map:324", "key": "You can sleep tight and be sure that we'll wrap this up tight so that no one ever has to suffer again.", "en": "You can sleep tight and be sure that we'll wrap this up tight so that no one ever has to suffer again.", "ja": "もう誰も苦しまなくて済むように、きっちりケリをつけるから、安心してくれ。"}
+{"sec": "map:324", "key": "By the by, I heard what you did in returning everybody to the owners we could track down.", "en": "By the by, I heard what you did in returning everybody to the owners we could track down.", "ja": "ところで、追跡できた飼い主全員に返してやったって話、聞いたぜ。"}
+{"sec": "map:324", "key": "Mighty admirable, that, but I'm sure it can't have been a quick and easy job.", "en": "Mighty admirable, that, but I'm sure it can't have been a quick and easy job.", "ja": "大したもんだが、簡単な仕事じゃなかっただろうな。"}
+{"sec": "map:324", "key": "You deserve to be rewarded for ever having done it, don't you think?", "en": "You deserve to be rewarded for ever having done it, don't you think?", "ja": "それをやり遂げたんだから、報われて当然だと思わないか?"}
+{"sec": "map:324", "key": "Next time someone asks you for a password, try telling them \"freemegaz\".", "en": "Next time someone asks you for a password, try telling them \"freemegaz\".", "ja": "今度誰かにパスワードを聞かれたら、「freemegaz」って言ってみな。"}
+{"sec": "map:324", "key": "Using that, you can have that fancy Ring gizmet what Arc passed you from frame 1.", "en": "Using that, you can have that fancy Ring gizmet what Arc passed you from frame 1.", "ja": "それを使えば、アークが最初にくれた例のリング状の装置が手に入るぜ。"}
+{"sec": "map:324", "key": "Enjoy now, friend!", "en": "Enjoy now, friend!", "ja": "楽しんでくれよ、相棒!"}
+{"sec": "map:324", "key": "Buy somethin'!", "en": "Buy somethin'! ", "ja": "何か買ってけ!"}
+{"sec": "map:324", "key": "This stuff is worth tons, I'm tellin' ya!", "en": "This stuff is worth tons, I'm tellin' ya!", "ja": "こいつはめちゃくちゃ値打ちものだぜ、マジな話!"}
+{"sec": "map:324", "key": "Ability Capsules! Selling Ability Capsules!", "en": "Ability Capsules! Selling Ability Capsules!", "ja": "とくせいカプセル! とくせいカプセル販売中!"}
+{"sec": "map:324", "key": "The next one goes for 1 Red Shard!", "en": "The next one goes for 1 Red Shard!", "ja": "次のは、あかいかけら1個だ!"}
+{"sec": "map:324", "key": "The next one goes for \\v[180] Red Shards!", "en": "The next one goes for \\v[180] Red Shards!", "ja": "次のは、あかいかけら\\v[180]個だ!"}
+{"sec": "map:324", "key": "The next one goes for 1 Purple Shard!", "en": "The next one goes for 1 Purple Shard!", "ja": "次のは、むらさきのかけら1個だ!"}
+{"sec": "map:324", "key": "The next one goes for \\v[180] Purple Shards!", "en": "The next one goes for \\v[180] Purple Shards!", "ja": "次のは、むらさきのかけら\\v[180]個だ!"}
+{"sec": "map:324", "key": "The next one goes for 1 Blue Shard!", "en": "The next one goes for 1 Blue Shard!", "ja": "次のは、あおいかけら1個だ!"}
+{"sec": "map:324", "key": "The next one goes for \\v[180] Blue Shards!", "en": "The next one goes for \\v[180] Blue Shards!", "ja": "次のは、あおいかけら\\v[180]個だ!"}
+{"sec": "map:324", "key": "The next one goes for 1 Green Shard!", "en": "The next one goes for 1 Green Shard!", "ja": "次のは、みどりのかけら1個だ!"}
+{"sec": "map:324", "key": "The next one goes for \\v[180] Green Shards!", "en": "The next one goes for \\v[180] Green Shards!", "ja": "次のは、みどりのかけら\\v[180]個だ!"}
+{"sec": "map:324", "key": "Take it or leave it!?", "en": "Take it or leave it!?", "ja": "買うか買わないか、どっちだ!?"}
+{"sec": "map:324", "key": "We have a deal!", "en": "We have a deal!", "ja": "取引成立だ!"}
+{"sec": "map:324", "key": "Selling Ability Capsules! Who wants another?!", "en": "Selling Ability Capsules! Who wants another?!", "ja": "とくせいカプセル販売中! もう一個どうだ?!"}
+{"sec": "map:324", "key": "Looks like you do NOT have the goods! Swing and a miss, but try again later!", "en": "Looks like you do NOT have the goods! Swing and a miss, but try again later!", "ja": "品物が足りないみたいだな! 空振りだ、また今度な!"}
+{"sec": "map:324", "key": "Selling Ability Capsules! Who wants 'em!?", "en": "Selling Ability Capsules! Who wants 'em!?", "ja": "とくせいカプセル販売中! 欲しい奴はいるか!?"}
+{"sec": "map:324", "key": "Hello! Care to introduce your Pokémon to one of our special techniques?", "en": "Hello! Care to introduce your Pokémon to one of our special techniques?", "ja": "こんにちは! お前のポケモンに、うちの特別な技を教えてみないか?"}
+{"sec": "map:324", "key": "What suits your fancy?", "en": "What suits your fancy?", "ja": "どれが気に入った?"}
+{"sec": "map:324", "key": "Water Pulse is gonna run you three Blue Shards.", "en": "Water Pulse is gonna run you three Blue Shards.", "ja": "みずのはどうは、あおいかけら3個だ。"}
+{"sec": "map:324", "key": "Come back when you've got it.", "en": "Come back when you've got it.", "ja": "そろったら、また来な。"}
+{"sec": "map:324", "key": "Perfect.", "en": "Perfect.", "ja": "完璧だ。"}
+{"sec": "map:324", "key": "Last Resort is gonna run you two Purple Shards.", "en": "Last Resort is gonna run you two Purple Shards.", "ja": "とっておきは、むらさきのかけら2個だ。"}
+{"sec": "map:324", "key": "Super Fang is gonna run you three Green Shards.", "en": "Super Fang is gonna run you three Green Shards.", "ja": "いかりのまえばは、みどりのかけら3個だ。"}
+{"sec": "map:324", "key": "Shock Wave is gonna run you three Red Shards.", "en": "Shock Wave is gonna run you three Red Shards.", "ja": "でんげきはは、あかいかけら3個だ。"}
+{"sec": "map:324", "key": "Any time, kid.", "en": "Any time, kid. ", "ja": "いつでもどうぞ、坊主。"}
+{"sec": "map:324", "key": "Welcome to my little shop!", "en": "Welcome to my little shop! ", "ja": "オレのちっちゃい店へようこそ!"}
+{"sec": "map:324", "key": "All these Pokémon are straight up for sale,", "en": "All these Pokémon are straight up for sale,", "ja": "ここのポケモンは、全部正真正銘の販売品だ、"}
+{"sec": "map:324", "key": "Provided you got the Shards for 'em, anyway.", "en": "Provided you got the Shards for 'em, anyway. ", "ja": "まあ、必要なかけらさえそろってりゃな。"}
+{"sec": "map:324", "key": "I got a strict confidentiality what-not policy:", "en": "I got a strict confidentiality what-not policy: ", "ja": "オレには厳格な守秘義務ってやつがあってな:"}
+{"sec": "map:324", "key": "I ain't tell where I get 'em, and I ain't tell where I sell 'em.", "en": "I ain't tell where I get 'em, and I ain't tell where I sell 'em. ", "ja": "どこで手に入れたかも、どこに売ったかも、口にはしない。"}
+{"sec": "map:324", "key": "That means you can be sure any deals we strike are completely secure.", "en": "That means you can be sure any deals we strike are completely secure. ", "ja": "つまり、オレたちの取引は完全に安全だってことだ。"}
+{"sec": "map:324", "key": "Look around, why don't you!", "en": "Look around, why don't you!", "ja": "ゆっくり見てけよ!"}
+{"sec": "map:324", "key": "Looks like I'm sold out for now.", "en": "Looks like I'm sold out for now. ", "ja": "今のところ、売り切れみたいだな。"}
+{"sec": "map:324", "key": "I'll be sure and get a new stock in one way or another.", "en": "I'll be sure and get a new stock in one way or another.", "ja": "何とかして、また新しい在庫を仕入れてくるさ。"}
+{"sec": "map:324", "key": "Vanillite waits sadly in the cage.", "en": "Vanillite waits sadly in the cage.", "ja": "バニプッチが、悲しげにおりの中で待っている。"}
+{"sec": "map:324", "key": "TRADER: You want Vanillite? I'll give it to you for three Purple Shards.", "en": "TRADER: You want Vanillite? I'll give it to you for three Purple Shards. ", "ja": "トレーダー: バニプッチが欲しいのか? むらさきのかけら3個でやるぜ。"}
+{"sec": "map:324", "key": "You gonna take it?", "en": "You gonna take it?", "ja": "買うか?"}
+{"sec": "map:324", "key": "Gracious. Thing's all yours.", "en": "Gracious. Thing's all yours.", "ja": "ありがたいこった。もうお前のもんだ。"}
+{"sec": "map:324", "key": "Loudred waits impatiently in the cage.", "en": "Loudred waits impatiently in the cage.", "ja": "ドゴームが、じれったそうにおりの中で待っている。"}
+{"sec": "map:324", "key": "TRADER: You want Loudred? I'll give it to you for five Blue Shards!", "en": "TRADER: You want Loudred? I'll give it to you for five Blue Shards!", "ja": "トレーダー: ドゴームが欲しいのか? あおいかけら5個でやるぜ!"}
+{"sec": "map:324", "key": "Cyndaquil waits calmly in the cage.", "en": "Cyndaquil waits calmly in the cage.", "ja": "ヒノアラシが、落ち着いた様子でおりの中で待っている。"}
+{"sec": "map:324", "key": "TRADER: You want Cyndaquil? I'll give it to you for nine Red Shards.", "en": "TRADER: You want Cyndaquil? I'll give it to you for nine Red Shards.", "ja": "トレーダー: ヒノアラシが欲しいのか? あかいかけら9個でやるぜ。"}
+{"sec": "map:324", "key": "Lickitung waits anxiously in the cage.", "en": "Lickitung waits anxiously in the cage.", "ja": "ベロリンガが、不安そうにおりの中で待っている。"}
+{"sec": "map:324", "key": "TRADER: You want Lickitung? I'll give it to you for seven Blue Shards.", "en": "TRADER: You want Lickitung? I'll give it to you for seven Blue Shards.", "ja": "トレーダー: ベロリンガが欲しいのか? あおいかけら7個でやるぜ。"}
+{"sec": "map:324", "key": "Makuhita stares blankly from the cage.", "en": "Makuhita stares blankly from the cage.", "ja": "マクノシタが、おりの中からぼんやりと見つめている。"}
+{"sec": "map:324", "key": "TRADER: You want Makuhita? I'll give it to you for three Green Shards.", "en": "TRADER: You want Makuhita? I'll give it to you for three Green Shards. ", "ja": "トレーダー: マクノシタが欲しいのか? みどりのかけら3個でやるぜ。"}
+{"sec": "map:324", "key": "Jigglypuff waits nervously in the cage.", "en": "Jigglypuff waits nervously in the cage.", "ja": "プリンが、そわそわしながらおりの中で待っている。"}
+{"sec": "map:324", "key": "TRADER: You want Jigglypuff? I'll give it to you for five Green Shards.", "en": "TRADER: You want Jigglypuff? I'll give it to you for five Green Shards. ", "ja": "トレーダー: プリンが欲しいのか? みどりのかけら5個でやるぜ。"}
+{"sec": "map:324", "key": "Abra sits patiently in the cage.", "en": "Abra sits patiently in the cage.", "ja": "ケーシィが、辛抱強くおりの中で座っている。"}
+{"sec": "map:324", "key": "TRADER: You want Abra? I'll give it to you for eight Purple Shards.", "en": "TRADER: You want Abra? I'll give it to you for eight Purple Shards. ", "ja": "トレーダー: ケーシィが欲しいのか? むらさきのかけら8個でやるぜ。"}
+{"sec": "map:324", "key": "Roggenrola waits morosely in the cage.", "en": "Roggenrola waits morosely in the cage.", "ja": "ダンゴロが、不機嫌そうにおりの中で待っている。"}
+{"sec": "map:324", "key": "TRADER: You want Roggenrola? I'll give it to you for three Red Shards.", "en": "TRADER: You want Roggenrola? I'll give it to you for three Red Shards.", "ja": "トレーダー: ダンゴロが欲しいのか? あかいかけら3個でやるぜ。"}
+{"sec": "map:324", "key": "Ditto swivels back and forth in the cage.", "en": "Ditto swivels back and forth in the cage.", "ja": "メタモンが、おりの中で前後に体をゆらしている。"}
+{"sec": "map:324", "key": "TRADER: You want Ditto? I'll give it to you for eight Green Shards.", "en": "TRADER: You want Ditto? I'll give it to you for eight Green Shards. ", "ja": "トレーダー: メタモンが欲しいのか? みどりのかけら8個でやるぜ。"}
+{"sec": "map:324", "key": "ARC: Hey. \\PN, right? Come over here.", "en": "ARC: Hey. \\PN, right? Come over here. ", "ja": "アーク: おい。\\PNだよな? こっち来い。"}
+{"sec": "map:324", "key": "ARC: You remember me? From the Nightclub.", "en": "ARC: You remember me? From the Nightclub.", "ja": "アーク: オレのこと覚えてるか? ナイトクラブの。"}
+{"sec": "map:324", "key": "Look, I've been keeping my eye on this place for a while. There's something fishy about it, yanno.", "en": "Look, I've been keeping my eye on this place for a while. There's something fishy about it, yanno. ", "ja": "なあ、しばらくここを見張ってたんだ。なんか怪しいんだよな。"}
+{"sec": "map:324", "key": "And I've seen you buy from this guy a few times, yeah? But you don't seem like his typical customer to me.", "en": "And I've seen you buy from this guy a few times, yeah? But you don't seem like his typical customer to me.", "ja": "それに、お前がこいつから何回か買ってるの見たけど、こいつの普通の客には見えないんだよな。"}
+{"sec": "map:324", "key": "???: Hey, you. Come here.", "en": "???: Hey, you. Come here. ", "ja": "???: おい、お前。こっち来い。"}
+{"sec": "map:324", "key": "Who are you? I've been keeping my eye on this place for a while, but you don't seem like this guy's typical customer to me.", "en": "Who are you? I've been keeping my eye on this place for a while, but you don't seem like this guy's typical customer to me.", "ja": "誰だ、お前? しばらくここを見張ってたんだけど、こいつの普通の客には見えないんだよな。"}
+{"sec": "map:324", "key": "\\PN, huh?", "en": "\\PN, huh?", "ja": "\\PNってわけか?"}
+{"sec": "map:324", "key": "Well, I'm Arclight- DJ Arclight, to be specific. I run the Nightclub up in the Obsidia Ward.", "en": "Well, I'm Arclight- DJ Arclight, to be specific. I run the Nightclub up in the Obsidia Ward. ", "ja": "まあ、オレはアークライト――正確にはDJアークライト。オブシディア地区でナイトクラブを経営してる。"}
+{"sec": "map:324", "key": "You can just call me Arc. Anyway.", "en": "You can just call me Arc. Anyway. ", "ja": "アークって呼んでくれ。それはさておき。"}
+{"sec": "map:324", "key": "I'm pretty sure that these Pokémon he's selling are stolen, and I ain't about that.", "en": "I'm pretty sure that these Pokémon he's selling are stolen, and I ain't about that. ", "ja": "こいつが売ってるポケモンは、盗品に間違いないと思ってる、オレはそういうのに関わりたくない。"}
+{"sec": "map:324", "key": "Most of his customers don't care a thing about Pokémon. They usually end up abusing them.", "en": "Most of his customers don't care a thing about Pokémon. They usually end up abusing them. ", "ja": "こいつの客のほとんどは、ポケモンのことなんてどうでもいいと思ってる。大抵、虐待する羽目になる。"}
+{"sec": "map:324", "key": "If these Pokémon really are stolen, it's probably hopeless to find their original owners, but, I figure at least we can get them to a good place.", "en": "If these Pokémon really are stolen, it's probably hopeless to find their original owners, but, I figure at least we can get them to a good place.", "ja": "もし本当にこいつらが盗まれたものなら、元の飼い主を見つけるのはたぶん絶望的だけど、少なくともいい場所に連れて行ってやれるとは思う。"}
+{"sec": "map:324", "key": "And I'm thinkin' you might be that good place.", "en": "And I'm thinkin' you might be that good place.", "ja": "それで、お前ならそのいい場所になれるんじゃないかって思ってる。"}
+{"sec": "map:324", "key": "So I'll tell you what, \\PN, I'm gonna leave it to you to buy up the rest of these guys. He won't sell to me; I've raised hell here in the past.", "en": "So I'll tell you what, \\PN, I'm gonna leave it to you to buy up the rest of these guys. He won't sell to me; I've raised hell here in the past.", "ja": "だからな、\\PN、残りの奴らを買い占めるのはお前に任せる。オレには売ってくれないんだ、前にここで大暴れしたことがあるからな。"}
+{"sec": "map:324", "key": "And once we've cleaned his stock, then I'll bust in and clean his clock.", "en": "And once we've cleaned his stock, then I'll bust in and clean his clock. ", "ja": "こいつの在庫を空にしたら、乗り込んでこいつをぶちのめしてやる。"}
+{"sec": "map:324", "key": "Make sure this guy gets shut down for good. Sound like a plan?", "en": "Make sure this guy gets shut down for good. Sound like a plan?", "ja": "こいつを完全に潰す。それでどうだ?"}
+{"sec": "map:324", "key": "I'm countin' on you.", "en": "I'm countin' on you. ", "ja": "頼りにしてるぜ。"}
+{"sec": "map:324", "key": "ARC: Yo. \\PN.", "en": "ARC: Yo. \\PN.", "ja": "アーク: よお。\\PN。"}
+{"sec": "map:324", "key": "If these Pokémon really are stolen, it might not be practical to find their original owners, but, I figure at least we can get them to a good place.", "en": "If these Pokémon really are stolen, it might not be practical to find their original owners, but, I figure at least we can get them to a good place.", "ja": "もし本当にこいつらが盗まれたものなら、元の飼い主を見つけるのは現実的じゃないかもしれないけど、少なくともいい場所に連れて行ってやれるとは思う。"}
+{"sec": "map:324", "key": "Huh, you already did it? Not bad.", "en": "Huh, you already did it? Not bad.", "ja": "へえ、もうやったのか? 悪くないな。"}
+{"sec": "map:324", "key": "Looks like you did it, huh?", "en": "Looks like you did it, huh?", "ja": "やったみたいだな?"}
+{"sec": "map:324", "key": "I owe you one, for sure. I can rest a bit easier knowing that those Pokémon will be taken care of no matter what.", "en": "I owe you one, for sure. I can rest a bit easier knowing that those Pokémon will be taken care of no matter what. ", "ja": "借り一つ、間違いなくできたな。あのポケモンたちがどうであれ大事にされるってわかって、少し安心できるよ。"}
+{"sec": "map:324", "key": "It might not be a bad idea to hang onto them just in case though.", "en": "It might not be a bad idea to hang onto them just in case though.", "ja": "念のため、手元に置いておくのも悪くないかもな。"}
+{"sec": "map:324", "key": "As for that guy... I won't do anything out in the open. But let me put it this way-- Next time you're around here, don't expect to see him again.", "en": "As for that guy... I won't do anything out in the open.  But let me put it this way-- Next time you're around here, don't expect to see him again.", "ja": "あの野郎については……表立って何かするつもりはない。ただ、こう言っておくよ――次にこの辺に来た時、あいつはもういないと思っておけ。"}
+{"sec": "map:324", "key": "Anyway, here's a little 'thank you' from me.", "en": "Anyway, here's a little 'thank you' from me. ", "ja": "とにかく、これはオレからのちょっとした「ありがとう」だ。"}
+{"sec": "map:324", "key": "Do what you will with that.", "en": "Do what you will with that. ", "ja": "好きに使ってくれ。"}
+{"sec": "map:324", "key": "If you ever get into the Nightclub, hit me up for sure!", "en": "If you ever get into the Nightclub, hit me up for sure!", "ja": "ナイトクラブに来ることがあったら、絶対声かけてくれよな!"}
+{"sec": "map:324", "key": "CRAUDBURRY: Miserable lout, PATHETIC inventory, if this is really all you've got, you ought to be ashamed of your scruffy-rumped self!", "en": "CRAUDBURRY: Miserable lout, PATHETIC inventory, if this is really all you've got, you ought to be ashamed of your scruffy-rumped self!", "ja": "クラウドバリー: 惨めなろくでなし、情けない在庫、これが本当に全部だっていうなら、そのみすぼらしい尻を恥じるべきね!"}
+{"sec": "map:324", "key": "Don't call again until you have something worth my time!", "en": "Don't call again until you have something worth my time!", "ja": "あたしの時間に見合うものを用意するまで、二度と呼ばないで!"}
+{"sec": "map:324", "key": "CRAUDBURRY: Oh, it's you.", "en": "CRAUDBURRY: Oh, it's you.", "ja": "クラウドバリー: あら、あんたね。"}
+{"sec": "map:324", "key": "I shoulda known I'd see low-life scum like you lollygagging around down here.", "en": "I shoulda known I'd see low-life scum like you lollygagging around down here.", "ja": "あんたみたいな下品なくずがここでうろついてるの、見なきゃよかったわ。"}
+{"sec": "map:324", "key": "Don't look at me, criminal swine, you aren't worth my breath! Drivelling mucus with every step... Bah!", "en": "Don't look at me, criminal swine, you aren't worth my breath! Drivelling mucus with every step... Bah!", "ja": "あたしを見ないで、犯罪者の豚が、あたしの息を吸う価値もないくせに! 歩くたびに鼻水垂らして……フン!"}
+{"sec": "map:324", "key": "ARCHER: Quite the mouth that one has, doesn't she?", "en": "ARCHER: Quite the mouth that one has, doesn't she?", "ja": "アーチャー: 実に口の悪い女だな。"}
+{"sec": "map:324", "key": "MAXWELL: You gonna let her talk to you like that?", "en": "MAXWELL: You gonna let her talk to you like that?", "ja": "マクスウェル: あんな口の利き方させといていいのか?"}
+{"sec": "map:324", "key": "ARCHER: Perhaps unfortunately, the street-savvy aren't the only ones with influence down here.", "en": "ARCHER: Perhaps unfortunately, the street-savvy aren't the only ones with influence down here.", "ja": "アーチャー: 残念なことに、ここで影響力を持っているのは、裏社会に通じた者たちだけではないようだ。"}
+{"sec": "map:324", "key": "There's always people like Craudburry. She pretends to be such an upstanding citizen, but she just plays the streets down here with her wealth.", "en": "There's always people like Craudburry. She pretends to be such an upstanding citizen, but she just plays the streets down here with her wealth. ", "ja": "クラウドバリーのような人間は、必ずいる。立派な市民のふりをしているが、その富でこの裏路地を意のままに操っているにすぎない。"}
+{"sec": "map:324", "key": "You recall the Pokémon we stole from her, yes? That was one she purchased illegally down here.", "en": "You recall the Pokémon we stole from her, yes? That was one she purchased illegally down here.", "ja": "我々があの女から盗んだポケモン、覚えているだろう? あれは、ここで違法に購入されたものだった。"}
+{"sec": "map:324", "key": "That's why I had no regrets in targeting her.", "en": "That's why I had no regrets in targeting her. ", "ja": "だからこそ、彼女を標的にすることに、私は何の後悔もなかった。"}
+{"sec": "map:324", "key": "Nonetheless, her attitude is insufferable. Yet, no one down here stands up to her.", "en": "Nonetheless, her attitude is insufferable. Yet, no one down here stands up to her.", "ja": "それにしても、彼女の態度は我慢ならん。それでも、ここでは誰も彼女に逆らおうとしない。"}
+{"sec": "map:324", "key": "After all, they dare not risk her patronage.", "en": "After all, they dare not risk her patronage.", "ja": "なにしろ、彼女の後ろ盾を失う危険は、誰も冒したくないのだろう。"}
+{"sec": "map:324", "key": "I'm thinking, though, perhaps we might better everyone's lives down here if we, how do you say, teach her a lesson?", "en": "I'm thinking, though, perhaps we might better everyone's lives down here if we, how do you say, teach her a lesson?", "ja": "だが、思うに、彼女に――何と言うか――思い知らせてやれば、ここの皆の暮らしが少しは良くなるのではないか?"}
+{"sec": "map:324", "key": "If you're interested, find me around her house.", "en": "If you're interested, find me around her house.", "ja": "興味があるなら、彼女の家の近くで私を探すといい。"}
+{"sec": "map:324", "key": "MAXWELL: I'll tell you what, that broad has way too much power down here.", "en": "MAXWELL: I'll tell you what, that broad has way too much power down here. ", "ja": "マクスウェル: 言っとくが、あの女、この辺じゃ力を持ちすぎてるんだよな。"}
+{"sec": "map:324", "key": "This is supposed to be place for the strong to survive, not for some rich bitch to order everyone around as she pleases.", "en": "This is supposed to be place for the strong to survive, not for some rich bitch to order everyone around as she pleases. ", "ja": "ここは強い者が生き残る場所であって、金持ちの女が好き放題みんなに命令する場所じゃないはずだ。"}
+{"sec": "map:324", "key": "But that's just it. Money casts a powerful curse. And she gets what she wants.", "en": "But that's just it. Money casts a powerful curse. And she gets what she wants.", "ja": "でも、まさにそれなんだよな。金ってのは強力な呪いをかけるもんで。それで、あの女は欲しいものを手に入れる。"}
+{"sec": "map:324", "key": "Like stolen Pokémon. You know?", "en": "Like stolen Pokémon. You know? ", "ja": "盗まれたポケモンみたいにな。わかるだろ?"}
+{"sec": "map:324", "key": "That's why I tried to take it back from her before. She didn't even play fair to get it.", "en": "That's why I tried to take it back from her before. She didn't even play fair to get it. ", "ja": "だから前に、それを取り返そうとしたんだ。あの女、手に入れる時だってフェアじゃなかったし。"}
+{"sec": "map:324", "key": "Most people don't dare stand up to someone like her-- they might lose their squeeze.", "en": "Most people don't dare stand up to someone like her-- they might lose their squeeze. ", "ja": "大抵の奴は、あんな女に逆らおうとしない――お気に入りの立場を失うかもしれないからな。"}
+{"sec": "map:324", "key": "But us? We're different.", "en": "But us? We're different. ", "ja": "でもオレたちは? 違う。"}
+{"sec": "map:324", "key": "Know what I mean? I think we oughta teach that one a lesson.", "en": "Know what I mean? I think we oughta teach that one a lesson. ", "ja": "わかるだろ? あいつには思い知らせてやるべきだと思うんだ。"}
+{"sec": "map:324", "key": "Come find me around her house. We'll settle this score.", "en": "Come find me around her house. We'll settle this score. ", "ja": "あの女の家の近くで、オレを探してくれ。この借りは返してやる。"}
+{"sec": "map:324", "key": "For, you know, glory.", "en": "For, you know, glory. ", "ja": "まあ、栄光のためにな。"}
+{"sec": "map:324", "key": "DEFACTO: Well met, \\PN.", "en": "DEFACTO: Well met, \\PN.", "ja": "デファクト: よく会えたな、\\PN。"}
+{"sec": "map:324", "key": "Do tell, how do you find business down here?", "en": "Do tell, how do you find business down here?", "ja": "へえ、ここらの商売の具合はどうだい?"}
+{"sec": "map:324", "key": "Personally, I manage to make a pretty penny, but it can be a veritable struggle to reason with some of these lesser merchants.", "en": "Personally, I manage to make a pretty penny, but it can be a veritable struggle to reason with some of these lesser merchants. ", "ja": "私はそれなりに稼がせてもらっているが、下っ端の商人どもを説き伏せるのはなかなか骨が折れる。"}
+{"sec": "map:324", "key": "See, the economy down here-- as with any underworld market-- works on a separate axis of supply and demand.", "en": "See, the economy down here-- as with any underworld market-- works on a separate axis of supply and demand.", "ja": "いいかい、ここの経済ってのは――裏市場のどこもそうだが――独自の需給軸で回っているのさ。"}
+{"sec": "map:324", "key": "One singular substance reigns supreme here: \"Rare Candy\". Heard of it?", "en": "One singular substance reigns supreme here: \"Rare Candy\". Heard of it?", "ja": "ここで君臨する物質はただひとつ、「ふしぎなアメ」だ。聞いたことは?"}
+{"sec": "map:324", "key": "Well, perhaps it is best that someone like you never does. For many of these fellows, however, they are already too addicted to the \"level up\".", "en": "Well, perhaps it is best that someone like you never does. For many of these fellows, however, they are already too addicted to the \"level up\".", "ja": "まあ、君のような人間は知らずにいた方がいいだろうな。だがここの連中の多くは、もう「レベルアップ」の虜さ。"}
+{"sec": "map:324", "key": "Incidentally, do you know how \"Rare Candy\" is made?", "en": "Incidentally, do you know how \"Rare Candy\" is made?", "ja": "ところで、「ふしぎなアメ」がどう作られるか知っているかい?"}
+{"sec": "map:324", "key": "By distilling the synthetic compounds of other items-- specifically Crystal Shards and Heart Scales-- one is left with a highly reactive substance.", "en": "By distilling the synthetic compounds of other items-- specifically Crystal Shards and Heart Scales-- one is left with a highly reactive substance.", "ja": "他のアイテム――具体的にはクリスタルのかけらとハートのウロコだ――の合成成分を蒸留すると、非常に反応性の高い物質が残る。"}
+{"sec": "map:324", "key": "Combined with the traditional medicinal Pokémon Rare Candy, a violent psychoactive is produced.", "en": "Combined with the traditional medicinal Pokémon Rare Candy, a violent psychoactive is produced.", "ja": "それを昔ながらの薬用ポケモン用「ふしぎなアメ」と合わせると、猛烈な精神作用物質ができあがる。"}
+{"sec": "map:324", "key": "But, as such, it is these ingredients which are in high demand down here: Shards and Heart Scales.", "en": "But, as such, it is these ingredients which are in high demand down here: Shards and Heart Scales. ", "ja": "というわけで、ここで需要が高いのはその材料――かけらとハートのウロコさ。"}
+{"sec": "map:324", "key": "Thus, it is extremely beneficial for those able to gather these resources to do so.", "en": "Thus, it is extremely beneficial for those able to gather these resources to do so.", "ja": "だから、それらを集められる者にとっては大いに利益になる。"}
+{"sec": "map:324", "key": "This is where I come in!", "en": "This is where I come in! ", "ja": "そこで私の出番というわけだ!"}
+{"sec": "map:324", "key": "I have a brand new product that can help the crafty geologist maximize their efficiency.", "en": "I have a brand new product that can help the crafty geologist maximize their efficiency.", "ja": "目端の利く採掘屋の効率を最大化する、真新しい商品を用意している。"}
+{"sec": "map:324", "key": "Blast Powder is a unique reactive substance.", "en": "Blast Powder is a unique reactive substance. ", "ja": "「爆破パウダー」は独特な反応性物質だ。"}
+{"sec": "map:324", "key": "When placed on certain kinds of damaged rock-- the glowing sediment I'm sure you've seen-- it will allow previously harvested spots to become lucrative.", "en": "When placed on certain kinds of damaged rock-- the glowing sediment I'm sure you've seen-- it will allow previously harvested spots to become lucrative.", "ja": "ある種の傷んだ岩――君も見たことがあるはずの、あの光る堆積物だ――に置くと、すでに採掘した場所をもう一度実入りのあるものにできる。"}
+{"sec": "map:324", "key": "In short, it allows you to mine a stone twice.", "en": "In short, it allows you to mine a stone twice.", "ja": "早い話が、同じ石を二度掘れるってわけだ。"}
+{"sec": "map:324", "key": "That established... Buy some!", "en": "That established... Buy some!", "ja": "ということで……買ってくれよ!"}
+{"sec": "map:324", "key": "DEFACTO: You return! Come to buy more Blast Powder?", "en": "DEFACTO: You return! Come to buy more Blast Powder?", "ja": "デファクト: また来たな!爆破パウダーを買い足しに来たのか?"}
+{"sec": "map:324", "key": "BREAK: Oh, \\PN! Do stay a moment, I have an amazing discovery to regale you with!", "en": "BREAK: Oh, \\PN! Do stay a moment, I have an amazing discovery to regale you with!", "ja": "ブレーク: おお、\\PN!ちょっと待った、とっておきの発見を聞かせてやろう!"}
+{"sec": "map:324", "key": "Although this is 7th Street, some find it more like a 7th Heaven. Do you know why?", "en": "Although this is 7th Street, some find it more like a 7th Heaven. Do you know why?", "ja": "ここは「7番街」と呼ばれちゃいるが、人によっちゃまるで「第七の天国」だ。なぜだかわかるか?"}
+{"sec": "map:324", "key": "Oh, I shall tell you. It's because they're out of their minds!", "en": "Oh, I shall tell you. It's because they're out of their minds!", "ja": "教えてやろう。連中がイカれちまってるからさ!"}
+{"sec": "map:324", "key": "Literally~", "en": "Literally~ ", "ja": "文字通りにな～"}
+{"sec": "map:324", "key": "Do tell, do tell, have you ever tried \"Rare Candy\"?", "en": "Do tell, do tell, have you ever tried \"Rare Candy\"?", "ja": "なあなあ、「ふしぎなアメ」を試したことはあるか?"}
+{"sec": "map:324", "key": "Oh, I suspect you haven't-- it's not what you feed your Pokémon.", "en": "Oh, I suspect you haven't-- it's not what you feed your Pokémon. ", "ja": "いや、ないだろうな――ポケモンに与えるようなアレじゃないんだ。"}
+{"sec": "map:324", "key": "This is a very special kind of \"level up\".", "en": "This is a very special kind of \"level up\".", "ja": "これはとびきり特別な「レベルアップ」ってわけさ。"}
+{"sec": "map:324", "key": "But I will tell you the ingredients of the thing!", "en": "But I will tell you the ingredients of the thing!", "ja": "だがその材料は教えてやる!"}
+{"sec": "map:324", "key": "SUGAR!", "en": "SUGAR!", "ja": "砂糖!"}
+{"sec": "map:324", "key": "SPICE!", "en": "SPICE!", "ja": "香辛料!"}
+{"sec": "map:324", "key": "And EVERYTHING NICE!", "en": "And EVERYTHING NICE!", "ja": "それとステキなものぜんぶ!"}
+{"sec": "map:324", "key": "Just kidding.", "en": "Just kidding.", "ja": "なんてな、冗談さ。"}
+{"sec": "map:324", "key": "Actually it's the benzoylmethylecgonine dust and crystal-isomerized piperonyl acetone embedded in Heart Scales and crystal Shards.", "en": "Actually it's the benzoylmethylecgonine dust and crystal-isomerized piperonyl acetone embedded in Heart Scales and crystal Shards. ", "ja": "本当はベンゾイルメチルエクゴニンの粉末と、ハートのウロコとクリスタルのかけらに封じ込められた結晶異性化ピペロニルアセトンだ。"}
+{"sec": "map:324", "key": "Then you stick that in a normal Rare Candy and you'll be partyin' it up, down, sideways AND diagonally.", "en": "Then you stick that in a normal Rare Candy and you'll be partyin' it up, down, sideways AND diagonally.", "ja": "それを普通の「ふしぎなアメ」に混ぜ込みゃ、上へ下へ横へ斜めへとお祭り騒ぎさ。"}
+{"sec": "map:324", "key": "Anyway, it turns out Heart Scales and Shards are useful to collect.", "en": "Anyway, it turns out Heart Scales and Shards are useful to collect.", "ja": "とにかく、ハートのウロコとかけらは集める価値があるってわけだ。"}
+{"sec": "map:324", "key": "Not always easy though! They play hard to get.", "en": "Not always easy though! They play hard to get. ", "ja": "とはいえ簡単じゃない!なかなか手に入らないんだ。"}
+{"sec": "map:324", "key": "By hiding in hard things, like rocks.", "en": "By hiding in hard things, like rocks. ", "ja": "岩みたいな硬いものの中に隠れているからな。"}
+{"sec": "map:324", "key": "Sure, you can mine some out, but then what?", "en": "Sure, you can mine some out, but then what?", "ja": "そりゃ掘り出すことはできるが、その後は?"}
+{"sec": "map:324", "key": "I'll tell you what! Then you take some Blast Powder and blow up the base of the rock so you can mine even MORE out!", "en": "I'll tell you what! Then you take some Blast Powder and blow up the base of the rock so you can mine even MORE out!", "ja": "教えてやろう!爆破パウダーを岩の根元にぶちこんで吹っ飛ばせば、もっとたくさん掘り出せるってわけさ!"}
+{"sec": "map:324", "key": "Then you sell them and become king of the world! Or queen. Or whatever.", "en": "Then you sell them and become king of the world! Or queen. Or whatever. ", "ja": "それを売っ払って世界の王様になれる!あるいは女王様、なんでもいいさ。"}
+{"sec": "map:324", "key": "Anyway yes, Blast Powder! Mine things twice! Buy some!", "en": "Anyway yes, Blast Powder! Mine things twice! Buy some!", "ja": "とにかく爆破パウダーだ!同じものを二度掘れる!買ってくれ!"}
+{"sec": "map:324", "key": "BREAK: Blast Powder! More fun than exploding chocolate cake!", "en": "BREAK: Blast Powder! More fun than exploding chocolate cake!", "ja": "ブレーク: 爆破パウダー!爆発するチョコレートケーキよりも楽しいぞ!"}
+{"sec": "map:324", "key": "Merry mining~!", "en": "Merry mining~!", "ja": "楽しい採掘を～!"}
+{"sec": "map:324", "key": "DEFACTO: You're back at last!", "en": "DEFACTO: You're back at last!", "ja": "デファクト: やっと戻ってきたか!"}
+{"sec": "map:324", "key": "Might I interest you in a fresh stock of Blast Powder?", "en": "Might I interest you in a fresh stock of Blast Powder?", "ja": "新入荷の爆破パウダーに興味はあるかい?"}
+{"sec": "map:324", "key": "Oh, please refrain from invoking any of that platitudinous job-seeking discourse that the boss has been so intent on spouting off.", "en": "Oh, please refrain from invoking any of that platitudinous job-seeking discourse that the boss has been so intent on spouting off. ", "ja": "ああ、頭目がやたらと熱弁してるあの陳腐な就職話は勘弁してくれ。"}
+{"sec": "map:324", "key": "As his analytical holiness refuses to acknowledge, I am already gainfully employed right here.", "en": "As his analytical holiness refuses to acknowledge, I am already gainfully employed right here. ", "ja": "あの分析屋の聖人様は認めようとしないが、私はもうここで立派に働いているんだ。"}
+{"sec": "map:324", "key": "As such, why not indulge yourself?", "en": "As such, why not indulge yourself?", "ja": "というわけで、少しぜいたくしてみないか?"}
+{"sec": "map:324", "key": "DEFACTO: Admittedly, it might have been a boon to be in a slightly more intellectual line of work.", "en": "DEFACTO: Admittedly, it might have been a boon to be in a slightly more intellectual line of work.", "ja": "デファクト: 正直言えば、もう少し知的な仕事に就いていたら良かったかもしれんな。"}
+{"sec": "map:324", "key": "Knowledge is the seat of personal growth, but aside from which downcast countenaces are the most likely customers, there's little to be learned here.", "en": "Knowledge is the seat of personal growth, but aside from which downcast countenaces are the most likely customers, there's little to be learned here. ", "ja": "知識こそが自己成長の土台だが、どんなうつろな顔の客が上客になりやすいか以外、ここで学べることはほとんどない。"}
+{"sec": "map:324", "key": "But that anything like that would exist in this city is a far cry. I'm content here.", "en": "But that anything like that would exist in this city is a far cry. I'm content here.", "ja": "だがこの街にそんなものがあるとは思えん。私はここで満足しているさ。"}
+{"sec": "map:324", "key": "BREAK: \\PN! My old friend and most valued customer~!", "en": "BREAK: \\PN! My old friend and most valued customer~!", "ja": "ブレーク: \\PN!我が旧友にして最上の上客だ～!"}
+{"sec": "map:324", "key": "Listen! We've got a problemo in the gang and his name is Maxwell.", "en": "Listen! We've got a problemo in the gang and his name is Maxwell. ", "ja": "聞いてくれ!ギャングに問題児がいてね、名をマクスウェルという。"}
+{"sec": "map:324", "key": "But the way he's talking about breaking us up, we oughta call him Maxunwell!", "en": "But the way he's talking about breaking us up, we oughta call him Maxunwell!", "ja": "だが俺たちを解散させようなんて言い出す様子じゃ、「マックス・アンウェル」とでも呼んでやりたいね!"}
+{"sec": "map:324", "key": "Ohoh, don't look at me like that. It's spine-tingling.", "en": "Ohoh, don't look at me like that. It's spine-tingling.", "ja": "おっと、そんな目で見るなよ。ゾクゾクしちまう。"}
+{"sec": "map:324", "key": "More seriously, I can't think of a job better suited to my talents than synthesizing benzoylmethylecgonine.", "en": "More seriously, I can't think of a job better suited to my talents than synthesizing benzoylmethylecgonine.", "ja": "真面目な話、ベンゾイルメチルエクゴニンの合成以上に俺の才能に合う仕事なんて思いつかないね。"}
+{"sec": "map:324", "key": "Most people can't even pronounce that word.", "en": "Most people can't even pronounce that word. ", "ja": "たいていの奴はその言葉すら発音できやしない。"}
+{"sec": "map:324", "key": "It's a gift.", "en": "It's a gift. ", "ja": "これぞ才能ってやつさ。"}
+{"sec": "map:324", "key": "I suppose I am familiar with a variety of chemical, herbal and questionably legal substances that might be handy to those with bizarre interests...", "en": "I suppose I am familiar with a variety of chemical, herbal and questionably legal substances that might be handy to those with bizarre interests...", "ja": "まあ俺は、変わった趣味の連中に重宝しそうな、化学薬品やら薬草やら合法かどうか怪しい代物やらに精通してるつもりだが……"}
+{"sec": "map:324", "key": "But really, no one these days likes to think outside the box.", "en": "But really, no one these days likes to think outside the box.", "ja": "だが実際、今どき型破りに考えたがる奴なんていやしない。"}
+{"sec": "map:324", "key": "So we might as well just blow stuff up!", "en": "So we might as well just blow stuff up!", "ja": "だったらいっそ、何もかも吹っ飛ばしちまえばいいのさ!"}
+{"sec": "map:324", "key": "Remember, if it doesn't seem like a good idea, that just means you're not using enough sparklers.", "en": "Remember, if it doesn't seem like a good idea, that just means you're not using enough sparklers.", "ja": "覚えとけ、いい考えに見えないなら、それは花火が足りてないってことだ。"}
+{"sec": "map:324", "key": "You Aqua punks still struttin' around like you're so cool?", "en": "You Aqua punks still struttin' around like you're so cool?", "ja": "アクアの半端者どもは相変わらず調子こいて歩き回ってるのか?"}
+{"sec": "map:324", "key": "Hmph. Not like it matters now.", "en": "Hmph. Not like it matters now.", "ja": "ニヒル: ふん。もう関係ないけどな。"}
+{"sec": "map:324", "key": "Please, your blank stare is piercing into my soul. I cannot possibly exist under the pressure of your black-pixel eyes.", "en": "Please, your blank stare is piercing into my soul. I cannot possibly exist under the pressure of your black-pixel eyes.", "ja": "頼むよ、その虚ろな眼差しが俺の魂を貫いてくる。その黒いドット目の圧力の下じゃ、とても生きていけやしない。"}
+{"sec": "map:324", "key": "Even in its death-- I will show you the true POWER of the Magma Gang!", "en": "Even in its death-- I will show you the true POWER of the Magma Gang!", "ja": "たとえ滅びの時であろうと――俺はマグマ団の真の力を見せてやる!"}
+{"sec": "map:324", "key": "You are strong indeed.", "en": "You are strong indeed.", "ja": "ダーム: 確かに強えな。"}
+{"sec": "map:324", "key": "Hoo-hah. I bow to a strength greater than my own.", "en": "Hoo-hah. I bow to a strength greater than my own.", "ja": "フーハー。俺より強い力に頭を下げるぜ。"}
+{"sec": "map:324", "key": "I'm not letting the Aqua Gang go down without a fight!", "en": "I'm not letting the Aqua Gang go down without a fight!", "ja": "アクア団をむざむざ負けさせてなるかよ!"}
+{"sec": "map:324", "key": "Too strong.", "en": "Too strong.", "ja": "ラジー: 強すぎ。"}
+{"sec": "map:324", "key": "Man, how many Rare Candies did you feed YOUR Pokémon? All of mine weren't enough!", "en": "Man, how many Rare Candies did you feed YOUR Pokémon? All of mine weren't enough!", "ja": "ったく、アンタのポケモンに「ふしぎなアメ」何個食わせたのよ?うちの子たちじゃ全然足りなかった!"}
+{"sec": "map:324", "key": "Send out your Pokémon.", "en": "Send out your Pokémon.", "ja": "ポケモンを繰り出せ。"}
+{"sec": "map:324", "key": "...Understood.", "en": "...Understood.", "ja": "……了解した"}
+{"sec": "map:324", "key": "You have no need to speak to me.", "en": "You have no need to speak to me.", "ja": "あたしに話しかける必要はないわ。"}
+{"sec": "map:324", "key": "Oh, man. I like what I'm seein'. You? You look like fresh meat.", "en": "Oh, man. I like what I'm seein'. You? You look like fresh meat.", "ja": "おお、いいねえ。お前、新顔って感じじゃん。"}
+{"sec": "map:324", "key": "Ugh, I was the one who got chewed up and spit out.", "en": "Ugh, I was the one who got chewed up and spit out.", "ja": "アンディ: うっ、かまれて吐き出されたのは俺のほうだったよ。"}
+{"sec": "map:324", "key": "Lesson learned, don't judge the book by its cover.", "en": "Lesson learned, don't judge the book by its cover.", "ja": "勉強になったぜ、見た目で判断すんなってな。"}
+{"sec": "map:324", "key": "Dude... The Butterfree are soooo like lackadaisical. They totally just morphed into that beam...", "en": "Dude... The Butterfree are soooo like lackadaisical. They totally just morphed into that beam...", "ja": "なあ……バタフリーってばマジでだる～い感じ。あのビームにまんま変身しちゃってさ……"}
+{"sec": "map:324", "key": "Aha, yah, wha? What's going on?", "en": "Aha, yah, wha? What's going on?", "ja": "ケビン: あ、うん、え?何の話だっけ?"}
+{"sec": "map:324", "key": "Duuuuuuude...", "en": "Duuuuuuude...", "ja": "マジ……で……"}
+{"sec": "map:324", "key": "Dude. I'm sooo fuckin' leveled right now. Fight me!", "en": "Dude. I'm sooo fuckin' leveled right now. Fight me!", "ja": "なあ。俺マジでレベルアップしまくっててさ。かかってこいよ!"}
+{"sec": "map:324", "key": "Woaaaaah...", "en": "Woaaaaah...", "ja": "チャズ: うわぁぁぁ……"}
+{"sec": "map:324", "key": "Like, shit. Shiiiiiit.", "en": "Like, shit. Shiiiiiit.", "ja": "マジ、ヤベえ。ヤッベえ。"}
+{"sec": "map:324", "key": "Dude. You new around here? I don't think I seen you before.", "en": "Dude. You new around here? I don't think I seen you before.", "ja": "なあ。お前、この辺じゃ新顔?見た覚えねえな。"}
+{"sec": "map:324", "key": "LOL, I'm just messin' with you man. How are you?!", "en": "LOL, I'm just messin' with you man. How are you?! ", "ja": "笑、冗談だって。元気にしてた?!"}
+{"sec": "map:324", "key": "It's been a while! Man, remember last time we dropped Candy together?", "en": "It's been a while! Man, remember last time we dropped Candy together?", "ja": "久しぶりだな!ほら、前に一緒にアメやったときのこと覚えてる?"}
+{"sec": "map:324", "key": "...Wait, you mean you really don't know me?", "en": "...Wait, you mean you really don't know me?", "ja": "……待てよ、マジで俺のこと知らねえのか?"}
+{"sec": "map:324", "key": "Shit dude, you're not with them, are you?", "en": "Shit dude, you're not with them, are you?", "ja": "マジかよ、まさかお前、あいつらの仲間じゃねえよな?"}
+{"sec": "map:324", "key": "I don't trust you. I never seen you around here before.", "en": "I don't trust you. I never seen you around here before.", "ja": "信用できねえ。この辺で見たことねえもん。"}
+{"sec": "map:324", "key": "You're obviously a cop in disguise! Get away from me!", "en": "You're obviously a cop in disguise! Get away from me!", "ja": "どう見たって変装した警官じゃねえか!あっち行けよ!"}
+{"sec": "map:324", "key": "I don't know why my boyfriend insists on selling down here all the time.", "en": "I don't know why my boyfriend insists on selling down here all the time. ", "ja": "なんで彼氏がいつもここで売りたがるのか、あたしにはわかんない。"}
+{"sec": "map:324", "key": "All these men are so creepy.", "en": "All these men are so creepy.", "ja": "ここの男どもってみんな気持ち悪い。"}
+{"sec": "map:324", "key": "Bro, you got any \"Rare Candy\" to spare?", "en": "Bro, you got any \"Rare Candy\" to spare?", "ja": "なあ、「ふしぎなアメ」余ってねえか?"}
+{"sec": "map:324", "key": "Heh... 'Spare Candy'. That's good.", "en": "Heh... 'Spare Candy'. That's good.", "ja": "へへ……「余りアメ」ね。いいセンスじゃん。"}
+{"sec": "map:324", "key": "Hey, you got a problem, bud?!", "en": "Hey, you got a problem, bud?!", "ja": "おい、なんか文句あんのか、相棒?!"}
+{"sec": "map:324", "key": "You think I steal from you? I ain't steal from you!", "en": "You think I steal from you? I ain't steal from you!", "ja": "俺がお前から盗んだと思ってんのか?盗んでねえよ!"}
+{"sec": "map:324", "key": "If you gotta problem, let's go! You wanna go?!", "en": "If you gotta problem, let's go! You wanna go?!", "ja": "文句あるならかかってこいよ!やる気か?!"}
+{"sec": "map:324", "key": "Fuck, dude.", "en": "Fuck, dude.", "ja": "ドレイク: くそ、マジかよ。"}
+{"sec": "map:324", "key": "What the hell, dude. You can have your shit back, christ.", "en": "What the hell, dude. You can have your shit back, christ.", "ja": "何なんだよ、勘弁してくれ。物は返すからよ、まったく。"}
+{"sec": "map:324", "key": "Fuck me, you looked like an easy pick, too... Dammit.", "en": "Fuck me, you looked like an easy pick, too... Dammit.", "ja": "くそったれ、楽勝なカモに見えたのによ……クソが。"}
+{"sec": "map:324", "key": "Stow it, I'll leave you alone.", "en": "Stow it, I'll leave you alone.", "ja": "もういい、放っといてやるよ。"}
+{"sec": "map:324", "key": "Dude, you wanna give me some cash? I need a fix...", "en": "Dude, you wanna give me some cash? I need a fix...", "ja": "なあ、金くれねえか?キメる分が必要なんだ……"}
+{"sec": "map:324", "key": "Some people was worried that the fuzz would bust this place up if it was found during the construction.", "en": "Some people was worried that the fuzz would bust this place up if it was found during the construction.", "ja": "工事中にここが見つかって、サツにぶっ潰されるんじゃないかって心配してた奴もいたな。"}
+{"sec": "map:324", "key": "Hah! We show 'em.", "en": "Hah! We show 'em. ", "ja": "はっ!思い知らせてやったぜ。"}
+{"sec": "map:324", "key": "Incompetent police don't have a clue!", "en": "Incompetent police don't have a clue!", "ja": "無能な警察には何もわかっちゃいねえ!"}
+{"sec": "map:324", "key": "7th Street is the one place that won't change! This is OUR world!", "en": "7th Street is the one place that won't change! This is OUR world!", "ja": "7番街だけは変わらねえ!ここは俺たちの世界だ!"}
+{"sec": "map:324", "key": "NIHIL: Sup.", "en": "NIHIL: Sup. ", "ja": "ニヒル: よお。"}
+{"sec": "map:324", "key": "I see you took your time in making it down here.", "en": "I see you took your time in making it down here.", "ja": "ここにたどり着くまで、ずいぶん時間かけたみたいだな。"}
+{"sec": "map:324", "key": "This has been our squeeze for quite some time.", "en": "This has been our squeeze for quite some time. ", "ja": "ここは俺たちの縄張りになって結構経つ。"}
+{"sec": "map:324", "key": "Surprised I didn't see you 'round before.", "en": "Surprised I didn't see you 'round before.", "ja": "これまで見かけなかったのが意外だな。"}
+{"sec": "map:324", "key": "Hm, you're looking for someone?", "en": "Hm, you're looking for someone?", "ja": "ん、誰か探してんのか?"}
+{"sec": "map:324", "key": "I mean, I'm right here.", "en": "I mean, I'm right here.", "ja": "つっても、俺はここにいるけどな。"}
+{"sec": "map:324", "key": "Chill, it was a joke.", "en": "Chill, it was a joke.", "ja": "落ち着けって、冗談だよ。"}
+{"sec": "map:324", "key": "I saw someone suspicious run into the watering hole just a minute ago.", "en": "I saw someone suspicious run into the watering hole just a minute ago. ", "ja": "ついさっき、怪しい奴が水場に駆け込んでくのを見たぜ。"}
+{"sec": "map:324", "key": "Go get 'im, tiger.", "en": "Go get 'im, tiger.", "ja": "追いかけてみろよ、猛虎さん。"}
+{"sec": "map:324", "key": "NIHIL: Dude, any guy who runs from you isn't worth your time.", "en": "NIHIL: Dude, any guy who runs from you isn't worth your time.", "ja": "ニヒル: なあ、お前から逃げるような奴に構う価値なんてねえよ。"}
+{"sec": "map:324", "key": "NIHIL: You wanna talk about the job thing, right?", "en": "NIHIL: You wanna talk about the job thing, right?", "ja": "ニヒル: 仕事の話をしに来たんだろ?"}
+{"sec": "map:324", "key": "Yeah, forget it.", "en": "Yeah, forget it.", "ja": "ああ、やめとけ。"}
+{"sec": "map:324", "key": "There's no way I'm stooping that low.", "en": "There's no way I'm stooping that low.", "ja": "そこまで落ちぶれるつもりはねえよ。"}
+{"sec": "map:324", "key": "Do whatever you want with the other guys, but there's not a job in this city worthy of me.", "en": "Do whatever you want with the other guys, but there's not a job in this city worthy of me.", "ja": "他の奴らは好きにしていいが、この街に俺にふさわしい仕事なんてねえ。"}
+{"sec": "map:324", "key": "Wherever I worked would have to be the last word in cool.", "en": "Wherever I worked would have to be the last word in cool.", "ja": "俺が働くとしたら、この上なくクールな場所じゃなきゃ話にならねえ。"}
+{"sec": "map:324", "key": "And this is Reborn City.", "en": "And this is Reborn City.", "ja": "それでこの街はリボーンシティときたもんだ。"}
+{"sec": "map:324", "key": "They don't do cool.", "en": "They don't do cool.", "ja": "クールなんてもんとは無縁だぜ。"}
+{"sec": "map:324", "key": "DARM: BRO! You here to get pumped up?", "en": "DARM: BRO! You here to get pumped up? ", "ja": "ダーム: ブラザー!お前もハッスルしに来たのか?"}
+{"sec": "map:324", "key": "This place has the best \"level-ups\"!", "en": "This place has the best \"level-ups\"!", "ja": "ここは最高の「レベルアップ」があるんだぜ!"}
+{"sec": "map:324", "key": "Whaddya mean you aren't here for that?", "en": "Whaddya mean you aren't here for that?", "ja": "それが目当てじゃねえって、どういうことだよ?"}
+{"sec": "map:324", "key": "Everyone's here for that.", "en": "Everyone's here for that. ", "ja": "みんなそれ目当てで来てるんだぜ。"}
+{"sec": "map:324", "key": "That shit is POWERFUL.", "en": "That shit is POWERFUL.", "ja": "あれはマジでパワフルなんだよな。"}
+{"sec": "map:324", "key": "Oh, huh. You're lookin' for someone?", "en": "Oh, huh. You're lookin' for someone? ", "ja": "おお、そうか。誰か探してんのか?"}
+{"sec": "map:324", "key": "Well, I dunno about a girl, but I just saw some weird guy headin' up to the watering hole.", "en": "Well, I dunno about a girl, but I just saw some weird guy headin' up to the watering hole.", "ja": "女の子のことは知らねえけど、変な男が水場の方に向かってくのは見たぜ。"}
+{"sec": "map:324", "key": "You could probably catch him if you hurry.", "en": "You could probably catch him if you hurry.", "ja": "急げば追いつけるんじゃねえか。"}
+{"sec": "map:324", "key": "DARM: Magma is strength!", "en": "DARM: Magma is strength!", "ja": "ダーム: マグマこそ力だ!"}
+{"sec": "map:324", "key": "DARM: BRO! We gotta get jobs?!", "en": "DARM: BRO! We gotta get jobs?!", "ja": "ダーム: ブラザー!俺たち、仕事に就かなきゃなんねえのか?!"}
+{"sec": "map:324", "key": "That's BALLS.", "en": "That's BALLS.", "ja": "そりゃキツいぜ。"}
+{"sec": "map:324", "key": "But if everyone else is doing it, I guess I got to.", "en": "But if everyone else is doing it, I guess I got to.", "ja": "でもみんなやるってんなら、俺もやるしかねえよな。"}
+{"sec": "map:324", "key": "All right-- I want the kinda job that I can get POWERFUL on.", "en": "All right-- I want the kinda job that I can get POWERFUL on.", "ja": "よし――俺はパワフルになれる仕事がいいな。"}
+{"sec": "map:324", "key": "I gotta get people to praise me like \"YO how that dude so swole?!\"", "en": "I gotta get people to praise me like \"YO how that dude so swole?!\"", "ja": "「うおっ、あいつマジでムキムキじゃん!」って言われるような仕事じゃなきゃな。"}
+{"sec": "map:324", "key": "I don't have any qualifications besides my rippling pecs and bulging biceps.", "en": "I don't have any qualifications besides my rippling pecs and bulging biceps.", "ja": "資格なんて、盛り上がった胸筋とパンプした上腕二頭筋くらいしか持ってねえけどな。"}
+{"sec": "map:324", "key": "And not even construction crews would take me. I break stuff, not make stuff!", "en": "And not even construction crews would take me. I break stuff, not make stuff!", "ja": "工事の連中にすら雇ってもらえなかったし。俺は壊す専門で、作る方じゃねえんだよ!"}
+{"sec": "map:324", "key": "So what's there left to do but be the muscle in the city streets, huh?!", "en": "So what's there left to do but be the muscle in the city streets, huh?! ", "ja": "だったら街の通りの用心棒くらいしかやることねえだろ、なあ?!"}
+{"sec": "map:324", "key": "If Maxwell's backing down from leading the Magma Gang, I'll do it in his stead!", "en": "If Maxwell's backing down from leading the Magma Gang, I'll do it in his stead!", "ja": "マクスウェルがマグマ団の頭を降りるってんなら、俺が代わりにやってやるぜ!"}
+{"sec": "map:324", "key": "PIERCE: How about it, then?", "en": "PIERCE: How about it, then?", "ja": "ピアース: それで、どうする?"}
+{"sec": "map:324", "key": "...Looking for someone?", "en": "...Looking for someone?", "ja": "……誰か探してる?"}
+{"sec": "map:324", "key": "Check the watering hole, right there.", "en": "Check the watering hole, right there.", "ja": "あそこの水場を見てみて。"}
+{"sec": "map:324", "key": "PIERCE: ...Hm.", "en": "PIERCE: ...Hm.", "ja": "ピアース: ……ん。"}
+{"sec": "map:324", "key": "So we're getting jobs.", "en": "So we're getting jobs.", "ja": "仕事に就くことになったのか。"}
+{"sec": "map:324", "key": "...", "en": "...", "ja": "…………"}
+{"sec": "map:324", "key": "To tell the truth,", "en": "To tell the truth, ", "ja": "正直言うと、"}
+{"sec": "map:324", "key": "I don't think I can do that.", "en": "I don't think I can do that.", "ja": "僕にはできないと思う。"}
+{"sec": "map:324", "key": "I don't like talking to people.", "en": "I don't like talking to people.", "ja": "人と話すのが苦手なんだ。"}
+{"sec": "map:324", "key": "I never know what to say.", "en": "I never know what to say.", "ja": "何を言えばいいのか、いつもわからなくなる。"}
+{"sec": "map:324", "key": "Most jobs make you deal with things like customers, or a boss who can fire you at any time...", "en": "Most jobs make you deal with things like customers, or a boss who can fire you at any time...", "ja": "たいていの仕事は、客の相手をしたり、いつでもクビを切れる上司がいたりする……"}
+{"sec": "map:324", "key": "I... can't do that.", "en": "I... can't do that.", "ja": "僕には……無理だよ。"}
+{"sec": "map:324", "key": "If I could, I'd just want to go somewhere quiet.", "en": "If I could, I'd just want to go somewhere quiet. ", "ja": "できることなら、静かな場所に行きたい。"}
+{"sec": "map:324", "key": "I don't have to talk. I don't have to work.", "en": "I don't have to talk. I don't have to work.", "ja": "話さなくていい。働かなくていい。"}
+{"sec": "map:324", "key": "Just let me be in peace.", "en": "Just let me be in peace.", "ja": "ただ、そっとしておいてほしい。"}
+{"sec": "map:324", "key": "RAZZY: Hey! What's up! You gettin' hype on the \"level-ups\"?", "en": "RAZZY: Hey! What's up! You gettin' hype on the \"level-ups\"?", "ja": "ラジー: ねえ!元気!?アンタも「レベルアップ」でテンション上げてる?"}
+{"sec": "map:324", "key": "Huh, why not?", "en": "Huh, why not?", "ja": "え、違うの?"}
+{"sec": "map:324", "key": "Ohhh, you came here looking for someone.", "en": "Ohhh, you came here looking for someone. ", "ja": "あー、誰か探しに来たんだ。"}
+{"sec": "map:324", "key": "You'll totally find her! You can do anything!", "en": "You'll totally find her! You can do anything! ", "ja": "きっと見つかるって!アンタなら何でもできるもん!"}
+{"sec": "map:324", "key": "Actually, waitasecond...", "en": "Actually, waitasecond... ", "ja": "あ、ちょっと待って……"}
+{"sec": "map:324", "key": "I didn't see a girl, but there was this weird guy wanderin' around a moment ago.", "en": "I didn't see a girl, but there was this weird guy wanderin' around a moment ago.", "ja": "女の子は見てないけど、さっき変な男の人がうろついてたよ。"}
+{"sec": "map:324", "key": "I think he was going up towards the watering hole.", "en": "I think he was going up towards the watering hole.", "ja": "水場の方に向かってったと思う。"}
+{"sec": "map:324", "key": "Y'wanna see if you can catch him?", "en": "Y'wanna see if you can catch him?", "ja": "追いつけるかどうか見てみる?"}
+{"sec": "map:324", "key": "RAZZY: Aqua Gang can accomplish anything together!", "en": "RAZZY: Aqua Gang can accomplish anything together!", "ja": "ラジー: アクア団はみんなでいれば何でもできる!"}
+{"sec": "map:324", "key": "RAZZY: Together, we can fix this city-- or break it!", "en": "RAZZY: Together, we can fix this city-- or break it!", "ja": "ラジー: みんなで力を合わせれば、この街を直すことも、壊すことだってできるんだから!"}
+{"sec": "map:324", "key": "RAZZY: So Archer wants us to split up and get jobs...", "en": "RAZZY: So Archer wants us to split up and get jobs...", "ja": "ラジー: アーチャーはあたしたちに解散して仕事に就いてほしいんだって……"}
+{"sec": "map:324", "key": "Okay! I can dig it!", "en": "Okay! I can dig it!", "ja": "オッケー!それ、いいと思う!"}
+{"sec": "map:324", "key": "I've never worked before, and I couldn't begin to guess how to write a resume, but I'll do my best!", "en": "I've never worked before, and I couldn't begin to guess how to write a resume, but I'll do my best!", "ja": "働いたことなんて一度もないし、履歴書の書き方だって見当もつかないけど、頑張ってみる!"}
+{"sec": "map:324", "key": "But what kind of place should I work?", "en": "But what kind of place should I work?", "ja": "でも、どんな場所で働けばいいのかな?"}
+{"sec": "map:324", "key": "Mmm, I wanna work somewhere that's really upbeat and exciting!", "en": "Mmm, I wanna work somewhere that's really upbeat and exciting!", "ja": "うーん、すっごく明るくてワクワクするような場所で働きたい!"}
+{"sec": "map:324", "key": "And it should have lots of good food!", "en": "And it should have lots of good food!", "ja": "あと美味しいものがいっぱいあるところがいい!"}
+{"sec": "map:324", "key": "Also, I hope it's nearby!", "en": "Also, I hope it's nearby!", "ja": "それと、近所だったらいいな!"}
+{"sec": "map:324", "key": "I still live with my parents, and it's not like they'd let me go out of the city for work.", "en": "I still live with my parents, and it's not like they'd let me go out of the city for work.", "ja": "あたし、まだ親と一緒に住んでるし、街の外まで働きに出るなんて許してもらえないだろうし。"}
+{"sec": "map:324", "key": "Plus, if it's a short walk, that's even easier for me!", "en": "Plus, if it's a short walk, that's even easier for me!", "ja": "それに、ちょっと歩くだけでいいなら、その方が楽だし!"}
+{"sec": "map:324", "key": "Wait, does something that convenient even exist?", "en": "Wait, does something that convenient even exist?", "ja": "あれ、そんな都合のいいところ、実際にあるのかな?"}
+{"sec": "map:324", "key": "???: Hm.", "en": "???: Hm.", "ja": "???: ふん。"}
+{"sec": "map:324", "key": "You a new face around here? Scram!", "en": "You a new face around here? Scram!", "ja": "この辺じゃ見ねえ顔だな?とっとと失せろ!"}
+{"sec": "map:324", "key": "Uh, aite. Go in peace, or whatever.", "en": "Uh, aite. Go in peace, or whatever.", "ja": "オースティン: あー、わかった。まあ穏便にな、みたいな。"}
+{"sec": "map:324", "key": "Mate, 'm not here looking for trouble. Leave me be, aight?", "en": "Mate, 'm not here looking for trouble. Leave me be, aight?", "ja": "なあ、もめ事を探しに来たわけじゃねえよ。放っといてくれ、いいだろ?"}
+{"sec": "map:324", "key": "A secret switch!", "en": "A secret switch!", "ja": "秘密のスイッチだ!"}
+{"sec": "map:324", "key": "Press it?", "en": "Press it?", "ja": "押してみる?"}
+{"sec": "map:324", "key": "Who wouldn't?", "en": "Who wouldn't?", "ja": "押さない理由がある?"}
+{"sec": "map:324", "key": "Better not...", "en": "Better not...", "ja": "やめといた方がいいかも……"}
+{"sec": "map:324", "key": "Still nothing? Doesn't anywhere have it?", "en": "Still nothing? Doesn't anywhere have it?", "ja": "それでもないのか?どこにも置いてないのか?"}
+{"sec": "map:324", "key": "Oh, sorry. You can go ahead; I'm not in line or anything.", "en": "Oh, sorry. You can go ahead; I'm not in line or anything. ", "ja": "あ、ごめんなさい。先にどうぞ、並んでるわけじゃないので。"}
+{"sec": "map:324", "key": "Even a place like this won't sell what I need.", "en": "Even a place like this won't sell what I need.", "ja": "こんな場所でさえ、私が必要なものは売っていないのね。"}
+{"sec": "map:324", "key": "My husband is seriously ill. I've been looking all over for anything that might cure him, and I heard a rumour about a certain herb, but I can't find it anywhere.", "en": "My husband is seriously ill. I've been looking all over for anything that might cure him, and I heard a rumour about a certain herb, but I can't find it anywhere.", "ja": "主人が重い病気にかかっていて。治せそうなものを探し回っているのですが、ある薬草のうわさを聞いたものの、どこにも見つからなくて。"}
+{"sec": "map:324", "key": "Not that I'm surprised. It's rare to find someone willing to cut off... Oh, well, nevermind.", "en": "Not that I'm surprised. It's rare to find someone willing to cut off... Oh, well, nevermind.", "ja": "驚きはしませんけれど。それを手放してくれる人なんて、まず見つからないから……ああ、いえ、何でもないの。"}
+{"sec": "map:324", "key": "That plant you have... That wouldn't happen to be Oddishweed, would it?", "en": "That plant you have... That wouldn't happen to be Oddishweed, would it?", "ja": "あなたが持っているその植物……もしかして、ナゾノクサ草じゃないですか?"}
+{"sec": "map:324", "key": "Really?", "en": "Really?", "ja": "本当に?"}
+{"sec": "map:324", "key": "I almost hate to ask, but would you be willing to give me that? It's for my husband.", "en": "I almost hate to ask, but would you be willing to give me that? It's for my husband.", "ja": "お願いするのは気が引けるのですが、それを譲っていただけませんか?主人のためなんです。"}
+{"sec": "map:324", "key": "\\PN handed over the Oddishweed.", "en": "\\PN handed over the Oddishweed.", "ja": "\\PNはナゾノクサ草を渡した。"}
+{"sec": "map:324", "key": "This really is it! Thank you so much!", "en": "This really is it! Thank you so much! ", "ja": "これよ、まさにこれだわ!本当にありがとう!"}
+{"sec": "map:324", "key": "I was beginning to lose hope I would ever be able to find any.", "en": "I was beginning to lose hope I would ever be able to find any.", "ja": "もう見つからないんじゃないかって、諦めかけていたの。"}
+{"sec": "map:324", "key": "Oh, I wish I could repay you somehow... Oh, actually, I suppose you must be a Trainer, right?", "en": "Oh, I wish I could repay you somehow... Oh, actually, I suppose you must be a Trainer, right?", "ja": "ああ、何かお礼ができればいいのだけれど……あ、そういえば、あなたはトレーナーさんよね?"}
+{"sec": "map:324", "key": "I've been breeding some Pokémon lately, and I have an extra egg. Do you want it?", "en": "I've been breeding some Pokémon lately, and I have an extra egg. Do you want it?", "ja": "最近ポケモンを繁殖させていて、余ったタマゴがあるの。よかったらもらってくれる?"}
+{"sec": "map:324", "key": "\\PN got the egg!", "en": "\\PN got the egg!", "ja": "\\PNはタマゴをもらった!"}
+{"sec": "map:324", "key": "Take care of that, okay? And thank you again!", "en": "Take care of that, okay? And thank you again!", "ja": "大切にしてね?それと、本当にありがとう!"}
+{"sec": "map:324", "key": "Well, I suppose that's your right... But where else will I find it?", "en": "Well, I suppose that's your right... But where else will I find it?", "ja": "まあ、それはあなたの自由よね……でも、他にどこで見つければいいのかしら。"}
+{"sec": "map:324", "key": "Oh, sorry. You can go ahead, I'm not in line or anything.", "en": "Oh, sorry. You can go ahead, I'm not in line or anything. ", "ja": "あ、ごめんなさい。先にどうぞ、並んでいるわけじゃないので。"}
+{"sec": "map:324", "key": "My husband is seriously ill... I've been looking all over for anything that might cure him, and I heard a rumour about a certain herb, but I can't find it anywhere...", "en": "My husband is seriously ill... I've been looking all over for anything that might cure him, and I heard a rumour about a certain herb, but I can't find it anywhere...", "ja": "主人が重い病気にかかっていて……治せそうなものを探し回っているのですが、ある薬草のうわさを聞いたものの、どこにも見つからなくて……"}
+{"sec": "map:324", "key": "Not that I'm surprised. It's rare to find someone willing to cut off-- Oh, well, nevermind.", "en": "Not that I'm surprised. It's rare to find someone willing to cut off-- Oh, well, nevermind.", "ja": "驚きはしませんけれど。それを手放してくれる人なんて――ああ、いえ、何でもないの。"}
+{"sec": "map:324", "key": "Anyway... I suppose I'll check again tomorrow.", "en": "Anyway... I suppose I'll check again tomorrow.", "ja": "とにかく……また明日、探してみることにするわ。"}
+{"sec": "map:324", "key": "Excuse me, very sorry, pardon!", "en": "Excuse me, very sorry, pardon!", "ja": "すみません、失礼、通してください!"}
+{"sec": "map:324", "key": "...\\PN's \"Rare Candy\" went missing!", "en": "...\\PN's \"Rare Candy\" went missing!", "ja": "……\\PNの「ふしぎなアメ」がなくなっていた!"}
+{"sec": "map:324", "key": "Hey.", "en": "Hey.", "ja": "よう。"}
+{"sec": "map:324", "key": "I remember you.", "en": "I remember you.", "ja": "お前のこと、覚えてるぜ。"}
+{"sec": "map:324", "key": "You were the one who saved me when I was trapped in Beryl.", "en": "You were the one who saved me when I was trapped in Beryl.", "ja": "ベリルで閉じ込められてた俺を助けてくれたのは、お前だったよな。"}
+{"sec": "map:324", "key": "Well, what am I doing in a place like this?", "en": "Well, what am I doing in a place like this?", "ja": "で、俺がこんな場所で何をしてるかって?"}
+{"sec": "map:324", "key": "Don't worry, I'm still with the police. I'm here on business.", "en": "Don't worry, I'm still with the police. I'm here on business.", "ja": "心配すんな、俺はまだ警察の人間だ。仕事でここにいるんだよ。"}
+{"sec": "map:324", "key": "You're that Trainer who's been taking down Team Meteor and such, right?", "en": "You're that Trainer who's been taking down Team Meteor and such, right?", "ja": "お前、ミート団か何かをやっつけてまわってるトレーナーだよな?"}
+{"sec": "map:324", "key": "Nice work. I think I can trust you, so I'll tell you a secret.", "en": "Nice work. I think I can trust you, so I'll tell you a secret.", "ja": "よくやってるじゃねえか。お前なら信用できそうだから、秘密を教えてやるよ。"}
+{"sec": "map:324", "key": "I'm actually with the police force.", "en": "I'm actually with the police force.", "ja": "実は俺、警察の人間なんだ。"}
+{"sec": "map:324", "key": "The truth is, we've known about this place for quite a while.", "en": "The truth is, we've known about this place for quite a while.", "ja": "実を言うと、この場所のことは前々から把握してた。"}
+{"sec": "map:324", "key": "There was some debate on if we should step in during the city restoration, and that may yet happen.", "en": "There was some debate on if we should step in during the city restoration, and that may yet happen.", "ja": "街の復興のあいだに踏み込むべきかどうか議論もあってな、いずれそうなるかもしれねえ。"}
+{"sec": "map:324", "key": "But for the time being, the chief's orders are just to monitor and leave it alone.", "en": "But for the time being, the chief's orders are just to monitor and leave it alone.", "ja": "だが今のところ、署長の命令はただ監視して手を出すなってことだ。"}
+{"sec": "map:324", "key": "I can sort of guess what he's thinking.", "en": "I can sort of guess what he's thinking.", "ja": "署長が何を考えてるかは、なんとなくわかる気がする。"}
+{"sec": "map:324", "key": "If the people here think the police don't know about this place, they'll keep their business here.", "en": "If the people here think the police don't know about this place, they'll keep their business here.", "ja": "ここの連中が警察に気づかれてないと思ってる限り、商売はここで続けられるだろ。"}
+{"sec": "map:324", "key": "This way we can keep watching them, collect evidence, and be able to nail them when it really counts.", "en": "This way we can keep watching them, collect evidence, and be able to nail them when it really counts.", "ja": "そうやって奴らを見張り続け、証拠を集めて、いざという時に一網打尽にできるってわけだ。"}
+{"sec": "map:324", "key": "If we were to pull a bust here, then what?", "en": "If we were to pull a bust here, then what? ", "ja": "もしここで摘発をやったとして、それからどうなる?"}
+{"sec": "map:324", "key": "After a while they'd find some other cranny we don't know about to do their dirty work in, and we'll lose control that way.", "en": "After a while they'd find some other cranny we don't know about to do their dirty work in, and we'll lose control that way.", "ja": "しばらくすりゃ、俺たちの知らない別の隠れ場所を見つけて汚い商売を続けるだけだ。それじゃ手綱を失っちまう。"}
+{"sec": "map:324", "key": "So, you can leave this to us.", "en": "So, you can leave this to us. ", "ja": "だから、ここは俺たちに任せておいてくれ。"}
+{"sec": "map:324", "key": "We'll make sure this place doesn't fester too much.", "en": "We'll make sure this place doesn't fester too much.", "ja": "ここがひどいことにならねえよう、しっかり見ておくからよ。"}
+{"sec": "map:324", "key": "Take care. Reborn's got a lot riding on you.", "en": "Take care. Reborn's got a lot riding on you. ", "ja": "気をつけろよ。リボーンはお前にかかってるところが大きいんだからな。"}
+{"sec": "map:324", "key": "HUSTLER: Howdy there!", "en": "HUSTLER: Howdy there!", "ja": "ハスラー: よう、そこの兄さん!"}
+{"sec": "map:324", "key": "I've got a special deal just for you!", "en": "I've got a special deal just for you!", "ja": "あんただけの特別な取引があるんだ!"}
+{"sec": "map:324", "key": "It's a super rare and powerful Pokémon...", "en": "It's a super rare and powerful Pokémon...", "ja": "めちゃくちゃレアで強いポケモンなんだが……"}
+{"sec": "map:324", "key": "I acquired it recently after some of the gangs on the surface were squabbling over it!", "en": "I acquired it recently after some of the gangs on the surface were squabbling over it!", "ja": "最近、地上のギャング連中が奪い合ってたのを、俺が手に入れたんだよ!"}
+{"sec": "map:324", "key": "For the price of two Blue Shards, this mysterious, rare and powerful Pokémon can be all yours!", "en": "For the price of two Blue Shards, this mysterious, rare and powerful Pokémon can be all yours!", "ja": "あおいかけら2個で、この謎めいたレアで強いポケモンがあんたのものになるぜ!"}
+{"sec": "map:324", "key": "HUSTLER: Sold!", "en": "HUSTLER: Sold! ", "ja": "ハスラー: 毎度あり!"}
+{"sec": "map:324", "key": "Here you are, and thank you for your business!", "en": "Here you are, and thank you for your business!", "ja": "はい、どうぞ。ご利用ありがとうございました!"}
+{"sec": "map:324", "key": "???: A rare and powerful Pokémon?", "en": "???: A rare and powerful Pokémon? ", "ja": "???: レアで強いポケモンだと?"}
+{"sec": "map:324", "key": "Don't mind if I do.", "en": "Don't mind if I do.", "ja": "それなら遠慮なくいただこうか。"}
+{"sec": "map:324", "key": "Fwah!", "en": "Fwah!", "ja": "フワッ!"}
+{"sec": "map:324", "key": "???: Voila! I am Corin-Rouge, the dashing rogue!", "en": "???: Voila! I am Corin-Rouge, the dashing rogue!", "ja": "???: さあ、見るがいい!我こそはさっそうたる怪盗、コリン・ルージュ!"}
+{"sec": "map:324", "key": "CORIN-ROUGE: But-- ah! My fair lady!", "en": "CORIN-ROUGE: But-- ah! My fair lady!", "ja": "コリン・ルージュ: だが――ああ!麗しの姫よ!"}
+{"sec": "map:324", "key": "I knew not 'twas you whom I sought the prize of rarity and power from--", "en": "I knew not 'twas you whom I sought the prize of rarity and power from-- ", "ja": "我が求めし希少にして強きこの賞品が、まさかなんじの物だとは知らなんだ――"}
+{"sec": "map:324", "key": "Little did I know that there was a beauty of far greater rarity just about!", "en": "Little did I know that there was a beauty of far greater rarity just about!", "ja": "このすぐそばに、はるかに希少なる美しさがあろうとは、思いもよらなんだ!"}
+{"sec": "map:324", "key": "Alas, my heart is pained--", "en": "Alas, my heart is pained-- ", "ja": "ああ、我が心は痛む――"}
+{"sec": "map:324", "key": "How could I steal from such a precious flower?", "en": "How could I steal from such a precious flower? ", "ja": "かくも尊き花より、いかにして奪えというのか?"}
+{"sec": "map:324", "key": "But I must!", "en": "But I must!", "ja": "だが、奪わねばならぬのだ!"}
+{"sec": "map:324", "key": "Corin-Rouge stole the Pokémon!", "en": "Corin-Rouge stole the Pokémon!", "ja": "コリン・ルージュはポケモンを奪い去った!"}
+{"sec": "map:324", "key": "CORIN-ROUGE: Weep for me, angels, for regret shall be my undoing!", "en": "CORIN-ROUGE: Weep for me, angels, for regret shall be my undoing! ", "ja": "コリン・ルージュ: 天使たちよ、我がために泣くがいい。後悔こそが我が破滅とならん!"}
+{"sec": "map:324", "key": "Or perhaps not-- for what has been done, cannot be undone!", "en": "Or perhaps not-- for what has been done, cannot be undone!", "ja": "いや、そうではないな――なされたことは、もはや取り消せぬのだから!"}
+{"sec": "map:324", "key": "It is with great restraint, too, that I take from you merely this Pokémon.", "en": "It is with great restraint, too, that I take from you merely this Pokémon. ", "ja": "このポケモン一匹だけで済ませたのも、我ながら大した自制よ。"}
+{"sec": "map:324", "key": "For a lady such as you, I should steal a kiss as well.", "en": "For a lady such as you, I should steal a kiss as well.", "ja": "なんじのような淑女なれば、口づけまで奪うべきところだったのだがな。"}
+{"sec": "map:324", "key": "But forsooth!", "en": "But forsooth!", "ja": "だが、まことに!"}
+{"sec": "map:324", "key": "CORIN-ROUGE: It was not to be!", "en": "CORIN-ROUGE: It was not to be! ", "ja": "コリン・ルージュ: それはかなわぬ定めであった!"}
+{"sec": "map:324", "key": "Our paths are too different, my lady; our futures too vast.", "en": "Our paths are too different, my lady; our futures too vast.", "ja": "我らの道はあまりに違う、姫よ。我らの未来はあまりに広い。"}
+{"sec": "map:324", "key": "But I hope that one day you will think of me as I shall you: eyes, ravaged by beauty, and heart, by distance.", "en": "But I hope that one day you will think of me as I shall you: eyes, ravaged by beauty, and heart, by distance.", "ja": "だがいつの日か、なんじも我を想ってくれることを願おう――美しさに奪われし瞳、遠さに奪われし心とともに。"}
+{"sec": "map:324", "key": "Adieu.", "en": "Adieu.", "ja": "さらば。"}
+{"sec": "map:324", "key": "CORIN-ROUGE: As a man ever in pursuit of the finest Pokémon, it would hardly do to let such a prize slip past right under my nose. As such!", "en": "CORIN-ROUGE: As a man ever in pursuit of the finest Pokémon, it would hardly do to let such a prize slip past right under my nose. As such!", "ja": "コリン・ルージュ: 常に最上のポケモンを追い求める男として、目の前でこの賞品を逃すわけにはいかぬ。ゆえに!"}
+{"sec": "map:324", "key": "CORIN-ROUGE: And now, my getaway! May we meet again, never!", "en": "CORIN-ROUGE: And now, my getaway! May we meet again, never!", "ja": "コリン・ルージュ: さあ、退散するとしよう!二度と相まみえることのなきように!"}
+{"sec": "map:324", "key": "HUSTLER: Well, shucks.", "en": "HUSTLER: Well, shucks. ", "ja": "ハスラー: いや、まいったね。"}
+{"sec": "map:324", "key": "By the way, we have a no refund policy, so that's rough.", "en": "By the way, we have a no refund policy, so that's rough.", "ja": "ちなみにうちは返金なしって決まりでね、そりゃキツいわな。"}
+{"sec": "map:324", "key": "Who knows? Maybe you'll see him again someday.", "en": "Who knows? Maybe you'll see him again someday. ", "ja": "まあ、いつかまたあいつに会うこともあるかもな。"}
+{"sec": "map:324", "key": "But I have a feeling a man like that can stay hidden as long as the city and police are in disarray.", "en": "But I have a feeling a man like that can stay hidden as long as the city and police are in disarray.", "ja": "だがあいつみたいな男は、街と警察がガタガタしてる限り、姿を隠し続けられる気がするぜ。"}
+{"sec": "map:324", "key": "HUSTLER: Too bad! Who would like to claim this fantastic beast?!", "en": "HUSTLER: Too bad! Who would like to claim this fantastic beast?!", "ja": "ハスラー: 残念だったな!このすばらしい獣、欲しいのは誰だ?!"}
+{"sec": "map:324", "key": "Hey, stranger. Is there something I can do you for-- er, for you?", "en": "Hey, stranger. Is there something I can do you for-- er, for you?", "ja": "よう、見ない顔だね。何かあたしにできることは――えっと、してほしいことは?"}
+{"sec": "map:324", "key": "I might be able to teach you a thing or two~", "en": "I might be able to teach you a thing or two~", "ja": "一つ二つ、教えてあげられるかもね～"}
+{"sec": "map:324", "key": "Role Play? Yeah, I get asked for that all the time. One Purple Shard?", "en": "Role Play? Yeah, I get asked for that all the time. One Purple Shard?", "ja": "なりきり?ああ、それよく頼まれるのよね。むらさきのかけら1個でどう?"}
+{"sec": "map:324", "key": "Sorry, sugar, I don't work for free.", "en": "Sorry, sugar, I don't work for free.", "ja": "悪いけど、ハニー、タダじゃ働かないの。"}
+{"sec": "map:324", "key": "Thank you kindly. Come again... if you know what I mean~", "en": "Thank you kindly. Come again... if you know what I mean~", "ja": "どうもありがとう。また来てね……わかるでしょ～"}
+{"sec": "map:324", "key": "Oh, how sweet of you! Three Blue Shards, yeah?", "en": "Oh, how sweet of you! Three Blue Shards, yeah?", "ja": "あら、優しいのね!あおいかけら3個ってところかしら?"}
+{"sec": "map:324", "key": "Electroweb, a shocking choice! Three Green Shards for that~", "en": "Electroweb, a shocking choice! Three Green Shards for that~", "ja": "エレキネットとは、ビリビリな選択ね!それならみどりのかけら3個で～"}
+{"sec": "map:324", "key": "Sky Attack? I mean, I know some people feel a high afterwards, but... How about you give me two Red Shards and we call it square.", "en": "Sky Attack? I mean, I know some people feel a high afterwards, but... How about you give me two Red Shards and we call it square.", "ja": "ゴッドバード?まあ、後でハイになる人もいるって聞くけど……あかいかけら2個でチャラにしましょ。"}
+{"sec": "map:324", "key": "See you around, sweetheart.", "en": "See you around, sweetheart.", "ja": "またね、ハニー。"}
+{"sec": "map:324", "key": "ARCHER: We hadn't seen you around in a while, \\PN.", "en": "ARCHER: We hadn't seen you around in a while, \\PN. ", "ja": "アーチャー: しばらく姿を見なかったな、\\PN。"}
+{"sec": "map:324", "key": "I was beginning to worry something had happened.", "en": "I was beginning to worry something had happened.", "ja": "何かあったのではと、心配し始めていたところだ。"}
+{"sec": "map:324", "key": "Although, even if you're here now, there's probably still a lot that's gone on.", "en": "Although, even if you're here now, there's probably still a lot that's gone on.", "ja": "もっとも、今こうして来てくれたとはいえ、まだ色々あったのだろうな。"}
+{"sec": "map:324", "key": "Everything's changed, except 7th Street.", "en": "Everything's changed, except 7th Street.", "ja": "7番街を除いて、すべてが変わった。"}
+{"sec": "map:324", "key": "But that just goes to show you this place wasn't as safe as we thought it was.", "en": "But that just goes to show you this place wasn't as safe as we thought it was.", "ja": "だがそれは、この場所が思っていたほど安全ではなかったという証でもある。"}
+{"sec": "map:324", "key": "The Aqua Gang has kept busy too, but not with our usual method of business.", "en": "The Aqua Gang has kept busy too, but not with our usual method of business.", "ja": "アクア団も忙しくしてきたが、いつもの手口とは違う。"}
+{"sec": "map:324", "key": "From the beginning, this operation was just an underhanded way to fix this city.", "en": "From the beginning, this operation was just an underhanded way to fix this city.", "ja": "そもそもこの活動自体、この街を立て直すための裏の手段にすぎなかった。"}
+{"sec": "map:324", "key": "When this city started fixing itself, of course I had the other guys get involved.", "en": "When this city started fixing itself, of course I had the other guys get involved.", "ja": "この街が自ら立ち直り始めた時、当然、他の連中にも関わらせた。"}
+{"sec": "map:324", "key": "Then, somewhere between purses and picks, and mortar and bricks, I realized something.", "en": "Then, somewhere between purses and picks, and mortar and bricks, I realized something.", "ja": "それから、財布とピック、モルタルとレンガの間のどこかで、私はあることに気づいた。"}
+{"sec": "map:324", "key": "Even if we fix this city,", "en": "Even if we fix this city, ", "ja": "たとえこの街を直したとしても、"}
+{"sec": "map:324", "key": "Nothing will fix us.", "en": "Nothing will fix us.", "ja": "私たち自身は何も直らない。"}
+{"sec": "map:324", "key": "We're a crime rate.", "en": "We're a crime rate.", "ja": "私たちは犯罪率そのものだ。"}
+{"sec": "map:324", "key": "We're a pattern of habits that pull each other into backwards lifestyles with shallow justifications.", "en": "We're a pattern of habits that pull each other into backwards lifestyles with shallow justifications.", "ja": "浅はかな言い訳で互いを堕落した生き方に引きずり込む、習慣のパターンにすぎない。"}
+{"sec": "map:324", "key": "I've decided to disband the Aqua Gang.", "en": "I've decided to disband the Aqua Gang.", "ja": "アクア団を解散することに決めた。"}
+{"sec": "map:324", "key": "Unfortunately, I know it's not that simple.", "en": "Unfortunately, I know it's not that simple.", "ja": "残念ながら、そう単純な話ではないとわかっている。"}
+{"sec": "map:324", "key": "Studies show that recidivism among gang members is particularly high unless they have adequate alternative social and economic structures.", "en": "Studies show that recidivism among gang members is particularly high unless they have adequate alternative social and economic structures.  ", "ja": "研究によれば、十分な代わりの社会的・経済的基盤がなければ、ギャングの再犯率は特に高くなるという。"}
+{"sec": "map:324", "key": "In other words, nothing's going to change unless these guys have somewhere else to go instead.", "en": "In other words, nothing's going to change unless these guys have somewhere else to go instead. ", "ja": "つまり、あいつらに他の行き場ができない限り、何も変わらないということだ。"}
+{"sec": "map:324", "key": "For instance, if they got new jobs.", "en": "For instance, if they got new jobs. ", "ja": "たとえば、新しい仕事に就くとかな。"}
+{"sec": "map:324", "key": "That could cover both halves of their needs fairly cleanly.", "en": "That could cover both halves of their needs fairly cleanly.", "ja": "それなら彼らの必要とするものを、両方ともかなりきれいに満たせるだろう。"}
+{"sec": "map:324", "key": "I've already talked about all of this with them, of course.", "en": "I've already talked about all of this with them, of course. ", "ja": "もちろん、これについてはもう彼ら全員に話してある。"}
+{"sec": "map:324", "key": "Predictably, they're not taking it seriously.", "en": "Predictably, they're not taking it seriously. ", "ja": "予想通り、誰も真剣に受け止めていない。"}
+{"sec": "map:324", "key": "I'll continue to try and get through to them. In the meantime, I have a task for you.", "en": "I'll continue to try and get through to them. In the meantime, I have a task for you.", "ja": "引き続き彼らに伝わるよう努力するつもりだ。それまでの間、お前に頼みたいことがある。"}
+{"sec": "map:324", "key": "They don't really have the motivation for normal work, but if you could find something that would interest each of them, that might change.", "en": "They don't really have the motivation for normal work, but if you could find something that would interest each of them, that might change. ", "ja": "あいつらには普通の仕事へのやる気がまるでないが、それぞれの興味を引くものを見つけてやれば、変わるかもしれない。"}
+{"sec": "map:324", "key": "What I want you to do is talk to everyone, figure out what kind of place they might want to work, and bring them an application from that place.", "en": "What I want you to do is talk to everyone, figure out what kind of place they might want to work, and bring them an application from that place. ", "ja": "お前に頼みたいのは、全員と話して、それぞれがどんな場所で働きたそうか見極め、その場所の応募用紙を持ってきてやることだ。"}
+{"sec": "map:324", "key": "It's not like they'll ask for an application though.", "en": "It's not like they'll ask for an application though.", "ja": "とはいえ、あいつらから応募用紙をくれと頼んでくることはないだろうがな。"}
+{"sec": "map:324", "key": "You'll probably have to be direct about it. Use it from your inventory.", "en": "You'll probably have to be direct about it. Use it from your inventory. ", "ja": "おそらく、こちらから直接渡す必要がある。持ち物から使ってくれ。"}
+{"sec": "map:324", "key": "You understand, right?", "en": "You understand, right?", "ja": "わかったな?"}
+{"sec": "map:324", "key": "Come talk to me once you've got everyone else set on their path.", "en": "Come talk to me once you've got everyone else set on their path. ", "ja": "みんなの進む道が決まったら、また私に話しかけてくれ。"}
+{"sec": "map:324", "key": "ARCHER: What I want you to do is talk to everyone, figure out what kind of place they might want to work, and bring them an application from that place.", "en": "ARCHER: What I want you to do is talk to everyone, figure out what kind of place they might want to work, and bring them an application from that place. ", "ja": "アーチャー: お前に頼みたいのは、全員と話して、それぞれがどんな場所で働きたそうか見極め、その場所の応募用紙を持ってきてやることだ。"}
+{"sec": "map:324", "key": "ARCHER: So you were able to find something for everyone?", "en": "ARCHER: So you were able to find something for everyone?", "ja": "アーチャー: では、全員分見つけてくれたのか?"}
+{"sec": "map:324", "key": "That's a relief.", "en": "That's a relief.", "ja": "それは安心した。"}
+{"sec": "map:324", "key": "Then I guess I'm the only one left.", "en": "Then I guess I'm the only one left. ", "ja": "となると、残るは私だけということか。"}
+{"sec": "map:324", "key": "It's true that I could just as well go out and search for myself,", "en": "It's true that I could just as well go out and search for myself,", "ja": "自分で外に出て探すこともできるにはできるが、"}
+{"sec": "map:324", "key": "But perhaps you've found something in your search for the others that might suit me?", "en": "But perhaps you've found something in your search for the others that might suit me?", "ja": "他の連中を探すついでに、私に合いそうなものを見つけていたりはしないか?"}
+{"sec": "map:324", "key": "My strengths lie in team coordination, research and analysis.", "en": "My strengths lie in team coordination, research and analysis.", "ja": "私の強みはチームの統率、そして調査と分析だ。"}
+{"sec": "map:324", "key": "These are fairly marketable skills, so I hope something matches up.", "en": "These are fairly marketable skills, so I hope something matches up.", "ja": "それなりに需要のあるスキルのはずだから、何か合うものがあればいいのだが。"}
+{"sec": "map:324", "key": "MAXWELL: \\PN! There you are!", "en": "MAXWELL: \\PN! There you are! ", "ja": "マクスウェル: \\PN!やっと見つけた!"}
+{"sec": "map:324", "key": "We've been looking all over for you!", "en": "We've been looking all over for you!", "ja": "あちこち探し回ってたんだぜ!"}
+{"sec": "map:324", "key": "Feels like it's been ages. You've been doing good?", "en": "Feels like it's been ages. You've been doing good?", "ja": "すげえ久しぶりな気がするな。元気にしてたか?"}
+{"sec": "map:324", "key": "We've been doing more good than you would even believe.", "en": "We've been doing more good than you would even believe. ", "ja": "俺たちは、お前が信じられないくらいうまくやってたぜ。"}
+{"sec": "map:324", "key": "Racking up that glory!", "en": "Racking up that glory!", "ja": "栄光を積み重ねてたのさ!"}
+{"sec": "map:324", "key": "But no, I'm serious! Some of the guys were like, boohoo and whatever about pitching in with the city restoration, but we got a lot done!", "en": "But no, I'm serious! Some of the guys were like, boohoo and whatever about pitching in with the city restoration, but we got a lot done!", "ja": "いや、マジな話だ!街の復興に手を貸すのをグチグチ言ってた奴もいたが、俺たちは結構やり遂げたんだぜ!"}
+{"sec": "map:324", "key": "I think it's eye-opening, to be able to look at something, point to it, and say,", "en": "I think it's eye-opening, to be able to look at something, point to it, and say,", "ja": "何かを見て、それを指差してこう言えるってのは、目からうろこが落ちる感覚だと思うんだ。"}
+{"sec": "map:324", "key": "That, right there.", "en": "That, right there. ", "ja": "あそこにあるあれ。"}
+{"sec": "map:324", "key": "I did that.", "en": "I did that. ", "ja": "あれは俺がやったんだ、ってな。"}
+{"sec": "map:324", "key": "That was a difference I made.", "en": "That was a difference I made.", "ja": "あれは俺が生み出した変化だ、ってな。"}
+{"sec": "map:324", "key": "It's what we've been chasing all along.", "en": "It's what we've been chasing all along.", "ja": "俺たちがずっと追い求めてきたのは、まさにそれだったんだ。"}
+{"sec": "map:324", "key": "It's a legacy, you know?", "en": "It's a legacy, you know?", "ja": "遺産ってやつだよ、わかるか?"}
+{"sec": "map:324", "key": "That's why I've decided something.", "en": "That's why I've decided something.", "ja": "だから、あることを決めたんだ。"}
+{"sec": "map:324", "key": "I'm breaking up the Magma Gang.", "en": "I'm breaking up the Magma Gang.", "ja": "俺はマグマ団を解散する。"}
+{"sec": "map:324", "key": "I don't have any regrets.", "en": "I don't have any regrets. ", "ja": "後悔なんて一切ねえ。"}
+{"sec": "map:324", "key": "For how the city was before, it was our best play.", "en": "For how the city was before, it was our best play.", "ja": "以前のこの街の状態を考えりゃ、俺たちのやり方は最善の一手だった。"}
+{"sec": "map:324", "key": "But with how things are going now, it'd just be weighing us down.", "en": "But with how things are going now, it'd just be weighing us down.", "ja": "だが今のこの街の流れを考えりゃ、それはただの足かせにしかならねえ。"}
+{"sec": "map:324", "key": "We have a chance to rebuild this city from the ground up!", "en": "We have a chance to rebuild this city from the ground up!", "ja": "俺たちには、この街をゼロから作り直すチャンスがあるんだ!"}
+{"sec": "map:324", "key": "It's not just the stones we lay the foundation for, but the spirits too!", "en": "It's not just the stones we lay the foundation for, but the spirits too!", "ja": "基礎を築くのは石だけじゃねえ、心だってそうなんだよ!"}
+{"sec": "map:324", "key": "But if they stay cooped up in places like these, they'll never learn that.", "en": "But if they stay cooped up in places like these, they'll never learn that. ", "ja": "だがこんな場所に閉じこもったままじゃ、そんなことは絶対に学べねえ。"}
+{"sec": "map:324", "key": "7th Street is the only place that hasn't changed at all.", "en": "7th Street is the only place that hasn't changed at all.", "ja": "7番街だけは、まったく何も変わっちゃいねえ。"}
+{"sec": "map:324", "key": "Not one bit!", "en": "Not one bit! ", "ja": "これっぽっちもだ!"}
+{"sec": "map:324", "key": "Isn't that weird?", "en": "Isn't that weird?", "ja": "変だと思わねえか?"}
+{"sec": "map:324", "key": "Something feels off about it.", "en": "Something feels off about it.", "ja": "何かがおかしいって感じるんだよ。"}
+{"sec": "map:324", "key": "That's how I know the other path is the right one!", "en": "That's how I know the other path is the right one!", "ja": "だからこそ、もう一つの道が正しいってわかるんだ!"}
+{"sec": "map:324", "key": "In order to get the other guys to understand how to shape a future we can hold dear, what do we do?", "en": "In order to get the other guys to understand how to shape a future we can hold dear, what do we do?", "ja": "他の連中に、大切にできる未来の作り方をわからせるには、どうすればいい?"}
+{"sec": "map:324", "key": "I think a lot of them don't have the confidence or skills for that kind of thing.", "en": "I think a lot of them don't have the confidence or skills for that kind of thing. ", "ja": "あいつらの多くは、そういうことへの自信も技術も持ってないんだと思う。"}
+{"sec": "map:324", "key": "That's why it'd be best to start with a small commitment, like a job.", "en": "That's why it'd be best to start with a small commitment, like a job.", "ja": "だからこそ、仕事みたいな小さな一歩から始めるのが一番なんだ。"}
+{"sec": "map:324", "key": "If they had something to work at every day--", "en": "If they had something to work at every day-- ", "ja": "毎日打ち込めることがあれば――"}
+{"sec": "map:324", "key": "Something legal, mind you--", "en": "Something legal, mind you-- ", "ja": "もちろん、合法的なものでな――"}
+{"sec": "map:324", "key": "I think they'd begin to understand how to take pride in a normal life.", "en": "I think they'd begin to understand how to take pride in a normal life. ", "ja": "普通の暮らしに誇りを持つやり方を、あいつらも理解し始めると思うんだ。"}
+{"sec": "map:324", "key": "That's why I want you to help me!", "en": "That's why I want you to help me!", "ja": "だからお前に力を貸してほしいんだよ!"}
+{"sec": "map:324", "key": "I've already talked to the others about it, but they're not having a word of it.", "en": "I've already talked to the others about it, but they're not having a word of it. ", "ja": "他の連中にはもう話してあるが、誰も聞く耳を持たねえ。"}
+{"sec": "map:324", "key": "It's all \"work this\" and \"effort that.\"", "en": "It's all \"work this\" and \"effort that.\"", "ja": "「仕事がどうの」「努力がどうの」って言うだけでよ。"}
+{"sec": "map:324", "key": "I'll talk some sense into them, but in the meantime, I want you to do me a favor!", "en": "I'll talk some sense into them, but in the meantime, I want you to do me a favor!", "ja": "俺の方でも言い聞かせてみるが、その間、お前に頼みがあるんだ!"}
+{"sec": "map:324", "key": "Have a word with everyone and see if you can think of anywhere they might actually want to get a job.", "en": "Have a word with everyone and see if you can think of anywhere they might actually want to get a job.", "ja": "みんなと話をして、あいつらが本当に働きたいと思えそうな場所がないか考えてみてくれ。"}
+{"sec": "map:324", "key": "Still, they won't go seek it out.", "en": "Still, they won't go seek it out.", "ja": "とはいえ、あいつらは自分から探しには行かねえだろうけどな。"}
+{"sec": "map:324", "key": "But if you bring them an application from a place that sparks their interest, there might just be a chance!", "en": "But if you bring them an application from a place that sparks their interest, there might just be a chance!", "ja": "だが興味をそそる場所の応募用紙を持ってってやりゃ、望みはあるかもしれねえ!"}
+{"sec": "map:324", "key": "I don't care if they don't want it, just shove it right in their faces from your item pocket or something!", "en": "I don't care if they don't want it, just shove it right in their faces from your item pocket or something!", "ja": "嫌がられても構わねえから、持ち物袋から取り出してでも顔面に突きつけてやってくれ!"}
+{"sec": "map:324", "key": "After you've got everyone sorted, then come see me. You got it?", "en": "After you've got everyone sorted, then come see me.  You got it?", "ja": "全員のことが片付いたら、俺のところに来てくれ。わかったな?"}
+{"sec": "map:324", "key": "Let's redefine glory, baby!", "en": "Let's redefine glory, baby!", "ja": "栄光の定義を、俺たちで変えてやろうぜ!"}
+{"sec": "map:324", "key": "MAXWELL: Have a word with everyone and see if you can think of anywhere they might actually want to get a job.", "en": "MAXWELL: Have a word with everyone and see if you can think of anywhere they might actually want to get a job.", "ja": "マクスウェル: みんなと話をして、あいつらが本当に働きたいと思えそうな場所がないか考えてみてくれ。"}
+{"sec": "map:324", "key": "MAXWELL: You got everyone already? Rock on!", "en": "MAXWELL: You got everyone already? Rock on!", "ja": "マクスウェル: もう全員終わったのか?最高だぜ!"}
+{"sec": "map:324", "key": "Well, there's one more matter I was hoping to get your help in.", "en": "Well, there's one more matter I was hoping to get your help in.", "ja": "それで、もう一つだけ手を貸してほしいことがあるんだ。"}
+{"sec": "map:324", "key": "It's kind of embarrassing-- but I've also never really held a normal job.", "en": "It's kind of embarrassing-- but I've also never really held a normal job.", "ja": "ちょっと恥ずかしい話なんだが――実は俺も、まともな仕事に就いたことがねえんだよな。"}
+{"sec": "map:324", "key": "Even so, I want to start now!", "en": "Even so, I want to start now!", "ja": "それでも、今から始めたいんだ!"}
+{"sec": "map:324", "key": "I want to work somewhere where I can make people smile, and leave glory shining in their hearts!", "en": "I want to work somewhere where I can make people smile, and leave glory shining in their hearts!", "ja": "みんなを笑顔にできて、心の中に栄光を輝かせられるような場所で働きたいんだよ!"}
+{"sec": "map:324", "key": "If I can make a difference, even for one person, that would be worth it.", "en": "If I can make a difference, even for one person, that would be worth it.", "ja": "たとえ一人だけでも、誰かのために違いを生み出せるなら、それだけの価値がある。"}
+{"sec": "map:324", "key": "But as for a job that would let me do that...", "en": "But as for a job that would let me do that...", "ja": "だがそんなことができる仕事となると……"}
+{"sec": "map:324", "key": "I'm at a loss.", "en": "I'm at a loss.", "ja": "さっぱり見当がつかねえ。"}
+{"sec": "map:324", "key": "Do you think anywhere like that exists in Reborn?", "en": "Do you think anywhere like that exists in Reborn?", "ja": "リボーンに、そんな場所ってあると思うか?"}
+{"sec": "map:324", "key": "Maybe it doesn't yet... but what will I do in that case?", "en": "Maybe it doesn't yet... but what will I do in that case?", "ja": "まだ無いのかもしれないな……だとしたら、俺はどうすればいい?"}
+{"sec": "map:324", "key": "My friend! Why don't you see what I can do for you?", "en": "My friend! Why don't you see what I can do for you?", "ja": "なあ相棒!俺に何ができるか、見てみないか?"}
+{"sec": "map:324", "key": "Hey, ain't it my favorite customer!", "en": "Hey, ain't it my favorite customer!", "ja": "よお、お気に入りのお客さんじゃねえか!"}
+{"sec": "map:324", "key": "You recognize your friend in the Pokémon trading business?", "en": "You recognize your friend in the Pokémon trading business?", "ja": "ポケモン売買稼業の友達のこと、覚えててくれたか?"}
+{"sec": "map:324", "key": "Things struck a sour note after you swept my last stock and I got the fuzz on my tail for some time.", "en": "Things struck a sour note after you swept my last stock and I got the fuzz on my tail for some time.", "ja": "お前が前の在庫を根こそぎ持ってっちまってからしばらく、サツに目をつけられて散々だったぜ。"}
+{"sec": "map:324", "key": "But you know how I roll. They can't keep me down!", "en": "But you know how I roll. They can't keep me down!", "ja": "だが俺のやり方は知ってるだろ。あいつらに俺は抑えられねえのさ!"}
+{"sec": "map:324", "key": "And a guy's gotta pull Shards somehow, so here I am, now in the teachin' business.", "en": "And a guy's gotta pull Shards somehow, so here I am, now in the teachin' business.", "ja": "男たるもの何とかしてかけらを稼がなきゃならねえ。それで今は指南稼業ってわけだ。"}
+{"sec": "map:324", "key": "Nothin' wrong with that, right?", "en": "Nothin' wrong with that, right?", "ja": "別に悪いことじゃねえよな?"}
+{"sec": "map:324", "key": "So, why don't you see what I can do for you?", "en": "So, why don't you see what I can do for you?", "ja": "だから、俺に何ができるか見てみないか?"}
+{"sec": "map:324", "key": "I can teach your crew some of this kinda stuff.", "en": "I can teach your crew some of this kinda stuff.", "ja": "お前のポケモンにこういうのを教えてやれるぜ。"}
+{"sec": "map:324", "key": "Knock Off? With a price of only 8 Red Shards, it's practically a rip off!", "en": "Knock Off? With a price of only 8 Red Shards, it's practically a rip off!", "ja": "はたきおとす?あかいかけら8個ぽっちだ、ほとんどタダみたいなもんだぜ!"}
+{"sec": "map:324", "key": "Hey, you may be my favorite customer, but this isn't a charity!", "en": "Hey, you may be my favorite customer, but this isn't a charity! ", "ja": "おいおい、お気に入りの客ではあるが、これは慈善事業じゃねえんだぜ!"}
+{"sec": "map:324", "key": "You gotta have the Shards to learn the arts!", "en": "You gotta have the Shards to learn the arts!", "ja": "技を覚えるにはかけらが必要ってわけだ!"}
+{"sec": "map:324", "key": "Always a pleasure!", "en": "Always a pleasure!", "ja": "いつでも大歓迎だ!"}
+{"sec": "map:324", "key": "For just 7 Purple Shards, this Iron Head is practically a Steel!", "en": "For just 7 Purple Shards, this Iron Head is practically a Steel!", "ja": "むらさきのかけらたった7個で、このアイアンヘッドはまるで鋼の掘り出し物だぜ!"}
+{"sec": "map:324", "key": "Giga Drain brings the pain! For 6 Green Shards, it's your gain!", "en": "Giga Drain brings the pain! For 6 Green Shards, it's your gain!", "ja": "ギガドレインは痛みをもたらす!みどりのかけら6個で、お前の得になるぜ!"}
+{"sec": "map:324", "key": "This may be Liquidation, but there ain't no sale, kid! 6 Blue Shards!", "en": "This may be Liquidation, but there ain't no sale, kid! 6 Blue Shards!", "ja": "これはアクアブレイクだが、値引きなんてねえぜ、坊主!あおいかけら6個だ!"}
+{"sec": "map:324", "key": "I'll be seeing you around!", "en": "I'll be seeing you around!", "ja": "またな!"}
+{"sec": "map:324", "key": "Hello! Are you prepared to be amazed by the amazing moves of the Move Magician?!", "en": "Hello! Are you prepared to be amazed by the amazing moves of the Move Magician?!", "ja": "こんにちは!わざの魔術師の驚異のわざの数々に、驚く準備はできてる?!"}
+{"sec": "map:324", "key": "Splendid! Just say the word and Paras-to Change-o! Your Pokémon can learn one of these splendid attacks!", "en": "Splendid! Just say the word and Paras-to Change-o!  Your Pokémon can learn one of these splendid attacks!", "ja": "素晴らしい!一言おっしゃるだけで、パラス・トゥ・チェンジョー!あなたのポケモンが、このすばらしい技のひとつを覚えられますよ!"}
+{"sec": "map:324", "key": "Tricks! My specialty. For two Purple Shards, I'll show you how you confound your opponents!", "en": "Tricks! My specialty. For two Purple Shards, I'll show you how you confound your opponents!", "ja": "トリックはわたしの得意分野です。むらさきのかけら2個で、相手を惑わせる方法をお見せしましょう!"}
+{"sec": "map:324", "key": "But don't you have Shards? I need enough to pay back Agate--", "en": "But don't you have Shards? I need enough to pay back Agate--", "ja": "ところで、かけらはお持ちですか?アゲートに返さなければならない分がありまして――"}
+{"sec": "map:324", "key": "I mean... If I don't have Shards, I won't have enough mana to teach your Pokémon! Yes, that's it!", "en": "I mean... If I don't have Shards, I won't have enough mana to teach your Pokémon! Yes, that's it!", "ja": "つまり……かけらがなければ、あなたのポケモンに教えるためのマナが足りないのです!ええ、そういうことです!"}
+{"sec": "map:324", "key": "Abra! Kadabra! And Alomomola! Your Pokémon is now one move more amazing!", "en": "Abra! Kadabra! And Alomomola! Your Pokémon is now one move more amazing!", "ja": "ケーシィ!ユンゲラー!そしてママンボウ!あなたのポケモンが、また一つ素晴らしいわざを覚えました!"}
+{"sec": "map:324", "key": "Ah yes, I can see it clearly now! Your Pokémon will learn Defog for the price of two Red Shards!", "en": "Ah yes, I can see it clearly now! Your Pokémon will learn Defog for the price of two Red Shards!", "ja": "ああ、はっきりと見えてきました!あなたのポケモンは、あかいかけら2個できりばらいを覚えるでしょう!"}
+{"sec": "map:324", "key": "Laser Focus, is it? It won't even take an ounce of focus for me to pass that on! Just give me one Blue Shard and it's done!", "en": "Laser Focus, is it? It won't even take an ounce of focus for me to pass that on! Just give me one Blue Shard and it's done!", "ja": "とぎすます、ですか?それを教えるのに集中力なんて欠片も要りませんとも!あおいかけら1個いただければ、それで完了です!"}
+{"sec": "map:324", "key": "The classic switcharooni! For one Green Shard, you too will make skills move in the blink of an eye!", "en": "The classic switcharooni! For one Green Shard, you too will make skills move in the blink of an eye!", "ja": "定番の入れ替えわざですね!みどりのかけら1個で、あなたも一瞬でスキルを移し替えられますよ!"}
+{"sec": "map:324", "key": "Headbutt is gonna run you three Blue Shards.", "en": "Headbutt is gonna run you three Blue Shards.", "ja": "ずつきなら、あおいかけら3個ですね。"}
+{"sec": "map:324", "key": "Bounce is gonna run you three Purple Shards.", "en": "Bounce is gonna run you three Purple Shards.", "ja": "とびはねるなら、むらさきのかけら3個ですね。"}
+{"sec": "map:324", "key": "Heal Bell is gonna run you four Green Shards.", "en": "Heal Bell is gonna run you four Green Shards.", "ja": "いやしのすずなら、みどりのかけら4個ですね。"}
+{"sec": "map:324", "key": "Bug Bite is gonna run you three Red Shards.", "en": "Bug Bite is gonna run you three Red Shards.", "ja": "むしくいなら、あかいかけら3個ですね。"}
+{"sec": "map:324", "key": "An advertisement is plastered on the wall...", "en": "An advertisement is plastered on the wall...", "ja": "壁に貼られた広告……"}
+{"sec": "map:324", "key": "\"The amazing Agate Circus!", "en": "\"The amazing Agate Circus!", "ja": "「驚異のアゲートサーカス!"}
+{"sec": "map:324", "key": "Featuring carnies, clowns and chaos!", "en": "Featuring carnies, clowns and chaos!", "ja": "見世物屋も、ピエロも、こんとんもお見せします!"}
+{"sec": "map:324", "key": "Now with the famed Agate Ace Triumvirate!", "en": "Now with the famed Agate Ace Triumvirate!", "ja": "今なら評判のアゲート・エース三人衆も登場!"}
+{"sec": "map:324", "key": "Take the challenge and face off against three Reborn League Leaders in a spectacular showcase smack- down!", "en": "Take the challenge and face off against three Reborn League Leaders in a spectacular showcase smack- down!", "ja": "挑戦してみよう、リボーンリーグの3人のジムリーダーと繰り広げる、華麗なる大対決!"}
+{"sec": "map:324", "key": "Just west of Agate City!", "en": "Just west of Agate City!", "ja": "アゲートシティのすぐ西!」"}
+{"sec": "map:324", "key": "Buy", "en": "Buy", "ja": "買う"}
+{"sec": "map:324", "key": "No", "en": "No", "ja": "いいえ"}
+{"sec": "map:324", "key": "Water Pulse", "en": "Water Pulse", "ja": "みずのはどう"}
+{"sec": "map:324", "key": "Last Resort", "en": "Last Resort", "ja": "とっておき"}
+{"sec": "map:324", "key": "Super Fang", "en": "Super Fang", "ja": "いかりのまえば"}
+{"sec": "map:324", "key": "Shock Wave", "en": "Shock Wave", "ja": "でんげきは"}
+{"sec": "map:324", "key": "Yes", "en": "Yes", "ja": "はい"}
+{"sec": "map:324", "key": "Role Play", "en": "Role Play", "ja": "なりきり"}
+{"sec": "map:324", "key": "Covet", "en": "Covet", "ja": "ほしがる"}
+{"sec": "map:324", "key": "Electroweb", "en": "Electroweb", "ja": "エレキネット"}
+{"sec": "map:324", "key": "Sky Attack", "en": "Sky Attack", "ja": "ゴッドバード"}
+{"sec": "map:324", "key": "Knock Off", "en": "Knock Off", "ja": "はたきおとす"}
+{"sec": "map:324", "key": "Iron Head", "en": "Iron Head", "ja": "アイアンヘッド"}
+{"sec": "map:324", "key": "Giga Drain", "en": "Giga Drain", "ja": "ギガドレイン"}
+{"sec": "map:324", "key": "Liquidation", "en": "Liquidation", "ja": "アクアブレイク"}
+{"sec": "map:324", "key": "Trick", "en": "Trick", "ja": "トリック"}
+{"sec": "map:324", "key": "Defog", "en": "Defog", "ja": "きりばらい"}
+{"sec": "map:324", "key": "Laser Focus", "en": "Laser Focus", "ja": "とぎすます"}
+{"sec": "map:324", "key": "Skill Swap", "en": "Skill Swap", "ja": "スキルスワップ"}
+{"sec": "map:324", "key": "Headbutt", "en": "Headbutt", "ja": "ずつき"}
+{"sec": "map:324", "key": "Bounce", "en": "Bounce", "ja": "とびはねる"}
+{"sec": "map:324", "key": "Heal Bell", "en": "Heal Bell", "ja": "いやしのすず"}
+{"sec": "map:324", "key": "Bug Bite", "en": "Bug Bite", "ja": "むしくい"}

@@ -1,0 +1,502 @@
+{"id": 3220, "m": "map_0827", "en": "You gotta get in there and check it out before it's too late!"}
+{"id": 3221, "m": "map_0827", "en": "You might have better luck getting into some parts of Ametrine by going through Celestinine too."}
+{"id": 3222, "m": "map_0827", "en": "Report comes from a super deep part of the mountain, so you might need to take a dip to get in there."}
+{"id": 3223, "m": "map_0827", "en": "But best you get dippin'."}
+{"id": 3224, "m": "map_0827", "en": "For glory, baby."}
+{"id": 3225, "m": "map_0827", "en": "DANIELLE: Okay, so apparently there's a huge cult chamber underneath Jasper Ward?"}
+{"id": 3226, "m": "map_0827", "en": "Subseven whatever?"}
+{"id": 3227, "m": "map_0827", "en": "Did you know about this?"}
+{"id": 3228, "m": "map_0827", "en": "Is everyone just like, totally okay and accepting of these giant underground spaces under a densely- populated area belonging to fanatical groups?"}
+{"id": 3229, "m": "map_0827", "en": "....Okay, you know what, forget it. "}
+{"id": 3230, "m": "map_0827", "en": "No wonder this city was nearly taken offline twice."}
+{"id": 3231, "m": "map_0827", "en": "You all had this coming."}
+{"id": 3232, "m": "map_0827", "en": "Anyway, apparently there's some kind of energy fluctuation there..."}
+{"id": 3233, "m": "map_0827", "en": "...That's what I was told, but again, let's be real, it's probably just another Legendary that decided to stick its nose into our business."}
+{"id": 3234, "m": "map_0827", "en": "So that's your problem now."}
+{"id": 3235, "m": "map_0827", "en": "\"help human back !\""}
+{"id": 3236, "m": "map_0827", "en": "\"hellogreetings help human\""}
+{"id": 3237, "m": "map_0827", "en": "\"new bigmon\""}
+{"id": 3238, "m": "map_0827", "en": "\"help human help smeargle now?\""}
+{"id": 3239, "m": "map_0827", "en": "\"ok good\""}
+{"id": 3240, "m": "map_0827", "en": "\"bigmon boom by beach cave\""}
+{"id": 3241, "m": "map_0827", "en": "\"red tail human go too\""}
+{"id": 3242, "m": "map_0827", "en": "\"one eye red tail human go too\""}
+{"id": 3243, "m": "map_0827", "en": "\"black fur human go too\""}
+{"id": 3244, "m": "map_0827", "en": "\"go fix bigmon !!!\""}
+{"id": 3245, "m": "map_0827", "en": "\"ok good good!!\""}
+{"id": 3246, "m": "map_0827", "en": "\"go fix beach cave bigmon !!\""}
+{"id": 3247, "m": "map_0827", "en": "\"apopplio cave?\""}
+{"id": 3248, "m": "map_0827", "en": "\"beach beach beach beach\""}
+{"id": 3249, "m": "map_0827", "en": "\"help human go go go go !!!\""}
+{"id": 3250, "m": "map_0827", "en": "\"ok help human busy help smeargle not now\""}
+{"id": 3251, "m": "map_0827", "en": "It draws a picture of a beach."}
+{"id": 3252, "m": "map_0827", "en": "DANIELLE: What the hell did you do?"}
+{"id": 3253, "m": "map_0827", "en": "After Zero mentioned we weren't getting any readings, I heard you went off to the other meteor site and then all of a sudden we've got like four new reports and also our equipment busted."}
+{"id": 3254, "m": "map_0827", "en": "Like it wasn't picking anything up until you got that Giratina, and then all of the energy it should've been detecting came through at once and overloaded it."}
+{"id": 3255, "m": "map_0827", "en": "So nice going."}
+{"id": 3256, "m": "map_0827", "en": "Doubt we're going to have any luck finding more Anomalies after the current round unless we can get that repaired."}
+{"id": 3257, "m": "map_0827", "en": "Anyway, one of the reports we suddenly picked up was super high-speed."}
+{"id": 3258, "m": "map_0827", "en": "No idea where it came from, but it shot halfway across the region in a blink and currently it's stalled out atop Charous Mountain."}
+{"id": 3259, "m": "map_0827", "en": "Easiest access is from the Pokémon League."}
+{"id": 3260, "m": "map_0827", "en": "Hardy already went up there, but I'm pretty sure he permanently forgot his brain cells at home, so you might wanna go help out."}
+{"id": 3261, "m": "map_0827", "en": "Here you can exchange hard-earned Battle Points for level-increasing items."}
+{"id": 3262, "m": "map_0827", "en": "What would you like today? \\ch[62,-1,1 BP- Exp. Candy XL x 8,5 BP- Exp. Candy XL x50,1 BP- Ability Capsule,2 BP- Heart Scale x2, 1 BP- Rare Candy,2 BP- EV Tuner x3,3 BP- EV Booster x2,4 BP- PP All, 9 BP- Reborn Ball, 5 BP- Glitter Ball x10,13 BP- Sacred Ash]"}
+{"id": 3263, "m": "map_0827", "en": "A switch controls the flashing lights."}
+{"id": 3264, "m": "map_0827", "en": "Turn them down?"}
+{"id": 3265, "m": "map_0827", "en": "Turn them up?"}
+{"id": 3266, "m": "map_0827", "en": "Welcome to the Nightclub's Battle Facilities."}
+{"id": 3267, "m": "map_0827", "en": "The Battle Pavilion is a traditional Battle Tower style challenge using your own Pokémon,"}
+{"id": 3268, "m": "map_0827", "en": "Whereas in the Battle Factory challenge you instead fight with a selection of randomly rented Pokémon."}
+{"id": 3269, "m": "map_0827", "en": "The Battle Palace challenge is similar to the Battle Pavilion, however, there's a twist: Your Pokémon will choose their actions themselves!"}
+{"id": 3270, "m": "map_0827", "en": "In addition to this, random Field Effects may be optionally generated before each battle."}
+{"id": 3271, "m": "map_0827", "en": "Completing a 5 battle round in either challenge with Field Effects enabled will increase your BP reward."}
+{"id": 3272, "m": "map_0827", "en": "Would you like to enable random Field Effects?"}
+{"id": 3273, "m": "map_0827", "en": "Random Field Effects have been enabled."}
+{"id": 3274, "m": "map_0827", "en": "Random Field Effects have been disabled."}
+{"id": 3275, "m": "map_0827", "en": "Welcome to the Battle Factory."}
+{"id": 3276, "m": "map_0827", "en": "Would you like to fight in Singles or Doubles?"}
+{"id": 3277, "m": "map_0827", "en": "For the Battle Factory, you may choose to have one random field for the entire set, or a different random field for each battle."}
+{"id": 3278, "m": "map_0827", "en": "Which would you like?"}
+{"id": 3279, "m": "map_0827", "en": "You'll get one random field effect for the full set."}
+{"id": 3280, "m": "map_0827", "en": "You'll get one random field effect per battle."}
+{"id": 3281, "m": "map_0827", "en": "Congratulations on the win."}
+{"id": 3282, "m": "map_0827", "en": "I will take your rental Pokémon back and return your own Pokémon."}
+{"id": 3283, "m": "map_0827", "en": "We've been waiting for you. Please come this way."}
+{"id": 3284, "m": "map_0827", "en": "ZERO: ...Hey there, \\PN."}
+{"id": 3285, "m": "map_0827", "en": "Surprised to see me out from behind the desk now?"}
+{"id": 3286, "m": "map_0827", "en": "We'd finally finished cleaning up all the Anomaly reports, and, well, uhh..."}
+{"id": 3287, "m": "map_0827", "en": "Figured I'd stick around for a little bit."}
+{"id": 3288, "m": "map_0827", "en": "Take a little bit of time to relax."}
+{"id": 3289, "m": "map_0827", "en": "...You know, uh... enjoy the scenery and all."}
+{"id": 3290, "m": "map_0827", "en": "It can be... a little overwhelming here."}
+{"id": 3291, "m": "map_0827", "en": "But whether I'm behind the counter managing reports or not..."}
+{"id": 3292, "m": "map_0827", "en": "It's been nice to see everyone back again."}
+{"id": 3293, "m": "map_0827", "en": "ZERO: ...Thanks for stopping by to say hi."}
+{"id": 3294, "m": "map_0827", "en": "It's good to see you as always, too."}
+{"id": 3295, "m": "map_0827", "en": "ZERO: Honestly, \\PN, it feels all too weird now."}
+{"id": 3296, "m": "map_0827", "en": "No reports to manage, no equipment to monitor, no Anomalies to help with..."}
+{"id": 3297, "m": "map_0827", "en": "...No nights losing sleep over how many we received at once sometimes, either."}
+{"id": 3298, "m": "map_0827", "en": "One part of me kinda thought the reports would never end."}
+{"id": 3299, "m": "map_0827", "en": "...The other part is sad they're over and done with."}
+{"id": 3300, "m": "map_0827", "en": "...Heh."}
+{"id": 3301, "m": "map_0827", "en": "I won't lie, though, it's still been nice to be able to rest at the end of it all."}
+{"id": 3302, "m": "map_0827", "en": "Seeing everyone here..."}
+{"id": 3303, "m": "map_0827", "en": "Ace, Blake... Cal--"}
+{"id": 3304, "m": "map_0827", "en": "Ace, Taka--"}
+{"id": 3305, "m": "map_0827", "en": "Eve and Lumi, too..."}
+{"id": 3306, "m": "map_0827", "en": "...I, uh... I missed them."}
+{"id": 3307, "m": "map_0827", "en": "Maybe I could try and talk with them sometime, too."}
+{"id": 3308, "m": "map_0827", "en": "...Dunno if they'd want to, but..."}
+{"id": 3309, "m": "map_0827", "en": "Might be nice."}
+{"id": 3310, "m": "map_0827", "en": "ZERO: You know, \\PN, I've been thinking."}
+{"id": 3311, "m": "map_0827", "en": "I kinda want to see if there's other places where I can try and help out, too."}
+{"id": 3312, "m": "map_0827", "en": "Between helping manage the Anomaly reports, and that, uh, freezing New World expedition together..."}
+{"id": 3313, "m": "map_0827", "en": "It was... a lot to manage."}
+{"id": 3314, "m": "map_0827", "en": "But it just... felt right."}
+{"id": 3315, "m": "map_0827", "en": "To finally be able to do something right myself."}
+{"id": 3316, "m": "map_0827", "en": "Being able to support you there, and support behind the counter here..."}
+{"id": 3317, "m": "map_0827", "en": "ZERO: ...Y'know, \\PN..."}
+{"id": 3318, "m": "map_0827", "en": "All that time behind the desk got me thinking."}
+{"id": 3319, "m": "map_0827", "en": "Kinda want to see if there's some other places where I can try and help out, too."}
+{"id": 3320, "m": "map_0827", "en": "Helping manage all of those Anomaly reports..."}
+{"id": 3321, "m": "map_0827", "en": "It just... felt right."}
+{"id": 3322, "m": "map_0827", "en": "If we could all do the little things within our power to help the people around us, then maybe things wouldn't be so bad."}
+{"id": 3323, "m": "map_0827", "en": "...U-uh, sorry to lay that on you suddenly."}
+{"id": 3324, "m": "map_0827", "en": "You know, again."}
+{"id": 3325, "m": "map_0827", "en": "Thanks for hearing me out, though."}
+{"id": 3326, "m": "map_0827", "en": "ZERO: Heh, guess I've gotta figure out what else to do nowadays, huh."}
+{"id": 3327, "m": "map_0827", "en": "It's uh, weird to not have anything to do."}
+{"id": 3328, "m": "map_0827", "en": "...Don't have to tell me twice how much I've been blabbering about it."}
+{"id": 3329, "m": "map_0827", "en": "I'm just glad that there's even been something that someone like me could do for this whole clusterfuck."}
+{"id": 3330, "m": "map_0827", "en": "ZERO: ...Uh."}
+{"id": 3331, "m": "map_0827", "en": "\"Someone like me\" is only rude to myself, I guess."}
+{"id": 3332, "m": "map_0827", "en": "This is... embarrassing, but sometimes it still helps me to think of myself as if I were still different people."}
+{"id": 3333, "m": "map_0827", "en": "I wouldn't want to talk like that to Eve and Lumi."}
+{"id": 3334, "m": "map_0827", "en": "I know they wouldn't say that to me."}
+{"id": 3335, "m": "map_0827", "en": "So, uh... to correct it..."}
+{"id": 3336, "m": "map_0827", "en": "I'm proud that I could still make a difference here."}
+{"id": 3337, "m": "map_0827", "en": "Help around with fighting the good fight."}
+{"id": 3338, "m": "map_0827", "en": "ZERO: I'm glad you stopped by for a chat over here."}
+{"id": 3339, "m": "map_0827", "en": "...Maybe I'll join everyone sometime."}
+{"id": 3340, "m": "map_0827", "en": "ZERO: Need any kind of support today?"}
+{"id": 3341, "m": "map_0827", "en": "...Or were you just saying hi?"}
+{"id": 3342, "m": "map_0827", "en": "ZERO: It can be kind of disorienting here sometimes."}
+{"id": 3343, "m": "map_0827", "en": "Not that I mind, though."}
+{"id": 3344, "m": "map_0827", "en": "Good music, people who... still tolerate me? Friends?"}
+{"id": 3345, "m": "map_0827", "en": "It's nice."}
+{"id": 3346, "m": "map_0827", "en": "What's up, champ?"}
+{"id": 3347, "m": "map_0827", "en": "You into remixing at all?"}
+{"id": 3348, "m": "map_0827", "en": "Whether it's music or Pokémon, it can really help to shake it up!"}
+{"id": 3349, "m": "map_0827", "en": "For instance, say you wanna swap out a move or two on your squad for one battle, but you wanna get it back later..."}
+{"id": 3350, "m": "map_0827", "en": "I can help you out there!"}
+{"id": 3351, "m": "map_0827", "en": "See, all you gotta do?"}
+{"id": 3352, "m": "map_0827", "en": "Bring me a Pokémon, and I'll memorize its moves as they are."}
+{"id": 3353, "m": "map_0827", "en": "We save that mix, and you can come back to it any time you want."}
+{"id": 3354, "m": "map_0827", "en": "No charge, for the champ."}
+{"id": 3355, "m": "map_0827", "en": "What do you say, wanna give it a shot?"}
+{"id": 3356, "m": "map_0827", "en": "Here to mix it up, champ?"}
+{"id": 3357, "m": "map_0827", "en": "What are you thinkin'?"}
+{"id": 3358, "m": "map_0827", "en": "Pick a moveset to record."}
+{"id": 3359, "m": "map_0827", "en": "Changed your mind?"}
+{"id": 3360, "m": "map_0827", "en": "All right, I'll memorize that Pokémon's moves."}
+{"id": 3361, "m": "map_0827", "en": "What should we call this mix?"}
+{"id": 3362, "m": "map_0827", "en": "You already saved a moveset under the name \\v[6]."}
+{"id": 3363, "m": "map_0827", "en": "How do you wanna deal with this, champ?"}
+{"id": 3364, "m": "map_0827", "en": "Got it. \\v[6] has been updated."}
+{"id": 3365, "m": "map_0827", "en": "Got it. It's saved as \\v[6]"}
+{"id": 3366, "m": "map_0827", "en": "Hey, we gotta call it something, don't we?"}
+{"id": 3367, "m": "map_0827", "en": "It's more fun that way."}
+{"id": 3368, "m": "map_0827", "en": "And if it's not something, it's nothing."}
+{"id": 3369, "m": "map_0827", "en": "You don't wanna make your Pokémon remember nothing, champ, trust me."}
+{"id": 3370, "m": "map_0827", "en": "That Pokémon's moves are already saved under the name \\v[6]."}
+{"id": 3371, "m": "map_0827", "en": "Let's run it back!"}
+{"id": 3372, "m": "map_0827", "en": "What are we doin', champ?"}
+{"id": 3373, "m": "map_0827", "en": "Well, you get the gist of how it goes, yeah?"}
+{"id": 3374, "m": "map_0827", "en": "Talk to me any time you need."}
+{"id": 3375, "m": "map_0827", "en": "Oh, by the way, there's a switch to the left of me to turn down the lights if they're getting obnoxious for you."}
+{"id": 3376, "m": "map_0827", "en": "Keep it cool, champ."}
+{"id": 3377, "m": "map_0827", "en": "NIHIL: I wondered if I'd see you around here."}
+{"id": 3378, "m": "map_0827", "en": "They got me on security detail."}
+{"id": 3379, "m": "map_0827", "en": "Just stand watch, and toss out the loud people."}
+{"id": 3380, "m": "map_0827", "en": "Doesn't happen often. "}
+{"id": 3381, "m": "map_0827", "en": "Good vibes."}
+{"id": 3382, "m": "map_0827", "en": "You sure this qualifies as \"honest work\"?"}
+{"id": 3383, "m": "map_0827", "en": "Whatever."}
+{"id": 3384, "m": "map_0827", "en": "I mean, thanks."}
+{"id": 3385, "m": "map_0827", "en": "I mean... whatever."}
+{"id": 3386, "m": "map_0827", "en": "NIHIL: I already got in trouble for socializing too much on the clock though, so I'm gonna have to skip on the small talk."}
+{"id": 3387, "m": "map_0827", "en": "Don't mind me, bigshot, just do your thing."}
+{"id": 3388, "m": "map_0827", "en": "NIHIL: What's up."}
+{"id": 3389, "m": "map_0827", "en": "Welcome to the Battle Palace!"}
+{"id": 3390, "m": "map_0827", "en": "Is this your first time here? If you're unaware, the Battle Palace is much like the standard Battle Pavilion, except your Pokémon will fight on their own!"}
+{"id": 3391, "m": "map_0827", "en": "I know we don't have the most... stellar... of reputations..."}
+{"id": 3392, "m": "map_0827", "en": "But I assure you, Trainer, our Battle Palace experience is much-improved over that of other regions!"}
+{"id": 3393, "m": "map_0827", "en": "Unlike a certain someone's Palace in a certain tropical region, in our Palace, Pokémon can actually fight at their full potential!"}
+{"id": 3394, "m": "map_0827", "en": "I'm not sure if the Pokémon in Reborn are smarter or what, but here, they'll actually fight kinda competently! No more indecision or bad moves!"}
+{"id": 3395, "m": "map_0827", "en": "And, here, they even know when to return to their Poké Ball and let their teammates do the fighting!"}
+{"id": 3396, "m": "map_0827", "en": "You don't have to do anything! So, that said..."}
+{"id": 3397, "m": "map_0827", "en": "Sorry, you can't participate... You need three different Pokémon to enter."}
+{"id": 3398, "m": "map_0827", "en": "Please choose the three Pokémon that will enter!"}
+{"id": 3399, "m": "map_0827", "en": "Sorry, you can't participate... You need four different Pokémon to enter."}
+{"id": 3400, "m": "map_0827", "en": "Please choose the four Pokémon that will enter!"}
+{"id": 3401, "m": "map_0827", "en": "Have a great day, and I hope you consider stopping by again!"}
+{"id": 3402, "m": "map_0827", "en": "Your total is now \\v[593]!"}
+{"id": 3403, "m": "map_0827", "en": "Your record has been updated!"}
+{"id": 3404, "m": "map_0827", "en": "I hope you enjoyed your time at the Battle Palace!"}
+{"id": 3405, "m": "map_0827", "en": "If you enjoyed the experience so much that you're thinking 'Oh my god, dear Palace attendant, how can I enjoy this wonderful experience more?', well..."}
+{"id": 3406, "m": "map_0827", "en": "You could try telling someone \"battlepalace\"! Then, you won't have to lift a finger to order your Pokémon around ever again!"}
+{"id": 3407, "m": "map_0827", "en": "Thanks for playing!"}
+{"id": 3408, "m": "map_0827", "en": "Welcome back! Please, come this way."}
+{"id": 3409, "m": "map_0827", "en": "Sorry, but your challenge has been canceled..."}
+{"id": 3410, "m": "map_0827", "en": "Yes"}
+{"id": 3411, "m": "map_0827", "en": "No"}
+{"id": 3412, "m": "map_0827", "en": "Select"}
+{"id": 3413, "m": "map_0827", "en": "Random"}
+{"id": 3414, "m": "map_0827", "en": "Cancel"}
+{"id": 3415, "m": "map_0827", "en": "Hard"}
+{"id": 3416, "m": "map_0827", "en": "What?"}
+{"id": 3417, "m": "map_0827", "en": "Singles"}
+{"id": 3418, "m": "map_0827", "en": "Doubles"}
+{"id": 3419, "m": "map_0827", "en": "What...?"}
+{"id": 3420, "m": "map_0827", "en": "Full Set"}
+{"id": 3421, "m": "map_0827", "en": "Per Battle"}
+{"id": 3422, "m": "map_0827", "en": "Record"}
+{"id": 3423, "m": "map_0827", "en": "Restore"}
+{"id": 3424, "m": "map_0827", "en": "Update"}
+{"id": 3425, "m": "map_0827", "en": "New Name"}
+{"id": 3426, "m": "map_0324", "en": "Locked."}
+{"id": 3427, "m": "map_0324", "en": "--POKÉMON PSYCHOLOGY--"}
+{"id": 3428, "m": "map_0324", "en": "I've got the rarest wares around! Wanna take a look?"}
+{"id": 3429, "m": "map_0324", "en": "Heh, whaddya mean it's all junk?"}
+{"id": 3430, "m": "map_0324", "en": "Ah, you're that trainer what helped Arclight, innit?"}
+{"id": 3431, "m": "map_0324", "en": "Thanks for that."}
+{"id": 3432, "m": "map_0324", "en": "We're rounding up some final evidence to use against the rest of those who were involved in illegal Pokémon trafficking."}
+{"id": 3433, "m": "map_0324", "en": "You can sleep tight and be sure that we'll wrap this up tight so that no one ever has to suffer again."}
+{"id": 3434, "m": "map_0324", "en": "By the by, I heard what you did in returning everybody to the owners we could track down."}
+{"id": 3435, "m": "map_0324", "en": "Mighty admirable, that, but I'm sure it can't have been a quick and easy job."}
+{"id": 3436, "m": "map_0324", "en": "You deserve to be rewarded for ever having done it, don't you think?"}
+{"id": 3437, "m": "map_0324", "en": "Next time someone asks you for a password, try telling them \"freemegaz\"."}
+{"id": 3438, "m": "map_0324", "en": "Using that, you can have that fancy Ring gizmet what Arc passed you from frame 1."}
+{"id": 3439, "m": "map_0324", "en": "Enjoy now, friend!"}
+{"id": 3440, "m": "map_0324", "en": "Buy somethin'! "}
+{"id": 3441, "m": "map_0324", "en": "This stuff is worth tons, I'm tellin' ya!"}
+{"id": 3442, "m": "map_0324", "en": "Ability Capsules! Selling Ability Capsules!"}
+{"id": 3443, "m": "map_0324", "en": "The next one goes for 1 Red Shard!"}
+{"id": 3444, "m": "map_0324", "en": "The next one goes for \\v[180] Red Shards!"}
+{"id": 3445, "m": "map_0324", "en": "The next one goes for 1 Purple Shard!"}
+{"id": 3446, "m": "map_0324", "en": "The next one goes for \\v[180] Purple Shards!"}
+{"id": 3447, "m": "map_0324", "en": "The next one goes for 1 Blue Shard!"}
+{"id": 3448, "m": "map_0324", "en": "The next one goes for \\v[180] Blue Shards!"}
+{"id": 3449, "m": "map_0324", "en": "The next one goes for 1 Green Shard!"}
+{"id": 3450, "m": "map_0324", "en": "The next one goes for \\v[180] Green Shards!"}
+{"id": 3451, "m": "map_0324", "en": "Take it or leave it!?"}
+{"id": 3452, "m": "map_0324", "en": "We have a deal!"}
+{"id": 3453, "m": "map_0324", "en": "Selling Ability Capsules! Who wants another?!"}
+{"id": 3454, "m": "map_0324", "en": "Looks like you do NOT have the goods! Swing and a miss, but try again later!"}
+{"id": 3455, "m": "map_0324", "en": "Selling Ability Capsules! Who wants 'em!?"}
+{"id": 3456, "m": "map_0324", "en": "Hello! Care to introduce your Pokémon to one of our special techniques?"}
+{"id": 3457, "m": "map_0324", "en": "What suits your fancy?"}
+{"id": 3458, "m": "map_0324", "en": "Water Pulse is gonna run you three Blue Shards."}
+{"id": 3459, "m": "map_0324", "en": "Come back when you've got it."}
+{"id": 3460, "m": "map_0324", "en": "Perfect."}
+{"id": 3461, "m": "map_0324", "en": "Last Resort is gonna run you two Purple Shards."}
+{"id": 3462, "m": "map_0324", "en": "Super Fang is gonna run you three Green Shards."}
+{"id": 3463, "m": "map_0324", "en": "Shock Wave is gonna run you three Red Shards."}
+{"id": 3464, "m": "map_0324", "en": "Any time, kid. "}
+{"id": 3465, "m": "map_0324", "en": "Welcome to my little shop! "}
+{"id": 3466, "m": "map_0324", "en": "All these Pokémon are straight up for sale,"}
+{"id": 3467, "m": "map_0324", "en": "Provided you got the Shards for 'em, anyway. "}
+{"id": 3468, "m": "map_0324", "en": "I got a strict confidentiality what-not policy: "}
+{"id": 3469, "m": "map_0324", "en": "I ain't tell where I get 'em, and I ain't tell where I sell 'em. "}
+{"id": 3470, "m": "map_0324", "en": "That means you can be sure any deals we strike are completely secure. "}
+{"id": 3471, "m": "map_0324", "en": "Look around, why don't you!"}
+{"id": 3472, "m": "map_0324", "en": "Looks like I'm sold out for now. "}
+{"id": 3473, "m": "map_0324", "en": "I'll be sure and get a new stock in one way or another."}
+{"id": 3474, "m": "map_0324", "en": "Vanillite waits sadly in the cage."}
+{"id": 3475, "m": "map_0324", "en": "TRADER: You want Vanillite? I'll give it to you for three Purple Shards. "}
+{"id": 3476, "m": "map_0324", "en": "You gonna take it?"}
+{"id": 3477, "m": "map_0324", "en": "Gracious. Thing's all yours."}
+{"id": 3478, "m": "map_0324", "en": "Loudred waits impatiently in the cage."}
+{"id": 3479, "m": "map_0324", "en": "TRADER: You want Loudred? I'll give it to you for five Blue Shards!"}
+{"id": 3480, "m": "map_0324", "en": "Cyndaquil waits calmly in the cage."}
+{"id": 3481, "m": "map_0324", "en": "TRADER: You want Cyndaquil? I'll give it to you for nine Red Shards."}
+{"id": 3482, "m": "map_0324", "en": "Lickitung waits anxiously in the cage."}
+{"id": 3483, "m": "map_0324", "en": "TRADER: You want Lickitung? I'll give it to you for seven Blue Shards."}
+{"id": 3484, "m": "map_0324", "en": "Makuhita stares blankly from the cage."}
+{"id": 3485, "m": "map_0324", "en": "TRADER: You want Makuhita? I'll give it to you for three Green Shards. "}
+{"id": 3486, "m": "map_0324", "en": "Jigglypuff waits nervously in the cage."}
+{"id": 3487, "m": "map_0324", "en": "TRADER: You want Jigglypuff? I'll give it to you for five Green Shards. "}
+{"id": 3488, "m": "map_0324", "en": "Abra sits patiently in the cage."}
+{"id": 3489, "m": "map_0324", "en": "TRADER: You want Abra? I'll give it to you for eight Purple Shards. "}
+{"id": 3490, "m": "map_0324", "en": "Roggenrola waits morosely in the cage."}
+{"id": 3491, "m": "map_0324", "en": "TRADER: You want Roggenrola? I'll give it to you for three Red Shards."}
+{"id": 3492, "m": "map_0324", "en": "Ditto swivels back and forth in the cage."}
+{"id": 3493, "m": "map_0324", "en": "TRADER: You want Ditto? I'll give it to you for eight Green Shards. "}
+{"id": 3494, "m": "map_0324", "en": "ARC: Hey. \\PN, right? Come over here. "}
+{"id": 3495, "m": "map_0324", "en": "ARC: You remember me? From the Nightclub."}
+{"id": 3496, "m": "map_0324", "en": "Look, I've been keeping my eye on this place for a while. There's something fishy about it, yanno. "}
+{"id": 3497, "m": "map_0324", "en": "And I've seen you buy from this guy a few times, yeah? But you don't seem like his typical customer to me."}
+{"id": 3498, "m": "map_0324", "en": "???: Hey, you. Come here. "}
+{"id": 3499, "m": "map_0324", "en": "Who are you? I've been keeping my eye on this place for a while, but you don't seem like this guy's typical customer to me."}
+{"id": 3500, "m": "map_0324", "en": "\\PN, huh?"}
+{"id": 3501, "m": "map_0324", "en": "Well, I'm Arclight- DJ Arclight, to be specific. I run the Nightclub up in the Obsidia Ward. "}
+{"id": 3502, "m": "map_0324", "en": "You can just call me Arc. Anyway. "}
+{"id": 3503, "m": "map_0324", "en": "I'm pretty sure that these Pokémon he's selling are stolen, and I ain't about that. "}
+{"id": 3504, "m": "map_0324", "en": "Most of his customers don't care a thing about Pokémon. They usually end up abusing them. "}
+{"id": 3505, "m": "map_0324", "en": "If these Pokémon really are stolen, it's probably hopeless to find their original owners, but, I figure at least we can get them to a good place."}
+{"id": 3506, "m": "map_0324", "en": "And I'm thinkin' you might be that good place."}
+{"id": 3507, "m": "map_0324", "en": "So I'll tell you what, \\PN, I'm gonna leave it to you to buy up the rest of these guys. He won't sell to me; I've raised hell here in the past."}
+{"id": 3508, "m": "map_0324", "en": "And once we've cleaned his stock, then I'll bust in and clean his clock. "}
+{"id": 3509, "m": "map_0324", "en": "Make sure this guy gets shut down for good. Sound like a plan?"}
+{"id": 3510, "m": "map_0324", "en": "I'm countin' on you. "}
+{"id": 3511, "m": "map_0324", "en": "ARC: Yo. \\PN."}
+{"id": 3512, "m": "map_0324", "en": "If these Pokémon really are stolen, it might not be practical to find their original owners, but, I figure at least we can get them to a good place."}
+{"id": 3513, "m": "map_0324", "en": "Huh, you already did it? Not bad."}
+{"id": 3514, "m": "map_0324", "en": "Looks like you did it, huh?"}
+{"id": 3515, "m": "map_0324", "en": "I owe you one, for sure. I can rest a bit easier knowing that those Pokémon will be taken care of no matter what. "}
+{"id": 3516, "m": "map_0324", "en": "It might not be a bad idea to hang onto them just in case though."}
+{"id": 3517, "m": "map_0324", "en": "As for that guy... I won't do anything out in the open.  But let me put it this way-- Next time you're around here, don't expect to see him again."}
+{"id": 3518, "m": "map_0324", "en": "Anyway, here's a little 'thank you' from me. "}
+{"id": 3519, "m": "map_0324", "en": "Do what you will with that. "}
+{"id": 3520, "m": "map_0324", "en": "If you ever get into the Nightclub, hit me up for sure!"}
+{"id": 3521, "m": "map_0324", "en": "CRAUDBURRY: Miserable lout, PATHETIC inventory, if this is really all you've got, you ought to be ashamed of your scruffy-rumped self!"}
+{"id": 3522, "m": "map_0324", "en": "Don't call again until you have something worth my time!"}
+{"id": 3523, "m": "map_0324", "en": "CRAUDBURRY: Oh, it's you."}
+{"id": 3524, "m": "map_0324", "en": "I shoulda known I'd see low-life scum like you lollygagging around down here."}
+{"id": 3525, "m": "map_0324", "en": "Don't look at me, criminal swine, you aren't worth my breath! Drivelling mucus with every step... Bah!"}
+{"id": 3526, "m": "map_0324", "en": "ARCHER: Quite the mouth that one has, doesn't she?"}
+{"id": 3527, "m": "map_0324", "en": "MAXWELL: You gonna let her talk to you like that?"}
+{"id": 3528, "m": "map_0324", "en": "ARCHER: Perhaps unfortunately, the street-savvy aren't the only ones with influence down here."}
+{"id": 3529, "m": "map_0324", "en": "There's always people like Craudburry. She pretends to be such an upstanding citizen, but she just plays the streets down here with her wealth. "}
+{"id": 3530, "m": "map_0324", "en": "You recall the Pokémon we stole from her, yes? That was one she purchased illegally down here."}
+{"id": 3531, "m": "map_0324", "en": "That's why I had no regrets in targeting her. "}
+{"id": 3532, "m": "map_0324", "en": "Nonetheless, her attitude is insufferable. Yet, no one down here stands up to her."}
+{"id": 3533, "m": "map_0324", "en": "After all, they dare not risk her patronage."}
+{"id": 3534, "m": "map_0324", "en": "I'm thinking, though, perhaps we might better everyone's lives down here if we, how do you say, teach her a lesson?"}
+{"id": 3535, "m": "map_0324", "en": "If you're interested, find me around her house."}
+{"id": 3536, "m": "map_0324", "en": "MAXWELL: I'll tell you what, that broad has way too much power down here. "}
+{"id": 3537, "m": "map_0324", "en": "This is supposed to be place for the strong to survive, not for some rich bitch to order everyone around as she pleases. "}
+{"id": 3538, "m": "map_0324", "en": "But that's just it. Money casts a powerful curse. And she gets what she wants."}
+{"id": 3539, "m": "map_0324", "en": "Like stolen Pokémon. You know? "}
+{"id": 3540, "m": "map_0324", "en": "That's why I tried to take it back from her before. She didn't even play fair to get it. "}
+{"id": 3541, "m": "map_0324", "en": "Most people don't dare stand up to someone like her-- they might lose their squeeze. "}
+{"id": 3542, "m": "map_0324", "en": "But us? We're different. "}
+{"id": 3543, "m": "map_0324", "en": "Know what I mean? I think we oughta teach that one a lesson. "}
+{"id": 3544, "m": "map_0324", "en": "Come find me around her house. We'll settle this score. "}
+{"id": 3545, "m": "map_0324", "en": "For, you know, glory. "}
+{"id": 3546, "m": "map_0324", "en": "DEFACTO: Well met, \\PN."}
+{"id": 3547, "m": "map_0324", "en": "Do tell, how do you find business down here?"}
+{"id": 3548, "m": "map_0324", "en": "Personally, I manage to make a pretty penny, but it can be a veritable struggle to reason with some of these lesser merchants. "}
+{"id": 3549, "m": "map_0324", "en": "See, the economy down here-- as with any underworld market-- works on a separate axis of supply and demand."}
+{"id": 3550, "m": "map_0324", "en": "One singular substance reigns supreme here: \"Rare Candy\". Heard of it?"}
+{"id": 3551, "m": "map_0324", "en": "Well, perhaps it is best that someone like you never does. For many of these fellows, however, they are already too addicted to the \"level up\"."}
+{"id": 3552, "m": "map_0324", "en": "Incidentally, do you know how \"Rare Candy\" is made?"}
+{"id": 3553, "m": "map_0324", "en": "By distilling the synthetic compounds of other items-- specifically Crystal Shards and Heart Scales-- one is left with a highly reactive substance."}
+{"id": 3554, "m": "map_0324", "en": "Combined with the traditional medicinal Pokémon Rare Candy, a violent psychoactive is produced."}
+{"id": 3555, "m": "map_0324", "en": "But, as such, it is these ingredients which are in high demand down here: Shards and Heart Scales. "}
+{"id": 3556, "m": "map_0324", "en": "Thus, it is extremely beneficial for those able to gather these resources to do so."}
+{"id": 3557, "m": "map_0324", "en": "This is where I come in! "}
+{"id": 3558, "m": "map_0324", "en": "I have a brand new product that can help the crafty geologist maximize their efficiency."}
+{"id": 3559, "m": "map_0324", "en": "Blast Powder is a unique reactive substance. "}
+{"id": 3560, "m": "map_0324", "en": "When placed on certain kinds of damaged rock-- the glowing sediment I'm sure you've seen-- it will allow previously harvested spots to become lucrative."}
+{"id": 3561, "m": "map_0324", "en": "In short, it allows you to mine a stone twice."}
+{"id": 3562, "m": "map_0324", "en": "That established... Buy some!"}
+{"id": 3563, "m": "map_0324", "en": "DEFACTO: You return! Come to buy more Blast Powder?"}
+{"id": 3564, "m": "map_0324", "en": "BREAK: Oh, \\PN! Do stay a moment, I have an amazing discovery to regale you with!"}
+{"id": 3565, "m": "map_0324", "en": "Although this is 7th Street, some find it more like a 7th Heaven. Do you know why?"}
+{"id": 3566, "m": "map_0324", "en": "Oh, I shall tell you. It's because they're out of their minds!"}
+{"id": 3567, "m": "map_0324", "en": "Literally~ "}
+{"id": 3568, "m": "map_0324", "en": "Do tell, do tell, have you ever tried \"Rare Candy\"?"}
+{"id": 3569, "m": "map_0324", "en": "Oh, I suspect you haven't-- it's not what you feed your Pokémon. "}
+{"id": 3570, "m": "map_0324", "en": "This is a very special kind of \"level up\"."}
+{"id": 3571, "m": "map_0324", "en": "But I will tell you the ingredients of the thing!"}
+{"id": 3572, "m": "map_0324", "en": "SUGAR!"}
+{"id": 3573, "m": "map_0324", "en": "SPICE!"}
+{"id": 3574, "m": "map_0324", "en": "And EVERYTHING NICE!"}
+{"id": 3575, "m": "map_0324", "en": "Just kidding."}
+{"id": 3576, "m": "map_0324", "en": "Actually it's the benzoylmethylecgonine dust and crystal-isomerized piperonyl acetone embedded in Heart Scales and crystal Shards. "}
+{"id": 3577, "m": "map_0324", "en": "Then you stick that in a normal Rare Candy and you'll be partyin' it up, down, sideways AND diagonally."}
+{"id": 3578, "m": "map_0324", "en": "Anyway, it turns out Heart Scales and Shards are useful to collect."}
+{"id": 3579, "m": "map_0324", "en": "Not always easy though! They play hard to get. "}
+{"id": 3580, "m": "map_0324", "en": "By hiding in hard things, like rocks. "}
+{"id": 3581, "m": "map_0324", "en": "Sure, you can mine some out, but then what?"}
+{"id": 3582, "m": "map_0324", "en": "I'll tell you what! Then you take some Blast Powder and blow up the base of the rock so you can mine even MORE out!"}
+{"id": 3583, "m": "map_0324", "en": "Then you sell them and become king of the world! Or queen. Or whatever. "}
+{"id": 3584, "m": "map_0324", "en": "Anyway yes, Blast Powder! Mine things twice! Buy some!"}
+{"id": 3585, "m": "map_0324", "en": "BREAK: Blast Powder! More fun than exploding chocolate cake!"}
+{"id": 3586, "m": "map_0324", "en": "Merry mining~!"}
+{"id": 3587, "m": "map_0324", "en": "DEFACTO: You're back at last!"}
+{"id": 3588, "m": "map_0324", "en": "Might I interest you in a fresh stock of Blast Powder?"}
+{"id": 3589, "m": "map_0324", "en": "Oh, please refrain from invoking any of that platitudinous job-seeking discourse that the boss has been so intent on spouting off. "}
+{"id": 3590, "m": "map_0324", "en": "As his analytical holiness refuses to acknowledge, I am already gainfully employed right here. "}
+{"id": 3591, "m": "map_0324", "en": "As such, why not indulge yourself?"}
+{"id": 3592, "m": "map_0324", "en": "DEFACTO: Admittedly, it might have been a boon to be in a slightly more intellectual line of work."}
+{"id": 3593, "m": "map_0324", "en": "Knowledge is the seat of personal growth, but aside from which downcast countenaces are the most likely customers, there's little to be learned here. "}
+{"id": 3594, "m": "map_0324", "en": "But that anything like that would exist in this city is a far cry. I'm content here."}
+{"id": 3595, "m": "map_0324", "en": "BREAK: \\PN! My old friend and most valued customer~!"}
+{"id": 3596, "m": "map_0324", "en": "Listen! We've got a problemo in the gang and his name is Maxwell. "}
+{"id": 3597, "m": "map_0324", "en": "But the way he's talking about breaking us up, we oughta call him Maxunwell!"}
+{"id": 3598, "m": "map_0324", "en": "Ohoh, don't look at me like that. It's spine-tingling."}
+{"id": 3599, "m": "map_0324", "en": "More seriously, I can't think of a job better suited to my talents than synthesizing benzoylmethylecgonine."}
+{"id": 3600, "m": "map_0324", "en": "Most people can't even pronounce that word. "}
+{"id": 3601, "m": "map_0324", "en": "It's a gift. "}
+{"id": 3602, "m": "map_0324", "en": "I suppose I am familiar with a variety of chemical, herbal and questionably legal substances that might be handy to those with bizarre interests..."}
+{"id": 3603, "m": "map_0324", "en": "But really, no one these days likes to think outside the box."}
+{"id": 3604, "m": "map_0324", "en": "So we might as well just blow stuff up!"}
+{"id": 3605, "m": "map_0324", "en": "Remember, if it doesn't seem like a good idea, that just means you're not using enough sparklers."}
+{"id": 3606, "m": "map_0324", "en": "You Aqua punks still struttin' around like you're so cool?"}
+{"id": 3607, "m": "map_0324", "en": "Hmph. Not like it matters now."}
+{"id": 3608, "m": "map_0324", "en": "Please, your blank stare is piercing into my soul. I cannot possibly exist under the pressure of your black-pixel eyes."}
+{"id": 3609, "m": "map_0324", "en": "Even in its death-- I will show you the true POWER of the Magma Gang!"}
+{"id": 3610, "m": "map_0324", "en": "You are strong indeed."}
+{"id": 3611, "m": "map_0324", "en": "Hoo-hah. I bow to a strength greater than my own."}
+{"id": 3612, "m": "map_0324", "en": "I'm not letting the Aqua Gang go down without a fight!"}
+{"id": 3613, "m": "map_0324", "en": "Too strong."}
+{"id": 3614, "m": "map_0324", "en": "Man, how many Rare Candies did you feed YOUR Pokémon? All of mine weren't enough!"}
+{"id": 3615, "m": "map_0324", "en": "Send out your Pokémon."}
+{"id": 3616, "m": "map_0324", "en": "You have no need to speak to me."}
+{"id": 3617, "m": "map_0324", "en": "Oh, man. I like what I'm seein'. You? You look like fresh meat."}
+{"id": 3618, "m": "map_0324", "en": "Ugh, I was the one who got chewed up and spit out."}
+{"id": 3619, "m": "map_0324", "en": "Lesson learned, don't judge the book by its cover."}
+{"id": 3620, "m": "map_0324", "en": "Dude... The Butterfree are soooo like lackadaisical. They totally just morphed into that beam..."}
+{"id": 3621, "m": "map_0324", "en": "Aha, yah, wha? What's going on?"}
+{"id": 3622, "m": "map_0324", "en": "Duuuuuuude..."}
+{"id": 3623, "m": "map_0324", "en": "Dude. I'm sooo fuckin' leveled right now. Fight me!"}
+{"id": 3624, "m": "map_0324", "en": "Woaaaaah..."}
+{"id": 3625, "m": "map_0324", "en": "Like, shit. Shiiiiiit."}
+{"id": 3626, "m": "map_0324", "en": "Dude. You new around here? I don't think I seen you before."}
+{"id": 3627, "m": "map_0324", "en": "LOL, I'm just messin' with you man. How are you?! "}
+{"id": 3628, "m": "map_0324", "en": "It's been a while! Man, remember last time we dropped Candy together?"}
+{"id": 3629, "m": "map_0324", "en": "...Wait, you mean you really don't know me?"}
+{"id": 3630, "m": "map_0324", "en": "Shit dude, you're not with them, are you?"}
+{"id": 3631, "m": "map_0324", "en": "I don't trust you. I never seen you around here before."}
+{"id": 3632, "m": "map_0324", "en": "You're obviously a cop in disguise! Get away from me!"}
+{"id": 3633, "m": "map_0324", "en": "I don't know why my boyfriend insists on selling down here all the time. "}
+{"id": 3634, "m": "map_0324", "en": "All these men are so creepy."}
+{"id": 3635, "m": "map_0324", "en": "Bro, you got any \"Rare Candy\" to spare?"}
+{"id": 3636, "m": "map_0324", "en": "Heh... 'Spare Candy'. That's good."}
+{"id": 3637, "m": "map_0324", "en": "Hey, you got a problem, bud?!"}
+{"id": 3638, "m": "map_0324", "en": "You think I steal from you? I ain't steal from you!"}
+{"id": 3639, "m": "map_0324", "en": "If you gotta problem, let's go! You wanna go?!"}
+{"id": 3640, "m": "map_0324", "en": "Fuck, dude."}
+{"id": 3641, "m": "map_0324", "en": "What the hell, dude. You can have your shit back, christ."}
+{"id": 3642, "m": "map_0324", "en": "Fuck me, you looked like an easy pick, too... Dammit."}
+{"id": 3643, "m": "map_0324", "en": "Stow it, I'll leave you alone."}
+{"id": 3644, "m": "map_0324", "en": "Dude, you wanna give me some cash? I need a fix..."}
+{"id": 3645, "m": "map_0324", "en": "Some people was worried that the fuzz would bust this place up if it was found during the construction."}
+{"id": 3646, "m": "map_0324", "en": "Hah! We show 'em. "}
+{"id": 3647, "m": "map_0324", "en": "Incompetent police don't have a clue!"}
+{"id": 3648, "m": "map_0324", "en": "7th Street is the one place that won't change! This is OUR world!"}
+{"id": 3649, "m": "map_0324", "en": "NIHIL: Sup. "}
+{"id": 3650, "m": "map_0324", "en": "I see you took your time in making it down here."}
+{"id": 3651, "m": "map_0324", "en": "This has been our squeeze for quite some time. "}
+{"id": 3652, "m": "map_0324", "en": "Surprised I didn't see you 'round before."}
+{"id": 3653, "m": "map_0324", "en": "Hm, you're looking for someone?"}
+{"id": 3654, "m": "map_0324", "en": "I mean, I'm right here."}
+{"id": 3655, "m": "map_0324", "en": "Chill, it was a joke."}
+{"id": 3656, "m": "map_0324", "en": "I saw someone suspicious run into the watering hole just a minute ago. "}
+{"id": 3657, "m": "map_0324", "en": "Go get 'im, tiger."}
+{"id": 3658, "m": "map_0324", "en": "NIHIL: Dude, any guy who runs from you isn't worth your time."}
+{"id": 3659, "m": "map_0324", "en": "NIHIL: You wanna talk about the job thing, right?"}
+{"id": 3660, "m": "map_0324", "en": "Yeah, forget it."}
+{"id": 3661, "m": "map_0324", "en": "There's no way I'm stooping that low."}
+{"id": 3662, "m": "map_0324", "en": "Do whatever you want with the other guys, but there's not a job in this city worthy of me."}
+{"id": 3663, "m": "map_0324", "en": "Wherever I worked would have to be the last word in cool."}
+{"id": 3664, "m": "map_0324", "en": "And this is Reborn City."}
+{"id": 3665, "m": "map_0324", "en": "They don't do cool."}
+{"id": 3666, "m": "map_0324", "en": "DARM: BRO! You here to get pumped up? "}
+{"id": 3667, "m": "map_0324", "en": "This place has the best \"level-ups\"!"}
+{"id": 3668, "m": "map_0324", "en": "Whaddya mean you aren't here for that?"}
+{"id": 3669, "m": "map_0324", "en": "Everyone's here for that. "}
+{"id": 3670, "m": "map_0324", "en": "That shit is POWERFUL."}
+{"id": 3671, "m": "map_0324", "en": "Oh, huh. You're lookin' for someone? "}
+{"id": 3672, "m": "map_0324", "en": "Well, I dunno about a girl, but I just saw some weird guy headin' up to the watering hole."}
+{"id": 3673, "m": "map_0324", "en": "You could probably catch him if you hurry."}
+{"id": 3674, "m": "map_0324", "en": "DARM: Magma is strength!"}
+{"id": 3675, "m": "map_0324", "en": "DARM: BRO! We gotta get jobs?!"}
+{"id": 3676, "m": "map_0324", "en": "That's BALLS."}
+{"id": 3677, "m": "map_0324", "en": "But if everyone else is doing it, I guess I got to."}
+{"id": 3678, "m": "map_0324", "en": "All right-- I want the kinda job that I can get POWERFUL on."}
+{"id": 3679, "m": "map_0324", "en": "I gotta get people to praise me like \"YO how that dude so swole?!\""}
+{"id": 3680, "m": "map_0324", "en": "I don't have any qualifications besides my rippling pecs and bulging biceps."}
+{"id": 3681, "m": "map_0324", "en": "And not even construction crews would take me. I break stuff, not make stuff!"}
+{"id": 3682, "m": "map_0324", "en": "So what's there left to do but be the muscle in the city streets, huh?! "}
+{"id": 3683, "m": "map_0324", "en": "If Maxwell's backing down from leading the Magma Gang, I'll do it in his stead!"}
+{"id": 3684, "m": "map_0324", "en": "PIERCE: How about it, then?"}
+{"id": 3685, "m": "map_0324", "en": "...Looking for someone?"}
+{"id": 3686, "m": "map_0324", "en": "Check the watering hole, right there."}
+{"id": 3687, "m": "map_0324", "en": "PIERCE: ...Hm."}
+{"id": 3688, "m": "map_0324", "en": "So we're getting jobs."}
+{"id": 3689, "m": "map_0324", "en": "To tell the truth, "}
+{"id": 3690, "m": "map_0324", "en": "I don't think I can do that."}
+{"id": 3691, "m": "map_0324", "en": "I don't like talking to people."}
+{"id": 3692, "m": "map_0324", "en": "I never know what to say."}
+{"id": 3693, "m": "map_0324", "en": "Most jobs make you deal with things like customers, or a boss who can fire you at any time..."}
+{"id": 3694, "m": "map_0324", "en": "I... can't do that."}
+{"id": 3695, "m": "map_0324", "en": "If I could, I'd just want to go somewhere quiet. "}
+{"id": 3696, "m": "map_0324", "en": "I don't have to talk. I don't have to work."}
+{"id": 3697, "m": "map_0324", "en": "Just let me be in peace."}
+{"id": 3698, "m": "map_0324", "en": "RAZZY: Hey! What's up! You gettin' hype on the \"level-ups\"?"}
+{"id": 3699, "m": "map_0324", "en": "Huh, why not?"}
+{"id": 3700, "m": "map_0324", "en": "Ohhh, you came here looking for someone. "}
+{"id": 3701, "m": "map_0324", "en": "You'll totally find her! You can do anything! "}
+{"id": 3702, "m": "map_0324", "en": "Actually, waitasecond... "}
+{"id": 3703, "m": "map_0324", "en": "I didn't see a girl, but there was this weird guy wanderin' around a moment ago."}
+{"id": 3704, "m": "map_0324", "en": "I think he was going up towards the watering hole."}
+{"id": 3705, "m": "map_0324", "en": "Y'wanna see if you can catch him?"}
+{"id": 3706, "m": "map_0324", "en": "RAZZY: Aqua Gang can accomplish anything together!"}
+{"id": 3707, "m": "map_0324", "en": "RAZZY: Together, we can fix this city-- or break it!"}
+{"id": 3708, "m": "map_0324", "en": "RAZZY: So Archer wants us to split up and get jobs..."}
+{"id": 3709, "m": "map_0324", "en": "Okay! I can dig it!"}
+{"id": 3710, "m": "map_0324", "en": "I've never worked before, and I couldn't begin to guess how to write a resume, but I'll do my best!"}
+{"id": 3711, "m": "map_0324", "en": "But what kind of place should I work?"}
+{"id": 3712, "m": "map_0324", "en": "Mmm, I wanna work somewhere that's really upbeat and exciting!"}
+{"id": 3713, "m": "map_0324", "en": "And it should have lots of good food!"}
+{"id": 3714, "m": "map_0324", "en": "Also, I hope it's nearby!"}
+{"id": 3715, "m": "map_0324", "en": "I still live with my parents, and it's not like they'd let me go out of the city for work."}
+{"id": 3716, "m": "map_0324", "en": "Plus, if it's a short walk, that's even easier for me!"}
+{"id": 3717, "m": "map_0324", "en": "Wait, does something that convenient even exist?"}
+{"id": 3718, "m": "map_0324", "en": "???: Hm."}
+{"id": 3719, "m": "map_0324", "en": "You a new face around here? Scram!"}
+{"id": 3720, "m": "map_0324", "en": "Uh, aite. Go in peace, or whatever."}
+{"id": 3721, "m": "map_0324", "en": "Mate, 'm not here looking for trouble. Leave me be, aight?"}

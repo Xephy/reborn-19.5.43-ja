@@ -1,0 +1,1245 @@
+{
+ "_comment": "PokeAPI に公式日本語名が存在しない項目の独自翻訳。ja: 訳語, note: 根拠。build_glossary.py が読み込む。",
+ "species": {
+  "????????": {
+   "ja": "????????",
+   "note": "未定義スロット用のプレースホルダ。原文のまま維持"
+  },
+  "Nidoran": {
+   "ja": "ニドラン",
+   "note": "公式名 ニドラン♀/ニドラン♂ の共通部分。Reborn は♀♂を別描画するため名前は「Nidoran」1種のみ"
+  }
+ },
+ "moves": {},
+ "abilities": {
+  "Duskilate": {
+   "ja": "ゴーストスキン",
+   "note": "Reborn 独自特性。技をゴーストタイプ化する。公式の Pixilate=フェアリースキン / Refrigerate=フリーズスキン の命名に合わせた"
+  }
+ },
+ "types": {},
+ "items": {
+  "Purple Shard": {
+   "ja": "むらさきのかけら",
+   "note": "公式の Red Shard=あかいかけら / Blue Shard=あおいかけら に準拠。紫は Reborn 独自"
+  },
+  "Reborn Ball": {
+   "ja": "リボーンボール",
+   "note": "Reborn 独自のモンスターボール。作品名をそのままカタカナ化"
+  },
+  "TMX1": {
+   "ja": "ひでんマシン1",
+   "note": "Reborn 独自の追加わざマシン（秘伝技相当）。公式 TM01=わざマシン01 の命名に準拠"
+  },
+  "TMX2": {
+   "ja": "ひでんマシン2",
+   "note": "Reborn 独自の追加わざマシン（秘伝技相当）。公式 TM01=わざマシン01 の命名に準拠"
+  },
+  "TMX3": {
+   "ja": "ひでんマシン3",
+   "note": "Reborn 独自の追加わざマシン（秘伝技相当）。公式 TM01=わざマシン01 の命名に準拠"
+  },
+  "TMX4": {
+   "ja": "ひでんマシン4",
+   "note": "Reborn 独自の追加わざマシン（秘伝技相当）。公式 TM01=わざマシン01 の命名に準拠"
+  },
+  "TMX5": {
+   "ja": "ひでんマシン5",
+   "note": "Reborn 独自の追加わざマシン（秘伝技相当）。公式 TM01=わざマシン01 の命名に準拠"
+  },
+  "TMX6": {
+   "ja": "ひでんマシン6",
+   "note": "Reborn 独自の追加わざマシン（秘伝技相当）。公式 TM01=わざマシン01 の命名に準拠"
+  },
+  "TMX7": {
+   "ja": "ひでんマシン7",
+   "note": "Reborn 独自の追加わざマシン（秘伝技相当）。公式 TM01=わざマシン01 の命名に準拠"
+  },
+  "TMX8": {
+   "ja": "ひでんマシン8",
+   "note": "Reborn 独自の追加わざマシン（秘伝技相当）。公式 TM01=わざマシン01 の命名に準拠"
+  },
+  "TMX9": {
+   "ja": "ひでんマシン9",
+   "note": "Reborn 独自の追加わざマシン（秘伝技相当）。公式 TM01=わざマシン01 の命名に準拠"
+  },
+  "Lin Mail": {
+   "ja": "リンのてがみ",
+   "note": "登場人物 Lin からの手紙。人名はカタカナ化"
+  },
+  "Warehouse Key": {
+   "ja": "そうこのカギ",
+   "note": "「○○のカギ」形式（公式 Storage Key=そうこのカギ 系）に準拠"
+  },
+  "Mining Kit": {
+   "ja": "さいくつセット",
+   "note": "採掘用の道具一式"
+  },
+  "Link Stone": {
+   "ja": "リンクストーン",
+   "note": "通信交換の代替に使う Reborn 独自アイテム"
+  },
+  "Harbor Key": {
+   "ja": "みなとのカギ",
+   "note": "Harbor=港"
+  },
+  "Railnet Key": {
+   "ja": "てつどうもうのカギ",
+   "note": "Railnet=鉄道網（地下鉄網）"
+  },
+  "Choc Ice Cream": {
+   "ja": "チョコアイス",
+   "note": "菓子類。公式 Casteliacone=ヒウンアイス に倣い平易な菓子名"
+  },
+  "Berry Ice Cream": {
+   "ja": "きのみアイス",
+   "note": "Berry=きのみ（公式訳）"
+  },
+  "Vanilla Ice Cream": {
+   "ja": "バニラアイス",
+   "note": "菓子類"
+  },
+  "Blue Moon Ice Cream": {
+   "ja": "ブルームーンアイス",
+   "note": "Reborn 内の店名 Blue Moon 由来。固有名はカタカナ保持"
+  },
+  "Blue Moon Lemonade": {
+   "ja": "ブルームーンレモネード",
+   "note": "Reborn 内の店名 Blue Moon 由来。公式 Lemonade=ミックスオレ とは別物のため区別"
+  },
+  "Herbal Extract": {
+   "ja": "やくそうエキス",
+   "note": "Herbal=薬草。公式の にがよもぎ 等の漢方系回復薬に準じた語感"
+  },
+  "Common Candy": {
+   "ja": "ふつうのアメ",
+   "note": "レベルを下げる Reborn 独自アイテム。Rare Candy=ふしぎなアメ の対義として"
+  },
+  "Pop Rocks": {
+   "ja": "パチパチキャンディ",
+   "note": "米国の炭酸菓子 Pop Rocks。口の中ではじける感触を訳出"
+  },
+  "Peppermint": {
+   "ja": "ハッカキャンディ",
+   "note": "ペパーミント味の飴"
+  },
+  "Salt-Water Taffy": {
+   "ja": "ソルトタフィー",
+   "note": "米国の海辺の名物菓子"
+  },
+  "Chewing Gum": {
+   "ja": "チューインガム",
+   "note": "そのままカタカナ化"
+  },
+  "Red-Hots": {
+   "ja": "シナモンキャンディ",
+   "note": "Red Hots は米国のシナモン味キャンディ"
+  },
+  "Cotton Candy": {
+   "ja": "わたあめ",
+   "note": "一般名詞"
+  },
+  "PokéSnax": {
+   "ja": "ポケスナック",
+   "note": "ポケモン用スナック菓子。Poké-=ポケ の慣例に準拠"
+  },
+  "Bubble Tea": {
+   "ja": "タピオカティー",
+   "note": "一般名詞"
+  },
+  "Amethyst Pendant": {
+   "ja": "アメジストのペンダント",
+   "note": "宝石名＋装身具"
+  },
+  "Ruby Ring": {
+   "ja": "ルビーのゆびわ",
+   "note": "宝石名＋装身具"
+  },
+  "Silver Ring": {
+   "ja": "ぎんのゆびわ",
+   "note": "宝石名＋装身具"
+  },
+  "Diamond Ring": {
+   "ja": "ダイヤのゆびわ",
+   "note": "公式表記 ダイヤ に準拠"
+  },
+  "Sapphire Bracelets": {
+   "ja": "サファイアのブレスレット",
+   "note": "宝石名＋装身具"
+  },
+  "Emerald Brooch": {
+   "ja": "エメラルドのブローチ",
+   "note": "宝石名＋装身具"
+  },
+  "Ribbon Collar": {
+   "ja": "リボンのくびわ",
+   "note": "ペットの首輪"
+  },
+  "Ruby Star": {
+   "ja": "ルビーのほし",
+   "note": "ジグザグ／ズィガルデ・コア収集系のキーアイテム。宝石名＋星"
+  },
+  "Sapphire Star": {
+   "ja": "サファイアのほし",
+   "note": "ジグザグ／ズィガルデ・コア収集系のキーアイテム。宝石名＋星"
+  },
+  "Emerald Star": {
+   "ja": "エメラルドのほし",
+   "note": "ジグザグ／ズィガルデ・コア収集系のキーアイテム。宝石名＋星"
+  },
+  "Amethyst Star": {
+   "ja": "アメジストのほし",
+   "note": "ジグザグ／ズィガルデ・コア収集系のキーアイテム。宝石名＋星"
+  },
+  "Yureyu Key": {
+   "ja": "ユレユのカギ",
+   "note": "Yureyu は Reborn の企業名。固有名はカタカナ化"
+  },
+  "Dull Key": {
+   "ja": "くすんだカギ",
+   "note": "Dull=くすんだ"
+  },
+  "Crystal Key": {
+   "ja": "クリスタルのカギ",
+   "note": "「○○のカギ」形式"
+  },
+  "House Key": {
+   "ja": "いえのカギ",
+   "note": "「○○のカギ」形式"
+  },
+  "Beryl Grid Key": {
+   "ja": "ベリルはいでんもうのカギ",
+   "note": "Beryl Ward の送電網（grid）設備のカギ"
+  },
+  "Sanctum Key": {
+   "ja": "せいいきのカギ",
+   "note": "Sanctum=聖域"
+  },
+  "GUM Key": {
+   "ja": "GUMのカギ",
+   "note": "GUM は施設名の略称。原文表記を保持"
+  },
+  "Coral Key": {
+   "ja": "コーラルのカギ",
+   "note": "Coral Ward（地区名）のカギ"
+  },
+  "'R' Key": {
+   "ja": "「R」のカギ",
+   "note": "刻印された文字 R を鉤括弧で表記"
+  },
+  "Cage Key": {
+   "ja": "おりのカギ",
+   "note": "Cage=檻"
+  },
+  "Orphanage Key": {
+   "ja": "ようごしせつのカギ",
+   "note": "Orphanage=孤児院／養護施設"
+  },
+  "Gold Key": {
+   "ja": "きんのカギ",
+   "note": "公式の きんのたま 等に倣い「きん」"
+  },
+  "Ivory Key": {
+   "ja": "アイボリーのカギ",
+   "note": "ズィガルデ・コアの色名（Ivory Core）と対応させカタカナ保持"
+  },
+  "Ebony Key": {
+   "ja": "エボニーのカギ",
+   "note": "ズィガルデ・コアの色名 Ebony Core と対応させカタカナ保持"
+  },
+  "Archive Key": {
+   "ja": "しょこのカギ",
+   "note": "Archive=書庫／記録保管室"
+  },
+  "K2 Key": {
+   "ja": "K2のカギ",
+   "note": "部屋番号。英数字は原文のまま"
+  },
+  "K5 Key": {
+   "ja": "K5のカギ",
+   "note": "部屋番号。英数字は原文のまま"
+  },
+  "K22 Key": {
+   "ja": "K22のカギ",
+   "note": "部屋番号。英数字は原文のまま"
+  },
+  "K33 Key": {
+   "ja": "K33のカギ",
+   "note": "部屋番号。英数字は原文のまま"
+  },
+  "S4 Key": {
+   "ja": "S4のカギ",
+   "note": "部屋番号。英数字は原文のまま"
+  },
+  "S9 Key": {
+   "ja": "S9のカギ",
+   "note": "部屋番号。英数字は原文のまま"
+  },
+  "S12 Key": {
+   "ja": "S12のカギ",
+   "note": "部屋番号。英数字は原文のまま"
+  },
+  "F1 Key": {
+   "ja": "F1のカギ",
+   "note": "部屋番号。英数字は原文のまま"
+  },
+  "F10 Key": {
+   "ja": "F10のカギ",
+   "note": "部屋番号。英数字は原文のまま"
+  },
+  "F14 Key": {
+   "ja": "F14のカギ",
+   "note": "部屋番号。英数字は原文のまま"
+  },
+  "F34 Key": {
+   "ja": "F34のカギ",
+   "note": "部屋番号。英数字は原文のまま"
+  },
+  "Magnet Powder": {
+   "ja": "じしゃくのこな",
+   "note": "公式 Magnet=じしゃく ＋ こな（Silver Powder=ぎんのこな に準拠）"
+  },
+  "Blast Powder": {
+   "ja": "ばくはつのこな",
+   "note": "Blast=爆発。こな系アイテムの命名に準拠"
+  },
+  "Powder Vial": {
+   "ja": "こなのビン",
+   "note": "Vial=小瓶"
+  },
+  "Magnetic Lure": {
+   "ja": "じしゃくルアー",
+   "note": "ポケモンを引き寄せる Reborn 独自アイテム"
+  },
+  "Data Chip": {
+   "ja": "データチップ",
+   "note": "そのままカタカナ化"
+  },
+  "Tech Glasses": {
+   "ja": "テックグラス",
+   "note": "電脳的なゴーグル。公式 Choice Specs=こだわりメガネ 系より短い語感を優先"
+  },
+  "Radio Transceiver": {
+   "ja": "むせんき",
+   "note": "Transceiver=無線機"
+  },
+  "Remote PC": {
+   "ja": "リモートPC",
+   "note": "どこでもボックスを開ける Reborn 独自アイテム"
+  },
+  "Headphones": {
+   "ja": "ヘッドホン",
+   "note": "一般名詞"
+  },
+  "Soul Candle": {
+   "ja": "たましいのロウソク",
+   "note": "Soul=魂。ゴースト関連のキーアイテム"
+  },
+  "Ill-Fated Doll": {
+   "ja": "ふきつなにんぎょう",
+   "note": "Ill-fated=不吉な／呪われた"
+  },
+  "Crystal Ball": {
+   "ja": "すいしょうだま",
+   "note": "占い用の水晶玉"
+  },
+  "Family Picture": {
+   "ja": "かぞくのしゃしん",
+   "note": "一般名詞"
+  },
+  "Classified Information": {
+   "ja": "きみつぶんしょ",
+   "note": "Classified=機密"
+  },
+  "Silver Card": {
+   "ja": "シルバーカード",
+   "note": "会員証。カタカナ化"
+  },
+  "Meteor Card": {
+   "ja": "メテオカード",
+   "note": "組織 Team Meteor（メテオ団）の身分証"
+  },
+  "ID Tag": {
+   "ja": "IDタグ",
+   "note": "身分証タグ。英字略称は原文保持"
+  },
+  "DJ Arc Autograph": {
+   "ja": "DJアークのサイン",
+   "note": "登場人物 DJ Arc のサイン。Autograph=サイン"
+  },
+  "McKrezzy Autograph": {
+   "ja": "マクレジーのサイン",
+   "note": "登場人物 McKrezzy のサイン"
+  },
+  "Spyce Application": {
+   "ja": "スパイスのもうしこみしょ",
+   "note": "施設名 Spyce ＋ Application=申込書"
+  },
+  "Library Application": {
+   "ja": "としょかんのもうしこみしょ",
+   "note": "施設名（図書館）＋ Application=申込書"
+  },
+  "Sweet Application": {
+   "ja": "スイーツてんのもうしこみしょ",
+   "note": "施設名（スイーツ店）＋ Application=申込書"
+  },
+  "Critical Application": {
+   "ja": "クリティカルのもうしこみしょ",
+   "note": "施設名 Critical ＋ Application=申込書"
+  },
+  "Medicine Application": {
+   "ja": "やっきょくのもうしこみしょ",
+   "note": "施設名（薬局）＋ Application=申込書"
+  },
+  "Salon Application": {
+   "ja": "サロンのもうしこみしょ",
+   "note": "施設名（サロン）＋ Application=申込書"
+  },
+  "Glamazonia App": {
+   "ja": "グラマゾニアのもうしこみしょ",
+   "note": "店名 Glamazonia ＋ Application=申込書"
+  },
+  "Nightclub Application": {
+   "ja": "ナイトクラブのもうしこみしょ",
+   "note": "施設名（ナイトクラブ）＋ Application=申込書"
+  },
+  "Cycle Application": {
+   "ja": "じてんしゃやのもうしこみしょ",
+   "note": "公式 Cycle Shop=じてんしゃや ＋ Application=申込書"
+  },
+  "Silph Application": {
+   "ja": "シルフのもうしこみしょ",
+   "note": "公式 Silph Co.=シルフカンパニー ＋ Application=申込書"
+  },
+  "Circus Application": {
+   "ja": "サーカスのもうしこみしょ",
+   "note": "施設名（サーカス）＋ Application=申込書"
+  },
+  "SOLICE Application": {
+   "ja": "SOLICEのもうしこみしょ",
+   "note": "組織名 SOLICE は原文保持 ＋ Application=申込書"
+  },
+  "Construction App": {
+   "ja": "けんせつぎょうのもうしこみしょ",
+   "note": "施設名（建設業者）＋ Application=申込書"
+  },
+  "Apophyll Application": {
+   "ja": "アポフィルのもうしこみしょ",
+   "note": "地名 Apophyll ＋ Application=申込書"
+  },
+  "Devon Scope Model": {
+   "ja": "デボンスコープしさくひん",
+   "note": "公式 Devon Scope=デボンスコープ の試作モデル"
+  },
+  "Silvon Scope": {
+   "ja": "シルボンスコープ",
+   "note": "Silph Scope と Devon Scope を掛けた Reborn 独自の造語。造語性を残しカタカナ化"
+  },
+  "Ultra Potion": {
+   "ja": "すごいキズぐすり",
+   "note": "Reborn 独自の回復薬。公式 Hyper Potion=すごいキズぐすり / Max Potion=まんたんのくすり の中間に位置"
+  },
+  "PP All": {
+   "ja": "ピーピーオール",
+   "note": "全技のPPを回復する Reborn 独自アイテム。公式 PP Up=ポイントアップ 系のカタカナ命名に準拠"
+  },
+  "Exp. All": {
+   "ja": "みんなのがくしゅうそうち",
+   "note": "手持ち全員に経験値を分配。Exp. Share=がくしゅうそうち と区別するため接頭辞を付与"
+  },
+  "EV Tuner": {
+   "ja": "どりょくちチューナー",
+   "note": "EV=努力値（公式訳）"
+  },
+  "EV Booster": {
+   "ja": "どりょくちブースター",
+   "note": "EV=努力値（公式訳）"
+  },
+  "Reset Disc- HP": {
+   "ja": "リセットディスク・HP",
+   "note": "努力値リセット用アイテム。能力名は公式略称に合わせる"
+  },
+  "Reset Disc- ATK": {
+   "ja": "リセットディスク・こうげき",
+   "note": "努力値リセット用アイテム。能力名は公式略称に合わせる"
+  },
+  "Reset Disc- DEF": {
+   "ja": "リセットディスク・ぼうぎょ",
+   "note": "努力値リセット用アイテム。能力名は公式略称に合わせる"
+  },
+  "Reset Disc- SPATK": {
+   "ja": "リセットディスク・とくこう",
+   "note": "努力値リセット用アイテム。能力名は公式略称に合わせる"
+  },
+  "Reset Disc- SPDEF": {
+   "ja": "リセットディスク・とくぼう",
+   "note": "努力値リセット用アイテム。能力名は公式略称に合わせる"
+  },
+  "Reset Disc- SPEED": {
+   "ja": "リセットディスク・すばやさ",
+   "note": "努力値リセット用アイテム。能力名は公式略称に合わせる"
+  },
+  "Reset Disc- ALL": {
+   "ja": "リセットディスク・オール",
+   "note": "努力値リセット用アイテム。能力名は公式略称に合わせる（全能力）"
+  },
+  "Battle Pass- Strike": {
+   "ja": "バトルパス・ストライク",
+   "note": "バトル施設の入場券。副題はカタカナ保持"
+  },
+  "Battle Pass- Gravity": {
+   "ja": "バトルパス・グラビティ",
+   "note": "バトル施設の入場券。副題はカタカナ保持"
+  },
+  "Battle Pass- Suspension": {
+   "ja": "バトルパス・サスペンション",
+   "note": "バトル施設の入場券。副題はカタカナ保持"
+  },
+  "Catching Charm: Ruby": {
+   "ja": "ゆれないおまもり・ルビー",
+   "note": "公式 Catching Charm=ゆれないおまもり ＋ Reborn 独自の色区分"
+  },
+  "Catching Charm: Sapphire": {
+   "ja": "ゆれないおまもり・サファイア",
+   "note": "公式 Catching Charm=ゆれないおまもり ＋ Reborn 独自の色区分"
+  },
+  "Catching Charm: Emerald": {
+   "ja": "ゆれないおまもり・エメラルド",
+   "note": "公式 Catching Charm=ゆれないおまもり ＋ Reborn 独自の色区分"
+  },
+  "Catching Charm: Amethyst": {
+   "ja": "ゆれないおまもり・アメジスト",
+   "note": "公式 Catching Charm=ゆれないおまもり ＋ Reborn 独自の色区分"
+  },
+  "Floral Charm": {
+   "ja": "はなのおまもり",
+   "note": "公式 Oval Charm=まるいおまもり / Shiny Charm=ひかるおまもり の命名に準拠"
+  },
+  "Corrupted Poké Ball": {
+   "ja": "けがれたモンスターボール",
+   "note": "Corrupted=汚染された／穢れた"
+  },
+  "Glitter Ball": {
+   "ja": "グリッターボール",
+   "note": "Reborn 独自のボール。カタカナ化"
+  },
+  "Gather Cube": {
+   "ja": "ギャザーキューブ",
+   "note": "アイテム収集用の Reborn 独自装置"
+  },
+  "Gift Box": {
+   "ja": "プレゼントボックス",
+   "note": "一般名詞"
+  },
+  "Spirit Tracker": {
+   "ja": "スピリットトラッカー",
+   "note": "霊を探知する Reborn 独自アイテム"
+  },
+  "PULSE": {
+   "ja": "PULSE",
+   "note": "Reborn の中核設定である PULSE 機械。作品固有の固有名詞のため原文を維持（発音はパルス）"
+  },
+  "Dark Material": {
+   "ja": "ダークマテリアル",
+   "note": "PULSE 関連の素材。カタカナ化"
+  },
+  "Cell Imprint": {
+   "ja": "セルのこくいん",
+   "note": "Imprint=刻印。ズィガルデのセル関連アイテム"
+  },
+  "Negative Imprint": {
+   "ja": "ネガティブのこくいん",
+   "note": "Cell Imprint と対をなす Reborn 独自アイテム"
+  },
+  "Manaphy Gem": {
+   "ja": "マナフィのジュエル",
+   "note": "公式のジュエル系アイテム（○○ジュエル）の命名に準拠"
+  },
+  "Ebony Stonepiece": {
+   "ja": "エボニーのいしのかけら",
+   "note": "Ebony Core に対応する石片"
+  },
+  "Elemental Seed": {
+   "ja": "エレメンタルシード",
+   "note": "Reborn のフィールド効果用シード。系統をそろえてカタカナ化"
+  },
+  "Magical Seed": {
+   "ja": "マジカルシード",
+   "note": "Reborn のフィールド効果用シード。系統をそろえてカタカナ化"
+  },
+  "Telluric Seed": {
+   "ja": "テルリックシード",
+   "note": "Reborn のフィールド効果用シード。系統をそろえてカタカナ化（telluric=大地の）"
+  },
+  "Synthetic Seed": {
+   "ja": "シンセティックシード",
+   "note": "Reborn のフィールド効果用シード。系統をそろえてカタカナ化（telluric=大地の）"
+  },
+  "Amplifield Rock": {
+   "ja": "アンプリフィールドロック",
+   "note": "amplify＋field の造語。フィールド効果を延長する Reborn 独自アイテム"
+  },
+  "Oddishweed": {
+   "ja": "ナゾノクサのはっぱ",
+   "note": "Oddish（ナゾノクサ）＋weed の言葉遊び。薬物めいた straight な訳は避けた"
+  },
+  "Pink Pearl": {
+   "ja": "ピンクのしんじゅ",
+   "note": "公式 Pearl=しんじゅ / Big Pearl=おおきなしんじゅ に準拠"
+  }
+ },
+ "trainer_types": {
+  "PkMn Trainer": {
+   "ja": "ポケモントレーナー",
+   "note": "公式クラス名"
+  },
+  "Punk": {
+   "ja": "パンクボーイ",
+   "note": "公式クラス Punk Guy（ならずもの）相当。Doxy と対になるため男女で語を分けた"
+  },
+  "Doxy": {
+   "ja": "パンクガール",
+   "note": "Punk と対になる女性版クラス。原語 doxy は俗語のため中立化"
+  },
+  "Wasteland Punk": {
+   "ja": "はいきょのパンク",
+   "note": "毒ジムリーダー Aya の肩書き。Wasteland=荒廃地"
+  },
+  "Youngster": {
+   "ja": "たんぱんこぞう",
+   "note": "公式クラス名"
+  },
+  "Hiker": {
+   "ja": "やまおとこ",
+   "note": "公式クラス名"
+  },
+  "Fisherman": {
+   "ja": "つりびと",
+   "note": "公式クラス名"
+  },
+  "Lady": {
+   "ja": "おじょうさま",
+   "note": "公式クラス名"
+  },
+  "Gentleman": {
+   "ja": "ジェントルマン",
+   "note": "公式クラス名"
+  },
+  "Black Belt": {
+   "ja": "からておう",
+   "note": "公式クラス名"
+  },
+  "Battle Girl": {
+   "ja": "バトルガール",
+   "note": "公式クラス名"
+  },
+  "Ace Trainer": {
+   "ja": "エリートトレーナー",
+   "note": "公式クラス名"
+  },
+  "Psychic": {
+   "ja": "サイキッカー",
+   "note": "公式クラス名"
+  },
+  "Swimmer": {
+   "ja": "スイマー",
+   "note": "公式クラス名"
+  },
+  "Schoolboy": {
+   "ja": "がくせい",
+   "note": "公式クラス School Kid 相当"
+  },
+  "Clown": {
+   "ja": "ピエロ",
+   "note": "公式クラス Clown 相当"
+  },
+  "Guitarist": {
+   "ja": "ギタリスト",
+   "note": "公式クラス名"
+  },
+  "Arcade Star": {
+   "ja": "アーケードスター",
+   "note": "公式のバトルアーケード施設長の称号"
+  },
+  "Ranger": {
+   "ja": "ポケモンレンジャー",
+   "note": "公式クラス名"
+  },
+  "Police Officer": {
+   "ja": "けいかん",
+   "note": "職業名"
+  },
+  "Police Chief": {
+   "ja": "けいさつしょちょう",
+   "note": "職業名"
+  },
+  "Pokefan": {
+   "ja": "ポケモンファン",
+   "note": "ポケモン好きの一般人。公式 Poké Fan に相当"
+  },
+  "Posh": {
+   "ja": "セレブ",
+   "note": "上流階級の女性クラス"
+  },
+  "Nature Girl": {
+   "ja": "ネイチャーガール",
+   "note": "自然を愛する少女。公式 Aroma Lady（アロマなおねえさん）に近い立ち位置"
+  },
+  "Lepidopterist": {
+   "ja": "ちょうるいがくしゃ",
+   "note": "鱗翅目（チョウ・ガ）の研究者"
+  },
+  "Parson": {
+   "ja": "ぼくし",
+   "note": "Parson=教区牧師"
+  },
+  "Acolyte": {
+   "ja": "しんと",
+   "note": "Acolyte=侍祭・信奉者"
+  },
+  "Elder": {
+   "ja": "ちょうろう",
+   "note": "年長者・長老"
+  },
+  "Strongman": {
+   "ja": "ごうりきおとこ",
+   "note": "怪力自慢。公式 Black Belt との重複を避けた"
+  },
+  "Beauty Queen": {
+   "ja": "びじんじょおう",
+   "note": "ミスコン優勝者。氷ジムリーダー Serra の肩書き"
+  },
+  "Prodigy": {
+   "ja": "てんさい",
+   "note": "神童。Noel の肩書き"
+  },
+  "Grandmaster": {
+   "ja": "グランドマスター",
+   "note": "チェスの最高位。Radomus の肩書き"
+  },
+  "Harridan": {
+   "ja": "くちうるさいおばば",
+   "note": "Harridan=口やかましい老女"
+  },
+  "Sensei": {
+   "ja": "しはん",
+   "note": "武道の師範。Kiki の肩書き"
+  },
+  "Apprentice": {
+   "ja": "みならい",
+   "note": "弟子・見習い。Victoria の肩書き"
+  },
+  "Head Instructor": {
+   "ja": "しゅにんきょうかん",
+   "note": "Florinia の肩書き"
+  },
+  "Cheer Captain": {
+   "ja": "チアリーダー",
+   "note": "Julia の肩書き。チア部のキャプテン"
+  },
+  "Bookworm": {
+   "ja": "ほんのむし",
+   "note": "Shelly の肩書き"
+  },
+  "Pretty Boy": {
+   "ja": "びしょうねん",
+   "note": "Cain の肩書き"
+  },
+  "Casanova": {
+   "ja": "カサノバ",
+   "note": "女好きの色男"
+  },
+  "Beau": {
+   "ja": "あこがれのひと",
+   "note": "Beau=思い人・恋人役"
+  },
+  "Street Rat": {
+   "ja": "まちのごろつき",
+   "note": "路上暮らしのならず者"
+  },
+  "Techie": {
+   "ja": "エンジニア",
+   "note": "機械・IT に強い人物"
+  },
+  "Hard Hat": {
+   "ja": "さぎょういん",
+   "note": "公式クラス Worker 相当（ヘルメット姿の作業員）"
+  },
+  "Rockstar": {
+   "ja": "ロックスター",
+   "note": "Hardy の肩書き"
+  },
+  "Activist": {
+   "ja": "かつどうか",
+   "note": "社会運動家。Sandy の肩書き"
+  },
+  "Poacher": {
+   "ja": "みっしょうしゃ",
+   "note": "ポケモンの密猟者"
+  },
+  "Intern": {
+   "ja": "インターン",
+   "note": "研修生"
+  },
+  "Developer": {
+   "ja": "かいはつしゃ",
+   "note": "ゲーム開発者（デバッグ用）"
+  },
+  "Inspector": {
+   "ja": "そうさかん",
+   "note": "捜査官・警部"
+  },
+  "Commissioner": {
+   "ja": "ちょうかん",
+   "note": "行政の長官職"
+  },
+  "League Manager": {
+   "ja": "リーグうんえいしゃ",
+   "note": "Amethyst の肩書き"
+  },
+  "Ringmaster": {
+   "ja": "サーカスだんちょう",
+   "note": "サーカスの団長"
+  },
+  "Wandering Artist": {
+   "ja": "さすらいのがか",
+   "note": "放浪の画家"
+  },
+  "Storyteller": {
+   "ja": "かたりべ",
+   "note": "語り部"
+  },
+  "Lone Wolf": {
+   "ja": "いっぴきおおかみ",
+   "note": "一匹狼"
+  },
+  "Friendly Local": {
+   "ja": "きさくなじもとのひと",
+   "note": "地元の親切な人"
+  },
+  "Dashing Rogue": {
+   "ja": "いなせなとうぞく",
+   "note": "颯爽とした義賊"
+  },
+  "Rogue": {
+   "ja": "はぐれもの",
+   "note": "はみ出し者。Zero の肩書き"
+  },
+  "Knight": {
+   "ja": "きし",
+   "note": "騎士"
+  },
+  "Guardian": {
+   "ja": "しゅごしゃ",
+   "note": "守護者。Titania の肩書き"
+  },
+  "Guardian Princess": {
+   "ja": "しゅごのおうじょ",
+   "note": "Titania の肩書き（派生）"
+  },
+  "Guardian Exile": {
+   "ja": "ついほうされししゅごしゃ",
+   "note": "Titania の肩書き（派生）"
+  },
+  "Keeper": {
+   "ja": "まもりびと",
+   "note": "Saphira の肩書き。守り人"
+  },
+  "Skydancer": {
+   "ja": "そらのまいひめ",
+   "note": "飛行ジムリーダー Ciel の肩書き"
+  },
+  "Snow Angel": {
+   "ja": "スノーエンジェル",
+   "note": "Lumi の肩書き"
+  },
+  "Sunray": {
+   "ja": "ひだまり",
+   "note": "Eve の肩書き。Sunray=陽光"
+  },
+  "Igneous": {
+   "ja": "ほのおのおとこ",
+   "note": "Cal の肩書き。igneous=火成の"
+  },
+  "Volcanic": {
+   "ja": "かざんの",
+   "note": "Cal の肩書き（強化版）。名前の前に付く修飾語"
+  },
+  "Firebug": {
+   "ja": "ほのおマニア",
+   "note": "炎ジムリーダー Charlotte の肩書き。firebug=火遊び好き"
+  },
+  "Reborn": {
+   "ja": "よみがえりしもの",
+   "note": "Cal の後日談での肩書き。作品名 Reborn とも掛かる"
+  },
+  "Hotshot": {
+   "ja": "やりてトレーナー",
+   "note": "腕自慢のトレーナー"
+  },
+  "Dark Dreamer": {
+   "ja": "やみのゆめみびと",
+   "note": "闇の夢を見る者"
+  },
+  "Dreamer": {
+   "ja": "ゆめみるひと",
+   "note": "Shiv の肩書き"
+  },
+  "Daydreamer": {
+   "ja": "ゆめみびと",
+   "note": "Crim の肩書き。白昼夢にふける者"
+  },
+  "Dreamsick": {
+   "ja": "ゆめやみの",
+   "note": "Anna の肩書き。夢に蝕まれた状態"
+  },
+  "Anamnestic": {
+   "ja": "そうきの",
+   "note": "anamnesis=想起。記憶を取り戻した姿を指す"
+  },
+  "Visionary": {
+   "ja": "せんけんのし",
+   "note": "Adrienn の肩書き。先見の明を持つ者"
+  },
+  "Entity": {
+   "ja": "そんざい",
+   "note": "Shade の肩書き。実体なき存在"
+  },
+  "Spectral": {
+   "ja": "ぼうれいの",
+   "note": "Kiki の亡霊としての肩書き"
+  },
+  "the Spectral": {
+   "ja": "ぼうれいの",
+   "note": "「the Spectral Swords of Justice」のような冠詞付き用法"
+  },
+  "Umbral": {
+   "ja": "かげの",
+   "note": "umbral=影の。Reborn の闇バージョンの登場人物に付く"
+  },
+  "Umbral Agent": {
+   "ja": "かげのエージェント",
+   "note": "umbral=影の。Reborn の闇バージョン勢力の工作員"
+  },
+  "Illusory Spirit": {
+   "ja": "まぼろしのせいれい",
+   "note": "Kurotsune の肩書き"
+  },
+  "Wandering Spirit": {
+   "ja": "さまよえるたましい",
+   "note": "彷徨う霊。同名の特性 Wandering Spirit（ミイラ）とは別物"
+  },
+  "Djinn": {
+   "ja": "まじん",
+   "note": "アラビア伝承の精霊 djinn"
+  },
+  "Golem": {
+   "ja": "ゴーレム",
+   "note": "泥人形の魔法生物。ポケモンの ゴローニャ とは別"
+  },
+  "Anomaly": {
+   "ja": "アノマリー",
+   "note": "Reborn 独自の「異常個体」概念。固有語としてカタカナ保持"
+  },
+  "Anomalized": {
+   "ja": "アノマライズド",
+   "note": "アノマリー化した状態"
+  },
+  "Multi-iterative": {
+   "ja": "マルチイテレーション",
+   "note": "複数回反復する融合シミュレーション体"
+  },
+  "Alter": {
+   "ja": "オルタ",
+   "note": "別人格・複製体を指す接頭辞"
+  },
+  "Creeping": {
+   "ja": "しのびよる",
+   "note": "野生ポケモンに付く修飾語"
+  },
+  "PULSE": {
+   "ja": "PULSE",
+   "note": "作品固有の PULSE 機械に接続されたポケモン。固有名詞のため原文維持"
+  },
+  "Meteor Leader": {
+   "ja": "メテオだんリーダー",
+   "note": "組織 Team Meteor を「メテオだん」と訳出（公式のロケット団等に準拠）"
+  },
+  "Meteor Admin": {
+   "ja": "メテオだんかんぶ",
+   "note": "組織 Team Meteor を「メテオだん」と訳出（公式のロケット団等に準拠）"
+  },
+  "Meteor Grunt": {
+   "ja": "メテオだんしたっぱ",
+   "note": "組織 Team Meteor を「メテオだん」と訳出（公式のロケット団等に準拠）"
+  },
+  "Meteor Private": {
+   "ja": "メテオだんへいそつ",
+   "note": "組織 Team Meteor を「メテオだん」と訳出（公式のロケット団等に準拠）"
+  },
+  "Meteor Privates": {
+   "ja": "メテオだんへいそつたち",
+   "note": "組織 Team Meteor を「メテオだん」と訳出（公式のロケット団等に準拠）複数"
+  },
+  "Meteor Ace": {
+   "ja": "メテオだんエース",
+   "note": "組織 Team Meteor を「メテオだん」と訳出（公式のロケット団等に準拠）複数"
+  },
+  "Meteor Knight": {
+   "ja": "メテオだんのきし",
+   "note": "組織 Team Meteor を「メテオだん」と訳出（公式のロケット団等に準拠）複数"
+  },
+  "Meteor Dame": {
+   "ja": "メテオだんのふじん",
+   "note": "組織 Team Meteor を「メテオだん」と訳出（公式のロケット団等に準拠）複数"
+  },
+  "Meteor Agent": {
+   "ja": "メテオだんエージェント",
+   "note": "組織 Team Meteor を「メテオだん」と訳出（公式のロケット団等に準拠）複数"
+  },
+  "Meteor Manager": {
+   "ja": "メテオだんマネージャー",
+   "note": "組織 Team Meteor を「メテオだん」と訳出（公式のロケット団等に準拠）複数"
+  },
+  "Meteor Champion": {
+   "ja": "メテオチャンピオン",
+   "note": "Lin の肩書き"
+  },
+  "Reborn Champion": {
+   "ja": "リボーンチャンピオン",
+   "note": "リボーンリーグのチャンピオン"
+  },
+  "Magma Gang": {
+   "ja": "マグマだんいん",
+   "note": "公式 Team Magma=マグマだん に準拠"
+  },
+  "Magma Kingpin": {
+   "ja": "マグマだんボス",
+   "note": "公式 Team Magma=マグマだん に準拠"
+  },
+  "Aqua Gang": {
+   "ja": "アクアだんいん",
+   "note": "公式 Team Aqua=アクアだん に準拠"
+  },
+  "Aqua Mastermind": {
+   "ja": "アクアだんそうすい",
+   "note": "公式 Team Aqua=アクアだん に準拠"
+  },
+  "Q Gang": {
+   "ja": "Qギャング",
+   "note": "Reborn 独自のストリートギャング"
+  },
+  "New World Cultist": {
+   "ja": "ニューワールドのしんじゃ",
+   "note": "組織 New World の信者"
+  },
+  "New World Orderly": {
+   "ja": "ニューワールドのかんごにん",
+   "note": "同組織の看護人（精神病棟の orderly）"
+  },
+  "Orderly": {
+   "ja": "かんごにん",
+   "note": "病棟の看護助手"
+  },
+  "Mastermind": {
+   "ja": "くろまく",
+   "note": "黒幕。Eustace の肩書き"
+  },
+  "Agent": {
+   "ja": "エージェント",
+   "note": "工作員"
+  },
+  "Master": {
+   "ja": "マスター",
+   "note": "「Master Mime」のような称号"
+  },
+  "High King": {
+   "ja": "だいおう",
+   "note": "「High King of the Pyukumuku」のような称号"
+  },
+  "The Legendary": {
+   "ja": "でんせつの",
+   "note": "名前の前に付く修飾語"
+  },
+  "Guiding Star": {
+   "ja": "みちしるべのほし",
+   "note": "Taube の肩書き"
+  },
+  "Starcrosser": {
+   "ja": "ほしをわたるもの",
+   "note": "Anna の肩書き"
+  },
+  "Starchaser": {
+   "ja": "ほしをおうもの",
+   "note": "Ikaru の肩書き"
+  },
+  "Lost Starscaper": {
+   "ja": "さまよえるほしよみ",
+   "note": "Zina の肩書き。star＋landscaper の造語"
+  },
+  "Gracidea": {
+   "ja": "グラシデア",
+   "note": "公式アイテム グラシデアのはな に由来する称号"
+  },
+  "Emerging Violet": {
+   "ja": "めばえるスミレ",
+   "note": "Vulpes の肩書き"
+  },
+  "Buttercups and Butterflies": {
+   "ja": "キンポウゲとチョウ",
+   "note": "Autumn の肩書き。頭韻を持つ詩的な称号"
+  },
+  "Mordant Urchin": {
+   "ja": "しんらつないたずらっこ",
+   "note": "Lin の肩書き。mordant=辛辣な、urchin=わんぱく小僧"
+  },
+  "Brat Child": {
+   "ja": "わんぱくっこ",
+   "note": "Kyra の肩書き"
+  },
+  "Not a Child; Just Short": {
+   "ja": "こどもじゃない ただチビなだけ",
+   "note": "Marcello のギャグ肩書き。原文のニュアンスを直訳"
+  },
+  "Held at Gunpoint": {
+   "ja": "じゅうをつきつけられた",
+   "note": "Perry の状況説明的な肩書き"
+  },
+  "Definitely Not": {
+   "ja": "ぜったいにちがう",
+   "note": "「Definitely Not Mewtwo」のジョーク肩書き"
+  },
+  "Flotsam": {
+   "ja": "ひょうりゅうぶつ",
+   "note": "Amaria の肩書き。flotsam=漂流物"
+  },
+  "Jetsam": {
+   "ja": "とうきぶつ",
+   "note": "Amaria の肩書き。jetsam=投荷。Flotsam と対になる"
+  },
+  "Vagrant Scion": {
+   "ja": "さすらいのおんぞうし",
+   "note": "Taka の肩書き。scion=名家の御曹司"
+  },
+  "Axis High Senior": {
+   "ja": "アクシスこうこうのせんぱい",
+   "note": "Flora の肩書き。Axis High は校名"
+  },
+  "Swag Jockey": {
+   "ja": "キザなジョッキー",
+   "note": "Fern の肩書き"
+  },
+  "Purple": {
+   "ja": "パープル",
+   "note": "名前の前に付く色修飾語（Purple Kecleon）"
+  },
+  "Kecleon": {
+   "ja": "カクレオン",
+   "note": "公式ポケモン名 カクレオン"
+  },
+  "Bouffalant": {
+   "ja": "バッフロン",
+   "note": "公式ポケモン名 バッフロン。Buffalo Bill をもじった「Bouffalant Bill」"
+  },
+  "BreloomBot": {
+   "ja": "キノガッサボット",
+   "note": "公式ポケモン名 キノガッサ ＋ ロボット"
+  },
+  "Pokemon": {
+   "ja": "ポケモン",
+   "note": "ポケモン自身がトレーナー扱いの場合"
+  },
+  "DJ": {
+   "ja": "DJ",
+   "note": "そのまま。DJ Arc など"
+  },
+  "Dr.": {
+   "ja": "ドクター",
+   "note": "敬称"
+  },
+  "Mr.": {
+   "ja": "ミスター",
+   "note": "敬称"
+  },
+  "Miss": {
+   "ja": "ミス",
+   "note": "敬称。「Miss Direction」の言葉遊びにも対応"
+  },
+  "Madame": {
+   "ja": "マダム",
+   "note": "敬称"
+  },
+  "Her": {
+   "ja": "かのじょの",
+   "note": "「Her Antics」のような所有格の修飾語"
+  },
+  "All": {
+   "ja": "オール",
+   "note": "「All for One」のような句を分割した前半"
+  },
+  "the Crystal": {
+   "ja": "クリスタルの",
+   "note": "「the Crystal Aegislash」のような冠詞付き修飾語"
+  },
+  "Test Train": {
+   "ja": "テストトレーナー",
+   "note": "デバッグ用のテストトレーナー"
+  },
+  "Post-Game Battle": {
+   "ja": "クリアごバトル",
+   "note": "クリア後の再戦用"
+  },
+  "Elite Four Wind Maiden": {
+   "ja": "してんのう・かぜのおとめ",
+   "note": "四天王＋個別称号。Wind Maiden=風の乙女"
+  },
+  "Elite Four Tag Team": {
+   "ja": "してんのう・タッグチーム",
+   "note": "四天王＋個別称号。Wind Maiden=風の乙女"
+  },
+  "Elite Four Agent": {
+   "ja": "してんのう・エージェント",
+   "note": "四天王＋個別称号。Wind Maiden=風の乙女"
+  },
+  "Elite Four Starcrosser": {
+   "ja": "してんのう・ほしわたり",
+   "note": "四天王＋個別称号。Wind Maiden=風の乙女"
+  },
+  "Elite Four Floral Artist": {
+   "ja": "してんのう・フラワーアーティスト",
+   "note": "四天王＋個別称号。Wind Maiden=風の乙女"
+  },
+  "Elite Four Imago": {
+   "ja": "してんのう・イマーゴ",
+   "note": "四天王＋個別称号。imago=昆虫の成虫"
+  },
+  "Elite Four Skyspectre": {
+   "ja": "してんのう・スカイスペクター",
+   "note": "四天王＋個別称号。sky＋spectre の造語"
+  },
+  "???": {
+   "ja": "???",
+   "note": "正体不明。原文のまま"
+  },
+  "MIS5INGN0": {
+   "ja": "MIS5INGN0",
+   "note": "バグ表現（グリッチ文字列）。原文のまま維持"
+  },
+  "PKMNPKMNT": {
+   "ja": "PKMNPKMNT",
+   "note": "バグ表現（グリッチ文字列）。原文のまま維持"
+  },
+  "OPKMN4X": {
+   "ja": "OPKMN4X",
+   "note": "バグ表現（グリッチ文字列）。原文のまま維持"
+  },
+  "M1SS1NGO": {
+   "ja": "M1SS1NGO",
+   "note": "バグ表現（グリッチ文字列）。原文のまま維持"
+  },
+  "M3G4": {
+   "ja": "M3G4",
+   "note": "バグ表現（グリッチ文字列）。原文のまま維持"
+  }
+ }
+}

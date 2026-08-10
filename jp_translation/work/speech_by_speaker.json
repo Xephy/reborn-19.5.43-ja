@@ -1,0 +1,4983 @@
+[
+ {
+  "speaker": "Fern",
+  "title": "Swag Jockey",
+  "tid": 91,
+  "lines": [
+   "You think you can get away with that?",
+   "Hah! Way to get lucky.",
+   "You don't actually think you're special, do you?",
+   "This isn't over.",
+   "You're really starting to grate on my nerves, and you don't wanna do that.",
+   "...Noob.",
+   "Pfft, picking on you is way too easy.",
+   "You know I let you win, right?",
+   "You're a real thorn in my side, you know?",
+   "Try not being cheap for a change.",
+   "You're gonna regret crossing me-- both of you will!",
+   "Why... WHY?!",
+   "WHY DOES IT HAVE TO BE YOU?!"
+  ]
+ },
+ {
+  "speaker": "Cain",
+  "title": "Pretty Boy",
+  "tid": 83,
+  "lines": [
+   "Cute AND talented~",
+   "Aha, well this is a rough first battle for the little guy. But the first time is always rough, huh?",
+   "Well well, this adventure's heating up~",
+   "I am sooo getting bent-over here.",
+   "You sure know how to handle me~",
+   "You know, I can't help but be feeling a little nervous here, haha...",
+   "That's okay, this was probably a bad idea anyway...",
+   "You always seem to overwhelm me...~",
+   "'s cool, I can wait my turn. Just don't keep me on edge too long~",
+   "..."
+  ]
+ },
+ {
+  "speaker": "Taka",
+  "title": "Meteor Admin",
+  "tid": 97,
+  "lines": [
+   "It's a shame it has to come to this, but...",
+   "Well, I tried.",
+   "I guess that means it's time for this, right?",
+   "Oops. Oh well.",
+   "Defeat was never such a relief.",
+   "I know I can't win...",
+   "Thank you...",
+   "Not against you..."
+  ]
+ },
+ {
+  "speaker": "Victoria",
+  "title": "Apprentice",
+  "tid": 84,
+  "lines": [
+   "Oh, it's over already?",
+   "I'm not capitulating yet! One last push!",
+   "That was good! A solid session!",
+   "Did you know? When one's back is against the wall, that's when they're at their strongest!",
+   "Good! Thank you for the lesson!",
+   "You're gonna have to hit a lot harder than that if you expect to break through!",
+   "...Nice work!"
+  ]
+ },
+ {
+  "speaker": "Aster",
+  "title": "Meteor Private",
+  "tid": 44,
+  "lines": [
+   "What?! Defeated?!",
+   "Uh... what just happened?",
+   "Seriously, again!?",
+   "Dammit! Eclipse, are you even trying?!",
+   "Eclipse-- I'm sorry.",
+   "UGH. It's never enough...",
+   "...That's what I truly wished to believe."
+  ]
+ },
+ {
+  "speaker": "Julia",
+  "title": "Cheer Captain",
+  "tid": 93,
+  "lines": [
+   "Don'tgoboom,don'tgoboom,don'tgoboom...",
+   "Huh? I lost already?",
+   "And now for the explosive finale!",
+   "Wait, the structure is still intact! We can't be done yet!?",
+   "KABOOOOM!!",
+   "KABOOM!"
+  ]
+ },
+ {
+  "speaker": "ZEL",
+  "title": "Meteor Admin",
+  "tid": 95,
+  "lines": [
+   "...This is why you shouldn't talk so much, Lumi!",
+   "Zel: Tch, no choice then!",
+   "Ah-ah... I'm sorry, we were too weak...",
+   "I'm so sorry it had to come to this, Abra...",
+   "zeL: I'm sorry, Magnezone... If we're gonna get through this, we need your help!",
+   "zEl: Lumi, regardless of what happens now-- please remember that I will always, always love you."
+  ]
+ },
+ {
+  "speaker": "Sirius",
+  "title": "Meteor Admin",
+  "tid": 15,
+  "lines": [
+   "Perhaps we've left this threat unchecked for too long.",
+   "Insolent. You have no clue what you're fighting for or against.",
+   "I will blot out every inkling of your existence! None will remember you after I'm through!",
+   "ENOUGH! Be glad your dragon-friend softened us up.",
+   "Do you know what it's like, to feel the meanders and chasms of history slip through your fingers?",
+   "Do you know what regret like that does to a person?"
+  ]
+ },
+ {
+  "speaker": "Heather",
+  "title": "Elite Four Wind Maiden",
+  "tid": 145,
+  "lines": [
+   "I have sky high power! I won't back down!",
+   "No! No! Nonononononono!!!",
+   "I won't give up that easily! Hit me with everything you've got!",
+   "Yeah!! That was a great rematch! You've got me all hyped for the next one already!",
+   "Wow, high-schoolers really are the worst, huh?",
+   "Good rematch! And same to you... other girl, I guess."
+  ]
+ },
+ {
+  "speaker": "Elias",
+  "title": "Elite Four Agent",
+  "tid": 147,
+  "lines": [
+   "Even should His light fade for now, it will inevitably shine bright once more in time. This, too, is His will.",
+   "So be it.",
+   "Dominus illuminatio mea. As always, I strive to make the most of the lessons my Lord grants to me.",
+   "Even in defeat, it is an honor to bear witness to your divine light.",
+   "Even in a loss, it is a pleasure to be graced with your talent, time and attention.",
+   "I am honored to permit your victory, my Lord."
+  ]
+ },
+ {
+  "speaker": "Eclipse",
+  "title": "Meteor Private",
+  "tid": 45,
+  "lines": [
+   "...Tch.",
+   "...Are you kidding me.",
+   "Did you expect something else?",
+   "ECLIPSE: Seriously, can we stop this already?",
+   "Not really, no."
+  ]
+ },
+ {
+  "speaker": "Sigmund Connal",
+  "title": "Dr.",
+  "tid": 14,
+  "lines": [
+   "Your silence does not eclipse your impertinence.",
+   "Hrm...",
+   "Your petty resistance only delays the inevitable.",
+   "Gentleness has a time and place. So does justice.",
+   "If only children had the experience to back up their wisdom..."
+  ]
+ },
+ {
+  "speaker": "Lin",
+  "title": "Mordant Urchin",
+  "tid": 150,
+  "lines": [
+   "here, puppy! go get 'em!!",
+   "huh??????",
+   "oh noooo, what ever will i do now...",
+   "oh.",
+   "well i hope YOU'RE having a good time at least."
+  ]
+ },
+ {
+  "speaker": "Laura",
+  "title": "Elite Four Floral Artist",
+  "tid": 151,
+  "lines": [
+   "The flowers are especially beautiful and bright today. Your shine is just as brilliant as theirs!",
+   "Wonderful as always.",
+   "It's always a pleasure to see how others of my types choose to battle.",
+   "This has been a genuine treat!",
+   "LAURA: That was a stunning display."
+  ]
+ },
+ {
+  "speaker": "Ricardo",
+  "title": "Meteor Grunt",
+  "tid": 89,
+  "lines": [
+   "It's more likely than we think.",
+   "Why?!",
+   "Ugh, even with that girl gone...",
+   "I've been breached too!",
+   "Ugh, I should know better by now."
+  ]
+ },
+ {
+  "speaker": "Hilda",
+  "title": "Meteor Grunt",
+  "tid": 90,
+  "lines": [
+   "Or don't.",
+   "Y-you're...",
+   "We still lost? C'mon.",
+   "Hmph.",
+   "You already got out, so why are you wasting time fighting me anyway?"
+  ]
+ },
+ {
+  "speaker": "Florinia",
+  "title": "Head Instructor",
+  "tid": 96,
+  "lines": [
+   "Conclusion forthcoming...",
+   "...Very well.",
+   "The present moment remains an inopportune time for emotional interference... Nevertheless...",
+   "Well fought."
+  ]
+ },
+ {
+  "speaker": "Shelly",
+  "title": "Bookworm",
+  "tid": 101,
+  "lines": [
+   "Hehe... Failing again...",
+   "...I'm still not good enough, huh...",
+   "You've gotten so much stronger too!",
+   "You've gotten way stronger too!"
+  ]
+ },
+ {
+  "speaker": "Solaris",
+  "title": "Meteor Leader",
+  "tid": 11,
+  "lines": [
+   "So that's how it is.",
+   "Your purpose is asinine, but I must respect your ability.",
+   "Children cry because they do not understand.",
+   "Adults cry because they do."
+  ]
+ },
+ {
+  "speaker": "Bennett",
+  "title": "Lepidopterist",
+  "tid": 18,
+  "lines": [
+   "I see, I see... You are at a highly advanced stage of metamorphosis already!",
+   "Ah... Well, it looks like I still have some adaptations to undergo myself...",
+   "Tch, she would never... No! I won't give up! I'll make her see!",
+   "So that's what I amount to, is it..."
+  ]
+ },
+ {
+  "speaker": "Samson",
+  "title": "Strongman",
+  "tid": 39,
+  "lines": [
+   "No sweat. I've been in worse positions.",
+   "Tch. This isn't the worst thing I've lost.",
+   "Good show.",
+   "Nice."
+  ]
+ },
+ {
+  "speaker": "Charlotte",
+  "title": "Firebug",
+  "tid": 48,
+  "lines": [
+   "Ever seen a wildfire start from just a spark? ...D'you wanna?",
+   "Over it. So done.",
+   "CHARLOTTE: Boo.",
+   "Heh. That was fun."
+  ]
+ },
+ {
+  "speaker": "Blake",
+  "title": "Agent",
+  "tid": 60,
+  "lines": [
+   "Cool story, bro.",
+   "Tch, fuck this.",
+   "Are you kidding me?",
+   "Tch. Then what was the point?"
+  ]
+ },
+ {
+  "speaker": "T3RR4",
+  "title": "M3G4",
+  "tid": 68,
+  "lines": [
+   "FUCK!!! THE WHAT!!!!!!!",
+   "HOLY WOWSY MR. KRABBY, I AM REALLY FEELING IT!",
+   "Hey... Is this really what you want now?",
+   "are you really done with me?"
+  ]
+ },
+ {
+  "speaker": "Saphira",
+  "title": "Keeper",
+  "tid": 140,
+  "lines": [
+   "So what? I'm down, but never out.",
+   "...Really.",
+   "I'm sure this is what everyone expected, but... Good job.",
+   "I'm sure this is what everyone expected, but good job."
+  ]
+ },
+ {
+  "speaker": "Lin",
+  "title": "Meteor Champion",
+  "tid": 149,
+  "lines": [
+   "And now for the PULSE you've eagerly awaited... Oh, was this not it?",
+   "Before you sleep, creature, you have one more task.",
+   "Smile now. This means nothing. Little more than your ever-fleeting mirth will ever come to you.",
+   "I've waited for so long."
+  ]
+ },
+ {
+  "speaker": "Bennett",
+  "title": "Elite Four Imago",
+  "tid": 192,
+  "lines": [
+   "...Ah. It appears that there is still yet much for me to discover on this journey.",
+   "This result was expected-- I'm grateful for the opportunity to learn from you regardless.",
+   "You use... unconventional strategies... for a tag team. And yet, clearly I still have much to learn.",
+   "It was a satisfying battle, if an expected conclusion. I am honored to have held your time."
+  ]
+ },
+ {
+  "speaker": "Coleman",
+  "title": "Meteor Grunt",
+  "tid": 89,
+  "lines": [
+   "You really don't know what you're doing, do you?",
+   "Ugh, what are you trying to do?",
+   "Um...",
+   "I suppose you're the one responsible for that."
+  ]
+ },
+ {
+  "speaker": "Mary",
+  "title": "Meteor Grunt",
+  "tid": 90,
+  "lines": [
+   "Don't say I didn't warn you~",
+   "Shoulda just blinded you and been done with it...",
+   "Did that really just happen...?",
+   "Okay, maybe you will."
+  ]
+ },
+ {
+  "speaker": "Naoman",
+  "title": "Techie",
+  "tid": 85,
+  "lines": [
+   "Seems I'll have to recalculate.",
+   "So many confounding variables!",
+   "Cuz we sure can't.",
+   "Time to find a new job, I suppose."
+  ]
+ },
+ {
+  "speaker": "Deryl",
+  "title": "Techie",
+  "tid": 85,
+  "lines": [
+   "I tried.",
+   "Can't control anything!",
+   "Is this really all Lin needs?",
+   "Then that's it, is it?"
+  ]
+ },
+ {
+  "speaker": "Shiv",
+  "title": "Dreamer",
+  "tid": 256,
+  "lines": [
+   "This is shaping up to be an interesting day, indeed.",
+   "Well, color me surprised.",
+   "Hmph... This is pleasantly surprising.",
+   "It seems that my hypothesis was correct after all..."
+  ]
+ },
+ {
+  "speaker": "Shade",
+  "title": "Entity",
+  "tid": 103,
+  "lines": [
+   "...Abyss favors the forsaken...",
+   "...!!",
+   "!"
+  ]
+ },
+ {
+  "speaker": "Archer",
+  "title": "Aqua Mastermind",
+  "tid": 32,
+  "lines": [
+   "After everything, it's come to this.",
+   "How disappointing.",
+   "I believe we agreed to explicitly not do that?"
+  ]
+ },
+ {
+  "speaker": "Maxwell",
+  "title": "Magma Kingpin",
+  "tid": 31,
+  "lines": [
+   "Hah. After everything, it's come to this, huh?",
+   "Still...",
+   "Babe, no."
+  ]
+ },
+ {
+  "speaker": "Aya",
+  "title": "Wasteland Punk",
+  "tid": 13,
+  "lines": [
+   "Just finish it already, why don't you.",
+   "At least I won't have to deal with this again.",
+   "There you go."
+  ]
+ },
+ {
+  "speaker": "Serra",
+  "title": "Beauty Queen",
+  "tid": 20,
+  "lines": [
+   "Ice, like a mirror, will never be perfect again once it cracks.",
+   "So you've found success. Hold on to it while you can.",
+   "And that pretty much tracks."
+  ]
+ },
+ {
+  "speaker": "Radomus",
+  "title": "Grandmaster",
+  "tid": 23,
+  "lines": [
+   "Well, well, I am impressed.",
+   "And that's Checkmate.",
+   "I see that you will not be toppled."
+  ]
+ },
+ {
+  "speaker": "Luna",
+  "title": "Dark Dreamer",
+  "tid": 34,
+  "lines": [
+   "Oh? Perhaps I've lost my way after all. How wonderful!",
+   "You have overcome the gateway into the soul of eternity... Though its beauty is tarnished, your soul shines with hope. I pray you farewell.",
+   "Your light, as ever, shines through."
+  ]
+ },
+ {
+  "speaker": "Ciel",
+  "title": "Skydancer",
+  "tid": 74,
+  "lines": [
+   "Hold your applause! You've yet to see the final act!",
+   "Bravo, my dear! You've stuck the landing!",
+   "An elegant performance!"
+  ]
+ },
+ {
+  "speaker": "Adrienn",
+  "title": "Visionary",
+  "tid": 111,
+  "lines": [
+   "I haven't had a battle this exhilarating in ages-- even by my twisted timeline!",
+   "Ah, I knew I was right to count on you.",
+   "Strong as ever, I see!"
+  ]
+ },
+ {
+  "speaker": "Titania",
+  "title": "Guardian Exile",
+  "tid": 119,
+  "lines": [
+   "Don't get cocky. It's not like this means anything.",
+   "Tch. Whatever.",
+   "Hm. You haven't been slacking, I see. Good."
+  ]
+ },
+ {
+  "speaker": "Amaria",
+  "title": "Flotsam",
+  "tid": 120,
+  "lines": [
+   "You're doing well! Just be ready for what comes after...",
+   "Good game! That was amazing!",
+   "...?"
+  ]
+ },
+ {
+  "speaker": "Amaria",
+  "title": "Jetsam",
+  "tid": 121,
+  "lines": [
+   "Drown.",
+   "Misery loves company like I love her. That's why we're alone from now on.",
+   "Misery loves company like I love her. That's why we're alone."
+  ]
+ },
+ {
+  "speaker": "Hardy",
+  "title": "Rockstar",
+  "tid": 131,
+  "lines": [
+   "What happens here is one thing... But don't think our spirit can ever be broken!",
+   "Heh, looks like I still got a ways to go.",
+   "What a rockin' show!"
+  ]
+ },
+ {
+  "speaker": "Lumi",
+  "title": "Snow Angel",
+  "tid": 138,
+  "lines": [
+   "When was the last time we battled like this?",
+   "I'm doing this for all of us! Please don't get in my way!",
+   "P-please, this is her life too..."
+  ]
+ },
+ {
+  "speaker": "Eve",
+  "title": "Sunray",
+  "tid": 139,
+  "lines": [
+   "Never. It was never quite like that.",
+   "Are you really sure this is what you need to be doing?",
+   "...Tch. Just where are your priorities?"
+  ]
+ },
+ {
+  "speaker": "Anna",
+  "title": "Elite Four Starcrosser",
+  "tid": 148,
+  "lines": [
+   "Nostra, it's time! Please, give us the last of your strength!",
+   "If stars never fell, how would anyone make their wishes?",
+   "ANNA: Oh, I didn't see you at first!"
+  ]
+ },
+ {
+  "speaker": "Craudburry",
+  "title": "Harridan",
+  "tid": 29,
+  "lines": [
+   "...BAAAAAH!",
+   "YRRGBRRLRLARGH!!!",
+   "MARK MY WORDS, DEVILS, THE EARTH SHALL BECOME NAUGHT BUT SALT AND ASH BEFORE ME!"
+  ]
+ },
+ {
+  "speaker": "Corin-Rouge",
+  "title": "Dashing Rogue",
+  "tid": 114,
+  "lines": [
+   "So it's come to this after all. Let us see what this so-called ultra powerful Pokémon can-- Wait, what?",
+   "I...",
+   "It seems luck wasn't on my side this time after all."
+  ]
+ },
+ {
+  "speaker": "Refugees",
+  "title": "Pokemon",
+  "tid": 132,
+  "lines": [
+   "...Grr.",
+   "....Graaaauh?",
+   "...Graugh."
+  ]
+ },
+ {
+  "speaker": "Sanchez",
+  "title": "Meteor Grunt",
+  "tid": 89,
+  "lines": [
+   "So I was the one who got hurt. Hmph.",
+   "Oh, shoot.",
+   "Really, it didn't even make a difference?"
+  ]
+ },
+ {
+  "speaker": "Devin",
+  "title": "Meteor Grunt",
+  "tid": 89,
+  "lines": [
+   "Ugh, fine.",
+   "And there you go.",
+   "Whaaaat."
+  ]
+ },
+ {
+  "speaker": "Simon",
+  "title": "Meteor Grunt",
+  "tid": 89,
+  "lines": [
+   "Ugh. This just sets me back again.",
+   "Copy, over.",
+   "I knew she would invite trouble..."
+  ]
+ },
+ {
+  "speaker": "Christopher",
+  "title": "Meteor Grunt",
+  "tid": 89,
+  "lines": [
+   "...W-what?",
+   "Mere trifles can't stop our grand design!",
+   "Aren't you the one we're supposed to catch? Weren't you supposed to be on the inside?"
+  ]
+ },
+ {
+  "speaker": "Ama",
+  "title": "Meteor Grunt",
+  "tid": 89,
+  "lines": [
+   "Guess our chances flew the coop.",
+   "Team Meteor until the end!",
+   "So, you won't just get caught for us? Please?"
+  ]
+ },
+ {
+  "speaker": "Kenneth",
+  "title": "Meteor Grunt",
+  "tid": 89,
+  "lines": [
+   "Tch, this just isn't our day...",
+   "Do whatever you want. It won't make a difference!",
+   "Uhh, well... Pretend like I stopped you."
+  ]
+ },
+ {
+  "speaker": "Tara",
+  "title": "Meteor Grunt",
+  "tid": 90,
+  "lines": [
+   "Ohhh, so that's what you're doing.",
+   "Go awayyyy!",
+   "Would you stop that?!"
+  ]
+ },
+ {
+  "speaker": "Brenna",
+  "title": "Meteor Grunt",
+  "tid": 90,
+  "lines": [
+   "Pest, indeed.",
+   "Yes, earthquakes did it! Not us, nooo!",
+   "Aaaaah, this isn't fair!"
+  ]
+ },
+ {
+  "speaker": "Steven",
+  "title": "Meteor Knight",
+  "tid": 105,
+  "lines": [
+   "Curse you!",
+   "Drat!",
+   "You won't reach it. Only one of them is powered here anyway."
+  ]
+ },
+ {
+  "speaker": "Kenan",
+  "title": "Meteor Knight",
+  "tid": 105,
+  "lines": [
+   "Keep your paws off, mutt.",
+   "Hmph. Well, you may have found the prisoners, but you don't have the cell key!",
+   "Tch, we'll never get you, will we..."
+  ]
+ },
+ {
+  "speaker": "Gretchen",
+  "title": "Meteor Dame",
+  "tid": 106,
+  "lines": [
+   "Seems you do.",
+   "Grrrrrr!",
+   "...I'm sorry, sis... I tried..."
+  ]
+ },
+ {
+  "speaker": "Avril",
+  "title": "Meteor Dame",
+  "tid": 106,
+  "lines": [
+   "And neither are you.",
+   "Why can't you just be extricated?!",
+   "Tch, don't say I didn't warn you~"
+  ]
+ },
+ {
+  "speaker": "Diana",
+  "title": "Meteor Dame",
+  "tid": 106,
+  "lines": [
+   "Hm. Well, next time?",
+   "...No?",
+   "Looks like I also fall..."
+  ]
+ },
+ {
+  "speaker": "John",
+  "title": "Orderly",
+  "tid": 100,
+  "lines": [
+   "Well done.",
+   "Protection? You bring only violence.",
+   "This is your third trial. How many more will you endure?"
+  ]
+ },
+ {
+  "speaker": "Arcturus",
+  "title": "New World Cultist",
+  "tid": 69,
+  "lines": [
+   "Why must you cause such suffering?",
+   "Whatever power you have, we'll strive to end it as always.",
+   "A narrow escape to narrowing success..."
+  ]
+ },
+ {
+  "speaker": "Cass",
+  "title": "Friendly Local",
+  "tid": 159,
+  "lines": [
+   "Great.",
+   "Right.",
+   "great, you did it."
+  ]
+ },
+ {
+  "speaker": "Victoria",
+  "title": "Sensei",
+  "tid": 125,
+  "lines": [
+   "To minimize the chaos within... Sensei, I'm so sorry.",
+   "Sensei--"
+  ]
+ },
+ {
+  "speaker": "Zero",
+  "title": "Meteor Grunt",
+  "tid": 135,
+  "lines": [
+   "Go down, go down, go down, go down, go down, go down, go down, go down, GO DOWN!!!",
+   "GO DOWN, GO DOWN, GO DOWN, GO DOWN, GO-- h-- ...huh?"
+  ]
+ },
+ {
+  "speaker": "Ace of Clubs",
+  "title": "Meteor Manager",
+  "tid": 224,
+  "lines": [
+   "Please stay seated! The main act is yet to come!",
+   "...Ah, so that's the show?"
+  ]
+ },
+ {
+  "speaker": "Ace of Diamonds",
+  "title": "Meteor Agent",
+  "tid": 225,
+  "lines": [
+   "And now might I give a thousand furlongs of sea for an acre of barren ground...",
+   "Bravo, little hero, bravo~"
+  ]
+ },
+ {
+  "speaker": "Ace of Hearts",
+  "title": "Meteor Agent",
+  "tid": 226,
+  "lines": [
+   "Perhaps it is foolish to expect the third movement to sing a separate song from the first two.",
+   "But then, what am I if not a fool?"
+  ]
+ },
+ {
+  "speaker": "Ace of Spades",
+  "title": "Meteor Agent",
+  "tid": 227,
+  "lines": [
+   "Ah, is it just me? Or does your heart not seem to really be in this? What are you hiding?",
+   "You don't have them, do you?"
+  ]
+ },
+ {
+  "speaker": "Corey",
+  "title": "Agent",
+  "tid": 98,
+  "lines": [
+   "Disappointment is a two-way street.",
+   "...Good."
+  ]
+ },
+ {
+  "speaker": "Borealis",
+  "title": "Agent",
+  "tid": 98,
+  "lines": [
+   "All things must end eventually. Some are overdue.",
+   "And so all is vanished."
+  ]
+ },
+ {
+  "speaker": "Cal",
+  "title": "Volcanic",
+  "tid": 282,
+  "lines": [
+   "What's your FUCKING problem, huh?!",
+   "Can't you chumps take a goddamn hint?"
+  ]
+ },
+ {
+  "speaker": "Cal",
+  "title": "Igneous",
+  "tid": 9,
+  "lines": [
+   "...This feels empty.",
+   "Hm..."
+  ]
+ },
+ {
+  "speaker": "Cal",
+  "title": "Reborn",
+  "tid": 54,
+  "lines": [
+   "Can't say I didn't expect this. It's you after all.",
+   "So that's it."
+  ]
+ },
+ {
+  "speaker": "Kiki",
+  "title": "Sensei",
+  "tid": 107,
+  "lines": [
+   "To minimize the chaos within... Perhaps it's too late.",
+   "...And all was silent."
+  ]
+ },
+ {
+  "speaker": "?????",
+  "title": "???",
+  "tid": 128,
+  "lines": [
+   "???",
+   "Th-se wh- h-ve -ost m-st -lway- -ind --ch -the-. B-t --ere ev-r -re -ou loo-ing?"
+  ]
+ },
+ {
+  "speaker": "Noel",
+  "title": "Prodigy",
+  "tid": 22,
+  "lines": [
+   "It's too bad. They can't always get what they want.",
+   "Well, Nomos... I think they're setting a new standard."
+  ]
+ },
+ {
+  "speaker": "Alistasia",
+  "title": "Ringmaster",
+  "tid": 164,
+  "lines": [
+   "A nail-biter it is, then!",
+   "I should never have waived your entry fee..."
+  ]
+ },
+ {
+  "speaker": "Terra",
+  "title": "M3G4",
+  "tid": 68,
+  "lines": [
+   "RAAAAAAAWR! 5UP3R ANGY!!",
+   "RAAAAAAWR!!! ANGY!!"
+  ]
+ },
+ {
+  "speaker": "Arclight",
+  "title": "DJ",
+  "tid": 110,
+  "lines": [
+   "You've got a good showing. But don't think I'm going off the air just yet!",
+   "Hah. All right. Sorry, Adrienn. Looks like it's my turn now."
+  ]
+ },
+ {
+  "speaker": "Titania",
+  "title": "Guardian Princess",
+  "tid": 118,
+  "lines": [
+   "Not bad. But you really should learn when to quit.",
+   "Great. You won. Whatever."
+  ]
+ },
+ {
+  "speaker": "Bennett & Laura",
+  "title": "Elite Four Tag Team",
+  "tid": 146,
+  "lines": [
+   "LAURA: Everything is blossoming quite nicely for you, isn't it? I hope you cherish this moment.",
+   "BENNETT: Impressive. I'll make note to study this later."
+  ]
+ },
+ {
+  "speaker": "McKrezzy",
+  "title": "Guitarist",
+  "tid": 170,
+  "lines": [
+   "Hey, not bad.",
+   "Ah, it seems I struck a flat chord..."
+  ]
+ },
+ {
+  "speaker": "Eustace",
+  "title": "Mastermind",
+  "tid": 81,
+  "lines": [
+   "Wha-- Adults ruin everything!",
+   "Be mindful of your tone when speaking to your superiors, peon."
+  ]
+ },
+ {
+  "speaker": "Geoff",
+  "title": "Meteor Grunt",
+  "tid": 89,
+  "lines": [
+   "How could we fail...",
+   "I wish you hadn't come after all."
+  ]
+ },
+ {
+  "speaker": "Ray",
+  "title": "Meteor Grunt",
+  "tid": 89,
+  "lines": [
+   "Huh... We got exterminated.",
+   "Twice?"
+  ]
+ },
+ {
+  "speaker": "Bruno",
+  "title": "Meteor Grunt",
+  "tid": 89,
+  "lines": [
+   "Ow...",
+   "Grr..."
+  ]
+ },
+ {
+  "speaker": "Demian",
+  "title": "Meteor Grunt",
+  "tid": 89,
+  "lines": [
+   "Even if we lose here, Team Meteor will still rise above.",
+   "No, really, stop."
+  ]
+ },
+ {
+  "speaker": "Antoine",
+  "title": "Meteor Grunt",
+  "tid": 89,
+  "lines": [
+   "I got nothin'.",
+   "...Ow."
+  ]
+ },
+ {
+  "speaker": "Winter",
+  "title": "Meteor Grunt",
+  "tid": 89,
+  "lines": [
+   "Hmph. They've had enough time anyway.",
+   "Woah, there!"
+  ]
+ },
+ {
+  "speaker": "Rod",
+  "title": "Meteor Grunt",
+  "tid": 89,
+  "lines": [
+   "Ugh...",
+   "Familiar defeat."
+  ]
+ },
+ {
+  "speaker": "Grant",
+  "title": "Meteor Grunt",
+  "tid": 89,
+  "lines": [
+   "Tsk. Get out of our faces.",
+   "Ugh, again?!"
+  ]
+ },
+ {
+  "speaker": "Ringo",
+  "title": "Meteor Grunt",
+  "tid": 89,
+  "lines": [
+   "...Oh shit.",
+   "One day..."
+  ]
+ },
+ {
+  "speaker": "Chad",
+  "title": "Meteor Grunt",
+  "tid": 89,
+  "lines": [
+   "You don't know what's good for you...",
+   "I'll step down."
+  ]
+ },
+ {
+  "speaker": "Geoff",
+  "title": "Meteor Ace",
+  "tid": 57,
+  "lines": [
+   "So much for the element of surprise.",
+   "I don't know what else she expected, really."
+  ]
+ },
+ {
+  "speaker": "Ray",
+  "title": "Meteor Ace",
+  "tid": 57,
+  "lines": [
+   "Tch, no worries, we just needed to keep them busy anyway.",
+   "This Espeon has caused enough trouble... Do you really need to make it more?"
+  ]
+ },
+ {
+  "speaker": "Bruno",
+  "title": "Meteor Ace",
+  "tid": 57,
+  "lines": [
+   "I think I'd have preferred the life story...",
+   "Not only are you not a Glaceon, you are the singular last thing I wanted to see when opening that door."
+  ]
+ },
+ {
+  "speaker": "Ricardo",
+  "title": "Meteor Ace",
+  "tid": 57,
+  "lines": [
+   "It's no good!",
+   "...Yet. There was supposed to be a 'yet' after what I said before."
+  ]
+ },
+ {
+  "speaker": "Sanchez",
+  "title": "Meteor Ace",
+  "tid": 57,
+  "lines": [
+   "Does it matter? He clearly isn't anymore.",
+   "The nightmare thing was a joke, just by the way. Mostly."
+  ]
+ },
+ {
+  "speaker": "Devin",
+  "title": "Meteor Ace",
+  "tid": 57,
+  "lines": [
+   "Hey, didn't you use to be on our side?",
+   "Even if you get this key, you'll still need a separate card key to get into the atrium."
+  ]
+ },
+ {
+  "speaker": "Kenan",
+  "title": "Meteor Ace",
+  "tid": 57,
+  "lines": [
+   "You're far outnumbered!",
+   "Tch... I just messed up! The others' Pokémon will have to be able to overcome you!"
+  ]
+ },
+ {
+  "speaker": "Audrey",
+  "title": "Meteor Grunt",
+  "tid": 90,
+  "lines": [
+   "I knew this would be a problem!",
+   "Awwh, why do they never listen?"
+  ]
+ },
+ {
+  "speaker": "Michaela",
+  "title": "Meteor Grunt",
+  "tid": 90,
+  "lines": [
+   "Well, well, you can go on right ahead!",
+   "That actually wasn't fun at all."
+  ]
+ },
+ {
+  "speaker": "Minta",
+  "title": "Meteor Grunt",
+  "tid": 90,
+  "lines": [
+   "Ahaha... Adorable, really.",
+   "It's aggravating, really."
+  ]
+ },
+ {
+  "speaker": "Audrey",
+  "title": "Meteor Ace",
+  "tid": 58,
+  "lines": [
+   "I think my wing jammed...",
+   "Ugh, I'm not sure which I hate more-- that damn ice rat or you."
+  ]
+ },
+ {
+  "speaker": "Antoine",
+  "title": "Meteor Ace",
+  "tid": 58,
+  "lines": [
+   "You say that, but I'm tired of losing!",
+   "That's a 'no', right? That looks like a 'no'."
+  ]
+ },
+ {
+  "speaker": "Diana",
+  "title": "Meteor Ace",
+  "tid": 58,
+  "lines": [
+   "Just give up already!",
+   "War over the battle! Lose one, win the other!"
+  ]
+ },
+ {
+  "speaker": "Rod",
+  "title": "Meteor Knight",
+  "tid": 105,
+  "lines": [
+   "Even if you beat us, you won't stop us.",
+   "Just back off, buddy."
+  ]
+ },
+ {
+  "speaker": "Ringo",
+  "title": "Meteor Knight",
+  "tid": 105,
+  "lines": [
+   "One day, you'll see...",
+   "And then you may go a little further."
+  ]
+ },
+ {
+  "speaker": "Regina",
+  "title": "Meteor Dame",
+  "tid": 106,
+  "lines": [
+   "Well, what good is that?!",
+   "Stop trying to make this happen. It's not going to happen!"
+  ]
+ },
+ {
+  "speaker": "John",
+  "title": "New World Orderly",
+  "tid": 70,
+  "lines": [
+   "I did my best, sir.",
+   "Must you get in the way, child?"
+  ]
+ },
+ {
+  "speaker": "Howaya",
+  "title": "New World Orderly",
+  "tid": 70,
+  "lines": [
+   "So violence is your answer.",
+   "That's a Gym Leader for you..."
+  ]
+ },
+ {
+  "speaker": "Lyla",
+  "title": "New World Cultist",
+  "tid": 77,
+  "lines": [
+   "We are servants of the world; please do not contest us!",
+   "Come on, it's not like this city is using it anymore..."
+  ]
+ },
+ {
+  "speaker": "Angela",
+  "title": "New World Cultist",
+  "tid": 77,
+  "lines": [
+   "Loyalty to Team Meteor is the only way to replenish this world.",
+   "Has the Lord forsaken us?"
+  ]
+ },
+ {
+  "speaker": "Ezra",
+  "title": "Acolyte",
+  "tid": 30,
+  "lines": [
+   "Dear Lord...",
+   "And so the Lord shall lead you away."
+  ]
+ },
+ {
+  "speaker": "Arcturus",
+  "title": "Acolyte",
+  "tid": 30,
+  "lines": [
+   "You, too, will be judged.",
+   "Let us pray this was not your doing..."
+  ]
+ },
+ {
+  "speaker": "Tanner",
+  "title": "Acolyte",
+  "tid": 30,
+  "lines": [
+   "Suffer in defeat.",
+   "You will endure allegiance to the Lord or you will return from whence you came!"
+  ]
+ },
+ {
+  "speaker": "Kaiden",
+  "title": "New World Cultist",
+  "tid": 69,
+  "lines": [
+   "You may take my life, but my soul forever remains with Arceus.",
+   "By what power do you never go down?"
+  ]
+ },
+ {
+  "speaker": "Ezra",
+  "title": "New World Cultist",
+  "tid": 69,
+  "lines": [
+   "Complete loyalty to Arceus is the only way to earn a place in the New World.",
+   "The Lord will triumph by our power!"
+  ]
+ },
+ {
+  "speaker": "Darm",
+  "title": "Magma Gang",
+  "tid": 35,
+  "lines": [
+   "My manliness... was poorly man-aged...",
+   "You are strong indeed."
+  ]
+ },
+ {
+  "speaker": "Nihil",
+  "title": "Magma Gang",
+  "tid": 42,
+  "lines": [
+   "Whaddya know...",
+   "Hmph. Not like it matters now."
+  ]
+ },
+ {
+  "speaker": "Razzy",
+  "title": "Aqua Gang",
+  "tid": 41,
+  "lines": [
+   "Dayum!",
+   "Too strong."
+  ]
+ },
+ {
+  "speaker": "Carmen",
+  "title": "Casanova",
+  "tid": 88,
+  "lines": [
+   "Interesting, very interesting! Bravo!",
+   "You may have won the battle, but I'm afraid you've lost the war."
+  ]
+ },
+ {
+  "speaker": "Samson",
+  "title": "Umbral",
+  "tid": 187,
+  "lines": [
+   "STOP gETtING in MY wAY! ThIS is HoW it HAS tO bE!",
+   "I juSt waNted to fEel saFe..."
+  ]
+ },
+ {
+  "speaker": "Ciel",
+  "title": "Umbral",
+  "tid": 190,
+  "lines": [
+   "WhY cAn'T yOU jUST lET mE gO...?",
+   "LeT me SleEp. LeT me bE wOrThLesS LikE eVerYonE elSe."
+  ]
+ },
+ {
+  "speaker": "Amethyst",
+  "title": "League Manager",
+  "tid": 181,
+  "lines": [
+   "...This doesn't mean you're Champion now, right?",
+   "Good show! It's no wonder you made it this far!"
+  ]
+ },
+ {
+  "speaker": "Terra",
+  "title": "Umbral",
+  "tid": 212,
+  "lines": [
+   "arE wE donE yeT? can'T yoU KO mE anY fasteR?",
+   "greaT, thankS."
+  ]
+ },
+ {
+  "speaker": "Flora",
+  "title": "Axis High Senior",
+  "tid": 193,
+  "lines": [
+   "...Okay, hold on. What's going on here? Am I losing?",
+   "Wow. Okay. Fair enough."
+  ]
+ },
+ {
+  "speaker": "Euphie",
+  "title": "Umbral",
+  "tid": 200,
+  "lines": [
+   "...Mm.",
+   "But I don't want... to wake up."
+  ]
+ },
+ {
+  "speaker": "Noel",
+  "title": "Prodigy",
+  "tid": 265,
+  "lines": [
+   "NOEL: Anna, what?",
+   "Well, that would do it."
+  ]
+ },
+ {
+  "speaker": "Cain",
+  "title": "Umbral",
+  "tid": 211,
+  "lines": [
+   "DisGustIng, diSGustINg, DiSGUsTING!!!",
+   "If I had to go down, I'm glad it was--"
+  ]
+ },
+ {
+  "speaker": "Genesect",
+  "title": "Anomaly",
+  "tid": 232,
+  "lines": [
+   "KrrzzSCT",
+   "KrrxxxZCT"
+  ]
+ },
+ {
+  "speaker": "Kiki",
+  "title": "Umbral",
+  "tid": 228,
+  "lines": [
+   "To minimize the chaos within... It's never too late for that.",
+   "Your premise was wrong from the start."
+  ]
+ },
+ {
+  "speaker": "Fern",
+  "title": "Swag Jockey",
+  "tid": 229,
+  "lines": [
+   "It's hard not to be a little disappointed here, but I'm not gonna let that get me down!",
+   "...Hmph."
+  ]
+ },
+ {
+  "speaker": "Mewtwo",
+  "title": "Anomaly",
+  "tid": 230,
+  "lines": [
+   "Mew!",
+   "Twooo..."
+  ]
+ },
+ {
+  "speaker": "Taka",
+  "title": "Umbral",
+  "tid": 220,
+  "lines": [
+   "WhY shoUld I tuRn taiL and fLEe whEn I caN sImpLy brEak whAt's MiNe?",
+   "LeT mY kinGdom buRN."
+  ]
+ },
+ {
+  "speaker": "Ace",
+  "title": "Umbral Agent",
+  "tid": 249,
+  "lines": [
+   "IlLusIons Exist For the Comfort Of the wAtcher. Why eLse shouLd anyoNe belIeve In tHeM?",
+   "To FacE the Truth Fully-- It's just a little too cold for me."
+  ]
+ },
+ {
+  "speaker": "Eclipse",
+  "title": "Umbral",
+  "tid": 266,
+  "lines": [
+   "You'rE stilL hERe?",
+   "TimE onlY passeS fASt iN our memories."
+  ]
+ },
+ {
+  "speaker": "Zina",
+  "title": "Lost Starscaper",
+  "tid": 238,
+  "lines": [
+   "All tucked in? It's time for lights out.",
+   "I had to be let go eventually. This is for the best."
+  ]
+ },
+ {
+  "speaker": "Fern",
+  "title": "Umbral",
+  "tid": 276,
+  "lines": [
+   "I've beeN scaReD everY daY oF mT lIfE anD losT thE ploT foR iT. BuT I'm NoT abouT tO losE iT agaiN!",
+   "...NoW let'S finD ouT jusT hoW mucH oF a biTcH I really am."
+  ]
+ },
+ {
+  "speaker": "Anna",
+  "title": "Dreamsick",
+  "tid": 279,
+  "lines": [
+   "hahahahaHAHA?! what do you MEAN this still isn't enough!?",
+   "WHY?!? i just... wanted..."
+  ]
+ },
+ {
+  "speaker": "Mr. Meow Mix",
+  "title": "Test Train",
+  "tid": 112,
+  "lines": [
+   "i miss techie johnathan"
+  ]
+ },
+ {
+  "speaker": "Tahm the Tench Tengine",
+  "title": "Test Train",
+  "tid": 112,
+  "lines": [
+   "did the team forget to delete me?"
+  ]
+ },
+ {
+  "speaker": "Gargantuan",
+  "title": "Pokemon",
+  "tid": 21,
+  "lines": [
+   "...GRRRAAAAWWWWRR...!"
+  ]
+ },
+ {
+  "speaker": "Gang",
+  "title": "Pokemon",
+  "tid": 94,
+  "lines": [
+   "...Scrrrr..."
+  ]
+ },
+ {
+  "speaker": "El",
+  "title": "Parson",
+  "tid": 19,
+  "lines": [
+   "Thou defiest me; thou defiest the Lord."
+  ]
+ },
+ {
+  "speaker": "Redoubt",
+  "title": "Pokemon",
+  "tid": 51,
+  "lines": [
+   "LOOOOOAAAARGGGH!"
+  ]
+ },
+ {
+  "speaker": "M2",
+  "title": "PKMNPKMNT",
+  "tid": 64,
+  "lines": [
+   "TH15 C4NN0T B3 MY D3ST1NY!"
+  ]
+ },
+ {
+  "speaker": "X C",
+  "title": "PKMNPKMNT",
+  "tid": 64,
+  "lines": [
+   "Game.exe has stopped working"
+  ]
+ },
+ {
+  "speaker": "7g",
+  "title": "PKMNPKMNT",
+  "tid": 64,
+  "lines": [
+   "y0u r no fun 4t 4ll"
+  ]
+ },
+ {
+  "speaker": "ABBBBBBK",
+  "title": "PKMNPKMNT",
+  "tid": 64,
+  "lines": [
+   "4N4RCHY 0R R10T"
+  ]
+ },
+ {
+  "speaker": "HHHHH",
+  "title": "PKMNPKMNT",
+  "tid": 64,
+  "lines": [
+   "hhhhhhhhGreg"
+  ]
+ },
+ {
+  "speaker": "Stopple",
+  "title": "Pokemon",
+  "tid": 73,
+  "lines": [
+   "Swooooo..."
+  ]
+ },
+ {
+  "speaker": "Dragon",
+  "title": "The Legendary",
+  "tid": 116,
+  "lines": [
+   "Raaaaghhh..."
+  ]
+ },
+ {
+  "speaker": "Dragon",
+  "title": "The Legendary",
+  "tid": 117,
+  "lines": [
+   "Krooowwghh..."
+  ]
+ },
+ {
+  "speaker": "Hypno",
+  "title": "PULSE",
+  "tid": 253,
+  "lines": [
+   "Noooooh..."
+  ]
+ },
+ {
+  "speaker": "Mime",
+  "title": "Master",
+  "tid": 137,
+  "lines": [
+   "mMmMmMmMmM???"
+  ]
+ },
+ {
+  "speaker": "Seacrest",
+  "title": "Elder",
+  "tid": 163,
+  "lines": [
+   "Enough."
+  ]
+ },
+ {
+  "speaker": "Strays",
+  "title": "Pokemon",
+  "tid": 71,
+  "lines": [
+   "GRRRRR..."
+  ]
+ },
+ {
+  "speaker": "Swarm",
+  "title": "Pokémon",
+  "tid": 295,
+  "lines": [
+   "Pra-pa-pa?!?"
+  ]
+ },
+ {
+  "speaker": "BRUHCHAMP",
+  "title": "Q Gang",
+  "tid": 296,
+  "lines": [
+   "Bruh..."
+  ]
+ },
+ {
+  "speaker": "SAWKONDEEZ",
+  "title": "Q Gang",
+  "tid": 297,
+  "lines": [
+   "You made a flower crown out of my muscles..."
+  ]
+ },
+ {
+  "speaker": "DEEPTHROH",
+  "title": "Q Gang",
+  "tid": 298,
+  "lines": [
+   "How could this happen? Am I a man or am I a Mankey...?"
+  ]
+ },
+ {
+  "speaker": "Swarm",
+  "title": "Pokemon",
+  "tid": 99,
+  "lines": [
+   "Sccccch..."
+  ]
+ },
+ {
+  "speaker": "Savage",
+  "title": "Pokemon",
+  "tid": 36,
+  "lines": [
+   "GROAAARRRR..."
+  ]
+ },
+ {
+  "speaker": "Tribe",
+  "title": "Pokemon",
+  "tid": 102,
+  "lines": [
+   "Shift...try..."
+  ]
+ },
+ {
+  "speaker": "Horde",
+  "title": "Pokemon",
+  "tid": 12,
+  "lines": [
+   "I JUST WANTED A HUG..."
+  ]
+ },
+ {
+  "speaker": "Don",
+  "title": "Pokemon",
+  "tid": 26,
+  "lines": [
+   "Goooor..."
+  ]
+ },
+ {
+  "speaker": "Mechanightmare",
+  "title": "Pokemon",
+  "tid": 27,
+  "lines": [
+   "Kchk- Kztkztkztkzt..."
+  ]
+ },
+ {
+  "speaker": "Bindra",
+  "title": "Clown",
+  "tid": 169,
+  "lines": [
+   "What do you mean we have Rainbow Challenge at home!?"
+  ]
+ },
+ {
+  "speaker": "Indra",
+  "title": "Clown",
+  "tid": 169,
+  "lines": [
+   "We have a winner!!!"
+  ]
+ },
+ {
+  "speaker": "Guardians",
+  "title": "Pokemon",
+  "tid": 43,
+  "lines": [
+   "GROAAAWWWARRR!!"
+  ]
+ },
+ {
+  "speaker": "Pariah",
+  "title": "Pokemon",
+  "tid": 67,
+  "lines": [
+   "...Carrrrr..."
+  ]
+ },
+ {
+  "speaker": "Runaways",
+  "title": "Kecleon",
+  "tid": 109,
+  "lines": [
+   "...Leeeon!!!"
+  ]
+ },
+ {
+  "speaker": "Refugees",
+  "title": "Kecleon",
+  "tid": 109,
+  "lines": [
+   "Kekk..."
+  ]
+ },
+ {
+  "speaker": "Kecleon",
+  "title": "Purple",
+  "tid": 82,
+  "lines": [
+   "Keckk--!"
+  ]
+ },
+ {
+  "speaker": "Santiago",
+  "title": "Q Gang",
+  "tid": 80,
+  "lines": [
+   "Fuck!"
+  ]
+ },
+ {
+  "speaker": "Colin",
+  "title": "Q Gang",
+  "tid": 80,
+  "lines": [
+   "I don't think this was in the plan."
+  ]
+ },
+ {
+  "speaker": "Matthew",
+  "title": "Q Gang",
+  "tid": 80,
+  "lines": [
+   "Uhh... Boss?"
+  ]
+ },
+ {
+  "speaker": "Predators",
+  "title": "Pokemon",
+  "tid": 113,
+  "lines": [
+   "Blub, blub..."
+  ]
+ },
+ {
+  "speaker": "CL:4R1-C3",
+  "title": "BreloomBot",
+  "tid": 124,
+  "lines": [
+   "Zzzzzzzzttt--"
+  ]
+ },
+ {
+  "speaker": "Fulgor",
+  "title": "Pokemon",
+  "tid": 126,
+  "lines": [
+   "Sssssss..."
+  ]
+ },
+ {
+  "speaker": "of the Pyukumuku",
+  "title": "High King",
+  "tid": 127,
+  "lines": [
+   "Pyuk..."
+  ]
+ },
+ {
+  "speaker": "Sandy",
+  "title": "Activist",
+  "tid": 129,
+  "lines": [
+   "Please help me, I never wanted to be on her side, whatever I did wrong to deserve this I'm so sorry and I'll do anything I can to make it up just get me away from her quickly-- I think she's frothing on me!!!"
+  ]
+ },
+ {
+  "speaker": "Raph",
+  "title": "Hard Hat",
+  "tid": 130,
+  "lines": [
+   "So, my shift still doesn't end for another couple hours..."
+  ]
+ },
+ {
+  "speaker": "Manwe",
+  "title": "Hard Hat",
+  "tid": 130,
+  "lines": [
+   "Uhh..."
+  ]
+ },
+ {
+  "speaker": "Stoplettes",
+  "title": "Pokemon",
+  "tid": 133,
+  "lines": [
+   "...GULP."
+  ]
+ },
+ {
+  "speaker": "Karim",
+  "title": "Hiker",
+  "tid": 4,
+  "lines": [
+   "Not bad, friend! You know how to live the natural world to its fullest extent!"
+  ]
+ },
+ {
+  "speaker": "Greyson",
+  "title": "Hiker",
+  "tid": 4,
+  "lines": [
+   "Well, that dream was short-lived."
+  ]
+ },
+ {
+  "speaker": "Jack",
+  "title": "Hiker",
+  "tid": 4,
+  "lines": [
+   "But the climb will be worth it!"
+  ]
+ },
+ {
+  "speaker": "Rufus",
+  "title": "Hiker",
+  "tid": 4,
+  "lines": [
+   "I regret it not!"
+  ]
+ },
+ {
+  "speaker": "Montgomery",
+  "title": "Hiker",
+  "tid": 4,
+  "lines": [
+   "Aah, even defeat is soothing here."
+  ]
+ },
+ {
+  "speaker": "Oltan",
+  "title": "Hiker",
+  "tid": 4,
+  "lines": [
+   "Hoo-hah!"
+  ]
+ },
+ {
+  "speaker": "Rosch",
+  "title": "Hiker",
+  "tid": 4,
+  "lines": [
+   "I should just go back to hiking."
+  ]
+ },
+ {
+  "speaker": "Ford",
+  "title": "Hiker",
+  "tid": 4,
+  "lines": [
+   "Urf. I think I'll go back to the rocks."
+  ]
+ },
+ {
+  "speaker": "Marshall",
+  "title": "Hiker",
+  "tid": 4,
+  "lines": [
+   "Hm. Better not go to Ametrine. I don't think I'm up to that after all."
+  ]
+ },
+ {
+  "speaker": "Ike",
+  "title": "Hiker",
+  "tid": 4,
+  "lines": [
+   "That was a good warm up! Let's go!"
+  ]
+ },
+ {
+  "speaker": "Odin",
+  "title": "Hiker",
+  "tid": 4,
+  "lines": [
+   "...Deflated."
+  ]
+ },
+ {
+  "speaker": "Goro",
+  "title": "Hiker",
+  "tid": 4,
+  "lines": [
+   "Hm! A challenge indeed!"
+  ]
+ },
+ {
+  "speaker": "Red",
+  "title": "Hiker",
+  "tid": 4,
+  "lines": [
+   "But how do you cool off?"
+  ]
+ },
+ {
+  "speaker": "Rhett",
+  "title": "Hiker",
+  "tid": 4,
+  "lines": [
+   "You hear their voice loud and clear! Very good!"
+  ]
+ },
+ {
+  "speaker": "Nicky",
+  "title": "Hiker",
+  "tid": 4,
+  "lines": [
+   "Oh-ho! Very impressive!"
+  ]
+ },
+ {
+  "speaker": "Maximus",
+  "title": "Hiker",
+  "tid": 4,
+  "lines": [
+   "You are quite strong! That battle was off the rails!"
+  ]
+ },
+ {
+  "speaker": "Murmina",
+  "title": "Doxy",
+  "tid": 174,
+  "lines": [
+   "Damn it..."
+  ]
+ },
+ {
+  "speaker": "Demian",
+  "title": "Meteor Ace",
+  "tid": 57,
+  "lines": [
+   "It's all right, they'll meet up soon!"
+  ]
+ },
+ {
+  "speaker": "Christopher",
+  "title": "Meteor Ace",
+  "tid": 57,
+  "lines": [
+   "How could this happen!?"
+  ]
+ },
+ {
+  "speaker": "Ama",
+  "title": "Meteor Ace",
+  "tid": 57,
+  "lines": [
+   "When is enough enough for you people?"
+  ]
+ },
+ {
+  "speaker": "Steven",
+  "title": "Meteor Ace",
+  "tid": 57,
+  "lines": [
+   "Eh... Maybe this is for the best."
+  ]
+ },
+ {
+  "speaker": "Janis",
+  "title": "Meteor Grunt",
+  "tid": 90,
+  "lines": [
+   "Go."
+  ]
+ },
+ {
+  "speaker": "Regina",
+  "title": "Meteor Grunt",
+  "tid": 90,
+  "lines": [
+   "Something else entirely."
+  ]
+ },
+ {
+  "speaker": "Hilda",
+  "title": "Meteor Ace",
+  "tid": 58,
+  "lines": [
+   "Yeah, it never has been."
+  ]
+ },
+ {
+  "speaker": "Avril",
+  "title": "Meteor Ace",
+  "tid": 58,
+  "lines": [
+   "You're kidding. Even that's not enough?"
+  ]
+ },
+ {
+  "speaker": "Demian",
+  "title": "Meteor Knight",
+  "tid": 105,
+  "lines": [
+   "This world is full of problems though."
+  ]
+ },
+ {
+  "speaker": "Antoine",
+  "title": "Meteor Dame",
+  "tid": 106,
+  "lines": [
+   "That is... Well, someone else will have to stop you."
+  ]
+ },
+ {
+  "speaker": "Timothy",
+  "title": "Orderly",
+  "tid": 100,
+  "lines": [
+   "What do you think you're doing?!"
+  ]
+ },
+ {
+  "speaker": "Chris",
+  "title": "Orderly",
+  "tid": 100,
+  "lines": [
+   "Uh, what's the protocol for this?"
+  ]
+ },
+ {
+  "speaker": "Bishop",
+  "title": "Orderly",
+  "tid": 100,
+  "lines": [
+   "Ah. Hm."
+  ]
+ },
+ {
+  "speaker": "Roth",
+  "title": "Orderly",
+  "tid": 100,
+  "lines": [
+   "No cares given. I see."
+  ]
+ },
+ {
+  "speaker": "Howaya",
+  "title": "Orderly",
+  "tid": 100,
+  "lines": [
+   "You'll get nowhere."
+  ]
+ },
+ {
+  "speaker": "Ramsey",
+  "title": "Orderly",
+  "tid": 100,
+  "lines": [
+   "Then I have no regard for you."
+  ]
+ },
+ {
+  "speaker": "Matt",
+  "title": "Orderly",
+  "tid": 100,
+  "lines": [
+   "Or maybe you are."
+  ]
+ },
+ {
+  "speaker": "David",
+  "title": "Orderly",
+  "tid": 100,
+  "lines": [
+   "You were occupied so the Doctor can do as he pleases. That is all that was required of us."
+  ]
+ },
+ {
+  "speaker": "Bishop",
+  "title": "New World Orderly",
+  "tid": 70,
+  "lines": [
+   "Was that enough?"
+  ]
+ },
+ {
+  "speaker": "Roth",
+  "title": "New World Orderly",
+  "tid": 70,
+  "lines": [
+   "Of course, we've already relocated everything we need."
+  ]
+ },
+ {
+  "speaker": "Ramsey",
+  "title": "New World Orderly",
+  "tid": 70,
+  "lines": [
+   "Is Kiki smiling right now?"
+  ]
+ },
+ {
+  "speaker": "David",
+  "title": "New World Orderly",
+  "tid": 70,
+  "lines": [
+   "But it's too late. You're already trapped."
+  ]
+ },
+ {
+  "speaker": "Allyssa",
+  "title": "Orderly",
+  "tid": 76,
+  "lines": [
+   "What happens to him is no concern of yours."
+  ]
+ },
+ {
+  "speaker": "Stephanie",
+  "title": "Orderly",
+  "tid": 76,
+  "lines": [
+   "For what it's worth, I don't really care for the Doctor's methods."
+  ]
+ },
+ {
+  "speaker": "Charity",
+  "title": "Orderly",
+  "tid": 76,
+  "lines": [
+   "Our real responsibility is to do as we are told."
+  ]
+ },
+ {
+  "speaker": "Callie",
+  "title": "Orderly",
+  "tid": 76,
+  "lines": [
+   "The Doctor will be displeased."
+  ]
+ },
+ {
+  "speaker": "Danielle",
+  "title": "Orderly",
+  "tid": 76,
+  "lines": [
+   "Beating us is off limits too!"
+  ]
+ },
+ {
+  "speaker": "Christina",
+  "title": "Orderly",
+  "tid": 76,
+  "lines": [
+   "You're still not authorized."
+  ]
+ },
+ {
+  "speaker": "Nadira",
+  "title": "Orderly",
+  "tid": 76,
+  "lines": [
+   "Pity."
+  ]
+ },
+ {
+  "speaker": "Allyssa",
+  "title": "New World Orderly",
+  "tid": 75,
+  "lines": [
+   "They really should be paying us more for this."
+  ]
+ },
+ {
+  "speaker": "Callie",
+  "title": "New World Orderly",
+  "tid": 75,
+  "lines": [
+   "Defiant as ever, aren't you?"
+  ]
+ },
+ {
+  "speaker": "Danielle",
+  "title": "New World Orderly",
+  "tid": 75,
+  "lines": [
+   "You're already faltering."
+  ]
+ },
+ {
+  "speaker": "Christina",
+  "title": "New World Orderly",
+  "tid": 75,
+  "lines": [
+   "Like we couldn't see this coming."
+  ]
+ },
+ {
+  "speaker": "Jonathan",
+  "title": "Techie",
+  "tid": 85,
+  "lines": [
+   "I see. So that's the normal methodology then..."
+  ]
+ },
+ {
+  "speaker": "Yan",
+  "title": "Techie",
+  "tid": 85,
+  "lines": [
+   "Then again, those switches were hidden back there by Julia herself."
+  ]
+ },
+ {
+  "speaker": "Ivan",
+  "title": "Techie",
+  "tid": 85,
+  "lines": [
+   "Kaboom!"
+  ]
+ },
+ {
+  "speaker": "Bill",
+  "title": "Techie",
+  "tid": 85,
+  "lines": [
+   "I suppose it's the price we pay for saving city space by turning the plant into a Gym."
+  ]
+ },
+ {
+  "speaker": "Neville",
+  "title": "Techie",
+  "tid": 85,
+  "lines": [
+   "Well, that afforded an unpleasant diversion."
+  ]
+ },
+ {
+  "speaker": "Eugene",
+  "title": "Techie",
+  "tid": 85,
+  "lines": [
+   "Ah, but don't hurt the books, please!"
+  ]
+ },
+ {
+  "speaker": "Charlie",
+  "title": "Techie",
+  "tid": 85,
+  "lines": [
+   "It is hereby superceded by the power of Pokémon themselves."
+  ]
+ },
+ {
+  "speaker": "Caleb",
+  "title": "Techie",
+  "tid": 85,
+  "lines": [
+   "You broke my machines..."
+  ]
+ },
+ {
+  "speaker": "Armin",
+  "title": "Techie",
+  "tid": 85,
+  "lines": [
+   "Your spirit reminds me of someone else."
+  ]
+ },
+ {
+  "speaker": "Cameron",
+  "title": "Techie",
+  "tid": 85,
+  "lines": [
+   "Ask me if I hate this."
+  ]
+ },
+ {
+  "speaker": "Lyla",
+  "title": "Acolyte",
+  "tid": 78,
+  "lines": [
+   "End me... \n...No?"
+  ]
+ },
+ {
+  "speaker": "Brenda",
+  "title": "Acolyte",
+  "tid": 78,
+  "lines": [
+   "You reject Arceus. So he shall reject you."
+  ]
+ },
+ {
+  "speaker": "Angela",
+  "title": "Acolyte",
+  "tid": 78,
+  "lines": [
+   "Shame."
+  ]
+ },
+ {
+  "speaker": "Tiala",
+  "title": "Acolyte",
+  "tid": 78,
+  "lines": [
+   "An agent of chaos indeed!"
+  ]
+ },
+ {
+  "speaker": "Mirian",
+  "title": "Acolyte",
+  "tid": 78,
+  "lines": [
+   "For what purpose have I been punished?"
+  ]
+ },
+ {
+  "speaker": "Ioletta",
+  "title": "Acolyte",
+  "tid": 78,
+  "lines": [
+   "Is that a 'no' then?"
+  ]
+ },
+ {
+  "speaker": "Kaiden",
+  "title": "Acolyte",
+  "tid": 30,
+  "lines": [
+   "The Lord favours you."
+  ]
+ },
+ {
+  "speaker": "Wes",
+  "title": "Acolyte",
+  "tid": 30,
+  "lines": [
+   "It hurts..."
+  ]
+ },
+ {
+  "speaker": "Presley",
+  "title": "Acolyte",
+  "tid": 30,
+  "lines": [
+   "Ah, I have only found defeat..."
+  ]
+ },
+ {
+  "speaker": "Ichorus",
+  "title": "New World Cultist",
+  "tid": 69,
+  "lines": [
+   "Enough!"
+  ]
+ },
+ {
+  "speaker": "Wes",
+  "title": "New World Cultist",
+  "tid": 69,
+  "lines": [
+   "How foolish of you."
+  ]
+ },
+ {
+  "speaker": "Pierce",
+  "title": "Aqua Gang",
+  "tid": 40,
+  "lines": [
+   "...Understood."
+  ]
+ },
+ {
+  "speaker": "DeFacto",
+  "title": "Aqua Gang",
+  "tid": 40,
+  "lines": [
+   "...Well played."
+  ]
+ },
+ {
+  "speaker": "Break",
+  "title": "Magma Gang",
+  "tid": 35,
+  "lines": [
+   "Making your Pokémon move muscles for you, verrrry clever."
+  ]
+ },
+ {
+  "speaker": "Kriz",
+  "title": "Magma Gang",
+  "tid": 42,
+  "lines": [
+   "...Huh. All right, you in."
+  ]
+ },
+ {
+  "speaker": "Bunson",
+  "title": "Magma Gang",
+  "tid": 42,
+  "lines": [
+   "Dammit, I'm losing everything!"
+  ]
+ },
+ {
+  "speaker": "Mannie",
+  "title": "Aqua Gang",
+  "tid": 41,
+  "lines": [
+   "...Nawwh, bud!"
+  ]
+ },
+ {
+  "speaker": "Jakob",
+  "title": "Aqua Gang",
+  "tid": 41,
+  "lines": [
+   "Grr! I should've kept that Pokemon myself to beat you!"
+  ]
+ },
+ {
+  "speaker": "Eric",
+  "title": "Hotshot",
+  "tid": 55,
+  "lines": [
+   "Have it your way."
+  ]
+ },
+ {
+  "speaker": "Jackson",
+  "title": "Hotshot",
+  "tid": 55,
+  "lines": [
+   "Hmph..."
+  ]
+ },
+ {
+  "speaker": "Seth",
+  "title": "Hotshot",
+  "tid": 55,
+  "lines": [
+   "That's skill all right."
+  ]
+ },
+ {
+  "speaker": "Roger",
+  "title": "Hotshot",
+  "tid": 55,
+  "lines": [
+   "I think you're going far."
+  ]
+ },
+ {
+  "speaker": "Stiles",
+  "title": "Hotshot",
+  "tid": 55,
+  "lines": [
+   "Shit."
+  ]
+ },
+ {
+  "speaker": "Lennon",
+  "title": "Hotshot",
+  "tid": 55,
+  "lines": [
+   "All right. Go win your shit."
+  ]
+ },
+ {
+  "speaker": "Zane",
+  "title": "Hotshot",
+  "tid": 55,
+  "lines": [
+   "I can see why."
+  ]
+ },
+ {
+  "speaker": "Davinson",
+  "title": "Hotshot",
+  "tid": 55,
+  "lines": [
+   "There's nothing down there but the slums. Bad news all around."
+  ]
+ },
+ {
+  "speaker": "Vinny",
+  "title": "Hotshot",
+  "tid": 55,
+  "lines": [
+   "Go along, I guess."
+  ]
+ },
+ {
+  "speaker": "Joel",
+  "title": "Hotshot",
+  "tid": 55,
+  "lines": [
+   "You've got your own spirit, huh."
+  ]
+ },
+ {
+  "speaker": "Noah",
+  "title": "Hotshot",
+  "tid": 55,
+  "lines": [
+   "Down in the dumps, more like."
+  ]
+ },
+ {
+  "speaker": "Blane",
+  "title": "Hotshot",
+  "tid": 55,
+  "lines": [
+   "So much for that."
+  ]
+ },
+ {
+  "speaker": "Terry",
+  "title": "Hotshot",
+  "tid": 55,
+  "lines": [
+   "Defeat is defeat."
+  ]
+ },
+ {
+  "speaker": "Skye",
+  "title": "Hotshot",
+  "tid": 55,
+  "lines": [
+   "Oh, you mean that gate key."
+  ]
+ },
+ {
+  "speaker": "Ross",
+  "title": "Hotshot",
+  "tid": 55,
+  "lines": [
+   "You've got guts."
+  ]
+ },
+ {
+  "speaker": "Cole",
+  "title": "Hotshot",
+  "tid": 55,
+  "lines": [
+   "...Again."
+  ]
+ },
+ {
+  "speaker": "Mikey",
+  "title": "Hotshot",
+  "tid": 55,
+  "lines": [
+   "WHAT? Hmph..."
+  ]
+ },
+ {
+  "speaker": "Brian",
+  "title": "Hotshot",
+  "tid": 55,
+  "lines": [
+   "Hmph... I need to work out my EVs better..."
+  ]
+ },
+ {
+  "speaker": "Kaz",
+  "title": "Hotshot",
+  "tid": 55,
+  "lines": [
+   "Oh, thank god. Someone who can actually give me a challenge."
+  ]
+ },
+ {
+  "speaker": "Hark",
+  "title": "Hotshot",
+  "tid": 55,
+  "lines": [
+   "Aren't they so cute and gifted!?"
+  ]
+ },
+ {
+  "speaker": "Kellam",
+  "title": "Hotshot",
+  "tid": 55,
+  "lines": [
+   "Wooooooah!"
+  ]
+ },
+ {
+  "speaker": "George",
+  "title": "Hotshot",
+  "tid": 55,
+  "lines": [
+   "GG."
+  ]
+ },
+ {
+  "speaker": "Randy",
+  "title": "Youngster",
+  "tid": 3,
+  "lines": [
+   "...Uhrr..."
+  ]
+ },
+ {
+  "speaker": "Sid",
+  "title": "Youngster",
+  "tid": 3,
+  "lines": [
+   "You might be a little hot."
+  ]
+ },
+ {
+  "speaker": "Tony",
+  "title": "Youngster",
+  "tid": 3,
+  "lines": [
+   "...Yeah, bro."
+  ]
+ },
+ {
+  "speaker": "Jimmy",
+  "title": "Youngster",
+  "tid": 3,
+  "lines": [
+   "What? But my Patrat is best Patrat!"
+  ]
+ },
+ {
+  "speaker": "Jackie",
+  "title": "Youngster",
+  "tid": 3,
+  "lines": [
+   "Huh? But my Zigzagoon is highest level!"
+  ]
+ },
+ {
+  "speaker": "Marshall",
+  "title": "Youngster",
+  "tid": 3,
+  "lines": [
+   "That don't represent nothin'."
+  ]
+ },
+ {
+  "speaker": "Terrance",
+  "title": "Youngster",
+  "tid": 3,
+  "lines": [
+   "I guess you still have to be fast on your feet."
+  ]
+ },
+ {
+  "speaker": "Baxter",
+  "title": "Youngster",
+  "tid": 3,
+  "lines": [
+   "I can't beat anything."
+  ]
+ },
+ {
+  "speaker": "Jojo",
+  "title": "Youngster",
+  "tid": 3,
+  "lines": [
+   "...Boss."
+  ]
+ },
+ {
+  "speaker": "Trey",
+  "title": "Youngster",
+  "tid": 3,
+  "lines": [
+   "Right then."
+  ]
+ },
+ {
+  "speaker": "Destry",
+  "title": "Youngster",
+  "tid": 3,
+  "lines": [
+   "You pass!"
+  ]
+ },
+ {
+  "speaker": "Bart",
+  "title": "Youngster",
+  "tid": 3,
+  "lines": [
+   "Yeah, like those!"
+  ]
+ },
+ {
+  "speaker": "Elliot",
+  "title": "Youngster",
+  "tid": 3,
+  "lines": [
+   "Ugh, useless Pokémon!"
+  ]
+ },
+ {
+  "speaker": "Kai",
+  "title": "Youngster",
+  "tid": 3,
+  "lines": [
+   "Nawwh!"
+  ]
+ },
+ {
+  "speaker": "Mack",
+  "title": "Street Rat",
+  "tid": 86,
+  "lines": [
+   "Eyyy... All right, all right already."
+  ]
+ },
+ {
+  "speaker": "Andreas",
+  "title": "Street Rat",
+  "tid": 86,
+  "lines": [
+   "Fallin' off the edge, man..."
+  ]
+ },
+ {
+  "speaker": "Bob",
+  "title": "Street Rat",
+  "tid": 86,
+  "lines": [
+   "I guess it is public property."
+  ]
+ },
+ {
+  "speaker": "Craig",
+  "title": "Street Rat",
+  "tid": 86,
+  "lines": [
+   "No wait, take mine..."
+  ]
+ },
+ {
+  "speaker": "Murphy",
+  "title": "Street Rat",
+  "tid": 86,
+  "lines": [
+   "You battle too good for this part too..."
+  ]
+ },
+ {
+  "speaker": "Erick",
+  "title": "Street Rat",
+  "tid": 86,
+  "lines": [
+   "No, get back in the bag!"
+  ]
+ },
+ {
+  "speaker": "Reginald",
+  "title": "Street Rat",
+  "tid": 86,
+  "lines": [
+   "Ever since I lost my job at Yureyu, my life's just been one loss after another."
+  ]
+ },
+ {
+  "speaker": "Charlie",
+  "title": "Street Rat",
+  "tid": 86,
+  "lines": [
+   "I ain't tryna throw down none."
+  ]
+ },
+ {
+  "speaker": "Franklin",
+  "title": "Street Rat",
+  "tid": 86,
+  "lines": [
+   "Ugh, nothing's fair."
+  ]
+ },
+ {
+  "speaker": "Wayne",
+  "title": "Street Rat",
+  "tid": 86,
+  "lines": [
+   "Watch yourself now."
+  ]
+ },
+ {
+  "speaker": "Omar",
+  "title": "Street Rat",
+  "tid": 86,
+  "lines": [
+   "The Sc-sc-sc..."
+  ]
+ },
+ {
+  "speaker": "Rafe",
+  "title": "Street Rat",
+  "tid": 86,
+  "lines": [
+   "You's gotten pretty strong."
+  ]
+ },
+ {
+  "speaker": "Gregory",
+  "title": "Street Rat",
+  "tid": 86,
+  "lines": [
+   "Get out of my space, please?"
+  ]
+ },
+ {
+  "speaker": "Ulf",
+  "title": "Street Rat",
+  "tid": 86,
+  "lines": [
+   "Woah, dude..."
+  ]
+ },
+ {
+  "speaker": "Brody",
+  "title": "Street Rat",
+  "tid": 86,
+  "lines": [
+   "Busted and dusted... Just like this old place."
+  ]
+ },
+ {
+  "speaker": "Mason",
+  "title": "Street Rat",
+  "tid": 86,
+  "lines": [
+   "Them's... runnin'... what?"
+  ]
+ },
+ {
+  "speaker": "Dax",
+  "title": "Street Rat",
+  "tid": 86,
+  "lines": [
+   "Fine, it's yers."
+  ]
+ },
+ {
+  "speaker": "Carter",
+  "title": "Street Rat",
+  "tid": 86,
+  "lines": [
+   "I'm jonesin'..."
+  ]
+ },
+ {
+  "speaker": "Morrison",
+  "title": "Street Rat",
+  "tid": 86,
+  "lines": [
+   "It all just keeps going downhill."
+  ]
+ },
+ {
+  "speaker": "Waldon",
+  "title": "Street Rat",
+  "tid": 86,
+  "lines": [
+   "...That's fine."
+  ]
+ },
+ {
+  "speaker": "Owen",
+  "title": "Street Rat",
+  "tid": 86,
+  "lines": [
+   "I knew it would end like this..."
+  ]
+ },
+ {
+  "speaker": "Austin",
+  "title": "Street Rat",
+  "tid": 86,
+  "lines": [
+   "Uh, aite. Go in peace, or whatever."
+  ]
+ },
+ {
+  "speaker": "Arnie",
+  "title": "Street Rat",
+  "tid": 86,
+  "lines": [
+   "Huh, you what?"
+  ]
+ },
+ {
+  "speaker": "Andy",
+  "title": "Street Rat",
+  "tid": 86,
+  "lines": [
+   "Ugh, I was the one who got chewed up and spit out."
+  ]
+ },
+ {
+  "speaker": "Kevin",
+  "title": "Street Rat",
+  "tid": 86,
+  "lines": [
+   "Aha, yah, wha? What's going on?"
+  ]
+ },
+ {
+  "speaker": "Chaz",
+  "title": "Street Rat",
+  "tid": 86,
+  "lines": [
+   "Woaaaaah..."
+  ]
+ },
+ {
+  "speaker": "Yan",
+  "title": "Street Rat",
+  "tid": 86,
+  "lines": [
+   "Shit, man. You wanna hit?"
+  ]
+ },
+ {
+  "speaker": "Hyde",
+  "title": "Street Rat",
+  "tid": 86,
+  "lines": [
+   "Awh, man, bad trip."
+  ]
+ },
+ {
+  "speaker": "Drake",
+  "title": "Street Rat",
+  "tid": 86,
+  "lines": [
+   "Fuck, dude."
+  ]
+ },
+ {
+  "speaker": "Alphonso",
+  "title": "Street Rat",
+  "tid": 86,
+  "lines": [
+   "Ugh-- How am I supposed to go stay in one of the shelters when they won't even let me drink there?!"
+  ]
+ },
+ {
+  "speaker": "Morey",
+  "title": "Fisherman",
+  "tid": 6,
+  "lines": [
+   "Hah! You've got spirit, kid!"
+  ]
+ },
+ {
+  "speaker": "Wade",
+  "title": "Fisherman",
+  "tid": 6,
+  "lines": [
+   "Back to the mud..."
+  ]
+ },
+ {
+  "speaker": "Jerry",
+  "title": "Fisherman",
+  "tid": 6,
+  "lines": [
+   "One grime to find them all."
+  ]
+ },
+ {
+  "speaker": "Marty",
+  "title": "Fisherman",
+  "tid": 6,
+  "lines": [
+   "Not good enough!"
+  ]
+ },
+ {
+  "speaker": "Daniel",
+  "title": "Fisherman",
+  "tid": 6,
+  "lines": [
+   "Fishy!!!"
+  ]
+ },
+ {
+  "speaker": "Milhouse",
+  "title": "Fisherman",
+  "tid": 6,
+  "lines": [
+   "Maybe this has gone on for enough already..."
+  ]
+ },
+ {
+  "speaker": "Claudette",
+  "title": "Posh",
+  "tid": 5,
+  "lines": [
+   "Torn to shreds..."
+  ]
+ },
+ {
+  "speaker": "Lulu",
+  "title": "Posh",
+  "tid": 5,
+  "lines": [
+   "W-what?"
+  ]
+ },
+ {
+  "speaker": "Ceratisa",
+  "title": "Posh",
+  "tid": 5,
+  "lines": [
+   "All you have to do is keep going."
+  ]
+ },
+ {
+  "speaker": "Lydia",
+  "title": "Posh",
+  "tid": 5,
+  "lines": [
+   "Hee~ Sooo you wanna say you're worthy, then?"
+  ]
+ },
+ {
+  "speaker": "Layla",
+  "title": "Posh",
+  "tid": 5,
+  "lines": [
+   "She could've had anything she wanted, but she gave it up for her son. Isn't that some dedication? But it's also kind of sad..."
+  ]
+ },
+ {
+  "speaker": "Lallia",
+  "title": "Posh",
+  "tid": 5,
+  "lines": [
+   "Haha~ Consider yourself proven!"
+  ]
+ },
+ {
+  "speaker": "Lania",
+  "title": "Posh",
+  "tid": 5,
+  "lines": [
+   "Did you know she used to be a famous model? She used to be all over TV and magazines!"
+  ]
+ },
+ {
+  "speaker": "Suzy",
+  "title": "Posh",
+  "tid": 5,
+  "lines": [
+   "Well, I was really hoping for a win there, but..."
+  ]
+ },
+ {
+  "speaker": "Priscilla",
+  "title": "Posh",
+  "tid": 5,
+  "lines": [
+   "Is it over yet?"
+  ]
+ },
+ {
+  "speaker": "Norman",
+  "title": "Gentleman",
+  "tid": 28,
+  "lines": [
+   "Perhaps I should stop battling and start traveling again after all."
+  ]
+ },
+ {
+  "speaker": "Ben",
+  "title": "Gentleman",
+  "tid": 28,
+  "lines": [
+   "I don't really care if people are fulfilling themselves or not."
+  ]
+ },
+ {
+  "speaker": "Murray",
+  "title": "Gentleman",
+  "tid": 28,
+  "lines": [
+   "It's for your own good."
+  ]
+ },
+ {
+  "speaker": "Lindsey",
+  "title": "Doxy",
+  "tid": 10,
+  "lines": [
+   "Looks like someone toughened up."
+  ]
+ },
+ {
+  "speaker": "Marigold",
+  "title": "Doxy",
+  "tid": 10,
+  "lines": [
+   "...That's not a very warm reception."
+  ]
+ },
+ {
+  "speaker": "Hera",
+  "title": "Doxy",
+  "tid": 10,
+  "lines": [
+   "Hm. You're not so inexperienced."
+  ]
+ },
+ {
+  "speaker": "Shawna",
+  "title": "Doxy",
+  "tid": 10,
+  "lines": [
+   "Change Spared..."
+  ]
+ },
+ {
+  "speaker": "Elena",
+  "title": "Doxy",
+  "tid": 10,
+  "lines": [
+   "Guess that's a 'no', then."
+  ]
+ },
+ {
+  "speaker": "Saad",
+  "title": "Casanova",
+  "tid": 88,
+  "lines": [
+   "Eh..."
+  ]
+ },
+ {
+  "speaker": "Andy",
+  "title": "Casanova",
+  "tid": 88,
+  "lines": [
+   "You're a brave one."
+  ]
+ },
+ {
+  "speaker": "Elio",
+  "title": "Casanova",
+  "tid": 88,
+  "lines": [
+   "And fancy is as fancy does."
+  ]
+ },
+ {
+  "speaker": "Wiley",
+  "title": "Casanova",
+  "tid": 88,
+  "lines": [
+   "Petty."
+  ]
+ },
+ {
+  "speaker": "Daniel",
+  "title": "Casanova",
+  "tid": 88,
+  "lines": [
+   "Ah, mercy, mercy!"
+  ]
+ },
+ {
+  "speaker": "Christian",
+  "title": "Casanova",
+  "tid": 88,
+  "lines": [
+   "Futile."
+  ]
+ },
+ {
+  "speaker": "Claret",
+  "title": "Casanova",
+  "tid": 88,
+  "lines": [
+   "Ah, ah, but strength alone is not enough to win~"
+  ]
+ },
+ {
+  "speaker": "Crimson",
+  "title": "Casanova",
+  "tid": 88,
+  "lines": [
+   "Be still, my beating heart..."
+  ]
+ },
+ {
+  "speaker": "Fawkes",
+  "title": "Casanova",
+  "tid": 88,
+  "lines": [
+   "Oh! Can you help me find it?"
+  ]
+ },
+ {
+  "speaker": "Macy",
+  "title": "Punk",
+  "tid": 2,
+  "lines": [
+   "All right, you got stuff."
+  ]
+ },
+ {
+  "speaker": "Trill",
+  "title": "Punk",
+  "tid": 2,
+  "lines": [
+   "Word."
+  ]
+ },
+ {
+  "speaker": "Brittnay",
+  "title": "Punk",
+  "tid": 2,
+  "lines": [
+   "Hmmmm... I guess you can stay!"
+  ]
+ },
+ {
+  "speaker": "Ginelle",
+  "title": "Punk",
+  "tid": 2,
+  "lines": [
+   "You're cut out for either."
+  ]
+ },
+ {
+  "speaker": "Sally",
+  "title": "Punk",
+  "tid": 2,
+  "lines": [
+   "And now I do!"
+  ]
+ },
+ {
+  "speaker": "Celina",
+  "title": "Punk",
+  "tid": 2,
+  "lines": [
+   "C'mon, just a little bit!"
+  ]
+ },
+ {
+  "speaker": "Eilee",
+  "title": "Arcade Star",
+  "tid": 56,
+  "lines": [
+   "Hm... Well, you won't beat my scores."
+  ]
+ },
+ {
+  "speaker": "Tammy",
+  "title": "Arcade Star",
+  "tid": 56,
+  "lines": [
+   "Eh, whatever, it's a silly."
+  ]
+ },
+ {
+  "speaker": "Jacee",
+  "title": "Arcade Star",
+  "tid": 56,
+  "lines": [
+   "Hey, no fair!"
+  ]
+ },
+ {
+  "speaker": "Tristy",
+  "title": "Arcade Star",
+  "tid": 56,
+  "lines": [
+   "SUCH a brat."
+  ]
+ },
+ {
+  "speaker": "Susan",
+  "title": "Arcade Star",
+  "tid": 56,
+  "lines": [
+   "Do you even go here?"
+  ]
+ },
+ {
+  "speaker": "Lithi",
+  "title": "Arcade Star",
+  "tid": 56,
+  "lines": [
+   "Your display of your battling prowess far exceeds ours..."
+  ]
+ },
+ {
+  "speaker": "Miku",
+  "title": "Arcade Star",
+  "tid": 56,
+  "lines": [
+   "It seems you were too strong for me..."
+  ]
+ },
+ {
+  "speaker": "Akemi",
+  "title": "Arcade Star",
+  "tid": 56,
+  "lines": [
+   "What? How!?"
+  ]
+ },
+ {
+  "speaker": "Landon",
+  "title": "Elder",
+  "tid": 37,
+  "lines": [
+   "You're a flurry yourself."
+  ]
+ },
+ {
+  "speaker": "Yagami",
+  "title": "Elder",
+  "tid": 37,
+  "lines": [
+   "Power is not a simple victory."
+  ]
+ },
+ {
+  "speaker": "Iroh",
+  "title": "Elder",
+  "tid": 37,
+  "lines": [
+   "Defeat can be the truest test of strength."
+  ]
+ },
+ {
+  "speaker": "Endow",
+  "title": "Ranger",
+  "tid": 49,
+  "lines": [
+   "I see you can take care of yourself well enough."
+  ]
+ },
+ {
+  "speaker": "Steve",
+  "title": "Ranger",
+  "tid": 49,
+  "lines": [
+   "Ah, croikey!"
+  ]
+ },
+ {
+  "speaker": "Nick",
+  "title": "Ranger",
+  "tid": 49,
+  "lines": [
+   "While you're at it, protect me from yourself!"
+  ]
+ },
+ {
+  "speaker": "Will",
+  "title": "Ranger",
+  "tid": 49,
+  "lines": [
+   "You sure are, all right..."
+  ]
+ },
+ {
+  "speaker": "Tac",
+  "title": "Ranger",
+  "tid": 49,
+  "lines": [
+   "Maybe even two times at this rate!"
+  ]
+ },
+ {
+  "speaker": "Lambert",
+  "title": "Police Officer",
+  "tid": 87,
+  "lines": [
+   "WOAH, what's going on?!"
+  ]
+ },
+ {
+  "speaker": "Jameson",
+  "title": "Police Officer",
+  "tid": 87,
+  "lines": [
+   "Aagh! ...Huh?"
+  ]
+ },
+ {
+  "speaker": "Blackwell",
+  "title": "Police Officer",
+  "tid": 87,
+  "lines": [
+   "Urgh... What happened?"
+  ]
+ },
+ {
+  "speaker": "Joe",
+  "title": "Police Officer",
+  "tid": 87,
+  "lines": [
+   "I suppose you're fine..."
+  ]
+ },
+ {
+  "speaker": "Seer",
+  "title": "Police Officer",
+  "tid": 87,
+  "lines": [
+   "...Uh, sir?"
+  ]
+ },
+ {
+  "speaker": "Inuki",
+  "title": "Psychic",
+  "tid": 61,
+  "lines": [
+   "It's electromagnetism!"
+  ]
+ },
+ {
+  "speaker": "Michael",
+  "title": "Psychic",
+  "tid": 61,
+  "lines": [
+   "~ And we've got everybody singing... ~"
+  ]
+ },
+ {
+  "speaker": "Damon",
+  "title": "Psychic",
+  "tid": 61,
+  "lines": [
+   "You must hear them too, to be that powerful..."
+  ]
+ },
+ {
+  "speaker": "Sage",
+  "title": "Psychic",
+  "tid": 61,
+  "lines": [
+   "The Pokémon out at the start are always Pawns! Remember that!"
+  ]
+ },
+ {
+  "speaker": "Thyme",
+  "title": "Psychic",
+  "tid": 61,
+  "lines": [
+   "One man falls to army after army, so all that's left is dust."
+  ]
+ },
+ {
+  "speaker": "Lenore",
+  "title": "Lady",
+  "tid": 7,
+  "lines": [
+   "Sorry... I'm calm now."
+  ]
+ },
+ {
+  "speaker": "Anastasia",
+  "title": "Lady",
+  "tid": 7,
+  "lines": [
+   "And now this!"
+  ]
+ },
+ {
+  "speaker": "Eve",
+  "title": "Lady",
+  "tid": 7,
+  "lines": [
+   "Not that I meant you were bothering me, per se."
+  ]
+ },
+ {
+  "speaker": "Lily",
+  "title": "Lady",
+  "tid": 7,
+  "lines": [
+   "I come here every day. It's so nice to relax."
+  ]
+ },
+ {
+  "speaker": "Aurelia",
+  "title": "Lady",
+  "tid": 7,
+  "lines": [
+   "Oh forget it all, just burn!"
+  ]
+ },
+ {
+  "speaker": "Rin",
+  "title": "Psychic",
+  "tid": 62,
+  "lines": [
+   "W-What?! I-I lost?! How is this possible?!"
+  ]
+ },
+ {
+  "speaker": "Parsley",
+  "title": "Psychic",
+  "tid": 62,
+  "lines": [
+   "The Queen is the strongest piece-- never forget!"
+  ]
+ },
+ {
+  "speaker": "Rosemary",
+  "title": "Psychic",
+  "tid": 62,
+  "lines": [
+   "Kings take priority before everything else, or the game would already be over."
+  ]
+ },
+ {
+  "speaker": "Linda",
+  "title": "Nature Girl",
+  "tid": 8,
+  "lines": [
+   "Hm, well, I'm here more for scenery than studying anyway..."
+  ]
+ },
+ {
+  "speaker": "Minnie",
+  "title": "Nature Girl",
+  "tid": 8,
+  "lines": [
+   "Battles on the black beaches! How romantic!"
+  ]
+ },
+ {
+  "speaker": "Cocoa",
+  "title": "Nature Girl",
+  "tid": 8,
+  "lines": [
+   "That doesn't mean I'm the best student!"
+  ]
+ },
+ {
+  "speaker": "Hunny",
+  "title": "Nature Girl",
+  "tid": 8,
+  "lines": [
+   "Like water over rocks, this loss will fall over me."
+  ]
+ },
+ {
+  "speaker": "Ici",
+  "title": "Nature Girl",
+  "tid": 8,
+  "lines": [
+   "Even if I lose, it's still relaxing."
+  ]
+ },
+ {
+  "speaker": "Kacey",
+  "title": "Nature Girl",
+  "tid": 8,
+  "lines": [
+   "No!!! My precious TV is slipping away..."
+  ]
+ },
+ {
+  "speaker": "Ellen",
+  "title": "Nature Girl",
+  "tid": 8,
+  "lines": [
+   "That's much better!"
+  ]
+ },
+ {
+  "speaker": "Mauve",
+  "title": "Battle Girl",
+  "tid": 33,
+  "lines": [
+   "Hah-- hah... Too much!"
+  ]
+ },
+ {
+  "speaker": "Tina",
+  "title": "Battle Girl",
+  "tid": 33,
+  "lines": [
+   "Well that was a royal kick in the butt- butt."
+  ]
+ },
+ {
+  "speaker": "Lisa",
+  "title": "Battle Girl",
+  "tid": 33,
+  "lines": [
+   "Victory!"
+  ]
+ },
+ {
+  "speaker": "Dillon",
+  "title": "Battle Girl",
+  "tid": 33,
+  "lines": [
+   "The underdog story will continue!"
+  ]
+ },
+ {
+  "speaker": "Akane",
+  "title": "Battle Girl",
+  "tid": 33,
+  "lines": [
+   "Unbreaking spirit!"
+  ]
+ },
+ {
+  "speaker": "Paul",
+  "title": "Black Belt",
+  "tid": 16,
+  "lines": [
+   "I'll just go back to training now."
+  ]
+ },
+ {
+  "speaker": "Ryan",
+  "title": "Black Belt",
+  "tid": 16,
+  "lines": [
+   "You're lucky I was tired!"
+  ]
+ },
+ {
+  "speaker": "Mason",
+  "title": "Black Belt",
+  "tid": 16,
+  "lines": [
+   "You are strong in both. I have much to learn still."
+  ]
+ },
+ {
+  "speaker": "Seal",
+  "title": "Black Belt",
+  "tid": 16,
+  "lines": [
+   "Hmph. It seems I still have a ways to go."
+  ]
+ },
+ {
+  "speaker": "Nathaniel",
+  "title": "Black Belt",
+  "tid": 16,
+  "lines": [
+   "Unflinching power!"
+  ]
+ },
+ {
+  "speaker": "Elizabeth",
+  "title": "Ranger",
+  "tid": 17,
+  "lines": [
+   "Guess I have to train more too."
+  ]
+ },
+ {
+  "speaker": "Sully",
+  "title": "Ranger",
+  "tid": 17,
+  "lines": [
+   "Heh, all righty then."
+  ]
+ },
+ {
+  "speaker": "Nelly",
+  "title": "Ranger",
+  "tid": 17,
+  "lines": [
+   "Woah, there."
+  ]
+ },
+ {
+  "speaker": "Medius",
+  "title": "Ranger",
+  "tid": 17,
+  "lines": [
+   "Seems you are. But watch yourself now."
+  ]
+ },
+ {
+  "speaker": "Lassie",
+  "title": "Ranger",
+  "tid": 17,
+  "lines": [
+   "I was outdone. That's new."
+  ]
+ },
+ {
+  "speaker": "Addison",
+  "title": "Ranger",
+  "tid": 17,
+  "lines": [
+   "That was good! Real good!"
+  ]
+ },
+ {
+  "speaker": "Lena",
+  "title": "Ranger",
+  "tid": 17,
+  "lines": [
+   "Yeowch, that's some heat!"
+  ]
+ },
+ {
+  "speaker": "Aaron",
+  "title": "Clown",
+  "tid": 38,
+  "lines": [
+   "I'm giga-brained."
+  ]
+ },
+ {
+  "speaker": "Posty",
+  "title": "Clown",
+  "tid": 38,
+  "lines": [
+   "Forget red and white, I'm gonna be blue and black after that."
+  ]
+ },
+ {
+  "speaker": "Bingo",
+  "title": "Clown",
+  "tid": 38,
+  "lines": [
+   "That's no fun..."
+  ]
+ },
+ {
+  "speaker": "Drolly",
+  "title": "Clown",
+  "tid": 38,
+  "lines": [
+   "It would've been more entertaining if you'd let me win."
+  ]
+ },
+ {
+  "speaker": "Arthur",
+  "title": "Clown",
+  "tid": 38,
+  "lines": [
+   "Smile since you beat me into the ground!"
+  ]
+ },
+ {
+  "speaker": "Leonardo",
+  "title": "Clown",
+  "tid": 38,
+  "lines": [
+   "And the bars slam shut!"
+  ]
+ },
+ {
+  "speaker": "Bert",
+  "title": "Clown",
+  "tid": 38,
+  "lines": [
+   "Awwh, do I have to go back to work now?"
+  ]
+ },
+ {
+  "speaker": "Darko",
+  "title": "Clown",
+  "tid": 38,
+  "lines": [
+   "Secretly, I am the show! You may hold your applause!"
+  ]
+ },
+ {
+  "speaker": "Freedo",
+  "title": "Clown",
+  "tid": 38,
+  "lines": [
+   "Why not stay with us for long time?!"
+  ]
+ },
+ {
+  "speaker": "Goomy",
+  "title": "Clown",
+  "tid": 38,
+  "lines": [
+   "Get Goom't."
+  ]
+ },
+ {
+  "speaker": "Karus",
+  "title": "Ace Trainer",
+  "tid": 47,
+  "lines": [
+   "I'll see you in the starlight."
+  ]
+ },
+ {
+  "speaker": "Eddie",
+  "title": "Ace Trainer",
+  "tid": 47,
+  "lines": [
+   "Wait- you weren't-"
+  ]
+ },
+ {
+  "speaker": "Mattie",
+  "title": "Ace Trainer",
+  "tid": 47,
+  "lines": [
+   "No, the fortune!"
+  ]
+ },
+ {
+  "speaker": "Erebus",
+  "title": "Ace Trainer",
+  "tid": 47,
+  "lines": [
+   "Well played! I think you'll do just fine."
+  ]
+ },
+ {
+  "speaker": "Altimis",
+  "title": "Ace Trainer",
+  "tid": 47,
+  "lines": [
+   "Well played."
+  ]
+ },
+ {
+  "speaker": "Simon",
+  "title": "Ace Trainer",
+  "tid": 47,
+  "lines": [
+   "It seems that my body wasn't ready enough..."
+  ]
+ },
+ {
+  "speaker": "Trevor",
+  "title": "Ace Trainer",
+  "tid": 47,
+  "lines": [
+   "Impressive! Perhaps we'll meet again somewhere..."
+  ]
+ },
+ {
+  "speaker": "Nova",
+  "title": "Ace Trainer",
+  "tid": 46,
+  "lines": [
+   "Don't think you've seen the last of me!"
+  ]
+ },
+ {
+  "speaker": "Maddie",
+  "title": "Ace Trainer",
+  "tid": 46,
+  "lines": [
+   "It was supposed to be ours!"
+  ]
+ },
+ {
+  "speaker": "Autumn",
+  "title": "Ace Trainer",
+  "tid": 46,
+  "lines": [
+   "Fiiiiiine, I guess I'll let you through."
+  ]
+ },
+ {
+  "speaker": "4B 8 4 8",
+  "title": "MIS5INGN0",
+  "tid": 63,
+  "lines": [
+   "wwwwwwwwwwww"
+  ]
+ },
+ {
+  "speaker": "'Ng'Mp",
+  "title": "MIS5INGN0",
+  "tid": 63,
+  "lines": [
+   "23578120964"
+  ]
+ },
+ {
+  "speaker": "C",
+  "title": "MIS5INGN0",
+  "tid": 63,
+  "lines": [
+   "comfy-- comfy-- comfy-- comfy--"
+  ]
+ },
+ {
+  "speaker": "u",
+  "title": "MIS5INGN0",
+  "tid": 63,
+  "lines": [
+   "end speech"
+  ]
+ },
+ {
+  "speaker": "94 h",
+  "title": "MIS5INGN0",
+  "tid": 63,
+  "lines": [
+   "."
+  ]
+ },
+ {
+  "speaker": "'M",
+  "title": "MIS5INGN0",
+  "tid": 63,
+  "lines": [
+   "d34th d34th d34th d34th"
+  ]
+ },
+ {
+  "speaker": "5Sj",
+  "title": "MIS5INGN0",
+  "tid": 63,
+  "lines": [
+   "5s5s5s5s5s"
+  ]
+ },
+ {
+  "speaker": "PKMN",
+  "title": "OPKMN4X",
+  "tid": 65,
+  "lines": [
+   "Oh! That is the ECLIPSEBADGE!"
+  ]
+ },
+ {
+  "speaker": "404",
+  "title": "OPKMN4X",
+  "tid": 65,
+  "lines": [
+   "SK1LL N0T P0UND"
+  ]
+ },
+ {
+  "speaker": "PC4SH",
+  "title": "M1SS1NGO",
+  "tid": 66,
+  "lines": [
+   "And she succeeded."
+  ]
+ },
+ {
+  "speaker": "0x5656",
+  "title": "M1SS1NGO",
+  "tid": 66,
+  "lines": [
+   "memory address forgotten"
+  ]
+ },
+ {
+  "speaker": "MRMR2",
+  "title": "M1SS1NGO",
+  "tid": 66,
+  "lines": [
+   "M3W!"
+  ]
+ },
+ {
+  "speaker": "Leigh",
+  "title": "Swimmer",
+  "tid": 155,
+  "lines": [
+   "It's a good day for a battle, too!"
+  ]
+ },
+ {
+  "speaker": "Xerciel",
+  "title": "Swimmer",
+  "tid": 155,
+  "lines": [
+   "Okay, maybe it's not actually an ocean."
+  ]
+ },
+ {
+  "speaker": "Tsuki",
+  "title": "Swimmer",
+  "tid": 155,
+  "lines": [
+   "Wait, you don't even go here."
+  ]
+ },
+ {
+  "speaker": "Aidan",
+  "title": "Swimmer",
+  "tid": 155,
+  "lines": [
+   "You burnt me out..."
+  ]
+ },
+ {
+  "speaker": "Owen",
+  "title": "Swimmer",
+  "tid": 154,
+  "lines": [
+   "... At least until the elastic wears off."
+  ]
+ },
+ {
+  "speaker": "Hubert",
+  "title": "Swimmer",
+  "tid": 154,
+  "lines": [
+   "Huh? Did I crash?"
+  ]
+ },
+ {
+  "speaker": "Wilson",
+  "title": "Swimmer",
+  "tid": 154,
+  "lines": [
+   "And a loss on the water!"
+  ]
+ },
+ {
+  "speaker": "Arlo",
+  "title": "Swimmer",
+  "tid": 154,
+  "lines": [
+   "I got washed away!"
+  ]
+ },
+ {
+  "speaker": "Dan",
+  "title": "Knight",
+  "tid": 115,
+  "lines": [
+   "The world... is tilting."
+  ]
+ },
+ {
+  "speaker": "Frey",
+  "title": "Knight",
+  "tid": 115,
+  "lines": [
+   "The treasure will be ours eventually!"
+  ]
+ },
+ {
+  "speaker": "Edgard",
+  "title": "Knight",
+  "tid": 115,
+  "lines": [
+   "Once, I was a dread guard... But now, I'm just a dead guard."
+  ]
+ },
+ {
+  "speaker": "Kalezis",
+  "title": "Knight",
+  "tid": 115,
+  "lines": [
+   "How long do you really think you can hold out?"
+  ]
+ },
+ {
+  "speaker": "Statuary",
+  "title": "Pokemon",
+  "tid": 122,
+  "lines": [
+   "Garrr!!!"
+  ]
+ },
+ {
+  "speaker": "Alistair",
+  "title": "Guitarist",
+  "tid": 134,
+  "lines": [
+   "Not a bad jam, kiddo!"
+  ]
+ },
+ {
+  "speaker": "Xavier",
+  "title": "Guitarist",
+  "tid": 134,
+  "lines": [
+   "Tch, I broke a string..."
+  ]
+ },
+ {
+  "speaker": "Noivy",
+  "title": "Guitarist",
+  "tid": 134,
+  "lines": [
+   "You've got a good gig goin' on. Rock on, fam!"
+  ]
+ },
+ {
+  "speaker": "Isaac",
+  "title": "Guitarist",
+  "tid": 134,
+  "lines": [
+   "You sure can battle, bro, that's for sure!"
+  ]
+ },
+ {
+  "speaker": "Allan",
+  "title": "Wandering Spirit",
+  "tid": 141,
+  "lines": [
+   "Cuz pro."
+  ]
+ },
+ {
+  "speaker": "Jonathan",
+  "title": "Wandering Spirit",
+  "tid": 141,
+  "lines": [
+   "Make a joke. Because laughing is better than feeling bad, and it's a great way to say 'fuck you' to all your problems."
+  ]
+ },
+ {
+  "speaker": "Cloud",
+  "title": "Wandering Spirit",
+  "tid": 141,
+  "lines": [
+   "Delicious."
+  ]
+ },
+ {
+  "speaker": "Duster",
+  "title": "Wandering Spirit",
+  "tid": 141,
+  "lines": [
+   "Hopefully we can pull through for whatever's next."
+  ]
+ },
+ {
+  "speaker": "Fezz",
+  "title": "Wandering Spirit",
+  "tid": 141,
+  "lines": [
+   "That's the dark side for you."
+  ]
+ },
+ {
+  "speaker": "Franz",
+  "title": "Wandering Spirit",
+  "tid": 141,
+  "lines": [
+   "Always choose on the basis of love."
+  ]
+ },
+ {
+  "speaker": "Godot",
+  "title": "Wandering Spirit",
+  "tid": 141,
+  "lines": [
+   "And that's the show."
+  ]
+ },
+ {
+  "speaker": "Ikaru",
+  "title": "Wandering Spirit",
+  "tid": 141,
+  "lines": [
+   "We're not at the end, but, oh! We've already won."
+  ]
+ },
+ {
+  "speaker": "Jonah",
+  "title": "Wandering Spirit",
+  "tid": 141,
+  "lines": [
+   "Win or lose, it's how you use their strengths."
+  ]
+ },
+ {
+  "speaker": "Josh",
+  "title": "Wandering Spirit",
+  "tid": 141,
+  "lines": [
+   "I promise I'm thinking."
+  ]
+ },
+ {
+  "speaker": "King",
+  "title": "Wandering Spirit",
+  "tid": 141,
+  "lines": [
+   "Right~"
+  ]
+ },
+ {
+  "speaker": "Leo",
+  "title": "Wandering Spirit",
+  "tid": 141,
+  "lines": [
+   "And now I'm gonna eat."
+  ]
+ },
+ {
+  "speaker": "Nate",
+  "title": "Wandering Spirit",
+  "tid": 141,
+  "lines": [
+   "But if you try, sometimes you might just find that you get what you need~"
+  ]
+ },
+ {
+  "speaker": "Owen",
+  "title": "Wandering Spirit",
+  "tid": 141,
+  "lines": [
+   "I don't EVER break my promises."
+  ]
+ },
+ {
+  "speaker": "Quinn",
+  "title": "Wandering Spirit",
+  "tid": 141,
+  "lines": [
+   "Listen up! The most important thing isn't power, it isn't courage, and it isn't even having friends! The only thing that matters is that you can rely on ME."
+  ]
+ },
+ {
+  "speaker": "Savage",
+  "title": "Wandering Spirit",
+  "tid": 141,
+  "lines": [
+   "...haha... Hahaha... Hahahahahahahahahahahahahahahahaha!!!!!!!"
+  ]
+ },
+ {
+  "speaker": "Taro",
+  "title": "Wandering Spirit",
+  "tid": 141,
+  "lines": [
+   "Perhaps this 'X-League' can provide me a worthy challenge."
+  ]
+ },
+ {
+  "speaker": "Tenshi",
+  "title": "Wandering Spirit",
+  "tid": 141,
+  "lines": [
+   "Bye!"
+  ]
+ },
+ {
+  "speaker": "Trevor",
+  "title": "Wandering Spirit",
+  "tid": 141,
+  "lines": [
+   "I believe in a world of gray, and I will not stop until I reach it."
+  ]
+ },
+ {
+  "speaker": "Troy",
+  "title": "Wandering Spirit",
+  "tid": 141,
+  "lines": [
+   "Oh..."
+  ]
+ },
+ {
+  "speaker": "Zippo",
+  "title": "Wandering Spirit",
+  "tid": 141,
+  "lines": [
+   "When everything seems lost and you're at the end of the road, I want you to remind yourself, to never give up, and never stop fighting."
+  ]
+ },
+ {
+  "speaker": "MDE",
+  "title": "Wandering Spirit",
+  "tid": 141,
+  "lines": [
+   "Just a friendly Dedenne here to help!"
+  ]
+ },
+ {
+  "speaker": "Mike",
+  "title": "Wandering Spirit",
+  "tid": 141,
+  "lines": [
+   "Kids these days..."
+  ]
+ },
+ {
+  "speaker": "Dan",
+  "title": "Wandering Spirit",
+  "tid": 141,
+  "lines": [
+   "I'm tilted."
+  ]
+ },
+ {
+  "speaker": "Azery",
+  "title": "Wandering Spirit",
+  "tid": 141,
+  "lines": [
+   "What A Great Battle..."
+  ]
+ },
+ {
+  "speaker": "Diana",
+  "title": "Wandering Spirit",
+  "tid": 142,
+  "lines": [
+   "So long as I can have the strength to do that, I don't care if I'm weaker than everyone else in the world."
+  ]
+ },
+ {
+  "speaker": "Lexi",
+  "title": "Wandering Spirit",
+  "tid": 142,
+  "lines": [
+   "My dream has become a reality."
+  ]
+ },
+ {
+  "speaker": "Saya",
+  "title": "Wandering Spirit",
+  "tid": 142,
+  "lines": [
+   "It was all worth the journey."
+  ]
+ },
+ {
+  "speaker": "Lia",
+  "title": "Wandering Spirit",
+  "tid": 142,
+  "lines": [
+   "oosp"
+  ]
+ },
+ {
+  "speaker": "Koyo",
+  "title": "Wandering Spirit",
+  "tid": 142,
+  "lines": [
+   "!!!"
+  ]
+ },
+ {
+  "speaker": "Pokémon",
+  "title": "Creeping",
+  "tid": 152,
+  "lines": [
+   "Shiiii!!!"
+  ]
+ },
+ {
+  "speaker": "Cresselia",
+  "title": "Anomaly",
+  "tid": 153,
+  "lines": [
+   "Cress--?"
+  ]
+ },
+ {
+  "speaker": "Raikou",
+  "title": "Anomaly",
+  "tid": 156,
+  "lines": [
+   "Kou! Kouuu!"
+  ]
+ },
+ {
+  "speaker": "Entei",
+  "title": "Anomaly",
+  "tid": 157,
+  "lines": [
+   "Rrrrrr..."
+  ]
+ },
+ {
+  "speaker": "Suicune",
+  "title": "Anomaly",
+  "tid": 158,
+  "lines": [
+   "Suiiiiiii!"
+  ]
+ },
+ {
+  "speaker": "Anomaly",
+  "title": "Golem",
+  "tid": 182,
+  "lines": [
+   "Kzzzzzztttt--"
+  ]
+ },
+ {
+  "speaker": "One for All",
+  "title": "Anomaly",
+  "tid": 183,
+  "lines": [
+   "Ziah--"
+  ]
+ },
+ {
+  "speaker": "for One",
+  "title": "All",
+  "tid": 184,
+  "lines": [
+   "Kou..."
+  ]
+ },
+ {
+  "speaker": "Swords of Justice",
+  "title": "the Spectral",
+  "tid": 186,
+  "lines": [
+   "Dio!!"
+  ]
+ },
+ {
+  "speaker": "Regigigas",
+  "title": "Anomaly",
+  "tid": 188,
+  "lines": [
+   "GI GI GI UN UN UN SAAAAAAA"
+  ]
+ },
+ {
+  "speaker": "Anomaly",
+  "title": "Djinn",
+  "tid": 189,
+  "lines": [
+   "Rrooorrgh!!!"
+  ]
+ },
+ {
+  "speaker": "Radomus",
+  "title": "Umbral",
+  "tid": 241,
+  "lines": [
+   "RADOMUS: I SuPpose I Am Too quIck To let go of the responsibilities I'd leave behind here."
+  ]
+ },
+ {
+  "speaker": "Gardevoir",
+  "title": "Anomaly",
+  "tid": 242,
+  "lines": [
+   "GARDEVOIR: mUCH aS i mIgHT pRefeR tO hAve you all to myself, we can't quite call it curtains yet."
+  ]
+ },
+ {
+  "speaker": "Taube",
+  "title": "Guiding Star",
+  "tid": 214,
+  "lines": [
+   "Marvelous! I can feel your Pokémon's friendship!"
+  ]
+ },
+ {
+  "speaker": "Celebi",
+  "title": "Anomaly",
+  "tid": 223,
+  "lines": [
+   "Biiiiii~!"
+  ]
+ },
+ {
+  "speaker": "Elena",
+  "title": "Elite Four Skyspectre",
+  "tid": 215,
+  "lines": [
+   "I expected nothing less from you."
+  ]
+ },
+ {
+  "speaker": "Shelly",
+  "title": "Reborn Champion",
+  "tid": 216,
+  "lines": [
+   "Bravo! That was the best battle of my life!"
+  ]
+ },
+ {
+  "speaker": "Volcanion",
+  "title": "Anomaly",
+  "tid": 194,
+  "lines": [
+   "Kkaaaaa--"
+  ]
+ },
+ {
+  "speaker": "Margo",
+  "title": "Poacher",
+  "tid": 196,
+  "lines": [
+   "You're not too bad in a fight!"
+  ]
+ },
+ {
+  "speaker": "Willow",
+  "title": "Poacher",
+  "tid": 196,
+  "lines": [
+   "Defeat is lonely and hard to bear..."
+  ]
+ },
+ {
+  "speaker": "Atreus",
+  "title": "Poacher",
+  "tid": 195,
+  "lines": [
+   "All right, you win for now... I was going easy on you anyway, 'cause you're cute."
+  ]
+ },
+ {
+  "speaker": "Shannon",
+  "title": "Commissioner",
+  "tid": 198,
+  "lines": [
+   "Quit your grandstanding and bow down already!"
+  ]
+ },
+ {
+  "speaker": "Hoopa",
+  "title": "Anomaly",
+  "tid": 213,
+  "lines": [
+   "Haaaaa?!"
+  ]
+ },
+ {
+  "speaker": "Meloetta",
+  "title": "Anomaly",
+  "tid": 217,
+  "lines": [
+   "Lo lei li la~"
+  ]
+ },
+ {
+  "speaker": "Multilyrical Melody",
+  "title": "Her",
+  "tid": 202,
+  "lines": [
+   "Lo la li lo~"
+  ]
+ },
+ {
+  "speaker": "Antics",
+  "title": "Her",
+  "tid": 202,
+  "lines": [
+   "whatever."
+  ]
+ },
+ {
+  "speaker": "Magearna",
+  "title": "Anomaly",
+  "tid": 243,
+  "lines": [
+   "Ma-ma-ma-ma?"
+  ]
+ },
+ {
+  "speaker": "Heatran",
+  "title": "Anomaly",
+  "tid": 221,
+  "lines": [
+   "Horra!"
+  ]
+ },
+ {
+  "speaker": "Manaphy",
+  "title": "Anomaly",
+  "tid": 222,
+  "lines": [
+   "Nana-na???"
+  ]
+ },
+ {
+  "speaker": "Jirachi",
+  "title": "Anomaly",
+  "tid": 201,
+  "lines": [
+   "Chi?"
+  ]
+ },
+ {
+  "speaker": "Diancie",
+  "title": "Anomaly",
+  "tid": 209,
+  "lines": [
+   "Cieee!"
+  ]
+ },
+ {
+  "speaker": "Aegislash",
+  "title": "the Crystal",
+  "tid": 210,
+  "lines": [
+   "* * * *"
+  ]
+ },
+ {
+  "speaker": "Tapu-Koko",
+  "title": "Anomaly",
+  "tid": 203,
+  "lines": [
+   "Ko!"
+  ]
+ },
+ {
+  "speaker": "Tapu-Lele",
+  "title": "Anomaly",
+  "tid": 204,
+  "lines": [
+   "Lel lel!"
+  ]
+ },
+ {
+  "speaker": "Tapu-Bulu",
+  "title": "Anomaly",
+  "tid": 205,
+  "lines": [
+   "Boooo!!!"
+  ]
+ },
+ {
+  "speaker": "Tapu-Fini",
+  "title": "Anomaly",
+  "tid": 206,
+  "lines": [
+   "Fwahhh..."
+  ]
+ },
+ {
+  "speaker": "Latias",
+  "title": "Anomaly",
+  "tid": 207,
+  "lines": [
+   "Laa?"
+  ]
+ },
+ {
+  "speaker": "Latios",
+  "title": "Anomaly",
+  "tid": 208,
+  "lines": [
+   "-F=??5VG7XMK...-"
+  ]
+ },
+ {
+  "speaker": "Shaymin",
+  "title": "Anomaly",
+  "tid": 239,
+  "lines": [
+   "Miii~"
+  ]
+ },
+ {
+  "speaker": "Friends",
+  "title": "Gracidea",
+  "tid": 240,
+  "lines": [
+   "Shami?"
+  ]
+ },
+ {
+  "speaker": "Tangrowth",
+  "title": "PULSE",
+  "tid": 254,
+  "lines": [
+   "Grah."
+  ]
+ },
+ {
+  "speaker": "Mime",
+  "title": "Master",
+  "tid": 260,
+  "lines": [
+   "Mine? Mine? Mine?"
+  ]
+ },
+ {
+  "speaker": "Camerupt",
+  "title": "PULSE",
+  "tid": 255,
+  "lines": [
+   "CARAH!!!"
+  ]
+ },
+ {
+  "speaker": "Corey",
+  "title": "Umbral",
+  "tid": 257,
+  "lines": [
+   "Give me another week, I'll battle circles around you!"
+  ]
+ },
+ {
+  "speaker": "Darkrai",
+  "title": "Anomaly",
+  "tid": 258,
+  "lines": [
+   "Ri, ri..."
+  ]
+ },
+ {
+  "speaker": "Palkia",
+  "title": "Anomaly",
+  "tid": 218,
+  "lines": [
+   "Kyaaa!"
+  ]
+ },
+ {
+  "speaker": "Dialga",
+  "title": "Anomaly",
+  "tid": 219,
+  "lines": [
+   "Gaaaah!"
+  ]
+ },
+ {
+  "speaker": "Zekrom",
+  "title": "Anomaly",
+  "tid": 246,
+  "lines": [
+   "Zaaaaaaaaaahk!"
+  ]
+ },
+ {
+  "speaker": "Reshiram",
+  "title": "Anomaly",
+  "tid": 245,
+  "lines": [
+   "Yrrrraaaah!"
+  ]
+ },
+ {
+  "speaker": "Kyurem",
+  "title": "Anomaly",
+  "tid": 247,
+  "lines": [
+   "Kyuuu!!!"
+  ]
+ },
+ {
+  "speaker": "Fusion Simulations",
+  "title": "Multi-iterative",
+  "tid": 248,
+  "lines": [
+   "Raaaaaaam!!!"
+  ]
+ },
+ {
+  "speaker": "Ho-oh",
+  "title": "Anomaly",
+  "tid": 233,
+  "lines": [
+   "Kyaaaah!"
+  ]
+ },
+ {
+  "speaker": "Lugia",
+  "title": "Anomaly",
+  "tid": 234,
+  "lines": [
+   "Gyaaaah!"
+  ]
+ },
+ {
+  "speaker": "Deoxys",
+  "title": "Anomaly",
+  "tid": 237,
+  "lines": [
+   "Xxxkwyqqqywygixi!!!"
+  ]
+ },
+ {
+  "speaker": "Amaria",
+  "title": "Umbral",
+  "tid": 236,
+  "lines": [
+   "XXXXXXXXX!!!"
+  ]
+ },
+ {
+  "speaker": "Groudon",
+  "title": "Anomaly",
+  "tid": 262,
+  "lines": [
+   "Graaagh!!!"
+  ]
+ },
+ {
+  "speaker": "Kyogre",
+  "title": "Anomaly",
+  "tid": 261,
+  "lines": [
+   "Gyoorrrgh!!!"
+  ]
+ },
+ {
+  "speaker": "Yveltal",
+  "title": "Anomaly",
+  "tid": 263,
+  "lines": [
+   "Taaaaal!"
+  ]
+ },
+ {
+  "speaker": "Xerneas",
+  "title": "Anomaly",
+  "tid": 264,
+  "lines": [
+   "Xaaara~"
+  ]
+ },
+ {
+  "speaker": "Noel",
+  "title": "Umbral",
+  "tid": 267,
+  "lines": [
+   "This wasn't necessary."
+  ]
+ },
+ {
+  "speaker": "Naganadel",
+  "title": "Anomaly",
+  "tid": 244,
+  "lines": [
+   "Giiiiiiiii~"
+  ]
+ },
+ {
+  "speaker": "Giratina",
+  "title": "Anomalized",
+  "tid": 250,
+  "lines": [
+   "Tiyaaagh!!!"
+  ]
+ },
+ {
+  "speaker": "Zygarde",
+  "title": "Anomalized",
+  "tid": 251,
+  "lines": [
+   "Zaarrgh-"
+  ]
+ },
+ {
+  "speaker": "Rayquaza",
+  "title": "Anomaly",
+  "tid": 252,
+  "lines": [
+   "QUAAAARR!!!"
+  ]
+ },
+ {
+  "speaker": "Necrozma",
+  "title": "Anomaly",
+  "tid": 268,
+  "lines": [
+   "Zaaam..."
+  ]
+ },
+ {
+  "speaker": "Mew",
+  "title": "Anomaly",
+  "tid": 269,
+  "lines": [
+   "Mew~!"
+  ]
+ },
+ {
+  "speaker": "Arceus",
+  "title": "Anomaly",
+  "tid": 280,
+  "lines": [
+   "Caraa~"
+  ]
+ },
+ {
+  "speaker": "Smeargletail",
+  "title": "Wandering Artist",
+  "tid": 166,
+  "lines": [
+   "Nice job"
+  ]
+ },
+ {
+  "speaker": "Marcello",
+  "title": "Not a Child; Just Short",
+  "tid": 165,
+  "lines": [
+   "Maybe another time, then?"
+  ]
+ },
+ {
+  "speaker": "Crim",
+  "title": "Daydreamer",
+  "tid": 286,
+  "lines": [
+   "Aww, shoot. I'll be sure to ace it next time~"
+  ]
+ },
+ {
+  "speaker": "Vulpes",
+  "title": "Emerging Violet",
+  "tid": 288,
+  "lines": [
+   "Not bad!"
+  ]
+ },
+ {
+  "speaker": "Jan",
+  "title": "Intern",
+  "tid": 290,
+  "lines": [
+   ">:C"
+  ]
+ },
+ {
+  "speaker": "Ikaru",
+  "title": "Starchaser",
+  "tid": 285,
+  "lines": [
+   "Morning waits on the edge of a dream."
+  ]
+ },
+ {
+  "speaker": "Kurotsune",
+  "title": "Illusory Spirit",
+  "tid": 289,
+  "lines": [
+   "Fantastic! Bye."
+  ]
+ },
+ {
+  "speaker": "Azzie",
+  "title": "Storyteller",
+  "tid": 292,
+  "lines": [
+   "Welp!"
+  ]
+ },
+ {
+  "speaker": "Perry",
+  "title": "Held at Gunpoint",
+  "tid": 291,
+  "lines": [
+   "That's what I expect from our protag!"
+  ]
+ },
+ {
+  "speaker": "Kyra",
+  "title": "Brat Child",
+  "tid": 294,
+  "lines": [
+   "*angry cat noises*"
+  ]
+ }
+]

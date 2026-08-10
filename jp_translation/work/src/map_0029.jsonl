@@ -1,0 +1,209 @@
+{"sec": "map:29", "key": "You're getting up there, Trainer. Let's see if you deserve those Badges!", "en": "You're getting up there, Trainer. Let's see if you deserve those Badges!", "ja": "だいぶ強くなったな、トレーナー。そのバッジにふさわしいか見せてもらおうか!"}
+{"sec": "map:29", "key": "W-What?! I-I lost?! How is this possible?!", "en": "W-What?! I-I lost?! How is this possible?!", "ja": "な、なに?! わ、わたしが負けた?! そんな……どうして?!"}
+{"sec": "map:29", "key": "I must have done something terribly wrong...", "en": "I must have done something terribly wrong...", "ja": "きっと、何か大きな間違いをしたんだわ……"}
+{"sec": "map:29", "key": "VICTORIA: Oh, you caught up already.", "en": "VICTORIA: Oh, you caught up already.", "ja": "ヴィクトリア: あ、もう追いついたんですね。"}
+{"sec": "map:29", "key": "Well, I was going to go help, but this guy won't even let me in!", "en": "Well, I was going to go help, but this guy won't even let me in!", "ja": "手伝いに行こうとしてたんですけど、こいつが中に入れてくれなくて!"}
+{"sec": "map:29", "key": "OFFICER: Ma'am, I'm under strict orders not to let civilians into this area,", "en": "OFFICER: Ma'am, I'm under strict orders not to let civilians into this area,", "ja": "オフィサー: お客様、この区域には民間人を立ち入らせないよう厳命されておりまして、"}
+{"sec": "map:29", "key": "Even well-intentioned ones.", "en": "Even well-intentioned ones.", "ja": "たとえ善意からであっても、です。"}
+{"sec": "map:29", "key": "\"Road to hell\" and all that.", "en": "\"Road to hell\" and all that.", "ja": "「地獄への道は善意で舗装されている」というやつですね。"}
+{"sec": "map:29", "key": "VICTORIA: Then how do you expect anything to get done about it?!", "en": "VICTORIA: Then how do you expect anything to get done about it?!", "ja": "ヴィクトリア: それじゃあ、どうやって事態を解決するつもりなんですか?!"}
+{"sec": "map:29", "key": "By your own admission, there are people trapped in there struggling, and you're keeping the ones who want to help locked out?", "en": "By your own admission, there are people trapped in there struggling, and you're keeping the ones who want to help locked out?", "ja": "自分で言ってたじゃないですか、中には困ってる人たちが閉じ込められてるって。それなのに、助けたい人たちを締め出すんですか?"}
+{"sec": "map:29", "key": "FLORINIA: The desire to better a given circumstance remains entirely uncorrelated with the ability to do so.", "en": "FLORINIA: The desire to better a given circumstance remains entirely uncorrelated with the ability to do so.", "ja": "フロリニア: 状況を改善したいという願望と、それを実行する能力とは、まったくの無相関である。"}
+{"sec": "map:29", "key": "Confounding variables in any situation contribute to unpredictability and decreased control.", "en": "Confounding variables in any situation contribute to unpredictability and decreased control.", "ja": "いかなる状況においても、交絡変数の存在は予測不能性を高め、制御力を低下させる。"}
+{"sec": "map:29", "key": "This principle holds doubly valid for the situation within Obsidia, wherein far too many unknowns yet exist to even begin to have just a rudimentary understanding of the scenario.", "en": "This principle holds doubly valid for the situation within Obsidia, wherein far too many unknowns yet exist to even begin to have just a rudimentary understanding of the scenario.", "ja": "この原則は、オブシディア内部の状況において二重に成立する。事態の初歩的な理解にすら至るには、未知数があまりに多すぎるからだ。"}
+{"sec": "map:29", "key": "GUARD: Boy, am I glad to see you, Miss Florinia.", "en": "GUARD: Boy, am I glad to see you, Miss Florinia.", "ja": "ガード: いやあ、フロリニア様、お会いできて助かります。"}
+{"sec": "map:29", "key": "You think you could do something about these two?", "en": "You think you could do something about these two?", "ja": "この二人、何とかしていただけませんか?"}
+{"sec": "map:29", "key": "FLORINIA: \\PN has already demonstrated veritable competence in assisting in the takedown of a criminally-organized facility.", "en": "FLORINIA: \\PN has already demonstrated veritable competence in assisting in the takedown of a criminally-organized facility. ", "ja": "フロリニア: \\PNは、犯罪組織の施設摘発において、すでに真正な能力を実証済みである。"}
+{"sec": "map:29", "key": "VICTORIA: Wait, you did what?", "en": "VICTORIA: Wait, you did what?", "ja": "ヴィクトリア: え、そんなことしてたんですか?"}
+{"sec": "map:29", "key": "FLORINIA: In the other case, however, no evidence has been provided to suggest that the benefit from allowing access to an additional party outweighs the associated risk.", "en": "FLORINIA: In the other case, however, no evidence has been provided to suggest that the benefit from allowing access to an additional party outweighs the associated risk.", "ja": "フロリニア: しかし、もう一方の場合においては、追加の人員に立ち入りを許可することの利益が、それに伴うリスクを上回るという証拠は、いまだ提示されていない。"}
+{"sec": "map:29", "key": "The risk itself is indisputable in demonstrated appearance, to say nothing of unforeseen factors.", "en": "The risk itself is indisputable in demonstrated appearance, to say nothing of unforeseen factors.", "ja": "リスクそのものは、目に見える形ですでに明白であり、未知の要因については言うまでもない。"}
+{"sec": "map:29", "key": "Upon what merit do you base the claim that you deserve access to a highly volatile, still-restricted area?", "en": "Upon what merit do you base the claim that you deserve access to a highly volatile, still-restricted area?", "ja": "極めて不安定で、いまだ制限下にある区域への立ち入りに値するという主張は、何を根拠としているのか?"}
+{"sec": "map:29", "key": "VICTORIA: I know you can't just let in every schmuck who wants to go through, but there are still people living there.", "en": "VICTORIA: I know you can't just let in every schmuck who wants to go through, but there are still people living there.", "ja": "ヴィクトリア: 通りたがる人を誰でも彼でも入れられないのは分かります。でも、あそこにはまだ、暮らしてる人たちがいるんです。"}
+{"sec": "map:29", "key": "Right now, while we're sitting here arguing about it, those people need help more than ever.", "en": "Right now, while we're sitting here arguing about it, those people need help more than ever.", "ja": "今こうして言い合ってる間にも、あの人たちは誰よりも助けを必要としてます。"}
+{"sec": "map:29", "key": "I'm not gonna get in your way or mess anything up, but I think if there's even just one person who can use a helping hand right now, it's worth offering it.", "en": "I'm not gonna get in your way or mess anything up, but I think if there's even just one person who can use a helping hand right now, it's worth offering it.", "ja": "邪魔もしないし、何も台無しにしません。でも、今すぐ手を貸せる相手がたった一人でもいるなら、それは差し伸べる価値があると思います。"}
+{"sec": "map:29", "key": "FLORINIA: ...", "en": "FLORINIA: ...", "ja": "フロリニア: ……"}
+{"sec": "map:29", "key": "Answer accepted.", "en": "Answer accepted.", "ja": "回答を受理する。"}
+{"sec": "map:29", "key": "Full credit.", "en": "Full credit.", "ja": "満点だ。"}
+{"sec": "map:29", "key": "On the authority of this speaker, these two will be permitted passage to the Obsidia Ward.", "en": "On the authority of this speaker, these two will be permitted passage to the Obsidia Ward.", "ja": "この話者の権限において、この二名にオブシディアワードへの通行を許可する。"}
+{"sec": "map:29", "key": "Objections?", "en": "Objections?", "ja": "異議は?"}
+{"sec": "map:29", "key": "GUARD: No, ma'am.", "en": "GUARD: No, ma'am.", "ja": "ガード: ありません。"}
+{"sec": "map:29", "key": "Go right on ahead. Good luck in there.", "en": "Go right on ahead. Good luck in there.", "ja": "どうぞお進みください。ご武運を。"}
+{"sec": "map:29", "key": "VICTORIA: ...Oh! That worked!", "en": "VICTORIA: ...Oh! That worked!", "ja": "ヴィクトリア: ……あ! うまくいきました!"}
+{"sec": "map:29", "key": "FLORINIA: This speaker will brief you on the details of the situation, but the matter is best explained through observation.", "en": "FLORINIA: This speaker will brief you on the details of the situation, but the matter is best explained through observation.", "ja": "フロリニア: この話者が状況の詳細を説明するが、実際に見て確かめるほうが理解は早いだろう。"}
+{"sec": "map:29", "key": "Let us proceed forward.", "en": "Let us proceed forward.", "ja": "先へ進むとしよう。"}
+{"sec": "map:29", "key": "Technology is wonderful, isn't it? We shall all ascend to the mechanical heaven!", "en": "Technology is wonderful, isn't it? We shall all ascend to the mechanical heaven!", "ja": "テクノロジーとは素晴らしいものだ! われらは皆、機械の天国へと昇るのだ!"}
+{"sec": "map:29", "key": "You broke my machines...", "en": "You broke my machines...", "ja": "俺のマシンを壊しやがって……"}
+{"sec": "map:29", "key": "Bits and pieces... But a fascinating whole.", "en": "Bits and pieces... But a fascinating whole.", "ja": "バラバラの部品……だが、全体として見れば魅了される。"}
+{"sec": "map:29", "key": "Wanna battle? I'll take you DOWN.", "en": "Wanna battle? I'll take you DOWN.", "ja": "勝負するか? たたきのめしてやる。"}
+{"sec": "map:29", "key": "WHAT? Hmph...", "en": "WHAT? Hmph...", "ja": "は? ふん……"}
+{"sec": "map:29", "key": "I'll go beat the other Trainers here to make myself feel better...", "en": "I'll go beat the other Trainers here to make myself feel better...", "ja": "ここの他のトレーナーをぶちのめして、気を晴らしてくる……"}
+{"sec": "map:29", "key": "\\PN picked up the package of Power Items!", "en": "\\PN picked up the package of Power Items!", "ja": "\\PNは、パワーアイテムのパッケージを拾った!"}
+{"sec": "map:29", "key": "Ugh, why is everyone around here so weak?!", "en": "Ugh, why is everyone around here so weak?!", "ja": "うわ、何でこの辺の連中はこんなに弱いんだ?!"}
+{"sec": "map:29", "key": "Oh, thank god. Someone who can actually give me a challenge.", "en": "Oh, thank god. Someone who can actually give me a challenge.", "ja": "おお、助かった。ようやく歯ごたえのある相手か。"}
+{"sec": "map:29", "key": "I wish more people were strong like us. Almost everyone here has just a starter, fresh out of the gate!", "en": "I wish more people were strong like us. Almost everyone here has just a starter, fresh out of the gate!", "ja": "俺たちみたいに強い奴がもっといりゃいいのに。ここの連中ときたら、ほとんどが手に入れたばかりのご三家だけだ!"}
+{"sec": "map:29", "key": "And they just run off crying when I obliterate them!", "en": "And they just run off crying when I obliterate them!", "ja": "ぶちのめしてやると、みんな泣きながら逃げてくんだよな!"}
+{"sec": "map:29", "key": "If only I could make them train their Pokémon up to a \"minlevel\" before challenging me...", "en": "If only I could make them train their Pokémon up to a \"minlevel\" before challenging me...", "ja": "俺に挑む前に、せめて「最低レベル」までポケモンを鍛えさせられたらな……"}
+{"sec": "map:29", "key": "Then everyone would be almost as strong as you and I!", "en": "Then everyone would be almost as strong as you and I!", "ja": "そうすりゃ、みんな俺たちとほとんど同じくらい強くなれるのに!"}
+{"sec": "map:29", "key": "Life on the edge, man...", "en": "Life on the edge, man...", "ja": "崖っぷちの人生さ……"}
+{"sec": "map:29", "key": "Fallin' off the edge, man...", "en": "Fallin' off the edge, man...", "ja": "崖から落ちてる最中だけどな……"}
+{"sec": "map:29", "key": "Oof...", "en": "Oof...", "ja": "うっ……"}
+{"sec": "map:29", "key": "Got a Badge, huh? Think you're cool?", "en": "Got a Badge, huh? Think you're cool?", "ja": "バッジ持ってるのか? イケてるとでも思ってんのか?"}
+{"sec": "map:29", "key": "I can see why.", "en": "I can see why.", "ja": "まあ、分かる気がするよ。"}
+{"sec": "map:29", "key": "It's only one Badge, though. Don't get so worked up.", "en": "It's only one Badge, though. Don't get so worked up.", "ja": "でも、まだバッジ1個だろ。調子に乗るなよ。"}
+{"sec": "map:29", "key": "If only you knew.", "en": "If only you knew.", "ja": "知ったら驚くだろうな。"}
+{"sec": "map:29", "key": "What this city once was, was marvelous.", "en": "What this city once was, was marvelous.", "ja": "この街も、かつては素晴らしいものだったんだ。"}
+{"sec": "map:29", "key": "Sometimes you can find Pokémon running around the streets.", "en": "Sometimes you can find Pokémon running around the streets.", "ja": "たまに、通りを走り回ってるポケモンを見かけることがある。"}
+{"sec": "map:29", "key": "It's almost a better way to catch them than from the wild here.", "en": "It's almost a better way to catch them than from the wild here.", "ja": "ここの野生ポケモンを捕まえるより、そっちのほうがいいくらいだ。"}
+{"sec": "map:29", "key": "Hey. You wanna get past me? Let's see some Pokémon.", "en": "Hey. You wanna get past me? Let's see some Pokémon.", "ja": "よう。俺を通り抜けたいのか? ポケモンを見せてもらおうか。"}
+{"sec": "map:29", "key": "Oh? Well look what you got there. But do you know how to use 'em?", "en": "Oh? Well look what you got there. But do you know how to use 'em?", "ja": "ほう? なかなかやるじゃないか。でも、ちゃんと使いこなせるのか?"}
+{"sec": "map:29", "key": "...", "en": "...", "ja": "…………"}
+{"sec": "map:29", "key": "I guess I shoulda expected that from the guy to best my buddy.", "en": "I guess I shoulda expected that from the guy to best my buddy.", "ja": "俺の相棒を負かしたやつなら、こうなるのも当然か。"}
+{"sec": "map:29", "key": "Aite, you're all in.", "en": "Aite, you're all in.", "ja": "よし、通っていいぜ。"}
+{"sec": "map:29", "key": "Take this for the road.", "en": "Take this for the road.", "ja": "道中の足しにしろ。"}
+{"sec": "map:29", "key": "Don't say we never did nothin' for you.", "en": "Don't say we never did nothin' for you.", "ja": "俺たちが何もしてやらなかったなんて言わせないぜ。"}
+{"sec": "map:29", "key": "Hmph, fine, you can pass.", "en": "Hmph, fine, you can pass.", "ja": "ふん、いいだろう、通っていいぞ。"}
+{"sec": "map:29", "key": "Opal Bridge is a Trainers-only location. You know why?", "en": "Opal Bridge is a Trainers-only location. You know why?", "ja": "オパール大橋はトレーナー専用の場所だ。理由が分かるか?"}
+{"sec": "map:29", "key": "Because I said so, that's why! Now get out of here!", "en": "Because I said so, that's why! Now get out of here!", "ja": "俺がそう言ったからだ、それだけだ! さっさと消えろ!"}
+{"sec": "map:29", "key": "I was just keepin' you out for your own good, you know.", "en": "I was just keepin' you out for your own good, you know.", "ja": "お前のためを思って、入れないようにしてただけなんだぞ。"}
+{"sec": "map:29", "key": "You were on the train that blew up?", "en": "You were on the train that blew up?", "ja": "爆発した電車に乗ってたのか?"}
+{"sec": "map:29", "key": "You poor thing! Are you hurt? Here, take this Potion.", "en": "You poor thing! Are you hurt? Here, take this Potion.", "ja": "かわいそうに! 怪我はない? これ、キズぐすりをどうぞ。"}
+{"sec": "map:29", "key": "What? I know it doesn't work on humans, but just take it, okay?", "en": "What? I know it doesn't work on humans, but just take it, okay?", "ja": "え? 人間には効かないって分かってるけど、とにかく受け取っておいて、ね?"}
+{"sec": "map:29", "key": "Stay safe! This place can be rough, especially the lower wards.", "en": "Stay safe! This place can be rough, especially the lower wards.", "ja": "気をつけてね! ここは物騒だから、特に下層区は。"}
+{"sec": "map:29", "key": "Oh, it's you.", "en": "Oh, it's you.", "ja": "あ、あなたね。"}
+{"sec": "map:29", "key": "Holding up all right?", "en": "Holding up all right?", "ja": "元気にしてる?"}
+{"sec": "map:29", "key": "It's hard not to try and hope for better,", "en": "It's hard not to try and hope for better,", "ja": "つい、良くなることを願わずにはいられないし、"}
+{"sec": "map:29", "key": "And then harder to realize that things aren't better yet.", "en": "And then harder to realize that things aren't better yet.", "ja": "まだ良くなってないって気づくのは、もっとつらい。"}
+{"sec": "map:29", "key": "Keep doing your best too, okay?", "en": "Keep doing your best too, okay?", "ja": "あなたも、頑張ってね。"}
+{"sec": "map:29", "key": "Here, take this as a good luck charm.", "en": "Here, take this as a good luck charm.", "ja": "これ、お守り代わりに持ってて。"}
+{"sec": "map:29", "key": "I fished it out of the lake.", "en": "I fished it out of the lake.", "ja": "湖から釣り上げたものなの。"}
+{"sec": "map:29", "key": "Maybe it's a sign there's still life in there somewhere.", "en": "Maybe it's a sign there's still life in there somewhere.", "ja": "どこかに、まだ命が残ってる証かもしれないわね。"}
+{"sec": "map:29", "key": "It'll get better someday...", "en": "It'll get better someday...", "ja": "いつか、きっと良くなるわ……"}
+{"sec": "map:29", "key": "This place is trash.", "en": "This place is trash.", "ja": "こんな場所、ゴミだ。"}
+{"sec": "map:29", "key": "Filthy.", "en": "Filthy.", "ja": "汚らわしい。"}
+{"sec": "map:29", "key": "Absolutely horrid.", "en": "Absolutely horrid.", "ja": "まったく、おぞましい。"}
+{"sec": "map:29", "key": "...What are you lookin' at?", "en": "...What are you lookin' at?", "ja": "……何見てんだよ。"}
+{"sec": "map:29", "key": "TRAINER: Snubbull, please stay! You're driving me crazy!", "en": "TRAINER: Snubbull, please stay! You're driving me crazy!", "ja": "トレーナー: ブルー、待って! もう、どうにかなりそう!"}
+{"sec": "map:29", "key": "SNUBBULL: Shnub.", "en": "SNUBBULL: Shnub.", "ja": "ブルー: ブルー。"}
+{"sec": "map:29", "key": "TRAINER: Snubbull!", "en": "TRAINER: Snubbull!", "ja": "トレーナー: ブルー!"}
+{"sec": "map:29", "key": "Oh, not again!", "en": "Oh, not again!", "ja": "ああ、またなの!"}
+{"sec": "map:29", "key": "Oh, excuse me! I didn't mean to get in your way!", "en": "Oh, excuse me! I didn't mean to get in your way!", "ja": "あ、ごめんなさい! 邪魔するつもりはなかったの!"}
+{"sec": "map:29", "key": "It's just my Snubbull... It won't listen to me at all!", "en": "It's just my Snubbull... It won't listen to me at all!", "ja": "うちのブルーがね……まったく言うことを聞いてくれなくて!"}
+{"sec": "map:29", "key": "Ever since it became level 21, it's been totally out of control, even though I raised it from an Egg.", "en": "Ever since it became level 21, it's been totally out of control, even though I raised it from an Egg.", "ja": "レベル21になってから、すっかり手に負えなくなっちゃって。タマゴから大事に育てたのに。"}
+{"sec": "map:29", "key": "I guess I shouldn't have underestimated when I heard that Pokémon in Reborn only listen to Trainers they really respect.", "en": "I guess I shouldn't have underestimated when I heard that Pokémon in Reborn only listen to Trainers they really respect.", "ja": "リボーンのポケモンは、心から尊敬するトレーナーの言うことしか聞かないって聞いてたのに、甘く見てたのかも。"}
+{"sec": "map:29", "key": "Pokémon will always respect you up to a certain level if you have a Gym Badge, and you can see that level on your Trainer Card-- it's the first visible one.", "en": "Pokémon will always respect you up to a certain level if you have a Gym Badge, and you can see that level on your Trainer Card-- it's the first visible one.", "ja": "ジムバッジを持っていれば、ポケモンはある程度のレベルまでは必ず言うことを聞いてくれるわ。そのレベルはトレーナーズカードに表示されてる、最初の数字がそれよ。"}
+{"sec": "map:29", "key": "But, what if I can't win a Gym Badge? Is there some other way?", "en": "But, what if I can't win a Gym Badge? Is there some other way?", "ja": "でも、ジムバッジが取れなかったら? 他に方法はあるのかしら?"}
+{"sec": "map:29", "key": "Oh! I need to hurry up and find Snubbull! Good bye!", "en": "Oh! I need to hurry up and find Snubbull! Good bye!", "ja": "あ! 急いでブルーを探さなきゃ! それじゃあね!"}
+{"sec": "map:29", "key": "TRAINER: Stufful, please stay! You're driving me crazy!", "en": "TRAINER: Stufful, please stay! You're driving me crazy!", "ja": "トレーナー: ヌイコグマ、待って! もう、どうにかなりそう!"}
+{"sec": "map:29", "key": "STUFFUL: Lull~", "en": "STUFFUL: Lull~", "ja": "ヌイコグマ: ルー~"}
+{"sec": "map:29", "key": "TRAINER: Stufful!", "en": "TRAINER: Stufful!", "ja": "トレーナー: ヌイコグマ!"}
+{"sec": "map:29", "key": "It's just my Stufful... It won't listen to me at all!", "en": "It's just my Stufful... It won't listen to me at all!", "ja": "うちのヌイコグマがね……まったく言うことを聞いてくれなくて!"}
+{"sec": "map:29", "key": "Oh! I need to hurry up and find Stufful! Good bye!", "en": "Oh! I need to hurry up and find Stufful! Good bye!", "ja": "あ! 急いでヌイコグマを探さなきゃ! それじゃあね!"}
+{"sec": "map:29", "key": "STUFFUL: Lull~!", "en": "STUFFUL: Lull~!", "ja": "ヌイコグマ: ルー~!"}
+{"sec": "map:29", "key": "I'm researching Pokémon's Hidden Abilities! \\nApparently they even appear on wild Pokémon in Reborn. Help me out!", "en": "I'm researching Pokémon's Hidden Abilities! \\nApparently they even appear on wild Pokémon in Reborn. Help me out!", "ja": "ポケモンの隠れ特性を研究してるんだ!\\nリボーンじゃ野生ポケモンにも現れるらしくてね。力を貸してくれ!"}
+{"sec": "map:29", "key": "I see. So that's the normal methodology then...", "en": "I see. So that's the normal methodology then...", "ja": "なるほど、それが通常の手法というわけか……"}
+{"sec": "map:29", "key": "I'll keep looking into this!", "en": "I'll keep looking into this!", "ja": "引き続き調べてみるよ!"}
+{"sec": "map:29", "key": "Every study I've done confirms that this water is making people sick.", "en": "Every study I've done confirms that this water is making people sick.", "ja": "これまでの調査はすべて、この水が人々を病気にしていることを裏づけている。"}
+{"sec": "map:29", "key": "Why does the city keep denying it?", "en": "Why does the city keep denying it?", "ja": "なぜ市はそれを否定し続けるんだ?"}
+{"sec": "map:29", "key": "South-easterly winds are common in Reborn.", "en": "South-easterly winds are common in Reborn.", "ja": "リボーンでは南東からの風がよく吹く。"}
+{"sec": "map:29", "key": "The hot air coming in from the desert can't be helping our climate.", "en": "The hot air coming in from the desert can't be helping our climate.", "ja": "砂漠から吹き込む熱風が、この気候をさらに悪化させているに違いない。"}
+{"sec": "map:29", "key": "Do you hear the voices too? This city is rife with suffering.", "en": "Do you hear the voices too? This city is rife with suffering.", "ja": "君にも、あの声が聞こえるかい? この街は苦しみに満ちている。"}
+{"sec": "map:29", "key": "You must hear them too, to be that powerful...", "en": "You must hear them too, to be that powerful...", "ja": "君もそれだけ強いんだ、きっと聞こえてるはずだ……"}
+{"sec": "map:29", "key": "They speak, and I listen... But what do they mean? I hear whispers... \"Save often\"... I don't understand...", "en": "They speak, and I listen... But what do they mean? I hear whispers... \"Save often\"... I don't understand...", "ja": "彼らは語りかけ、私は耳を傾ける……でも、何を意味しているんだ? ささやきが聞こえる……「こまめにセーブしろ」……分からない……"}
+{"sec": "map:29", "key": "<>- Grandview Avenue\\n^ - Opal Bridge", "en": "<>- Grandview Avenue\\n^ - Opal Bridge", "ja": "<>- グランドビュー大通り\\n^ - オパール大橋"}
+{"sec": "map:29", "key": "Hey! You gotta show me where to get more cool Pokémon!", "en": "Hey! You gotta show me where to get more cool Pokémon!", "ja": "なあ! もっとかっこいいポケモンが手に入る場所、教えてくれよ!"}
+{"sec": "map:29", "key": "Yeah, like those!", "en": "Yeah, like those!", "ja": "そうそう、そういうやつ!"}
+{"sec": "map:29", "key": "So where'd ya get them? Huh? Huh?", "en": "So where'd ya get them? Huh? Huh?", "ja": "どこで手に入れたんだよ? なあ? なあ?"}
+{"sec": "map:29", "key": "Fancy a cool treat on this blazing day?", "en": "Fancy a cool treat on this blazing day?", "ja": "この炎天下、冷たいおやつでもどう?"}
+{"sec": "map:29", "key": "I'm scared...", "en": "I'm scared...", "ja": "怖いよ……"}
+{"sec": "map:29", "key": "Civilian entry to this area is currently prohibited due to suspicious activity in Obsidia Park.", "en": "Civilian entry to this area is currently prohibited due to suspicious activity in Obsidia Park.", "ja": "オブシディア公園での不審な活動により、現在この区域への民間人の立ち入りは禁止されています。"}
+{"sec": "map:29", "key": "For your safety, we ask that you turn back.", "en": "For your safety, we ask that you turn back.", "ja": "安全のため、引き返していただくようお願いします。"}
+{"sec": "map:29", "key": "???: Hey, are you \\PN?", "en": "???: Hey, are you \\PN?", "ja": "???: ねえ、あなた\\PNさん?"}
+{"sec": "map:29", "key": "I'm Victoria.", "en": "I'm Victoria.", "ja": "わたしはヴィクトリア。"}
+{"sec": "map:29", "key": "It's a pleasure to meet you, but is everything okay?", "en": "It's a pleasure to meet you, but is everything okay?", "ja": "はじめまして、でも大丈夫? 何ともない?"}
+{"sec": "map:29", "key": "I heard what happened at the station...", "en": "I heard what happened at the station...", "ja": "駅であったこと、聞いたわ……"}
+{"sec": "map:29", "key": "Well, you're here, so I guess you're all right.", "en": "Well, you're here, so I guess you're all right.", "ja": "まあ、ここに来られたってことは、無事だったのね。"}
+{"sec": "map:29", "key": "Let's go ahead and get registered.", "en": "Let's go ahead and get registered.", "ja": "とりあえず、登録を済ませましょう。"}
+{"sec": "map:29", "key": "Don't worry, it shouldn't take long. Let's go inside.", "en": "Don't worry, it shouldn't take long. Let's go inside.", "ja": "心配しないで、そんなに時間はかからないから。中に入りましょう。"}
+{"sec": "map:29", "key": "All right, back off.", "en": "All right, back off.", "ja": "よし、下がってろ。"}
+{"sec": "map:29", "key": "This here is Opal Bridge.", "en": "This here is Opal Bridge.", "ja": "ここがオパール大橋だ。"}
+{"sec": "map:29", "key": "In other words, if you wanna pass, the only way is to earn your right of way.", "en": "In other words, if you wanna pass, the only way is to earn your right of way.", "ja": "つまり、通りたければ、通行権を勝ち取るしかないってことだ。"}
+{"sec": "map:29", "key": "Have it your way.", "en": "Have it your way.", "ja": "好きにしろよ。"}
+{"sec": "map:29", "key": "So you beat both me and my buddy, huh.", "en": "So you beat both me and my buddy, huh.", "ja": "俺も相棒も、両方負かしたってわけか。"}
+{"sec": "map:29", "key": "Fine. Take a peace offering.", "en": "Fine. Take a peace offering.", "ja": "分かったよ。これで手打ちだ。"}
+{"sec": "map:29", "key": "All right, go ahead.", "en": "All right, go ahead.", "ja": "よし、行っていいぞ。"}
+{"sec": "map:29", "key": "That means Trainers only.", "en": "That means Trainers only.", "ja": "つまり、トレーナー限定ってことだ。"}
+{"sec": "map:29", "key": "That means NOT YOU.", "en": "That means NOT YOU.", "ja": "つまり、お前は対象外ってことだ。"}
+{"sec": "map:29", "key": "Not my business.", "en": "Not my business.", "ja": "俺には関係ない。"}
+{"sec": "map:29", "key": "Well, well, look what the cat dragged in.", "en": "Well, well, look what the cat dragged in.", "ja": "おやおや、誰かと思えば。"}
+{"sec": "map:29", "key": "Torn to shreds...", "en": "Torn to shreds...", "ja": "ズタズタにされた……"}
+{"sec": "map:29", "key": "I guess I'm just a lost paws.", "en": "I guess I'm just a lost paws.", "ja": "あたしはただの、迷い猫ってわけね。"}
+{"sec": "map:29", "key": "You beat a Gym Leader. Well, aren't you fancy?", "en": "You beat a Gym Leader. Well, aren't you fancy?", "ja": "ジムリーダーを倒したのか。ずいぶんとやるじゃないか。"}
+{"sec": "map:29", "key": "And fancy is as fancy does.", "en": "And fancy is as fancy does.", "ja": "やるやつは、やって見せるもんだ。"}
+{"sec": "map:29", "key": "Good game.", "en": "Good game.", "ja": "いい勝負だった。"}
+{"sec": "map:29", "key": "This area is on lockdown due to the destruction. Entry is forbidden.", "en": "This area is on lockdown due to the destruction.  Entry is forbidden.", "ja": "この区域は被害により封鎖中です。立ち入り禁止。"}
+{"sec": "map:29", "key": "Proceed with caution.", "en": "Proceed with caution.", "ja": "十分注意して進んでください。"}
+{"sec": "map:29", "key": "Could I get a penny from you?", "en": "Could I get a penny from you?", "ja": "小銭、恵んでくれない?"}
+{"sec": "map:29", "key": "Guess that's a 'no', then.", "en": "Guess that's a 'no', then.", "ja": "……ダメってことね。"}
+{"sec": "map:29", "key": "You can come see me when you get a little older, though.", "en": "You can come see me when you get a little older, though.", "ja": "でも、もうちょっと大きくなったら、また会いに来てね。"}
+{"sec": "map:29", "key": "What? Another Trainer? Eh... I guess I'll battle.", "en": "What? Another Trainer? Eh... I guess I'll battle.", "ja": "は? また別のトレーナー? はぁ……まあ、戦ってやるか。"}
+{"sec": "map:29", "key": "I knew it would end like this...", "en": "I knew it would end like this...", "ja": "こうなると分かってたよ……"}
+{"sec": "map:29", "key": "Eh, I'll just go pick on Mikey.", "en": "Eh, I'll just go pick on Mikey.", "ja": "ま、マイキーでもいじめに行くか。"}
+{"sec": "map:29", "key": "Hello there! Fancy a battle?", "en": "Hello there! Fancy a battle?", "ja": "こんにちは! バトルでもどう?"}
+{"sec": "map:29", "key": "W-what?", "en": "W-what?", "ja": "な、何?"}
+{"sec": "map:29", "key": "This wasn't supposed to happen! Ame...", "en": "This wasn't supposed to happen! Ame...", "ja": "こんなはずじゃなかったのに! アメ……"}
+{"sec": "map:29", "key": "The sudden growth has caused the ground to split apart all over the ward... This is terrible...", "en": "The sudden growth has caused the ground to split apart all over the ward... This is terrible...", "ja": "急激な成長で、ワード中の地面が裂けてしまって……ひどいことになってる……"}
+{"sec": "map:29", "key": "Hm... Obsidia seems to have stabilized quickly...", "en": "Hm... Obsidia seems to have stabilized quickly...", "ja": "うーん……オブシディアは、意外と早く安定したみたいね……"}
+{"sec": "map:29", "key": "LILLIPUP: Liiiii... Ruff!", "en": "LILLIPUP: Liiiii... Ruff!", "ja": "ヨーテリー: リィィ……ワン!"}
+{"sec": "map:29", "key": "Lillipup ran away again!", "en": "Lillipup ran away again!", "ja": "ヨーテリーがまた逃げちゃった!"}
+{"sec": "map:29", "key": "That way is the old Yureyu building.", "en": "That way is the old Yureyu building.", "ja": "あっちは、昔のユレユのビルだよ。"}
+{"sec": "map:29", "key": "A few years ago, they were the corporate powerhouse of Reborn.", "en": "A few years ago, they were the corporate powerhouse of Reborn.", "ja": "数年前は、リボーンきっての大企業だったんだ。"}
+{"sec": "map:29", "key": "Then the earthquakes started. The area became this mess you see now, the company had to shut down.", "en": "Then the earthquakes started. The area became this mess you see now, the company had to shut down.", "ja": "それから地震が始まって。この辺りは見ての通りめちゃくちゃになって、会社も畳まざるを得なかった。"}
+{"sec": "map:29", "key": "Feels bad, man.", "en": "Feels bad, man.", "ja": "つらいよな。"}
+{"sec": "map:29", "key": "A few years ago, they were the corporate Powerhouse of Reborn.", "en": "A few years ago, they were the corporate Powerhouse of Reborn.", "ja": "数年前は、リボーンきっての大企業だったんだ。"}
+{"sec": "map:29", "key": "You just do that. I ain't gonna mess with you.", "en": "You just do that. I ain't gonna mess with you.", "ja": "勝手にしろよ。俺は関わらないからな。"}
+{"sec": "map:29", "key": "Hey, can't you see we're busy here? Scat!", "en": "Hey, can't you see we're busy here? Scat!", "ja": "おい、見て分かんねえのか、こっちは忙しいんだよ? 消えろ!"}
+{"sec": "map:29", "key": "...Uhrr...", "en": "...Uhrr...", "ja": "……うぐ……"}
+{"sec": "map:29", "key": "Uh... Right, do whatever you want.", "en": "Uh... Right, do whatever you want.", "ja": "あー……もういい、好きにしろよ。"}
+{"sec": "map:29", "key": "THUG: Hey, little Pokémon... You like to swim, right?", "en": "THUG: Hey, little Pokémon... You like to swim, right?", "ja": "チンピラ: おい、ちっこいポケモン……泳ぐの好きなんだろ?"}
+{"sec": "map:29", "key": "ZIGZAGOON: Ziigggrr!", "en": "ZIGZAGOON: Ziigggrr!", "ja": "ジグザグマ: ジィィグ!"}
+{"sec": "map:29", "key": "PACHIRISU: P-p-pa...", "en": "PACHIRISU: P-p-pa...", "ja": "パチリス: パ、パ、パ……"}
+{"sec": "map:29", "key": "HOOD: Heh, if you don't do exactly as we say, we'll throw you right over the balcony.", "en": "HOOD: Heh, if you don't do exactly as we say, we'll throw you right over the balcony.", "ja": "フード: へへ、言うこと聞かないと、そのままバルコニーから放り投げるぞ。"}
+{"sec": "map:29", "key": "Hey, back off, punk, this is our find.", "en": "Hey, back off, punk, this is our find.", "ja": "おい、引っ込んでろ、坊主。これは俺たちの獲物だ。"}
+{"sec": "map:29", "key": "You wanna do something about it?", "en": "You wanna do something about it?", "ja": "文句あるのか?"}
+{"sec": "map:29", "key": "With just one Pokémon? Yea, right. You can't take the both of us on with just that.", "en": "With just one Pokémon? Yea, right. You can't take the both of us on with just that.", "ja": "たった1匹で? はっ、無理に決まってんだろ。それで俺たち2人を相手にできるわけねえ。"}
+{"sec": "map:29", "key": "Hmph...", "en": "Hmph...", "ja": "フン……"}
+{"sec": "map:29", "key": "Eyyy... All right, all right already.", "en": "Eyyy... All right, all right already.", "ja": "おいおい……分かった、分かったって。"}
+{"sec": "map:29", "key": "Pah. Fine, we'll stop.", "en": "Pah. Fine, we'll stop.", "ja": "チッ。分かったよ、やめてやる。"}
+{"sec": "map:29", "key": "We don't want no more trouble.", "en": "We don't want no more trouble.", "ja": "これ以上面倒はごめんだ。"}
+{"sec": "map:29", "key": "ZIGZAGOON: Zig? Zag-zag!", "en": "ZIGZAGOON: Zig? Zag-zag!", "ja": "ジグザグマ: ジグ? ザグザグ!"}
+{"sec": "map:29", "key": "Zigzagoon seems to want to join your party. Will you accept Zigzagoon?", "en": "Zigzagoon seems to want to join your party. Will you accept Zigzagoon?", "ja": "ジグザグマは、あなたの仲間になりたそうだ。ジグザグマを迎え入れますか?"}
+{"sec": "map:29", "key": "There was no room for Zigzagoon.", "en": "There was no room for Zigzagoon.", "ja": "ジグザグマを入れる余地がなかった。"}
+{"sec": "map:29", "key": "ZIGZAGOON: Zigzag...", "en": "ZIGZAGOON: Zigzag...", "ja": "ジグザグマ: ジグザグ……"}
+{"sec": "map:29", "key": "PACHIRISU: P-pa-pa?", "en": "PACHIRISU: P-pa-pa?", "ja": "パチリス: パ、パパ?"}
+{"sec": "map:29", "key": "Pachi! Pachi-pachi!", "en": "Pachi! Pachi-pachi!", "ja": "パチ! パチパチ!"}
+{"sec": "map:29", "key": "Pachirisu seems to want to join your party. Will you accept Pachirisu?", "en": "Pachirisu seems to want to join your party. Will you accept Pachirisu?", "ja": "パチリスは、あなたの仲間になりたそうだ。パチリスを迎え入れますか?"}
+{"sec": "map:29", "key": "There was no room for Pachirisu.", "en": "There was no room for Pachirisu.", "ja": "パチリスを入れる余地がなかった。"}
+{"sec": "map:29", "key": "PACHIRISU: Pachi...", "en": "PACHIRISU: Pachi...", "ja": "パチリス: パチ……"}
+{"sec": "map:29", "key": "'Eyy, we backed off, now you back off.", "en": "'Eyy, we backed off, now you back off.", "ja": "おい、俺たちは引いたんだ、今度はお前が引く番だ。"}
+{"sec": "map:29", "key": "HOOD: Heh, if you don't do exactly as we say, we'll throw you right over the bridge.", "en": "HOOD: Heh, if you don't do exactly as we say, we'll throw you right over the bridge.", "ja": "フード: へへ、言うこと聞かないと、そのまま橋から放り投げるぞ。"}
+{"sec": "map:29", "key": "'Eyy, you messin' up our game. Shoo, fly.", "en": "'Eyy, you messin' up our game. Shoo, fly.", "ja": "おい、俺たちの邪魔すんな。とっとと消えろ。"}
+{"sec": "map:29", "key": "'Less you gonna stop us.", "en": "'Less you gonna stop us.", "ja": "止めるってんなら、話は別だがな。"}
+{"sec": "map:29", "key": "An' you can't! You only got one Pokémon! For two people? What a joke!", "en": "An' you can't! You only got one Pokémon! For two people? What a joke!", "ja": "でも無理だろ! ポケモン1匹で俺たち2人相手にか? 笑わせるな!"}
+{"sec": "map:29", "key": "Perhaps this city shall be a fitting entrance to my battling career.", "en": "Perhaps this city shall be a fitting entrance to my battling career.", "ja": "この街は、俺のバトラー人生の幕開けにふさわしいのかもしれない。"}
+{"sec": "map:29", "key": "Perhaps I should stop battling and start traveling again after all.", "en": "Perhaps I should stop battling and start traveling again after all.", "ja": "やっぱり、バトルはやめて、また旅に出たほうがいいのかもな。"}
+{"sec": "map:29", "key": "Well, a man has got to settle down some time.", "en": "Well, a man has got to settle down some time.", "ja": "まあ、男たるもの、いつかは落ち着かなきゃな。"}
+{"sec": "map:29", "key": "This area is on lockdown due to a recent threat that Reborn Police were tipped off to.", "en": "This area is on lockdown due to a recent threat that Reborn Police were tipped off to.", "ja": "リボーン警察に寄せられた通報を受け、この区域は現在封鎖されています。"}
+{"sec": "map:29", "key": "Please move along.", "en": "Please move along.", "ja": "お立ち去りください。"}
+{"sec": "map:29", "key": "The way will be open once it is deemed safe.", "en": "The way will be open once it is deemed safe.", "ja": "安全が確認され次第、通行できるようになります。"}
+{"sec": "map:29", "key": "I'm not really psychic. I wonder if you know how I levitate these?", "en": "I'm not really psychic. I wonder if you know how I levitate these?", "ja": "実は超能力者じゃないんだ。これをどうやって浮かせてるか、分かるかい?"}
+{"sec": "map:29", "key": "It's electromagnetism!", "en": "It's electromagnetism!", "ja": "電磁気だよ!"}
+{"sec": "map:29", "key": "Shhh. Don't tell anyone.", "en": "Shhh. Don't tell anyone.", "ja": "しーっ。誰にも言うなよ。"}
+{"sec": "map:29", "key": "~ We're doing fine, and it gets better everytime ~ \\n~ We're doing fine, but I'll let you decide! ~", "en": "~ We're doing fine, and it gets better everytime ~ \\n~ We're doing fine, but I'll let you decide! ~", "ja": "~ 僕らは大丈夫、いつだって良くなってく ~\\n~ 僕らは大丈夫、でも決めるのは君さ! ~"}
+{"sec": "map:29", "key": "~ And we've got everybody singing... ~", "en": "~ And we've got everybody singing... ~", "ja": "~ みんなで歌ってる…… ~"}
+{"sec": "map:29", "key": "I don't want to start over again...", "en": "I don't want to start over again...", "ja": "もう一度やり直すのは、嫌だな……"}
+{"sec": "map:29", "key": "Hello! I come from very far away, and wish to test your Pokémon's abilities!", "en": "Hello! I come from very far away, and wish to test your Pokémon's abilities!", "ja": "こんにちは! はるばる遠くからやってきました、あなたのポケモンの実力を試させてください!"}
+{"sec": "map:29", "key": "It seems you were too strong for me...", "en": "It seems you were too strong for me...", "ja": "わたしには、強すぎたみたいです……"}
+{"sec": "map:29", "key": "At the end of the day, I still have my music!", "en": "At the end of the day, I still have my music!", "ja": "でも結局のところ、わたしには音楽があります!"}
+{"sec": "map:29", "key": "LILLIPUP: Ruff! Ruff! Rrrrrr!", "en": "LILLIPUP: Ruff! Ruff! Rrrrrr!", "ja": "ヨーテリー: ワン! ワン! ウゥゥ!"}
+{"sec": "map:29", "key": "Yes", "en": "Yes", "ja": "はい"}
+{"sec": "map:29", "key": "No", "en": "No", "ja": "いいえ"}

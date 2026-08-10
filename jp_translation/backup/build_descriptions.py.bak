@@ -1,0 +1,511 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""Pokemon Reborn 日本語化: 説明文セクションを公式日本語テキストで埋める。
+
+対象 (jp_translation/work/src/):
+    02_kinds.jsonl            ポケモンの分類  <- pokemon_species_names.csv (genus)
+    03_entries.jsonl          図鑑説明        <- pokemon_species_flavor_text.csv
+    06_move_descriptions.jsonl 技の説明       <- move_flavor_text.csv
+    08_item_descriptions.jsonl 道具の説明     <- item_flavor_text.csv
+    10_ability_descs.jsonl    特性の説明      <- ability_flavor_text.csv
+
+方針:
+  - 名前セクション (01/05/07/09) の同じ key から英語名を引き、PokeAPI の
+    英語名 (language_id=9) と突き合わせて ID を得る。
+  - その ID の flavor text のうち、
+      1. ゲーム内英語原文と完全一致する版があればその版の日本語 (最も忠実)
+      2. 無ければ VERSION_PRIORITY の新しい版の日本語
+    を採用する。
+  - 公式に無いもの (Reborn 独自アイテム等) は custom_descriptions.json の
+    手訳を使う。どちらも無ければ空のまま残し、レポートに出す。
+  - 公式テキストの改行 \n は全角スペースに畳む (Reborn の表示枠は幅が違うので
+    自動折り返しに任せる)。単語区切りの全角スペース U+3000 はそのまま。
+  - 既に ja が入っている行は上書きしない。
+
+使い方:
+    python3 jp_translation/tools/build_descriptions.py [--dry-run]
+ゲームルートから実行すること。
+"""
+import argparse
+import csv
+import difflib
+import json
+import os
+import re
+import sys
+import unicodedata
+import urllib.request
+from collections import defaultdict
+
+CSV_BASE = "https://raw.githubusercontent.com/PokeAPI/pokeapi/master/data/v2/csv/"
+CSV_FILES = [
+    "languages.csv",
+    "pokemon_species_names.csv",
+    "pokemon_species_flavor_text.csv",
+    "move_names.csv",
+    "move_flavor_text.csv",
+    "ability_names.csv",
+    "ability_flavor_text.csv",
+    "item_names.csv",
+    "item_flavor_text.csv",
+]
+
+LANG_JA = 1      # ja-Hrkt (かな表記 = ゲーム内表記)
+LANG_EN = 9
+
+HERE = os.path.dirname(os.path.abspath(__file__))
+GAME_DIR = os.path.abspath(os.path.join(HERE, "..", ".."))
+CSV_DIR = os.path.join(HERE, "pokeapi_csv")
+SRC_DIR = os.path.join(HERE, "..", "work", "src")
+WORK_DIR = os.path.abspath(os.path.join(HERE, "..", "work"))
+CUSTOM_PATH = os.path.join(HERE, "custom_descriptions.json")
+
+csv.field_size_limit(10 ** 7)
+
+# 図鑑説明で使う version_id の優先順 (新しい順)。
+# USUM -> SM -> ORAS -> XY -> ... と辿り、最後に SwSh 系で gen8 を拾う。
+VERSION_PRIORITY = [
+    30, 29,          # ultra-moon / ultra-sun
+    34, 33,          # shield / sword
+    28, 27,          # moon / sun
+    26, 25,          # alpha-sapphire / omega-ruby
+    24, 23,          # y / x
+    22, 21,          # white-2 / black-2
+    18, 17,          # white / black
+    32, 31,          # lets-go-eevee / lets-go-pikachu
+    16, 15,          # soulsilver / heartgold
+    14, 13, 12,      # platinum / pearl / diamond
+    9, 11, 10, 8, 7, # emerald / leafgreen / firered / sapphire / ruby
+    6, 5, 4, 3, 2, 1,
+    38, 37,          # shining-pearl / brilliant-diamond
+    41, 40,          # violet / scarlet
+    39,              # legends-arceus
+]
+
+# 技/道具/特性で使う version_group_id の優先順。
+# Reborn は第7世代ベースなので USUM(18) を基準にし、SwSh(20) は
+# 第8世代で追加された技/道具を拾うためだけに後ろへ回す。
+# (SwSh で使えなくなった技には「このわざは　つかえません」という
+#  プレースホルダしか入っていないため、先頭に置くと 46 件が壊れる)
+VG_PRIORITY = [
+    18, 17, 16, 15, 14, 11, 10, 9, 8, 7, 6, 5, 4, 3, 2, 1,
+    20, 19, 12, 13, 23, 24, 25, 26, 27,
+]
+
+# 特性の説明だけは XY/ORAS(15/16) を優先する。
+# ステータス画面の特性説明欄は 282px x 2行 しかなく (Summary.rb:575)、
+# 第7世代以降の長い説明だと 146/258 件があふれて切れてしまう。
+# XY/ORAS の 2行版なら公式テキストのまま 45 件まで減らせる。
+AB_VG_PRIORITY = [
+    16, 15, 14, 11, 10, 9, 8, 7, 6, 5, 4, 3, 2, 1,
+    18, 17, 20, 19, 12, 13, 23, 24, 25, 26, 27,
+]
+
+# 「そのバージョンでは使えない」旨のプレースホルダ。説明文としては使えない。
+PLACEHOLDER_EN = re.compile(r"can'?t be used|cannot be used", re.I)
+PLACEHOLDER_JA = re.compile(r"つかえません|使えません")
+
+# ゲーム側の英語名 -> PokeAPI の正式英語名 (build_glossary.py と同内容 + 追加)
+ALIASES = {
+    "moves": {
+        "Vice Grip": "Vise Grip",
+        "Nature Madness": "Nature's Madness",
+        "Stomp Tantrum": "Stomping Tantrum",
+    },
+    "abilities": {
+        "Alchemy Power": "Power of Alchemy",
+        "Queen Majesty": "Queenly Majesty",
+        "Water Compact": "Water Compaction",
+        "Power Constr.": "Power Construct",
+    },
+    "items": {
+        "Pretty Wing": "Pretty Feather",
+        "Health Wing": "Health Feather",
+        "Muscle Wing": "Muscle Feather",
+        "Resist Wing": "Resist Feather",
+        "Genius Wing": "Genius Feather",
+        "Clever Wing": "Clever Feather",
+        "Swift Wing": "Swift Feather",
+        "Stick": "Leek",
+        "X Defend": "X Defense",
+        "Itemfinder": "Dowsing Machine",
+        "Dowsing MCHN": "Dowsing Machine",
+        # "Membership Card" は Reborn が別物に作り替えているので公式説明は使わない
+    },
+}
+
+# TM/HM/TMX アイテム。Items.rb の getItemDescription は pbIsTM? のとき
+# getMoveDesc を返すので、説明は「その TM が覚えさせる技の説明」である。
+# 原文を公式の英語 flavor text と突き合わせて技を特定し、06 の日本語を流用する。
+TM_NAME_RE = re.compile(r"^(TM|HM|TMX)\d+$")
+
+# 原文が書き換えられていて自動判別できないもの
+TM_MOVE_OVERRIDE = {
+    "TM100": "Confide",
+    "TMX9": "Rock Climb",
+}
+
+# Reborn は三人称を they/their に書き換えているので、突き合わせ前に戻す
+PRONOUNS = [
+    ("themselves", "itself"), ("theirs", "its"), ("their", "its"),
+    ("them", "it"), ("they are", "it is"), ("they", "it"),
+]
+
+
+# ---------------------------------------------------------------- 共通
+def normalize(name: str) -> str:
+    s = unicodedata.normalize("NFKD", name)
+    s = "".join(c for c in s if not unicodedata.combining(c))
+    s = s.replace("♀", "f").replace("♂", "m")
+    s = s.replace("’", "'").replace("é", "e")
+    s = s.lower()
+    return re.sub(r"[^a-z0-9]+", "", s)
+
+
+def txtkey(s: str) -> str:
+    """flavor text 比較用の正規化 (改行/ソフトハイフン/記号ゆれを吸収)。"""
+    s = s.replace("­\n", "").replace("­", "")
+    s = s.replace("\x0c", " ").replace("\n", " ")
+    s = s.replace("’", "'").replace("‘", "'").replace("é", "e")
+    s = s.replace("—", "-").replace("–", "-").replace("“", '"').replace("”", '"')
+    s = s.lower()
+    s = re.sub(r"[^a-z0-9]+", " ", s)
+    return s.strip()
+
+
+def movekey(s: str) -> str:
+    """技の説明の突き合わせ用。txtkey に加えて人称表記のゆれも吸収する。"""
+    k = txtkey(s)
+    for a, b in PRONOUNS:
+        k = re.sub(r"\b%s\b" % a, b, k)
+    return re.sub(r"\s+", " ", k).strip()
+
+
+def ja_clean(s: str) -> str:
+    """公式日本語 flavor text をゲームの1行文字列に畳む。"""
+    s = s.replace("­", "")
+    s = s.replace("\x0c", "　").replace("\r", "")
+    s = s.replace("\n", "　")
+    s = s.replace(" ", "　")          # 半角スペースは使わない
+    s = re.sub(r"　{2,}", "　", s)
+    return s.strip("　 ")
+
+
+def ensure_csv():
+    os.makedirs(CSV_DIR, exist_ok=True)
+    for f in CSV_FILES:
+        p = os.path.join(CSV_DIR, f)
+        if not os.path.exists(p):
+            sys.stderr.write("downloading %s\n" % f)
+            urllib.request.urlretrieve(CSV_BASE + f, p)
+
+
+def rd(fname):
+    with open(os.path.join(CSV_DIR, fname), encoding="utf-8") as fh:
+        return list(csv.DictReader(fh))
+
+
+def read_jsonl(name):
+    path = os.path.join(SRC_DIR, name)
+    with open(path, encoding="utf-8") as fh:
+        return [json.loads(l) for l in fh if l.strip()]
+
+
+def write_jsonl(name, rows):
+    path = os.path.join(SRC_DIR, name)
+    with open(path, "w", encoding="utf-8") as fh:
+        for r in rows:
+            fh.write(json.dumps(r, ensure_ascii=False) + "\n")
+
+
+def name_to_id(fname, id_col):
+    out = {}
+    for r in rd(fname):
+        if int(r["local_language_id"]) == LANG_EN:
+            out.setdefault(normalize(r["name"]), r[id_col])
+    return out
+
+
+def flavor_index(fname, id_col, group_col):
+    """id -> {group: {lang: text}}"""
+    idx = defaultdict(lambda: defaultdict(dict))
+    for r in rd(fname):
+        idx[r[id_col]][r[group_col]][r["language_id"]] = r["flavor_text"]
+    return idx
+
+
+def usable_ja(langs):
+    """その版の日本語テキスト。プレースホルダなら None。"""
+    ja = langs.get(str(LANG_JA))
+    if not ja or PLACEHOLDER_JA.search(ja):
+        return None
+    en = langs.get(str(LANG_EN))
+    if en and PLACEHOLDER_EN.search(en):
+        return None
+    return ja
+
+
+def pick_official(groups, en_text, priority):
+    """英語原文一致を優先し、無ければ priority 順に日本語を返す。(ja, how)"""
+    want = txtkey(en_text)
+    for g, langs in groups.items():
+        ja = usable_ja(langs)
+        en = langs.get(str(LANG_EN))
+        if ja and en and txtkey(en) == want:
+            return ja_clean(ja), "exact"
+    for g in priority:
+        langs = groups.get(str(g))
+        if langs:
+            ja = usable_ja(langs)
+            if ja:
+                return ja_clean(ja), "version"
+    # priority に無い版しか無い場合
+    for g, langs in sorted(groups.items(), key=lambda kv: -int(kv[0])):
+        ja = usable_ja(langs)
+        if ja:
+            return ja_clean(ja), "version"
+    return None, None
+
+
+# ---------------------------------------------------------------- 各セクション
+def build():
+    ensure_csv()
+    custom = {}
+    if os.path.exists(CUSTOM_PATH):
+        custom = json.load(open(CUSTOM_PATH, encoding="utf-8"))
+
+    stats = {}
+    customlog = defaultdict(list)
+
+    def apply(rows, getter, label, custom_key):
+        # custom_descriptions.json は「公式が無い」ものだけでなく
+        # 「Reborn が内容を変えたので公式が使えない」ものも入るので official より優先する。
+        cmap = custom.get(custom_key, {})
+        n_off = n_cus = n_skip = n_empty = 0
+        empties = []
+        for d in rows:
+            if d.get("ja"):
+                n_skip += 1
+                continue
+            ja = cmap.get(str(d["key"]))
+            if ja:
+                d["ja"] = ja
+                n_cus += 1
+                customlog[label].append((d["key"], d["en"], ja))
+                continue
+            ja, how = getter(d)
+            if ja:
+                d["ja"] = ja
+                n_off += 1
+                continue
+            n_empty += 1
+            empties.append((d["key"], d["en"]))
+        stats[label] = dict(total=len(rows), official=n_off, custom=n_cus,
+                            already=n_skip, empty=n_empty, empties=empties)
+
+    species_names = {d["key"]: d["en"] for d in read_jsonl("01_species.jsonl")}
+    move_names = {d["key"]: d["en"] for d in read_jsonl("05_moves.jsonl")}
+    item_names = {d["key"]: d["en"] for d in read_jsonl("07_items.jsonl")}
+    abil_names = {d["key"]: d["en"] for d in read_jsonl("09_abilities.jsonl")}
+
+    # ---------------- 02 分類 (genus)
+    genus = {}
+    sp_en = {}
+    for r in rd("pokemon_species_names.csv"):
+        lang = int(r["local_language_id"])
+        if lang == LANG_JA:
+            genus[r["pokemon_species_id"]] = r["genus"]
+        elif lang == LANG_EN:
+            sp_en.setdefault(normalize(r["name"]), r["pokemon_species_id"])
+
+    def species_id(key):
+        """図鑑番号 = species_id。念のため英語名でも照合する。"""
+        sid = str(key)
+        if sid in genus or sid in set(sp_en.values()):
+            return sid
+        return sp_en.get(normalize(species_names.get(key, "")))
+
+    def get_kind(d):
+        sid = species_id(d["key"])
+        g = genus.get(sid) if sid else None
+        if not g:
+            return None, None
+        g = g.replace("ポケモン", "")
+        return (g.strip("　 ") or None), "official"
+
+    rows = read_jsonl("02_kinds.jsonl")
+    apply(rows, get_kind, "02_kinds", "kinds")
+    kinds_rows = rows
+
+    # ---------------- 03 図鑑説明
+    sp_flav = flavor_index("pokemon_species_flavor_text.csv", "species_id", "version_id")
+
+    def get_entry(d):
+        sid = species_id(d["key"])
+        groups = sp_flav.get(sid) if sid else None
+        if not groups:
+            return None, None
+        return pick_official(groups, d["en"], VERSION_PRIORITY)
+
+    entries_rows = read_jsonl("03_entries.jsonl")
+    apply(entries_rows, get_entry, "03_entries", "entries")
+
+    # ---------------- 06 技の説明
+    mv_id = name_to_id("move_names.csv", "move_id")
+    mv_flav = flavor_index("move_flavor_text.csv", "move_id", "version_group_id")
+
+    def get_move(d):
+        nm = move_names.get(d["key"])
+        if not nm:
+            return None, None
+        nm = ALIASES["moves"].get(nm, nm)
+        mid = mv_id.get(normalize(nm))
+        groups = mv_flav.get(mid) if mid else None
+        if not groups:
+            return None, None
+        return pick_official(groups, d["en"], VG_PRIORITY)
+
+    move_rows = read_jsonl("06_move_descriptions.jsonl")
+    apply(move_rows, get_move, "06_move_descriptions", "moves")
+
+    # ---------------- TM/HM アイテム -> 技 の対応づけ
+    # 公式の英語 flavor text -> move_id
+    en_to_move = {}
+    for mid, groups in mv_flav.items():
+        for vg, langs in groups.items():
+            en = langs.get(str(LANG_EN))
+            if en and not PLACEHOLDER_EN.search(en):
+                en_to_move.setdefault(movekey(en), mid)
+    # move_id -> 06 の日本語
+    mvname_by_id = {}
+    for r in rd("move_names.csv"):
+        if int(r["local_language_id"]) == LANG_EN:
+            mvname_by_id[r["move_id"]] = r["name"]
+    ja_by_movename = {}
+    for d in move_rows:
+        if d.get("ja"):
+            nm = move_names.get(d["key"])
+            if nm:
+                ja_by_movename.setdefault(normalize(ALIASES["moves"].get(nm, nm)), d["ja"])
+
+    def tm_move_ja(item_name, en_text):
+        forced = TM_MOVE_OVERRIDE.get(item_name)
+        if forced:
+            return ja_by_movename.get(normalize(forced))
+        k = movekey(en_text)
+        mid = en_to_move.get(k)
+        if mid is None:
+            best_r, best_mid = 0.0, None
+            for ek, m in en_to_move.items():
+                r = difflib.SequenceMatcher(None, ek, k).ratio()
+                if r > best_r:
+                    best_r, best_mid = r, m
+            if best_r >= 0.72:
+                mid = best_mid
+        if mid is None:
+            return None
+        return ja_by_movename.get(normalize(mvname_by_id.get(mid, "")))
+
+    # ---------------- 08 道具の説明
+    it_id = name_to_id("item_names.csv", "item_id")
+    it_flav = flavor_index("item_flavor_text.csv", "item_id", "version_group_id")
+
+    def get_item(d):
+        nm = item_names.get(d["key"])
+        # TM/HM/TMX は実行時に技の説明が表示される (Items.rb getItemDescription)。
+        # 公式 TM 番号とは中身が違うので、原文から技を特定して 06 の訳を流用する。
+        if nm and TM_NAME_RE.match(nm):
+            hit = tm_move_ja(nm, d["en"])
+            if hit:
+                return hit, "move"
+            return None, None
+        if not nm:
+            return None, None
+        nm = ALIASES["items"].get(nm, nm)
+        iid = it_id.get(normalize(nm))
+        groups = it_flav.get(iid) if iid else None
+        if not groups:
+            return None, None
+        return pick_official(groups, d["en"], VG_PRIORITY)
+
+    item_rows = read_jsonl("08_item_descriptions.jsonl")
+    apply(item_rows, get_item, "08_item_descriptions", "items")
+
+    # ---------------- 10 特性の説明
+    ab_id = name_to_id("ability_names.csv", "ability_id")
+    ab_flav = flavor_index("ability_flavor_text.csv", "ability_id", "version_group_id")
+
+    def get_abil(d):
+        nm = abil_names.get(d["key"])
+        if not nm:
+            return None, None
+        nm = ALIASES["abilities"].get(nm, nm)
+        aid = ab_id.get(normalize(nm))
+        groups = ab_flav.get(aid) if aid else None
+        if not groups:
+            return None, None
+        return pick_official(groups, d["en"], AB_VG_PRIORITY)
+
+    abil_rows = read_jsonl("10_ability_descs.jsonl")
+    apply(abil_rows, get_abil, "10_ability_descs", "abilities")
+
+    return {
+        "02_kinds.jsonl": kinds_rows,
+        "03_entries.jsonl": entries_rows,
+        "06_move_descriptions.jsonl": move_rows,
+        "08_item_descriptions.jsonl": item_rows,
+        "10_ability_descs.jsonl": abil_rows,
+    }, stats, customlog
+
+
+def main():
+    ap = argparse.ArgumentParser()
+    ap.add_argument("--dry-run", action="store_true")
+    a = ap.parse_args()
+
+    files, stats, customlog = build()
+
+    if not a.dry_run:
+        for name, rows in files.items():
+            write_jsonl(name, rows)
+
+        # 独自訳の一覧
+        out = ["# 説明文セクション: 公式テキストが無く独自に翻訳したもの", ""]
+        for label in sorted(customlog):
+            items = customlog[label]
+            out.append("## %s (%d件)" % (label, len(items)))
+            out.append("")
+            out.append("| key | English | 日本語 |")
+            out.append("| --- | --- | --- |")
+            for k, en, ja in items:
+                out.append("| %s | %s | %s |" % (
+                    k, en.replace("|", "\\|"), ja.replace("|", "\\|")))
+            out.append("")
+        empt = []
+        for label, s in stats.items():
+            for k, en in s["empties"]:
+                empt.append((label, k, en))
+        if empt:
+            out.append("## 未翻訳のまま残ったもの (%d件)" % len(empt))
+            out.append("")
+            out.append("| section | key | English |")
+            out.append("| --- | --- | --- |")
+            for label, k, en in empt:
+                out.append("| %s | %s | %s |" % (label, k, en.replace("|", "\\|")))
+            out.append("")
+        with open(os.path.join(WORK_DIR, "descriptions_custom.md"), "w",
+                  encoding="utf-8") as fh:
+            fh.write("\n".join(out) + "\n")
+
+    print("%-24s %6s %8s %7s %8s %6s" % ("section", "total", "official", "custom", "already", "empty"))
+    for label in sorted(stats):
+        s = stats[label]
+        print("%-24s %6d %8d %7d %8d %6d" % (
+            label, s["total"], s["official"], s["custom"], s["already"], s["empty"]))
+    for label in sorted(stats):
+        for k, en in stats[label]["empties"][:200]:
+            print("  EMPTY %s %s  %s" % (label, k, en[:80]))
+
+
+if __name__ == "__main__":
+    main()

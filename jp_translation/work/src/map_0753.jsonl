@@ -1,0 +1,413 @@
+{"sec": "map:753", "key": "It's an ice cream vending machine.\\nWhich flavor would you like?\\G", "en": "It's an ice cream vending machine.\\nWhich flavor would you like?\\G", "ja": "アイスクリームの自動販売機だ。\\nどの味にする?\\G"}
+{"sec": "map:753", "key": "\\G...Wait, what?", "en": "\\G...Wait, what?", "ja": "\\G……え、ちょっと待って?"}
+{"sec": "map:753", "key": "\\GBlue Moon Ice Cream dropped down!", "en": "\\GBlue Moon Ice Cream dropped down!", "ja": "\\Gブルームーンアイスが出てきた!"}
+{"sec": "map:753", "key": "\\GVanilla Ice Cream dropped down!", "en": "\\GVanilla Ice Cream dropped down!", "ja": "\\Gバニラアイスが出てきた!"}
+{"sec": "map:753", "key": "\\GYou don't have enough money.", "en": "\\GYou don't have enough money.", "ja": "\\Gお金が足りない。"}
+{"sec": "map:753", "key": "\\GChocolate Ice Cream dropped down!", "en": "\\GChocolate Ice Cream dropped down!", "ja": "\\Gチョコレートアイスが出てきた!"}
+{"sec": "map:753", "key": "\\GYou have no room left in the bag.", "en": "\\GYou have no room left in the bag.", "ja": "\\Gバッグに空きがない。"}
+{"sec": "map:753", "key": "\\GStrawberry Ice Cream dropped down!", "en": "\\GStrawberry Ice Cream dropped down!", "ja": "\\Gストロベリーアイスが出てきた!"}
+{"sec": "map:753", "key": "Good day! If you'd like to gain entry to the residences, a tenant will have to show you in.", "en": "Good day! If you'd like to gain entry to the residences, a tenant will have to show you in.", "ja": "こんにちは! 住居エリアに入りたいなら、入居者の方に案内してもらう必要がありますよ。"}
+{"sec": "map:753", "key": "???: Good day!", "en": "???: Good day!", "ja": "???: こんにちは!"}
+{"sec": "map:753", "key": "I see you have a Pokédex handy there, right?", "en": "I see you have a Pokédex handy there, right?", "ja": "ポケモン図鑑、持ってますよね?"}
+{"sec": "map:753", "key": "My name's Bee, and I've actually been trying to collect data on all the Pokémon in Reborn!", "en": "My name's Bee, and I've actually been trying to collect data on all the Pokémon in Reborn!", "ja": "あたしの名前はビー。実はリボーンの全ポケモンのデータを集めようとしてるんです!"}
+{"sec": "map:753", "key": "Could you help me out?", "en": "Could you help me out?", "ja": "手伝ってもらえませんか?"}
+{"sec": "map:753", "key": "I'll make it worth your while!", "en": "I'll make it worth your while!", "ja": "ちゃんとお礼はしますから!"}
+{"sec": "map:753", "key": "How about, for every 100 new Pokédex entries that you bring me, I'll give you a reward!", "en": "How about, for every 100 new Pokédex entries that you bring me, I'll give you a reward!", "ja": "図鑑登録が新しく100体増えるごとに、ご褒美をあげるっていうのはどうです?"}
+{"sec": "map:753", "key": "Sounds awesome, right?", "en": "Sounds awesome, right?", "ja": "いい話でしょ?"}
+{"sec": "map:753", "key": "I've gotten plenty of stuff from searching around for Pokémon myself.", "en": "I've gotten plenty of stuff from searching around for Pokémon myself.", "ja": "あたしも自分でポケモンを探し回って、いろいろ手に入れてきたんです。"}
+{"sec": "map:753", "key": "Just talk to me when you've caught more than 100 Pokémon!", "en": "Just talk to me when you've caught more than 100 Pokémon!", "ja": "100匹以上捕まえたら話しかけてくださいね!"}
+{"sec": "map:753", "key": "BEE: So, let's see...", "en": "BEE: So, let's see...", "ja": "ビー: えっと、じゃあ……"}
+{"sec": "map:753", "key": "Oh wow! You've already got 100 entries in your Pokédex!", "en": "Oh wow! You've already got 100 entries in your Pokédex!", "ja": "わあ! もう図鑑に100体も登録されてる!"}
+{"sec": "map:753", "key": "Let me just copy this information real fast. Won't take too long!", "en": "Let me just copy this information real fast. Won't take too long!", "ja": "このデータをちょっとコピーさせてくださいね。すぐ終わりますから!"}
+{"sec": "map:753", "key": ". . .", "en": ". . . ", "ja": ". . ."}
+{"sec": "map:753", "key": "Huh?", "en": "Huh?", "ja": "あれ?"}
+{"sec": "map:753", "key": "This Pokémon...", "en": "This Pokémon...", "ja": "このポケモン……"}
+{"sec": "map:753", "key": "Poipole?", "en": "Poipole?", "ja": "ベベノム?"}
+{"sec": "map:753", "key": "Mm, I see...", "en": "Mm, I see...", "ja": "うーん、なるほど……"}
+{"sec": "map:753", "key": "I had found one of these little guys when I was exploring a cave beneath Reborn City.", "en": "I had found one of these little guys when I was exploring a cave beneath Reborn City.", "ja": "リボーンシティの地下にある洞窟を探検してたとき、こいつを一匹見つけたんです。"}
+{"sec": "map:753", "key": "All this time I've been trying to find out if it was a new species or not.", "en": "All this time I've been trying to find out if it was a new species or not.", "ja": "ずっと、これが新種かどうか調べようとしてました。"}
+{"sec": "map:753", "key": "I was super excited that maybe I was the first to discover it!", "en": "I was super excited that maybe I was the first to discover it!", "ja": "もしかして自分が最初の発見者かもって、すごくワクワクしたんです!"}
+{"sec": "map:753", "key": "But... I guess I just had never heard of it.", "en": "But... I guess I just had never heard of it.", "ja": "でも……ただ知らなかっただけみたいですね。"}
+{"sec": "map:753", "key": "That's... honestly a little disappointing.", "en": "That's... honestly a little disappointing.", "ja": "それは……正直、ちょっとがっかりです。"}
+{"sec": "map:753", "key": "But I'm really grateful you showed me this.", "en": "But I'm really grateful you showed me this.", "ja": "でも、これを見せてくれて本当に助かりました。"}
+{"sec": "map:753", "key": "I wouldn't want to publish something about a new Pokémon and then it turned out it was known all along.", "en": "I wouldn't want to publish something about a new Pokémon and then it turned out it was known all along.", "ja": "新種として発表した後で、実はずっと前から知られてたなんてことになったら困りますから。"}
+{"sec": "map:753", "key": "That would've been embarrassing...", "en": "That would've been embarrassing...", "ja": "それは恥ずかしいことになるところでした……"}
+{"sec": "map:753", "key": "This whole thing is embarrassing.", "en": "This whole thing is embarrassing.", "ja": "もうこの件全部、恥ずかしいです。"}
+{"sec": "map:753", "key": "Uhm, hey, why don't you just take this?", "en": "Uhm, hey, why don't you just take this?", "ja": "ええと、あの、これ、もらってくれません?"}
+{"sec": "map:753", "key": "I-- don't really want to think about this anymore.", "en": "I-- don't really want to think about this anymore.", "ja": "あたし……もうこれ以上考えたくなくて。"}
+{"sec": "map:753", "key": "BEE: And, well, I had set aside a bunch of other stuff as thanks for you to help me out along the way.", "en": "BEE: And, well, I had set aside a bunch of other stuff as thanks for you to help me out along the way.", "ja": "ビー: それと、ここまで手伝ってもらったお礼にって、他にもいろいろ用意してたんです。"}
+{"sec": "map:753", "key": "But I guess none of that's necessary now, and it's not like I have a use for it.", "en": "But I guess none of that's necessary now, and it's not like I have a use for it.", "ja": "でも、もう必要なくなっちゃったし、あたしには使い道もないので。"}
+{"sec": "map:753", "key": "So, um... Here, open your bag?", "en": "So, um... Here, open your bag?", "ja": "だから、その……はい、バッグ開けてもらえます?"}
+{"sec": "map:753", "key": "BEE: And, one more thing?", "en": "BEE: And, one more thing?", "ja": "ビー: それともう一つ?"}
+{"sec": "map:753", "key": "I thought this Froakie might've been a bonus to help you fill out your own Dex, so go ahead and take it anyway, all right?", "en": "I thought this Froakie might've been a bonus to help you fill out your own Dex, so go ahead and take it anyway, all right?", "ja": "このケロマツも、あなたの図鑑埋めのボーナスになるかなと思って。とにかく、もらってくださいね?"}
+{"sec": "map:753", "key": "BEE: Best of luck on your adventure!", "en": "BEE: Best of luck on your adventure!", "ja": "ビー: 冒険、頑張ってくださいね!"}
+{"sec": "map:753", "key": "I'll...", "en": "I'll... ", "ja": "あたし……"}
+{"sec": "map:753", "key": "I'll find something else! Something really new!", "en": "I'll find something else! Something really new!", "ja": "他のを見つけます! 本当に新しいものを!"}
+{"sec": "map:753", "key": "Someday!", "en": "Someday!", "ja": "いつか!"}
+{"sec": "map:753", "key": "I hope.", "en": "I hope.", "ja": "だといいな。"}
+{"sec": "map:753", "key": "That should do it! Thank you!", "en": "That should do it! Thank you! ", "ja": "これで完了です! ありがとうございました!"}
+{"sec": "map:753", "key": "Here's a little something for thanks!", "en": "Here's a little something for thanks!", "ja": "お礼にこれをどうぞ!"}
+{"sec": "map:753", "key": "BEE: Return when you've got 200!", "en": "BEE: Return when you've got 200!", "ja": "ビー: 200体になったら、また来てくださいね!"}
+{"sec": "map:753", "key": "I can promise you a special surprise for then!", "en": "I can promise you a special surprise for then!", "ja": "その時は特別なサプライズを約束しますから!"}
+{"sec": "map:753", "key": "You don't seem to have 100 entries yet.", "en": "You don't seem to have 100 entries yet.", "ja": "まだ100体には届いてないみたいですね。"}
+{"sec": "map:753", "key": "Keep working hard at it!", "en": "Keep working hard at it!", "ja": "引き続き頑張ってください!"}
+{"sec": "map:753", "key": "BEE: Oh! It's you!", "en": "BEE: Oh! It's you!", "ja": "ビー: あ! あなたですね!"}
+{"sec": "map:753", "key": "So, let's see...", "en": "So, let's see...", "ja": "えっと、じゃあ……"}
+{"sec": "map:753", "key": "And it looks like you have 200 Pokédex entries now! Awesome!", "en": "And it looks like you have 200 Pokédex entries now! Awesome!", "ja": "図鑑が200体になってる! すごい!"}
+{"sec": "map:753", "key": "Let me just copy these next 100 over.", "en": "Let me just copy these next 100 over.", "ja": "続きの100体分、コピーさせてくださいね。"}
+{"sec": "map:753", "key": "Great! We're getting closer to being done!", "en": "Great! We're getting closer to being done!", "ja": "よし! 完成にどんどん近づいてます!"}
+{"sec": "map:753", "key": "Also... With this marking 200 entries, I got you a special prize!", "en": "Also... With this marking 200 entries, I got you a special prize!", "ja": "それと……200体達成のお祝いに、特別な景品を用意しました!"}
+{"sec": "map:753", "key": "Thank you for helping me so much!", "en": "Thank you for helping me so much!", "ja": "こんなに手伝ってくれてありがとうございます!"}
+{"sec": "map:753", "key": "Please accept this Froakie!", "en": "Please accept this Froakie!", "ja": "このケロマツを受け取ってください!"}
+{"sec": "map:753", "key": "BEE: Take good care of it!", "en": "BEE: Take good care of it!", "ja": "ビー: 大事にしてあげてくださいね!"}
+{"sec": "map:753", "key": "Maybe it can even help towards your count!", "en": "Maybe it can even help towards your count!", "ja": "あなたの図鑑埋めの足しにもなるかもしれませんし!"}
+{"sec": "map:753", "key": "I'm sorry, but it seems like you don't have 200 Pokémon entries in the Pokédex yet.", "en": "I'm sorry, but it seems like you don't have 200 Pokémon entries in the Pokédex yet.", "ja": "すみません、まだ図鑑が200体に届いてないみたいです。"}
+{"sec": "map:753", "key": "Keep chugging away at it, okay?", "en": "Keep chugging away at it, okay?", "ja": "こつこつ頑張ってくださいね?"}
+{"sec": "map:753", "key": "BEE: Hey there!", "en": "BEE: Hey there! ", "ja": "ビー: どうも!"}
+{"sec": "map:753", "key": "Oh! Great! It looks like you have 300 Pokédex entries for me today!", "en": "Oh! Great! It looks like you have 300 Pokédex entries for me today!", "ja": "あ! すごい! 今日は図鑑が300体になってますね!"}
+{"sec": "map:753", "key": "This is really great! Let me just copy them over!", "en": "This is really great! Let me just copy them over!", "ja": "これはすごい! コピーさせてくださいね!"}
+{"sec": "map:753", "key": ". . . Done!", "en": ". . . Done!", "ja": ". . . 完了!"}
+{"sec": "map:753", "key": "Thank you so much!", "en": "Thank you so much!", "ja": "本当にありがとうございます!"}
+{"sec": "map:753", "key": "Here's your next reward!", "en": "Here's your next reward!", "ja": "次のご褒美はこちら!"}
+{"sec": "map:753", "key": "BEE: You're doing great!", "en": "BEE: You're doing great!", "ja": "ビー: 順調ですね!"}
+{"sec": "map:753", "key": "Come see me again when you've gotten 400!", "en": "Come see me again when you've gotten 400!", "ja": "400体になったら、また会いに来てくださいね!"}
+{"sec": "map:753", "key": "Sorry, but it looks like you don't have 300 Pokédex entries for me yet.", "en": "Sorry, but it looks like you don't have 300 Pokédex entries for me yet.", "ja": "すみません、まだ図鑑が300体に届いてないみたいです。"}
+{"sec": "map:753", "key": "Return when you manage it, okay?", "en": "Return when you manage it, okay?", "ja": "達成したら、また来てくださいね?"}
+{"sec": "map:753", "key": "BEE: Hey!", "en": "BEE: Hey! ", "ja": "ビー: どうも!"}
+{"sec": "map:753", "key": "I see you have 400 entries for me!", "en": "I see you have 400 entries for me! ", "ja": "図鑑、400体になってますね!"}
+{"sec": "map:753", "key": "This is fantastic! Let me copy them over!", "en": "This is fantastic! Let me copy them over!", "ja": "すばらしい! コピーさせてもらいますね!"}
+{"sec": "map:753", "key": "Hm...", "en": "Hm...", "ja": "ふん……"}
+{"sec": "map:753", "key": "That about does it!", "en": "That about does it!", "ja": "これで完了です!"}
+{"sec": "map:753", "key": "Thank you! Here's another tidbit!", "en": "Thank you! Here's another tidbit!", "ja": "ありがとうございます! こちら、ちょっとしたおまけです!"}
+{"sec": "map:753", "key": "BEE: Thanks again!", "en": "BEE: Thanks again! ", "ja": "ビー: 改めてありがとうございます!"}
+{"sec": "map:753", "key": "Come back when you have 500 next time!", "en": "Come back when you have 500 next time!", "ja": "次は500体になったら来てくださいね!"}
+{"sec": "map:753", "key": "Oh... I'm sorry but it seems you do not yet have 400 Pokédex entries for me.", "en": "Oh... I'm sorry but it seems you do not yet have 400 Pokédex entries for me.", "ja": "あ……すみません、まだ図鑑が400体に届いてないみたいです。"}
+{"sec": "map:753", "key": "I'll be waiting for when you reach it!", "en": "I'll be waiting for when you reach it!", "ja": "達成するのを待ってますね!"}
+{"sec": "map:753", "key": "BEE: Good to see you!", "en": "BEE: Good to see you!", "ja": "ビー: 会えてよかったです!"}
+{"sec": "map:753", "key": "Oh, you finally have 500 entries!", "en": "Oh, you finally have 500 entries!", "ja": "あ、ついに500体になりましたね!"}
+{"sec": "map:753", "key": "Let me just copy these over super quick!", "en": "Let me just copy these over super quick!", "ja": "さくっとコピーさせてくださいね!"}
+{"sec": "map:753", "key": "And... finished!", "en": "And... finished!", "ja": "そして……完了!"}
+{"sec": "map:753", "key": "Still no luck? Oh well, here!", "en": "Still no luck? Oh well, here!", "ja": "まだ見つからない? まあ、はい!"}
+{"sec": "map:753", "key": "BEE: Come back when you've got 600 or more!", "en": "BEE: Come back when you've got 600 or more!", "ja": "ビー: 600体以上になったら、また来てくださいね!"}
+{"sec": "map:753", "key": "Still working on that 500 milestone, huh?", "en": "Still working on that 500 milestone, huh?", "ja": "まだ500体の目標に向けて頑張ってるところですね?"}
+{"sec": "map:753", "key": "Return when you do though! Please!", "en": "Return when you do though! Please!", "ja": "達成したら来てください! お願いします!"}
+{"sec": "map:753", "key": "BEE: G'day! Cheerio~", "en": "BEE: G'day! Cheerio~", "ja": "ビー: どうもー! それじゃ~"}
+{"sec": "map:753", "key": "Heheh! I always wanted to say that.", "en": "Heheh! I always wanted to say that.", "ja": "ふふっ! 一度言ってみたかったんです。"}
+{"sec": "map:753", "key": "Oh, you finally got 600!", "en": "Oh, you finally got 600!", "ja": "あ、ついに600体達成したんですね!"}
+{"sec": "map:753", "key": "I can't believe you've collected so many!", "en": "I can't believe you've collected so many!", "ja": "こんなに集めたなんて信じられません!"}
+{"sec": "map:753", "key": "Let me copy over the new entries!", "en": "Let me copy over the new entries!", "ja": "新しいデータをコピーさせてくださいね!"}
+{"sec": "map:753", "key": ". . . And that's them!", "en": ". . . And that's them!", "ja": ". . . これで全部!"}
+{"sec": "map:753", "key": "But... it's still not here?", "en": "But... it's still not here?", "ja": "でも……まだここにはない?"}
+{"sec": "map:753", "key": "Well... great! Thanks again!", "en": "Well... great! Thanks again!", "ja": "まあ……いいです! 改めてありがとうございます!"}
+{"sec": "map:753", "key": "BEE: Thank you!", "en": "BEE: Thank you! ", "ja": "ビー: ありがとうございます!"}
+{"sec": "map:753", "key": "Come back when you have 700!", "en": "Come back when you have 700!", "ja": "700体になったら、また来てくださいね!"}
+{"sec": "map:753", "key": "I'll have something else for you then!", "en": "I'll have something else for you then!", "ja": "その時は、また別のものを用意しますから!"}
+{"sec": "map:753", "key": "And... let me know if you find anything strange?", "en": "And... let me know if you find anything strange?", "ja": "それと……何か変なものを見つけたら、教えてくれます?"}
+{"sec": "map:753", "key": "Oh, but-- I'm sorry. You don't have 600 entries for me yet.", "en": "Oh, but-- I'm sorry. You don't have 600 entries for me yet.", "ja": "あ、でも――すみません。まだ図鑑が600体に届いてないみたいです。"}
+{"sec": "map:753", "key": "Come back when you do, good chap!", "en": "Come back when you do, good chap!", "ja": "達成したら、また来てくださいね!"}
+{"sec": "map:753", "key": "Hehe...", "en": "Hehe...", "ja": "ふふ……"}
+{"sec": "map:753", "key": "BEE: Hey! Do you have 700 yet?", "en": "BEE: Hey! Do you have 700 yet?", "ja": "ビー: どうも! もう700体になりました?"}
+{"sec": "map:753", "key": "Let's see...", "en": "Let's see...", "ja": "えっと……"}
+{"sec": "map:753", "key": "Oh...", "en": "Oh...", "ja": "あ……"}
+{"sec": "map:753", "key": "Wow... I'll tell you what, when I first met you I never thought you'd actually help me get this many!", "en": "Wow... I'll tell you what, when I first met you I never thought you'd actually help me get this many!", "ja": "すごい……正直、最初に会った時は、あなたがここまで手伝ってくれるなんて思ってませんでした!"}
+{"sec": "map:753", "key": "Well. Let me copy over this batch...", "en": "Well. Let me copy over this batch...", "ja": "それじゃ、この分をコピーさせてくださいね……"}
+{"sec": "map:753", "key": "So, um... Here.", "en": "So, um... Here.", "ja": "それじゃ、ええと……はい。"}
+{"sec": "map:753", "key": "And finished...", "en": "And finished...", "ja": "そして完了……"}
+{"sec": "map:753", "key": "This is crazy...", "en": "This is crazy...", "ja": "すごすぎます……"}
+{"sec": "map:753", "key": "700 Pokémon, data and all copied and recorded...", "en": "700 Pokémon, data and all copied and recorded...", "ja": "700匹分のポケモン、データも全部コピーして記録して……"}
+{"sec": "map:753", "key": "But I still haven't found what I'm looking for.", "en": "But I still haven't found what I'm looking for.", "ja": "でも、まだ探してるものは見つかっていません。"}
+{"sec": "map:753", "key": "...No!", "en": "...No!", "ja": "……いや!"}
+{"sec": "map:753", "key": "I can't get discouraged!", "en": "I can't get discouraged!", "ja": "くじけちゃだめです!"}
+{"sec": "map:753", "key": "There's still a chance it's in one of the Pokémon we haven't found yet!", "en": "There's still a chance it's in one of the Pokémon we haven't found yet!", "ja": "まだ見つけていないポケモンの中にいる可能性だってあります!"}
+{"sec": "map:753", "key": "I've just gotta have hope for it!", "en": "I've just gotta have hope for it!", "ja": "希望を持たなきゃ!"}
+{"sec": "map:753", "key": "Ah, before I forget-- take this!", "en": "Ah, before I forget-- take this!", "ja": "あ、忘れないうちに――これをどうぞ!"}
+{"sec": "map:753", "key": "BEE: Well...", "en": "BEE: Well...", "ja": "ビー: それじゃあ……"}
+{"sec": "map:753", "key": "I suppose there's nothing to do but keep looking.", "en": "I suppose there's nothing to do but keep looking.", "ja": "探し続けるしかなさそうですね。"}
+{"sec": "map:753", "key": "I can't very well just go out and ask you to catch Legendary Pokémon, can I? Ahaha...", "en": "I can't very well just go out and ask you to catch Legendary Pokémon, can I? Ahaha...", "ja": "さすがに伝説のポケモンを捕まえてきてなんて頼めませんよね。あはは……"}
+{"sec": "map:753", "key": "I don't think what I'm looking for is one of those though...", "en": "I don't think what I'm looking for is one of those though...", "ja": "でも、探してるものは伝説のポケモンではない気がするんです……"}
+{"sec": "map:753", "key": "Too small, right?", "en": "Too small, right?", "ja": "小さすぎますよね?"}
+{"sec": "map:753", "key": "It has to be...", "en": "It has to be...", "ja": "きっとそうに違いない……"}
+{"sec": "map:753", "key": "But someone told me there's only 731 Non- Legendary Pokémon.", "en": "But someone told me there's only 731 Non- Legendary Pokémon.", "ja": "でも、伝説以外のポケモンは731種類しかいないって誰かに聞きました。"}
+{"sec": "map:753", "key": "...Okay! It's the home stretch!", "en": "...Okay! It's the home stretch!", "ja": "……よし! いよいよ最後の追い込みです!"}
+{"sec": "map:753", "key": "Come back when you get 731 Pokémon in your Dex and we'll get this sorted out for sure!", "en": "Come back when you get 731 Pokémon in your Dex and we'll get this sorted out for sure!", "ja": "図鑑が731体になったら来てください、絶対に解決してみせますから!"}
+{"sec": "map:753", "key": "Doesn't seem so. But that's all right!", "en": "Doesn't seem so. But that's all right!", "ja": "まだみたいですね。でも大丈夫です!"}
+{"sec": "map:753", "key": "I bet catching so many already was super hard and time consuming as it is!", "en": "I bet catching so many already was super hard and time consuming as it is!", "ja": "ここまで集めるだけでも、きっとすごく大変で時間がかかったはずです!"}
+{"sec": "map:753", "key": "Come back when you finally hit 700!", "en": "Come back when you finally hit 700!", "ja": "700体に届いたら、また来てくださいね!"}
+{"sec": "map:753", "key": "Surely we'll get it then!", "en": "Surely we'll get it then!", "ja": "その時こそ、きっと分かるはずです!"}
+{"sec": "map:753", "key": "BEE: Howdy! Did you finally get them all!?", "en": "BEE: Howdy! Did you finally get them all!?", "ja": "ビー: どうも! ついに全部集まりました!?"}
+{"sec": "map:753", "key": "You did!", "en": "You did!", "ja": "やりましたね!"}
+{"sec": "map:753", "key": "Okay, let's see...", "en": "Okay, let's see...", "ja": "それじゃ、えっと……"}
+{"sec": "map:753", "key": ". . . . . .", "en": ". . . . . .", "ja": ". . . . . ."}
+{"sec": "map:753", "key": ". . . . . . . . .", "en": ". . . . . . . . .", "ja": ". . . . . . . . ."}
+{"sec": "map:753", "key": "Really?", "en": "Really?", "ja": "本当に?"}
+{"sec": "map:753", "key": "Nothing?", "en": "Nothing?", "ja": "何もない?"}
+{"sec": "map:753", "key": "We've collected data for all known non-Legendary Pokémon, but I still can't find this one.", "en": "We've collected data for all known non-Legendary Pokémon, but I still can't find this one.", "ja": "判明している非伝説ポケモンのデータは全部集まったのに、これだけはまだ見つからない。"}
+{"sec": "map:753", "key": "Is it a new species...?", "en": "Is it a new species...?", "ja": "やっぱり新種なんでしょうか……?"}
+{"sec": "map:753", "key": "I was excited at the thought that I could have found something like that, but I didn't wanna get ahead of myself.", "en": "I was excited at the thought that I could have found something like that, but I didn't wanna get ahead of myself.", "ja": "そうかもしれないと思うとワクワクしたけど、早合点したくなかったんです。"}
+{"sec": "map:753", "key": "So I started trying to find proof that it was already discovered, but...", "en": "So I started trying to find proof that it was already discovered, but...", "ja": "だから、すでに発見されている証拠を探そうとしたんですが……"}
+{"sec": "map:753", "key": "Maybe not?", "en": "Maybe not?", "ja": "やっぱり違うのかも?"}
+{"sec": "map:753", "key": "I'll have to report my findings ASAP!", "en": "I'll have to report my findings ASAP!", "ja": "すぐにこの発見を報告しないと!"}
+{"sec": "map:753", "key": "This is really fantastic!", "en": "This is really fantastic! ", "ja": "これは本当にすばらしいことです!"}
+{"sec": "map:753", "key": "A brand new species actually just fell into my hands!", "en": "A brand new species actually just fell into my hands!", "ja": "まさか本物の新種が、こんな形で手に入るなんて!"}
+{"sec": "map:753", "key": "I had happened to find it when I was exploring a cave under Reborn City...", "en": "I had happened to find it when I was exploring a cave under Reborn City...", "ja": "リボーンシティの地下の洞窟を探検してたときに、偶然見つけたんです……"}
+{"sec": "map:753", "key": "But where could it have actually come from?", "en": "But where could it have actually come from?", "ja": "でも、実際どこから来たんでしょう?"}
+{"sec": "map:753", "key": "I've still got a lot of research to do!", "en": "I've still got a lot of research to do!", "ja": "まだまだ研究することがたくさんあります!"}
+{"sec": "map:753", "key": "Including properly training it--", "en": "Including properly training it--", "ja": "ちゃんと育てることも含めて――"}
+{"sec": "map:753", "key": "Well, hey, could you take care of that for me?", "en": "Well, hey, could you take care of that for me?", "ja": "ねえ、それ、あたしの代わりにやってもらえません?"}
+{"sec": "map:753", "key": "I'll let you take care of this Pokémon so that it can grow properly!", "en": "I'll let you take care of this Pokémon so that it can grow properly!", "ja": "ちゃんと育つように、このポケモンをあなたに任せます!"}
+{"sec": "map:753", "key": "Then I'll contact you later for information on how it's grown!", "en": "Then I'll contact you later for information on how it's grown!", "ja": "どう育ったか、後で連絡させてもらいますね!"}
+{"sec": "map:753", "key": "Don't worry-- I'll credit you in the academic report.", "en": "Don't worry-- I'll credit you in the academic report.", "ja": "心配いりません――論文にはちゃんとあなたの名前も載せますから。"}
+{"sec": "map:753", "key": "But here, why don't you say \"Hi\" to it?!", "en": "But here, why don't you say \"Hi\" to it?!", "ja": "でも、まずはこの子に挨拶してあげてください!"}
+{"sec": "map:753", "key": "BEE: Treat it well, okay? We're going to be famous for finding this!", "en": "BEE: Treat it well, okay? We're going to be famous for finding this!", "ja": "ビー: 大事にしてくださいね? これを見つけたことで、あたしたち有名になりますよ!"}
+{"sec": "map:753", "key": "O-oh, no worries!", "en": "O-oh, no worries!", "ja": "あ、いえ、大丈夫です!"}
+{"sec": "map:753", "key": "I know it's been a lot of work, but we're almost there!", "en": "I know it's been a lot of work, but we're almost there!", "ja": "大変だったのは分かってます、でももうすぐです!"}
+{"sec": "map:753", "key": "We can finish this!", "en": "We can finish this!", "ja": "やり遂げられます!"}
+{"sec": "map:753", "key": "BEE: Oh hey! It's you!", "en": "BEE: Oh hey! It's you!", "ja": "ビー: あ! あなたですね!"}
+{"sec": "map:753", "key": "I hope you and that Pokémon are doing well!", "en": "I hope you and that Pokémon are doing well!", "ja": "あなたとあのポケモン、元気にしてるといいんですけど!"}
+{"sec": "map:753", "key": "I'm working hard on getting the report published.", "en": "I'm working hard on getting the report published.", "ja": "論文を発表するために頑張ってます。"}
+{"sec": "map:753", "key": "Soon it'll be famous!", "en": "Soon it'll be famous! ", "ja": "もうすぐ有名になりますよ!"}
+{"sec": "map:753", "key": "BEE: Oh, hey there.", "en": "BEE: Oh, hey there.", "ja": "ビー: あ、どうも。"}
+{"sec": "map:753", "key": "I hope you're doing well on your quest.", "en": "I hope you're doing well on your quest.", "ja": "あなたの冒険、順調だといいんですけど。"}
+{"sec": "map:753", "key": "I'm... still not sure where to go for mine.", "en": "I'm... still not sure where to go for mine.", "ja": "あたしは……まだ自分の道がどっちなのか分からなくて。"}
+{"sec": "map:753", "key": "But that's okay, right?", "en": "But that's okay, right?", "ja": "でも、それでいいですよね?"}
+{"sec": "map:753", "key": "I'll figure it out when I'm ready.", "en": "I'll figure it out when I'm ready.", "ja": "準備ができたら、ちゃんと見つかるはずです。"}
+{"sec": "map:753", "key": "For now I just gotta hang in there!", "en": "For now I just gotta hang in there!", "ja": "今はとにかく踏ん張るしかないです!"}
+{"sec": "map:753", "key": "BEE: Okay, so I know this might be kind of a quick turn around--", "en": "BEE: Okay, so I know this might be kind of a quick turn around--", "ja": "ビー: あの、ちょっと急な話かもしれないんですけど――"}
+{"sec": "map:753", "key": "But I just realized, ever since those doors to the alternate portals opened,", "en": "But I just realized, ever since those doors to the alternate portals opened,", "ja": "でも今さら気づいたんですが、別次元へのポータルが開いてからというもの、"}
+{"sec": "map:753", "key": "There's been an entirely new class of Pokémon?", "en": "There's been an entirely new class of Pokémon?", "ja": "まったく新しい分類のポケモンがいるんですよね?"}
+{"sec": "map:753", "key": "That are like Pokémon but somehow aren't Pokémon?", "en": "That are like Pokémon but somehow aren't Pokémon?", "ja": "ポケモンみたいだけど、なぜかポケモンじゃないっていう?"}
+{"sec": "map:753", "key": "Anyway, the point is I love them.", "en": "Anyway, the point is I love them.", "ja": "とにかく、要はあたしそれが大好きなんです。"}
+{"sec": "map:753", "key": "And I MUST know more.", "en": "And I MUST know more.", "ja": "もっと知らなきゃ気が済みません。"}
+{"sec": "map:753", "key": "If you can, you have to catch every single one of them!", "en": "If you can, you have to catch every single one of them!", "ja": "できるなら、一匹残らず捕まえてきてください!"}
+{"sec": "map:753", "key": "The Ultra Beasts, that is!", "en": "The Ultra Beasts, that is!", "ja": "ウルトラビーストのことです!"}
+{"sec": "map:753", "key": "...Oh!", "en": "...Oh!", "ja": "……あ!"}
+{"sec": "map:753", "key": "You actually did it!", "en": "You actually did it!", "ja": "本当にやり遂げたんですね!"}
+{"sec": "map:753", "key": "Fantastic!", "en": "Fantastic!", "ja": "すばらしい!"}
+{"sec": "map:753", "key": "Amazing!", "en": "Amazing!", "ja": "すごい!"}
+{"sec": "map:753", "key": "Splendiferous!", "en": "Splendiferous!", "ja": "素晴らしすぎます!"}
+{"sec": "map:753", "key": "I promise you here and now, I'm going to become the foremost Ultra Beast researcher in the world,", "en": "I promise you here and now, I'm going to become the foremost Ultra Beast researcher in the world,", "ja": "ここではっきり約束します、あたしは世界一のウルトラビースト研究者になります、"}
+{"sec": "map:753", "key": "And this will be my stepping stone!!!", "en": "And this will be my stepping stone!!!", "ja": "そのための足がかりが、これです!!!"}
+{"sec": "map:753", "key": "Wait, does calling your work and help a stepping stone sound demeaning?", "en": "Wait, does calling your work and help a stepping stone sound demeaning?", "ja": "あ、待って、あなたの手伝いを「足がかり」なんて呼ぶの、失礼に聞こえます?"}
+{"sec": "map:753", "key": "I don't want to be demeaning-- we can be co-authors on my first thesis?", "en": "I don't want to be demeaning-- we can be co-authors on my first thesis?", "ja": "見下すつもりはないんです――最初の論文、共著にしませんか?"}
+{"sec": "map:753", "key": "Oh, but I've never been fond of writing...", "en": "Oh, but I've never been fond of writing...", "ja": "あ、でも、あたし文章を書くのって得意じゃなくて……"}
+{"sec": "map:753", "key": "Maybe it's simply enough to enjoy having the knowledge for its own sake!", "en": "Maybe it's simply enough to enjoy having the knowledge for its own sake!", "ja": "知識そのものを楽しむだけで十分なのかもしれません!"}
+{"sec": "map:753", "key": "Yes, that must be true!", "en": "Yes, that must be true!", "ja": "そう、きっとそうです!"}
+{"sec": "map:753", "key": "What is knowledge for if not to be known?", "en": "What is knowledge for if not to be known?", "ja": "知られないなら、知識にどんな意味があるんでしょう?"}
+{"sec": "map:753", "key": "...Oh, right, I said we'd work something out.", "en": "...Oh, right, I said we'd work something out.", "ja": "……あ、そうだ、何かお礼するって言ってましたね。"}
+{"sec": "map:753", "key": "So I found this cool stone when I was investigating one of those pocket dimensions--", "en": "So I found this cool stone when I was investigating one of those pocket dimensions--", "ja": "あのポケット次元のひとつを調べてたときに、素敵な石を見つけたんです――"}
+{"sec": "map:753", "key": "Or PokéDims, as I've started calling them--", "en": "Or PokéDims, as I've started calling them--", "ja": "あたし的には「ポケディム」って呼んでるんですけど――"}
+{"sec": "map:753", "key": "Anyway, here!", "en": "Anyway, here!", "ja": "とにかく、はい!"}
+{"sec": "map:753", "key": "BEE: Pretty, isn't it?", "en": "BEE: Pretty, isn't it?", "ja": "ビー: きれいでしょ?"}
+{"sec": "map:753", "key": "No idea what it is, but I think it's neat.", "en": "No idea what it is, but I think it's neat.", "ja": "何なのかは分からないけど、いいものだと思うんです。"}
+{"sec": "map:753", "key": "Thanks again!", "en": "Thanks again!", "ja": "改めてありがとうございました!"}
+{"sec": "map:753", "key": "If you do, come back and we'll work something out!", "en": "If you do, come back and we'll work something out!", "ja": "見つけたら、また来てください。お礼を考えますから!"}
+{"sec": "map:753", "key": "BEE: ...So actually!", "en": "BEE: ...So actually!", "ja": "ビー: ……あの、実は!"}
+{"sec": "map:753", "key": "I mean...", "en": "I mean...", "ja": "ていうか……"}
+{"sec": "map:753", "key": "We've already come this far, right?", "en": "We've already come this far, right?", "ja": "もうここまで来たわけですよね?"}
+{"sec": "map:753", "key": "Over 700 species, plus all the Ultra Beasts...", "en": "Over 700 species, plus all the Ultra Beasts...", "ja": "700種類以上に加えて、ウルトラビーストも全部……"}
+{"sec": "map:753", "key": "Thanks to the PokéDims, maybe it's possible to go all the way?", "en": "Thanks to the PokéDims, maybe it's possible to go all the way?", "ja": "ポケディムのおかげで、最後まで行けるかもしれない?"}
+{"sec": "map:753", "key": "What do you say we go for broke, partner?", "en": "What do you say we go for broke, partner?", "ja": "どうです、思い切ってやってみませんか、相棒?"}
+{"sec": "map:753", "key": "100% 'Dex completion, partner!", "en": "100% 'Dex completion, partner!", "ja": "図鑑コンプリート100%、目指しましょう、相棒!"}
+{"sec": "map:753", "key": "You think you can do it?", "en": "You think you can do it?", "ja": "できると思います?"}
+{"sec": "map:753", "key": "...And by golly, you actually have.", "en": "...And by golly, you actually have.", "ja": "……そして、まさか本当にやってのけましたね。"}
+{"sec": "map:753", "key": "What absolute Champion--", "en": "What absolute Champion--", "ja": "なんてチャンピオンなの――"}
+{"sec": "map:753", "key": "Literally, I guess.", "en": "Literally, I guess.", "ja": "文字通りの意味で、ですけど。"}
+{"sec": "map:753", "key": "And you went out and caught all-but-God too.", "en": "And you went out and caught all-but-God too.", "ja": "それに、神様みたいなの以外は全部捕まえてきたんですよね。"}
+{"sec": "map:753", "key": "You don't get to see it very often!", "en": "You don't get to see it very often!", "ja": "なかなか見られるものじゃないですよ!"}
+{"sec": "map:753", "key": "And even when you do see it, it's usually in a region that has a lot fewer 'Mons than this one.", "en": "And even when you do see it, it's usually in a region that has a lot fewer 'Mons than this one.", "ja": "しかも見られたとしても、大抵はこの地方よりポケモンの数がずっと少ない地方でのことですし。"}
+{"sec": "map:753", "key": "I'll be.", "en": "I'll be.", "ja": "いやはや。"}
+{"sec": "map:753", "key": "...I'll Bee!", "en": "...I'll Bee!", "ja": "……いやビー!"}
+{"sec": "map:753", "key": "Heh, haven't gotten to use that one in a while.", "en": "Heh, haven't gotten to use that one in a while.", "ja": "ふふ、久しぶりにこのネタ使えました。"}
+{"sec": "map:753", "key": "Anyway, congrats, Champ!", "en": "Anyway, congrats, Champ!", "ja": "とにかく、おめでとうございます、チャンプ!"}
+{"sec": "map:753", "key": "I wish I had something more to give you, but--", "en": "I wish I had something more to give you, but--", "ja": "もっと何かあげられたらいいんですけど――"}
+{"sec": "map:753", "key": "Let's be honest, at the point that you're at, what's left?", "en": "Let's be honest, at the point that you're at, what's left?", "ja": "正直、あなたのレベルまで来たら、他に何が残ってます?"}
+{"sec": "map:753", "key": "Not a whole lot, that's for sure.", "en": "Not a whole lot, that's for sure.", "ja": "確かに、あんまり無いですよね。"}
+{"sec": "map:753", "key": "...Which is why, I had the good sense to radio down the Grand Hall and speak to one Mx. Adrienn Flores for just this occasion.", "en": "...Which is why, I had the good sense to radio down the Grand Hall and speak to one Mx. Adrienn Flores for just this occasion.", "ja": "……というわけで、こんな時のためにグランドホールに連絡して、アドリエンヌ・フローレス様にお話ししておいたんです。"}
+{"sec": "map:753", "key": "Xe prepped this in advance for when you inevitably came along and did the impossible.", "en": "Xe prepped this in advance for when you inevitably came along and did the impossible.", "ja": "あの方は、あなたがいつか必ずここまでやってのける日のために、これを前もって用意してくれていました。"}
+{"sec": "map:753", "key": "This is from both of us, Champ.", "en": "This is from both of us, Champ.", "ja": "これはあたしたち二人から、チャンプへ。"}
+{"sec": "map:753", "key": "Congratulations!", "en": "Congratulations!", "ja": "おめでとうございます!"}
+{"sec": "map:753", "key": "BEE: I'll hang onto this for you in case you wanna see it again.", "en": "BEE: I'll hang onto this for you in case you wanna see it again. ", "ja": "ビー: また見たくなった時のために、これはあたしが預かっておきますね。"}
+{"sec": "map:753", "key": "And uh, here's a little something from me too!", "en": "And uh, here's a little something from me too!", "ja": "あ、それと、これはあたしからのちょっとしたものです!"}
+{"sec": "map:753", "key": "Just a pretty rock I found when I was out 'splorin!", "en": "Just a pretty rock I found when I was out 'splorin!", "ja": "探検中に見つけたきれいな石なんですけど!"}
+{"sec": "map:753", "key": "Thought you might like it.", "en": "Thought you might like it.", "ja": "気に入ってもらえるかなと思って。"}
+{"sec": "map:753", "key": "Thanks for all the help, and for being just a knock-out hero!", "en": "Thanks for all the help, and for being just a knock-out hero!", "ja": "いろいろ手伝ってくれて、それに本物の英雄でいてくれてありがとうございます!"}
+{"sec": "map:753", "key": "I, for one, have full faith in you!", "en": "I, for one, have full faith in you!", "ja": "あたしはあなたのこと、心から信じてます!"}
+{"sec": "map:753", "key": "You've come this far, right?", "en": "You've come this far, right?", "ja": "ここまで来たんですものね?"}
+{"sec": "map:753", "key": "Nothing to it but to do it!", "en": "Nothing to it but to do it!", "ja": "あとはやるだけです!"}
+{"sec": "map:753", "key": "BEE: Come to take a gander at your shiny certificate?", "en": "BEE: Come to take a gander at your shiny certificate?", "ja": "ビー: あの輝く認定証、また見に来たんですか?"}
+{"sec": "map:753", "key": "BEE: It'll always be here.", "en": "BEE: It'll always be here.", "ja": "ビー: いつでもここにありますから。"}
+{"sec": "map:753", "key": "And in your heart.", "en": "And in your heart.", "ja": "それと、あなたの心の中にも。"}
+{"sec": "map:753", "key": "Or something-- xe said something like that but I didn't quite follow.", "en": "Or something-- xe said something like that but I didn't quite follow.", "ja": "……みたいなことを、あの方が言ってたんですけど、あたしよく分かってなくて。"}
+{"sec": "map:753", "key": "If you ask me, a certificate in your heart sounds like a health risk, but I'm not the expert here.", "en": "If you ask me, a certificate in your heart sounds like a health risk, but I'm not the expert here.", "ja": "あたしに言わせれば、心の中に認定証があるなんて健康に良くなさそうですけど、専門家じゃないので何とも。"}
+{"sec": "map:753", "key": "Excuse me!", "en": "Excuse me!", "ja": "すみません!"}
+{"sec": "map:753", "key": "Hello! If I recall, one of my nephews used to talk a little bit about you!", "en": "Hello! If I recall, one of my nephews used to talk a little bit about you!", "ja": "こんにちは! たしか、うちのおいっ子があなたのことを少し話してた気がするわ!"}
+{"sec": "map:753", "key": "He said you and his group of friends were pretty fond of Fire-type Pokémon!", "en": "He said you and his group of friends were pretty fond of Fire-type Pokémon!", "ja": "あなたとお友達のグループは、ほのおタイプのポケモンが結構好きだって言ってたのよ!"}
+{"sec": "map:753", "key": "I happen to be looking for a Basculin!", "en": "I happen to be looking for a Basculin!", "ja": "ちょうどバスラオを探してるところなの!"}
+{"sec": "map:753", "key": "I have a Litten for trade if you have one!", "en": "I have a Litten for trade if you have one!", "ja": "もしいるなら、ニャビーと交換できるわよ!"}
+{"sec": "map:753", "key": "Do you?", "en": "Do you?", "ja": "持ってる?"}
+{"sec": "map:753", "key": "Dang... Well I'll be here if you change your mind later, sweetie!", "en": "Dang... Well I'll be here if you change your mind later, sweetie!", "ja": "あら残念……気が変わったら、ここにいるからね!"}
+{"sec": "map:753", "key": "\\PN traded Basculin for Litten!", "en": "\\PN traded Basculin for Litten!", "ja": "\\PNはバスラオとニャビーを交換した!"}
+{"sec": "map:753", "key": "Thank you so much! Take good care of that Litten now!", "en": "Thank you so much! Take good care of that Litten now!", "ja": "どうもありがとう! そのニャビー、ちゃんとかわいがってあげてね!"}
+{"sec": "map:753", "key": "Dang... Well, I'll be here if you change your mind later, sweetie!", "en": "Dang... Well, I'll be here if you change your mind later, sweetie!", "ja": "あら残念……気が変わったら、ここにいるからね!"}
+{"sec": "map:753", "key": "Oh, excuse me!", "en": "Oh, excuse me!", "ja": "あら、すみません!"}
+{"sec": "map:753", "key": "Trying to organize these books is a pain--", "en": "Trying to organize these books is a pain-- ", "ja": "この本を整理するのが大変で――"}
+{"sec": "map:753", "key": "Where did all of these even come from!?", "en": "Where did all of these even come from!?", "ja": "これ、一体どこから来たのかしら!?"}
+{"sec": "map:753", "key": "Oh, hello again!", "en": "Oh, hello again!", "ja": "あら、またお会いしましたね!"}
+{"sec": "map:753", "key": "I hope Litten is doing well!", "en": "I hope Litten is doing well!", "ja": "ニャビー、元気にしてるといいけど!"}
+{"sec": "map:753", "key": "Back to these books I guess though...", "en": "Back to these books I guess though...", "ja": "さて、また本の整理に戻らないと……"}
+{"sec": "map:753", "key": "See you!", "en": "See you!", "ja": "またね!"}
+{"sec": "map:753", "key": "Hey, you.", "en": "Hey, you.", "ja": "ねえ、あんた。"}
+{"sec": "map:753", "key": "I know you used to hang with one of my cousins in the Aqua Gang.", "en": "I know you used to hang with one of my cousins in the Aqua Gang.", "ja": "あんたが昔、アクアギャングにいたあたしのいとことつるんでたのは知ってるよ。"}
+{"sec": "map:753", "key": "Considering you joined them, I assume that you like Water-types, yes?", "en": "Considering you joined them, I assume that you like Water-types, yes?", "ja": "あそこに入ってたってことは、みずタイプが好きなんでしょ?"}
+{"sec": "map:753", "key": "I'm looking for an Oranguru.", "en": "I'm looking for an Oranguru.", "ja": "ヤレユータンを探してるの。"}
+{"sec": "map:753", "key": "I'm willing to trade an Oshawott for one.", "en": "I'm willing to trade an Oshawott for one.", "ja": "ミジュマルと交換してもいいわよ。"}
+{"sec": "map:753", "key": "What do you say?", "en": "What do you say?", "ja": "どう?"}
+{"sec": "map:753", "key": "Awesome. Let's do this.", "en": "Awesome. Let's do this.", "ja": "よし。やろう。"}
+{"sec": "map:753", "key": "That's a shame. Well, maybe later if you change your mind.", "en": "That's a shame. Well, maybe later if you change your mind.", "ja": "残念ね。まあ、気が変わったらまた今度。"}
+{"sec": "map:753", "key": "\\PN traded Oranguru for Oshawott!", "en": "\\PN traded Oranguru for Oshawott!", "ja": "\\PNはヤレユータンとミジュマルを交換した!"}
+{"sec": "map:753", "key": "Awesome, thanks! Take good care of that guy!", "en": "Awesome, thanks! Take good care of that guy!", "ja": "よし、ありがと! ちゃんとかわいがってあげてね!"}
+{"sec": "map:753", "key": "That's a shame.", "en": "That's a shame. ", "ja": "残念ね。"}
+{"sec": "map:753", "key": "Well, maybe later if you change your mind.", "en": "Well, maybe later if you change your mind.", "ja": "まあ、気が変わったらまた今度。"}
+{"sec": "map:753", "key": "Do you need something?", "en": "Do you need something? ", "ja": "何か用?"}
+{"sec": "map:753", "key": "If not I'd advise leaving. I'm not one for strangers.", "en": "If not I'd advise leaving. I'm not one for strangers.", "ja": "でなければ、帰ることをお勧めするわ。あたし、見知らぬ人は苦手なの。"}
+{"sec": "map:753", "key": "Thanks again for the Oranguru!", "en": "Thanks again for the Oranguru!", "ja": "ヤレユータン、改めてありがとう!"}
+{"sec": "map:753", "key": "Hope that Oshawott is doing all right.", "en": "Hope that Oshawott is doing all right.", "ja": "そのミジュマル、元気にしてるといいけど。"}
+{"sec": "map:753", "key": "Zzz...", "en": "Zzz...", "ja": "Zzz……"}
+{"sec": "map:753", "key": "...H-huh?", "en": "...H-huh? ", "ja": "……え、あれ?"}
+{"sec": "map:753", "key": "O-oh! I must have fallen asleep!", "en": "O-oh! I must have fallen asleep! ", "ja": "あ、あら! 眠っちゃってたみたい!"}
+{"sec": "map:753", "key": "I was supposed to go on a hike to Route 4 to meet my friend...", "en": "I was supposed to go on a hike to Route 4 to meet my friend...", "ja": "4番道路までハイキングして、友達に会う予定だったのに……"}
+{"sec": "map:753", "key": "Eh?", "en": "Eh?", "ja": "え?"}
+{"sec": "map:753", "key": "It's been how long!?", "en": "It's been how long!?", "ja": "どれくらい経ったの!?"}
+{"sec": "map:753", "key": "Gosh, I guess I totally stood him up!", "en": "Gosh, I guess I totally stood him up!", "ja": "やだ、完全にすっぽかしちゃった!"}
+{"sec": "map:753", "key": "Well, no sense sitting around here. I'll just go myself anyway!", "en": "Well, no sense sitting around here. I'll just go myself anyway!", "ja": "まあ、ここに座っててもしょうがないし。とにかく自分で行ってくるわ!"}
+{"sec": "map:753", "key": "Thanks for waking me up!", "en": "Thanks for waking me up!", "ja": "起こしてくれてありがとう!"}
+{"sec": "map:753", "key": "Maybe I'll see you around!", "en": "Maybe I'll see you around!", "ja": "またどこかで会えるといいわね!"}
+{"sec": "map:753", "key": "SARENA: Oh, what's the matter?", "en": "SARENA: Oh, what's the matter?", "ja": "サレナ: あら、どうしたの?"}
+{"sec": "map:753", "key": "Decided you wanted to listen to the crazy lady with the computer ramble?", "en": "Decided you wanted to listen to the crazy lady with the computer ramble?", "ja": "パソコン相手にブツブツ言ってる変な女の話でも聞きたくなった?"}
+{"sec": "map:753", "key": "???: Tch, this stupid thing...", "en": "???: Tch, this stupid thing...", "ja": "???: チッ、このバカな機械……"}
+{"sec": "map:753", "key": "???: Oh, I didn't hear anyone come in.", "en": "???: Oh, I didn't hear anyone come in. ", "ja": "???: あら、入ってくる音、聞こえなかったわ。"}
+{"sec": "map:753", "key": "Blame it on me being just a little FRUSTRATED with this old piece of trash.", "en": "Blame it on me being just a little FRUSTRATED with this old piece of trash.", "ja": "このオンボロのガラクタに、ちょっとイラついてただけよ。"}
+{"sec": "map:753", "key": "Oh, where are my manners, or whatever?", "en": "Oh, where are my manners, or whatever?", "ja": "あら、礼儀を忘れてたわね、っていうか。"}
+{"sec": "map:753", "key": "Name's Sarena. I'm the property manager here in Agate City.", "en": "Name's Sarena. I'm the property manager here in Agate City.", "ja": "名前はサレナ。ここアゲートシティの物件管理人よ。"}
+{"sec": "map:753", "key": "I know what you did for the city, and I appreciate that.", "en": "I know what you did for the city, and I appreciate that.", "ja": "あんたがこの街のためにやったこと、ちゃんと知ってるし、感謝してる。"}
+{"sec": "map:753", "key": "Seriously, I have no intentions to sleep again for the next seven years.", "en": "Seriously, I have no intentions to sleep again for the next seven years.", "ja": "マジで、この先7年は二度と眠るつもりないから。"}
+{"sec": "map:753", "key": "And at the rate THIS is going, that's not an exaggeration.", "en": "And at the rate THIS is going, that's not an exaggeration.", "ja": "このペースだと、大げさでもなんでもないのよね。"}
+{"sec": "map:753", "key": "Do you care?", "en": "Do you care?", "ja": "興味ある?"}
+{"sec": "map:753", "key": "SARENA: Kind of you. Then lemme explain.", "en": "SARENA: Kind of you. Then lemme explain. ", "ja": "サレナ: 優しいのね。じゃあ説明するわ。"}
+{"sec": "map:753", "key": "I'm kind of new to the job.", "en": "I'm kind of new to the job.", "ja": "あたし、この仕事始めたばっかりなの。"}
+{"sec": "map:753", "key": "Took over after the last property manager had an accident in Reborn City.", "en": "Took over after the last property manager had an accident in Reborn City.", "ja": "リボーンシティで前の物件管理人が事故に遭ったあと、この仕事を引き継いだの。"}
+{"sec": "map:753", "key": "That was before the renovation, so, you know,", "en": "That was before the renovation, so, you know,", "ja": "それは改修前の話だから、まあ、"}
+{"sec": "map:753", "key": "What else would you expect if you frequent that place?", "en": "What else would you expect if you frequent that place?", "ja": "あの場所に通い詰めてれば、そりゃそうなるでしょって話よね。"}
+{"sec": "map:753", "key": "Anyway, I've been checking over all the records and such-- MIND-NUMBINGLY boring, by the way--", "en": "Anyway, I've been checking over all the records and such-- MIND-NUMBINGLY boring, by the way--", "ja": "とにかく、記録を全部チェックしてるんだけど――ちなみに、頭がおかしくなりそうなくらい退屈――"}
+{"sec": "map:753", "key": "For whatever reason, this address alone is missing all of its documentation.", "en": "For whatever reason, this address alone is missing all of its documentation.", "ja": "なぜか、この住所だけ書類が全部そろってないの。"}
+{"sec": "map:753", "key": "There's no indication whatsoever as to who the owner is, when it was sold, or what its standing is.", "en": "There's no indication whatsoever as to who the owner is, when it was sold, or what its standing is.", "ja": "所有者が誰か、いつ売却されたか、今どういう状態なのか、手がかりが何一つないのよ。"}
+{"sec": "map:753", "key": "So I came here to check it out.", "en": "So I came here to check it out.", "ja": "だから確認しに来たわけ。"}
+{"sec": "map:753", "key": "As you can see, \"lived in\" would be a generous summary of its condition.", "en": "As you can see, \"lived in\" would be a generous summary of its condition.", "ja": "見ての通り、「人が住んでる」って言うのはこの状態には甘すぎる表現ね。"}
+{"sec": "map:753", "key": "I don't think anyone's stayed here for years.", "en": "I don't think anyone's stayed here for years.", "ja": "何年もここに誰も住んでないと思うわ。"}
+{"sec": "map:753", "key": "Saw this little piece of trash over here, and thought I could figure out who the place belonged to if I poked around.", "en": "Saw this little piece of trash over here, and thought I could figure out who the place belonged to if I poked around.", "ja": "このガラクタを見つけて、いじってみればここの持ち主が分かるかもって思ったの。"}
+{"sec": "map:753", "key": "That was my first mistake.", "en": "That was my first mistake.", "ja": "それが最初の間違いだった。"}
+{"sec": "map:753", "key": "This thing needs a password.", "en": "This thing needs a password.", "ja": "こいつ、パスワードが必要みたい。"}
+{"sec": "map:753", "key": "Looks like six digits.", "en": "Looks like six digits.", "ja": "6桁っぽいわね。"}
+{"sec": "map:753", "key": "I'd say I don't have a clue what it is, but that's not quite true.", "en": "I'd say I don't have a clue what it is, but that's not quite true. ", "ja": "見当もつかないって言いたいところだけど、それは正確じゃないわね。"}
+{"sec": "map:753", "key": "The one clue I have is this--", "en": "The one clue I have is this--", "ja": "唯一の手がかりはこれ――"}
+{"sec": "map:753", "key": "A Team Meteor logo on the bottom of the screen.", "en": "A Team Meteor logo on the bottom of the screen.", "ja": "画面の下にあるメテオ団のロゴよ。"}
+{"sec": "map:753", "key": "I've already combed this place and there's nothing to tell me what it is.", "en": "I've already combed this place and there's nothing to tell me what it is.", "ja": "ここはもう隅々まで調べたけど、正体を教えてくれるものは何もなかったわ。"}
+{"sec": "map:753", "key": "For better or worse, I'm not too willing to get mixed up with Team Meteor to find out more either.", "en": "For better or worse, I'm not too willing to get mixed up with Team Meteor to find out more either.", "ja": "良くも悪くも、これ以上調べるためにメテオ団に関わりたいとも思わないし。"}
+{"sec": "map:753", "key": "I'm thinking that's where you come in.", "en": "I'm thinking that's where you come in.", "ja": "だから、あんたの出番かなって思ってるの。"}
+{"sec": "map:753", "key": "I see you've got one of Meteor's ID cards there.", "en": "I see you've got one of Meteor's ID cards there.", "ja": "あんた、メテオ団のIDカードを持ってるみたいね。"}
+{"sec": "map:753", "key": "I won't ask questions because I know you're on the right side,", "en": "I won't ask questions because I know you're on the right side,", "ja": "あんたが正しい側にいるのは分かってるから、詮索はしないけど、"}
+{"sec": "map:753", "key": "But if you can think of anywhere that card could get you into, maybe there'll be a hint there as to whoever owns this heap.", "en": "But if you can think of anywhere that card could get you into, maybe there'll be a hint there as to whoever owns this heap.", "ja": "そのカードで入れる場所に心当たりがあるなら、このガラクタの持ち主のヒントがあるかもしれないわね。"}
+{"sec": "map:753", "key": "I've tried brute-forcing the password, but that takes for goddamn ever.", "en": "I've tried brute-forcing the password, but that takes for goddamn ever.", "ja": "パスワードを総当たりで試してみたけど、とんでもなく時間がかかるのよ。"}
+{"sec": "map:753", "key": "Still more interesting than the rest of my paperwork though.", "en": "Still more interesting than the rest of my paperwork though.", "ja": "それでも、他の書類仕事よりはよっぽど面白いけどね。"}
+{"sec": "map:753", "key": "So, you know, I'll be around.", "en": "So, you know, I'll be around.", "ja": "だから、まあ、この辺にいるから。"}
+{"sec": "map:753", "key": "Swing by if you find anything.", "en": "Swing by if you find anything.", "ja": "何か見つけたら寄ってちょうだい。"}
+{"sec": "map:753", "key": "SARENA: Don't blame you.", "en": "SARENA: Don't blame you. ", "ja": "サレナ: そりゃそうよね。"}
+{"sec": "map:753", "key": "I'm sure you've got better things to do.", "en": "I'm sure you've got better things to do.", "ja": "あんたにはもっと他にやることがあるでしょうし。"}
+{"sec": "map:753", "key": "Can't say the same.", "en": "Can't say the same.", "ja": "あたしは違うけど。"}
+{"sec": "map:753", "key": "SARENA: Any luck, soldier?", "en": "SARENA: Any luck, soldier?", "ja": "サレナ: どう、成果はあった?"}
+{"sec": "map:753", "key": "If you got a password for me, I'll give it a go.", "en": "If you got a password for me, I'll give it a go.", "ja": "パスワードがあるなら、試してみるわよ。"}
+{"sec": "map:753", "key": "SARENA: I'll give it a try.", "en": "SARENA: I'll give it a try.", "ja": "サレナ: 試してみるわね。"}
+{"sec": "map:753", "key": ".", "en": ".", "ja": "."}
+{"sec": "map:753", "key": ". .", "en": ". . ", "ja": ". ."}
+{"sec": "map:753", "key": "SARENA: Well, well.", "en": "SARENA: Well, well.", "ja": "サレナ: あら、あら。"}
+{"sec": "map:753", "key": "Way to go, kiddo.", "en": "Way to go, kiddo.", "ja": "やるじゃない、坊や。"}
+{"sec": "map:753", "key": "Now let's see what we can see...", "en": "Now let's see what we can see...", "ja": "それじゃ、何が見えるか確認しましょ……"}
+{"sec": "map:753", "key": "Mm...", "en": "Mm...", "ja": "ん……"}
+{"sec": "map:753", "key": "SARENA: Interesting.", "en": "SARENA: Interesting.", "ja": "サレナ: 面白いわね。"}
+{"sec": "map:753", "key": "No identifying information, but there's that gem.", "en": "No identifying information, but there's that gem.", "ja": "身元が分かるものはないけど、あの宝石があるわね。"}
+{"sec": "map:753", "key": "SARENA: Let's see what other secrets are buried here.", "en": "SARENA: Let's see what other secrets are buried here.", "ja": "サレナ: 他にどんな秘密が埋まってるか見てみましょ。"}
+{"sec": "map:753", "key": "SARENA: No dice.", "en": "SARENA: No dice.", "ja": "サレナ: だめね。"}
+{"sec": "map:753", "key": "If that Card can't give you a lead somewhere, I dunno what will.", "en": "If that Card can't give you a lead somewhere, I dunno what will.", "ja": "そのカードで手がかりが見つからないなら、もう他に方法が思いつかないわ。"}
+{"sec": "map:753", "key": "SARENA: Well, an additional room is definitely one way to expand the property value.", "en": "SARENA: Well, an additional room is definitely one way to expand the property value.", "ja": "サレナ: まあ、部屋を増築するのも物件価値を上げる一つの手ではあるわね。"}
+{"sec": "map:753", "key": "I'm pretty sure you're supposed to get a permit before making additions like that,", "en": "I'm pretty sure you're supposed to get a permit before making additions like that,", "ja": "こういう増築の前には許可が必要だったはずだけど、"}
+{"sec": "map:753", "key": "But I'll just assume that got lost with the previous manager.", "en": "But I'll just assume that got lost with the previous manager.", "ja": "それも前の管理人と一緒に紛失したってことにしとくわ。"}
+{"sec": "map:753", "key": "Hm?", "en": "Hm?", "ja": "ん?"}
+{"sec": "map:753", "key": "There's something written here.", "en": "There's something written here.", "ja": "ここに何か書いてある。"}
+{"sec": "map:753", "key": "\"I didn't know...\"", "en": "\"I didn't know...\"", "ja": "「知らなかった……」"}
+{"sec": "map:753", "key": "\"He tricked me...\"", "en": "\"He tricked me...\"", "ja": "「あいつにだまされた……」"}
+{"sec": "map:753", "key": "Whoever was here had some problems.", "en": "Whoever was here had some problems.", "ja": "ここにいた誰かは、色々問題を抱えてたみたいね。"}
+{"sec": "map:753", "key": "And what's with all this crap on the ground?", "en": "And what's with all this crap on the ground?", "ja": "それに、床に散らばってるこのガラクタは何なの?"}
+{"sec": "map:753", "key": "SARENA: ...", "en": "SARENA: ...", "ja": "サレナ: ……"}
+{"sec": "map:753", "key": "\"I have to fix it...\"", "en": "\"I have to fix it...\"", "ja": "「直さなくちゃ……」"}
+{"sec": "map:753", "key": "\"I'll get them all back...\"", "en": "\"I'll get them all back...\"", "ja": "「あいつら全員に仕返ししてやる……」"}
+{"sec": "map:753", "key": "\"History was in my hands,", "en": "\"History was in my hands,", "ja": "「歴史はこの手の中にあった、"}
+{"sec": "map:753", "key": "And then my skull.", "en": "And then my skull.", "ja": "それから、この頭蓋の中に。"}
+{"sec": "map:753", "key": "It is written by the winner, so I must take up the pen.", "en": "It is written by the winner, so I must take up the pen.", "ja": "歴史とは勝者が書くもの、だから私はペンを取らねばならぬ。"}
+{"sec": "map:753", "key": "Nose to the grindstone, eye to the needle.", "en": "Nose to the grindstone, eye to the needle.", "ja": "鼻先をといしに、目を針の先に。"}
+{"sec": "map:753", "key": "The sword follows only after.\"", "en": "The sword follows only after.\"", "ja": "剣はそのあとに続くのみ」"}
+{"sec": "map:753", "key": "...", "en": "...", "ja": "…………"}
+{"sec": "map:753", "key": "New plan.", "en": "New plan.", "ja": "新しい計画にするわ。"}
+{"sec": "map:753", "key": "There's no record of this house's owner, so it doesn't have one.", "en": "There's no record of this house's owner, so it doesn't have one.", "ja": "この家の所有者の記録がないなら、所有者はいないってことにする。"}
+{"sec": "map:753", "key": "Reading this, I'm convinced it's better that way.", "en": "Reading this, I'm convinced it's better that way.", "ja": "これを読んだ今、そのほうがいいってはっきり分かったわ。"}
+{"sec": "map:753", "key": "I'll clean up the paperwork and get it on the market like, eventually or something.", "en": "I'll clean up the paperwork and get it on the market like, eventually or something.", "ja": "書類を片付けて、そのうち市場に出すことにするわね。"}
+{"sec": "map:753", "key": "SARENA: Thanks for your help.", "en": "SARENA: Thanks for your help.", "ja": "サレナ: 手伝ってくれてありがとう。"}
+{"sec": "map:753", "key": "It's been, uh...", "en": "It's been, uh...", "ja": "なんていうか、その……"}
+{"sec": "map:753", "key": "Weird.", "en": "Weird.", "ja": "変な経験だったわ。"}
+{"sec": "map:753", "key": "Here's some appreciation.", "en": "Here's some appreciation.", "ja": "これ、お礼よ。"}
+{"sec": "map:753", "key": "\\PN obtained a Department Store Sticker: Manectric!", "en": "\\PN obtained a Department Store Sticker: Manectric!", "ja": "\\PNは「デパートシール: ライボルト」を手に入れた!"}
+{"sec": "map:753", "key": "SARENA: There you go.", "en": "SARENA: There you go.", "ja": "サレナ: はい、どうぞ。"}
+{"sec": "map:753", "key": "All right, I'm out of here before I have to read any more creepy slam poetry.", "en": "All right, I'm out of here before I have to read any more creepy slam poetry.", "ja": "よし、これ以上不気味なポエムを読まされる前に、あたしはもう行くわね。"}
+{"sec": "map:753", "key": "Thanks for like, bailing me and the city out, or whatever.", "en": "Thanks for like, bailing me and the city out, or whatever.", "ja": "あんたのおかげで、あたしも街も助かった、みたいな感じ。"}
+{"sec": "map:753", "key": "...Is what I would say, if you had a Department Store Card.", "en": "...Is what I would say, if you had a Department Store Card.", "ja": "……って言いたいところだけど、あんたがデパートカードを持ってたらの話ね。"}
+{"sec": "map:753", "key": "Really, how do you not have one already?", "en": "Really, how do you not have one already?", "ja": "ていうか、なんでまだ持ってないのよ?"}
+{"sec": "map:753", "key": "If you go get one, I'll give you a Sticker on it.", "en": "If you go get one, I'll give you a Sticker on it.", "ja": "作ってきたら、シールをあげるわ。"}
+{"sec": "map:753", "key": "SARENA: Did you get your Card?", "en": "SARENA: Did you get your Card?", "ja": "サレナ: カード、作った?"}
+{"sec": "map:753", "key": "Oh, finally.", "en": "Oh, finally.", "ja": "あら、やっとね。"}
+{"sec": "map:753", "key": "Seriously, no?", "en": "Seriously, no?", "ja": "マジでまだなの?"}
+{"sec": "map:753", "key": "What are you waiting for?", "en": "What are you waiting for?", "ja": "何を待ってるのよ?"}
+{"sec": "map:753", "key": "Hey! Hey! You wanna know something?", "en": "Hey! Hey! You wanna know something?", "ja": "ねえ! ねえ! 知りたいことない?"}
+{"sec": "map:753", "key": "Down in the basement, there's this really strange room!", "en": "Down in the basement, there's this really strange room!", "ja": "地下室に、すごく変な部屋があるんだよ!"}
+{"sec": "map:753", "key": "And! And! You wanna know what else?", "en": "And! And! You wanna know what else?", "ja": "それに! それに! 他にも知りたい?"}
+{"sec": "map:753", "key": "It's really spooky!", "en": "It's really spooky!", "ja": "すっごく不気味なの!"}
+{"sec": "map:753", "key": "One time, my friend dared me to stay the night in there, but...", "en": "One time, my friend dared me to stay the night in there, but...", "ja": "前に、友達に「一晩泊まってみろ」って言われたんだけど……"}
+{"sec": "map:753", "key": "I got too scared and had to leave!", "en": "I got too scared and had to leave!", "ja": "怖すぎて出てきちゃった!"}
+{"sec": "map:753", "key": "It's that scary and weird!", "en": "It's that scary and weird!", "ja": "それくらい怖くて変なんだよ!"}
+{"sec": "map:753", "key": "Hey! Hey!", "en": "Hey! Hey!", "ja": "ねえ! ねえ!"}
+{"sec": "map:753", "key": "D'you wanna see it?", "en": "D'you wanna see it?", "ja": "見てみたい?"}
+{"sec": "map:753", "key": "Okay!", "en": "Okay! ", "ja": "よし!"}
+{"sec": "map:753", "key": "I'll leave the door open; follow me!", "en": "I'll leave the door open; follow me!", "ja": "ドア開けとくから、ついてきて!"}
+{"sec": "map:753", "key": "Oh.", "en": "Oh.", "ja": "あ。"}
+{"sec": "map:753", "key": "Which floor?", "en": "Which floor?", "ja": "どの階?"}
+{"sec": "map:753", "key": "Ground Floor", "en": "Ground Floor", "ja": "1階"}
+{"sec": "map:753", "key": "Basement Floor", "en": "Basement Floor", "ja": "地下1階"}
+{"sec": "map:753", "key": "It's nice and all to be back in business after sleepin' so long,", "en": "It's nice and all to be back in business after sleepin' so long,", "ja": "あんなに長く眠ってたあとで、また仕事に戻れたのはいいことなんだけどさ、"}
+{"sec": "map:753", "key": "But I'm afraid I still hardly know what to do with myself.", "en": "But I'm afraid I still hardly know what to do with myself.", "ja": "正直、自分でも何をすればいいのかまだよく分かんないんだ。"}
+{"sec": "map:753", "key": "My wife is always going on about finding all that Pokémon data...", "en": "My wife is always going on about finding all that Pokémon data...", "ja": "うちの奥さんはいつも、ポケモンのデータを全部集めるとか言ってて……"}
+{"sec": "map:753", "key": "I know it would help out with my research, but she doesn't have to be the one to put herself through such lengths when she already has a condition.", "en": "I know it would help out with my research, but she doesn't have to be the one to put herself through such lengths when she already has a condition.", "ja": "それが自分の研究の助けになるのは分かるんだけど、彼女には持病があるのに、そこまで無理する必要はないと思うんだよなあ。"}
+{"sec": "map:753", "key": "All this for that little thing...", "en": "All this for that little thing...", "ja": "あんな小さなものひとつのために、こんなに……"}
+{"sec": "map:753", "key": "Awwh, geez, I'm soooo far behind on my coursework after being out for so long.", "en": "Awwh, geez, I'm soooo far behind on my coursework after being out for so long.", "ja": "あーあ、まったく、あんなに休んでたせいで課題がめちゃくちゃ遅れてるよ。"}
+{"sec": "map:753", "key": "You really think my professor's gonna believe if I say I was asleep the whole time?", "en": "You really think my professor's gonna believe if I say I was asleep the whole time?", "ja": "ずっと寝てましたなんて言って、教授が信じてくれると思う?"}
+{"sec": "map:753", "key": "I hear this is a very old city...", "en": "I hear this is a very old city...", "ja": "ここはすごく古い街だって聞いたけど……"}
+{"sec": "map:753", "key": "But after it was found completely empty, they cleared away all the old growth and rebuilt it!", "en": "But after it was found completely empty, they cleared away all the old growth and rebuilt it!", "ja": "完全に空っぽの状態で見つかったあと、古いものを全部片付けて建て直したんだって!"}
+{"sec": "map:753", "key": "They did a fabulous job, in my opinion,", "en": "They did a fabulous job, in my opinion, ", "ja": "あたし的には、すごくいい仕事したと思うんだけど、"}
+{"sec": "map:753", "key": "But what ever happened to the old residents?", "en": "But what ever happened to the old residents?", "ja": "昔の住民たちは一体どうなったのかしら?"}
+{"sec": "map:753", "key": "Pokédex Collection completion has been detected from a different save file.", "en": "Pokédex Collection completion has been detected from a different save file.", "ja": "別のセーブデータで図鑑コレクションの完成が検出されました。"}
+{"sec": "map:753", "key": "Skip Pokédex Collection on this file? Rewards will be obtained immediately.", "en": "Skip Pokédex Collection on this file? Rewards will be obtained immediately.", "ja": "このファイルでは図鑑コレクションをスキップしますか? 報酬はすぐに手に入ります。"}
+{"sec": "map:753", "key": "Vanilla - $400", "en": "Vanilla - $400", "ja": "バニラ - $400"}
+{"sec": "map:753", "key": "Chocolate - $500", "en": "Chocolate - $500", "ja": "チョコレート - $500"}
+{"sec": "map:753", "key": "Strawberry - $600", "en": "Strawberry - $600", "ja": "ストロベリー - $600"}
+{"sec": "map:753", "key": "Cancel", "en": "Cancel", "ja": "キャンセル"}
+{"sec": "map:753", "key": "Yes", "en": "Yes", "ja": "はい"}
+{"sec": "map:753", "key": "No", "en": "No", "ja": "いいえ"}
+{"sec": "map:753", "key": "1F", "en": "1F", "ja": "1F"}
+{"sec": "map:753", "key": "B1F", "en": "B1F", "ja": "B1F"}

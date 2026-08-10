@@ -1,0 +1,505 @@
+{"sec": "map:38", "key": "AME: Oh, you're here already. Good.", "en": "AME: Oh, you're here already. Good.", "ja": "アメ: あら、もう来てたのね。よかった。"}
+{"sec": "map:38", "key": "There's no sign of any suspect yet, but I've got several officers out searching the area.", "en": "There's no sign of any suspect yet, but I've got several officers out searching the area.", "ja": "まだ容疑者の手がかりはないけど、複数の署員をこの一帯の捜索に出してるわ。"}
+{"sec": "map:38", "key": "VICTORIA: Suspect? In the station bombing?", "en": "VICTORIA: Suspect? In the station bombing?", "ja": "ヴィクトリア: 容疑者? 駅の爆破事件のですか?"}
+{"sec": "map:38", "key": "AME: That's right. If anyone responsible for the incident is in the area, we'll find them.", "en": "AME: That's right. If anyone responsible for the incident is in the area, we'll find them.", "ja": "アメ: そうよ。事件の犯人がこの辺りにいるなら、必ず見つけ出すわ。"}
+{"sec": "map:38", "key": "But until then, we'll probably have to restrict travel between the wards.", "en": "But until then, we'll probably have to restrict travel between the wards.", "ja": "でもそれまでは、ワード間の移動を制限することになると思う。"}
+{"sec": "map:38", "key": "Anyway, new trainers don't need to worry about all that; it'll be taken care of.", "en": "Anyway, new trainers don't need to worry about all that; it'll be taken care of.", "ja": "とにかく、新人トレーナーはそんなこと気にしなくていいわ。ちゃんと対処するから。"}
+{"sec": "map:38", "key": "Let's finish your registrations.", "en": "Let's finish your registrations.", "ja": "さあ、登録を済ませましょう。"}
+{"sec": "map:38", "key": "Obviously the main event is picking a starter.", "en": "Obviously the main event is picking a starter.", "ja": "もちろん、メインイベントは御三家選びよ。"}
+{"sec": "map:38", "key": "VICTORIA: \\PN can go ahead of me; I don't mind.", "en": "VICTORIA: \\PN can go ahead of me; I don't mind.", "ja": "ヴィクトリア: \\PN、お先にどうぞ。わたしは構いません。"}
+{"sec": "map:38", "key": "AME: Right this way, then.", "en": "AME: Right this way, then.", "ja": "アメ: それじゃ、こちらへどうぞ。"}
+{"sec": "map:38", "key": "CAIN: Heyy, Ame is waiting for you guys when you're done!", "en": "CAIN: Heyy, Ame is waiting for you guys when you're done!", "ja": "カイン: よぉ、終わったらアメが待ってるってさ!"}
+{"sec": "map:38", "key": "I'm all set, so I'm gonna hit the road. See ya~", "en": "I'm all set, so I'm gonna hit the road. See ya~", "ja": "オレはもう用済みだから、そろそろ行くわ。じゃあな~"}
+{"sec": "map:38", "key": "VICTORIA: Oh? Was there more to do? Let's see.", "en": "VICTORIA: Oh? Was there more to do? Let's see.", "ja": "ヴィクトリア: あら? まだ何かあるんですか? 見てみましょう。"}
+{"sec": "map:38", "key": "VICTORIA: Sorry if we kept you waiting!", "en": "VICTORIA: Sorry if we kept you waiting!", "ja": "ヴィクトリア: お待たせしてしまってすみません!"}
+{"sec": "map:38", "key": "AME: No worries. I already took care of the documentation while you two were finishing.", "en": "AME: No worries. I already took care of the documentation while you two were finishing.", "ja": "アメ: 気にしないで。二人が終わる間に、書類仕事は済ませておいたから。"}
+{"sec": "map:38", "key": "So, then all that's left is to give you these:", "en": "So, then all that's left is to give you these:", "ja": "それじゃ、あとはこれを渡すだけね:"}
+{"sec": "map:38", "key": "Firstly, a Pokédex. You know the drill here.", "en": "Firstly, a Pokédex. You know the drill here.", "ja": "まずはポケモン図鑑。お決まりの流れよね。"}
+{"sec": "map:38", "key": "\\PN received a Pokédex!", "en": "\\PN received a Pokédex!", "ja": "\\PNはポケモン図鑑を受け取った!"}
+{"sec": "map:38", "key": "You already have a Pokédex.", "en": "You already have a Pokédex.", "ja": "すでにポケモン図鑑を持っている。"}
+{"sec": "map:38", "key": "AME: Secondly, the Pokégear.", "en": "AME: Secondly, the Pokégear. ", "ja": "アメ: 次はポケギアね。"}
+{"sec": "map:38", "key": "This device allows you to check the map, listen to music, and use online functions.", "en": "This device allows you to check the map, listen to music, and use online functions.", "ja": "この機械があれば、マップの確認や音楽の再生、オンライン機能が使えるわ。"}
+{"sec": "map:38", "key": "\\PN received the Pokégear!", "en": "\\PN received the Pokégear!", "ja": "\\PNはポケギアを受け取った!"}
+{"sec": "map:38", "key": "AME: Finally, as a promotional bonus from Silph Co., please take these Running Shoes.", "en": "AME: Finally, as a promotional bonus from Silph Co., please take these Running Shoes.", "ja": "アメ: 最後に、シルフカンパニーからの販促品として、このランニングシューズをどうぞ。"}
+{"sec": "map:38", "key": "As much as I hate advertising, they are convenient...", "en": "As much as I hate advertising, they are convenient...", "ja": "広告みたいなのは嫌いだけど、便利は便利なのよね……"}
+{"sec": "map:38", "key": "With these, you can hold the Space Bar, or toggle the auto-run in the Options Menu.", "en": "With these, you can hold the Space Bar, or toggle the auto-run in the Options Menu.", "ja": "これがあれば、スペースキーを押しっぱなしにするか、オプションメニューでオートランを切り替えられるわ。"}
+{"sec": "map:38", "key": "And don't worry, nobody cares if you run inside.", "en": "And don't worry, nobody cares if you run inside.", "ja": "それと、室内で走っても誰も気にしないから安心して。"}
+{"sec": "map:38", "key": "\\PN received the Running Shoes!", "en": "\\PN received the Running Shoes!", "ja": "\\PNはランニングシューズを受け取った!"}
+{"sec": "map:38", "key": "AME: With that, you're all set!", "en": "AME: With that, you're all set!", "ja": "アメ: これで準備万端ね!"}
+{"sec": "map:38", "key": "I've got more damage control to run, so I'm afraid I have to leave you be now.", "en": "I've got more damage control to run, so I'm afraid I have to leave you be now.", "ja": "まだ被害対応が残ってるから、悪いけどここで失礼するわ。"}
+{"sec": "map:38", "key": "VICTORIA: We'll be fine! Thanks for the help!", "en": "VICTORIA: We'll be fine! Thanks for the help!", "ja": "ヴィクトリア: 大丈夫です! 助かりました!"}
+{"sec": "map:38", "key": "AME: Good luck out there.", "en": "AME: Good luck out there.", "ja": "アメ: 頑張ってね。"}
+{"sec": "map:38", "key": "And maybe send a tip to your local officer if you happen to see anyone who looks like they might want to blow up a train station.", "en": "And maybe send a tip to your local officer if you happen to see anyone who looks like they might want to blow up a train station.", "ja": "それと、駅を爆破しそうな奴を見かけたら、地元の警官に一報入れてね。"}
+{"sec": "map:38", "key": "Julia doesn't count.", "en": "Julia doesn't count.", "ja": "ジュリアはカウントしないから。"}
+{"sec": "map:38", "key": "Until next time!", "en": "Until next time!", "ja": "それじゃ、また今度!"}
+{"sec": "map:38", "key": "VICTORIA: All right, I'll get going and check in with Kiki.", "en": "VICTORIA: All right, I'll get going and check in with Kiki.", "ja": "ヴィクトリア: それでは、キキ先生のところに顔を出してきます。"}
+{"sec": "map:38", "key": "Oh, who's Kiki? She's my teacher!", "en": "Oh, who's Kiki? She's my teacher!", "ja": "あ、キキが誰かって? わたしの先生なんです!"}
+{"sec": "map:38", "key": "I'm an apprentice at Apophyll Academy, across the lake from the city.", "en": "I'm an apprentice at Apophyll Academy, across the lake from the city.", "ja": "わたしは、街から湖を渡った先にあるアポフィルアカデミーの生徒でして。"}
+{"sec": "map:38", "key": "If you're ever in the area, I'm sure they'd love you to drop by.", "en": "If you're ever in the area, I'm sure they'd love you to drop by. ", "ja": "もしあの辺りに来ることがあれば、ぜひ立ち寄ってみてください。きっと歓迎してくれますよ。"}
+{"sec": "map:38", "key": "Anyway, here! These might help you get started.", "en": "Anyway, here! These might help you get started.", "ja": "それはそうと、はい! これ、旅の始まりに役立つと思います。"}
+{"sec": "map:38", "key": "\\PN received 5 Poké Balls!", "en": "\\PN received 5 Poké Balls!", "ja": "\\PNはモンスターボールを5個受け取った!"}
+{"sec": "map:38", "key": "VICTORIA: I know a lot of people say that Pokémon are rare in the city...", "en": "VICTORIA: I know a lot of people say that Pokémon are rare in the city...", "ja": "ヴィクトリア: 街ではポケモンが珍しいって、よく言われるんですけど……"}
+{"sec": "map:38", "key": "But you can find them still.", "en": "But you can find them still. ", "ja": "ちゃんと見つけることはできますよ。"}
+{"sec": "map:38", "key": "Sometimes they like to stay hidden, but just look around a bit!", "en": "Sometimes they like to stay hidden, but just look around a bit!", "ja": "隠れているだけのこともあるので、ちょっと辺りを見回してみてください!"}
+{"sec": "map:38", "key": "I'm sure you'll manage.", "en": "I'm sure you'll manage.", "ja": "\\PNならきっと大丈夫です。"}
+{"sec": "map:38", "key": "For now, just explore the city!", "en": "For now, just explore the city!", "ja": "とりあえず、街を探検してみてください!"}
+{"sec": "map:38", "key": "I'll see you around!", "en": "I'll see you around!", "ja": "また会いましょう!"}
+{"sec": "map:38", "key": "VICTORIA: Which one did you pick, \\PN?", "en": "VICTORIA: Which one did you pick, \\PN?", "ja": "ヴィクトリア: \\PN、どの子を選んだんですか?"}
+{"sec": "map:38", "key": "Oh, don't worry, I won't pick just to beat you; that's silly.", "en": "Oh, don't worry, I won't pick just to beat you; that's silly. ", "ja": "あ、大丈夫、わたしは\\PNに勝つためだけに選んだりしませんから。そんなの馬鹿げてますし。"}
+{"sec": "map:38", "key": "I already know which one I want anyway.", "en": "I already know which one I want anyway.", "ja": "それに、欲しい子はもう決まってるので。"}
+{"sec": "map:38", "key": "Wait, you got Litten?", "en": "Wait, you got Litten?", "ja": "あれ、ニャビーを選んだんですか?"}
+{"sec": "map:38", "key": "...Well, shoot.", "en": "...Well, shoot.", "ja": "……あちゃあ。"}
+{"sec": "map:38", "key": "That was the one I was going to get too.", "en": "That was the one I was going to get too.", "ja": "それ、わたしも選ぶつもりだったんです。"}
+{"sec": "map:38", "key": "AME: That's not a problem.", "en": "AME: That's not a problem.", "ja": "アメ: それは問題ないわ。"}
+{"sec": "map:38", "key": "We're equipped to handle multiple new Trainers, so naturally we have replacements for each starter.", "en": "We're equipped to handle multiple new Trainers, so naturally we have replacements for each starter. ", "ja": "複数の新人トレーナーに対応できる体制になってるから、当然それぞれの御三家の予備も用意してあるの。"}
+{"sec": "map:38", "key": "Given the condition of Grandview Station, it's not like we'll be getting many new Trainers for a while anyway...", "en": "Given the condition of Grandview Station, it's not like we'll be getting many new Trainers for a while anyway...", "ja": "グランドビュー駅のあの状態を考えると、しばらくは新人トレーナーもそんなに増えないでしょうしね……"}
+{"sec": "map:38", "key": "I'll just get a Litten from the reserve for you.", "en": "I'll just get a Litten from the reserve for you.", "ja": "予備からニャビーを持ってくるわね。"}
+{"sec": "map:38", "key": "Let's go on ahead upstairs.", "en": "Let's go on ahead upstairs.", "ja": "先に上に行きましょう。"}
+{"sec": "map:38", "key": "AME: Well then, shall we?", "en": "AME: Well then, shall we?", "ja": "アメ: それじゃ、行きましょうか。"}
+{"sec": "map:38", "key": "VICTORIA: Okay. Wait here for me, \\PN?", "en": "VICTORIA: Okay. Wait here for me, \\PN?", "ja": "ヴィクトリア: はい。\\PN、ここで待っててもらえますか?"}
+{"sec": "map:38", "key": "???: Heyyy, you're cute.", "en": "???: Heyyy, you're cute.", "ja": "???: よぉ、かわいいじゃん。"}
+{"sec": "map:38", "key": "What? Haha, no, I didn't say anything!", "en": "What? Haha, no, I didn't say anything!", "ja": "え? あはは、いや、何も言ってないって!"}
+{"sec": "map:38", "key": "Hey, was Ame just here?", "en": "Hey, was Ame just here?", "ja": "なあ、アメって今ここにいた?"}
+{"sec": "map:38", "key": "Ohhhh, so she's with someone else. 'Kay~", "en": "Ohhhh, so she's with someone else. 'Kay~", "ja": "あー、誰か他の人と一緒なんだ。オッケー~"}
+{"sec": "map:38", "key": "My name's Cain, how about yours?", "en": "My name's Cain, how about yours?", "ja": "オレの名前はカイン。お前は?"}
+{"sec": "map:38", "key": "\\PN... Pretty name.", "en": "\\PN... Pretty name. ", "ja": "\\PN……いい名前だな。"}
+{"sec": "map:38", "key": "So by the looks of it, you just got your first Pokémon.", "en": "So by the looks of it, you just got your first Pokémon. ", "ja": "見たところ、今さっき初めてのポケモンをもらったばっかりって感じか。"}
+{"sec": "map:38", "key": "Are you gonna challenge the League?", "en": "Are you gonna challenge the League?", "ja": "リーグに挑戦するのか?"}
+{"sec": "map:38", "key": "I was just coming here to resi-- er...", "en": "I was just coming here to resi-- er...", "ja": "オレはちょうど、と……登録し直しに来たとこで……"}
+{"sec": "map:38", "key": "To start over.", "en": "To start over.", "ja": "やり直しにな。"}
+{"sec": "map:38", "key": "Figured I'd try taking on this League instead.", "en": "Figured I'd try taking on this League instead.", "ja": "こっちのリーグに挑戦してみようと思ってさ。"}
+{"sec": "map:38", "key": "Sooo, \\PN... whaddya say to a battle?", "en": "Sooo, \\PN... whaddya say to a battle?", "ja": "それでさ、\\PN……バトルしてみない?"}
+{"sec": "map:38", "key": "If it's your first time, I'll be gentle~", "en": "If it's your first time, I'll be gentle~", "ja": "初めてなら、優しくしてやるよ~"}
+{"sec": "map:38", "key": "Cute AND talented~", "en": "Cute AND talented~", "ja": "カワイイうえに　才能まであるなんてね〜"}
+{"sec": "map:38", "key": "CAIN: Very nice!", "en": "CAIN: Very nice!", "ja": "カイン: なかなかやるじゃん!"}
+{"sec": "map:38", "key": "CAIN: Just got unlucky~ Don't take it too hard.", "en": "CAIN: Just got unlucky~ Don't take it too hard. ", "ja": "カイン: ちょっと運が悪かっただけだって~ あんま気にすんなよ。"}
+{"sec": "map:38", "key": "I mean, unless you're into that.", "en": "I mean, unless you're into that.", "ja": "まあ、そういうのが好きなら別だけどな。"}
+{"sec": "map:38", "key": "C'mon, let's get our Pokémon healed up.", "en": "C'mon, let's get our Pokémon healed up. ", "ja": "ほら、ポケモン回復させに行こうぜ。"}
+{"sec": "map:38", "key": "There's a PokéCenter built in right over here.", "en": "There's a PokéCenter built in right over here.", "ja": "ここに、ポケモンセンターが併設されてるんだ。"}
+{"sec": "map:38", "key": "Welcome! Allow me to heal your Pokémon!", "en": "Welcome! Allow me to heal your Pokémon!", "ja": "いらっしゃいませ! ポケモンをお預かりして、回復させていただきますね!"}
+{"sec": "map:38", "key": "Your Pokémon may be infected by PokéRus.", "en": "Your Pokémon may be infected by PokéRus.", "ja": "お手持ちのポケモンが、ポケルスに感染しているかもしれません。"}
+{"sec": "map:38", "key": "Little is known about the PokéRus except that they are microscopic life-forms that attach to Pokémon.", "en": "Little is known about the PokéRus except that they are microscopic life-forms that attach to Pokémon.", "ja": "ポケルスについて分かっていることはあまり多くありませんが、ポケモンに付着する微小な生命体だとされています。"}
+{"sec": "map:38", "key": "While infected, Pokémon are said to grow exceptionally well.", "en": "While infected, Pokémon are said to grow exceptionally well.", "ja": "感染している間は、ポケモンの成長が著しく良くなると言われています。"}
+{"sec": "map:38", "key": "Here you go. We hope to see you again!", "en": "Here you go. We hope to see you again!", "ja": "はい、どうぞ。またのお越しをお待ちしております!"}
+{"sec": "map:38", "key": "VICTORIA: There you are!", "en": "VICTORIA: There you are!", "ja": "ヴィクトリア: いた!"}
+{"sec": "map:38", "key": "CAIN: Sorry~ I kinda stole \\PN.", "en": "CAIN: Sorry~ I kinda stole \\PN.", "ja": "カイン: 悪いな~ ちょっと\\PNを借りちゃってたわ。"}
+{"sec": "map:38", "key": "AME: Oh, Cain... Right, I forgot you were coming by.", "en": "AME: Oh, Cain... Right, I forgot you were coming by.", "ja": "アメ: あら、カイン……そうだった、来るって言ってたの忘れてたわ。"}
+{"sec": "map:38", "key": "CAIN: It's okayyyy, when you were gone, I met \\PN and had some fun~", "en": "CAIN: It's okayyyy, when you were gone, I met \\PN and had some fun~", "ja": "カイン: いいっていいって、アメがいない間に\\PNと会って、ちょっと楽しんでたんだ~"}
+{"sec": "map:38", "key": "VICTORIA: \"Had some fun\"?", "en": "VICTORIA: \"Had some fun\"?", "ja": "ヴィクトリア: 「楽しんでた」?"}
+{"sec": "map:38", "key": "So that's the kind of person \\PN is...", "en": "So that's the kind of person \\PN is...", "ja": "\\PNって、そういう人だったんですね……"}
+{"sec": "map:38", "key": "CAIN: Nah, we just had a battle.", "en": "CAIN: Nah, we just had a battle.", "ja": "カイン: いやいや、ただバトルしてただけだって。"}
+{"sec": "map:38", "key": "VICTORIA: Oh! That does sound fun!", "en": "VICTORIA: Oh! That does sound fun!", "ja": "ヴィクトリア: あ! それは楽しそうですね!"}
+{"sec": "map:38", "key": "I wanna try out my new Pokémon, too.", "en": "I wanna try out my new Pokémon, too. ", "ja": "わたしも、新しいポケモンを試してみたいです。"}
+{"sec": "map:38", "key": "\\PN, are you up for one more?", "en": "\\PN, are you up for one more?", "ja": "\\PN、もう一戦どうですか?"}
+{"sec": "map:38", "key": "AME: Cain, I'll get you registered as a challenger while they do that. Come with me.", "en": "AME: Cain, I'll get you registered as a challenger while they do that. Come with me.", "ja": "アメ: カイン、その間にチャレンジャー登録しておくから、こっちに来て。"}
+{"sec": "map:38", "key": "CAIN: Ooh, yes, master~", "en": "CAIN: Ooh, yes, master~", "ja": "カイン: おお、はい、ご主人様~"}
+{"sec": "map:38", "key": "AME: \"Master\"?", "en": "AME: \"Master\"?", "ja": "アメ: 「ご主人様」?"}
+{"sec": "map:38", "key": "CAIN: Nothing~", "en": "CAIN: Nothing~", "ja": "カイン: なんでもない~"}
+{"sec": "map:38", "key": "AME: Uh... huh. Come on.", "en": "AME: Uh... huh. Come on.", "ja": "アメ: え……ふーん。ほら、来て。"}
+{"sec": "map:38", "key": "VICTORIA: Then let's begin.", "en": "VICTORIA: Then let's begin.", "ja": "ヴィクトリア: それでは、始めましょう。"}
+{"sec": "map:38", "key": "My sensei said that learning to work and train together with Pokémon would be an invaluable step on my journey of personal growth.", "en": "My sensei said that learning to work and train together with Pokémon would be an invaluable step on my journey of personal growth.", "ja": "わたしの先生は、ポケモンと共に鍛え、共に歩むことを学ぶのは、自己成長の旅においてかけがえのない一歩になると仰っていました。"}
+{"sec": "map:38", "key": "\\PN, let's take these first steps together!", "en": "\\PN, let's take these first steps together!", "ja": "\\PN、その最初の一歩を、一緒に踏み出しましょう!"}
+{"sec": "map:38", "key": "Oh, it's over already?", "en": "Oh, it's over already?", "ja": "あら、もう終わりですか?"}
+{"sec": "map:38", "key": "VICTORIA: You're no ordinary Trainer, are you...", "en": "VICTORIA: You're no ordinary Trainer, are you...", "ja": "ヴィクトリア: あなたは、ただのトレーナーじゃないんですね……"}
+{"sec": "map:38", "key": "VICTORIA: Yay, I won!", "en": "VICTORIA: Yay, I won! ", "ja": "ヴィクトリア: やった、勝ちました!"}
+{"sec": "map:38", "key": "There's no need to feel down though.", "en": "There's no need to feel down though.", "ja": "でも、落ち込む必要はありませんよ。"}
+{"sec": "map:38", "key": "As Kiki said, every loss is a lesson learned.", "en": "As Kiki said, every loss is a lesson learned.", "ja": "キキ先生が仰るように、負けはすべて学びになりますから。"}
+{"sec": "map:38", "key": "I hear Pokémon with Hidden Abilities have been showing up in the wild lately. Man, I'd like to get my hands on some of those.", "en": "I hear Pokémon with Hidden Abilities have been showing up in the wild lately. Man, I'd like to get my hands on some of those.", "ja": "最近、夢特性を持ったポケモンが野生で見つかるって聞くな。ああいうの、一匹くらい手に入れたいもんだ。"}
+{"sec": "map:38", "key": "This place is kind of a miracle lately.", "en": "This place is kind of a miracle lately.", "ja": "最近、この場所はちょっとした奇跡だよな。"}
+{"sec": "map:38", "key": "And you know who it's all thanks to?", "en": "And you know who it's all thanks to?", "ja": "それが誰のおかげか知ってるか?"}
+{"sec": "map:38", "key": "Adrienn.", "en": "Adrienn. ", "ja": "アドリエンヌだよ。"}
+{"sec": "map:38", "key": "That fellow's a peach.", "en": "That fellow's a peach.", "ja": "あいつはいい奴だ。"}
+{"sec": "map:38", "key": "I hear Shiny Pokémon appear much more frequently in Reborn than other places, and they look different from most Shinies, too.", "en": "I hear Shiny Pokémon appear much more frequently in Reborn than other places, and they look different from most Shinies, too.", "ja": "リボーンでは、他の地方よりずっと高い確率で色違いポケモンが出るらしい。しかも、普通の色違いとは見た目も違うんだとか。"}
+{"sec": "map:38", "key": "Who wants to bet it's 'cause of radiation?", "en": "Who wants to bet it's 'cause of radiation?", "ja": "放射能のせいだって賭けてもいいぜ。"}
+{"sec": "map:38", "key": "Ah, so you're the city founder that was granted--", "en": "Ah, so you're the city founder that was granted--", "ja": "ああ、あんたが、街の創設者から与えられた……"}
+{"sec": "map:38", "key": "Oh, you're \\PN, correct?", "en": "Oh, you're \\PN, correct?", "ja": "あ、\\PNさんですよね?"}
+{"sec": "map:38", "key": "...", "en": "...", "ja": "…………"}
+{"sec": "map:38", "key": "As it turns out, Adrienn had asked for you to be given employee access in the Grand Hall anyway.", "en": "As it turns out, Adrienn had asked for you to be given employee access in the Grand Hall anyway.", "ja": "実は、アドリエンヌから、あなたに大ホールの従業員アクセス権を与えるよう頼まれていたんです。"}
+{"sec": "map:38", "key": "Our apologies for the miscommunication!", "en": "Our apologies for the miscommunication!", "ja": "連絡の行き違い、申し訳ありませんでした!"}
+{"sec": "map:38", "key": "Below, you'll find the employee areas. Please come and go as you like!", "en": "Below, you'll find the employee areas. Please come and go as you like!", "ja": "下の階には従業員エリアがあります。どうぞご自由にお出入りください!"}
+{"sec": "map:38", "key": "Not sure where to head?", "en": "Not sure where to head?", "ja": "どこへ向かえばいいか分からない?"}
+{"sec": "map:38", "key": "I hear there's a rendezvous happening around Labradorra City!", "en": "I hear there's a rendezvous happening around Labradorra City!", "ja": "ラブラドラシティの辺りで、何か集まりがあるらしいですよ!"}
+{"sec": "map:38", "key": "Agate City will be the place to be!", "en": "Agate City will be the place to be!", "ja": "アゲートシティが今、注目の場所ですよ!"}
+{"sec": "map:38", "key": "You're nearly to the top!", "en": "You're nearly to the top!", "ja": "もうすぐトップですね!"}
+{"sec": "map:38", "key": "According to your current records... your next Gym Battle will be with Miss Amaria Fiore!", "en": "According to your current records... your next Gym Battle will be with Miss Amaria Fiore!", "ja": "現在の記録によると……次のジムバトルの相手は、アマリア・フィオーレさんですね!"}
+{"sec": "map:38", "key": "Her Gym is up at the top of the Celestinine Cascade. Surely you've seen it?", "en": "Her Gym is up at the top of the Celestinine Cascade.  Surely you've seen it?", "ja": "彼女のジムは、セレスティナイン滝の頂上にあります。もう見たことがあるのでは?"}
+{"sec": "map:38", "key": "I hear Adrienn has granted you personal free access to the Tourmaline Desert. It would be a shame to pass that opportunity up!", "en": "I hear Adrienn has granted you personal free access to the Tourmaline Desert. It would be a shame to pass that opportunity up!", "ja": "アドリエンヌから、トルマリン砂漠への個人的な自由通行許可をもらったそうですね。この機会を逃すのはもったいないですよ!"}
+{"sec": "map:38", "key": "Why not take a look around the other wards and explore how everything has changed?", "en": "Why not take a look around the other wards and explore how everything has changed?", "ja": "他のワードも見て回って、どう変わったか確かめてみては?"}
+{"sec": "map:38", "key": "Since Agate City is currently out of commission, next up you should face the Agate Ace Triumvirate at Agate Circus!", "en": "Since Agate City is currently out of commission, next up you should face the Agate Ace Triumvirate at Agate Circus!", "ja": "アゲートシティは現在使用できない状態なので、次はアゲートサーカスでアゲートエーストリオに挑むといいですよ!"}
+{"sec": "map:38", "key": "Your next Gym Leader? Hm... It seems she has indicated she'll battle in the Iolia Valley in the Aventurine Region.", "en": "Your next Gym Leader? Hm... It seems she has indicated she'll battle in the Iolia Valley in the Aventurine Region.", "ja": "次のジムリーダーですか? うーん……イオリア渓谷、アベンチュリン地方でバトルすると伝えてきているようですね。"}
+{"sec": "map:38", "key": "The next closest Gym is located in the Aventurine Region- the Vanhanen Castle!", "en": "The next closest Gym is located in the Aventurine Region- the Vanhanen Castle!", "ja": "一番近い次のジムは、アベンチュリン地方のバンハネン城にありますよ!"}
+{"sec": "map:38", "key": "The next Gym Leader-- has fled his own assigned location. Where could he be?", "en": "The next Gym Leader-- has fled his own assigned location. Where could he be?", "ja": "次のジムリーダーは……自分の持ち場から逃げ出してしまったようです。一体どこに?"}
+{"sec": "map:38", "key": "The next closest Gym is in Spinel Town, in the Chrysolia Region!", "en": "The next closest Gym is in Spinel Town, in the Chrysolia Region!", "ja": "一番近い次のジムは、クリソリア地方のスピネルタウンにありますよ!"}
+{"sec": "map:38", "key": "A new Gym has opened! Located in the Wasteland, be sure to check it out!", "en": "A new Gym has opened! Located in the Wasteland, be sure to check it out!", "ja": "新しいジムがオープンしました! 荒地にあるので、ぜひチェックしてみてください!"}
+{"sec": "map:38", "key": "Why not check out Apophyll Academy, across the lake?", "en": "Why not check out Apophyll Academy, across the lake?", "ja": "湖の向こうにあるアポフィルアカデミーを見てきては?"}
+{"sec": "map:38", "key": "I hear it's a nice break away from everything!", "en": "I hear it's a nice break away from everything!", "ja": "息抜きにちょうどいい場所らしいですよ!"}
+{"sec": "map:38", "key": "The next Gym is across Beryl Bridge! However, it's usually locked. I wonder how to get it open...?", "en": "The next Gym is across Beryl Bridge! However, it's usually locked. I wonder how to get it open...?", "ja": "次のジムは、ベリル大橋の向こうにあります! でも、普段は施錠されていて……どうやったら開くんでしょうね?"}
+{"sec": "map:38", "key": "Your next Gym will be found in the Lapis Ward! It's just north of here, and a bit to the west!", "en": "Your next Gym will be found in the Lapis Ward! It's just north of here, and a bit to the west!", "ja": "次のジムは、ラピスワードにありますよ! ここから北へ、少し西寄りです!"}
+{"sec": "map:38", "key": "Since the Northern Obsidia Ward is locked out...", "en": "Since the Northern Obsidia Ward is locked out...", "ja": "北オブシディアワードが封鎖されているので……"}
+{"sec": "map:38", "key": "Why not take a detour up to the Beryl Ward, through Jasper?", "en": "Why not take a detour up to the Beryl Ward, through Jasper?", "ja": "ジャスパーを通って、ベリルワードへ回ってみては?"}
+{"sec": "map:38", "key": "The next closest Gym is in the Onyx Ward, accessible through South Obsidia.", "en": "The next closest Gym is in the Onyx Ward, accessible through South Obsidia.", "ja": "一番近い次のジムは、南オブシディアを通って行けるオニキスワードにあります。"}
+{"sec": "map:38", "key": "The closest Gym is in the Peridot Ward, just west of here.", "en": "The closest Gym is in the Peridot Ward, just west of here.", "ja": "一番近いジムは、ここからすぐ西のペリドットワードにあります。"}
+{"sec": "map:38", "key": "Huh? Did they just catch a ghost on camera at Beryl? I could've sworn...", "en": "Huh? Did they just catch a ghost on camera at Beryl?  I could've sworn...", "ja": "え? ベリルでカメラに幽霊が映ったって? 確かに見た気がしたんだけどな……"}
+{"sec": "map:38", "key": "I heard there's a network of secret tunnels under the Byxbysion Wasteland. Doesn't that sound exciting?!", "en": "I heard there's a network of secret tunnels under the Byxbysion Wasteland. Doesn't that sound exciting?!", "ja": "ビクスビジョン荒地の地下に、秘密のトンネル網があるらしいよ。わくわくしない!?"}
+{"sec": "map:38", "key": "REBORN POKÉMON REINTRODUCTION PROJECT (RPRP)", "en": "REBORN POKÉMON REINTRODUCTION PROJECT (RPRP)", "ja": "リボーンポケモン再導入プロジェクト(RPRP)"}
+{"sec": "map:38", "key": "In an effort to revitalize wildlife and natural surroundings, a large number of Pokémon have recently been imported into the region.", "en": "In an effort to revitalize wildlife and natural surroundings, a large number of Pokémon have recently been imported into the region.", "ja": "野生生物と自然環境の再生を目指し、最近、多くのポケモンがこの地方に導入されました。"}
+{"sec": "map:38", "key": "We hope that they will successfully repopulate the region-- provided, of course, Trainers do not capture them.", "en": "We hope that they will successfully repopulate the region-- provided, of course, Trainers do not capture them.", "ja": "トレーナーに捕獲されなければ、彼らがこの地方でうまく定着してくれることを願っています。"}
+{"sec": "map:38", "key": "The Reintroduction Project has been chugging onward, but without a proper functioning base of operations on Azurine Island, it's difficult to progress.", "en": "The Reintroduction Project has been chugging onward, but without a proper functioning base of operations on Azurine Island, it's difficult to progress.", "ja": "再導入プロジェクトは着々と進んでいますが、アズリン島にきちんと機能する活動拠点がないため、なかなか進展しづらい状況です。"}
+{"sec": "map:38", "key": "Still, the species levels are at least stable for the time being.", "en": "Still, the species levels are at least stable for the time being.", "ja": "それでも、種の個体数は今のところ安定しています。"}
+{"sec": "map:38", "key": "Now that a proper base of operations has been established in Azurine, the RPRP is reaching newer heights than ever.", "en": "Now that a proper base of operations has been established in Azurine, the RPRP is reaching newer heights than ever.", "ja": "アズリンにきちんとした活動拠点が設立され、RPRPはかつてないほどの成果を上げています。"}
+{"sec": "map:38", "key": "However, I hear they've put out a request for a couple species they've struggled to find.", "en": "However, I hear they've put out a request for a couple species they've struggled to find. ", "ja": "ただ、なかなか見つからない種がいくつかあって、協力を呼びかけているそうです。"}
+{"sec": "map:38", "key": "If you have some time to spare, please report to the Azurine Island Nature Center and ask what else they need for the project!", "en": "If you have some time to spare, please report to the Azurine Island Nature Center and ask what else they need for the project!", "ja": "時間があれば、アズリン島ネイチャーセンターに行って、プロジェクトに何が必要か聞いてみてください!"}
+{"sec": "map:38", "key": "The RPRP has been doing splendidly now!", "en": "The RPRP has been doing splendidly now!", "ja": "RPRPは、今や素晴らしい成果を上げています!"}
+{"sec": "map:38", "key": "It may be years before all of the new Pokémon we've supported appear in the wild, but their future in Reborn is all but ascertained, thanks to you!", "en": "It may be years before all of the new Pokémon we've supported appear in the wild, but their future in Reborn is all but ascertained, thanks to you!", "ja": "支援してきた新しいポケモンたちが野生で見られるようになるまでには、まだ何年もかかるかもしれませんが、あなたのおかげで、リボーンでの未来はほぼ確実なものになりました!"}
+{"sec": "map:38", "key": "Unlike most other regions, the Reborn League has a total of 18 Leaders! Cool, right?", "en": "Unlike most other regions, the Reborn League has a total of 18 Leaders! Cool, right?", "ja": "他の地方と違って、リボーンリーグには全部で18人のリーダーがいるんです! かっこいいでしょ?"}
+{"sec": "map:38", "key": "Or did you already know that?", "en": "Or did you already know that?", "ja": "それとも、もう知ってました?"}
+{"sec": "map:38", "key": "Unlike most other regions, the Reborn League has a total of 18 leaders! Cool, right?", "en": "Unlike most other regions, the Reborn League has a total of 18 leaders! Cool, right?", "ja": "他の地方と違って、リボーンリーグには全部で18人のリーダーがいるんです! かっこいいでしょ?"}
+{"sec": "map:38", "key": "Oh, you've already beaten most of them!", "en": "Oh, you've already beaten most of them!", "ja": "あ、もうほとんど倒しちゃったんですね!"}
+{"sec": "map:38", "key": "Well then.", "en": "Well then.", "ja": "それじゃあ。"}
+{"sec": "map:38", "key": "Oh, you've already beaten...", "en": "Oh, you've already beaten...", "ja": "あ、もう倒しちゃった……"}
+{"sec": "map:38", "key": "...All of them?", "en": "...All of them?", "ja": "……全員を?"}
+{"sec": "map:38", "key": "What are you talking to me for, then?", "en": "What are you talking to me for, then?", "ja": "それなら、なんでわたしに話しかけてるんですか?"}
+{"sec": "map:38", "key": "Oh, hi there, Champion! I didn't see you at first!", "en": "Oh, hi there, Champion! I didn't see you at first!", "ja": "あ、チャンピオン、どうも! 最初は気づきませんでした!"}
+{"sec": "map:38", "key": "I'm just here for the new kids, carry on!", "en": "I'm just here for the new kids, carry on!", "ja": "わたしは新人向けにここにいるだけなので、どうぞお構いなく!"}
+{"sec": "map:38", "key": "Team Meteor? That's just a stupid conspiracy theory.", "en": "Team Meteor? That's just a stupid conspiracy theory.", "ja": "チームメテオ? そんなの、ただのバカげた陰謀論だろ。"}
+{"sec": "map:38", "key": "Even if they exist, it doesn't mean they're behind everything.", "en": "Even if they exist, it doesn't mean they're behind everything. ", "ja": "仮に実在するとしても、何もかもの黒幕ってわけじゃないだろ。"}
+{"sec": "map:38", "key": "I'm telling you, man, they're real.", "en": "I'm telling you, man, they're real.", "ja": "マジで言ってるんだって、あいつら実在するんだよ。"}
+{"sec": "map:38", "key": "Team Meteor, man... They control everything, I swear.", "en": "Team Meteor, man... They control everything, I swear.", "ja": "チームメテオな……あいつらが全部を操ってるんだ、マジで。"}
+{"sec": "map:38", "key": "Man, I was hoping to go study at Apophyll Academy, but there's no way I can cross the lake with Coral Pier shut down.", "en": "Man, I was hoping to go study at Apophyll Academy, but there's no way I can cross the lake with Coral Pier shut down.", "ja": "ああ、アポフィルアカデミーで勉強したかったのに、コーラル桟橋が閉鎖されてちゃ、湖を渡る方法がないよ。"}
+{"sec": "map:38", "key": "Bang! FIRE!", "en": "Bang! FIRE!", "ja": "ドーン! ほのお!"}
+{"sec": "map:38", "key": "Squelch! POISON!", "en": "Squelch! POISON!", "ja": "ヌチャ! どく!"}
+{"sec": "map:38", "key": "Swish! ICE!", "en": "Swish! ICE!", "ja": "シュッ! こおり!"}
+{"sec": "map:38", "key": "No matter what Field you change it from or to, any attack that alters the environment gets a power boost!", "en": "No matter what Field you change it from or to, any attack that alters the environment gets a power boost!", "ja": "どのフィールドから、どのフィールドに変えるとしても、環境を変化させるわざには威力アップの効果があるんだ!"}
+{"sec": "map:38", "key": "According to my calculations, it's about 130% AWESOMENESS!", "en": "According to my calculations, it's about 130% AWESOMENESS!", "ja": "オレの計算では、大体130パーセントすごいってことになるな!"}
+{"sec": "map:38", "key": "Young Trainer, I must advise to stay out of the alleyways in this city.", "en": "Young Trainer, I must advise to stay out of the alleyways in this city. ", "ja": "若きトレーナーよ、この街の路地には近づかないほうがいい。"}
+{"sec": "map:38", "key": "Too many of our youth have fallen into gang activity as is!", "en": "Too many of our youth have fallen into gang activity as is!", "ja": "ただでさえ、若者たちの多くがギャング活動に手を染めてしまっているのだから!"}
+{"sec": "map:38", "key": "Stay vigilant and stay clean!", "en": "Stay vigilant and stay clean!", "ja": "用心を怠らず、清く生きるのだ!"}
+{"sec": "map:38", "key": "We can make this city as great as it once was!", "en": "We can make this city as great as it once was!", "ja": "この街を、かつての偉大さに取り戻すことができるはずだ!"}
+{"sec": "map:38", "key": "Young Trainer!", "en": "Young Trainer!", "ja": "若きトレーナーよ!"}
+{"sec": "map:38", "key": "Have you gotten involved in the Reborn City Restoration Project yet?", "en": "Have you gotten involved in the Reborn City Restoration Project yet?", "ja": "もう、リボーンシティ復興プロジェクトには関わっているかね?"}
+{"sec": "map:38", "key": "Much has been done, true, but yet there's still much to do!", "en": "Much has been done, true, but yet there's still much to do!", "ja": "確かに多くのことが成し遂げられてきたが、まだやるべきことはたくさんある!"}
+{"sec": "map:38", "key": "Asking people all around the city how you can help may yield some fruitful results!", "en": "Asking people all around the city how you can help may yield some fruitful results!", "ja": "街のあちこちの人に、何を手伝えるか聞いてみると、実りある結果が得られるかもしれないぞ!"}
+{"sec": "map:38", "key": "'Ey. You got a problem?", "en": "'Ey. You got a problem?", "ja": "よぉ。なんか文句あんのか?"}
+{"sec": "map:38", "key": "Maaan, the squad and I used to hang out here all the time when we were playin' the streets.", "en": "Maaan, the squad and I used to hang out here all the time when we were playin' the streets. ", "ja": "あーあ、昔はストリートで遊んでた頃、仲間とここでいつもつるんでたんだけどな。"}
+{"sec": "map:38", "key": "But they all got on this \"city betterment\" bullshit and ditched.", "en": "But they all got on this \"city betterment\" bullshit and ditched.", "ja": "でも、みんな「街の改善」とかいうクソに乗っかって、消えちまった。"}
+{"sec": "map:38", "key": "Fuck that shit, bruh.", "en": "Fuck that shit, bruh.", "ja": "そんなクソどうでもいいわ、マジで。"}
+{"sec": "map:38", "key": "Imma kick it right here my own damn self.", "en": "Imma kick it right here my own damn self.", "ja": "オレは自分一人でここに居座ってやるよ。"}
+{"sec": "map:38", "key": "Hello there! I'm here to answer any questions you might have about the future of the Reborn City Restoration Project!", "en": "Hello there! I'm here to answer any questions you might have about the future of the Reborn City Restoration Project! ", "ja": "こんにちは! リボーンシティ復興プロジェクトの今後について、何か質問があればお答えしますよ!"}
+{"sec": "map:38", "key": "We've come a long way in a short period of time.", "en": "We've come a long way in a short period of time. ", "ja": "短い期間で、ずいぶん前進しました。"}
+{"sec": "map:38", "key": "For this, we are endlessly thankful for the help of all of our volunteers!", "en": "For this, we are endlessly thankful for the help of all of our volunteers!", "ja": "これもすべて、ボランティアの皆さんのご協力のおかげです。心から感謝しています!"}
+{"sec": "map:38", "key": "That said, there's still much to do! Would you like to hear about our upcoming plans?", "en": "That said, there's still much to do! Would you like to hear about our upcoming plans?", "ja": "とはいえ、まだやるべきことはたくさんあります! 今後の計画についてお聞きになりますか?"}
+{"sec": "map:38", "key": "Here's some of the things we'll be looking at doing in the near future!", "en": "Here's some of the things we'll be looking at doing in the near future!", "ja": "近い将来に取り組む予定のことを、いくつかご紹介しますね!"}
+{"sec": "map:38", "key": "We have several potential short-term projects awaiting funding.", "en": "We have several potential short-term projects awaiting funding.", "ja": "資金を待っている短期プロジェクトがいくつかあります。"}
+{"sec": "map:38", "key": "First, we have some final renovations to finish up on Beryl Wall. Then, we can finally prepare to reopen Grandview Station!", "en": "First, we have some final renovations to finish up on Beryl Wall. Then, we can finally prepare to reopen Grandview Station!", "ja": "まず、ベリルの壁の最終改修を仕上げます。それが終われば、いよいよグランドビュー駅の再開に向けた準備ができます!"}
+{"sec": "map:38", "key": "After that, we have several potential short-term projects awaiting funding.", "en": "After that, we have several potential short-term projects awaiting funding.", "ja": "その後は、資金を待っている短期プロジェクトがいくつかあります。"}
+{"sec": "map:38", "key": "We'd like to focus on rebuilding the slums area from the ground up.", "en": "We'd like to focus on rebuilding the slums area from the ground up.", "ja": "スラム地区をゼロから再建することに力を入れたいと考えています。"}
+{"sec": "map:38", "key": "Our plan is to convert this area into a low-income housing district and resource center with community gardening and job-finding resources.", "en": "Our plan is to convert this area into a low-income housing district and resource center with community gardening and job-finding resources.", "ja": "この地区を、低所得者向け住宅地区兼リソースセンターに転換する計画で、コミュニティガーデンや職探し支援も設ける予定です。"}
+{"sec": "map:38", "key": "Second, we'll look at reinforcing underground structures and rebuilding an efficient inter-city subway system.", "en": "Second, we'll look at reinforcing underground structures and rebuilding an efficient inter-city subway system.", "ja": "次に、地下構造の補強と、効率的な都市間地下鉄システムの再建に取り組みます。"}
+{"sec": "map:38", "key": "Finally, we'll be restarting the Reborn Pokémon Reintroduction Project with a brand-new fully furnished facility on Azurine Island.", "en": "Finally, we'll be restarting the Reborn Pokémon Reintroduction Project with a brand-new fully furnished facility on Azurine Island.", "ja": "最後に、アズリン島に真新しい完備の施設を建て、リボーンポケモン再導入プロジェクトを再開させます。"}
+{"sec": "map:38", "key": "If you wish to donate to the city restoration, please talk to the construction manager here.", "en": "If you wish to donate to the city restoration, please talk to the construction manager here.", "ja": "街の復興に寄付をご希望の方は、こちらの建設責任者までお声がけください。"}
+{"sec": "map:38", "key": "We are ecstatic to receive any amount of support.", "en": "We are ecstatic to receive any amount of support.", "ja": "どんな金額のご支援でも、心から喜んでお受けしています。"}
+{"sec": "map:38", "key": "Thank you very much for generously supporting us through everything!", "en": "Thank you very much for generously supporting us through everything!", "ja": "これまでの惜しみないご支援、本当にありがとうございました!"}
+{"sec": "map:38", "key": "Of course, there's always more to do!", "en": "Of course, there's always more to do!", "ja": "もちろん、やるべきことはまだまだあります!"}
+{"sec": "map:38", "key": "We're now beginning a long-term project to purify the Byxbysion Wasteland, and restart efforts to expand the city.", "en": "We're now beginning a long-term project to purify the Byxbysion Wasteland, and restart efforts to expand the city. ", "ja": "現在、ビクスビジョン荒地の浄化に向けた長期プロジェクトを開始し、街の拡張に向けた取り組みも再開しています。"}
+{"sec": "map:38", "key": "We hope to be developing the new Byxbysion Ward within the next couple years!", "en": "We hope to be developing the new Byxbysion Ward within the next couple years!", "ja": "今後数年のうちに、新たなビクスビジョンワードの開発を進めていきたいと考えています!"}
+{"sec": "map:38", "key": "Around this time we also hope to reestablish rail access with the Orre Region.", "en": "Around this time we also hope to reestablish rail access with the Orre Region.", "ja": "その頃には、オーレ地方との鉄道網も再建できればと思っています。"}
+{"sec": "map:38", "key": "All of this could not be possible without your support.", "en": "All of this could not be possible without your support. ", "ja": "これもすべて、あなたのご支援あってのことです。"}
+{"sec": "map:38", "key": "From myself and all of Reborn, thank you.", "en": "From myself and all of Reborn, thank you.", "ja": "わたし個人としても、そしてリボーン全体を代表しても、ありがとうございます。"}
+{"sec": "map:38", "key": "You wanna know something, buddy? I'll tell you a secret.", "en": "You wanna know something, buddy? I'll tell you a secret.", "ja": "なあ、教えてやろうか? ちょっとした秘密があるんだ。"}
+{"sec": "map:38", "key": "The lake water's too toxic to fish in, but my buddy's got this swimmin' pool in his house.", "en": "The lake water's too toxic to fish in, but my buddy's got this swimmin' pool in his house.", "ja": "湖の水は毒がキツすぎて釣りもできないけど、オレの相棒の家にはプールがあってさ。"}
+{"sec": "map:38", "key": "When the Pokémon in Azurine Lake started gettin' sick, he rescued a few of them and kept them in his swimming pool.", "en": "When the Pokémon in Azurine Lake started gettin' sick, he rescued a few of them and kept them in his swimming pool.", "ja": "アズリン湖のポケモンたちが病気になり始めた時、そいつが何匹か助け出して、自分ちのプールで飼ってたんだよ。"}
+{"sec": "map:38", "key": "Now the place is practically like an aquarium!", "en": "Now the place is practically like an aquarium!", "ja": "今じゃもう、ほとんど水族館だぜ!"}
+{"sec": "map:38", "key": "I heard there's a whole secret area under the Grand Stairway.", "en": "I heard there's a whole secret area under the Grand Stairway.", "ja": "大階段の下に、丸ごと秘密のエリアがあるって聞いたぜ。"}
+{"sec": "map:38", "key": "But how could that be?", "en": "But how could that be?", "ja": "でも、そんなことあり得るのか?"}
+{"sec": "map:38", "key": "My buddy used to keep a private aquarium. He was super guarded about it, only letting certain people through.", "en": "My buddy used to keep a private aquarium. He was super guarded about it, only letting certain people through.", "ja": "オレの相棒は、前は個人的な水族館を持っててさ。すごく警戒してて、限られた人間しか入れなかったんだ。"}
+{"sec": "map:38", "key": "But now that the water's clean again, he released all of those Pokémon back into the lake!", "en": "But now that the water's clean again, he released all of those Pokémon back into the lake!", "ja": "でも、水がまたきれいになった今、そいつはポケモンたちを全部湖に放してやったんだ!"}
+{"sec": "map:38", "key": "What's more, I managed to convince him to turn his tank into a public pool! How sweet is that, eh?", "en": "What's more, I managed to convince him to turn his tank into a public pool! How sweet is that, eh?", "ja": "それだけじゃない、水槽を公共プールに変えるよう、なんとか説得したんだぜ! 最高だろ?"}
+{"sec": "map:38", "key": "Isn't it hard to keep track of stat stages all the time?", "en": "Isn't it hard to keep track of stat stages all the time?", "ja": "能力ランクの変化をずっと把握しとくのって大変じゃないか?"}
+{"sec": "map:38", "key": "But you can press Control in battle to toggle a view of everyone's current stages!", "en": "But you can press Control in battle to toggle a view of everyone's current stages!", "ja": "でも、バトル中にCtrlキーを押せば、全員の現在のランク表示を切り替えられるんだ!"}
+{"sec": "map:38", "key": "Not enough info? How about this? Try pressing Q or W in battle to inspect Pokémon on your side or the opponent's side. You'll get all the info you need!", "en": "Not enough info? How about this? Try pressing Q or W in battle to inspect Pokémon on your side or the opponent's side. You'll get all the info you need!", "ja": "情報が足りない? じゃあこれはどうだ? バトル中にQかWを押せば、自分側や相手側のポケモンを詳しく調べられる。必要な情報は全部手に入るぜ!"}
+{"sec": "map:38", "key": "Nifty, huh?", "en": "Nifty, huh?", "ja": "便利だろ?"}
+{"sec": "map:38", "key": "There's an old Abandoned Power Plant up north...", "en": "There's an old Abandoned Power Plant up north...", "ja": "北の方に、古い廃発電所があってな……"}
+{"sec": "map:38", "key": "I hear kids disappear when it's windy, and show up there.", "en": "I hear kids disappear when it's windy, and show up there. ", "ja": "風の強い日に子供が消えて、そこに現れるって聞くんだ。"}
+{"sec": "map:38", "key": "Weird, right?", "en": "Weird, right?", "ja": "変だろ?"}
+{"sec": "map:38", "key": "So many strange things have been happening...", "en": "So many strange things have been happening...", "ja": "最近、奇妙なことばっかり起きてる……"}
+{"sec": "map:38", "key": "Howdy, Trainer.", "en": "Howdy, Trainer.", "ja": "よぉ、トレーナーさんよ。"}
+{"sec": "map:38", "key": "You ain't come at the best time.", "en": "You ain't come at the best time. ", "ja": "来るタイミングが悪かったな。"}
+{"sec": "map:38", "key": "Once upon a time, Reborn was an oasis in the desert.", "en": "Once upon a time, Reborn was an oasis in the desert.", "ja": "昔々、リボーンは砂漠の中のオアシスだったんだ。"}
+{"sec": "map:38", "key": "But then, alla this city sprung up, and the waste from it...", "en": "But then, alla this city sprung up, and the waste from it... ", "ja": "だが、この街ができちまって、そこから出る廃棄物が……"}
+{"sec": "map:38", "key": "And then what ya see is what ya got.", "en": "And then what ya see is what ya got.", "ja": "それで、今見えてるこの有様ってわけさ。"}
+{"sec": "map:38", "key": "You take care travelin' around here, all right?", "en": "You take care travelin' around here, all right?", "ja": "この辺りを歩き回る時は、気をつけるんだぜ?"}
+{"sec": "map:38", "key": "Rumor has it that there was once an old region on the edge of Reborn, but now it's fallen into decay...", "en": "Rumor has it that there was once an old region on the edge of Reborn, but now it's fallen into decay...", "ja": "うわさじゃ、昔はリボーンの端に古い地方があったらしいが、今はすっかり朽ち果てちまったとさ……"}
+{"sec": "map:38", "key": "Boy howdy, I'll tell you what for.", "en": "Boy howdy, I'll tell you what for.", "ja": "いやはや、教えてやるとも。"}
+{"sec": "map:38", "key": "I said once this place was an oasis in a desert, and I'm mighty glad that it's startin' to feel like that again.", "en": "I said once this place was an oasis in a desert, and I'm mighty glad that it's startin' to feel like that again.", "ja": "昔はここが砂漠のオアシスだったって言ったろ、また少しずつそんな感じに戻ってきてて、本当にうれしいんだ。"}
+{"sec": "map:38", "key": "I came here because I heard there was a League, but it's so poorly organized.", "en": "I came here because I heard there was a League, but it's so poorly organized.", "ja": "リーグがあるって聞いてここに来たんだが、ずいぶんとまとまりがないもんだな。"}
+{"sec": "map:38", "key": "I've been trying to contact a certain Gym Leader for weeks, but his caretaker won't let him battle apparently...", "en": "I've been trying to contact a certain Gym Leader for weeks, but his caretaker won't let him battle apparently...", "ja": "あるジムリーダーに何週間も連絡を取ろうとしてるんだが、世話係がバトルさせてくれないらしくてな……"}
+{"sec": "map:38", "key": "\\GSALESMAN: You're back! So, are you ready to claim this fantastic Pokémon for only $500?!", "en": "\\GSALESMAN: You're back! So, are you ready to claim this fantastic Pokémon for only $500?!", "ja": "\\Gセールスマン: 戻ってきたな! さあ、このすばらしいポケモンを、たったの500ドルで手に入れる準備はできてるか!?"}
+{"sec": "map:38", "key": "SALESMAN: Looking for more Pokémon? Of course you are! Well, then have I got a deal for you!", "en": "SALESMAN: Looking for more Pokémon? Of course you are! Well, then have I got a deal for you!", "ja": "セールスマン: もっとポケモンをお探しで? もちろんそうでしょう! それなら、とっておきの話がありますよ!"}
+{"sec": "map:38", "key": "How would you like to be the proud new owner of one fantastic beast?", "en": "How would you like to be the proud new owner of one fantastic beast?", "ja": "このすばらしい怪物の、誇り高き新しい飼い主になってみませんか?"}
+{"sec": "map:38", "key": "This Pokémon is so powerful, so utterly BAD-ASS, it's been heralded among dragons for centuries!", "en": "This Pokémon is so powerful, so utterly BAD-ASS, it's been heralded among dragons for centuries!", "ja": "このポケモンは強力で、とにかくハンパなくヤバい奴で、何世紀もの間ドラゴンたちの間でたたえられてきたんですよ!"}
+{"sec": "map:38", "key": "For you, I'll make a special discount, bringing the price down to only $500!", "en": "For you, I'll make a special discount, bringing the price down to only $500!", "ja": "あなたには特別に、たったの500ドルまで値引きしましょう!"}
+{"sec": "map:38", "key": "\\GWhat do you say?!", "en": "\\GWhat do you say?!", "ja": "\\Gどうです!?"}
+{"sec": "map:38", "key": "Aha! Thank you! Thank you!", "en": "Aha! Thank you! Thank you!", "ja": "はは! ありがとう! ありがとう!"}
+{"sec": "map:38", "key": "GOON: Heh. Bad-ass, you say?", "en": "GOON: Heh. Bad-ass, you say?", "ja": "チンピラ: へっ。ハンパなくヤバい、だって?"}
+{"sec": "map:38", "key": "Not a bad deal. I think I'll just help myself.", "en": "Not a bad deal. I think I'll just help myself. ", "ja": "悪くない話だ。ちょっと頂いていくとするか。"}
+{"sec": "map:38", "key": "The Pokémon was stolen!", "en": "The Pokémon was stolen!", "ja": "ポケモンが盗まれた!"}
+{"sec": "map:38", "key": "GOON: See ya, nerds!", "en": "GOON: See ya, nerds!", "ja": "チンピラ: じゃあな、オタクども!"}
+{"sec": "map:38", "key": "SALESMAN: ...Well, I got my money. That's your problem now!", "en": "SALESMAN: ...Well, I got my money. That's your problem now! ", "ja": "セールスマン: ……まあ、金はもらったからな。あとはお前の問題だ!"}
+{"sec": "map:38", "key": "JERK: See ya, nerds!", "en": "JERK: See ya, nerds!", "ja": "クソ野郎: じゃあな、オタクども!"}
+{"sec": "map:38", "key": "SALESMAN: Buuuut, if you really wanted to get that ultra-rare Pokémon, you could try and find that guy.", "en": "SALESMAN: Buuuut, if you really wanted to get that ultra-rare Pokémon, you could try and find that guy.", "ja": "セールスマン: でもまあ、あの激レアポケモンを本当に手に入れたいなら、あいつを探してみるといい。"}
+{"sec": "map:38", "key": "Thugs like him hang out at the end of the tracks in the Peridot Ward. Good luck!", "en": "Thugs like him hang out at the end of the tracks in the Peridot Ward. Good luck!", "ja": "ああいうゴロツキは、ペリドットワードの線路の端にたむろしてるぞ。頑張れよ!"}
+{"sec": "map:38", "key": "Hm? You don't have the money, my friend! Come back when you've got it! I'll be waiting!", "en": "Hm? You don't have the money, my friend! Come back when you've got it! I'll be waiting!", "ja": "ん? 金が足りないみたいだな、お客さん! 用意できたらまた来てくれ! 待ってるぜ!"}
+{"sec": "map:38", "key": "Hey, you're missing out here!", "en": "Hey, you're missing out here!", "ja": "おい、ここ見逃してるぞ!"}
+{"sec": "map:38", "key": "We sometimes have some battle enthusiasts over here.", "en": "We sometimes have some battle enthusiasts over here.", "ja": "ここには、たまにバトル好きな連中が来るんだ。"}
+{"sec": "map:38", "key": "Different one every day of the week, and we get an extra turnout on weekends.", "en": "Different one every day of the week, and we get an extra turnout on weekends.", "ja": "曜日ごとに違う奴が来て、週末は特に人数が増える。"}
+{"sec": "map:38", "key": "You can battle 'em as much as you want.", "en": "You can battle 'em as much as you want.", "ja": "好きなだけバトルしていいぞ。"}
+{"sec": "map:38", "key": "But we ask them to clear out when new Trainers come by.", "en": "But we ask them to clear out when new Trainers come by.", "ja": "でも、新人トレーナーが来る時は、退いてもらうことにしてるんだ。"}
+{"sec": "map:38", "key": "We don't want some over-zealous 10 year old rocking up with their level 5 starter, nothing else, and proceeding to conk out on the first guy they see.", "en": "We don't want some over-zealous 10 year old rocking up with their level 5 starter, nothing else, and proceeding to conk out on the first guy they see.", "ja": "張り切りすぎた10歳児がレベル5の御三家一匹だけで乗り込んできて、最初に出会った相手にあっさりノックアウトされる、なんてのは避けたいからな。"}
+{"sec": "map:38", "key": "The free battle trainers will be back in a bit though; don't you worry.", "en": "The free battle trainers will be back in a bit though; don't you worry.", "ja": "フリーバトルのトレーナーたちも、もうすぐ戻ってくるから安心しろ。"}
+{"sec": "map:38", "key": "...What, did you forget what I said about the free battle trainers being cleared out?", "en": "...What, did you forget what I said about the free battle trainers being cleared out?", "ja": "……何だ、フリーバトルのトレーナーを退かせてるって言ったの、忘れたのか?"}
+{"sec": "map:38", "key": "Or are you talking to me because you want me to bring them in early?", "en": "Or are you talking to me because you want me to bring them in early?", "ja": "それとも、早く呼び戻してほしくてオレに話しかけてるのか?"}
+{"sec": "map:38", "key": "I mean... I can do that, if you really want.", "en": "I mean... I can do that, if you really want.", "ja": "まあ……そうしてほしいなら、できなくはないが。"}
+{"sec": "map:38", "key": "Their teams are only a little bit above level 10 or so, so it's not too bad...", "en": "Their teams are only a little bit above level 10 or so, so it's not too bad...", "ja": "あいつらのチームはレベル10ちょっと上くらいだから、そこまで悪くはないな……"}
+{"sec": "map:38", "key": "Should I tell them they can come in?", "en": "Should I tell them they can come in?", "ja": "入っていいって伝えてやろうか?"}
+{"sec": "map:38", "key": "...Well, okay. If you're sure.", "en": "...Well, okay. If you're sure.", "ja": "……まあ、いいだろう。お前がそう言うならな。"}
+{"sec": "map:38", "key": "But don't blame us if you charge in there without being ready, all right?", "en": "But don't blame us if you charge in there without being ready, all right?", "ja": "でも、準備なしで突っ込んで文句言うのはナシだぞ、いいな?"}
+{"sec": "map:38", "key": "All right. You hang tight.", "en": "All right. You hang tight.", "ja": "よし。ちょっと待ってろ。"}
+{"sec": "map:38", "key": "That's probably a fair choice.", "en": "That's probably a fair choice.", "ja": "それなら、まあ妥当な判断だろうな。"}
+{"sec": "map:38", "key": "Just wait a little bit. They'll show up around the time you're hitting over that level.", "en": "Just wait a little bit. They'll show up around the time you're hitting over that level.", "ja": "もう少し待ってろ。そのレベルを超える頃には、あいつらも現れるはずだ。"}
+{"sec": "map:38", "key": "Oh.", "en": "Oh.", "ja": "ああ。"}
+{"sec": "map:38", "key": "You must be wondering what happened to the rebattleable Trainers.", "en": "You must be wondering what happened to the rebattleable Trainers.", "ja": "何度も戦えるトレーナーたちがどうなったか、気になってるんだろうな。"}
+{"sec": "map:38", "key": "That's fair.", "en": "That's fair.", "ja": "当然だ。"}
+{"sec": "map:38", "key": "They all perished in the version update.", "en": "They all perished in the version update.", "ja": "全員、バージョンアップデートで命を落とした。"}
+{"sec": "map:38", "key": "Terrible incident, really.", "en": "Terrible incident, really.", "ja": "本当にひどい事件だった。"}
+{"sec": "map:38", "key": "It's okay though, let me just use some necromancy to bring them back.", "en": "It's okay though, let me just use some necromancy to bring them back.", "ja": "でも大丈夫、ちょっと死霊術でよみがえらせてやるからな。"}
+{"sec": "map:38", "key": "Good bye.", "en": "Good bye.", "ja": "さらばだ。"}
+{"sec": "map:38", "key": "Oh? You seem to be doing quite well!", "en": "Oh? You seem to be doing quite well! ", "ja": "おや? なかなか順調そうだな!"}
+{"sec": "map:38", "key": "But are you really satisfied with just your current team?", "en": "But are you really satisfied with just your current team?", "ja": "でも、今のチームだけで本当に満足なのか?"}
+{"sec": "map:38", "key": "Many Trainers raise multiple Pokémon-- more than six even--", "en": "Many Trainers raise multiple Pokémon-- more than six even--", "ja": "多くのトレーナーは複数のポケモンを――6匹以上を育てて――"}
+{"sec": "map:38", "key": "And swap them out in rotation for their upcoming challenges.", "en": "And swap them out in rotation for their upcoming challenges.", "ja": "これから挑む相手に合わせて、ローテーションで入れ替えているんだ。"}
+{"sec": "map:38", "key": "Never consider your doors closed, friend.", "en": "Never consider your doors closed, friend.", "ja": "可能性の扉を閉ざすんじゃないぞ、相棒。"}
+{"sec": "map:38", "key": "We're still finishing up some loose ends on the Beryl Wall repair project, so hang tight!", "en": "We're still finishing up some loose ends on the Beryl Wall repair project, so hang tight!", "ja": "ベリルの壁の修復プロジェクトは、まだ細かい部分を仕上げている最中です。もう少しお待ちください!"}
+{"sec": "map:38", "key": "Donations and reconstruction will be available again soon.", "en": "Donations and reconstruction will be available again soon. ", "ja": "寄付と復興作業は、まもなく再開いたします。"}
+{"sec": "map:38", "key": "We value your interest in helping Reborn City, so we hope you'll check back shortly!", "en": "We value your interest in helping Reborn City, so we hope you'll check back shortly!", "ja": "リボーンシティへのご支援に関心をお寄せいただき感謝します。またすぐにお立ち寄りいただければ幸いです!"}
+{"sec": "map:38", "key": "Hello! I accept donations for restoration projects on behalf of Reborn City.", "en": "Hello! I accept donations for restoration projects on behalf of Reborn City.", "ja": "こんにちは! リボーンシティを代表して、復興プロジェクトへの寄付を受け付けております。"}
+{"sec": "map:38", "key": "Would you like to donate to one of our projects today?", "en": "Would you like to donate to one of our projects today?", "ja": "本日、どちらかのプロジェクトに寄付をされますか?"}
+{"sec": "map:38", "key": "why are you here lol", "en": "why are you here lol", "ja": "なんでここにいるんだよ(笑)"}
+{"sec": "map:38", "key": "That's okay. I hope you'll consider it in the future!", "en": "That's okay. I hope you'll consider it in the future!", "ja": "大丈夫ですよ。またのご検討をお待ちしております!"}
+{"sec": "map:38", "key": "\\GFor the South Obsidia redevelopment, the remaining repair costs come to $\\v[334].", "en": "\\GFor the South Obsidia redevelopment, the remaining repair costs come to $\\v[334].", "ja": "\\G南オブシディア再開発の残りの修復費用は、\\v[334]ドルです。"}
+{"sec": "map:38", "key": "How much will you donate?", "en": "How much will you donate? ", "ja": "いくら寄付されますか?"}
+{"sec": "map:38", "key": "That covers the project!", "en": "That covers the project!", "ja": "それでプロジェクトの費用は賄えます!"}
+{"sec": "map:38", "key": "I'll let everyone know that it's been fully funded, and we'll set to work right away.", "en": "I'll let everyone know that it's been fully funded, and we'll set to work right away.", "ja": "全額集まったことをみんなに知らせて、すぐに作業に取りかかりますね。"}
+{"sec": "map:38", "key": "Look forward to it!", "en": "Look forward to it!", "ja": "楽しみにしていてください!"}
+{"sec": "map:38", "key": "Thank you so much. Reborn City will be a better place for your contribution!", "en": "Thank you so much. Reborn City will be a better place for your contribution!", "ja": "本当にありがとうございます。あなたのご協力で、リボーンシティはもっと良い場所になります!"}
+{"sec": "map:38", "key": "Um.", "en": "Um.", "ja": "ええと。"}
+{"sec": "map:38", "key": "While I admire your zeal to help the city, you don't seem to have that much money on hand.", "en": "While I admire your zeal to help the city, you don't seem to have that much money on hand.", "ja": "街を助けようという意気込みは立派ですが、手持ちのお金がそこまでないようですね。"}
+{"sec": "map:38", "key": "\\GFor the Railnet reconstruction, the remaining repair costs come to $\\v[335].", "en": "\\GFor the Railnet reconstruction, the remaining repair costs come to $\\v[335].", "ja": "\\G鉄道網再建の残りの修復費用は、\\v[335]ドルです。"}
+{"sec": "map:38", "key": "That's okay. I hope you consider it in the future!", "en": "That's okay. I hope you consider it in the future!", "ja": "大丈夫ですよ。またのご検討をお待ちしております!"}
+{"sec": "map:38", "key": "\\GFor the Azurine Island Nature Center, the remaining construction costs come to $\\v[336].", "en": "\\GFor the Azurine Island Nature Center, the remaining construction costs come to $\\v[336].", "ja": "\\Gアズリン島ネイチャーセンターの残りの建設費用は、\\v[336]ドルです。"}
+{"sec": "map:38", "key": "By the way, since you are the sole proprietary founder for at least one project, we'd like to extend to you our warmest thanks!", "en": "By the way, since you are the sole proprietary founder for at least one project, we'd like to extend to you our warmest thanks!", "ja": "ところで、少なくとも一つのプロジェクトの唯一の出資者でいらっしゃるので、心からの感謝をお伝えしたいと思います!"}
+{"sec": "map:38", "key": "Per policy, we invite you to meet the employees who work so hard with your money to keep this city thriving!", "en": "Per policy, we invite you to meet the employees who work so hard with your money to keep this city thriving!", "ja": "規定により、あなたの資金でこの街を繁栄させるために懸命に働く従業員たちに会っていただければと思います!"}
+{"sec": "map:38", "key": "Our employee area is in the basement below here, and as a premier modern founder, you will now be permitted access at will to it.", "en": "Our employee area is in the basement below here, and as a premier modern founder, you will now be permitted access at will to it.", "ja": "従業員エリアはこの下の地下にあり、現代の第一の出資者として、今後は自由に出入りいただけます。"}
+{"sec": "map:38", "key": "All we ask is that you be courteous to the employees working there.", "en": "All we ask is that you be courteous to the employees working there.", "ja": "どうか、そこで働く従業員には礼儀正しく接していただければと思います。"}
+{"sec": "map:38", "key": "Thank you again for always looking out for Reborn City!", "en": "Thank you again for always looking out for Reborn City!", "ja": "改めて、いつもリボーンシティを気にかけてくださり、ありがとうございます!"}
+{"sec": "map:38", "key": "We're still finishing up some loose ends on our previous project, so hang tight!", "en": "We're still finishing up some loose ends on our previous project, so hang tight!", "ja": "前のプロジェクトの細かい部分をまだ仕上げている最中です。もう少しお待ちください!"}
+{"sec": "map:38", "key": "Thank you for your continued generous donations to Reborn City!", "en": "Thank you for your continued generous donations to Reborn City!", "ja": "リボーンシティへの継続的なご寄付、誠にありがとうございます!"}
+{"sec": "map:38", "key": "Our next project, the Byxbysion Ward, will take much more time.", "en": "Our next project, the Byxbysion Ward, will take much more time.", "ja": "次のプロジェクト、ビクスビジョンワードは、もっと時間がかかりそうです。"}
+{"sec": "map:38", "key": "As it is still in the planning phase while we try to clear away the muck, it will probably be some time before we are ready to tackle it.", "en": "As it is still in the planning phase while we try to clear away the muck, it will probably be some time before we are ready to tackle it.", "ja": "汚泥を取り除く作業と並行して、まだ計画段階にありますので、着手できるまでにはしばらく時間がかかるかと思います。"}
+{"sec": "map:38", "key": "While I would not advise expecting it any time soon, I hope you can look forward to a bigger, brighter Reborn City in the future!", "en": "While I would not advise expecting it any time soon, I hope you can look forward to a bigger, brighter Reborn City in the future!", "ja": "すぐには期待しないでいただきたいのですが、将来、より大きく、より明るいリボーンシティを楽しみにしていただければと思います!"}
+{"sec": "map:38", "key": "Of course, I recognize that you've been invaluable in helping us out here.", "en": "Of course, I recognize that you've been invaluable in helping us out here.", "ja": "もちろん、ここまであなたが計り知れないほど力になってくださったことは分かっています。"}
+{"sec": "map:38", "key": "As an extra 'thank you', why don't you take this stone?", "en": "As an extra 'thank you', why don't you take this stone?", "ja": "特別な「感謝の印」として、この石を受け取ってはいただけませんか?"}
+{"sec": "map:38", "key": "This was left behind after Ame--", "en": "This was left behind after Ame--", "ja": "これは、アメが残していったもので――"}
+{"sec": "map:38", "key": "Uh, well, I think she would have wanted you to have it.", "en": "Uh, well, I think she would have wanted you to have it. ", "ja": "ええと、まあ、彼女もあなたに持っていてほしいと思うはずです。"}
+{"sec": "map:38", "key": "So, please.", "en": "So, please.", "ja": "ですから、どうぞ。"}
+{"sec": "map:38", "key": "Let's look forward to a bigger, brighter Reborn City in the future.", "en": "Let's look forward to a bigger, brighter Reborn City in the future.", "ja": "これからも、より大きく、より明るいリボーンシティを楽しみにしていきましょう。"}
+{"sec": "map:38", "key": "Why doesn't anywhere sell Great Balls?! It's not fair!", "en": "Why doesn't anywhere sell Great Balls?! It's not fair!", "ja": "どこもスーパーボールを売ってないなんて!? 不公平だよ!"}
+{"sec": "map:38", "key": "I mean, the Obsidia Department Store does, but you need a lot of Stickers for that!", "en": "I mean, the Obsidia Department Store does, but you need a lot of Stickers for that!", "ja": "まあ、オブシディアデパートでは売ってるけど、大量のシールが必要なんだよね!"}
+{"sec": "map:38", "key": "Maybe I should just learn to use the specialty balls from Critical Capture.", "en": "Maybe I should just learn to use the specialty balls from Critical Capture.", "ja": "クリティカルキャプチャーの特殊なボールの使い方でも覚えたほうがいいかもな。"}
+{"sec": "map:38", "key": "Shit, man. This stupid City Restoration Project went an' blasted the place I was using as shelter.", "en": "Shit, man. This stupid City Restoration Project went an' blasted the place I was using as shelter.", "ja": "クソだよ、マジで。このバカな街の復興プロジェクトのせいで、オレが寝床にしてた場所が吹き飛ばされちまった。"}
+{"sec": "map:38", "key": "How the fuck they gonna do that? Who the fuck they helpin'?!", "en": "How the fuck they gonna do that? Who the fuck they helpin'?!", "ja": "一体全体、どうやってそんなことしやがったんだ? 誰のために助けてるつもりだよ!?"}
+{"sec": "map:38", "key": "They think just cuz the damn roof's caving in and the walls got holes in 'em that that place ain't important to people?", "en": "They think just cuz the damn roof's caving in and the walls got holes in 'em that that place ain't important to people?", "ja": "屋根が落ちかけてて壁に穴が空いてるからって、あそこが誰にとっても大事な場所じゃないとでも思ってんのか?"}
+{"sec": "map:38", "key": "They think we can afford their refurbished high-class estate housing?", "en": "They think we can afford their refurbished high-class estate housing?", "ja": "改装済みの高級住宅街とやらを、オレたちが買えるとでも思ってんのかよ?"}
+{"sec": "map:38", "key": "Hell fuckin' nawh I can't!", "en": "Hell fuckin' nawh I can't!", "ja": "冗談じゃねえ、買えるわけねえだろ!"}
+{"sec": "map:38", "key": "They open up some full-on cheap-housing sector in Peridot, sayin' it's better quality than what I got.", "en": "They open up some full-on cheap-housing sector in Peridot, sayin' it's better quality than what I got. ", "ja": "ペリドットに安っぽい低所得者向け住宅地区を開いて、オレの元の家より質がいいとか言いやがる。"}
+{"sec": "map:38", "key": "I ain't about that bullshit! I want what I got! I want it back!", "en": "I ain't about that bullshit! I want what I got! I want it back! ", "ja": "そんなクソどうでもいいんだよ! オレが欲しいのは元の場所だ! 返してくれよ!"}
+{"sec": "map:38", "key": "So Imma camp out here 'til I get my old lot back. We rebel in this shit.", "en": "So Imma camp out here 'til I get my old lot back. We rebel in this shit.", "ja": "だから、元の土地を取り戻すまで、ここに居座ってやる。オレたちはこのクソに反抗するんだ。"}
+{"sec": "map:38", "key": "Venturing outside the city is actually a nice change of pace.", "en": "Venturing outside the city is actually a nice change of pace.", "ja": "街の外に出るのは、いい気分転換になるもんだな。"}
+{"sec": "map:38", "key": "I've heard Silph Co. is working on a way to make Pokémon that evolve by trade use a Stone instead.", "en": "I've heard Silph Co. is working on a way to make Pokémon that evolve by trade use a Stone instead. ", "ja": "シルフカンパニーが、通信交換で進化するポケモンを、代わりに進化の石で進化させる方法を開発してるらしいよ。"}
+{"sec": "map:38", "key": "Technology is truly amazing!", "en": "Technology is truly amazing!", "ja": "技術って本当にすごいものだね!"}
+{"sec": "map:38", "key": "The city has had to spend an unprecedented amount of money in order to patch everything back up.", "en": "The city has had to spend an unprecedented amount of money in order to patch everything back up.", "ja": "この街は、あらゆる場所を修復するために、前例のない額のお金を費やさなければなりませんでした。"}
+{"sec": "map:38", "key": "True, the vast majority of the work was done by volunteers who, thanks to Adrienn, showed up in droves.", "en": "True, the vast majority of the work was done by volunteers who, thanks to Adrienn, showed up in droves.", "ja": "確かに、作業の大部分は、アドリエンヌのおかげで大挙して駆けつけてくれたボランティアの方々によるものでした。"}
+{"sec": "map:38", "key": "But resources cost money, and we are well into debt by now.", "en": "But resources cost money, and we are well into debt by now.", "ja": "しかし資材にはお金がかかりますし、今ではすっかり借金だらけです。"}
+{"sec": "map:38", "key": "Although I think we could have been a bit more frugal in our spending, I have no qualms.", "en": "Although I think we could have been a bit more frugal in our spending, I have no qualms.", "ja": "もう少し倹約すべきだったとは思いますが、後悔はありません。"}
+{"sec": "map:38", "key": "One of the best ways Reborn can make money is by investing in our tourist industry. In order to do that, our city must be beautiful.", "en": "One of the best ways Reborn can make money is by investing in our tourist industry. In order to do that, our city must be beautiful.", "ja": "リボーンが資金を得る最善の方法の一つは、観光業への投資です。そのためには、この街が美しくなければなりません。"}
+{"sec": "map:38", "key": "And soon, it certainly shall be.", "en": "And soon, it certainly shall be.", "ja": "そして間もなく、きっとそうなるでしょう。"}
+{"sec": "map:38", "key": "Hey there! You wanna check out... The TMNS?!", "en": "Hey there! You wanna check out... The TMNS?!", "ja": "よぉ! 見てみたいか……TMNSを!?"}
+{"sec": "map:38", "key": "You can't hide in your shell forever, you know!", "en": "You can't hide in your shell forever, you know!", "ja": "ずっと殻に閉じこもってるわけにはいかないぞ!"}
+{"sec": "map:38", "key": "What? You wanna go?", "en": "What? You wanna go?", "ja": "は? やる気か?"}
+{"sec": "map:38", "key": "Didn't think so.", "en": "Didn't think so.", "ja": "だと思ったよ。"}
+{"sec": "map:38", "key": "You don't know who I am. Care to find out?", "en": "You don't know who I am. Care to find out?", "ja": "オレが何者か知らないだろ。知りたいか?"}
+{"sec": "map:38", "key": "That's okay. No one here does.", "en": "That's okay. No one here does.", "ja": "別にいいさ。ここじゃ誰も知らないから。"}
+{"sec": "map:38", "key": "I'm going to play a little song. Can you keep up?", "en": "I'm going to play a little song. Can you keep up?", "ja": "ちょっとした曲を一つ奏でてやろう。ついてこられるか?"}
+{"sec": "map:38", "key": "Very well...", "en": "Very well...", "ja": "よかろう……"}
+{"sec": "map:38", "key": "Hey, c'mere for a sec! Can I ask you something really quickly?", "en": "Hey, c'mere for a sec! Can I ask you something really quickly?", "ja": "おい、ちょっとこっち来て! 一つだけ手短に聞いてもいいか?"}
+{"sec": "map:38", "key": "Ooh, yay! Another person who wants to fight us~?", "en": "Ooh, yay! Another person who wants to fight us~?", "ja": "おお、やった! また戦いたい人が来た~?"}
+{"sec": "map:38", "key": "Let's go, dear!", "en": "Let's go, dear!", "ja": "行くわよ、あなた!"}
+{"sec": "map:38", "key": "Awwwwwwh.", "en": "Awwwwwwh.", "ja": "あーあ。"}
+{"sec": "map:38", "key": "Care for a battle? Talk to the lady if so.", "en": "Care for a battle? Talk to the lady if so.", "ja": "バトルしたいなら、そちらの女性に話しかけて。"}
+{"sec": "map:38", "key": "Come at me, bro.", "en": "Come at me, bro.", "ja": "かかってこいよ。"}
+{"sec": "map:38", "key": "Weak.", "en": "Weak.", "ja": "弱いな。"}
+{"sec": "map:38", "key": "They say you're at your best in your youth, but I feel like I'm at my best now! Try me, young'n!", "en": "They say you're at your best in your youth, but I feel like I'm at my best now! Try me, young'n!", "ja": "若いうちが一番だってよく言うが、オレは今が一番調子いい気がするぜ! かかってこい、若いの!"}
+{"sec": "map:38", "key": "What a shame. Anyone?!", "en": "What a shame. Anyone?!", "ja": "残念だな。誰かいないのか!?"}
+{"sec": "map:38", "key": "I'm gonna rock, and you're gonna roll! Sound fair?", "en": "I'm gonna rock, and you're gonna roll! Sound fair?", "ja": "オレがロックで、お前がロールってわけだ! それでいいだろ?"}
+{"sec": "map:38", "key": "Then you roll on outta here.", "en": "Then you roll on outta here.", "ja": "なら、ここからロールアウトしな。"}
+{"sec": "map:38", "key": "Show me the true power of the bond between you and your Pokémon.", "en": "Show me the true power of the bond between you and your Pokémon.", "ja": "あなたとポケモンのきずなの、真の力を見せてください。"}
+{"sec": "map:38", "key": "When you are ready.", "en": "When you are ready.", "ja": "準備ができたら、いつでも。"}
+{"sec": "map:38", "key": "Oh hello! It's a pleasure to meet you! Let's have a battle!", "en": "Oh hello! It's a pleasure to meet you! Let's have a battle!", "ja": "あら、こんにちは! お会いできて光栄です! バトルしましょう!"}
+{"sec": "map:38", "key": "Maybe some other time!", "en": "Maybe some other time!", "ja": "また今度にしましょう!"}
+{"sec": "map:38", "key": "Got a problem, pal?", "en": "Got a problem, pal?", "ja": "なんか文句あるのか、相棒?"}
+{"sec": "map:38", "key": "AME: Oh, \\PN. So Julia and Florinia found you after all.", "en": "AME: Oh, \\PN. So Julia and Florinia found you after all. ", "ja": "アメ: あら、\\PN。結局、ジュリアとフロリニアが見つけてくれたのね。"}
+{"sec": "map:38", "key": "I'm glad, though I'm kind of in the middle of something.", "en": "I'm glad, though I'm kind of in the middle of something.", "ja": "よかったわ、今ちょっと立て込んでるんだけど。"}
+{"sec": "map:38", "key": "If there's anything you need to do since getting back, now would be a good time to do it.", "en": "If there's anything you need to do since getting back, now would be a good time to do it.", "ja": "戻ってきてからやることがあるなら、今のうちに済ませておくといいわ。"}
+{"sec": "map:38", "key": "Or are you waiting on me?", "en": "Or are you waiting on me?", "ja": "それとも、わたしを待ってるの?"}
+{"sec": "map:38", "key": "AME: Already? You move fast.", "en": "AME: Already? You move fast.", "ja": "アメ: もう? 早いのね。"}
+{"sec": "map:38", "key": "Okay, just a second, please.", "en": "Okay, just a second, please.", "ja": "それじゃ、ちょっと待ってて。"}
+{"sec": "map:38", "key": "AME: Sorry, as I was about to say, please inform Bennett that we accept.", "en": "AME: Sorry, as I was about to say, please inform Bennett that we accept.", "ja": "アメ: ごめんなさい、話の続きだけど、ベネットに了承したと伝えて。"}
+{"sec": "map:38", "key": "He certainly did famously during the trial battle, but something feels weird about the situation.", "en": "He certainly did famously during the trial battle, but something feels weird about the situation.", "ja": "試験バトルでは確かに見事な活躍だったけど、この状況、何か引っかかるのよね。"}
+{"sec": "map:38", "key": "Maybe I'm just hung up on Laura's resignation.", "en": "Maybe I'm just hung up on Laura's resignation.", "ja": "ローラの辞任のことが、まだ引っかかってるだけかもしれないけど。"}
+{"sec": "map:38", "key": "But the letter she sent was handwritten, signed, and unquestionably hers...", "en": "But the letter she sent was handwritten, signed, and unquestionably hers...", "ja": "でも、彼女が送ってきた手紙は手書きで、サインもあって、間違いなく彼女のものだった……"}
+{"sec": "map:38", "key": "Well, whatever.", "en": "Well, whatever. ", "ja": "まあ、いいわ。"}
+{"sec": "map:38", "key": "You can take care of the rest for me, right? Did you get his types?", "en": "You can take care of the rest for me, right? Did you get his types?", "ja": "残りは任せてもいい? 彼のタイプは分かった?"}
+{"sec": "map:38", "key": "SECRETARY: Yes. I'll register and notify him.", "en": "SECRETARY: Yes. I'll register and notify him.", "ja": "秘書: はい。登録して、本人に通知いたします。"}
+{"sec": "map:38", "key": "AME: Thank you.", "en": "AME: Thank you.", "ja": "アメ: ありがとう。"}
+{"sec": "map:38", "key": "All right. I've got a couple of other things to take care of, but I could use your help.", "en": "All right. I've got a couple of other things to take care of, but I could use your help.", "ja": "それじゃ、他にもいくつか片付けたいことがあるんだけど、手伝ってもらえると助かるわ。"}
+{"sec": "map:38", "key": "The most important thing is...", "en": "The most important thing is...", "ja": "一番大事なことは……"}
+{"sec": "map:38", "key": "Well, before I explain, I should bring everyone here.", "en": "Well, before I explain, I should bring everyone here.", "ja": "ええと、説明する前に、みんなをここに集めないとね。"}
+{"sec": "map:38", "key": "This might take all of us.", "en": "This might take all of us.", "ja": "これは、全員の力が必要になるかもしれない。"}
+{"sec": "map:38", "key": "Adrienn, Victoria, and DJ Arclight are taking care of various things around the city.", "en": "Adrienn, Victoria, and DJ Arclight are taking care of various things around the city. ", "ja": "アドリエンヌ、ヴィクトリア、DJアークライトは、街のあちこちで色々な用事を片付けてるの。"}
+{"sec": "map:38", "key": "I'm not exactly sure where they are right now,", "en": "I'm not exactly sure where they are right now, ", "ja": "今どこにいるか、正確には分からないんだけど、"}
+{"sec": "map:38", "key": "But you know them, right? You can probably guess where to start.", "en": "But you know them, right? You can probably guess where to start. ", "ja": "あなたなら彼らのこと知ってるでしょう? どこから探せばいいか、たぶん見当がつくはずよ。"}
+{"sec": "map:38", "key": "Just tell them to come back here when you find them. I'll be waiting.", "en": "Just tell them to come back here when you find them.  I'll be waiting. ", "ja": "見つけたら、ここに戻ってくるよう伝えてちょうだい。わたしはここで待ってるから。"}
+{"sec": "map:38", "key": "AME: Great, you take care of whatever you need to, and come back to me once you're done!", "en": "AME: Great, you take care of whatever you need to, and come back to me once you're done!", "ja": "アメ: よし、それじゃ、やることを済ませたら、終わり次第戻ってきてね!"}
+{"sec": "map:38", "key": "AME: Adrienn, Victoria, and DJ Arclight are taking care of various things around the city.", "en": "AME: Adrienn, Victoria, and DJ Arclight are taking care of various things around the city. ", "ja": "アメ: アドリエンヌ、ヴィクトリア、DJアークライトは、街のあちこちで色々な用事を片付けてるの。"}
+{"sec": "map:38", "key": "AME: So Arclight is meeting us there?", "en": "AME: So Arclight is meeting us there?", "ja": "アメ: それじゃ、アークライトはあそこで合流するのね?"}
+{"sec": "map:38", "key": "Assuming he takes the low way, that should be all right.", "en": "Assuming he takes the low way, that should be all right.", "ja": "下の道を通るなら、問題ないはずよ。"}
+{"sec": "map:38", "key": "VICTORIA: Sorry if I kept anyone waiting!", "en": "VICTORIA: Sorry if I kept anyone waiting!", "ja": "ヴィクトリア: お待たせしていたらすみません!"}
+{"sec": "map:38", "key": "AME: Arclight's not coming here, but he already knows, so this is everyone.", "en": "AME: Arclight's not coming here, but he already knows, so this is everyone.", "ja": "アメ: アークライトはここには来ないけど、もう話は通してあるから、これで全員ね。"}
+{"sec": "map:38", "key": "VICTORIA: Is something going on?", "en": "VICTORIA: Is something going on?", "ja": "ヴィクトリア: 何かあったんですか?"}
+{"sec": "map:38", "key": "AME: Here's the situation.", "en": "AME: Here's the situation.", "ja": "アメ: 状況を説明するわ。"}
+{"sec": "map:38", "key": "We received an anonymous tip that Team Meteor still has a base in the city, right under our noses.", "en": "We received an anonymous tip that Team Meteor still has a base in the city, right under our noses.", "ja": "チームメテオが今も街の中に――それも、すぐ目と鼻の先にアジトを構えてるっていう匿名の情報提供があったの。"}
+{"sec": "map:38", "key": "ADRIENN: Devon?", "en": "ADRIENN: Devon?", "ja": "アドリエンヌ: デボンか?"}
+{"sec": "map:38", "key": "VICTORIA: Devon?", "en": "VICTORIA: Devon?", "ja": "ヴィクトリア: デボン?"}
+{"sec": "map:38", "key": "AME: Devon.", "en": "AME: Devon. ", "ja": "アメ: デボンよ。"}
+{"sec": "map:38", "key": "How did you know?", "en": "How did you know?", "ja": "どうして分かったの?"}
+{"sec": "map:38", "key": "ADRIENN: For my part, it's the only logical place left.", "en": "ADRIENN: For my part, it's the only logical place left.", "ja": "アドリエンヌ: 私に言わせれば、そこしか論理的に残っていない場所だからだ。"}
+{"sec": "map:38", "key": "I've been all over the rest of the city pretty intimately, but Devon Corp. is the one place that's always restricted anyone from working around.", "en": "I've been all over the rest of the city pretty intimately, but Devon Corp. is the one place that's always restricted anyone from working around.", "ja": "街の他の場所はかなり隅々まで見て回ってきたが、デボンコーポレーションだけは、常に人の出入りを制限してきた唯一の場所だ。"}
+{"sec": "map:38", "key": "VICTORIA: Even the storefront just looks shifty for what's supposed to be an international company.", "en": "VICTORIA: Even the storefront just looks shifty for what's supposed to be an international company.", "ja": "ヴィクトリア: 国際企業のはずなのに、店構えからしてどこか怪しいですよね。"}
+{"sec": "map:38", "key": "ADRIENN: Sweet Co. invested heavily in the restoration, and even Silph Co. was generous enough to donate funds.", "en": "ADRIENN: Sweet Co. invested heavily in the restoration, and even Silph Co. was generous enough to donate funds.", "ja": "アドリエンヌ: スウィート社は復興に多額の投資をしたし、シルフカンパニーですら気前よく資金を寄付してくれた。"}
+{"sec": "map:38", "key": "The fact that Devon still refused after that also made me suspicious.", "en": "The fact that Devon still refused after that also made me suspicious.", "ja": "それでもなおデボンが拒否し続けたことも、私には怪しく思えた。"}
+{"sec": "map:38", "key": "AME: Yes, well it's no longer just a suspicion or anonymous lead.", "en": "AME: Yes, well it's no longer just a suspicion or anonymous lead.", "ja": "アメ: ええ、それでもう、ただの疑念や匿名の情報だけじゃなくなったの。"}
+{"sec": "map:38", "key": "I took the liberty of calling Mr. Stone with a business inquiry regarding Devon's Reborn branch.", "en": "I took the liberty of calling Mr. Stone with a business inquiry regarding Devon's Reborn branch.", "ja": "勝手ながら、デボンのリボーン支社について、ツワブキ社長に業務上の問い合わせをしてみたわ。"}
+{"sec": "map:38", "key": "And of course, he informed me that no such thing exists.", "en": "And of course, he informed me that no such thing exists.", "ja": "それで案の定、そんなものは存在しないと言われたの。"}
+{"sec": "map:38", "key": "VICTORIA: Then it's settled! We can shut it down for good!", "en": "VICTORIA: Then it's settled! We can shut it down for good!", "ja": "ヴィクトリア: それなら決まりですね! 完全に潰してしまいましょう!"}
+{"sec": "map:38", "key": "AME: Before that, there's one more thing.", "en": "AME: Before that, there's one more thing.", "ja": "アメ: その前に、もう一つあるの。"}
+{"sec": "map:38", "key": "Our informant also told us that the leader of Team Meteor is hidden there right now.", "en": "Our informant also told us that the leader of Team Meteor is hidden there right now.", "ja": "情報提供者によると、今まさにチームメテオのリーダーがそこに隠れてるらしいわ。"}
+{"sec": "map:38", "key": "VICTORIA: Solaris...", "en": "VICTORIA: Solaris...", "ja": "ヴィクトリア: ソラリス……"}
+{"sec": "map:38", "key": "I won't hold back!", "en": "I won't hold back!", "ja": "手加減はしません!"}
+{"sec": "map:38", "key": "AME: No. It's Lin.", "en": "AME: No. It's Lin.", "ja": "アメ: いいえ。リンよ。"}
+{"sec": "map:38", "key": "From what Saphira has told me, we can't take any chances with her.", "en": "From what Saphira has told me, we can't take any chances with her.", "ja": "サファイラから聞いた話だと、あの子相手に油断は禁物よ。"}
+{"sec": "map:38", "key": "That's why I need all of you.", "en": "That's why I need all of you.", "ja": "だから、あなたたち全員の力が必要なの。"}
+{"sec": "map:38", "key": "And that's why I'm going too.", "en": "And that's why I'm going too.", "ja": "だから、わたしも行くわ。"}
+{"sec": "map:38", "key": "ADRIENN: Oh? I thought you said you intended to stay on the sidelines?", "en": "ADRIENN: Oh? I thought you said you intended to stay on the sidelines?", "ja": "アドリエンヌ: おや? 君は一線を退くつもりだと言っていなかったか?"}
+{"sec": "map:38", "key": "AME: It's true that Anna asked me to do that originally...", "en": "AME: It's true that Anna asked me to do that originally...", "ja": "アメ: 確かに、もともとはアンナにそう頼まれてたんだけど……"}
+{"sec": "map:38", "key": "AME: It's true that I intended to do that originally...", "en": "AME: It's true that I intended to do that originally...", "ja": "アメ: 確かに、もともとはそのつもりだったんだけど……"}
+{"sec": "map:38", "key": "But at this point,", "en": "But at this point, ", "ja": "でも、今となっては、"}
+{"sec": "map:38", "key": "If we can end all of this now,", "en": "If we can end all of this now,", "ja": "これを今、終わらせられるなら、"}
+{"sec": "map:38", "key": "I'll do whatever it takes.", "en": "I'll do whatever it takes.", "ja": "なんだってするわ。"}
+{"sec": "map:38", "key": "Besides, as the Champion, I can't just do nothing, right?", "en": "Besides, as the Champion, I can't just do nothing, right?", "ja": "それに、チャンピオンとして、何もしないわけにはいかないでしょ?"}
+{"sec": "map:38", "key": "Sorry, \\PN, didn't you know?", "en": "Sorry, \\PN, didn't you know?", "ja": "ごめんなさい、\\PN、知らなかった?"}
+{"sec": "map:38", "key": "It's not something I like to toss around or brag about.", "en": "It's not something I like to toss around or brag about.", "ja": "あんまり吹聴したり自慢したりするようなことじゃないんだけど。"}
+{"sec": "map:38", "key": "But I did restart this League after all, and who did you think runs the trial battles for Leaders?", "en": "But I did restart this League after all, and who did you think runs the trial battles for Leaders?", "ja": "でも、実際このリーグを再興したのはわたしだし、リーダーたちの試験バトルを取り仕切ってるの、誰だと思ってたの?"}
+{"sec": "map:38", "key": "Anyway, it's really not important.", "en": "Anyway, it's really not important.", "ja": "まあ、そんなことどうでもいいわ。"}
+{"sec": "map:38", "key": "Right now, we need to focus on Devon Corp.", "en": "Right now, we need to focus on Devon Corp.", "ja": "今は、デボンコーポレーションに集中しないと。"}
+{"sec": "map:38", "key": "I've already talked over the details with Arclight, so here's the plan:", "en": "I've already talked over the details with Arclight, so here's the plan:", "ja": "アークライトとはもう詳細を話し合ってあるから、計画はこうよ:"}
+{"sec": "map:38", "key": "The main level is probably fairly secure, even if they don't want it to be seen.", "en": "The main level is probably fairly secure, even if they don't want it to be seen.", "ja": "表向き見せたくないにしても、メインフロアはかなり厳重に警備されてるはずよ。"}
+{"sec": "map:38", "key": "So, we're going to take a pincer movement with one group in the front, and another approaching from the basement level which connects to the Railnet.", "en": "So, we're going to take a pincer movement with one group in the front, and another approaching from the basement level which connects to the Railnet.", "ja": "だから、一つのグループが正面から、もう一つが鉄道網につながる地下から近づく、挟み撃ちの形を取るわ。"}
+{"sec": "map:38", "key": "We'll rendezvous in the middle, and tackle the upper floors together.", "en": "We'll rendezvous in the middle, and tackle the upper floors together.", "ja": "中間で合流して、上の階には一緒に挑むの。"}
+{"sec": "map:38", "key": "Any questions?", "en": "Any questions?", "ja": "質問ある?"}
+{"sec": "map:38", "key": "ADRIENN: How are the groups decided?", "en": "ADRIENN: How are the groups decided?", "ja": "アドリエンヌ: グループ分けはどうするんだ?"}
+{"sec": "map:38", "key": "AME: You and I will take the storefront.", "en": "AME: You and I will take the storefront.", "ja": "アメ: あなたとわたしで、店の表を担当するわ。"}
+{"sec": "map:38", "key": "If we pretend to be there on city restoration business, it won't be suspicious.", "en": "If we pretend to be there on city restoration business, it won't be suspicious.", "ja": "街の復興業務で来たふりをすれば、怪しまれないはずよ。"}
+{"sec": "map:38", "key": "\\PN, Victoria and Arclight will come up under and behind them.", "en": "\\PN, Victoria and Arclight will come up under and behind them.", "ja": "\\PN、ヴィクトリア、アークライトは、下から、彼らの背後に回ってちょうだい。"}
+{"sec": "map:38", "key": "ADRIENN: If we all work together, they don't stand a chance!", "en": "ADRIENN: If we all work together, they don't stand a chance!", "ja": "アドリエンヌ: 全員で力を合わせれば、奴らに勝ち目はない!"}
+{"sec": "map:38", "key": "VICTORIA: I'll show Team Meteor the same mercy they showed Kiki.", "en": "VICTORIA: I'll show Team Meteor the same mercy they showed Kiki.", "ja": "ヴィクトリア: チームメテオには、キキ先生にしたのと同じ慈悲を見せてあげます。"}
+{"sec": "map:38", "key": "AME: Then we're set.", "en": "AME: Then we're set. ", "ja": "アメ: それじゃ、決まりね。"}
+{"sec": "map:38", "key": "Let's not waste any time!", "en": "Let's not waste any time!", "ja": "時間を無駄にしないようにしましょう!"}
+{"sec": "map:38", "key": "ADRIENN: While we're waiting for the others, there's something I was curious about.", "en": "ADRIENN: While we're waiting for the others, there's something I was curious about.", "ja": "アドリエンヌ: 他の皆を待っている間に、一つ気になっていたことがある。"}
+{"sec": "map:38", "key": "If I was gone for so long, why didn't you replace me?", "en": "If I was gone for so long, why didn't you replace me?", "ja": "私があれほど長く不在だったのに、どうして後任を立てなかったんだ?"}
+{"sec": "map:38", "key": "Surely if the League was still going, you would have needed a new Fairy Leader.", "en": "Surely if the League was still going, you would have needed a new Fairy Leader.", "ja": "リーグが続いていたのなら、新しいフェアリータイプのリーダーが必要だったはずだろう。"}
+{"sec": "map:38", "key": "AME: Um, the thing is...", "en": "AME: Um, the thing is...", "ja": "アメ: ええと、実はね……"}
+{"sec": "map:38", "key": "I actually did replace you.", "en": "I actually did replace you.", "ja": "ちゃんと後任は立てたのよ。"}
+{"sec": "map:38", "key": "ADRIENN: Oh? I'd love to meet the new-- or rather, old-- Leader!", "en": "ADRIENN: Oh? I'd love to meet the new-- or rather, old-- Leader!", "ja": "アドリエンヌ: おや? その新しい――いや、元の――リーダーにぜひ会ってみたいな!"}
+{"sec": "map:38", "key": "AME: Yeah, about that...", "en": "AME: Yeah, about that...", "ja": "アメ: ええ、それなんだけど……"}
+{"sec": "map:38", "key": "Nobody's seen or heard from him since the incident in Jasper Ward.", "en": "Nobody's seen or heard from him since the incident in Jasper Ward.", "ja": "ジャスパーワードでの事件以来、誰も彼の姿を見ていないし、連絡もないの。"}
+{"sec": "map:38", "key": "It seems pretty likely that he didn't make it.", "en": "It seems pretty likely that he didn't make it.", "ja": "生き延びられなかった可能性が高そうなの。"}
+{"sec": "map:38", "key": "Then, you came back before I finished arranging a replacement.", "en": "Then, you came back before I finished arranging a replacement.", "ja": "それで、次の後任の手配が終わる前に、あなたが戻ってきたってわけ。"}
+{"sec": "map:38", "key": "Nice timing in that regard.", "en": "Nice timing in that regard.", "ja": "その点では、いいタイミングだったわね。"}
+{"sec": "map:38", "key": "ADRIENN: Ah, I'm sorry to have brought up something like that.", "en": "ADRIENN: Ah, I'm sorry to have brought up something like that.", "ja": "アドリエンヌ: ああ、そんな話を持ち出してすまなかった。"}
+{"sec": "map:38", "key": "ADRIENN: The others should be here soon, right?", "en": "ADRIENN: The others should be here soon, right?", "ja": "アドリエンヌ: 他の皆も、そろそろ来るんだろう?"}
+{"sec": "map:38", "key": "This is a PSA for all Trainers: Please refrain from descending waterfalls in the region without approved Machine usage!", "en": "This is a PSA for all Trainers: Please refrain from descending waterfalls in the region without approved Machine usage!", "ja": "全トレーナーへのお知らせです。認可されたわざマシンの使用なしに、この地方の滝を下るのはお控えください!"}
+{"sec": "map:38", "key": "Many cascades are very tall and riding them downward recklessly may be a severe safety hazard!", "en": "Many cascades are very tall and riding them downward recklessly may be a severe safety hazard!", "ja": "多くの滝は非常に高く、無謀に下るのは重大な安全上の危険を伴う場合があります!"}
+{"sec": "map:38", "key": "Prioritize your health!", "en": "Prioritize your health! ", "ja": "健康を第一に!"}
+{"sec": "map:38", "key": "Stay safe until you have that Machine!", "en": "Stay safe until you have that Machine! ", "ja": "わざマシンを手に入れるまでは、安全第一でお願いします!"}
+{"sec": "map:38", "key": "Contact Reborn City staff if you need assistance!", "en": "Contact Reborn City staff if you need assistance! ", "ja": "助けが必要な場合は、リボーンシティのスタッフまでご連絡ください!"}
+{"sec": "map:38", "key": "Thank you!", "en": "Thank you!", "ja": "ありがとうございました!"}
+{"sec": "map:38", "key": "Hello citizens!", "en": "Hello citizens! ", "ja": "市民の皆さん、こんにちは!"}
+{"sec": "map:38", "key": "The City Restoration Project is well underway, but there's still so much left to do!", "en": "The City Restoration Project is well underway, but there's still so much left to do!", "ja": "街の復興プロジェクトは順調に進んでいますが、まだやるべきことがたくさんあります!"}
+{"sec": "map:38", "key": "If you're interested in helping out, please contact one of the administrative staff so we can assign you a project leader.", "en": "If you're interested in helping out, please contact one of the administrative staff so we can assign you a project leader.", "ja": "お手伝いにご興味があれば、運営スタッフまでご連絡ください。プロジェクトリーダーをご紹介いたします。"}
+{"sec": "map:38", "key": "Trainer! Can I interest you in some delicious treats?", "en": "Trainer! Can I interest you in some delicious treats?", "ja": "トレーナーさん! 美味しいお菓子はいかが?"}
+{"sec": "map:38", "key": "Common Candies are cheap and delicious-- never mind the side effect of lowering your Pokémon's level!", "en": "Common Candies are cheap and delicious-- never mind the side effect of lowering your Pokémon's level!", "ja": "ノーマルアメは安くて美味しいですよ――ポケモンのレベルが下がる副作用は気にしないでくださいね!"}
+{"sec": "map:38", "key": "Buy up! They're on sale now only!", "en": "Buy up! They're on sale now only!", "ja": "今だけセール中、ぜひどうぞ!"}
+{"sec": "map:38", "key": "Hello there!", "en": "Hello there!", "ja": "こんにちは!"}
+{"sec": "map:38", "key": "I see you have the Field Effect Note app!", "en": "I see you have the Field Effect Note app!", "ja": "フィールド効果ノートアプリをお持ちなんですね!"}
+{"sec": "map:38", "key": "Please allow me to upgrade it with some recently recovered data!", "en": "Please allow me to upgrade it with some recently recovered data!", "ja": "最近復旧したデータで、アップグレードさせてください!"}
+{"sec": "map:38", "key": "\\PN obtained Field Effect Read-Out 09!", "en": "\\PN obtained Field Effect Read-Out 09!", "ja": "\\PNはフィールド効果データ09を手に入れた!"}
+{"sec": "map:38", "key": "Info on Rainbow Field now available!", "en": "Info on Rainbow Field now available!", "ja": "レインボーフィールドの情報が閲覧可能になりました!"}
+{"sec": "map:38", "key": "In order to research Field Effects more thoroughly, it's important to have all the help we can get.", "en": "In order to research Field Effects more thoroughly, it's important to have all the help we can get.", "ja": "フィールド効果をより徹底的に研究するには、あらゆる協力が重要です。"}
+{"sec": "map:38", "key": "By spreading the public version of our data, we're more likely to receive feedback and corrections for future versions!", "en": "By spreading the public version of our data, we're more likely to receive feedback and corrections for future versions!", "ja": "データの公開版を広めることで、今後のバージョンに向けたフィードバックや修正を受けられる可能性が高まります!"}
+{"sec": "map:38", "key": "Thank you for using the app!", "en": "Thank you for using the app!", "ja": "アプリをご利用いただき、ありがとうございます!"}
+{"sec": "map:38", "key": "Yo, back off, punk.", "en": "Yo, back off, punk.", "ja": "おい、下がれよ、坊主。"}
+{"sec": "map:38", "key": "Stand off, yo.", "en": "Stand off, yo.", "ja": "近寄るなよ。"}
+{"sec": "map:38", "key": "Keep outta our ways.", "en": "Keep outta our ways.", "ja": "こっちに関わってくるな。"}
+{"sec": "map:38", "key": "And the alleyways, too. They's ours.", "en": "And the alleyways, too. They's ours.", "ja": "路地もだ。ここらはオレたちのもんだからな。"}
+{"sec": "map:38", "key": "Hi! You have the pulse dex and field notes now.", "en": "Hi! You have the pulse dex and field notes now.", "ja": "やあ! これでパルスデックスとフィールドノートが手に入ったな。"}
+{"sec": "map:38", "key": "You're welcome.", "en": "You're welcome.", "ja": "どういたしまして。"}
+{"sec": "map:38", "key": "This NPC will now self-destruct.", "en": "This NPC will now self-destruct.", "ja": "このNPCはこれより自爆します。"}
+{"sec": "map:38", "key": "But like, gently.", "en": "But like, gently.", "ja": "まあ、優しくね。"}
+{"sec": "map:38", "key": "k bai~", "en": "k bai~", "ja": "じゃ、ばいばーい~"}
+{"sec": "map:38", "key": "LYKOS: Ah, you finally beat every Gym Leader?", "en": "LYKOS: Ah, you finally beat every Gym Leader?", "ja": "ライコス: ああ、ついに全ジムリーダーを倒したのか?"}
+{"sec": "map:38", "key": "Congratulations!", "en": "Congratulations!", "ja": "おめでとう!"}
+{"sec": "map:38", "key": "Would you like to Celebrate during this Happy Hour?", "en": "Would you like to Celebrate during this Happy Hour?", "ja": "このハッピーアワーの間に、お祝いしますか?"}
+{"sec": "map:38", "key": "LYKOS: I hope that you will have a great day!", "en": "LYKOS: I hope that you will have a great day!", "ja": "ライコス: 素晴らしい一日を過ごしてくれよ!"}
+{"sec": "map:38", "key": "Did you know?", "en": "Did you know?", "ja": "知ってた?"}
+{"sec": "map:38", "key": "The best way to train your HP stat is by fishing in dirty water!", "en": "The best way to train your HP stat is by fishing in dirty water!", "ja": "HP種族値を鍛える一番の方法は、汚れた水で釣りをすることだよ!"}
+{"sec": "map:38", "key": "The best way to train your HP stat is by surfing in a hidden hot spring!", "en": "The best way to train your HP stat is by surfing in a hidden hot spring!", "ja": "HP種族値を鍛える一番の方法は、隠れた温泉で波乗りをすることだよ!"}
+{"sec": "map:38", "key": "Howdy, champ.", "en": "Howdy, champ.", "ja": "よぉ、チャンプ。"}
+{"sec": "map:38", "key": "Having a rough time?", "en": "Having a rough time?", "ja": "苦労してるのか?"}
+{"sec": "map:38", "key": "If you'd like your life to be a little easier in the future, I can let you in on a secret...", "en": "If you'd like your life to be a little easier in the future, I can let you in on a secret...", "ja": "これから先の人生を少し楽にしたいなら、秘密を教えてやろう……"}
+{"sec": "map:38", "key": "Next time someone asks you for a password, try telling them \"litemode\".", "en": "Next time someone asks you for a password, try telling them \"litemode\".", "ja": "今度誰かにパスワードを聞かれたら、「litemode」って言ってみな。"}
+{"sec": "map:38", "key": "Specifically, this'll just cut out all the extra stats from your opponents' IV and EV spreads.", "en": "Specifically, this'll just cut out all the extra stats from your opponents' IV and EV spreads.", "ja": "具体的には、相手の個体値と努力値の余分な分を、丸ごとカットしてくれるんだ。"}
+{"sec": "map:38", "key": "Nothing too special, but you might be surprised the difference a few digits can make.", "en": "Nothing too special, but you might be surprised the difference a few digits can make.", "ja": "大したことじゃないが、数字がちょっと変わるだけで、意外と差が出て驚くかもな。"}
+{"sec": "map:38", "key": "Would you like to turn the EXP All on now?", "en": "Would you like to turn the EXP All on now?", "ja": "今、EXPオールをオンにしますか?"}
+{"sec": "map:38", "key": "Curses...", "en": "Curses...", "ja": "くそっ……"}
+{"sec": "map:38", "key": "I dropped my Remote PC somewhere around here...", "en": "I dropped my Remote PC somewhere around here...", "ja": "このあたりでリモートPCを落としちまったんだ……"}
+{"sec": "map:38", "key": "It was one of the newer models, too-- the kind that doesn't require Cell Batteries...", "en": "It was one of the newer models, too-- the kind that doesn't require Cell Batteries...", "ja": "新しいモデルの一つでな――セルバッテリーが要らないタイプの……"}
+{"sec": "map:38", "key": "Argh, if only I could tell someone \"freeremotepc\" and just have already found it by now!", "en": "Argh, if only I could tell someone \"freeremotepc\" and just have already found it by now!", "ja": "ああ、誰かに「freeremotepc」って言えば、もう見つかったことになるのになあ!"}
+{"sec": "map:38", "key": "Alas...", "en": "Alas...", "ja": "ああ、無念……"}
+{"sec": "map:38", "key": "\\PN picked up the package of Mints!", "en": "\\PN picked up the package of Mints!", "ja": "\\PNはミントのセットを拾った!"}
+{"sec": "map:38", "key": "Yes", "en": "Yes", "ja": "はい"}
+{"sec": "map:38", "key": "No", "en": "No", "ja": "いいえ"}
+{"sec": "map:38", "key": "Affordable Living in Obsidia", "en": "Affordable Living in Obsidia", "ja": "オブシディアの手頃な住まい"}
+{"sec": "map:38", "key": "Railnet Reconstruction", "en": "Railnet Reconstruction", "ja": "鉄道網再建"}
+{"sec": "map:38", "key": "Azurine Nature Center", "en": "Azurine Nature Center", "ja": "アズリンネイチャーセンター"}
+{"sec": "map:38", "key": "Not today", "en": "Not today", "ja": "今日はやめておく"}
+{"sec": "map:38", "key": "Celebrate", "en": "Celebrate", "ja": "お祝いする"}
+{"sec": "map:38", "key": "Happy Hour", "en": "Happy Hour", "ja": "ハッピータイム"}

@@ -1,0 +1,350 @@
+map_0877#41		AYA: \PN, did you just change the temperature in here-- was that you?
+map_0877#42		I have an idea.
+map_0877#43		See if you can find a way to make it hotter instead!
+map_0877#44		If we can overheat the whole facility, maybe I can wipe all these guys out at once!
+map_0877#45		Gotta get back to it-- move fast!
+map_0877#46		AYA: See if you can find a way to amp the temperature!
+map_0877#47		If you can, I'll try to take them all out at once!
+map_0877#48		AYA: I did it!
+map_0877#49		They're all fuckin' burning!
+map_0877#50		Every single one of them!
+map_0877#51		Hahahaha-- take that, motherfuckers!
+map_0877#52		WOOO!!
+map_0877#53		AYA: ...Okay, that's a break.
+map_0877#54		AYA: Man, is this how Charlotte feels all the time?
+map_0877#55		Maybe I should jump types.
+map_0877#56		"EMERGENCY ACCESS ONLY-- DISABLED EXCEPT IN CASE OF FIRE."
+map_0877#57		"SHUTTER SYSTEM-- MODE B"
+map_0877#58		"SHUTTER SYSTEM-- MODE A"
+map_0877#59		Activate?
+map_0877#60		ISO-SHUTTER UNLOCKED
+map_0877#61		ARC: \PN! You're sure a sight for a sore eye!
+map_0877#62		And just in the nick of time.
+map_0877#63		These two gizmos just galloped out of the woodwork.
+map_0877#64		Wanna put the rust on 'em with me?
+map_0877#65		ARC: Nice work.
+map_0877#66		That might've been some rough stuff if you hadn't showed up when you did.
+map_0877#67		ARC: And it looks like one of them dropped something.
+map_0877#68		ARC: I don't suppose you know what this is, do you?
+map_0877#69		ARC: All yours either way.
+map_0877#70		Now for the rewind:
+map_0877#71		We were in the atrium trying to stitch up the sitch when we started getting some funk on the line.
+map_0877#72		Blinked and we were here, tapped our heels and we weren't. 
+map_0877#73		Came and went a few times in the confusion and eventually we went with it.
+map_0877#74		I think this is a New World sector that's overlapped with the real world.
+map_0877#75		We had a few of those before you drifted back into existence and it wasn't pretty.
+map_0877#76		Once we clear out all the Anomalies it should be safe, but in the meantime I'm not the only one stuck in here.
+map_0877#77		I saw some of the shelter residents stuck a little further in, so I'm gonna head forward and free them first.
+map_0877#78		I'm counting on you to keep the rest of the set safe.
+map_0877#79		I'll check in when I can. Stay tuned.
+map_0877#80		"SHOCK RECEPTOR-- INACTIVE"
+map_0877#81		There is an open slot below the display.
+map_0877#82		Insert the Shock Drive?
+map_0877#83		Placed the Shock Drive in the slot.
+map_0877#84		"SYSTEM POWERED."
+map_0877#85		"SHOCK RECEPTOR-- ACTIVE"
+map_0877#86		The Shock Drive is inserted into the system.
+map_0877#87		Remove the Shock Drive?
+map_0877#88		Withdrew the Shock Drive.
+map_0877#89		"SYSTEM BACK UP POWER ONLINE."
+map_0877#90		"AREA LOCKED DOWN-- INSUFFICIENT POWER."
+map_0877#91		"CHILL RECEPTOR-- INACTIVE"
+map_0877#92		Insert the Chill Drive?
+map_0877#93		Placed the Chill Drive in the slot.
+map_0877#94		"SYSTEM COOLING ONLINE."
+map_0877#95		"CHILL RECEPTOR-- ACTIVE"
+map_0877#96		The Chill Drive is inserted into the system.
+map_0877#97		Remove the Chill Drive?
+map_0877#98		Withdrew the Chill Drive.
+map_0877#99		"SYSTEM COOLING OFFLINE."
+map_0877#100		CAIN: Heyyy, \PN, nice timing as always!
+map_0877#101		These two just showed up and were starting to get a little rough for my taste.
+map_0877#102		Wanna double dip with me?
+map_0877#103		CAIN: So... what is that, like...
+map_0877#104		The fourth... fifth time you've saved me?
+map_0877#105		Just so you know, I don't try to be a damsel or anything,
+map_0877#106		I'm just naturally good at it~
+map_0877#107		CAIN: And they left a souvenir.
+map_0877#108		CAIN: My prize to you, my savior~
+map_0877#109		CAIN: I saw my mom further in.
+map_0877#110		She was... a big part of the reason I left.
+map_0877#111		But even so, I can't just abandon her here.
+map_0877#112		Even if she is totally out of line, I'm gonna go get her out.
+map_0877#113		Who knows, maybe she'll figure out how to treat me like a reasonable human being somewhere along the way.
+map_0877#114		I'll see you soon! Ta!
+map_0877#115		"BURN RECEPTOR-- INACTIVE"
+map_0877#116		Insert the Burn Drive?
+map_0877#117		Placed the Burn Drive in the slot.
+map_0877#118		"CENTRAL HEATING ACTIVE."
+map_0877#119		"BURN RECEPTOR-- ACTIVE"
+map_0877#120		The Burn Drive is inserted into the system.
+map_0877#121		Remove the Burn Drive?
+map_0877#122		Withdrew the Burn Drive.
+map_0877#123		"CENTRAL HEATING INACTIVE."
+map_0877#124		"DOUSE RECEPTOR-- INACTIVE"
+map_0877#125		Insert the Douse Drive?
+map_0877#126		Placed the Douse Drive in the slot.
+map_0877#127		"SPRINKLER SYSTEM ACTIVE."
+map_0877#128		"DOUSE RECEPTOR-- ACTIVE"
+map_0877#129		The Douse Drive is inserted into the system.
+map_0877#130		Remove the Douse Drive?
+map_0877#131		Withdrew the Douse Drive.
+map_0877#132		"SPRINKLER SYSTEM INACTIVE."
+map_0877#133		"AREA LOCKED DOWN-- SYSTEM OVERHEATING."
+map_0877#134		"COMBUSTION POWER GENERATOR.
+map_0877#135		SYSTEM POWERED.
+map_0877#136		THERMAL SYSTEM ACTIVE.
+map_0877#137		ACTIVATE COMBUSTION POWER?"
+map_0877#138		THERMAL SYSTEM INACTIVE.
+map_0877#139		INSUFFICIENT HEAT."
+map_0877#140		INSUFFICIENT POWER."
+map_0877#141		"COMBUSTION SYSTEM EXHAUSTED."
+map_0877#142		TITANIA: I assume you already know what's going on here.
+map_0877#143		Fight first; chat later.
+map_0877#144		TITANIA: Hardy is going to owe me like, infinity favors after this.
+map_0877#145		TITANIA: This is all yours.
+map_0877#146		TITANIA: When we were dragged over into this space, I caught a glimpse of where Tez was isolated.
+map_0877#147		Loathe as I am for it, I'm going to spare the others the burden of rescuing him.
+map_0877#148		Better I do it than they have to,
+map_0877#149		And I have some more choice words for him.
+map_0877#150		Keep it up.
+map_0877#151		"ACTIVE FIRE AHEAD.
+map_0877#152		SYSTEM LOCKED DOWN FOR USER SAFETY."
+map_0877#153		AYA: I don't care what anyone says; that was fucking awesome.
+map_0877#154		One Heat Wave and the whole Genesect army is literal toast!
+map_0877#155		You probably don't wanna go up there until the flames die down though.
+map_0877#156		...Why was that one of the easier things I've done today?
+map_0877#157		AYA: Thanks for caring enough to come check on me.
+map_0877#158		I feel like that's more than the rest of the group did.
+map_0877#159		But also, you don't always have to jump to try and "save" me.
+map_0877#160		I know I was out for most of the Meteor thing, but that's not who I want to be.
+map_0877#161		HARDY: Roger that! Just know I've got your back, yanno?
+map_0877#162		Say, where even are the rest of the others?
+map_0877#163		AYA: I saw Cain leading Mom out. He signaled he'd be right back.
+map_0877#164		...But he's not right back, so I don't know.
+map_0877#165		I haven't seen the others.
+map_0877#166		If \PN got them free, they should be fine.
+map_0877#167		By the way, would you go check the upper area once the flames have been put out?
+map_0877#168		I think it'll be fine, but there's always a chance the sprinklers kicked on before all of the Genesect were finished dying.
+map_0877#169		We'll head out of here soon.
+map_0877#170		HARDY: Mate, am I glad to see you!
+map_0877#171		I've just barely been keeping distance from these two while I've been trapped in here.
+map_0877#172		Whaddya say we give 'em the duo act?
+map_0877#173		HARDY: And that's the show!
+map_0877#174		HARDY: Looks like the audience left us a parting gift.
+map_0877#175		HARDY: I get the feeling you'll know what to do with it.
+map_0877#176		HARDY: I'm gonna go find Aya!
+map_0877#177		God knows this was the last thing she needed after everything.
+map_0877#178		I'll keep her safe, don't worry!
+map_0877#179		Wait, whaddya mean she's fine?
+map_0877#180		She took out a bunch of those things?
+map_0877#181		That's my girl!
+map_0877#182		Still, I'mma find her!
+map_0877#183		Peace!
+map_0877#184		HARDY: Hey, are you really all right?
+map_0877#185		AYA: All right?
+map_0877#186		I just had the world's shittiest rehearsal interrupted by my abusive stepdad, 
+map_0877#187		Ran out, found him and everyone else spirited into dust,
+map_0877#188		Followed them to find a secret dark factory overlapping onto the real world full of aggressive mutant cyborg bugs,
+map_0877#189		Which I then had to fight by the dozen, and proceeded to burn them all to a crisp.
+map_0877#190		I am NOT "all right".
+map_0877#191		I'm fucking great.
+map_0877#192		And you are lucky that I was here to save you!
+map_0877#193		HARDY: I--
+map_0877#194		Yeah, I--
+map_0877#195		...Rock on, girl.
+map_0877#196		GENESECT: GrrzzzZCT!
+map_0877#197		LIN: you see the problem, right
+map_0877#198		like sure, this worked out and that girl stood up for herself with the power of friendship or whatever vomit-inducing anime cliché you wanna chalk that up to,
+map_0877#199		but like, every other adult is Like That
+map_0877#200		they just yell and bark orders and make kids into their own personal dumping ground for their control issues or whatever.
+map_0877#201		all because they feel some god-given sense of entitlement or superiority by supposed merit of being The Adult (tm)
+map_0877#202		isn't it better to get rid of that entirely???
+map_0877#203		that's all i've ever been doing.
+map_0877#204		so isn't it unfair for everyone to come after ME as if I'VE been doing something wrong???
+map_0877#205		if anything, they should be helping me.
+map_0877#206		starting with you!
+map_0877#207		swap on over to my team.
+map_0877#208		i'll even let you play with baby arceus~
+map_0877#209		LIN: ...anyway, i just wanted to chat.
+map_0877#210		you can go.
+map_0877#211		if you really want.
+map_0877#212		i guess.
+map_0877#213		here, i'll even give you a free ride.
+map_0877#214		"HYDROELECTRIC GENERATOR.
+map_0877#215		RESERVOIR FULL.
+map_0877#216		ACTIVATE HYDROELECTRIC POWER?"
+map_0877#217		RESERVOIR DRAINED.
+map_0877#218		INSUFFICIENT MOISTURE."
+map_0877#219		"HYDROELECTRIC SYSTEM ACTIVE."
+map_0877#220		A switch on the machine opens the case.
+map_0877#221		Press it?
+map_0877#222		Who wouldn't?
+map_0877#223		Better not...
+map_0877#224		"SUPERCOOLING SYSTEM.
+map_0877#225		CENTRAL COOLING ACTIVE.
+map_0877#226		WATER COOLING ENABLED.
+map_0877#227		ACTIVATE SUPERCOOLING SYSTEM?"
+map_0877#228		WATER COOLING DISABLED.
+map_0877#229		CENTRAL COOLING INACTIVE.
+map_0877#230		UNABLE TO COOL."
+map_0877#231		CORE TEMPERATURE EXCEEDED.
+map_0877#232		CORE SYSTEM OVERHEATED."
+map_0877#233		"SUPERCOOLING SYSTEM ACTIVE."
+map_0877#234		"STEAM POWER SYSTEM.
+map_0877#235		CENTRAL HEATING ACTIVE.
+map_0877#236		ACTIVATE STEAM POWER SYSTEM?"
+map_0877#237		CENTRAL HEATING INACTIVE.
+map_0877#238		UNABLE TO GENERATE REQUISITE HEAT.
+map_0877#239		CORE TEMPERATURE COOLING ENABLED.
+map_0877#240		SYSTEM FROZEN."
+map_0877#241		"STEAM POWER SYSTEM ACTIVE."
+map_0877#242		Yes
+map_0877#243		No
+map_0878#0		SHAYMIN: Mi-mi-mi-mi?
+map_0878#1		Shaymin fled to the center!
+map_0878#2		SHAYMIN: Mimi?
+map_0878#3		SHAYMIN: Mi!
+map_0878#4		Mi!
+map_0878#5		Mi!!!
+map_0878#6		EVE: Your timing is as impeccable as always, \PN.
+map_0878#7		LUMI: Please do something!
+map_0878#8		Something's gotten into her and she won't listen to me at all!
+map_0878#9		I feel like this is a really, really, really bad idea to even be trying again!
+map_0878#10		You KNOW what happened last time!
+map_0878#11		I don't understand why you won't listen!
+map_0878#12		EVE: And you know what's at stake here.
+map_0878#13		I have a new tactic. That Flora girl knew what she was talking about.
+map_0878#14		Please do not get in my way.
+map_0878#15		LUMI: \PN, are you really going to let her do this?!
+map_0878#16		EVE: Your trust is appreciated.
+map_0878#17		LUMI: Please, you can't really believe that this is a good idea!
+map_0878#18		What if it happens again!?
+map_0878#19		EVE: I understand that you're afraid, but I need your trust and cooperation as well.
+map_0878#20		Everything will be okay.
+map_0878#21		LUMI: You don't know that!
+map_0878#22		You thought you had it right the first time too!
+map_0878#23		EVE: And now I have no small amount of experience, perspective, and data on top of that.
+map_0878#24		LUMI: Even just having a third person here makes me nervous!
+map_0878#25		And I know how much being trapped with him hurt you!
+map_0878#26		I don't want you to have to risk it for me!
+map_0878#27		I'm not the scared little kid I used to be.
+map_0878#28		I can handle whatever happens-- now and afterwards!
+map_0878#29		EVE: You won't have to.
+map_0878#30		Just let me do this.
+map_0878#31		LUMI: No!
+map_0878#32		EVE: ...\PN.
+map_0878#33		I don't want to have to ask this, but could you deal with her?
+map_0878#34		I just need a little more time to finish this.
+map_0878#35		LUMI: I-- I don't want to do this...
+map_0878#36		But if this is really how it's going to be...
+map_0878#37		I'll fight to protect your happiness too, Eve.
+map_0878#38		I'll fight the entire world for you if I have to!
+map_0878#39	Lumi	P-please, this is her life too...
+map_0878#40		LUMI: I don't want you to sacrifice yourself anymore!
+map_0878#41		Not for me--
+map_0878#42		It's not worth it...
+map_0878#43		I'm not--
+map_0878#44		LUMI: Th-thank you...
+map_0878#45		EVE: Your concern is understandable.
+map_0878#46		However,
+map_0878#47		Lumi cannot afford to let you stop me.
+map_0878#48		LUMI: Isn't that my right to decide?!
+map_0878#49		Don't I get a say in this?!
+map_0878#50		EVE: ...While I obviously cannot say 'no' to that, neither can I simply do nothing.
+map_0878#51		I will not stand down.
+map_0878#52		No matter what gets in the way...
+map_0878#53		You, or my sister, or the very forces of time and nature themselves...
+map_0878#54		I am not going to let her go.
+map_0878#55		Do your worst to take her from me.
+map_0878#56		The world always has.
+map_0878#57	Eve	...Tch. Just where are your priorities?
+map_0878#58		LUMI: Please, I don't want you to sacrifice yourself for me anymore!
+map_0878#59		EVE: And just what do you expect me to do?
+map_0878#60		Sit here, forget everything I've studied-- everything I've learned for this specific purpose, and lose you too?
+map_0878#61		Do you think I could live with myself after that?
+map_0878#62		LUMI: I'm-- I'm sorry...
+map_0878#63		I'll just, um...
+map_0878#64		EVE: No, wait--
+map_0878#65		EVE: ...Ugh.
+map_0878#66		EVE: There's too much to be done already, and obviously I need to go talk to her now too.
+map_0878#67		\PN, can I ask for your help again, even after all this?
+map_0878#68		This New World environment is exactly what I've been waiting for-- for a number of reasons.
+map_0878#69		The first reason is that I've confirmed that multiple Shaymin live here.
+map_0878#70		I'll explain the rest later, but I need you to collect several of them.
+map_0878#71		Let's say five in total should do.
+map_0878#72		If you can bring them back here, that should be adequate.
+map_0878#73		I'll go... talk to her.
+map_0878#74		We'll come to an understanding, don't worry.
+map_0878#75		Back soon--
+map_0878#76		Five Shaymin! Please!
+map_0878#77		EVE: I see you've found all five of them.
+map_0878#78		Your help is irreplaceable as always; thank you.
+map_0878#79		As for Lumi, she'll be fine.
+map_0878#80		She's agreed to cooperate, but as a precautionary compromise, she'll be waiting elsewhere until the very moment we need her.
+map_0878#81		For now, we can continue.
+map_0878#82		Our next step will be to remove the anomalous energy around these Shaymin.
+map_0878#83		My opinion is that this energy is something like leftover, junk material from the generation of these worlds and their Pokémon.
+map_0878#84		It appears to collect around the most powerful figures in these worlds like debris falling into a planet's orbit.
+map_0878#85		Depending on the amount of leftover material, it may or may not form into a proper aura, but even when it doesn't--
+map_0878#86		EVE: ...It doesn't mean it's not there.
+map_0878#87		Here, I've linked the energies of all five of the Shaymin with each other to accentuate the anomalous energy and develop it into a tangible form.
+map_0878#88		This will allow us to deal with it directly in the usual way.
+map_0878#89		You know, witless violence and all that.
+map_0878#90		By purging the aura ahead of time, we'll be preventing any unexpected interferences.
+map_0878#91		I'd like to take no chances, thank you.
+map_0878#92		Now, I believe that violence is your specialty, so I'd like to ask you again to help with the honors.
+map_0878#93		Allow me to heal your party now as apology for before...
+map_0878#94		EVE: ...There.
+map_0878#95		Speak to me when you're ready to begin.
+map_0878#96		EVE: Are you ready?
+map_0878#97		EVE: Wonderful. 
+map_0878#98		I'll do my best to assist as well.
+map_0878#99		EVE: Let's begin.
+map_0878#100	Shaymin	Miii~
+map_0878#101	Friends	Shami?
+map_0878#102		EVE: ...Good.
+map_0878#103		EVE: Now, it nearly happened in that battle, but...
+map_0878#104		EVE: Now, the next step...
+map_0878#105		In order to do this properly, we're going to need to transform this whole area.
+map_0878#106		I'm going to coordinate a five-fold Seed Flare attack to purify the entire space.
+map_0878#107		Then we can get what we need.
+map_0878#108		EVE: All right, Shaymin. Don't fail me now.
+map_0878#109		Seed Flare!
+map_0878#110		EVE: Take your time.
+map_0878#111		Whatever's worth doing is worth doing well.
+map_0878#112		Shaymin Quest completion has been detected from a different save file.
+map_0878#113		Skip finding Shaymin on this file?
+map_0878#114		Yes
+map_0878#115		No
+map_0879#0		SHAYMIN: Sha!
+map_0879#1		SHAYMIN: Sha?!
+map_0879#2		SHAYMIN: Sha.
+map_0879#3		SHAYMIN: Sha!!!
+map_0879#4		SHAYMIN: Sha...?
+map_0879#5		EVE: ...
+map_0879#6		Well, this looks promising.
+map_0879#7		But we won't know for sure until the next step.
+map_0879#8		We're going to need five Gracidea flowers next.
+map_0879#9		If my research is right, they should spawn in an environment just like this one.
+map_0879#10		...Ah, no.
+map_0879#11		Make that four.
+map_0879#12		EVE: Just like this one.
+map_0879#13		Perhaps since these flowers are connected to Shaymin, you'll find them near where the Shaymin first appeared.
+map_0879#14		EVE: So four more Gracidea flowers then.
+map_0879#15		Could I ask you to go look for them?
+map_0879#16		I'll keep an eye on the Shaymin here while I keep working.
+map_0879#17		You can ask me if you need some help as well.
+map_0879#18		EVE: You found them?
+map_0879#19		\PN handed over the Gracidea flowers.
+map_0879#20		EVE: ...Perfect.
+map_0879#21		Using these samples, I should have enough material to synthetically cross-pollinate and produce an entire proper garden in this environment.
+map_0879#22		This would normally take a while, but as long as Lumi is in stable condition, there's no need to rush.
+map_0879#23		We can take our time making sure the compounds we need develop properly.
+map_0879#24		...And she's going to be okay.
+map_0879#25		???: WHAT IN THE FRESH FIRES OF FUCK IS THIS?!
+map_0879#26		EVE: ...Pardon?
+map_0879#27		CRAUDBURRY: What in CARNATIONS are all these GARBAGE plants doing here?!
+map_0879#28		EVE: Uh...
+map_0879#29		They grew here?
+map_0879#30		Sorry, who are you?

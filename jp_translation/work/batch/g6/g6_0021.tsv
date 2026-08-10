@@ -1,0 +1,350 @@
+map_0901#496		Kanaya and another friend of mine, I'd asked to help out with small tasks like filling in cliffs around the entire desert...
+map_0901#497		Seriously, it took two of them two weeks of working on it reliably to get all of that done.
+map_0901#498		Not to mention the other areas they helped with...
+map_0901#499		Much appreciation to them for trudging through all of that despite me kind of giving them the short end of the stick.
+map_0901#500		Ikaru's another person who's helped out with filling in my ridiculous maps, along with just general handling of bug reports.
+map_0901#501		He's also usually the first person I test with, watching his every playthrough and judging his actions!
+map_0901#502		...And getting trolled when he decides to spam Itemfinder everywhere until I behave.
+map_0901#503		Jan's just kind of here these days, but originally we had a trade where I helped him out with learning to sprite better in return for him tackling a few sprites for Reborn.
+map_0901#504		Cass joined us late in E18.
+map_0901#505		Originally she was going to be an animator!
+map_0901#506		She did Leafage and no other animations.
+map_0901#507		But she more than made up for it in ways I already basically gushed about in another section, so I'll spare her here.
+map_0901#508		She did suggest we take on a certain Toothpastefairy, or Perry!
+map_0901#509		He happened to be working on some mods anyway so we picked him up to help out and he's just been fantastic for the whole tail end of the ride.
+map_0901#510		I'm very grateful for him helping us out with programming reliably, and also being totally down to enable whatever bullshit Cass or I get up to.
+map_0901#511		He's done a lot of quality-of-life improvements for y'all especially, such as that quick TM view in the bag!
+map_0901#512		Other late-joining stars include The Legendary Crim.
+map_0901#513		You might know of them from their work on literally every other fangame in existence.
+map_0901#514		It's been a huge help to have a second spriter and mapper on the team. 
+map_0901#515		Even though they were originally just learning both when I asked them to help with Starlight, they learn fast and caught up quick.
+map_0901#516		There's no way we could've made some of the postgame content as gorgeous as it has been without them.
+map_0901#517		Last but not least, we also acquired an Azzie! 
+map_0901#518		Fans might know her from her Tourmaline Travels story, and if not, they might be interested in reading it!
+map_0901#519		She's helped out with a lot of the sundry postgame dialogue, especially in the Nightclub.
+map_0901#520		If I had to do it all myself I probably would've gone insane and run into the hills screaming...
+map_0901#521		...Is that everyone?
+map_0901#522		I think so...
+map_0901#523		Gosh, I've written too much already. Let's be done.
+map_0901#524		But please appreciate everyone who's helped us make it to this point, ne?
+map_0901#525		AME: So, no more Pokémon games.
+map_0901#526		Sorry, not sorry.
+map_0901#527		I am Tired and Done.
+map_0901#528		Also, there's the whole copyright thing.
+map_0901#529		Nintendo, please, we can all just walk away from this peacefully, I don't want anything more to do with it, I swear...
+map_0901#530		I know a lot of people will probably be disappointed by it, but like...
+map_0901#531		Y'all gotta remember, even though I've been here for a decade and change, my start is not in Pokémon games.
+map_0901#532		I've wanted to make a tactical RPG since I was like 12.
+map_0901#533		Finally gonna go do that now.
+map_0901#534		It's called Starlight Divide, and-- obligatory plug-- we have a demo out already!
+map_0901#535		Wait, I can just take you to the website!
+map_0901#536		Wanna give it a look?
+map_0901#537		AME: Hell yeah, okay, here you go.
+map_0901#538		thank you ily
+map_0901#539		AME: okay that's understandable maybe another time
+map_0901#540		Regardless, for those of you who already tried the demo (or even who will go on to try it)-- Thank you so much.
+map_0901#541		It means a lot to me that you're willing to give it a chance!
+map_0901#542		There's still a lot of work to do on that too, but I'm eagerly looking forward to the opportunity to do so.
+map_0901#543		There's a lot of side projects and other games I want to make too, but...
+map_0901#544		I guess we'll just have to see how things go?
+map_0901#545		My curse is that I come up with ideas way quicker than I can ever dream of developing them.
+map_0901#546		Alas.
+map_0901#547		I hope you'll stick around to see what comes from our next endeavors!
+map_0901#548		AME: This might've been unclear, but to be clear this section is just sort of advice/lessons I've learned in the realm of game development.
+map_0901#549		There's a handful of things I wish I'd done differently, and so I hope others can learn from my mistakes.
+map_0901#550		If you're not interested, just hold X or whatever.
+map_0901#551		Let's start with something positive.
+map_0901#552		#1: Jack of all trades, master of none...
+map_0901#553		The lesser-known phrase continues "But better than being a master of one."
+map_0901#554		Ultimately, I think that is true.
+map_0901#555		Especially as an indie dev starting out, it's important to be willing to handle all parts of the project yourself.
+map_0901#556		I pride myself on being able to do it all-- music, writing, programming (eventually...), spriting, mapping, animation, sfx, etc...
+map_0901#557		The flexibility to do all of that has been a great asset in terms of having confidence in knowing that I could finish this game no matter what.
+map_0901#558		If you're just starting out, it'll also go a long way to helping you work with team members in a way that works for them, which itself helps build trust.
+map_0901#559		...So that's great,
+map_0901#560		However,
+map_0901#561		I think I've caused myself a lot of problems by relying on that too much.
+map_0901#562		Good to have the option, but it's equally important to be open to accepting help and letting others take the wheel.
+map_0901#563		Having explored so many different avenues of development, I quite clearly see what I need to do and practice in order to improve at each of them,
+map_0901#564		But because I am doing so many things at once, I will not be able to pursue those paths to the ends of quality I'd like.
+map_0901#565		Frustrating.
+map_0901#566		It also means I'm prone to taking on too much work myself and overwhelming myself, where I see other teams function better when the lead just
+map_0901#567		Doesn't Worry About It because it's #NotTheirDepartment.
+map_0901#568		Pros and cons, I guess.
+map_0901#569		I wish I'd navigated that a bit better and learned to lean on others more.
+map_0901#570		Speaking of working with others, we only started using git in the last year of development.
+map_0901#571		#2: Get git.
+map_0901#572		No one told me about it before, and if they had, we couldn't work it meaningfully without exported scripts.
+map_0901#573		But if you're on a team, I can't stress how critical it will be to let them access the project directly.
+map_0901#574		Save yourself.
+map_0901#575		It's intimidating to learn at first, but so worth it.
+map_0901#576		Frankly, that goes for programming itself.
+map_0901#577		I didn't touch the scripts in Reborn for years and then I was like 'oh this is just rpg maker eventing lmao'
+map_0901#578		Eventing also intimidating?
+map_0901#579		Again, if 11-year-old me can do it, so can you.
+map_0901#580		Okay, what else?
+map_0901#581		#3: Mind your scope.
+map_0901#582		Pretty sure every single indie dev advice article will tell you this too, but I sure didn't listen, so I'm repeating it.
+map_0901#583		Don't make a giant sprawling epic with 18 badges and every legendary in postgame for your first major project.
+map_0901#584		...It was my second major project, so I'm vindicated.
+map_0901#585		...But probably just don't do it, like seriously, small goals are best, I p r o m i s e.
+map_0901#586		It's very easy to underestimate how long everything will take if you're doing it well.
+map_0901#587		Never doing a game this long again, i s2g.
+map_0901#588		probably.
+map_0901#589		#4: Listen to your heart and body.
+map_0901#590		Okay, I phrased that a little too new-age-spiritually, but, like...
+map_0901#591		Now that I'm on the other side of a ten year long project, I'm a lot Better at everything,
+map_0901#592		And yet there are still things I feel like I could learn from my younger self.
+map_0901#593		One of those things is to let myself rest when I don't feel like working, rather than forcing myself.
+map_0901#594		I talked a bit about the consequences of this in another dialogue option...
+map_0901#595		But I very much grew up admiring people with an unhealthy work ethic...
+map_0901#596		The kind of people who like work until they literally pass out or get sick-- 
+map_0901#597		I felt like by not living up to the same standard, or by taking breaks, I was being lazy.
+map_0901#598		No, that's stupid.
+map_0901#599		There's something to be said for the programming addage of "work smarter, not harder," 
+map_0901#600		But more importantly...
+map_0901#601		Many people are hard on themselves for "being lazy" or "procrastinating" but we are humans who need rest.
+map_0901#602		Listening to yourself when you don't want to work, or when you need to relax, and choosing to trust yourself,
+map_0901#603		That's a necessary habit if you want to be in it for the long term.
+map_0901#604		Seriously, I don't want anyone to go through what I have.
+map_0901#605		#5, last one: Have fun.
+map_0901#606		Listen, I know this sounds hokey, but I -promise- this is tangible real advice.
+map_0901#607		I just said that working harder and forcing yourself is bad, right?
+map_0901#608		So what's the trick to get good at something if you're not feeling it?
+map_0901#609		It's still to do it a lot, but the hack there is to -want- to do it a lot.
+map_0901#610		If you're having fun, you're going to want to do it a lot, and you'll naturally get good at it.
+map_0901#611		See? 
+map_0901#612		And especially with long-haul development projects, like...
+map_0901#613		You either find a way to make it fun for yourself, or it's miserable and drags out forever.
+map_0901#614		I really can't stress this one enough.
+map_0901#615		Okay, go out there and make some vidya, y'all.
+map_0901#616		AME: Oh, so you've chosen violence.
+map_0901#617		All right, here we go.
+map_0901#618	Amethyst	Good show! It's no wonder you made it this far!
+map_0901#619		AME: Impressive work!
+map_0901#620		But then, you've made it this far, so who could be surprised?
+map_0901#621		Here, let's throw in a BP for that.
+map_0901#622		That puts you at \v[593] BP.
+map_0901#623		AME: That's okay.
+map_0901#624		I think I put this in game somewhere, but as I always told the challengers in the online league, you learn more from losses than wins.
+map_0901#625		This is simply an extra learning opportunity just for you!
+map_0901#626		Let me heal up your team real quick.
+map_0901#627		AME: All better!
+map_0901#628		By the way, quick shout-out to the Crim for making my transition sprite.
+map_0901#629		I didn't want to, because I was like 'boo hoo spriting myself is so egotistical lmao whiiineeee' so they covered for me.
+map_0901#630		Also thanks to Cass for making my dev team,
+map_0901#631		And, well, actually, everyone's dev teams,
+map_0901#632		And while we're at it, pretty much the majority of the post-game teams too???
+map_0901#633		Girl's crazy.
+map_0901#634		Love her.
+map_0901#635		Okay, carry on.
+map_0901#636		AME: Oh, sure, we can go back to her.
+map_0901#637		But first I'm gonna use the opportunity to talk shit about her.
+map_0901#638		And by 'talk shit' I mean tell everyone she's great.
+map_0901#639		Cass joined us around the release of E18, ended up moving in with me, and has generally just done a lot of like, holding me together.
+map_0901#640		So you have her to thank for me being able to complete the entire postgame without going literally crazy.
+map_0901#641		In addition to that, she also got MKXP support going for us back before it was a common thing, which meant less lag and Mac and Linux versions,
+map_0901#642		And she broke open the scripts so we could use git like a functional team, made god knows however other many utilities for us,
+map_0901#643		Optimized everything, recoded half the battle system and AI,
+map_0901#644		All the goddamn teams, the battle tower sets...
+map_0901#645		...And probably a lot of other smaller things that neither of us will remember.
+map_0901#646		The point is I owe her a lot and I'm very grateful for all of her help.
+map_0901#647		Okay, back to her now. 
+map_0901#648		Don't tell her I said this 
+map_0901#649		uwu
+map_0901#650		A sinister energy emerges from the generic graphic on the wall.
+map_0901#651		It could be anything...
+map_0901#652		Do you dare?
+map_0901#653	Mr. Meow Mix	i miss techie johnathan
+map_0901#654		The team's terrifying test train-er defeated, a sense of peace overcame you and healed your team.
+map_0901#655		Suddenly, everything was okay again.
+map_0901#656		Whatever had happened must have just been a terrible delusion...
+map_0901#657		You tried not to let it derail your day.
+map_0901#658	Tahm the Tench Tengine	did the team forget to delete me?
+map_0901#659		You tried not to let it get you too off track.
+map_0901#660		So what do you wanna do?
+map_0901#661		So you wanna fight? Cool beans
+map_0901#662	Smeargletail	Nice job
+map_0901#663		SMEARGLE: Want to take some BP?
+map_0901#664		You have \v[593] BP now.
+map_0901#665		SMEARGLE: Uh... oops.
+map_0901#666		I'll fix your team.
+map_0901#667		Just to warn you I have a tendency to ramble and talk too much so here's your warning.
+map_0901#668		This stuff has also been rewritten a few times even though I kept calling it finished.
+map_0901#669		So what do you wanna talk about?
+map_0901#670		Hey my real name is Sam, and my main task to do was work on animations at the end of 2015 along with MDE.
+map_0901#671		Although, in about the last year of development, I've also gotten to make two quests, 
+map_0901#672		with one of those having a new trainer class and two original characters for zeraora's quest.
+map_0901#673		My friend Crim did touch ups so go give her a hug for me and give my other friend Azzie a hug for helping check my grammar and tightening up words.
+map_0901#674		Along with that stuff, I did some other tasks too, like the ferris wheel, giant dragon statue, 
+map_0901#675		overworld animations,screen overlay animations,ect.
+map_0901#676		Though my motivation has been off and on, Ame has been super patient with me through the years, honestly more than she probably should have.
+map_0901#677		Doesn't help that my diet consists of 1 meal and 2 pops a day, and almost no exercise which leaves me sleeping a lot.
+map_0901#678		Actually, that patience was really needed when I was having a mental breakdown in 2018, when I was juggling way too many things at once.
+map_0901#679		It was mostly real life related stuff that ended up leading to a few months of doing egg icons which were low effort but, kept me from being complacent.
+map_0901#680		Needless to say I'm very grateful for the chances Ame has given me to try to branch out in terms of creativity, and letting me take breaks for self care.
+map_0901#681		Hopefully in the future there will be even more branching out, like trying my hand at music composing.
+map_0901#682		I'll probably stick around for future projects, or until Ame kicks me out.
+map_0901#683		Here's hoping my motivation and diet choices get better on the next project.
+map_0901#684		Want to talk about something else?
+map_0901#685		So I'm truly grateful for being in the right place and right time to be in the animation project. Some person on youtube did like a top 10 fangames video, I think?
+map_0901#686		I just remember them being female and British.
+map_0901#687		Anyways, it was back in 2014, so it got lost in the thousands of top 10 pokemon fangame videos that have since been made.
+map_0901#688		I kind of wish I remembered the name so I could thank her for bringing me into this wonderful community.
+map_0901#689		As for what Reborn means to me, it's like a family to me.
+map_0901#690		Everyone in the dev team especially feel like the closest people in my life.
+map_0901#691		I'm an introvert so there's not a huge amount of friends outside of online, and it probably doesn't help that I talk too much.
+map_0901#692		Smeargle is named after the main character of one of my favorite books, "The Never Ending Story".
+map_0901#693		It's a name I tend to put into any game that lets me choose a name, either that or Rhiannon, my favorite song.
+map_0901#694		The rest are named after Greek gods because of how interesting Greek myths are, even only knowing a fraction of the myths.
+map_0901#695		Okay sounds good, have a good rest of your day friend.
+map_0901#697		VULPES: ...Oh, hi!
+map_0901#698		Sorry, I was working on some animation stuff.
+map_0901#699		But I, uh... got a bit too caught up in it again.
+map_0901#700		Did you want anything?
+map_0901#701		VULPES: Oh, sure!
+map_0901#702		Which team did you want to fight?
+map_0901#703		Oh, you'll get less BP for the animation team, by the way.
+map_0901#704		Since it's easier to beat than the others, it wouldn't be fair to have the same reward.
+map_0901#705		So which will it be?
+map_0901#706		Right!
+map_0901#707		Though if you'll humor me, I have a quick question first.
+map_0901#708		Which of these feels more vast to you?
+map_0901#709		Which field did you want to fight on?
+map_0901#710		Okay, got it!
+map_0901#711		Sweetpea, if you would?
+map_0901#712	Vulpes	Not bad!
+map_0901#713		VULPES: Nice job!
+map_0901#714		Here's some BP.
+map_0901#715		You have \v[593] now.
+map_0901#716		Hope you enjoyed seeing the animations!
+map_0901#717		VULPES: Hey, you did pretty well.
+map_0901#718		I'm sure you'll beat me next time!
+map_0901#719		And I hope you liked the animations!
+map_0901#720		Oh, and about my question before...
+map_0901#721		That was just our way of deciding what field we'd fight on.
+map_0901#722		I know, it's a bit much.
+map_0901#723		But Sweetpea here likes seeing people being surprised by her illusions,
+map_0901#724		And what kind of trainer would I be if I didn't spoil her?
+map_0901#725		But now she's had her fun, so I can just ask straight up next time.
+map_0901#726		Anything else?
+map_0901#727		VULPES: Sure, if you want, though I'm not sure what to talk about honestly.
+map_0901#728		VULPES: So, I guess I should introduce myself properly.
+map_0901#729		Hi, I'm Vulpes!
+map_0901#730		I've been existing in Reborn's general vicinity since 2015, and I joined the team in early 2018.
+map_0901#731		I'm not really a people person though, so I've mostly just lurked.
+map_0901#732		I've also studied game design!
+map_0901#733		I barely remember most of the course, but that was my first experience animating.
+map_0901#734		And I loved that part more than anything else we covered, so here I am, animating!
+map_0901#735		But word of advice?
+map_0901#736		Just look up a syllabus and teach yourself, it's easier and cheaper.
+map_0901#737		The only reason to even look at a course is to see what goes into game production.
+map_0901#738		Anyway.
+map_0901#739		Getting involved in Reborn has taught me a lot, and it's been really fun too!
+map_0901#740		And here's hoping any future projects are even more fun!
+map_0901#741		So I started helping out with Reborn in 2018.
+map_0901#742		I was checking a forum thread and Ame mentioned she was looking for another animator.
+map_0901#743		I really wanted to help with the game, since, well...
+map_0901#744		Reborn is probably the only reason I'm still interested in Pokémon in general.
+map_0901#745		I'd been a fan since I was five, maybe earlier, so Pokémon was a pretty big part of my life.
+map_0901#746		But I started losing interest between BW2 and XY, and drifted away from the franchise by ORAS.
+map_0901#747		I don't know exactly why, but Reborn brought that interest back.
+map_0901#748		And I get extremely sentimental over everything, so having such a big part of my life revived like that...
+map_0901#749		It meant a lot.
+map_0901#750		Anyway, as I was saying, I really wanted to help out because of that.
+map_0901#751		But I was also convinced I would be a burden on the team.
+map_0901#752		I almost talked myself out of applying altogether.
+map_0901#753		But I'm very glad I didn't.
+map_0901#754		That choice is probably in the top three decisions I've ever made in my life.
+map_0901#755		Even so, it took a bit of getting used to.
+map_0901#756		All my animation experience at the time was in 3D, and the technical stuff didn't carry over.
+map_0901#757		It wound up with me thinking stuff like "Oh, a spiral will be easy to make!",
+map_0901#758		And then it would take me a month.
+map_0901#759		As opposed to like an hour in a 3D program.
+map_0901#760		Fun fact that is definitely not linked to this in any way:
+map_0901#761		My least favorite Pokémon is Shiinotic, and my least favorite move is Strength Sap.
+map_0901#762		But I got better, and eventually even started using 3D to improve my 2D stuff.
+map_0901#763		Have you seen the Genesis Supernova animation yet?
+map_0901#764		I made all the unique graphics for that by making a 3D reference pose to get the perspective right.
+map_0901#765		(I mostly just mentioned it because it's my favorite animation I've made and you should watch it.)
+map_0901#766		Actually, you know what?
+map_0901#767		Give me one... second...
+map_0901#768		There!
+map_0901#769		I have a team on hand now with some of the animations I made!
+map_0901#770		Can't have all of them because I made a fair number of Z-Moves, 
+map_0901#771		But this is all I did for the game for like four years, I want to show it off.
+map_0901#772		But I've been working on other stuff recently too.
+map_0901#773		I also started helping with the code once we hit testing for the final episode!
+map_0901#774		I had a little experience before that, but it was in a language that went out of use before I was born.
+map_0901#775		So not exactly helpful.
+map_0901#776		But then the animation editor started not letting you change things properly.
+map_0901#777		So I checked the code because why not, right?
+map_0901#778		And I saw a thing and said "hey is this breaking it?",
+map_0901#779		And Cass and Perry said "yeah that's it also you wanna help with the code",
+map_0901#780		And I said "sure sorry if I suck at first" and that was that.
+map_0901#781		And to this day I'm still messing up basic syntax.
+map_0901#782		I'm being dramatic, it's been two months at most, of course I'm not brilliant yet.
+map_0901#783		But I'm fine with that, baby steps and all.
+map_0901#784		And hey, you're using the password that was the first bit of code I implemented!
+map_0901#785		So I can't suck that bad!
+map_0901#786		... Well, the first bit of code players will see, at least.
+map_0901#787		I made some changes to the animation editor first, but you probably won't see that.
+map_0901#788		VULPES: "But Vulpes," I hear you ask.
+map_0901#789		"Why do you have this option when you said you weren't a people person?"
+map_0901#790		Assuming you read the first option, that is.
+map_0901#791		The answer is I just want an excuse to get a bunch of stuff off my chest.
+map_0901#792		And everyone here helped me deal with it, so there.
+map_0901#793		This is going to get kind of heavy, so here's a chance to back out if you're not up for it.
+map_0901#794		So, it might seem obvious from my other answers,
+map_0901#795		But I had pretty bad anxiety since even before I joined the team.
+map_0901#796		Probably with some moderate depression mixed in for flavor.
+map_0901#797		I think it's been about five years, but thinking back I showed symptoms much earlier.
+map_0901#798		It wasn't exactly conductive to having a functional life.
+map_0901#799		For most of the time I've been on the team, Reborn's been the only real anchor I've had to functionality.
+map_0901#800		Without the others, I'd have been a lot worse off.
+map_0901#801		And even now, when I'm starting to get better, they're helping me a lot just by being there.
+map_0901#802		With most people, I always felt pressured in some way.
+map_0901#803		Either by how I "should" act around them, or from the expectations they had.
+map_0901#804		It'd be a lie to say I never felt like that around the others...
+map_0901#805		But it was a lot less often than with other people.
+map_0901#806		And even when I did feel like that, after the first couple of months I could deal with it easier.
+map_0901#807		I wasn't able to actually talk very often, but at the same time I didn't feel guilty or "wrong" for that.
+map_0901#808		When the whole world tells you "socialise this, network that", even when it's impossible...
+map_0901#809		Having a space to exist with others, without having to worry about that stuff, was a big comfort.
+map_0901#810		And it's taken a while, plus some other help, but I'm not as bad now.
+map_0901#811		I'm able to talk to them without constantly panicking and overthinking.
+map_0901#812		Even if I'd started recovering without them around, I wouldn't be making nearly as much progress.
+map_0901#813		Instead of having two or three people I'm comfortable existing around, I have about twelve.
+map_0901#814		There's only so many things you'll have in common with one person.
+map_0901#815		But with different people, there's going to be different commonalities.
+map_0901#816		And it makes it that much easier to talk to them.
+map_0901#817		And maybe after that, eventually, you'll feel comfortable calling them friends.
+map_0901#818		And for everyone else on the team?
+map_0901#819		I think I've finally reached that point.
+map_0901#820		So really, I owe the others my emotional health and sanity.
+map_0901#821		And also my existence outside of being the local cryptid.
+map_0901#822		Still plan on being that IRL though.
+map_0901#823		Give me a dog or cat over humans any day.
+map_0901#824		And hey, if any of this resonates with you?
+map_0901#825		Know that you're probably underestimating yourself as a person.
+map_0901#826		More people care about you than you think,
+map_0901#827		And you're much less of a burden than you think.
+map_0901#828		I got caught up in those thoughts a lot too.
+map_0901#829		But your brain is lying.
+map_0901#830		Even if you can't believe me right now, keep it in mind.
+map_0901#831		And I hope some day you will be able to.
+map_0901#832		VULPES: Sure.
+map_0901#833		Take care of yourself.
+map_0901#834		Okay, anything else you wanted?
+map_0901#835		Anything else you want to talk about?
+map_0901#836		VULPES: Okay, see you!
+map_0901#837		CRIM: ...Oh, hi!
+map_0901#838		...Gosh, I never know what to say here.
+map_0901#839		Uh, I guess I can just start with-- welcome to the dev room!
+map_0901#840		It's still kind of a trip for me to see myself in this room,
+map_0901#841		For a game that I've been playing and/or involved in for nearly half my life?
+map_0901#842		But I'm immensely grateful regardless!
+map_0901#843		I could gush a whole lot more,
+map_0901#844		But I'll save that for when I'm actually prompted to!
+map_0901#845		Apologies in advance, I tend to talk a lot!
+map_0901#846		...Anyways, hi! I'm Crim!

@@ -1,0 +1,824 @@
+{"sec": 5, "key": "Megahorn", "en": "Megahorn", "ja": "メガホーン"}
+{"sec": 5, "key": "Attack Order", "en": "Attack Order", "ja": "こうげきしれい"}
+{"sec": 5, "key": "Bug Buzz", "en": "Bug Buzz", "ja": "むしのさざめき"}
+{"sec": 5, "key": "X-Scissor", "en": "X-Scissor", "ja": "シザークロス"}
+{"sec": 5, "key": "Signal Beam", "en": "Signal Beam", "ja": "シグナルビーム"}
+{"sec": 5, "key": "U-turn", "en": "U-turn", "ja": "とんぼがえり"}
+{"sec": 5, "key": "Steamroller", "en": "Steamroller", "ja": "ハードローラー"}
+{"sec": 5, "key": "Bug Bite", "en": "Bug Bite", "ja": "むしくい"}
+{"sec": 5, "key": "Silver Wind", "en": "Silver Wind", "ja": "ぎんいろのかぜ"}
+{"sec": 5, "key": "Struggle Bug", "en": "Struggle Bug", "ja": "むしのていこう"}
+{"sec": 5, "key": "Twineedle", "en": "Twineedle", "ja": "ダブルニードル"}
+{"sec": 5, "key": "Fury Cutter", "en": "Fury Cutter", "ja": "れんぞくぎり"}
+{"sec": 5, "key": "Leech Life", "en": "Leech Life", "ja": "きゅうけつ"}
+{"sec": 5, "key": "Pin Missile", "en": "Pin Missile", "ja": "ミサイルばり"}
+{"sec": 5, "key": "Defend Order", "en": "Defend Order", "ja": "ぼうぎょしれい"}
+{"sec": 5, "key": "Heal Order", "en": "Heal Order", "ja": "かいふくしれい"}
+{"sec": 5, "key": "Quiver Dance", "en": "Quiver Dance", "ja": "ちょうのまい"}
+{"sec": 5, "key": "Rage Powder", "en": "Rage Powder", "ja": "いかりのこな"}
+{"sec": 5, "key": "Spider Web", "en": "Spider Web", "ja": "クモのす"}
+{"sec": 5, "key": "String Shot", "en": "String Shot", "ja": "いとをはく"}
+{"sec": 5, "key": "Tail Glow", "en": "Tail Glow", "ja": "ほたるび"}
+{"sec": 5, "key": "Foul Play", "en": "Foul Play", "ja": "イカサマ"}
+{"sec": 5, "key": "Night Daze", "en": "Night Daze", "ja": "ナイトバースト"}
+{"sec": 5, "key": "Crunch", "en": "Crunch", "ja": "かみくだく"}
+{"sec": 5, "key": "Dark Pulse", "en": "Dark Pulse", "ja": "あくのはどう"}
+{"sec": 5, "key": "Sucker Punch", "en": "Sucker Punch", "ja": "ふいうち"}
+{"sec": 5, "key": "Night Slash", "en": "Night Slash", "ja": "つじぎり"}
+{"sec": 5, "key": "Bite", "en": "Bite", "ja": "かみつく"}
+{"sec": 5, "key": "Feint Attack", "en": "Feint Attack", "ja": "だましうち"}
+{"sec": 5, "key": "Snarl", "en": "Snarl", "ja": "バークアウト"}
+{"sec": 5, "key": "Assurance", "en": "Assurance", "ja": "ダメおし"}
+{"sec": 5, "key": "Payback", "en": "Payback", "ja": "しっぺがえし"}
+{"sec": 5, "key": "Pursuit", "en": "Pursuit", "ja": "おいうち"}
+{"sec": 5, "key": "Thief", "en": "Thief", "ja": "どろぼう"}
+{"sec": 5, "key": "Knock Off", "en": "Knock Off", "ja": "はたきおとす"}
+{"sec": 5, "key": "Beat Up", "en": "Beat Up", "ja": "ふくろだたき"}
+{"sec": 5, "key": "Fling", "en": "Fling", "ja": "なげつける"}
+{"sec": 5, "key": "Punishment", "en": "Punishment", "ja": "おしおき"}
+{"sec": 5, "key": "Dark Void", "en": "Dark Void", "ja": "ダークホール"}
+{"sec": 5, "key": "Embargo", "en": "Embargo", "ja": "さしおさえ"}
+{"sec": 5, "key": "Fake Tears", "en": "Fake Tears", "ja": "うそなき"}
+{"sec": 5, "key": "Flatter", "en": "Flatter", "ja": "おだてる"}
+{"sec": 5, "key": "Hone Claws", "en": "Hone Claws", "ja": "つめとぎ"}
+{"sec": 5, "key": "Memento", "en": "Memento", "ja": "おきみやげ"}
+{"sec": 5, "key": "Nasty Plot", "en": "Nasty Plot", "ja": "わるだくみ"}
+{"sec": 5, "key": "Quash", "en": "Quash", "ja": "さきおくり"}
+{"sec": 5, "key": "Snatch", "en": "Snatch", "ja": "よこどり"}
+{"sec": 5, "key": "Switcheroo", "en": "Switcheroo", "ja": "すりかえ"}
+{"sec": 5, "key": "Taunt", "en": "Taunt", "ja": "ちょうはつ"}
+{"sec": 5, "key": "Torment", "en": "Torment", "ja": "いちゃもん"}
+{"sec": 5, "key": "Roar of Time", "en": "Roar of Time", "ja": "ときのほうこう"}
+{"sec": 5, "key": "Draco Meteor", "en": "Draco Meteor", "ja": "りゅうせいぐん"}
+{"sec": 5, "key": "Outrage", "en": "Outrage", "ja": "げきりん"}
+{"sec": 5, "key": "Dragon Rush", "en": "Dragon Rush", "ja": "ドラゴンダイブ"}
+{"sec": 5, "key": "Spacial Rend", "en": "Spacial Rend", "ja": "あくうせつだん"}
+{"sec": 5, "key": "Dragon Pulse", "en": "Dragon Pulse", "ja": "りゅうのはどう"}
+{"sec": 5, "key": "Dragon Claw", "en": "Dragon Claw", "ja": "ドラゴンクロー"}
+{"sec": 5, "key": "Dragon Tail", "en": "Dragon Tail", "ja": "ドラゴンテール"}
+{"sec": 5, "key": "Dragon Breath", "en": "Dragon Breath", "ja": "りゅうのいぶき"}
+{"sec": 5, "key": "Dual Chop", "en": "Dual Chop", "ja": "ダブルチョップ"}
+{"sec": 5, "key": "Twister", "en": "Twister", "ja": "たつまき"}
+{"sec": 5, "key": "Dragon Rage", "en": "Dragon Rage", "ja": "りゅうのいかり"}
+{"sec": 5, "key": "Dragon Dance", "en": "Dragon Dance", "ja": "りゅうのまい"}
+{"sec": 5, "key": "Bolt Strike", "en": "Bolt Strike", "ja": "らいげき"}
+{"sec": 5, "key": "Thunder", "en": "Thunder", "ja": "かみなり"}
+{"sec": 5, "key": "Volt Tackle", "en": "Volt Tackle", "ja": "ボルテッカー"}
+{"sec": 5, "key": "Zap Cannon", "en": "Zap Cannon", "ja": "でんじほう"}
+{"sec": 5, "key": "Fusion Bolt", "en": "Fusion Bolt", "ja": "クロスサンダー"}
+{"sec": 5, "key": "Thunderbolt", "en": "Thunderbolt", "ja": "10まんボルト"}
+{"sec": 5, "key": "Wild Charge", "en": "Wild Charge", "ja": "ワイルドボルト"}
+{"sec": 5, "key": "Discharge", "en": "Discharge", "ja": "ほうでん"}
+{"sec": 5, "key": "Thunder Punch", "en": "Thunder Punch", "ja": "かみなりパンチ"}
+{"sec": 5, "key": "Volt Switch", "en": "Volt Switch", "ja": "ボルトチェンジ"}
+{"sec": 5, "key": "Spark", "en": "Spark", "ja": "スパーク"}
+{"sec": 5, "key": "Thunder Fang", "en": "Thunder Fang", "ja": "かみなりのキバ"}
+{"sec": 5, "key": "Shock Wave", "en": "Shock Wave", "ja": "でんげきは"}
+{"sec": 5, "key": "Electroweb", "en": "Electroweb", "ja": "エレキネット"}
+{"sec": 5, "key": "Charge Beam", "en": "Charge Beam", "ja": "チャージビーム"}
+{"sec": 5, "key": "Thunder Shock", "en": "Thunder Shock", "ja": "でんきショック"}
+{"sec": 5, "key": "Electro Ball", "en": "Electro Ball", "ja": "エレキボール"}
+{"sec": 5, "key": "Charge", "en": "Charge", "ja": "じゅうでん"}
+{"sec": 5, "key": "Magnet Rise", "en": "Magnet Rise", "ja": "でんじふゆう"}
+{"sec": 5, "key": "Thunder Wave", "en": "Thunder Wave", "ja": "でんじは"}
+{"sec": 5, "key": "Focus Punch", "en": "Focus Punch", "ja": "きあいパンチ"}
+{"sec": 5, "key": "High Jump Kick", "en": "High Jump Kick", "ja": "とびひざげり"}
+{"sec": 5, "key": "Close Combat", "en": "Close Combat", "ja": "インファイト"}
+{"sec": 5, "key": "Focus Blast", "en": "Focus Blast", "ja": "きあいだま"}
+{"sec": 5, "key": "Superpower", "en": "Superpower", "ja": "ばかぢから"}
+{"sec": 5, "key": "Cross Chop", "en": "Cross Chop", "ja": "クロスチョップ"}
+{"sec": 5, "key": "Dynamic Punch", "en": "Dynamic Punch", "ja": "ばくれつパンチ"}
+{"sec": 5, "key": "Hammer Arm", "en": "Hammer Arm", "ja": "アームハンマー"}
+{"sec": 5, "key": "Jump Kick", "en": "Jump Kick", "ja": "とびげり"}
+{"sec": 5, "key": "Aura Sphere", "en": "Aura Sphere", "ja": "はどうだん"}
+{"sec": 5, "key": "Sacred Sword", "en": "Sacred Sword", "ja": "せいなるつるぎ"}
+{"sec": 5, "key": "Secret Sword", "en": "Secret Sword", "ja": "しんぴのつるぎ"}
+{"sec": 5, "key": "Sky Uppercut", "en": "Sky Uppercut", "ja": "スカイアッパー"}
+{"sec": 5, "key": "Submission", "en": "Submission", "ja": "じごくぐるま"}
+{"sec": 5, "key": "Brick Break", "en": "Brick Break", "ja": "かわらわり"}
+{"sec": 5, "key": "Drain Punch", "en": "Drain Punch", "ja": "ドレインパンチ"}
+{"sec": 5, "key": "Vital Throw", "en": "Vital Throw", "ja": "あてみなげ"}
+{"sec": 5, "key": "Circle Throw", "en": "Circle Throw", "ja": "ともえなげ"}
+{"sec": 5, "key": "Force Palm", "en": "Force Palm", "ja": "はっけい"}
+{"sec": 5, "key": "Low Sweep", "en": "Low Sweep", "ja": "ローキック"}
+{"sec": 5, "key": "Revenge", "en": "Revenge", "ja": "リベンジ"}
+{"sec": 5, "key": "Rolling Kick", "en": "Rolling Kick", "ja": "まわしげり"}
+{"sec": 5, "key": "Wake-Up Slap", "en": "Wake-Up Slap", "ja": "めざましビンタ"}
+{"sec": 5, "key": "Karate Chop", "en": "Karate Chop", "ja": "からてチョップ"}
+{"sec": 5, "key": "Mach Punch", "en": "Mach Punch", "ja": "マッハパンチ"}
+{"sec": 5, "key": "Rock Smash", "en": "Rock Smash", "ja": "いわくだき"}
+{"sec": 5, "key": "Storm Throw", "en": "Storm Throw", "ja": "やまあらし"}
+{"sec": 5, "key": "Vacuum Wave", "en": "Vacuum Wave", "ja": "しんくうは"}
+{"sec": 5, "key": "Double Kick", "en": "Double Kick", "ja": "にどげり"}
+{"sec": 5, "key": "Arm Thrust", "en": "Arm Thrust", "ja": "つっぱり"}
+{"sec": 5, "key": "Triple Kick", "en": "Triple Kick", "ja": "トリプルキック"}
+{"sec": 5, "key": "Counter", "en": "Counter", "ja": "カウンター"}
+{"sec": 5, "key": "Final Gambit", "en": "Final Gambit", "ja": "いのちがけ"}
+{"sec": 5, "key": "Low Kick", "en": "Low Kick", "ja": "けたぐり"}
+{"sec": 5, "key": "Reversal", "en": "Reversal", "ja": "きしかいせい"}
+{"sec": 5, "key": "Seismic Toss", "en": "Seismic Toss", "ja": "ちきゅうなげ"}
+{"sec": 5, "key": "Bulk Up", "en": "Bulk Up", "ja": "ビルドアップ"}
+{"sec": 5, "key": "Detect", "en": "Detect", "ja": "みきり"}
+{"sec": 5, "key": "Quick Guard", "en": "Quick Guard", "ja": "ファストガード"}
+{"sec": 5, "key": "V-create", "en": "V-create", "ja": "Vジェネレート"}
+{"sec": 5, "key": "Blast Burn", "en": "Blast Burn", "ja": "ブラストバーン"}
+{"sec": 5, "key": "Eruption", "en": "Eruption", "ja": "ふんか"}
+{"sec": 5, "key": "Overheat", "en": "Overheat", "ja": "オーバーヒート"}
+{"sec": 5, "key": "Blue Flare", "en": "Blue Flare", "ja": "あおいほのお"}
+{"sec": 5, "key": "Fire Blast", "en": "Fire Blast", "ja": "だいもんじ"}
+{"sec": 5, "key": "Flare Blitz", "en": "Flare Blitz", "ja": "フレアドライブ"}
+{"sec": 5, "key": "Magma Storm", "en": "Magma Storm", "ja": "マグマストーム"}
+{"sec": 5, "key": "Fusion Flare", "en": "Fusion Flare", "ja": "クロスフレイム"}
+{"sec": 5, "key": "Heat Wave", "en": "Heat Wave", "ja": "ねっぷう"}
+{"sec": 5, "key": "Inferno", "en": "Inferno", "ja": "れんごく"}
+{"sec": 5, "key": "Sacred Fire", "en": "Sacred Fire", "ja": "せいなるほのお"}
+{"sec": 5, "key": "Searing Shot", "en": "Searing Shot", "ja": "かえんだん"}
+{"sec": 5, "key": "Flamethrower", "en": "Flamethrower", "ja": "かえんほうしゃ"}
+{"sec": 5, "key": "Blaze Kick", "en": "Blaze Kick", "ja": "ブレイズキック"}
+{"sec": 5, "key": "Fiery Dance", "en": "Fiery Dance", "ja": "ほのおのまい"}
+{"sec": 5, "key": "Lava Plume", "en": "Lava Plume", "ja": "ふんえん"}
+{"sec": 5, "key": "Fire Punch", "en": "Fire Punch", "ja": "ほのおのパンチ"}
+{"sec": 5, "key": "Flame Burst", "en": "Flame Burst", "ja": "はじけるほのお"}
+{"sec": 5, "key": "Fire Fang", "en": "Fire Fang", "ja": "ほのおのキバ"}
+{"sec": 5, "key": "Flame Wheel", "en": "Flame Wheel", "ja": "かえんぐるま"}
+{"sec": 5, "key": "Fire Pledge", "en": "Fire Pledge", "ja": "ほのおのちかい"}
+{"sec": 5, "key": "Flame Charge", "en": "Flame Charge", "ja": "ニトロチャージ"}
+{"sec": 5, "key": "Ember", "en": "Ember", "ja": "ひのこ"}
+{"sec": 5, "key": "Fire Spin", "en": "Fire Spin", "ja": "ほのおのうず"}
+{"sec": 5, "key": "Incinerate", "en": "Incinerate", "ja": "やきつくす"}
+{"sec": 5, "key": "Heat Crash", "en": "Heat Crash", "ja": "ヒートスタンプ"}
+{"sec": 5, "key": "Sunny Day", "en": "Sunny Day", "ja": "にほんばれ"}
+{"sec": 5, "key": "Will-O-Wisp", "en": "Will-O-Wisp", "ja": "おにび"}
+{"sec": 5, "key": "Sky Attack", "en": "Sky Attack", "ja": "ゴッドバード"}
+{"sec": 5, "key": "Brave Bird", "en": "Brave Bird", "ja": "ブレイブバード"}
+{"sec": 5, "key": "Hurricane", "en": "Hurricane", "ja": "ぼうふう"}
+{"sec": 5, "key": "Aeroblast", "en": "Aeroblast", "ja": "エアロブラスト"}
+{"sec": 5, "key": "Fly", "en": "Fly", "ja": "そらをとぶ"}
+{"sec": 5, "key": "Bounce", "en": "Bounce", "ja": "とびはねる"}
+{"sec": 5, "key": "Drill Peck", "en": "Drill Peck", "ja": "ドリルくちばし"}
+{"sec": 5, "key": "Air Slash", "en": "Air Slash", "ja": "エアスラッシュ"}
+{"sec": 5, "key": "Aerial Ace", "en": "Aerial Ace", "ja": "つばめがえし"}
+{"sec": 5, "key": "Chatter", "en": "Chatter", "ja": "おしゃべり"}
+{"sec": 5, "key": "Pluck", "en": "Pluck", "ja": "ついばむ"}
+{"sec": 5, "key": "Sky Drop", "en": "Sky Drop", "ja": "フリーフォール"}
+{"sec": 5, "key": "Wing Attack", "en": "Wing Attack", "ja": "つばさでうつ"}
+{"sec": 5, "key": "Acrobatics", "en": "Acrobatics", "ja": "アクロバット"}
+{"sec": 5, "key": "Air Cutter", "en": "Air Cutter", "ja": "エアカッター"}
+{"sec": 5, "key": "Gust", "en": "Gust", "ja": "かぜおこし"}
+{"sec": 5, "key": "Peck", "en": "Peck", "ja": "つつく"}
+{"sec": 5, "key": "Defog", "en": "Defog", "ja": "きりばらい"}
+{"sec": 5, "key": "Feather Dance", "en": "Feather Dance", "ja": "フェザーダンス"}
+{"sec": 5, "key": "Mirror Move", "en": "Mirror Move", "ja": "オウムがえし"}
+{"sec": 5, "key": "Roost", "en": "Roost", "ja": "はねやすめ"}
+{"sec": 5, "key": "Tailwind", "en": "Tailwind", "ja": "おいかぜ"}
+{"sec": 5, "key": "Shadow Force", "en": "Shadow Force", "ja": "シャドーダイブ"}
+{"sec": 5, "key": "Shadow Ball", "en": "Shadow Ball", "ja": "シャドーボール"}
+{"sec": 5, "key": "Shadow Claw", "en": "Shadow Claw", "ja": "シャドークロー"}
+{"sec": 5, "key": "Ominous Wind", "en": "Ominous Wind", "ja": "あやしいかぜ"}
+{"sec": 5, "key": "Shadow Punch", "en": "Shadow Punch", "ja": "シャドーパンチ"}
+{"sec": 5, "key": "Hex", "en": "Hex", "ja": "たたりめ"}
+{"sec": 5, "key": "Shadow Sneak", "en": "Shadow Sneak", "ja": "かげうち"}
+{"sec": 5, "key": "Astonish", "en": "Astonish", "ja": "おどろかす"}
+{"sec": 5, "key": "Lick", "en": "Lick", "ja": "したでなめる"}
+{"sec": 5, "key": "Night Shade", "en": "Night Shade", "ja": "ナイトヘッド"}
+{"sec": 5, "key": "Confuse Ray", "en": "Confuse Ray", "ja": "あやしいひかり"}
+{"sec": 5, "key": "Curse", "en": "Curse", "ja": "のろい"}
+{"sec": 5, "key": "Destiny Bond", "en": "Destiny Bond", "ja": "みちづれ"}
+{"sec": 5, "key": "Grudge", "en": "Grudge", "ja": "おんねん"}
+{"sec": 5, "key": "Nightmare", "en": "Nightmare", "ja": "あくむ"}
+{"sec": 5, "key": "Spite", "en": "Spite", "ja": "うらみ"}
+{"sec": 5, "key": "Frenzy Plant", "en": "Frenzy Plant", "ja": "ハードプラント"}
+{"sec": 5, "key": "Leaf Storm", "en": "Leaf Storm", "ja": "リーフストーム"}
+{"sec": 5, "key": "Petal Dance", "en": "Petal Dance", "ja": "はなびらのまい"}
+{"sec": 5, "key": "Power Whip", "en": "Power Whip", "ja": "パワーウィップ"}
+{"sec": 5, "key": "Seed Flare", "en": "Seed Flare", "ja": "シードフレア"}
+{"sec": 5, "key": "Solar Beam", "en": "Solar Beam", "ja": "ソーラービーム"}
+{"sec": 5, "key": "Wood Hammer", "en": "Wood Hammer", "ja": "ウッドハンマー"}
+{"sec": 5, "key": "Leaf Blade", "en": "Leaf Blade", "ja": "リーフブレード"}
+{"sec": 5, "key": "Energy Ball", "en": "Energy Ball", "ja": "エナジーボール"}
+{"sec": 5, "key": "Seed Bomb", "en": "Seed Bomb", "ja": "タネばくだん"}
+{"sec": 5, "key": "Giga Drain", "en": "Giga Drain", "ja": "ギガドレイン"}
+{"sec": 5, "key": "Horn Leech", "en": "Horn Leech", "ja": "ウッドホーン"}
+{"sec": 5, "key": "Leaf Tornado", "en": "Leaf Tornado", "ja": "グラスミキサー"}
+{"sec": 5, "key": "Magical Leaf", "en": "Magical Leaf", "ja": "マジカルリーフ"}
+{"sec": 5, "key": "Needle Arm", "en": "Needle Arm", "ja": "ニードルアーム"}
+{"sec": 5, "key": "Razor Leaf", "en": "Razor Leaf", "ja": "はっぱカッター"}
+{"sec": 5, "key": "Grass Pledge", "en": "Grass Pledge", "ja": "くさのちかい"}
+{"sec": 5, "key": "Mega Drain", "en": "Mega Drain", "ja": "メガドレイン"}
+{"sec": 5, "key": "Vine Whip", "en": "Vine Whip", "ja": "つるのムチ"}
+{"sec": 5, "key": "Bullet Seed", "en": "Bullet Seed", "ja": "タネマシンガン"}
+{"sec": 5, "key": "Absorb", "en": "Absorb", "ja": "すいとる"}
+{"sec": 5, "key": "Grass Knot", "en": "Grass Knot", "ja": "くさむすび"}
+{"sec": 5, "key": "Aromatherapy", "en": "Aromatherapy", "ja": "アロマセラピー"}
+{"sec": 5, "key": "Cotton Guard", "en": "Cotton Guard", "ja": "コットンガード"}
+{"sec": 5, "key": "Cotton Spore", "en": "Cotton Spore", "ja": "わたほうし"}
+{"sec": 5, "key": "Grass Whistle", "en": "Grass Whistle", "ja": "くさぶえ"}
+{"sec": 5, "key": "Ingrain", "en": "Ingrain", "ja": "ねをはる"}
+{"sec": 5, "key": "Leech Seed", "en": "Leech Seed", "ja": "やどりぎのタネ"}
+{"sec": 5, "key": "Sleep Powder", "en": "Sleep Powder", "ja": "ねむりごな"}
+{"sec": 5, "key": "Spore", "en": "Spore", "ja": "キノコのほうし"}
+{"sec": 5, "key": "Stun Spore", "en": "Stun Spore", "ja": "しびれごな"}
+{"sec": 5, "key": "Synthesis", "en": "Synthesis", "ja": "こうごうせい"}
+{"sec": 5, "key": "Worry Seed", "en": "Worry Seed", "ja": "なやみのタネ"}
+{"sec": 5, "key": "Earthquake", "en": "Earthquake", "ja": "じしん"}
+{"sec": 5, "key": "Earth Power", "en": "Earth Power", "ja": "だいちのちから"}
+{"sec": 5, "key": "Dig", "en": "Dig", "ja": "あなをほる"}
+{"sec": 5, "key": "Drill Run", "en": "Drill Run", "ja": "ドリルライナー"}
+{"sec": 5, "key": "Bone Club", "en": "Bone Club", "ja": "ホネこんぼう"}
+{"sec": 5, "key": "Mud Bomb", "en": "Mud Bomb", "ja": "どろばくだん"}
+{"sec": 5, "key": "Bulldoze", "en": "Bulldoze", "ja": "じならし"}
+{"sec": 5, "key": "Mud Shot", "en": "Mud Shot", "ja": "マッドショット"}
+{"sec": 5, "key": "Bonemerang", "en": "Bonemerang", "ja": "ホネブーメラン"}
+{"sec": 5, "key": "Sand Tomb", "en": "Sand Tomb", "ja": "すなじごく"}
+{"sec": 5, "key": "Bone Rush", "en": "Bone Rush", "ja": "ボーンラッシュ"}
+{"sec": 5, "key": "Mud-Slap", "en": "Mud-Slap", "ja": "どろかけ"}
+{"sec": 5, "key": "Fissure", "en": "Fissure", "ja": "じわれ"}
+{"sec": 5, "key": "Magnitude", "en": "Magnitude", "ja": "マグニチュード"}
+{"sec": 5, "key": "Mud Sport", "en": "Mud Sport", "ja": "どろあそび"}
+{"sec": 5, "key": "Sand Attack", "en": "Sand Attack", "ja": "すなかけ"}
+{"sec": 5, "key": "Spikes", "en": "Spikes", "ja": "まきびし"}
+{"sec": 5, "key": "Freeze Shock", "en": "Freeze Shock", "ja": "フリーズボルト"}
+{"sec": 5, "key": "Ice Burn", "en": "Ice Burn", "ja": "コールドフレア"}
+{"sec": 5, "key": "Blizzard", "en": "Blizzard", "ja": "ふぶき"}
+{"sec": 5, "key": "Ice Beam", "en": "Ice Beam", "ja": "れいとうビーム"}
+{"sec": 5, "key": "Icicle Crash", "en": "Icicle Crash", "ja": "つららおとし"}
+{"sec": 5, "key": "Ice Punch", "en": "Ice Punch", "ja": "れいとうパンチ"}
+{"sec": 5, "key": "Aurora Beam", "en": "Aurora Beam", "ja": "オーロラビーム"}
+{"sec": 5, "key": "Glaciate", "en": "Glaciate", "ja": "こごえるせかい"}
+{"sec": 5, "key": "Ice Fang", "en": "Ice Fang", "ja": "こおりのキバ"}
+{"sec": 5, "key": "Avalanche", "en": "Avalanche", "ja": "ゆきなだれ"}
+{"sec": 5, "key": "Icy Wind", "en": "Icy Wind", "ja": "こごえるかぜ"}
+{"sec": 5, "key": "Frost Breath", "en": "Frost Breath", "ja": "こおりのいぶき"}
+{"sec": 5, "key": "Ice Shard", "en": "Ice Shard", "ja": "こおりのつぶて"}
+{"sec": 5, "key": "Powder Snow", "en": "Powder Snow", "ja": "こなゆき"}
+{"sec": 5, "key": "Ice Ball", "en": "Ice Ball", "ja": "アイスボール"}
+{"sec": 5, "key": "Icicle Spear", "en": "Icicle Spear", "ja": "つららばり"}
+{"sec": 5, "key": "Sheer Cold", "en": "Sheer Cold", "ja": "ぜったいれいど"}
+{"sec": 5, "key": "Hail", "en": "Hail", "ja": "あられ"}
+{"sec": 5, "key": "Haze", "en": "Haze", "ja": "くろいきり"}
+{"sec": 5, "key": "Mist", "en": "Mist", "ja": "しろいきり"}
+{"sec": 5, "key": "Explosion", "en": "Explosion", "ja": "だいばくはつ"}
+{"sec": 5, "key": "Self-Destruct", "en": "Self-Destruct", "ja": "じばく"}
+{"sec": 5, "key": "Giga Impact", "en": "Giga Impact", "ja": "ギガインパクト"}
+{"sec": 5, "key": "Hyper Beam", "en": "Hyper Beam", "ja": "はかいこうせん"}
+{"sec": 5, "key": "Last Resort", "en": "Last Resort", "ja": "とっておき"}
+{"sec": 5, "key": "Double-Edge", "en": "Double-Edge", "ja": "すてみタックル"}
+{"sec": 5, "key": "Head Charge", "en": "Head Charge", "ja": "アフロブレイク"}
+{"sec": 5, "key": "Mega Kick", "en": "Mega Kick", "ja": "メガトンキック"}
+{"sec": 5, "key": "Thrash", "en": "Thrash", "ja": "あばれる"}
+{"sec": 5, "key": "Egg Bomb", "en": "Egg Bomb", "ja": "タマゴばくだん"}
+{"sec": 5, "key": "Judgment", "en": "Judgment", "ja": "さばきのつぶて"}
+{"sec": 5, "key": "Skull Bash", "en": "Skull Bash", "ja": "ロケットずつき"}
+{"sec": 5, "key": "Hyper Voice", "en": "Hyper Voice", "ja": "ハイパーボイス"}
+{"sec": 5, "key": "Rock Climb", "en": "Rock Climb", "ja": "ロッククライム"}
+{"sec": 5, "key": "Take Down", "en": "Take Down", "ja": "とっしん"}
+{"sec": 5, "key": "Uproar", "en": "Uproar", "ja": "さわぐ"}
+{"sec": 5, "key": "Body Slam", "en": "Body Slam", "ja": "のしかかり"}
+{"sec": 5, "key": "Techno Blast", "en": "Techno Blast", "ja": "テクノバスター"}
+{"sec": 5, "key": "Extreme Speed", "en": "Extreme Speed", "ja": "しんそく"}
+{"sec": 5, "key": "Hyper Fang", "en": "Hyper Fang", "ja": "ひっさつまえば"}
+{"sec": 5, "key": "Mega Punch", "en": "Mega Punch", "ja": "メガトンパンチ"}
+{"sec": 5, "key": "Razor Wind", "en": "Razor Wind", "ja": "かまいたち"}
+{"sec": 5, "key": "Slam", "en": "Slam", "ja": "たたきつける"}
+{"sec": 5, "key": "Strength", "en": "Strength", "ja": "かいりき"}
+{"sec": 5, "key": "Tri Attack", "en": "Tri Attack", "ja": "トライアタック"}
+{"sec": 5, "key": "Crush Claw", "en": "Crush Claw", "ja": "ブレイククロー"}
+{"sec": 5, "key": "Relic Song", "en": "Relic Song", "ja": "いにしえのうた"}
+{"sec": 5, "key": "Chip Away", "en": "Chip Away", "ja": "なしくずし"}
+{"sec": 5, "key": "Dizzy Punch", "en": "Dizzy Punch", "ja": "ピヨピヨパンチ"}
+{"sec": 5, "key": "Facade", "en": "Facade", "ja": "からげんき"}
+{"sec": 5, "key": "Headbutt", "en": "Headbutt", "ja": "ずつき"}
+{"sec": 5, "key": "Retaliate", "en": "Retaliate", "ja": "かたきうち"}
+{"sec": 5, "key": "Secret Power", "en": "Secret Power", "ja": "ひみつのちから"}
+{"sec": 5, "key": "Slash", "en": "Slash", "ja": "きりさく"}
+{"sec": 5, "key": "Horn Attack", "en": "Horn Attack", "ja": "つのでつく"}
+{"sec": 5, "key": "Stomp", "en": "Stomp", "ja": "ふみつけ"}
+{"sec": 5, "key": "Covet", "en": "Covet", "ja": "ほしがる"}
+{"sec": 5, "key": "Round", "en": "Round", "ja": "りんしょう"}
+{"sec": 5, "key": "Smelling Salts", "en": "Smelling Salts", "ja": "きつけ"}
+{"sec": 5, "key": "Swift", "en": "Swift", "ja": "スピードスター"}
+{"sec": 5, "key": "Vise Grip", "en": "Vise Grip", "ja": "はさむ"}
+{"sec": 5, "key": "Cut", "en": "Cut", "ja": "いあいぎり"}
+{"sec": 5, "key": "Struggle", "en": "Struggle", "ja": "わるあがき"}
+{"sec": 5, "key": "Tackle", "en": "Tackle", "ja": "たいあたり"}
+{"sec": 5, "key": "Weather Ball", "en": "Weather Ball", "ja": "ウェザーボール"}
+{"sec": 5, "key": "Echoed Voice", "en": "Echoed Voice", "ja": "エコーボイス"}
+{"sec": 5, "key": "Fake Out", "en": "Fake Out", "ja": "ねこだまし"}
+{"sec": 5, "key": "False Swipe", "en": "False Swipe", "ja": "みねうち"}
+{"sec": 5, "key": "Pay Day", "en": "Pay Day", "ja": "ネコにこばん"}
+{"sec": 5, "key": "Pound", "en": "Pound", "ja": "はたく"}
+{"sec": 5, "key": "Quick Attack", "en": "Quick Attack", "ja": "でんこうせっか"}
+{"sec": 5, "key": "Scratch", "en": "Scratch", "ja": "ひっかく"}
+{"sec": 5, "key": "Snore", "en": "Snore", "ja": "いびき"}
+{"sec": 5, "key": "Double Hit", "en": "Double Hit", "ja": "ダブルアタック"}
+{"sec": 5, "key": "Feint", "en": "Feint", "ja": "フェイント"}
+{"sec": 5, "key": "Tail Slap", "en": "Tail Slap", "ja": "スイープビンタ"}
+{"sec": 5, "key": "Rage", "en": "Rage", "ja": "いかり"}
+{"sec": 5, "key": "Rapid Spin", "en": "Rapid Spin", "ja": "こうそくスピン"}
+{"sec": 5, "key": "Spike Cannon", "en": "Spike Cannon", "ja": "とげキャノン"}
+{"sec": 5, "key": "Comet Punch", "en": "Comet Punch", "ja": "れんぞくパンチ"}
+{"sec": 5, "key": "Fury Swipes", "en": "Fury Swipes", "ja": "みだれひっかき"}
+{"sec": 5, "key": "Barrage", "en": "Barrage", "ja": "たまなげ"}
+{"sec": 5, "key": "Bind", "en": "Bind", "ja": "しめつける"}
+{"sec": 5, "key": "Double Slap", "en": "Double Slap", "ja": "おうふくビンタ"}
+{"sec": 5, "key": "Fury Attack", "en": "Fury Attack", "ja": "みだれづき"}
+{"sec": 5, "key": "Wrap", "en": "Wrap", "ja": "まきつく"}
+{"sec": 5, "key": "Constrict", "en": "Constrict", "ja": "からみつく"}
+{"sec": 5, "key": "Bide", "en": "Bide", "ja": "がまん"}
+{"sec": 5, "key": "Crush Grip", "en": "Crush Grip", "ja": "にぎりつぶす"}
+{"sec": 5, "key": "Endeavor", "en": "Endeavor", "ja": "がむしゃら"}
+{"sec": 5, "key": "Flail", "en": "Flail", "ja": "じたばた"}
+{"sec": 5, "key": "Frustration", "en": "Frustration", "ja": "やつあたり"}
+{"sec": 5, "key": "Guillotine", "en": "Guillotine", "ja": "ハサミギロチン"}
+{"sec": 5, "key": "Hidden Power", "en": "Hidden Power", "ja": "めざめるパワー"}
+{"sec": 5, "key": "Horn Drill", "en": "Horn Drill", "ja": "つのドリル"}
+{"sec": 5, "key": "Natural Gift", "en": "Natural Gift", "ja": "しぜんのめぐみ"}
+{"sec": 5, "key": "Present", "en": "Present", "ja": "プレゼント"}
+{"sec": 5, "key": "Return", "en": "Return", "ja": "おんがえし"}
+{"sec": 5, "key": "Sonic Boom", "en": "Sonic Boom", "ja": "ソニックブーム"}
+{"sec": 5, "key": "Spit Up", "en": "Spit Up", "ja": "はきだす"}
+{"sec": 5, "key": "Super Fang", "en": "Super Fang", "ja": "いかりのまえば"}
+{"sec": 5, "key": "Trump Card", "en": "Trump Card", "ja": "きりふだ"}
+{"sec": 5, "key": "Wring Out", "en": "Wring Out", "ja": "しぼりとる"}
+{"sec": 5, "key": "Acupressure", "en": "Acupressure", "ja": "つぼをつく"}
+{"sec": 5, "key": "After You", "en": "After You", "ja": "おさきにどうぞ"}
+{"sec": 5, "key": "Assist", "en": "Assist", "ja": "ねこのて"}
+{"sec": 5, "key": "Attract", "en": "Attract", "ja": "メロメロ"}
+{"sec": 5, "key": "Baton Pass", "en": "Baton Pass", "ja": "バトンタッチ"}
+{"sec": 5, "key": "Belly Drum", "en": "Belly Drum", "ja": "はらだいこ"}
+{"sec": 5, "key": "Bestow", "en": "Bestow", "ja": "ギフトパス"}
+{"sec": 5, "key": "Block", "en": "Block", "ja": "とおせんぼう"}
+{"sec": 5, "key": "Camouflage", "en": "Camouflage", "ja": "ほごしょく"}
+{"sec": 5, "key": "Captivate", "en": "Captivate", "ja": "ゆうわく"}
+{"sec": 5, "key": "Charm", "en": "Charm", "ja": "あまえる"}
+{"sec": 5, "key": "Conversion", "en": "Conversion", "ja": "テクスチャー"}
+{"sec": 5, "key": "Conversion 2", "en": "Conversion 2", "ja": "テクスチャー2"}
+{"sec": 5, "key": "Copycat", "en": "Copycat", "ja": "まねっこ"}
+{"sec": 5, "key": "Defense Curl", "en": "Defense Curl", "ja": "まるくなる"}
+{"sec": 5, "key": "Disable", "en": "Disable", "ja": "かなしばり"}
+{"sec": 5, "key": "Double Team", "en": "Double Team", "ja": "かげぶんしん"}
+{"sec": 5, "key": "Encore", "en": "Encore", "ja": "アンコール"}
+{"sec": 5, "key": "Endure", "en": "Endure", "ja": "こらえる"}
+{"sec": 5, "key": "Entrainment", "en": "Entrainment", "ja": "なかまづくり"}
+{"sec": 5, "key": "Flash", "en": "Flash", "ja": "フラッシュ"}
+{"sec": 5, "key": "Focus Energy", "en": "Focus Energy", "ja": "きあいだめ"}
+{"sec": 5, "key": "Follow Me", "en": "Follow Me", "ja": "このゆびとまれ"}
+{"sec": 5, "key": "Foresight", "en": "Foresight", "ja": "みやぶる"}
+{"sec": 5, "key": "Glare", "en": "Glare", "ja": "へびにらみ"}
+{"sec": 5, "key": "Growl", "en": "Growl", "ja": "なきごえ"}
+{"sec": 5, "key": "Growth", "en": "Growth", "ja": "せいちょう"}
+{"sec": 5, "key": "Harden", "en": "Harden", "ja": "かたくなる"}
+{"sec": 5, "key": "Heal Bell", "en": "Heal Bell", "ja": "いやしのすず"}
+{"sec": 5, "key": "Helping Hand", "en": "Helping Hand", "ja": "てだすけ"}
+{"sec": 5, "key": "Howl", "en": "Howl", "ja": "とおぼえ"}
+{"sec": 5, "key": "Leer", "en": "Leer", "ja": "にらみつける"}
+{"sec": 5, "key": "Lock-On", "en": "Lock-On", "ja": "ロックオン"}
+{"sec": 5, "key": "Lovely Kiss", "en": "Lovely Kiss", "ja": "あくまのキッス"}
+{"sec": 5, "key": "Lucky Chant", "en": "Lucky Chant", "ja": "おまじない"}
+{"sec": 5, "key": "Me First", "en": "Me First", "ja": "さきどり"}
+{"sec": 5, "key": "Mean Look", "en": "Mean Look", "ja": "くろいまなざし"}
+{"sec": 5, "key": "Metronome", "en": "Metronome", "ja": "ゆびをふる"}
+{"sec": 5, "key": "Milk Drink", "en": "Milk Drink", "ja": "ミルクのみ"}
+{"sec": 5, "key": "Mimic", "en": "Mimic", "ja": "ものまね"}
+{"sec": 5, "key": "Mind Reader", "en": "Mind Reader", "ja": "こころのめ"}
+{"sec": 5, "key": "Minimize", "en": "Minimize", "ja": "ちいさくなる"}
+{"sec": 5, "key": "Moonlight", "en": "Moonlight", "ja": "つきのひかり"}
+{"sec": 5, "key": "Morning Sun", "en": "Morning Sun", "ja": "あさのひざし"}
+{"sec": 5, "key": "Nature Power", "en": "Nature Power", "ja": "しぜんのちから"}
+{"sec": 5, "key": "Odor Sleuth", "en": "Odor Sleuth", "ja": "かぎわける"}
+{"sec": 5, "key": "Pain Split", "en": "Pain Split", "ja": "いたみわけ"}
+{"sec": 5, "key": "Perish Song", "en": "Perish Song", "ja": "ほろびのうた"}
+{"sec": 5, "key": "Protect", "en": "Protect", "ja": "まもる"}
+{"sec": 5, "key": "Psych Up", "en": "Psych Up", "ja": "じこあんじ"}
+{"sec": 5, "key": "Recover", "en": "Recover", "ja": "じこさいせい"}
+{"sec": 5, "key": "Recycle", "en": "Recycle", "ja": "リサイクル"}
+{"sec": 5, "key": "Reflect Type", "en": "Reflect Type", "ja": "ミラータイプ"}
+{"sec": 5, "key": "Refresh", "en": "Refresh", "ja": "リフレッシュ"}
+{"sec": 5, "key": "Roar", "en": "Roar", "ja": "ほえる"}
+{"sec": 5, "key": "Safeguard", "en": "Safeguard", "ja": "しんぴのまもり"}
+{"sec": 5, "key": "Scary Face", "en": "Scary Face", "ja": "こわいかお"}
+{"sec": 5, "key": "Screech", "en": "Screech", "ja": "いやなおと"}
+{"sec": 5, "key": "Sharpen", "en": "Sharpen", "ja": "かくばる"}
+{"sec": 5, "key": "Shell Smash", "en": "Shell Smash", "ja": "からをやぶる"}
+{"sec": 5, "key": "Simple Beam", "en": "Simple Beam", "ja": "シンプルビーム"}
+{"sec": 5, "key": "Sing", "en": "Sing", "ja": "うたう"}
+{"sec": 5, "key": "Sketch", "en": "Sketch", "ja": "スケッチ"}
+{"sec": 5, "key": "Slack Off", "en": "Slack Off", "ja": "なまける"}
+{"sec": 5, "key": "Sleep Talk", "en": "Sleep Talk", "ja": "ねごと"}
+{"sec": 5, "key": "Smokescreen", "en": "Smokescreen", "ja": "えんまく"}
+{"sec": 5, "key": "Soft-Boiled", "en": "Soft-Boiled", "ja": "タマゴうみ"}
+{"sec": 5, "key": "Splash", "en": "Splash", "ja": "はねる"}
+{"sec": 5, "key": "Stockpile", "en": "Stockpile", "ja": "たくわえる"}
+{"sec": 5, "key": "Substitute", "en": "Substitute", "ja": "みがわり"}
+{"sec": 5, "key": "Supersonic", "en": "Supersonic", "ja": "ちょうおんぱ"}
+{"sec": 5, "key": "Swagger", "en": "Swagger", "ja": "いばる"}
+{"sec": 5, "key": "Swallow", "en": "Swallow", "ja": "のみこむ"}
+{"sec": 5, "key": "Sweet Kiss", "en": "Sweet Kiss", "ja": "てんしのキッス"}
+{"sec": 5, "key": "Sweet Scent", "en": "Sweet Scent", "ja": "あまいかおり"}
+{"sec": 5, "key": "Swords Dance", "en": "Swords Dance", "ja": "つるぎのまい"}
+{"sec": 5, "key": "Tail Whip", "en": "Tail Whip", "ja": "しっぽをふる"}
+{"sec": 5, "key": "Teeter Dance", "en": "Teeter Dance", "ja": "フラフラダンス"}
+{"sec": 5, "key": "Tickle", "en": "Tickle", "ja": "くすぐる"}
+{"sec": 5, "key": "Transform", "en": "Transform", "ja": "へんしん"}
+{"sec": 5, "key": "Whirlwind", "en": "Whirlwind", "ja": "ふきとばし"}
+{"sec": 5, "key": "Wish", "en": "Wish", "ja": "ねがいごと"}
+{"sec": 5, "key": "Work Up", "en": "Work Up", "ja": "ふるいたてる"}
+{"sec": 5, "key": "Yawn", "en": "Yawn", "ja": "あくび"}
+{"sec": 5, "key": "Gunk Shot", "en": "Gunk Shot", "ja": "ダストシュート"}
+{"sec": 5, "key": "Sludge Wave", "en": "Sludge Wave", "ja": "ヘドロウェーブ"}
+{"sec": 5, "key": "Sludge Bomb", "en": "Sludge Bomb", "ja": "ヘドロばくだん"}
+{"sec": 5, "key": "Poison Jab", "en": "Poison Jab", "ja": "どくづき"}
+{"sec": 5, "key": "Cross Poison", "en": "Cross Poison", "ja": "クロスポイズン"}
+{"sec": 5, "key": "Sludge", "en": "Sludge", "ja": "ヘドロこうげき"}
+{"sec": 5, "key": "Venoshock", "en": "Venoshock", "ja": "ベノムショック"}
+{"sec": 5, "key": "Clear Smog", "en": "Clear Smog", "ja": "クリアスモッグ"}
+{"sec": 5, "key": "Poison Fang", "en": "Poison Fang", "ja": "どくどくのキバ"}
+{"sec": 5, "key": "Poison Tail", "en": "Poison Tail", "ja": "ポイズンテール"}
+{"sec": 5, "key": "Acid", "en": "Acid", "ja": "ようかいえき"}
+{"sec": 5, "key": "Acid Spray", "en": "Acid Spray", "ja": "アシッドボム"}
+{"sec": 5, "key": "Smog", "en": "Smog", "ja": "スモッグ"}
+{"sec": 5, "key": "Poison Sting", "en": "Poison Sting", "ja": "どくばり"}
+{"sec": 5, "key": "Acid Armor", "en": "Acid Armor", "ja": "とける"}
+{"sec": 5, "key": "Coil", "en": "Coil", "ja": "とぐろをまく"}
+{"sec": 5, "key": "Gastro Acid", "en": "Gastro Acid", "ja": "いえき"}
+{"sec": 5, "key": "Poison Gas", "en": "Poison Gas", "ja": "どくガス"}
+{"sec": 5, "key": "Poison Powder", "en": "Poison Powder", "ja": "どくのこな"}
+{"sec": 5, "key": "Toxic", "en": "Toxic", "ja": "どくどく"}
+{"sec": 5, "key": "Toxic Spikes", "en": "Toxic Spikes", "ja": "どくびし"}
+{"sec": 5, "key": "Psycho Boost", "en": "Psycho Boost", "ja": "サイコブースト"}
+{"sec": 5, "key": "Dream Eater", "en": "Dream Eater", "ja": "ゆめくい"}
+{"sec": 5, "key": "Future Sight", "en": "Future Sight", "ja": "みらいよち"}
+{"sec": 5, "key": "Psystrike", "en": "Psystrike", "ja": "サイコブレイク"}
+{"sec": 5, "key": "Psychic", "en": "Psychic", "ja": "サイコキネシス"}
+{"sec": 5, "key": "Extrasensory", "en": "Extrasensory", "ja": "じんつうりき"}
+{"sec": 5, "key": "Psyshock", "en": "Psyshock", "ja": "サイコショック"}
+{"sec": 5, "key": "Zen Headbutt", "en": "Zen Headbutt", "ja": "しねんのずつき"}
+{"sec": 5, "key": "Luster Purge", "en": "Luster Purge", "ja": "ラスターパージ"}
+{"sec": 5, "key": "Mist Ball", "en": "Mist Ball", "ja": "ミストボール"}
+{"sec": 5, "key": "Psycho Cut", "en": "Psycho Cut", "ja": "サイコカッター"}
+{"sec": 5, "key": "Synchronoise", "en": "Synchronoise", "ja": "シンクロノイズ"}
+{"sec": 5, "key": "Psybeam", "en": "Psybeam", "ja": "サイケこうせん"}
+{"sec": 5, "key": "Heart Stamp", "en": "Heart Stamp", "ja": "ハートスタンプ"}
+{"sec": 5, "key": "Confusion", "en": "Confusion", "ja": "ねんりき"}
+{"sec": 5, "key": "Mirror Coat", "en": "Mirror Coat", "ja": "ミラーコート"}
+{"sec": 5, "key": "Psywave", "en": "Psywave", "ja": "サイコウェーブ"}
+{"sec": 5, "key": "Stored Power", "en": "Stored Power", "ja": "アシストパワー"}
+{"sec": 5, "key": "Agility", "en": "Agility", "ja": "こうそくいどう"}
+{"sec": 5, "key": "Ally Switch", "en": "Ally Switch", "ja": "サイドチェンジ"}
+{"sec": 5, "key": "Amnesia", "en": "Amnesia", "ja": "ドわすれ"}
+{"sec": 5, "key": "Barrier", "en": "Barrier", "ja": "バリアー"}
+{"sec": 5, "key": "Calm Mind", "en": "Calm Mind", "ja": "めいそう"}
+{"sec": 5, "key": "Cosmic Power", "en": "Cosmic Power", "ja": "コスモパワー"}
+{"sec": 5, "key": "Gravity", "en": "Gravity", "ja": "じゅうりょく"}
+{"sec": 5, "key": "Guard Split", "en": "Guard Split", "ja": "ガードシェア"}
+{"sec": 5, "key": "Guard Swap", "en": "Guard Swap", "ja": "ガードスワップ"}
+{"sec": 5, "key": "Heal Block", "en": "Heal Block", "ja": "かいふくふうじ"}
+{"sec": 5, "key": "Heal Pulse", "en": "Heal Pulse", "ja": "いやしのはどう"}
+{"sec": 5, "key": "Healing Wish", "en": "Healing Wish", "ja": "いやしのねがい"}
+{"sec": 5, "key": "Heart Swap", "en": "Heart Swap", "ja": "ハートスワップ"}
+{"sec": 5, "key": "Hypnosis", "en": "Hypnosis", "ja": "さいみんじゅつ"}
+{"sec": 5, "key": "Imprison", "en": "Imprison", "ja": "ふういん"}
+{"sec": 5, "key": "Kinesis", "en": "Kinesis", "ja": "スプーンまげ"}
+{"sec": 5, "key": "Light Screen", "en": "Light Screen", "ja": "ひかりのかべ"}
+{"sec": 5, "key": "Lunar Dance", "en": "Lunar Dance", "ja": "みかづきのまい"}
+{"sec": 5, "key": "Magic Coat", "en": "Magic Coat", "ja": "マジックコート"}
+{"sec": 5, "key": "Magic Room", "en": "Magic Room", "ja": "マジックルーム"}
+{"sec": 5, "key": "Meditate", "en": "Meditate", "ja": "ヨガのポーズ"}
+{"sec": 5, "key": "Miracle Eye", "en": "Miracle Eye", "ja": "ミラクルアイ"}
+{"sec": 5, "key": "Power Split", "en": "Power Split", "ja": "パワーシェア"}
+{"sec": 5, "key": "Power Swap", "en": "Power Swap", "ja": "パワースワップ"}
+{"sec": 5, "key": "Power Trick", "en": "Power Trick", "ja": "パワートリック"}
+{"sec": 5, "key": "Psycho Shift", "en": "Psycho Shift", "ja": "サイコシフト"}
+{"sec": 5, "key": "Reflect", "en": "Reflect", "ja": "リフレクター"}
+{"sec": 5, "key": "Rest", "en": "Rest", "ja": "ねむる"}
+{"sec": 5, "key": "Role Play", "en": "Role Play", "ja": "なりきり"}
+{"sec": 5, "key": "Skill Swap", "en": "Skill Swap", "ja": "スキルスワップ"}
+{"sec": 5, "key": "Telekinesis", "en": "Telekinesis", "ja": "テレキネシス"}
+{"sec": 5, "key": "Teleport", "en": "Teleport", "ja": "テレポート"}
+{"sec": 5, "key": "Trick", "en": "Trick", "ja": "トリック"}
+{"sec": 5, "key": "Trick Room", "en": "Trick Room", "ja": "トリックルーム"}
+{"sec": 5, "key": "Wonder Room", "en": "Wonder Room", "ja": "ワンダールーム"}
+{"sec": 5, "key": "Head Smash", "en": "Head Smash", "ja": "もろはのずつき"}
+{"sec": 5, "key": "Rock Wrecker", "en": "Rock Wrecker", "ja": "がんせきほう"}
+{"sec": 5, "key": "Stone Edge", "en": "Stone Edge", "ja": "ストーンエッジ"}
+{"sec": 5, "key": "Rock Slide", "en": "Rock Slide", "ja": "いわなだれ"}
+{"sec": 5, "key": "Power Gem", "en": "Power Gem", "ja": "パワージェム"}
+{"sec": 5, "key": "Ancient Power", "en": "Ancient Power", "ja": "げんしのちから"}
+{"sec": 5, "key": "Rock Throw", "en": "Rock Throw", "ja": "いわおとし"}
+{"sec": 5, "key": "Rock Tomb", "en": "Rock Tomb", "ja": "がんせきふうじ"}
+{"sec": 5, "key": "Smack Down", "en": "Smack Down", "ja": "うちおとす"}
+{"sec": 5, "key": "Rollout", "en": "Rollout", "ja": "ころがる"}
+{"sec": 5, "key": "Rock Blast", "en": "Rock Blast", "ja": "ロックブラスト"}
+{"sec": 5, "key": "Rock Polish", "en": "Rock Polish", "ja": "ロックカット"}
+{"sec": 5, "key": "Sandstorm", "en": "Sandstorm", "ja": "すなあらし"}
+{"sec": 5, "key": "Stealth Rock", "en": "Stealth Rock", "ja": "ステルスロック"}
+{"sec": 5, "key": "Wide Guard", "en": "Wide Guard", "ja": "ワイドガード"}
+{"sec": 5, "key": "Doom Desire", "en": "Doom Desire", "ja": "はめつのねがい"}
+{"sec": 5, "key": "Iron Tail", "en": "Iron Tail", "ja": "アイアンテール"}
+{"sec": 5, "key": "Meteor Mash", "en": "Meteor Mash", "ja": "コメットパンチ"}
+{"sec": 5, "key": "Flash Cannon", "en": "Flash Cannon", "ja": "ラスターカノン"}
+{"sec": 5, "key": "Iron Head", "en": "Iron Head", "ja": "アイアンヘッド"}
+{"sec": 5, "key": "Steel Wing", "en": "Steel Wing", "ja": "はがねのつばさ"}
+{"sec": 5, "key": "Mirror Shot", "en": "Mirror Shot", "ja": "ミラーショット"}
+{"sec": 5, "key": "Magnet Bomb", "en": "Magnet Bomb", "ja": "マグネットボム"}
+{"sec": 5, "key": "Gear Grind", "en": "Gear Grind", "ja": "ギアソーサー"}
+{"sec": 5, "key": "Metal Claw", "en": "Metal Claw", "ja": "メタルクロー"}
+{"sec": 5, "key": "Bullet Punch", "en": "Bullet Punch", "ja": "バレットパンチ"}
+{"sec": 5, "key": "Gyro Ball", "en": "Gyro Ball", "ja": "ジャイロボール"}
+{"sec": 5, "key": "Heavy Slam", "en": "Heavy Slam", "ja": "ヘビーボンバー"}
+{"sec": 5, "key": "Metal Burst", "en": "Metal Burst", "ja": "メタルバースト"}
+{"sec": 5, "key": "Autotomize", "en": "Autotomize", "ja": "ボディパージ"}
+{"sec": 5, "key": "Iron Defense", "en": "Iron Defense", "ja": "てっぺき"}
+{"sec": 5, "key": "Metal Sound", "en": "Metal Sound", "ja": "きんぞくおん"}
+{"sec": 5, "key": "Shift Gear", "en": "Shift Gear", "ja": "ギアチェンジ"}
+{"sec": 5, "key": "Hydro Cannon", "en": "Hydro Cannon", "ja": "ハイドロカノン"}
+{"sec": 5, "key": "Water Spout", "en": "Water Spout", "ja": "しおふき"}
+{"sec": 5, "key": "Hydro Pump", "en": "Hydro Pump", "ja": "ハイドロポンプ"}
+{"sec": 5, "key": "Muddy Water", "en": "Muddy Water", "ja": "だくりゅう"}
+{"sec": 5, "key": "Surf", "en": "Surf", "ja": "なみのり"}
+{"sec": 5, "key": "Aqua Tail", "en": "Aqua Tail", "ja": "アクアテール"}
+{"sec": 5, "key": "Crabhammer", "en": "Crabhammer", "ja": "クラブハンマー"}
+{"sec": 5, "key": "Dive", "en": "Dive", "ja": "ダイビング"}
+{"sec": 5, "key": "Scald", "en": "Scald", "ja": "ねっとう"}
+{"sec": 5, "key": "Waterfall", "en": "Waterfall", "ja": "たきのぼり"}
+{"sec": 5, "key": "Razor Shell", "en": "Razor Shell", "ja": "シェルブレード"}
+{"sec": 5, "key": "Brine", "en": "Brine", "ja": "しおみず"}
+{"sec": 5, "key": "Bubble Beam", "en": "Bubble Beam", "ja": "バブルこうせん"}
+{"sec": 5, "key": "Octazooka", "en": "Octazooka", "ja": "オクタンほう"}
+{"sec": 5, "key": "Water Pulse", "en": "Water Pulse", "ja": "みずのはどう"}
+{"sec": 5, "key": "Water Pledge", "en": "Water Pledge", "ja": "みずのちかい"}
+{"sec": 5, "key": "Aqua Jet", "en": "Aqua Jet", "ja": "アクアジェット"}
+{"sec": 5, "key": "Water Gun", "en": "Water Gun", "ja": "みずでっぽう"}
+{"sec": 5, "key": "Clamp", "en": "Clamp", "ja": "からではさむ"}
+{"sec": 5, "key": "Whirlpool", "en": "Whirlpool", "ja": "うずしお"}
+{"sec": 5, "key": "Bubble", "en": "Bubble", "ja": "あわ"}
+{"sec": 5, "key": "Aqua Ring", "en": "Aqua Ring", "ja": "アクアリング"}
+{"sec": 5, "key": "Rain Dance", "en": "Rain Dance", "ja": "あまごい"}
+{"sec": 5, "key": "Soak", "en": "Soak", "ja": "みずびたし"}
+{"sec": 5, "key": "Water Sport", "en": "Water Sport", "ja": "みずあそび"}
+{"sec": 5, "key": "Withdraw", "en": "Withdraw", "ja": "からにこもる"}
+{"sec": 5, "key": "Aromatic Mist", "en": "Aromatic Mist", "ja": "アロマミスト"}
+{"sec": 5, "key": "Baby-Doll Eyes", "en": "Baby-Doll Eyes", "ja": "つぶらなひとみ"}
+{"sec": 5, "key": "Belch", "en": "Belch", "ja": "ゲップ"}
+{"sec": 5, "key": "Boomburst", "en": "Boomburst", "ja": "ばくおんぱ"}
+{"sec": 5, "key": "Confide", "en": "Confide", "ja": "ないしょばなし"}
+{"sec": 5, "key": "Crafty Shield", "en": "Crafty Shield", "ja": "トリックガード"}
+{"sec": 5, "key": "Dazzling Gleam", "en": "Dazzling Gleam", "ja": "マジカルシャイン"}
+{"sec": 5, "key": "Disarming Voice", "en": "Disarming Voice", "ja": "チャームボイス"}
+{"sec": 5, "key": "Draining Kiss", "en": "Draining Kiss", "ja": "ドレインキッス"}
+{"sec": 5, "key": "Plasma Fists", "en": "Plasma Fists", "ja": "プラズマフィスト"}
+{"sec": 5, "key": "Eerie Impulse", "en": "Eerie Impulse", "ja": "かいでんぱ"}
+{"sec": 5, "key": "Electric Terrain", "en": "Electric Terrain", "ja": "エレキフィールド"}
+{"sec": 5, "key": "Electrify", "en": "Electrify", "ja": "そうでん"}
+{"sec": 5, "key": "Fairy Lock", "en": "Fairy Lock", "ja": "フェアリーロック"}
+{"sec": 5, "key": "Fairy Wind", "en": "Fairy Wind", "ja": "ようせいのかぜ"}
+{"sec": 5, "key": "Fell Stinger", "en": "Fell Stinger", "ja": "とどめばり"}
+{"sec": 5, "key": "Flower Shield", "en": "Flower Shield", "ja": "フラワーガード"}
+{"sec": 5, "key": "Flying Press", "en": "Flying Press", "ja": "フライングプレス"}
+{"sec": 5, "key": "Forest's Curse", "en": "Forest's Curse", "ja": "もりののろい"}
+{"sec": 5, "key": "Freeze-Dry", "en": "Freeze-Dry", "ja": "フリーズドライ"}
+{"sec": 5, "key": "Geomancy", "en": "Geomancy", "ja": "ジオコントロール"}
+{"sec": 5, "key": "Grassy Terrain", "en": "Grassy Terrain", "ja": "グラスフィールド"}
+{"sec": 5, "key": "Infestation", "en": "Infestation", "ja": "まとわりつく"}
+{"sec": 5, "key": "Ion Deluge", "en": "Ion Deluge", "ja": "プラズマシャワー"}
+{"sec": 5, "key": "King's Shield", "en": "King's Shield", "ja": "キングシールド"}
+{"sec": 5, "key": "Land's Wrath", "en": "Land's Wrath", "ja": "グランドフォース"}
+{"sec": 5, "key": "Magnetic Flux", "en": "Magnetic Flux", "ja": "じばそうさ"}
+{"sec": 5, "key": "Mat Block", "en": "Mat Block", "ja": "たたみがえし"}
+{"sec": 5, "key": "Misty Terrain", "en": "Misty Terrain", "ja": "ミストフィールド"}
+{"sec": 5, "key": "Moonblast", "en": "Moonblast", "ja": "ムーンフォース"}
+{"sec": 5, "key": "Mystical Fire", "en": "Mystical Fire", "ja": "マジカルフレイム"}
+{"sec": 5, "key": "Noble Roar", "en": "Noble Roar", "ja": "おたけび"}
+{"sec": 5, "key": "Nuzzle", "en": "Nuzzle", "ja": "ほっぺすりすり"}
+{"sec": 5, "key": "Oblivion Wing", "en": "Oblivion Wing", "ja": "デスウイング"}
+{"sec": 5, "key": "Parabolic Charge", "en": "Parabolic Charge", "ja": "パラボラチャージ"}
+{"sec": 5, "key": "Parting Shot", "en": "Parting Shot", "ja": "すてゼリフ"}
+{"sec": 5, "key": "Petal Blizzard", "en": "Petal Blizzard", "ja": "はなふぶき"}
+{"sec": 5, "key": "Phantom Force", "en": "Phantom Force", "ja": "ゴーストダイブ"}
+{"sec": 5, "key": "Play Nice", "en": "Play Nice", "ja": "なかよくする"}
+{"sec": 5, "key": "Play Rough", "en": "Play Rough", "ja": "じゃれつく"}
+{"sec": 5, "key": "Powder", "en": "Powder", "ja": "ふんじん"}
+{"sec": 5, "key": "Power-Up Punch", "en": "Power-Up Punch", "ja": "グロウパンチ"}
+{"sec": 5, "key": "Rototiller", "en": "Rototiller", "ja": "たがやす"}
+{"sec": 5, "key": "Spiky Shield", "en": "Spiky Shield", "ja": "ニードルガード"}
+{"sec": 5, "key": "Sticky Web", "en": "Sticky Web", "ja": "ねばねばネット"}
+{"sec": 5, "key": "Topsy-Turvy", "en": "Topsy-Turvy", "ja": "ひっくりかえす"}
+{"sec": 5, "key": "Trick-or-Treat", "en": "Trick-or-Treat", "ja": "ハロウィン"}
+{"sec": 5, "key": "Venom Drench", "en": "Venom Drench", "ja": "ベノムトラップ"}
+{"sec": 5, "key": "Water Shuriken", "en": "Water Shuriken", "ja": "みずしゅりけん"}
+{"sec": 5, "key": "Origin Pulse", "en": "Origin Pulse", "ja": "こんげんのはどう"}
+{"sec": 5, "key": "Precipice Blades", "en": "Precipice Blades", "ja": "だんがいのつるぎ"}
+{"sec": 5, "key": "Dragon Ascent", "en": "Dragon Ascent", "ja": "ガリョウテンセイ"}
+{"sec": 5, "key": "Thousand Arrows", "en": "Thousand Arrows", "ja": "サウザンアロー"}
+{"sec": 5, "key": "Thousand Waves", "en": "Thousand Waves", "ja": "サウザンウェーブ"}
+{"sec": 5, "key": "Diamond Storm", "en": "Diamond Storm", "ja": "ダイヤストーム"}
+{"sec": 5, "key": "Hyperspace Hole", "en": "Hyperspace Hole", "ja": "いじげんホール"}
+{"sec": 5, "key": "Steam Eruption", "en": "Steam Eruption", "ja": "スチームバースト"}
+{"sec": 5, "key": "Hyperspace Fury", "en": "Hyperspace Fury", "ja": "いじげんラッシュ"}
+{"sec": 5, "key": "Light of Ruin", "en": "Light of Ruin", "ja": "はめつのひかり"}
+{"sec": 5, "key": "Accelerock", "en": "Accelerock", "ja": "アクセルロック"}
+{"sec": 5, "key": "Anchor Shot", "en": "Anchor Shot", "ja": "アンカーショット"}
+{"sec": 5, "key": "Aurora Veil", "en": "Aurora Veil", "ja": "オーロラベール"}
+{"sec": 5, "key": "Baneful Bunker", "en": "Baneful Bunker", "ja": "トーチカ"}
+{"sec": 5, "key": "Beak Blast", "en": "Beak Blast", "ja": "くちばしキャノン"}
+{"sec": 5, "key": "Brutal Swing", "en": "Brutal Swing", "ja": "ぶんまわす"}
+{"sec": 5, "key": "Burn Up", "en": "Burn Up", "ja": "もえつきる"}
+{"sec": 5, "key": "Clanging Scales", "en": "Clanging Scales", "ja": "スケイルノイズ"}
+{"sec": 5, "key": "Core Enforcer", "en": "Core Enforcer", "ja": "コアパニッシャー"}
+{"sec": 5, "key": "Darkest Lariat", "en": "Darkest Lariat", "ja": "DDラリアット"}
+{"sec": 5, "key": "Dragon Hammer", "en": "Dragon Hammer", "ja": "ドラゴンハンマー"}
+{"sec": 5, "key": "Fire Lash", "en": "Fire Lash", "ja": "ほのおのムチ"}
+{"sec": 5, "key": "First Impression", "en": "First Impression", "ja": "であいがしら"}
+{"sec": 5, "key": "Fleur Cannon", "en": "Fleur Cannon", "ja": "フルールカノン"}
+{"sec": 5, "key": "Floral Healing", "en": "Floral Healing", "ja": "フラワーヒール"}
+{"sec": 5, "key": "Gear Up", "en": "Gear Up", "ja": "アシストギア"}
+{"sec": 5, "key": "High Horsepower", "en": "High Horsepower", "ja": "10まんばりき"}
+{"sec": 5, "key": "Ice Hammer", "en": "Ice Hammer", "ja": "アイスハンマー"}
+{"sec": 5, "key": "Instruct", "en": "Instruct", "ja": "さいはい"}
+{"sec": 5, "key": "Laser Focus", "en": "Laser Focus", "ja": "とぎすます"}
+{"sec": 5, "key": "Leafage", "en": "Leafage", "ja": "このは"}
+{"sec": 5, "key": "Liquidation", "en": "Liquidation", "ja": "アクアブレイク"}
+{"sec": 5, "key": "Lunge", "en": "Lunge", "ja": "とびかかる"}
+{"sec": 5, "key": "Moongeist Beam", "en": "Moongeist Beam", "ja": "シャドーレイ"}
+{"sec": 5, "key": "Nature Madness", "en": "Nature Madness", "ja": "しぜんのいかり"}
+{"sec": 5, "key": "Nature's Madness", "en": "Nature's Madness", "ja": "しぜんのいかり"}
+{"sec": 5, "key": "Pollen Puff", "en": "Pollen Puff", "ja": "かふんだんご"}
+{"sec": 5, "key": "Power Trip", "en": "Power Trip", "ja": "つけあがる"}
+{"sec": 5, "key": "Prismatic Laser", "en": "Prismatic Laser", "ja": "プリズムレーザー"}
+{"sec": 5, "key": "Psychic Fangs", "en": "Psychic Fangs", "ja": "サイコファング"}
+{"sec": 5, "key": "Psychic Terrain", "en": "Psychic Terrain", "ja": "サイコフィールド"}
+{"sec": 5, "key": "Purify", "en": "Purify", "ja": "じょうか"}
+{"sec": 5, "key": "Revelation Dance", "en": "Revelation Dance", "ja": "めざめるダンス"}
+{"sec": 5, "key": "Shadow Bone", "en": "Shadow Bone", "ja": "シャドーボーン"}
+{"sec": 5, "key": "Shell Trap", "en": "Shell Trap", "ja": "トラップシェル"}
+{"sec": 5, "key": "Shore Up", "en": "Shore Up", "ja": "すなあつめ"}
+{"sec": 5, "key": "Smart Strike", "en": "Smart Strike", "ja": "スマートホーン"}
+{"sec": 5, "key": "Solar Blade", "en": "Solar Blade", "ja": "ソーラーブレード"}
+{"sec": 5, "key": "Sparkling Aria", "en": "Sparkling Aria", "ja": "うたかたのアリア"}
+{"sec": 5, "key": "Spectral Thief", "en": "Spectral Thief", "ja": "シャドースチール"}
+{"sec": 5, "key": "Speed Swap", "en": "Speed Swap", "ja": "スピードスワップ"}
+{"sec": 5, "key": "Spirit Shackle", "en": "Spirit Shackle", "ja": "かげぬい"}
+{"sec": 5, "key": "Spotlight", "en": "Spotlight", "ja": "スポットライト"}
+{"sec": 5, "key": "Stomp Tantrum", "en": "Stomp Tantrum", "ja": "じだんだ"}
+{"sec": 5, "key": "Stomping Tantrum", "en": "Stomping Tantrum", "ja": "じだんだ"}
+{"sec": 5, "key": "Strength Sap", "en": "Strength Sap", "ja": "ちからをすいとる"}
+{"sec": 5, "key": "Sunsteel Strike", "en": "Sunsteel Strike", "ja": "メテオドライブ"}
+{"sec": 5, "key": "Tearful Look", "en": "Tearful Look", "ja": "なみだめ"}
+{"sec": 5, "key": "Throat Chop", "en": "Throat Chop", "ja": "じごくづき"}
+{"sec": 5, "key": "Toxic Thread", "en": "Toxic Thread", "ja": "どくのいと"}
+{"sec": 5, "key": "Trop Kick", "en": "Trop Kick", "ja": "トロピカルキック"}
+{"sec": 5, "key": "Zing Zap", "en": "Zing Zap", "ja": "びりびりちくちく"}
+{"sec": 5, "key": "Multi-Attack", "en": "Multi-Attack", "ja": "マルチアタック"}
+{"sec": 5, "key": "Mind Blown", "en": "Mind Blown", "ja": "ビックリヘッド"}
+{"sec": 5, "key": "Photon Geyser", "en": "Photon Geyser", "ja": "フォトンゲイザー"}
+{"sec": 5, "key": "Dynamax Cannon", "en": "Dynamax Cannon", "ja": "ダイマックスほう"}
+{"sec": 5, "key": "Snipe Shot", "en": "Snipe Shot", "ja": "ねらいうち"}
+{"sec": 5, "key": "Jaw Lock", "en": "Jaw Lock", "ja": "くらいつく"}
+{"sec": 5, "key": "Stuff Cheeks", "en": "Stuff Cheeks", "ja": "ほおばる"}
+{"sec": 5, "key": "No Retreat", "en": "No Retreat", "ja": "はいすいのじん"}
+{"sec": 5, "key": "Tar Shot", "en": "Tar Shot", "ja": "タールショット"}
+{"sec": 5, "key": "Magic Powder", "en": "Magic Powder", "ja": "まほうのこな"}
+{"sec": 5, "key": "Dragon Darts", "en": "Dragon Darts", "ja": "ドラゴンアロー"}
+{"sec": 5, "key": "Teatime", "en": "Teatime", "ja": "おちゃかい"}
+{"sec": 5, "key": "Octolock", "en": "Octolock", "ja": "たこがため"}
+{"sec": 5, "key": "Bolt Beak", "en": "Bolt Beak", "ja": "でんげきくちばし"}
+{"sec": 5, "key": "Fishious Rend", "en": "Fishious Rend", "ja": "エラがみ"}
+{"sec": 5, "key": "Court Change", "en": "Court Change", "ja": "コートチェンジ"}
+{"sec": 5, "key": "Clangorous Soul", "en": "Clangorous Soul", "ja": "ソウルビート"}
+{"sec": 5, "key": "Body Press", "en": "Body Press", "ja": "ボディプレス"}
+{"sec": 5, "key": "Decorate", "en": "Decorate", "ja": "デコレーション"}
+{"sec": 5, "key": "Drum Beating", "en": "Drum Beating", "ja": "ドラムアタック"}
+{"sec": 5, "key": "Snap Trap", "en": "Snap Trap", "ja": "トラバサミ"}
+{"sec": 5, "key": "Pyro Ball", "en": "Pyro Ball", "ja": "かえんボール"}
+{"sec": 5, "key": "Behemoth Blade", "en": "Behemoth Blade", "ja": "きょじゅうざん"}
+{"sec": 5, "key": "Behemoth Bash", "en": "Behemoth Bash", "ja": "きょじゅうだん"}
+{"sec": 5, "key": "Aura Wheel", "en": "Aura Wheel", "ja": "オーラぐるま"}
+{"sec": 5, "key": "Breaking Swipe", "en": "Breaking Swipe", "ja": "ワイドブレイカー"}
+{"sec": 5, "key": "Branch Poke", "en": "Branch Poke", "ja": "えだづき"}
+{"sec": 5, "key": "Overdrive", "en": "Overdrive", "ja": "オーバードライブ"}
+{"sec": 5, "key": "Apple Acid", "en": "Apple Acid", "ja": "りんごさん"}
+{"sec": 5, "key": "Grav Apple", "en": "Grav Apple", "ja": "Gのちから"}
+{"sec": 5, "key": "Spirit Break", "en": "Spirit Break", "ja": "ソウルクラッシュ"}
+{"sec": 5, "key": "Strange Steam", "en": "Strange Steam", "ja": "ワンダースチーム"}
+{"sec": 5, "key": "Life Dew", "en": "Life Dew", "ja": "いのちのしずく"}
+{"sec": 5, "key": "Obstruct", "en": "Obstruct", "ja": "ブロッキング"}
+{"sec": 5, "key": "False Surrender", "en": "False Surrender", "ja": "どげざつき"}
+{"sec": 5, "key": "Meteor Assault", "en": "Meteor Assault", "ja": "スターアサルト"}
+{"sec": 5, "key": "Eternabeam", "en": "Eternabeam", "ja": "ムゲンダイビーム"}
+{"sec": 5, "key": "Steel Beam", "en": "Steel Beam", "ja": "てっていこうせん"}
+{"sec": 5, "key": "Celebrate", "en": "Celebrate", "ja": "おいわい"}
+{"sec": 5, "key": "Double Iron Bash", "en": "Double Iron Bash", "ja": "ダブルパンツァー"}
+{"sec": 5, "key": "Happy Hour", "en": "Happy Hour", "ja": "ハッピータイム"}
+{"sec": 5, "key": "Hold Hands", "en": "Hold Hands", "ja": "てをつなぐ"}
+{"sec": 5, "key": "Scorching Sands", "en": "Scorching Sands", "ja": "ねっさのだいち"}
+{"sec": 5, "key": "Dual Wingbeat", "en": "Dual Wingbeat", "ja": "ダブルウイング"}
+{"sec": 5, "key": "Expanding Force", "en": "Expanding Force", "ja": "ワイドフォース"}
+{"sec": 5, "key": "Steel Roller", "en": "Steel Roller", "ja": "アイアンローラー"}
+{"sec": 5, "key": "Scale Shot", "en": "Scale Shot", "ja": "スケイルショット"}
+{"sec": 5, "key": "Meteor Beam", "en": "Meteor Beam", "ja": "メテオビーム"}
+{"sec": 5, "key": "Shell Side Arm", "en": "Shell Side Arm", "ja": "シェルアームズ"}
+{"sec": 5, "key": "Misty Explosion", "en": "Misty Explosion", "ja": "ミストバースト"}
+{"sec": 5, "key": "Grassy Glide", "en": "Grassy Glide", "ja": "グラススライダー"}
+{"sec": 5, "key": "Rising Voltage", "en": "Rising Voltage", "ja": "ライジングボルト"}
+{"sec": 5, "key": "Terrain Pulse", "en": "Terrain Pulse", "ja": "だいちのはどう"}
+{"sec": 5, "key": "Skitter Smack", "en": "Skitter Smack", "ja": "はいよるいちげき"}
+{"sec": 5, "key": "Burning Jealousy", "en": "Burning Jealousy", "ja": "しっとのほのお"}
+{"sec": 5, "key": "Lash Out", "en": "Lash Out", "ja": "うっぷんばらし"}
+{"sec": 5, "key": "Poltergeist", "en": "Poltergeist", "ja": "ポルターガイスト"}
+{"sec": 5, "key": "Corrosive Gas", "en": "Corrosive Gas", "ja": "ふしょくガス"}
+{"sec": 5, "key": "Coaching", "en": "Coaching", "ja": "コーチング"}
+{"sec": 5, "key": "Flip Turn", "en": "Flip Turn", "ja": "クイックターン"}
+{"sec": 5, "key": "Triple Axel", "en": "Triple Axel", "ja": "トリプルアクセル"}
+{"sec": 5, "key": "Jungle Healing", "en": "Jungle Healing", "ja": "ジャングルヒール"}
+{"sec": 5, "key": "Surging Strikes", "en": "Surging Strikes", "ja": "すいりゅうれんだ"}
+{"sec": 5, "key": "Wicked Blow", "en": "Wicked Blow", "ja": "あんこくきょうだ"}
+{"sec": 5, "key": "Thunder Cage", "en": "Thunder Cage", "ja": "サンダープリズン"}
+{"sec": 5, "key": "Dragon Energy", "en": "Dragon Energy", "ja": "ドラゴンエナジー"}
+{"sec": 5, "key": "Freezing Glare", "en": "Freezing Glare", "ja": "いてつくしせん"}
+{"sec": 5, "key": "Fiery Wrath", "en": "Fiery Wrath", "ja": "もえあがるいかり"}
+{"sec": 5, "key": "Thunderous Kick", "en": "Thunderous Kick", "ja": "らいめいげり"}
+{"sec": 5, "key": "Glacial Lance", "en": "Glacial Lance", "ja": "ブリザードランス"}
+{"sec": 5, "key": "Astral Barrage", "en": "Astral Barrage", "ja": "アストラルビット"}
+{"sec": 5, "key": "Eerie Spell", "en": "Eerie Spell", "ja": "ぶきみなじゅもん"}
+{"sec": 5, "key": "Breakneck Blitz", "en": "Breakneck Blitz", "ja": "ウルトラダッシュ"}
+{"sec": 5, "key": "All-Out Pummel", "en": "All-Out Pummel", "ja": "ぜんりょくむそう"}
+{"sec": 5, "key": "All-Out Pummeling", "en": "All-Out Pummeling", "ja": "ぜんりょくむそうげきれつけん"}
+{"sec": 5, "key": "Sonic Skystrike", "en": "Sonic Skystrike", "ja": "ファイナルダイブ"}
+{"sec": 5, "key": "Supersonic Skystrike", "en": "Supersonic Skystrike", "ja": "ファイナルダイブクラッシュ"}
+{"sec": 5, "key": "Acid Downpour", "en": "Acid Downpour", "ja": "アシッドポイズン"}
+{"sec": 5, "key": "Tectonic Rage", "en": "Tectonic Rage", "ja": "ランドオーバー"}
+{"sec": 5, "key": "Continent Crush", "en": "Continent Crush", "ja": "ワールズエンド"}
+{"sec": 5, "key": "Continental Crush", "en": "Continental Crush", "ja": "ワールズエンドフォール"}
+{"sec": 5, "key": "Savage Spin-Out", "en": "Savage Spin-Out", "ja": "ぜったいほしょく"}
+{"sec": 5, "key": "N. E. Nightmare", "en": "N. E. Nightmare", "ja": "むげんあんや"}
+{"sec": 5, "key": "Never-Ending Nightmare", "en": "Never-Ending Nightmare", "ja": "むげんあんやへのいざない"}
+{"sec": 5, "key": "Corkscrew Crash", "en": "Corkscrew Crash", "ja": "ちょうぜつらせん"}
+{"sec": 5, "key": "Inf. Overdrive", "en": "Inf. Overdrive", "ja": "フルフレイム"}
+{"sec": 5, "key": "Inferno Overdrive", "en": "Inferno Overdrive", "ja": "ダイナミックフルフレイム"}
+{"sec": 5, "key": "Hydro Vortex", "en": "Hydro Vortex", "ja": "アクアトルネード"}
+{"sec": 5, "key": "Bloom Doom", "en": "Bloom Doom", "ja": "ブルームシャイン"}
+{"sec": 5, "key": "Gigavolt Havoc", "en": "Gigavolt Havoc", "ja": "ギガボルト"}
+{"sec": 5, "key": "Shatter Psyche", "en": "Shatter Psyche", "ja": "サイブレイカー"}
+{"sec": 5, "key": "Shattered Psyche", "en": "Shattered Psyche", "ja": "マキシマムサイブレイカー"}
+{"sec": 5, "key": "Subzero Slammer", "en": "Subzero Slammer", "ja": "ジオフリーズ"}
+{"sec": 5, "key": "Dev. Drake", "en": "Dev. Drake", "ja": "ドラゴンバーン"}
+{"sec": 5, "key": "Devastating Drake", "en": "Devastating Drake", "ja": "アルティメットドラゴンバーン"}
+{"sec": 5, "key": "Black Hole", "en": "Black Hole", "ja": "ブラックホール"}
+{"sec": 5, "key": "Black Hole Eclipse", "en": "Black Hole Eclipse", "ja": "ブラックホールイクリプス"}
+{"sec": 5, "key": "Twinkle Tackle", "en": "Twinkle Tackle", "ja": "ラブリースター"}
+{"sec": 5, "key": "S. Sparksurfer", "en": "S. Sparksurfer", "ja": "サーフライド"}
+{"sec": 5, "key": "Stoked Sparksurfer", "en": "Stoked Sparksurfer", "ja": "ライトニングサーフライド"}
+{"sec": 5, "key": "S. Arrow Raid", "en": "S. Arrow Raid", "ja": "シャドーアローズ"}
+{"sec": 5, "key": "Sinister Arrow Raid", "en": "Sinister Arrow Raid", "ja": "シャドーアローズストライク"}
+{"sec": 5, "key": "Mal. Moonsault", "en": "Mal. Moonsault", "ja": "ハイパーダーク"}
+{"sec": 5, "key": "Malicious Moonsault", "en": "Malicious Moonsault", "ja": "ハイパーダーククラッシャー"}
+{"sec": 5, "key": "Ocean Operetta", "en": "Ocean Operetta", "ja": "シンフォニア"}
+{"sec": 5, "key": "Oceanic Operetta", "en": "Oceanic Operetta", "ja": "わだつみのシンフォニア"}
+{"sec": 5, "key": "Ex. Evoboost", "en": "Ex. Evoboost", "ja": "エボルブースト"}
+{"sec": 5, "key": "Extreme Evoboost", "en": "Extreme Evoboost", "ja": "ナインエボルブースト"}
+{"sec": 5, "key": "Catastropika", "en": "Catastropika", "ja": "ピカチュート"}
+{"sec": 5, "key": "Pulv. Pancake", "en": "Pulv. Pancake", "ja": "ほんきをだす"}
+{"sec": 5, "key": "Pulverizing Pancake", "en": "Pulverizing Pancake", "ja": "ほんきをだすこうげき"}
+{"sec": 5, "key": "Gen. Supernova", "en": "Gen. Supernova", "ja": "スーパーノヴァ"}
+{"sec": 5, "key": "Genesis Supernova", "en": "Genesis Supernova", "ja": "オリジンズスーパーノヴァ"}
+{"sec": 5, "key": "Guardian of Alola", "en": "Guardian of Alola", "ja": "ガーディアン"}
+{"sec": 5, "key": "7-Star Strike", "en": "7-Star Strike", "ja": "しちせいだっこん"}
+{"sec": 5, "key": "Soul-Stealing 7-Star Strike", "en": "Soul-Stealing 7-Star Strike", "ja": "しちせいだっこんたい"}
+{"sec": 5, "key": "Snuggle Forever", "en": "Snuggle Forever", "ja": "フレンドタイム"}
+{"sec": 5, "key": "Let's Snuggle Forever", "en": "Let's Snuggle Forever", "ja": "ぽかぼかフレンドタイム"}
+{"sec": 5, "key": "Clang. Soulblaze", "en": "Clang. Soulblaze", "ja": "ソウルビート"}
+{"sec": 5, "key": "Clangorous Soulblaze", "en": "Clangorous Soulblaze", "ja": "ブレイジングソウルビート"}
+{"sec": 5, "key": "S. Stormshards", "en": "S. Stormshards", "ja": "エッジストーム"}
+{"sec": 5, "key": "Splintered Stormshards", "en": "Splintered Stormshards", "ja": "ラジアルエッジストーム"}
+{"sec": 5, "key": "S. Sunraze Smash", "en": "S. Sunraze Smash", "ja": "サンシャイン"}
+{"sec": 5, "key": "Searing Sunraze Smash", "en": "Searing Sunraze Smash", "ja": "サンシャインスマッシャー"}
+{"sec": 5, "key": "M. M. Maelstrom", "en": "M. M. Maelstrom", "ja": "ムーンライト"}
+{"sec": 5, "key": "Menacing Moonraze Maelstrom", "en": "Menacing Moonraze Maelstrom", "ja": "ムーンライトブラスター"}
+{"sec": 5, "key": "Burning Light", "en": "Burning Light", "ja": "めつぼうのひかり"}
+{"sec": 5, "key": "Light That Burns The Sky", "en": "Light That Burns The Sky", "ja": "てんこがすめつぼうのひかり"}
+{"sec": 5, "key": "Shadow End", "en": "Shadow End", "ja": "ダークエンド"}
+{"sec": 5, "key": "Shadow Storm", "en": "Shadow Storm", "ja": "ダークストーム"}
+{"sec": 5, "key": "Shadow Blast", "en": "Shadow Blast", "ja": "ダークブラスト"}
+{"sec": 5, "key": "Shadow Bolt", "en": "Shadow Bolt", "ja": "ダークサンダー"}
+{"sec": 5, "key": "Shadow Break", "en": "Shadow Break", "ja": "ダークブレイク"}
+{"sec": 5, "key": "Shadow Chill", "en": "Shadow Chill", "ja": "ダークフリーズ"}
+{"sec": 5, "key": "Shadow Fire", "en": "Shadow Fire", "ja": "ダークファイア"}
+{"sec": 5, "key": "Shadow Rave", "en": "Shadow Rave", "ja": "ダークレイブ"}
+{"sec": 5, "key": "Shadow Rush", "en": "Shadow Rush", "ja": "ダークラッシュ"}
+{"sec": 5, "key": "Shadow Wave", "en": "Shadow Wave", "ja": "ダークウェーブ"}
+{"sec": 5, "key": "Shadow Blitz", "en": "Shadow Blitz", "ja": "ダークアタック"}
+{"sec": 5, "key": "Shadow Down", "en": "Shadow Down", "ja": "ダークダウン"}
+{"sec": 5, "key": "Shadow Half", "en": "Shadow Half", "ja": "ダークハーフ"}
+{"sec": 5, "key": "Shadow Hold", "en": "Shadow Hold", "ja": "ダークホールド"}
+{"sec": 5, "key": "Shadow Mist", "en": "Shadow Mist", "ja": "ダークミスト"}
+{"sec": 5, "key": "Shadow Panic", "en": "Shadow Panic", "ja": "ダークパニック"}
+{"sec": 5, "key": "Shadow Shed", "en": "Shadow Shed", "ja": "ダークリムーブ"}
+{"sec": 5, "key": "Shadow Sky", "en": "Shadow Sky", "ja": "ダークウェザー"}
+{"sec": 5, "key": "Aura Wheel ANIMATION", "en": "Aura Wheel ANIMATION", "ja": "オーラぐるま"}
+{"sec": 5, "key": "Techno Blast ANIMATION", "en": "Techno Blast ANIMATION", "ja": "テクノバスター"}
+{"sec": 5, "key": "Multi-Attack ANIMATION", "en": "Multi-Attack ANIMATION", "ja": "マルチアタック"}
+{"sec": 5, "key": "Judgment ANIMATION", "en": "Judgment ANIMATION", "ja": "さばきのつぶて"}
+{"sec": 5, "key": "Weather Ball ANIMATION", "en": "Weather Ball ANIMATION", "ja": "ウェザーボール"}
+{"sec": 5, "key": "Super U.M.D. Move ANIMATION", "en": "Super U.M.D. Move ANIMATION", "ja": "メガデスムーブ"}
+{"sec": 5, "key": "Super Ultra Mega Death Move", "en": "Super Ultra Mega Death Move", "ja": "スーパーウルトラメガデスムーブ"}
+{"sec": 5, "key": "Guardian of Alola ANIMATION", "en": "Guardian of Alola ANIMATION", "ja": "ガーディアン"}

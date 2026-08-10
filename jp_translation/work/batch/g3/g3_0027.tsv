@@ -1,0 +1,350 @@
+map_0573#31		I can't get rescued before then.
+map_0573#32		And here you are tryin' to rescue me. What gives?
+map_0573#33		Well, you know why I'm telling you all this, right?
+map_0573#34		Obviously, I can't let you leave now.
+map_0573#35	Eustace	Wha-- Adults ruin everything!
+map_0573#36		EUSTACE: Uggh!
+map_0573#37		Stupid adults, always trying to get in the way!
+map_0573#38		But you never do anything to actually help!
+map_0573#39		I quit!
+map_0573#40		The operation's blown anyway.
+map_0573#41		EUSTACE: You're fired.
+map_0573#42		EUSTACE: You're fired too.
+map_0573#43		EUSTACE: I can't fire you, but if I could, you better believe you'd be fired.
+map_0573#44		Anyway, I'm going home.
+map_0574#1		Locked.
+map_0577#0		A Pokémon is hidden deeper in the cupboard.
+map_0577#1		It's softly crying, as if it's sick.
+map_0577#2		Use an Antidote on it?
+map_0577#3		\PN used the Antidote.
+map_0577#4		Give it a Pecha Berry?
+map_0577#5		The Pokémon ate the Pecha Berry.
+map_0577#6		Use a Heal Powder on it?
+map_0577#7		\PN used the Heal Powder.
+map_0577#8		Give it a Peppermint?
+map_0577#9		The Pokémon ate the Peppermint.
+map_0577#10		Give it a Lum Berry?
+map_0577#11		The Pokémon ate the Lum Berry.
+map_0577#12		Use a Full Heal on it?
+map_0577#13		\PN used the Full Heal.
+map_0577#14		Use a Full Restore on it?
+map_0577#15		\PN used the Full Restore.
+map_0577#16		The Pokémon was cured of its poisoning!
+map_0577#17		MUDKIP: Mudkip!
+map_0577#18		The Pokémon perked up. It seems to want to go with you.
+map_0577#19		Take Mudkip with you?
+map_0577#20		MUDKIP: ...Kip!!!
+map_0577#21		MUDKIP: Mud...
+map_0577#22		Mudkip quietly crawled back into its home.
+map_0577#23		It doesn't seem to want to move.
+map_0577#24		MUDKIP: Mud...kip?
+map_0577#25		Do you want to take Mudkip with you?
+map_0577#26		MUDKIP: ...kip.
+map_0577#27		Yes
+map_0577#28		No
+map_0580#0		This match's field will be...
+map_0580#1		\v[1]!
+map_0580#2		\v[574]
+map_0580#3		Thanks for playing. Let me heal your party.
+map_0580#4		Battle number \v[776] is next. Are you ready?\ch[564,0,Go on,Rest,Retire]
+map_0580#5		Are you sure you want to quit your challenge?
+map_0580#6		Would you like to save the game and continue later?
+map_0580#7		Your game has been saved.
+map_0580#8		Yes
+map_0580#9		No
+map_0585#0		I hear the city is making plans to take another shot at cleaning the Wasteland.
+map_0585#1		Impossible, I would say.
+map_0585#2		But I would have said the same for this city itself. 
+map_0585#3		There may be hope yet.
+map_0585#4		Salon de Glamazonia
+map_0585#5		Well, can't say I ever imagined living in a place like this. 
+map_0585#6		Gotta say it's almost too good to be true. 
+map_0585#7		> - Lilycove Street\n^ - 10th Street
+map_0585#8		> - Jubilife Street\n^v - 10th Street
+map_0585#9		???: Excuse me! Do you have a moment to spare for the sake of this beautiful planet?
+map_0585#10		???: Thank you for caring about the world we live in!
+map_0585#11		The truth is, despite every single one of us being dependent on this planet, many people just don't give it the time of day!
+map_0585#12		Reborn has definitely come a long way, but the thoughtlessness that led to its decline before is still alive and well!
+map_0585#13		Every day the environment is harmed further, many innocent and sweet Pokémon are losing their homes!
+map_0585#14		Did you know that every year over 10,000 Wingull are caught in landfills that aren't properly contained?
+map_0585#15		And every MONTH there are thousands of Water Pokémon in seas all across the world dying because of underwater pollution?
+map_0585#16		My goal is to change that!
+map_0585#17		Your support can go a long way to making tomorrow a little brighter! 
+map_0585#18		So, would you be willing to sign this petition to make the city board acknowledge the still-lingering threat of environmental detractors in Reborn?
+map_0585#19		... Is what I'd like to say, but...
+map_0585#20		The truth is, we already got plenty of signatures during the restoration,
+map_0585#21		But the city still hasn't acted appropriately in response.
+map_0585#22		And now, everyone's so caught up in how great the city looks now that they're forgetting everything that's slipping through the cracks!
+map_0585#23		To be honest, I'm getting kind of desperate here...
+map_0585#24		Ummm, hey?
+map_0585#25		I'm thinking about taking matters into my own hands...
+map_0585#26		Would you be willing to back me up? 
+map_0585#27		???: Really? 
+map_0585#28		Mm... Okay, we can do this!
+map_0585#29		Let's fight for the planet!
+map_0585#30		By the way, my name's Sandy! And you are...?
+map_0585#31		\PN? It's a pleasure to meet you!
+map_0585#32		So, let's talk about our first mission...
+map_0585#33		This restoration has been a huge improvement for the region overall, but there's one part of Reborn that's suffering as a result...
+map_0585#34		Malchous Forest!
+map_0585#35		The deforestation of Malchous has been causing more and more Pokémon to lose their precious homes...
+map_0585#36		I just can't stand by while that happens!
+map_0585#37		Meet me at Malchous Forest Park and let's put a stop to it!
+map_0585#38		Oh, that's okay, I understand.
+map_0585#39		This could get messy anyway...
+map_0585#40		???: O-oh.
+map_0585#41		Um, all right. Have a nice day, I guess!
+map_0585#42		???: Oh, hi again...
+map_0585#43		I don't suppose... you changed your mind about helping me?
+map_0585#44		Meet me at Malchous Forest and let's put a stop to it!
+map_0585#45		SANDY: Oh, it's you!
+map_0585#46		Remember me?
+map_0585#47		Hey, actually, do you have a moment?
+map_0585#48		I'd like to talk to you about some very serious matters regarding the future of this beautiful planet!
+map_0585#49		SANDY: Thank you for caring about the world we live in!
+map_0585#50		SANDY: Really? 
+map_0585#51		SANDY: O-oh.
+map_0585#52		SANDY: Oh, hi again...
+map_0585#53		Yes
+map_0585#54		No
+map_0586#0		\PN obtained Field Effect Read-Out 08!
+map_0586#1		Info on Swamp Field now available!
+map_0586#2		Huh? Could it be that you've already finished?
+map_0586#3		Oh, thank heavens.
+map_0586#4		I'm surprised you were able to deal with Amoongus of that level--
+map_0586#5		Uh! Not that I thought I was putting you into any risk or anything. 
+map_0586#6		Regardless! Why don't you take this for your trouble?
+map_0586#7		Hopefully it can keep you safe during your travels.
+map_0586#8		I think there's about \v[0062] left.
+map_0586#9		Geez, no matter how many of these Foongus we clear out, they just keep coming back...
+map_0586#10		Their prevalance is choking out other species. 
+map_0586#11		If you don't mind clearing all of the ones you see around here, I'd appreciate it.
+map_0586#12		Happy travels, kind stranger. If you're ever in the area, drop by the Azurine Center!
+map_0586#13		The wild Heracross and Pinsir we worked on in the Aventurine Nature Center seem to get along much better here than in those woods.
+map_0586#14		Maybe it's because they don't have to compete over the honey?
+map_0586#15		Awh, lord, I'm really in a jam.
+map_0586#16		I'm one 'Mon shy on my reintroduction quota for the term.
+map_0586#17		Say, do you happen to have a Carnivine?
+map_0586#18		If you could shore me up, I'd be much obliged.
+map_0586#19		I have a spare Egg I could give you in return.
+map_0586#20		We were going to reintroduce that species to Reborn, but our program schedule was changed when this place opened, so now it's extraneous.
+map_0586#21		Ah, Trainer, you wouldn't happen to have a Carnivine, would you?
+map_0586#22		Ah, it was worth a shot.
+map_0586#23		You got one?!
+map_0586#24		Oh, this is such a relief. Thank you very much. 
+map_0586#25		Here.
+map_0586#26		\PN traded Carnivine for an egg!
+map_0586#27		Great! You really saved my neck!
+map_0586#28		Stay safe, Trainer.
+map_0586#29		Welcome, friend.
+map_0586#30		You're a Trainer, are you not?
+map_0586#31		Could I interest you in taking this Pokémon off of our hands?
+map_0586#32		We found this Chikorita locked in the basement of the old building when we started making plans to rebuild.
+map_0586#33		The poor thing showed signs of some past abuse, so I want to make sure it goes to a good Trainer.
+map_0586#34		We would keep it here, but it seems to be frightened of many of the other Pokémon we work with.
+map_0586#35		Would you be willing to look after it?
+map_0586#36		Wonderful. That's a relief.
+map_0586#37		Please take good care of Chikorita.
+map_0586#38		I see. That's too bad.
+map_0586#39		No problem though. I'm sure someone will come by for it eventually.
+map_0586#40		Yes
+map_0586#41		No
+map_0587#0		Welcome to the South Obsidia Low Income Community Estate-- or SOLICE for short.
+map_0587#1		Here we offer high-quality but low-cost studio and one-bedroom rental spaces in return for a weekly volunteer schedule.
+map_0587#2		Everyone deserves SOLICE in their time of need, and now they can have it in return for volunteer time in helping either us or the community.
+map_0587#3		I beg your pardon though, you seem familiar.
+map_0587#4		Oh! You're the person who laid down the funding to finish this place, aren't you?
+map_0587#5		It's an honor to meet you! 
+map_0587#6		I'll tell you what, when the folks at the Grand Hall told me one person had donated the entire rest of our goal's cost, I was pretty floored.
+map_0587#7		But this has been a passion project for me for years, you know?
+map_0587#8		I just never thought it would be possible!
+map_0587#9		From the bottom of my heart, thank you. 
+map_0587#10		I'm sure all of our clients feel the same way.
+map_0587#11		I do wish I could repay you, but I'm afraid I don't really have much time or funding to offer since I put it all into this place.
+map_0587#12		Ahh, this may not be worth anything, but I suppose you have a better chance of determining that than I do.
+map_0587#13		One of the residents turned in this key. They said they found it somewhere, but it doesn't belong to us.
+map_0587#14		On the chance that it leads somewhere nice, I hope you can make some use of it.
+map_0587#15		From the bottom of my heart, thank you. I'm sure all of our clients feel the same way.
+map_0587#16		If there's anything I can do for you, don't hesitate to let me know-- though I can hardly imagine you'd be in need of housing.
+map_0587#17		Though I can hardly expect you to do any more for us than you already have--
+map_0587#18		We do have positions open!
+map_0587#19		I would not be surprised if someone as generous as yourself were interested in looking at a service position, or had connections with others who are.
+map_0587#20		But feel free to take an application if you think you might be interested. 
+map_0587#21		Hello there. If you'd like to get enrolled in our program, you can speak to the boss to my left.
+map_0587#22		Otherwise I can log your volunteer hours here, check you in, or handle any other requests you might have.
+map_0587#23		Tell you what, job hunting the old fashioned way just doesn't cut it anymore, huh?
+map_0587#24		Most places put their applications online only, but if we need a job, how they expect us to have a computer?
+map_0587#25		Well I guess that's what this place is for now.
+map_0587#26		Shoot, it's been years since I got any kind of real work, but this volunteer stuff is tiring.
+map_0587#27		They keep workin' us with the city to fix up stuff for restoration and that's cool and all, but brother, if I have to fetch one more load of bricks...
+map_0587#28		...Well I dunno, but I ain't gonna be happy.
+map_0587#29		KID: Ohh shit, you're--
+map_0587#30		Ah, nothin'. I wasn't talking to you, go away!
+map_0587#31		'Less you wanna throw down.
+map_0587#32		I ain't afraid to smack a bitch. 
+map_0587#33		You gonna scoot?
+map_0587#34	Kai	Nawwh!
+map_0587#35		KID: Awwwh, shit. I shouldn'ta said anything to begin with.
+map_0587#36		I recognized you as the one that got scammed of that rare Pokémon back in the Grand Hall a while back.
+map_0587#37		I figured, it ain't stealing if it's already stolen, so I spun a trick and made off with that rare Pokémon myself.
+map_0587#38		Bought a week's worth of food from sellin' it to some gang member up in North Obsidia though. Gangs up there pay good cuz they take from Lapis.
+map_0587#39		Don't you hate. I turned over a new leaf since then, but we do what we do to get by, you know what I mean?
+map_0587#40		Anyway, Pokémon's not on me anymore, sorry mate!
+map_0587#41		KID: I recognized you as the guy that got gypped that rare Pokémon back in the Grand Hall a while back.
+map_0587#42		A stack of job applications for SOLICE sits on the counter.
+map_0587#43		Take one?
+map_0587#44		No
+map_0587#45		Yes
+map_0588#0		ADRIENN: You're early.
+map_0588#1		TAKA: Not early enough, apparently.
+map_0588#2		I was hoping not to keep you waiting.
+map_0588#3		ADRIENN: I had other business.
+map_0588#4		ADRIENN: Adrienn Flores.
+map_0588#5		Despite my best efforts, I've done a woefully incomplete job of meeting each of the members of my community since this reconstruction got underway.
+map_0588#6		I've seen you in the Nightclub, but missed the chance to make your acquaintance properly.
+map_0588#7		Nevertheless, I understand you've been a good friend to \PN. 
+map_0588#8		Thank you for that.
+map_0588#9		TAKA: I've missed too many opportunities for that and many other things myself.
+map_0588#10		Don't worry about it on my behalf.
+map_0588#11		But I'm glad \PN could introduce us now.
+map_0588#12		Did you already hear my proposal?
+map_0588#13		ADRIENN: Not the details.
+map_0588#14		ADRIENN: A cultural center, was it?
+map_0588#15		TAKA: That's right.
+map_0588#16		My father felt quite strongly about preserving the history and origin of the region.
+map_0588#17		He was prepared to fight until his last breath for it-- and he most certainly did.
+map_0588#18		I still have quite a few feelings about not having been able to do more to stop that, but...
+map_0588#19		I realize now that he had the wrong idea from the outset.
+map_0588#20		Instead of struggling against progress, we should be guiding the people and teaching them how to grow and respect everyone on this land.
+map_0588#21		ADRIENN: Well, I have to say, I certainly much prefer your approach to your father's.
+map_0588#22		TAKA: I'm starting to see how he was as much a hurt child as anyone else.
+map_0588#23		Elias has told me a lot about my grandfather recently.
+map_0588#24		He said that to lead is to walk with kindness and strength, hand in hand.
+map_0588#25		I think this is what our family was always supposed to do.
+map_0588#26		My father just got too caught up in his own pain, and lost the plot for it.
+map_0588#27		It's my responsibility to set us on the right path again.
+map_0588#28		ADRIENN: Well, aside from the family legacy aspect, I'd say that's basically most of my opinions on the matter in a nutshell.
+map_0588#29		Kindness and strength, hand in hand...
+map_0588#30		ADRIENN: I'd like to make that motto the core of this cultural center of yours.
+map_0588#31		TAKA: Oh, so... 
+map_0588#32		You would approve it, then?
+map_0588#33		ADRIENN: If there were any doubt about that before, there isn't now.
+map_0588#34		We're getting some deals going in other regions that can probably sustain the costs.
+map_0588#35		The only concern is the space...
+map_0588#36		TAKA: I don't think that'll be an issue.
+map_0588#37		Actually, that's why I asked to meet you here.
+map_0588#38		ADRIENN: ...Here?
+map_0588#39		TAKA: I'm sure you know what the Grand Stairway is above.
+map_0588#40		I think we can build up from there.
+map_0588#41		This and the Grand Gate take up a needlessly large space.
+map_0588#42		The lower floors can be for preservation of the ruin, the middle can be an open terrace traffic-way for access to Route 1,
+map_0588#43		And community facilities for recreation and education can be in the upper floors.
+map_0588#44		ADRIENN: It sounds like you've gotten quite the jump on this.
+map_0588#45		...And what would you say if I offered you a position leading and directly managing its development?
+map_0588#46		TAKA: I'd say that would be very kind of you.
+map_0588#47		ADRIENN: One's kindness; another's strength.
+map_0589#0		Is it coincidence that just after the Gates open, this city began to restore itself?
+map_0589#1		Energy must not be allowed to stagnate. If you stay in motion, you will be well.
+map_0590#0		Would you like to purchase a ticket? \ch[321,-1,Grandview Station,Goldenrod Station,Sunset Station,Heatherhill Station,Peony Station,Kingsbury Station,Shantyport Station]
+map_0590#1		'Sup. It's nice for me to be able to easily visit my sister now.
+map_0590#2		Er, not that she wasn't worth the trip before.
+map_0590#3		Aside from when everyone is coming to or leaving school, I really like hanging out down here. It's so temperate compared to the upper floors!
+map_0590#4		Tch, I gotta finish this work before I go home... I'm gonna miss my train at this rate.
+map_0590#5		I ain't touchin' those stinkin' city shelters.
+map_0590#6		They're probably full up anyway. But I'll tell you what.
+map_0590#7		The seats on these shuttles are somethin' comfy! I'll live there!
+map_0590#8		LUMI: \PN, you waited for me!
+map_0590#9		LUMI: Thanks for coming to pick me up!
+map_0590#10		Sorry it took so long--
+map_0590#11		I stayed after to ask the teacher a question, and then I made friends with a kid named Princerella-- 
+map_0590#12		Which, like, WOW, just saying--
+map_0590#13		So they and I are gonna eat lunch together tomorrow!
+map_0590#14		Anyway, Eve had a sudden emergency at the clinic, 
+map_0590#15		And sometimes Noel comes by but he had another challenger.
+map_0590#16		And I know I COULD walk home on my own, but that's no fun.
+map_0590#17		I was gonna invite Princerella with us too but they said their mom is really picky about when they get back.
+map_0590#18		I know it's annoying, but that doesn't sound so bad to me.
+map_0590#19		Actually, I think a lot of the other students take going here for granted?
+map_0590#20		Like not just because it's a good school, but it seems like everyone can't wait for their classes to end.
+map_0590#21		And I know it might just be because it's novel, but I think it's fun to learn in a group and always have someone to work on things with!
+map_0590#22		I'm really, really glad I could enroll here!
+map_0590#23		Would you thank Ms. Florinia for pulling the strings for me again?
+map_0590#24		Actually, I'll just write her a thank you note myself!
+map_0590#25		LUMI: Oh, looks like it's time to go!
+map_0590#26		LUMI: I've got an essay to write when we get home already,
+map_0590#27		And I gotta say, taking it for granted or not, I'm not sold on the whole 'homework' thing.
+map_0590#28		LUMI: It's okay though, I'll get through it!
+map_0590#29		As soon as I get home, I'm gonna go all 'chill beats to study to' on it!
+map_0591#0		"Ticket Purchase- Regions outside of Reborn City:
+map_0591#1		All tickets currently sold out.
+map_0591#2		Please check back later."
+map_0591#3		Promotional user authorized. 
+map_0591#4		Limited access available to: Tourmaline Station
+map_0591#5		Would you like to purchase a ticket?"
+map_0591#6		Employees only beyond this area, please.
+map_0591#7		Hey there.
+map_0591#8		If you've never ridden with us before, perhaps you've never seen the Grandview Station in action.
+map_0591#9		It may not look like much in rest like this, but each of these platforms behind me is a marvel of engineering. 
+map_0591#10		A dozen more are stored below us, each of them able to rotate and shift aside to make room for as many vehicles as we might need to store.
+map_0591#11		When it's time for departure, the proper platform rotates out to the exit gate.
+map_0591#12		And when a train comes in and everyone disembarks, it can be kept here or below without any hassle at all!
+map_0591#13		In this way, the Grandview Station is able to maintain a high-capacity transportation network with just a fraction of the space of other regions' stations.
+map_0591#14		"Ticket Purchase within Reborn City:
+map_0591#15		Currently unavailable.
+map_0591#16		"Ticket Purchase within Reborn City"
+map_0591#17		Would you like to purchase a ticket? \ch[321,-1,Goldenrod Station,Ivyline Station,Sunset Station,Heatherhill Station,Peony Station,Kingsbury Station,Shantyport Station]
+map_0591#18		Hello!
+map_0591#19		You see this beauty here?
+map_0591#20		This is the first in a line of new trains we'll be rolling out across the city once we just secure the remaining funds for it.
+map_0591#21		The long-awaited 9R000 series...
+map_0591#22		These babies are clean, lightning fast, and will take everyone to stations all across Reborn City faster than they can say 'modern locomotives!'
+map_0591#23		Look forward to it soon!
+map_0591#24		It's about time this place got back underway!
+map_0591#25		Now that it's an option again, you can bet I'll be traveling all over the place.
+map_0591#26		I got a bucket list to finish, you know!
+map_0591#27		Hrmm...
+map_0591#28		Perhaps it's because we've only recently opened, but there's hardly any trains scheduled to come in.
+map_0591#29		Now that this place is restored, I just have to hope that my son will come back to me.
+map_0591#30		I like trains! 
+map_0591#31		I wanna ride on one!
+map_0591#32		I wanna ride on two! 
+map_0591#33		At the same time!
+map_0591#34		Goodness, I seem to have dropped my ticket. Can't be late!
+map_0591#35		Zzz...
+map_0591#36		7:15 to Goldenrod. 7:25 to Peony. Tuesday. 7:25 to Ivyline.
+map_0591#37		Wednesday. 7:25 to Shantyport. 7:30 to Heatherhill.  7:40 to Goldenrod.
+map_0591#38		Monday. 7:45 to Kingsbury. Tuesday. 7:45 to Ivyline.  Wednesday. 7:25 to Sunset. Click.
+map_0591#39		Hello! I'm with Reborn Construction Company!
+map_0591#40		After just completing our last major product, in the revitalized Railnet, we're raring to hire up and take on even grander designs!
+map_0591#41		If you or anyone you know is looking for a hands-on career to shape the future of this city, please apply!
+map_0591#42		ADRIENN: \PN! My favorite champion!
+map_0591#43		I'm grateful you could make it, and you're just in time.
+map_0591#44		I was just discussing the particulars with the chief here.
+map_0591#45		CHIEF: Allow me to summarize once more.
+map_0591#46		Two of your compatriots recently unearthed a couple of unique artifacts.
+map_0591#47		But not too unique-- they were recognized:
+map_0591#48		The Red Orb and Blue Orb.
+map_0591#49		We're aware of what happened in Hoenn with these items...
+map_0591#50		And I think I speak for everyone when I say that Reborn has had enough of world-ending disaster!
+map_0591#51		We've put all that behind us!
+map_0591#52		ADRIENN: At least, I dearly hope so...
+map_0591#53		CHIEF: We want none of it!
+map_0591#54		So I've taken the liberty of contacting some foreign experts, and we've arranged to have the orbs safely contained elsewhere.
+map_0591#55		All that's left is to ship them there.
+map_0591#56		ADRIENN: That's where you come in.
+map_0591#57		We think the shipment's been compromised.
+map_0591#58		Some information regarding it was leaked, and--
+map_0591#59		In short, it's almost certain someone is trying to steal the orbs already.
+map_0591#60		We'd like you to take the train ride abroad and make sure the orbs reach their destination safely.
+map_0591#61		CHIEF: With a champion as beautiful and powerful as you, I'm sure no one will dare try anything!
+map_0591#62		With the champion on board, no one will dare try anything!
+map_0591#63		ADRIENN: I know playing security isn't exactly the most glamorous, but I don't think anyone wants to risk an incident with, say, Azurine Lake drying up or something...
+map_0591#64		With any luck, it'll be an uneventful trip there and back.
+map_0591#65		You could even think of it as a vacation!
+map_0591#66		CHIEF: I hate to rush, but I believe we are short on time...
+map_0591#67		ADRIENN: Right-- since the original shipment was compromised, the Chief arranged to sneak it on board a passenger train early.
+map_0591#68		CHIEF: Our hope is that the change in operation will be inconspicuous enough to escape the notice of whomever the information was leaked to.
+map_0591#69		And by the time they find out-- too late!
+map_0591#70		ADRIENN: Your ticket and boarding is already arranged as well.
+map_0591#71		The Chief will be going with you as well-- he'll show you to the storage car and keep an eye on the passengers during the mission.
+map_0591#72		CHIEF: Yes, yes!

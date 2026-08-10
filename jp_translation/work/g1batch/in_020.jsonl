@@ -1,0 +1,573 @@
+{"id": 10532, "m": "map_0245", "en": "Zel: We can't do anything at all if we can't even get close enough to deactivate the machine without the stupid thing jumping us away!"}
+{"id": 10533, "m": "map_0245", "en": "Zel: I don't need your sass, Abra!"}
+{"id": 10534, "m": "map_0245", "en": "zEl: \\PN, you wish to spare the people of Spinel Town the chaos caused by this untamed teleportational energy, correct?"}
+{"id": 10535, "m": "map_0245", "en": "Zel: Good idea."}
+{"id": 10536, "m": "map_0245", "en": "Let's just let \\PN deal with it! "}
+{"id": 10537, "m": "map_0245", "en": "Go ahead, take the little bugger out!"}
+{"id": 10538, "m": "map_0245", "en": "It'll work out for all of us with how ANNOYING it is--"}
+{"id": 10539, "m": "map_0245", "en": "SIGMUND: ...ZEL?"}
+{"id": 10540, "m": "map_0245", "en": "Zel: OKAY, that's enough! "}
+{"id": 10541, "m": "map_0245", "en": "\\PN, deal with this. "}
+{"id": 10542, "m": "map_0245", "en": "We aren't gonna stop you, just take down this thing and you can put the chaos in Chrysolia to rest!"}
+{"id": 10543, "m": "map_0245", "en": "SIGMUND: That seems to be a relief. "}
+{"id": 10544, "m": "map_0245", "en": "So, Eve, will the nearby regions return to normal now or is the damage permanent?"}
+{"id": 10545, "m": "map_0245", "en": "zEl: Any objects that have been moved by Abra's energy previously will remain where they are."}
+{"id": 10546, "m": "map_0245", "en": "And further, there are likely some objects that will still move, already having been imbued with unstable psychic energy."}
+{"id": 10547, "m": "map_0245", "en": "However, no more instances of such things will be created. "}
+{"id": 10548, "m": "map_0245", "en": "Slowly, Chrysolia will calm itself. "}
+{"id": 10549, "m": "map_0245", "en": "SIRIUS: Lin has just arrived. "}
+{"id": 10550, "m": "map_0245", "en": "...\\PN is back already?"}
+{"id": 10551, "m": "map_0245", "en": "zeL: Um... yes. "}
+{"id": 10552, "m": "map_0245", "en": "And they helped us subdue Abra, so..."}
+{"id": 10553, "m": "map_0245", "en": "SIRIUS: \"Subdue\"--"}
+{"id": 10554, "m": "map_0245", "en": "You terminated her project?"}
+{"id": 10555, "m": "map_0245", "en": "zEl: It was unresponsive to all methods of control."}
+{"id": 10556, "m": "map_0245", "en": "SIRIUS: ..."}
+{"id": 10557, "m": "map_0245", "en": "Right."}
+{"id": 10558, "m": "map_0245", "en": "Then \\PN will simply have to take the fall."}
+{"id": 10559, "m": "map_0245", "en": "You did not authorize this, or it will be your head. "}
+{"id": 10560, "m": "map_0245", "en": "Understood?"}
+{"id": 10561, "m": "map_0245", "en": "LIN: Report."}
+{"id": 10562, "m": "map_0245", "en": "SIRIUS: We experimented with using the PULSE to amplify Abra's powers to teleport a party into the heart of the ruin."}
+{"id": 10563, "m": "map_0245", "en": "SIRIUS: However, \\PN interfered and forcibly terminated the project before it could be controlled."}
+{"id": 10564, "m": "map_0245", "en": "We were just about to dispose of him."}
+{"id": 10565, "m": "map_0245", "en": "We were just about to dispose of her."}
+{"id": 10566, "m": "map_0245", "en": "We were just about to dispose of them."}
+{"id": 10567, "m": "map_0245", "en": "LIN: And what of the other creature lurking in the back?"}
+{"id": 10568, "m": "map_0245", "en": "SIGMUND: Ahem. Excuse me for the tardy introduction."}
+{"id": 10569, "m": "map_0245", "en": "My name is Dr. Sigmund Connal, resident psychiatrist to Reborn City and proud administrator of the city Orphanage."}
+{"id": 10570, "m": "map_0245", "en": "SIRIUS: Dr. Connal has been a great asset to us. "}
+{"id": 10571, "m": "map_0245", "en": "With his help, we have now obtained two of the four keys-- Ruby and Amethyst."}
+{"id": 10572, "m": "map_0245", "en": "SIGMUND: Forgive me for asking, but have we, somehow, met before?"}
+{"id": 10573, "m": "map_0245", "en": "LIN: Impossible."}
+{"id": 10574, "m": "map_0245", "en": "SIGMUND: Y-yes."}
+{"id": 10575, "m": "map_0245", "en": "SIRIUS: As for the other keys, Solaris has a lead on Sapphire, and the Emerald--"}
+{"id": 10576, "m": "map_0245", "en": "LIN: Go on."}
+{"id": 10577, "m": "map_0245", "en": "SIRIUS: There is... no particular news about the Emerald Brooch."}
+{"id": 10578, "m": "map_0245", "en": "LIN: Lying becomes you, Sirius. "}
+{"id": 10579, "m": "map_0245", "en": "SIRIUS: I beg your pardon?"}
+{"id": 10580, "m": "map_0245", "en": "You may have received no shortage of praise from Solaris, but do not assume you can talk down to me."}
+{"id": 10581, "m": "map_0245", "en": "I still have seniority, and I will have your res--"}
+{"id": 10582, "m": "map_0245", "en": "LIN: Know your place,"}
+{"id": 10583, "m": "map_0245", "en": "Sirius,"}
+{"id": 10584, "m": "map_0245", "en": "Or has it not already made itself known to you?"}
+{"id": 10585, "m": "map_0245", "en": "What more will you lose before you learn it?"}
+{"id": 10586, "m": "map_0245", "en": "SIRIUS: ...You."}
+{"id": 10587, "m": "map_0245", "en": "You set up that fake Emerald Brooch!"}
+{"id": 10588, "m": "map_0245", "en": "LIN: A bold accusation."}
+{"id": 10589, "m": "map_0245", "en": "Can you provide any evidence? "}
+{"id": 10590, "m": "map_0245", "en": "SIRIUS: As the one who rigged it to explode, you already know the answer to that!"}
+{"id": 10591, "m": "map_0245", "en": "Do you know all that was lost up there?!"}
+{"id": 10592, "m": "map_0245", "en": "LIN: Can you not create a more professional outlet to vent your frustration at your own failures?"}
+{"id": 10593, "m": "map_0245", "en": "To turn on your fellow commander..."}
+{"id": 10594, "m": "map_0245", "en": "I fear it will call into question your loyalty."}
+{"id": 10595, "m": "map_0245", "en": "SIRIUS: MY loyalty?!"}
+{"id": 10596, "m": "map_0245", "en": "LIN: Your competence as well."}
+{"id": 10597, "m": "map_0245", "en": "An astute leader like yourself should have the common sense to know when to fight,"}
+{"id": 10598, "m": "map_0245", "en": "When to stay quiet,"}
+{"id": 10599, "m": "map_0245", "en": "And when to bend the knee."}
+{"id": 10600, "m": "map_0245", "en": "GRUNT: Commander! "}
+{"id": 10601, "m": "map_0245", "en": "A giant Steelix has just breached the side of the base!"}
+{"id": 10602, "m": "map_0245", "en": "It's tearing it apart!"}
+{"id": 10603, "m": "map_0245", "en": "It bit right through the holding cells!"}
+{"id": 10604, "m": "map_0245", "en": "SIRIUS: A what?"}
+{"id": 10605, "m": "map_0245", "en": "LIN: You wouldn't happen to know anything about this, would you, \\PN?"}
+{"id": 10606, "m": "map_0245", "en": "LIN: Size does not equate to strength. "}
+{"id": 10607, "m": "map_0245", "en": "I'll deal with it."}
+{"id": 10608, "m": "map_0245", "en": "SIRIUS: \\PN."}
+{"id": 10609, "m": "map_0245", "en": "NOW."}
+{"id": 10610, "m": "map_0245", "en": "This will be your only chance."}
+{"id": 10611, "m": "map_0245", "en": "SIRIUS: Go."}
+{"id": 10612, "m": "map_0245", "en": "I will not afford you the chance to be told twice."}
+{"id": 10613, "m": "map_0245", "en": "zeL: Good luck, \\PN..."}
+{"id": 10614, "m": "map_0245", "en": "Zel: Lumi, \\PN is the enemy, don't wish them luck!"}
+{"id": 10615, "m": "map_0245", "en": "zeL: O-oh... Right."}
+{"id": 10616, "m": "map_0757", "en": "Please notice..."}
+{"id": 10617, "m": "map_0757", "en": "HEATHER: What are you doing, you stupid creep?! "}
+{"id": 10618, "m": "map_0757", "en": "Let go of me already!"}
+{"id": 10619, "m": "map_0757", "en": "SIGMUND: The subject lashes out with verbal and physical aggression, and refuses to listen to either instruction or reason."}
+{"id": 10620, "m": "map_0757", "en": "Let's begin an initial treatment at 100 volts."}
+{"id": 10621, "m": "map_0757", "en": "ANNA: Oh, it WAS you!"}
+{"id": 10622, "m": "map_0757", "en": "Your light shines brightest in the darkness after all!"}
+{"id": 10623, "m": "map_0757", "en": "So make sure you never, ever, ever stop shining, no matter what happens~"}
+{"id": 10624, "m": "map_0757", "en": "I know this is a little backwards, but just hang in there, okay?"}
+{"id": 10625, "m": "map_0757", "en": "She should open a path for you..."}
+{"id": 10626, "m": "map_0757", "en": "Hey, \\PN?"}
+{"id": 10627, "m": "map_0757", "en": "If two stars fall, passing like ships in the night, do you think they would wish upon each other?"}
+{"id": 10628, "m": "map_0757", "en": "If that would happen, then which wish would win?"}
+{"id": 10629, "m": "map_0757", "en": "Maybe we just have to chase them to the horizon to find out!"}
+{"id": 10630, "m": "map_0757", "en": "CAIN: Oh, geez, there you are."}
+{"id": 10631, "m": "map_0757", "en": "It's really you this time, right?"}
+{"id": 10632, "m": "map_0757", "en": "I lost you before, and I've been seeing some really weird stuff down here..."}
+{"id": 10633, "m": "map_0757", "en": "Earlier, I saw a version of you... but I think it was from the past?"}
+{"id": 10634, "m": "map_0757", "en": "You didn't seem to even see me at all."}
+{"id": 10635, "m": "map_0757", "en": "It was pretty cold."}
+{"id": 10636, "m": "map_0757", "en": "But I thought we were gonna stick together, ahaha..."}
+{"id": 10637, "m": "map_0757", "en": "Listen... I keep feeling like there's something just behind me."}
+{"id": 10638, "m": "map_0757", "en": "So really... Stay close this time, okay?"}
+{"id": 10639, "m": "map_0757", "en": "Let's go slow together."}
+{"id": 10640, "m": "map_0757", "en": "KIKI: Welcome, once more."}
+{"id": 10641, "m": "map_0757", "en": "I return as well, striking in perfect immobility, with all the fury that my soul may harbor."}
+{"id": 10642, "m": "map_0757", "en": "Because that is all I can amount to."}
+{"id": 10643, "m": "map_0757", "en": "I could be centered to dead-zero and I will still end up--"}
+{"id": 10644, "m": "map_0757", "en": "AYA: Please stop fighting!"}
+{"id": 10645, "m": "map_0757", "en": "Please come back..."}
+{"id": 10646, "m": "map_0757", "en": "I'll clean my room and won't complain anymore--"}
+{"id": 10647, "m": "map_0757", "en": "I'll do anything I need to, just... Please..."}
+{"id": 10648, "m": "map_0757", "en": "Love each other again?"}
+{"id": 10649, "m": "map_0757", "en": "AYA: So you finally left too, huh."}
+{"id": 10650, "m": "map_0757", "en": "Tch."}
+{"id": 10651, "m": "map_0757", "en": "I know I'm a toxic person, but you could at least say \"bye\" first."}
+{"id": 10652, "m": "map_0757", "en": "But I guess that's just what I deserve."}
+{"id": 10653, "m": "map_0757", "en": "CAIN: Oh... It really is just you, isn't it..."}
+{"id": 10654, "m": "map_0757", "en": "This place is running me a bit ragged... "}
+{"id": 10655, "m": "map_0757", "en": "And not in the good way."}
+{"id": 10656, "m": "map_0757", "en": "If I keep seeing things about you, probably you've seen some things about me too."}
+{"id": 10657, "m": "map_0757", "en": "To be honest, I'd rather just forget about most of that stuff."}
+{"id": 10658, "m": "map_0757", "en": "Well, obviously that's why I ran, ahah..."}
+{"id": 10659, "m": "map_0757", "en": "But then, the only place I ever ran was in circles."}
+{"id": 10660, "m": "map_0757", "en": "I guess it's hard to do anything else when you don't know where to go."}
+{"id": 10661, "m": "map_0757", "en": "Do you know what you want to do in the future?"}
+{"id": 10662, "m": "map_0757", "en": "Like, after this is all over?"}
+{"id": 10663, "m": "map_0757", "en": "CAIN: Yeah~? I'm not too surprised."}
+{"id": 10664, "m": "map_0757", "en": "CAIN: Then I guess we're made for each other after all~"}
+{"id": 10665, "m": "map_0757", "en": "So many people seem like they're just cut out and set on whatever it is they want to do, but I never was like that."}
+{"id": 10666, "m": "map_0757", "en": "Ahaha, I can barely settle on a romantic partner. "}
+{"id": 10667, "m": "map_0757", "en": "Even with how much I joke and flirt about that stuff,"}
+{"id": 10668, "m": "map_0757", "en": "It's just a way of keeping myself safe from commitments and disappointment, "}
+{"id": 10669, "m": "map_0757", "en": "If those are even any different."}
+{"id": 10670, "m": "map_0757", "en": "Who knows~"}
+{"id": 10671, "m": "map_0757", "en": "Maybe one day I could find somewhere I actually can feel like I belong."}
+{"id": 10672, "m": "map_0757", "en": "Place or person-- either way."}
+{"id": 10673, "m": "map_0757", "en": "But I've gotten around enough to know that I'm the problem-- not them."}
+{"id": 10674, "m": "map_0757", "en": "Even if they do nothing wrong, I still never feel like I can stay."}
+{"id": 10675, "m": "map_0757", "en": "But hey, everyone's a little bit broken, right?"}
+{"id": 10676, "m": "map_0757", "en": "And some pieces just don't fit together."}
+{"id": 10677, "m": "map_0757", "en": "No matter how much lotion... "}
+{"id": 10678, "m": "map_0757", "en": "Well, never mind!"}
+{"id": 10679, "m": "map_0757", "en": "You can go on ahead this time."}
+{"id": 10680, "m": "map_0757", "en": "Sticking together never works out anyway."}
+{"id": 10681, "m": "map_0757", "en": "And maybe, just this time, I'll stop running."}
+{"id": 10682, "m": "map_0757", "en": "CAIN: I think I've got some thinking to do..."}
+{"id": 10683, "m": "map_0757", "en": "But don't be afraid to call me up later~"}
+{"id": 10684, "m": "map_0757", "en": "SIGMUND: We meet again. "}
+{"id": 10685, "m": "map_0757", "en": "I have no intention of extending to you the same mercy as when last we met. "}
+{"id": 10686, "m": "map_0757", "en": "I am here to reclaim what has been stolen from me. "}
+{"id": 10687, "m": "map_0757", "en": "Lizzy, Lizzy..."}
+{"id": 10688, "m": "map_0757", "en": "I will do what must be done for your sake."}
+{"id": 10689, "m": "map_0757", "en": "SIGMUND: Lizzy, Lizzy..."}
+{"id": 10690, "m": "map_0757", "en": "SIRIUS: Blast that feral woman!"}
+{"id": 10691, "m": "map_0757", "en": "And blast her husband twice."}
+{"id": 10692, "m": "map_0757", "en": "History cares nothing for hopeless romanticism. "}
+{"id": 10693, "m": "map_0757", "en": "He is as naive as I've been."}
+{"id": 10694, "m": "map_0757", "en": "For neither does history care for its own study."}
+{"id": 10695, "m": "map_0757", "en": "I only needed to recover the scars I carved, not earn my own."}
+{"id": 10696, "m": "map_0757", "en": "But I understand now."}
+{"id": 10697, "m": "map_0757", "en": "Reality accepts nothing less than full commitment and sacrifice."}
+{"id": 10698, "m": "map_0757", "en": "Those unwilling to choose that path have it chosen for them."}
+{"id": 10699, "m": "map_0757", "en": "Then there's only one road left to walk."}
+{"id": 10700, "m": "map_0757", "en": "Ironic."}
+{"id": 10701, "m": "map_0757", "en": "Perhaps this loss was just what I needed to gleam the way."}
+{"id": 10702, "m": "map_0757", "en": "SIRIUS: History is written by the winners."}
+{"id": 10703, "m": "map_0757", "en": "And I have written too much already."}
+{"id": 10704, "m": "map_0757", "en": "Then there is only one choice."}
+{"id": 10705, "m": "map_0757", "en": "LIN: How funny."}
+{"id": 10706, "m": "map_0757", "en": "You thought you were strong together."}
+{"id": 10707, "m": "map_0757", "en": "And here you are now."}
+{"id": 10708, "m": "map_0757", "en": "Let this be a lesson."}
+{"id": 10709, "m": "map_0757", "en": "Numbers do not help."}
+{"id": 10710, "m": "map_0757", "en": "Friends do not help."}
+{"id": 10711, "m": "map_0757", "en": "Nothing ever helps."}
+{"id": 10712, "m": "map_0757", "en": "No one ever helps."}
+{"id": 10713, "m": "map_0757", "en": "No one ever ever ever ever ever ever ever ever ever helps."}
+{"id": 10714, "m": "map_0757", "en": "???: Once upon a time, a belt of meteors swept across the universe."}
+{"id": 10715, "m": "map_0757", "en": "But one day, one of those little meteors decided she wanted to go further than any of the others ever had."}
+{"id": 10716, "m": "map_0757", "en": "So she kicked up her trail, revved up her spacedust, and off she went,"}
+{"id": 10717, "m": "map_0757", "en": "Sailing far, far away across the galaxy, "}
+{"id": 10718, "m": "map_0757", "en": "Further than all her best friends,"}
+{"id": 10719, "m": "map_0757", "en": "Further than all her loving family,"}
+{"id": 10720, "m": "map_0757", "en": "Further than any meteor had ever known it was possible to even go."}
+{"id": 10721, "m": "map_0757", "en": "And when she was very, very tired of flying so far away, she found a little planet she liked, and she thought that she would finally rest."}
+{"id": 10722, "m": "map_0757", "en": "So, the little meteor started to descend to the planet's surface."}
+{"id": 10723, "m": "map_0757", "en": "But that planet's atmosphere was so hot, and so thick,"}
+{"id": 10724, "m": "map_0757", "en": "And the little meteor was so exhausted from flying so many millions and millions of moons across space..."}
+{"id": 10725, "m": "map_0757", "en": "...That she burnt right up in the sky!"}
+{"id": 10726, "m": "map_0757", "en": "And do you know what happened?"}
+{"id": 10727, "m": "map_0757", "en": "All the people on that planet looked up, and they said, "}
+{"id": 10728, "m": "map_0757", "en": "\"Look!"}
+{"id": 10729, "m": "map_0757", "en": "A shooting star!"}
+{"id": 10730, "m": "map_0757", "en": "Let's make a wish!\""}
+{"id": 10731, "m": "map_0757", "en": "And so, everyone on that little planet, "}
+{"id": 10732, "m": "map_0757", "en": "Which had scarcely seen such a star in its life,"}
+{"id": 10733, "m": "map_0757", "en": "Wished,"}
+{"id": 10734, "m": "map_0757", "en": "And wished, and wished, and wished with all their might,"}
+{"id": 10735, "m": "map_0757", "en": "And those people smiled, and knew hope like they had never known before, and felt happy."}
+{"id": 10736, "m": "map_0757", "en": "And by the time it would have come to the surface, there was nothing of the little meteor left at all..."}
+{"id": 10737, "m": "map_0757", "en": "It had all-- poof!-- vanished!"}
+{"id": 10738, "m": "map_0757", "en": "And even though it disappeared from the world forever, do you know what that little meteor did?"}
+{"id": 10739, "m": "map_0757", "en": "It lived happily ever after,"}
+{"id": 10740, "m": "map_0757", "en": "In the joy it brought, and the hearts it touched, and the smiles it inspired in its final moments as a shooting star."}
+{"id": 10741, "m": "map_0757", "en": "So even with its last little itty bitty bit of life,"}
+{"id": 10742, "m": "map_0757", "en": "It never, ever regretted what it had done, even once."}
+{"id": 10743, "m": "map_0757", "en": "So, make sure to smile for me too, okay?"}
+{"id": 10744, "m": "map_0757", "en": "HEATHER: Do you really think you can get away with this, you dirty old man!?"}
+{"id": 10745, "m": "map_0757", "en": "SIGMUND: Ah-- she scratched me."}
+{"id": 10746, "m": "map_0757", "en": "Restrain her."}
+{"id": 10747, "m": "map_0757", "en": "And make that 110 volts instead."}
+{"id": 10748, "m": "map_0757", "en": "SIGMUND: Now, Heather, just hold still."}
+{"id": 10749, "m": "map_0757", "en": "You might feel a little shock..."}
+{"id": 10750, "m": "map_0757", "en": "KIKI: How is it FAIR that I had to be the one to go!?"}
+{"id": 10751, "m": "map_0757", "en": "How is it FAIR that my body had to be the one KILLING itself?!"}
+{"id": 10752, "m": "map_0757", "en": "I DIDN'T ASK FOR THIS."}
+{"id": 10753, "m": "map_0757", "en": "Do you think I was SATISFIED?"}
+{"id": 10754, "m": "map_0757", "en": "Do you think I didn't have DREAMS?!"}
+{"id": 10755, "m": "map_0757", "en": "Do you think I knew a SINGLE GODDAMN THING about staying CALM?!"}
+{"id": 10756, "m": "map_0757", "en": "Defeat the inner chaos?"}
+{"id": 10757, "m": "map_0757", "en": "I AM MADE OF CHAOS!"}
+{"id": 10758, "m": "map_0757", "en": "AND THERE'S NOTHING I CAN DO ABOUT THAT!"}
+{"id": 10759, "m": "map_0757", "en": "Unlike these whiny, self-absorbed children whose greatest problem is what their FUCKING HAIR looks like."}
+{"id": 10760, "m": "map_0757", "en": "They have NO idea what it's like to wake up one day and suddenly hear that despite EVERYTHING they have EVER sought to do with their life, "}
+{"id": 10761, "m": "map_0757", "en": "Despite giving themselves to others every step of the way, "}
+{"id": 10762, "m": "map_0757", "en": "Despite surviving a \"family\" that communicated mainly in drugs and violence, "}
+{"id": 10763, "m": "map_0757", "en": "Despite having climbed over all of the SHIT of life just to make ONE GODDAMN OASIS of serenity in this FUCKING BALLISTIC world,"}
+{"id": 10764, "m": "map_0757", "en": "The only reward you get is DEATH."}
+{"id": 10765, "m": "map_0757", "en": "Tear my stomach open."}
+{"id": 10766, "m": "map_0757", "en": "Pick out my intestines."}
+{"id": 10767, "m": "map_0757", "en": "Grind them into the dirt."}
+{"id": 10768, "m": "map_0757", "en": "My body would do it all on its own anyway."}
+{"id": 10769, "m": "map_0757", "en": "The only thing I ever taught was mercy."}
+{"id": 10770, "m": "map_0757", "en": "But no one could teach that to me."}
+{"id": 10771, "m": "map_0242", "en": "Oh, hello. I'm a scientist."}
+{"id": 10772, "m": "map_0242", "en": "I can turn fossils into living, breathing Pokémon!"}
+{"id": 10773, "m": "map_0242", "en": "Ah, you come again!"}
+{"id": 10774, "m": "map_0242", "en": "Let me know when you want me to revive a fossil for you."}
+{"id": 10775, "m": "map_0242", "en": "Okay. I'll see if I can revive your \\v[3]."}
+{"id": 10776, "m": "map_0242", "en": "Come back later."}
+{"id": 10777, "m": "map_0242", "en": "Aha, you're here! I've finished reviving your fossil."}
+{"id": 10778, "m": "map_0242", "en": "As I thought, it was \\v[3]!"}
+{"id": 10779, "m": "map_0242", "en": "You have no room left. Make room, then come see me."}
+{"id": 10780, "m": "map_0242", "en": "I managed to revive your fossil."}
+{"id": 10781, "m": "map_0242", "en": "However, what I brought back didn't live long..."}
+{"id": 10782, "m": "map_0242", "en": "I'm so sorry."}
+{"id": 10783, "m": "map_0242", "en": "I told you, come back later. This does take time!"}
+{"id": 10784, "m": "map_0242", "en": "This laboratory is funded by the proceeds of the Spinel Museum!"}
+{"id": 10785, "m": "map_0242", "en": "Viewers like you make our efforts possible, and as thanks, you're free to use our services!"}
+{"id": 10786, "m": "map_0242", "en": "\\GYou have no room left in the Bag."}
+{"id": 10787, "m": "map_0242", "en": "\\GVanillite dropped down!"}
+{"id": 10788, "m": "map_0242", "en": "There was no room for Vanillite..."}
+{"id": 10789, "m": "map_0242", "en": "\\GBerry Ice Cream dropped down!"}
+{"id": 10790, "m": "map_0242", "en": "Hello, stranger! Come to marvel at my collection of Bug Pokémon?"}
+{"id": 10791, "m": "map_0242", "en": "No? What a shame. "}
+{"id": 10792, "m": "map_0242", "en": "It's quite great, I assure you! "}
+{"id": 10793, "m": "map_0242", "en": "The Gym Leader Serra's son is even personally envious!"}
+{"id": 10794, "m": "map_0242", "en": "Bennett and I are great friends of course. "}
+{"id": 10795, "m": "map_0242", "en": "I copy-- er, study from his notes on Bug-types all the time."}
+{"id": 10796, "m": "map_0242", "en": "By the by, do you have a Karrablast or Shelmet?"}
+{"id": 10797, "m": "map_0242", "en": "I have plenty of both, of course, but they require a trade to evolve, and obviously I can't trade with myself. "}
+{"id": 10798, "m": "map_0242", "en": "If you have either of them, I'd be very interested in procuring their evolutions through you."}
+{"id": 10799, "m": "map_0242", "en": "I'm afraid that's not quite right."}
+{"id": 10800, "m": "map_0242", "en": "You'll do it? Sweet!"}
+{"id": 10801, "m": "map_0242", "en": "\\PN traded Karrablast for Shelmet!"}
+{"id": 10802, "m": "map_0242", "en": "Heh, one more for my collection."}
+{"id": 10803, "m": "map_0242", "en": "\\PN traded Shelmet for Karrablast!"}
+{"id": 10804, "m": "map_0242", "en": "Neither? "}
+{"id": 10805, "m": "map_0242", "en": "Well, I suppose I can't expect the same quality collection of others as I do of myself."}
+{"id": 10806, "m": "map_0242", "en": "Do you know about the Gym Leader?"}
+{"id": 10807, "m": "map_0242", "en": "Miss Serra used to be a famous model! She's so cool!"}
+{"id": 10808, "m": "map_0242", "en": "I wonder why she always seems so sad though."}
+{"id": 10809, "m": "map_0242", "en": "We're normally very lucky in Spinel Town to have a strong Gym Leader like Serra. "}
+{"id": 10810, "m": "map_0242", "en": "She's beautiful and kind, and looks out for everyone!"}
+{"id": 10811, "m": "map_0242", "en": "But I don't think even she can do anything against this chaos."}
+{"id": 10812, "m": "map_0242", "en": "It's amazing how quickly people can adapt to chaos."}
+{"id": 10813, "m": "map_0242", "en": "We used to be completely thrown off by things being out of place in this town, but now it totally feels like second nature."}
+{"id": 10814, "m": "map_0242", "en": "Serra retired to a Gym Leader position after her son was born."}
+{"id": 10815, "m": "map_0242", "en": "She didn't feel she could be a model anymore after that."}
+{"id": 10816, "m": "map_0242", "en": "Incidentally, her son is a little odd. "}
+{"id": 10817, "m": "map_0242", "en": "All he does is explore the forest or lock himself in his room all day."}
+{"id": 10818, "m": "map_0242", "en": "LADY: ...Um."}
+{"id": 10819, "m": "map_0242", "en": "All of my stuff-- I can't even..."}
+{"id": 10820, "m": "map_0242", "en": "Uh... Hey, if you happen to see any of my stuff around, mind, like, bringing it back?"}
+{"id": 10821, "m": "map_0242", "en": "I think there was... "}
+{"id": 10822, "m": "map_0242", "en": "My bed, my cabinet, the TV, two bookshelves, two chairs and the table."}
+{"id": 10823, "m": "map_0242", "en": "I would really, super duper appreciate it."}
+{"id": 10824, "m": "map_0242", "en": "I'll have Kadabra follow your energy, so if you see anything, just touch it and we'll teleport it back here. "}
+{"id": 10825, "m": "map_0242", "en": "I'm still missing..."}
+{"id": 10826, "m": "map_0242", "en": "My bed,"}
+{"id": 10827, "m": "map_0242", "en": "My cabinet,"}
+{"id": 10828, "m": "map_0242", "en": "The TV,"}
+{"id": 10829, "m": "map_0242", "en": "Two bookshelves,"}
+{"id": 10830, "m": "map_0242", "en": "One bookshelf,"}
+{"id": 10831, "m": "map_0242", "en": "Two chairs,"}
+{"id": 10832, "m": "map_0242", "en": "One chair,"}
+{"id": 10833, "m": "map_0242", "en": "The table,"}
+{"id": 10834, "m": "map_0242", "en": "...and that should be everything!"}
+{"id": 10835, "m": "map_0242", "en": "Looks like everything's back! "}
+{"id": 10836, "m": "map_0242", "en": "Well. Sort of everything."}
+{"id": 10837, "m": "map_0242", "en": "This actually isn't my cabinet."}
+{"id": 10838, "m": "map_0242", "en": "But whatever. I didn't have anything important in there anyway, and if anyone else has a problem with this, I'm sure we'll hear about it. "}
+{"id": 10839, "m": "map_0242", "en": "Also, I found this in it. "}
+{"id": 10840, "m": "map_0242", "en": "You should take it for your trouble."}
+{"id": 10841, "m": "map_0242", "en": "That's one of the new models, right?"}
+{"id": 10842, "m": "map_0242", "en": "I hear that as long as it's on, it'll also prevent your Pokémon from levelling to the point of disobedience."}
+{"id": 10843, "m": "map_0242", "en": "Nifty, isn't it?"}
+{"id": 10844, "m": "map_0242", "en": "There was also a note in there that says \"freeexpall\" but I have no idea what that would mean."}
+{"id": 10845, "m": "map_0242", "en": "Aaaalso I found some money in there, but that can be our little secret. "}
+{"id": 10846, "m": "map_0242", "en": "I like this cabinet."}
+{"id": 10847, "m": "map_0242", "en": "What a nice day to not have all of my stuff suddenly disappear!"}
+{"id": 10848, "m": "map_0242", "en": "Haha!"}
+{"id": 10849, "m": "map_0242", "en": "The best place to train your Special Defense is in a hidden meadow within Chrysolia Forest!"}
+{"id": 10850, "m": "map_0242", "en": "KADABRA: Kaaa..."}
+{"id": 10851, "m": "map_0242", "en": "MCKREZZY: Oh? Don't tell me you've been looking for me."}
+{"id": 10852, "m": "map_0242", "en": "Sorry, kid, I don't do autographs. "}
+{"id": 10853, "m": "map_0242", "en": "Not off the clock, anyway."}
+{"id": 10854, "m": "map_0242", "en": "I'm here on a much-needed vacation."}
+{"id": 10855, "m": "map_0242", "en": "So from now until next month, I'm all about relaxation and recharging for my next recording session."}
+{"id": 10856, "m": "map_0242", "en": "This is a nice town, don't you think?"}
+{"id": 10857, "m": "map_0242", "en": "Even if there's random stuff everywhere."}
+{"id": 10858, "m": "map_0242", "en": "I think it brings a much-needed sense of whimsy to the place."}
+{"id": 10859, "m": "map_0242", "en": "Though it would be nice if the attendant would show up already..."}
+{"id": 10860, "m": "map_0242", "en": "MCKREZZY: Hey, I already said, no autographs."}
+{"id": 10861, "m": "map_0242", "en": "MCKREZZY: What the heck are you doin'?"}
+{"id": 10862, "m": "map_0242", "en": "I'm definitely not gonna autograph your Pokémon, kid.  Forget about it."}
+{"id": 10863, "m": "map_0242", "en": "MCKREZZY: Wait, what?"}
+{"id": 10864, "m": "map_0242", "en": "You got my Roggenrola back!"}
+{"id": 10865, "m": "map_0242", "en": "Man, I'd given up on ever seeing it again."}
+{"id": 10866, "m": "map_0242", "en": "This is great! "}
+{"id": 10867, "m": "map_0242", "en": "Now I can totally get back to working on my single, \"Boldorian Rhapsody\"!"}
+{"id": 10868, "m": "map_0242", "en": "Sorry for being so dismissive before."}
+{"id": 10869, "m": "map_0242", "en": "But, you know how fans can be."}
+{"id": 10870, "m": "map_0242", "en": "Well, maybe you don't."}
+{"id": 10871, "m": "map_0242", "en": "Anyway, you're all right, kid. See you around."}
+{"id": 10872, "m": "map_0242", "en": "MCKREZZY: You're all right, kid."}
+{"id": 10873, "m": "map_0242", "en": "But you know what's not all right?"}
+{"id": 10874, "m": "map_0242", "en": "The total lack of service here."}
+{"id": 10875, "m": "map_0242", "en": "MCKREZZY: Hey, what?"}
+{"id": 10876, "m": "map_0242", "en": "Don't tell me you want an autograph now after all. "}
+{"id": 10877, "m": "map_0242", "en": "Tch, geez. You all are incorrigible."}
+{"id": 10878, "m": "map_0242", "en": "All right, since you did me the favor of turning my Roggenrola back over to me, I'll make an exception for you."}
+{"id": 10879, "m": "map_0242", "en": "Here you go, kid."}
+{"id": 10880, "m": "map_0242", "en": "MCKREZZY: Seriously, no more of that though."}
+{"id": 10881, "m": "map_0242", "en": "MCKREZZY: God, they really take forever here, huh?"}
+{"id": 10882, "m": "map_0242", "en": "Hey, you battle, right?"}
+{"id": 10883, "m": "map_0242", "en": "Face off with me to kill some time. If you win, I'll give you something good."}
+{"id": 10884, "m": "map_0242", "en": "MCKREZZY: Hell yeah! Shine on!"}
+{"id": 10885, "m": "map_0242", "en": "Hey, not bad."}
+{"id": 10886, "m": "map_0242", "en": "MCKREZZY: Well, that was fun."}
+{"id": 10887, "m": "map_0242", "en": "Except for the whole losing part. Didn't really expect that."}
+{"id": 10888, "m": "map_0242", "en": "A deal's a deal though. Catch."}
+{"id": 10889, "m": "map_0242", "en": "MCKREZZY: Well, everything here has gone exactly how I didn't imagine it."}
+{"id": 10890, "m": "map_0242", "en": "Better luck in your endeavors, starshine."}
+{"id": 10891, "m": "map_0242", "en": "MCKREZZY: Tch, that's no fun."}
+{"id": 10892, "m": "map_0242", "en": "MCKREZZY: Some vacation this has turned out to be."}
+{"id": 10893, "m": "map_0242", "en": "I hope my family's having a better time than I am. "}
+{"id": 10894, "m": "map_0242", "en": "My nephew tends to get himself in trouble a lot."}
+{"id": 10895, "m": "map_0242", "en": "Oh well, he'll be fine."}
+{"id": 10896, "m": "map_0242", "en": "Hi there!"}
+{"id": 10897, "m": "map_0242", "en": "I really love Eeveelutions!"}
+{"id": 10898, "m": "map_0242", "en": "They're so cute and colorful... Oooh I wish I could just pet all of them!"}
+{"id": 10899, "m": "map_0242", "en": "I don't know who you are, but can you live out my dream for me?"}
+{"id": 10900, "m": "map_0242", "en": "If you go and pet all the Eeveelutions for me, I'll give you something special!"}
+{"id": 10901, "m": "map_0242", "en": "...Though, really, you'll already have something special with all the love you'll receive."}
+{"id": 10902, "m": "map_0242", "en": "And it doesn't count if it's your own Eeveelutions!"}
+{"id": 10903, "m": "map_0242", "en": "It's important to pet them too, but you also have to make sure to find and spread the bliss with other Trainer's Eeveelutions!"}
+{"id": 10904, "m": "map_0242", "en": "Sharing is caring... about Eevee!"}
+{"id": 10905, "m": "map_0242", "en": "Are you out there petting?"}
+{"id": 10906, "m": "map_0242", "en": "I can only imagine the joy you're experiencing...."}
+{"id": 10907, "m": "map_0242", "en": "By the way, it doesn't count if it's your own Eeveelutions!"}
+{"id": 10908, "m": "map_0242", "en": "Oh my gosh you've done it."}
+{"id": 10909, "m": "map_0242", "en": "You've pet all of them."}
+{"id": 10910, "m": "map_0242", "en": "You don't have to tell me."}
+{"id": 10911, "m": "map_0242", "en": "I can see it in your eyes."}
+{"id": 10912, "m": "map_0242", "en": "I can feel it in your heart."}
+{"id": 10913, "m": "map_0242", "en": "I can't not give this to you."}
+{"id": 10914, "m": "map_0242", "en": "You truly deserve it."}
+{"id": 10915, "m": "map_0242", "en": "Wear it with pride."}
+{"id": 10916, "m": "map_0242", "en": "You are so blessed. I am not worthy."}
+{"id": 10917, "m": "map_0242", "en": "In fact, if you want to be even more blessed..."}
+{"id": 10918, "m": "map_0242", "en": "The next time someone asks you for a password, try saying \"eeveeplease\"!"}
+{"id": 10919, "m": "map_0242", "en": "You might find something good when choosing a new partner!"}
+{"id": 10920, "m": "map_0242", "en": "Chocolate - $700"}
+{"id": 10921, "m": "map_0242", "en": "Strawberry - $1000"}
+{"id": 10922, "m": "map_0242", "en": "Vanilla - $1000"}
+{"id": 10923, "m": "map_0242", "en": "Karrablast"}
+{"id": 10924, "m": "map_0242", "en": "Shelmet"}
+{"id": 10925, "m": "map_0098", "en": "DANIELLE: Greetings, Trainer who I have clearly never seen and has definitely not already blown the quiz once."}
+{"id": 10926, "m": "map_0098", "en": "Please allow me to regale you with mind-boggling questions--"}
+{"id": 10927, "m": "map_0098", "en": "Okay, you know what, let's just get to it before my dead eyes roll into the back of my head."}
+{"id": 10928, "m": "map_0098", "en": "DANIELLE: What, you want to try the quiz again?"}
+{"id": 10929, "m": "map_0098", "en": "You probably just went and specifically looked for the answer, didn't you? It's no fun at that point."}
+{"id": 10930, "m": "map_0098", "en": "Hmph. Fine, if it'll make you feel better, I'll pretend I'm stupid enough to go for that!"}
+{"id": 10931, "m": "map_0098", "en": "Are you ready, first-timer?"}
+{"id": 10932, "m": "map_0098", "en": "???: Greetings from the blind."}
+{"id": 10933, "m": "map_0098", "en": "The name's Danielle, but don't you dare pity me, Trainer."}
+{"id": 10934, "m": "map_0098", "en": "I see more than you ever will."}
+{"id": 10935, "m": "map_0098", "en": "But I'll humor you. "}
+{"id": 10936, "m": "map_0098", "en": "I'll ask you three questions. If you can answer all of them, I'll give you a reward. "}
+{"id": 10937, "m": "map_0098", "en": "Wanna try it?"}
+{"id": 10938, "m": "map_0098", "en": "DANIELLE: Question number one-- this is an easy one. "}
+{"id": 10939, "m": "map_0098", "en": "How many headbutt trees are there in the area around the Grand Hall?"}
+{"id": 10940, "m": "map_0098", "en": "DANIELLE: That's right. Simple enough, isn't it?"}
+{"id": 10941, "m": "map_0098", "en": "Okay, question two. This one will be a little harder."}
+{"id": 10942, "m": "map_0098", "en": "Assuming you can see them all from one angle or another, how many satellite dishes are there in the Obsidia Ward?"}
+{"id": 10943, "m": "map_0098", "en": "DANIELLE: Hmph."}
+{"id": 10944, "m": "map_0098", "en": "Yes, that's right. But that's obvious. "}
+{"id": 10945, "m": "map_0098", "en": "Fine. Since you've done well this far, oh mighty questionee, I'll give you a really good one!"}
+{"id": 10946, "m": "map_0098", "en": "Ready?"}
+{"id": 10947, "m": "map_0098", "en": "How many banners and ribbons are there inside the Peridot Gym?"}
+{"id": 10948, "m": "map_0098", "en": "DANIELLE: Tch."}
+{"id": 10949, "m": "map_0098", "en": "Fine. That's correct."}
+{"id": 10950, "m": "map_0098", "en": "I'm so impressed and overcome with wonder at how you could have possibly known the answer."}
+{"id": 10951, "m": "map_0098", "en": "Wowie."}
+{"id": 10952, "m": "map_0098", "en": "But I'll keep my promise and give you the reward, if that's really what you want."}
+{"id": 10953, "m": "map_0098", "en": "...Impressive."}
+{"id": 10954, "m": "map_0098", "en": "Most normal people don't get that right."}
+{"id": 10955, "m": "map_0098", "en": "You already knew these answers somehow, didn't you?"}
+{"id": 10956, "m": "map_0098", "en": "Well, whatever."}
+{"id": 10957, "m": "map_0098", "en": "I'll keep my promise and give you a reward."}
+{"id": 10958, "m": "map_0098", "en": "\\PN obtained Field Effect Read-Out 03!"}
+{"id": 10959, "m": "map_0098", "en": "Info on Misty Terrain now available!"}
+{"id": 10960, "m": "map_0098", "en": "DANIELLE: But hey? "}
+{"id": 10961, "m": "map_0098", "en": "I've been all over Reborn, and I effortlessly pick up this kind of information."}
+{"id": 10962, "m": "map_0098", "en": "You seem like you've gotten around a fair bit, but I bet I know things about lots of other places you'd never even think of!"}
+{"id": 10963, "m": "map_0098", "en": "So if you wanna try this again, I'm game."}
+{"id": 10964, "m": "map_0098", "en": "Come back after you've traveled as much as I have, and we'll try this again!"}
+{"id": 10965, "m": "map_0098", "en": "DANIELLE: There!"}
+{"id": 10966, "m": "map_0098", "en": "Just because you're normal, it doesn't mean you know more than me!"}
+{"id": 10967, "m": "map_0098", "en": "DANIELLE: Wrong!"}
+{"id": 10968, "m": "map_0098", "en": "Surely you couldn't miss something as big as a satellite dish, could you?"}
+{"id": 10969, "m": "map_0098", "en": "Or are you the blind one?"}
+{"id": 10970, "m": "map_0098", "en": "DANIELLE: Hmm~ Wrong!"}
+{"id": 10971, "m": "map_0098", "en": "What's the matter? Didn't you pass by there once or twice?"}
+{"id": 10972, "m": "map_0098", "en": "Did the trees hide from your perfect eyes' sight?"}
+{"id": 10973, "m": "map_0098", "en": "DANIELLE: Awh. That's no fun. "}
+{"id": 10974, "m": "map_0098", "en": "If a girl can't even pick on people who assume they're better than her, what's she got to live for?"}
+{"id": 10975, "m": "map_0098", "en": "DANIELLE: Come back after you've traveled as much as I have, and we'll try this again!"}
+{"id": 10976, "m": "map_0098", "en": "DANIELLE: Yawn."}
+{"id": 10977, "m": "map_0098", "en": "Did you find all your answers yet?"}
+{"id": 10978, "m": "map_0098", "en": "DANIELLE: Are we really going to do this again?"}
+{"id": 10979, "m": "map_0098", "en": "Does it bring you a sense of fulfillment knowing you just go specifically looking for the answers instead of learning to observe as you go?"}
+{"id": 10980, "m": "map_0098", "en": "There's no point if you do that, but if it really means that much to you, I'll gratify you once more."}
+{"id": 10981, "m": "map_0098", "en": "Don't say I'm not nice."}
+{"id": 10982, "m": "map_0098", "en": "Are you ready, oh master surveyor?"}
+{"id": 10983, "m": "map_0098", "en": "DANIELLE: Oh, back so soon?"}
+{"id": 10984, "m": "map_0098", "en": "Did you actually learn anything?"}
+{"id": 10985, "m": "map_0098", "en": "DANIELLE: We'll see about that."}
+{"id": 10986, "m": "map_0098", "en": "Grand rematch of the century, battle of the ages and all that: Question one!"}
+{"id": 10987, "m": "map_0098", "en": "How many individual train cars are there in the Byxbysion Wasteland?"}
+{"id": 10988, "m": "map_0098", "en": "DANIELLE: Yeah, yeah, okay. So you can count, big deal."}
+{"id": 10989, "m": "map_0098", "en": "For the record, the only reason I'm even doing these 'how many' questions still is for the sake of tradition."}
+{"id": 10990, "m": "map_0098", "en": "And I wouldn't want to overwhelm you."}
+{"id": 10991, "m": "map_0098", "en": "Question two: How many buildings total are in Ametrine City?"}
+{"id": 10992, "m": "map_0098", "en": "DANIELLE: Glad that those didn't escape your keen sight."}
+{"id": 10993, "m": "map_0098", "en": "Question three! "}
+{"id": 10994, "m": "map_0098", "en": "There's a man who lives in the Aventurine Woods with a bunch of Pikachu."}
+{"id": 10995, "m": "map_0098", "en": "How many Pikachu are usually inside his house?"}
+{"id": 10996, "m": "map_0098", "en": "DANIELLE: I'll give you points for that one; it's harder to keep track when they're all running around."}
+{"id": 10997, "m": "map_0098", "en": "But this isn't over yet!"}
+{"id": 10998, "m": "map_0098", "en": "How many satellite dishes are there in all of Spinel Town?"}
+{"id": 10999, "m": "map_0098", "en": "DANIELLE: That's right! "}
+{"id": 11000, "m": "map_0098", "en": "Trick question! You got me."}
+{"id": 11001, "m": "map_0098", "en": "Okay, okay. A real one this time!"}
+{"id": 11002, "m": "map_0098", "en": "How many bookshelves are there in all of Apophyll Academy?"}
+{"id": 11003, "m": "map_0098", "en": "DANIELLE: All right! You're doing well!"}
+{"id": 11004, "m": "map_0098", "en": "Too well, in fact, so I'm going to throw everything I've got at you!"}
+{"id": 11005, "m": "map_0098", "en": "Final question! This is for all the cookies!"}
+{"id": 11006, "m": "map_0098", "en": "How many trees are there in all of Chrysolia Forest?!"}
+{"id": 11007, "m": "map_0098", "en": "DANIELLE: ..."}
+{"id": 11008, "m": "map_0098", "en": "......"}
+{"id": 11009, "m": "map_0098", "en": "........."}
+{"id": 11010, "m": "map_0098", "en": "Just kidding!"}
+{"id": 11011, "m": "map_0098", "en": "Even I don't know that one. "}
+{"id": 11012, "m": "map_0098", "en": "But I'll let you have it. "}
+{"id": 11013, "m": "map_0098", "en": "Even if you did just go specifically look for the answers, think about what I said about learning to observe and not just see."}
+{"id": 11014, "m": "map_0098", "en": "You're pretty good."}
+{"id": 11015, "m": "map_0098", "en": "Too good, really."}
+{"id": 11016, "m": "map_0098", "en": "Did you already know what I was going to ask?"}
+{"id": 11017, "m": "map_0098", "en": "Regardless, that ended up being kind of fun. "}
+{"id": 11018, "m": "map_0098", "en": "So in return for letting me tease you, you can have this."}
+{"id": 11019, "m": "map_0098", "en": "\\PN obtained Field Effect Read-Out 31!"}
+{"id": 11020, "m": "map_0098", "en": "Info on Fairy Tale Field now available!"}
+{"id": 11021, "m": "map_0098", "en": "DANIELLE: I'd like to travel the world someday."}
+{"id": 11022, "m": "map_0098", "en": "People always talk about seeing it, but they never mention how each place has different sounds, scents and atmospheres."}
+{"id": 11023, "m": "map_0098", "en": "That's what I live on."}
+{"id": 11024, "m": "map_0098", "en": "When that happens, and I finally go visit everywhere, I'll be sure to get more questions to pick on you with!"}
+{"id": 11025, "m": "map_0098", "en": "DANIELLE: Realllllly?"}
+{"id": 11026, "m": "map_0098", "en": "Are you really really realllllly sure?"}
+{"id": 11027, "m": "map_0098", "en": "I think you should check again! "}
+{"id": 11028, "m": "map_0098", "en": "After all, that seems to be the only way you'll do things."}
+{"id": 11029, "m": "map_0098", "en": "DANIELLE: Pi-pi, pikachuuuu!"}
+{"id": 11030, "m": "map_0098", "en": "By the way, that's Pikachu-eese for \"You're wrong and also a loser.\""}
+{"id": 11031, "m": "map_0098", "en": "DANIELLE: Ahaha..."}
+{"id": 11032, "m": "map_0098", "en": "No."}
+{"id": 11033, "m": "map_0098", "en": "You really didn't learn anything, did you? You can't even remember buildings? Did you not notice them?"}
+{"id": 11034, "m": "map_0098", "en": "DANIELLE: Out on the first try!"}
+{"id": 11035, "m": "map_0098", "en": "Come on, it's not like those trains are going anywhere. How do you miss them?"}
+{"id": 11036, "m": "map_0098", "en": "I can practically see them all just by walking around in that place."}
+{"id": 11037, "m": "map_0098", "en": "DANIELLE: At least you're honest. I can respect that."}
+{"id": 11038, "m": "map_0098", "en": "I'll be waiting!"}
+{"id": 11039, "m": "map_0098", "en": "DANIELLE: When I can finally travel the world, I'll be sure to get more questions to pick on you with!"}
+{"id": 11040, "m": "map_0098", "en": "DANIELLE: Pardon me?"}
+{"id": 11041, "m": "map_0098", "en": "Oh, pardon me?"}
+{"id": 11042, "m": "map_0098", "en": "You're asking if I can read braille?"}
+{"id": 11043, "m": "map_0098", "en": "Just because I'm blind?"}
+{"id": 11044, "m": "map_0098", "en": "Don't you think that's stereotyping a bit too much?"}
+{"id": 11045, "m": "map_0098", "en": "Do you think all blind people are just born knowing braille?"}
+{"id": 11046, "m": "map_0098", "en": "Do you think something like that is easy to learn?"}
+{"id": 11047, "m": "map_0098", "en": "Just pick up a book and translate a few sentences to solve a puzzle in a video game or something?"}
+{"id": 11048, "m": "map_0098", "en": "Well, you're right."}
+{"id": 11049, "m": "map_0098", "en": "It is easy, and of course I know braille-- I'm not a troglodyte."}
+{"id": 11050, "m": "map_0098", "en": "Tell me what you need, and be frank about it."}
+{"id": 11051, "m": "map_0098", "en": "Mm. "}
+{"id": 11052, "m": "map_0098", "en": "Braille tablets in a newly formed dimension?"}
+{"id": 11053, "m": "map_0098", "en": "This sounds like a reasonable and believable story."}
+{"id": 11054, "m": "map_0098", "en": "And what makes you think that this neo-dimensional braille of yours, assuming I choose to believe you, even translates to a known spoken language?"}
+{"id": 11055, "m": "map_0098", "en": "You didn't think about that, did you?"}
+{"id": 11056, "m": "map_0098", "en": "Well, let's go see your allegedly newly-spawned braille blocks ourselves, shall we?"}
+{"id": 11057, "m": "map_0098", "en": "I use the term \"see\" loosely, of course."}
+{"id": 11058, "m": "map_0098", "en": "So tell me the way and I'll go there myself. "}
+{"id": 11059, "m": "map_0098", "en": "I detest hand-holding."}
+{"id": 11060, "m": "map_0098", "en": "In fact, I'm sure I'll beat you there."}
+{"id": 11061, "m": "map_0098", "en": "Ta."}
+{"id": 11062, "m": "map_0098", "en": "Welcome! Only residents are allowed upstairs, but please feel free to visit in the lobby!"}
+{"id": 11063, "m": "map_0085", "en": "SPOINK: Spoink! Spoink! Spoink Spoink Spoink Spoink Spoink Spoink Spoink Spoink Spoink Spoink Spoink Spoink Spoink Spoink Spoink Spoink Spoink Spoink!"}
+{"id": 11064, "m": "map_0085", "en": "Spoink fled!"}
+{"id": 11065, "m": "map_0085", "en": "VICTORIA: Ugh."}
+{"id": 11066, "m": "map_0085", "en": "I thought maybe Amaria would have come through here, "}
+{"id": 11067, "m": "map_0085", "en": "But I can't make any headway here at all."}
+{"id": 11068, "m": "map_0085", "en": "And these guys are awful..."}
+{"id": 11069, "m": "map_0085", "en": "Training or not, I can't help but feel out of my depth here."}
+{"id": 11070, "m": "map_0085", "en": "Hey, would you agree to a match?"}
+{"id": 11071, "m": "map_0085", "en": "We could probably both use the experience. What do you say?"}
+{"id": 11072, "m": "map_0085", "en": "VICTORIA: Then you're on!"}
+{"id": 11073, "m": "map_0085", "en": "Don't hold back, okay?"}
+{"id": 11074, "m": "map_0085", "en": "Kiki always said you can't train the mind without the body."}
+{"id": 11075, "m": "map_0085", "en": "Let's put both in to the fullest!"}
+{"id": 11076, "m": "map_0085", "en": "HOTSHOT: Braaavo, ladies."}
+{"id": 11077, "m": "map_0085", "en": "You girls certainly know how to put on a show."}
+{"id": 11078, "m": "map_0085", "en": "HOTSHOT: Braaavo."}
+{"id": 11079, "m": "map_0085", "en": "That was quite a show for a girl."}
+{"id": 11080, "m": "map_0085", "en": "VICTORIA: Excuse me?"}
+{"id": 11081, "m": "map_0085", "en": "HOTSHOT: Hey, no disrespect."}
+{"id": 11082, "m": "map_0085", "en": "You looked great out there."}
+{"id": 11083, "m": "map_0085", "en": "Love to see a gal who can... what'd you say before?"}
+{"id": 11084, "m": "map_0085", "en": "Put your body in to the fullest or whatever?"}
+{"id": 11085, "m": "map_0085", "en": "Ao-ao-aoooow~"}
+{"id": 11086, "m": "map_0085", "en": "VICTORIA: Do you really wanna push your luck right now?"}
+{"id": 11087, "m": "map_0085", "en": "HOTSHOT: Ah... hah."}
+{"id": 11088, "m": "map_0085", "en": "About that..."}
+{"id": 11089, "m": "map_0085", "en": "L-look, I can help you guys out!"}
+{"id": 11090, "m": "map_0085", "en": "You said you needed to make some kind of headway, right?"}
+{"id": 11091, "m": "map_0085", "en": "Well, how about this?"}
+{"id": 11092, "m": "map_0085", "en": "HOTSHOT: The switch was hidden back here-- now you can go on!"}
+{"id": 11093, "m": "map_0085", "en": "VICTORIA: ...Right."}
+{"id": 11094, "m": "map_0085", "en": "That would be convenient, wouldn't it."}
+{"id": 11095, "m": "map_0085", "en": "Unfortunately for you, one instance of being vaguely helpful doesn't absolve you of all responsibility."}
+{"id": 11096, "m": "map_0085", "en": "\\PN, why don't you go on ahead?"}
+{"id": 11097, "m": "map_0085", "en": "I'm going to have a few more words with this guy."}
+{"id": 11098, "m": "map_0085", "en": "I'll make sure he really understands exactly what he's been saying..."}
+{"id": 11099, "m": "map_0085", "en": "VICTORIA: Not up to it in a place like this?"}
+{"id": 11100, "m": "map_0085", "en": "Well, I guess that's fine."}
+{"id": 11101, "m": "map_0085", "en": "But where could Amaria be..."}
+{"id": 11102, "m": "map_0085", "en": "VICTORIA: Oh, the gate opened?"}
+{"id": 11103, "m": "map_0085", "en": "That's convenient."}
+{"id": 11104, "m": "map_0085", "en": "I'm still going to check around here for a bit."}

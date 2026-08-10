@@ -1,0 +1,91 @@
+{"sec": "map:689", "key": "Exit the tutorial and begin the game?", "en": "Exit the tutorial and begin the game?", "ja": "チュートリアルを　終了して　ゲームを　始めますか?"}
+{"sec": "map:689", "key": "Welcome to the Blindstep password tutorial.", "en": "Welcome to the Blindstep password tutorial.", "ja": "ブラインドステップ・パスワードチュートリアルへ　ようこそ。"}
+{"sec": "map:689", "key": "In this tutorial, you'll have the opportunity to learn about and try out various audio cues in order to learn about the accessibility features of the game.", "en": "In this tutorial, you'll have the opportunity to learn about and try out various audio cues in order to learn about the accessibility features of the game.", "ja": "このチュートリアルでは　ゲームの　アクセシビリティ機能について　学ぶために　さまざまな音声の合図を　学び　試すことが　できます。"}
+{"sec": "map:689", "key": "In order to help with item location and navigation from the outset, you'll be given an Itemfinder right away.", "en": "In order to help with item location and navigation from the outset, you'll be given an Itemfinder right away. ", "ja": "アイテムの位置確認や　道案内を　最初から　助けるため　すぐに　ダウジングマシンが　渡されます。"}
+{"sec": "map:689", "key": "Consider registering it through the bag for quick access.", "en": "Consider registering it through the bag for quick access.", "ja": "すぐに　使えるよう　バッグから　登録しておくと　いいでしょう。"}
+{"sec": "map:689", "key": "If you would like to adjust the volume of blindstep- specific sounds, please look for the separate volume option in the Options menu.", "en": "If you would like to adjust the volume of blindstep- specific sounds, please look for the separate volume option in the Options menu.", "ja": "ブラインドステップ専用の音の音量を　調整したい場合は　オプションメニューの　個別の音量設定を　お探しください。"}
+{"sec": "map:689", "key": "Additionally you can use the D key to get your current coordinates.", "en": "Additionally you can use the D key to get your current coordinates.", "ja": "さらに　Dキーを　使うと　現在の座標を　確認できます。"}
+{"sec": "map:689", "key": "Guides meant for blind players generally use these coordinates for navigation.", "en": "Guides meant for blind players generally use these coordinates for navigation.", "ja": "目の不自由なプレイヤー向けの攻略ガイドでは　通常　この座標を　使って　案内が　行われます。"}
+{"sec": "map:689", "key": "The game features a native bump sound whenever you walk into a generic obstacle. It sounds like this:", "en": "The game features a native bump sound whenever you walk into a generic obstacle. It sounds like this:", "ja": "このゲームには　一般的な障害物に　ぶつかったときに　鳴る　標準の衝突音が　あります。こんな音です。"}
+{"sec": "map:689", "key": "This bump sound may change or be accompanied by other sounds based on the type of object you are bumping into.", "en": "This bump sound may change or be accompanied by other sounds based on the type of object you are bumping into.", "ja": "この衝突音は　ぶつかる対象の種類によって　変わったり　他の音が　加わったり　することが　あります。"}
+{"sec": "map:689", "key": "Various such objects have been placed on the top edge of this space. Try walking into them to learn about each sound.", "en": "Various such objects have been placed on the top edge of this space. Try walking into them to learn about each sound.", "ja": "この空間の上端には　そうしたさまざまな対象が　配置されています。それぞれに　ぶつかってみて　音を　確認してください。"}
+{"sec": "map:689", "key": "To exit the tutorial and begin the game properly, walk as far down as possible at any time.", "en": "To exit the tutorial and begin the game properly, walk as far down as possible at any time.", "ja": "チュートリアルを　終了して　本編のゲームを　始めるには　いつでも　できる限り　下に　進んでください。"}
+{"sec": "map:689", "key": "This is an item ball.", "en": "This is an item ball.", "ja": "これは　アイテムボールです。"}
+{"sec": "map:689", "key": "This is the sound it makes when walked into.", "en": "This is the sound it makes when walked into.", "ja": "ぶつかったときに　鳴る音は　こちらです。"}
+{"sec": "map:689", "key": "This particular item is fake and can't be picked up, but you'll know you can pick any other item up when you bump into that sound!", "en": "This particular item is fake and can't be picked up, but you'll know you can pick any other item up when you bump into that sound!", "ja": "この特定のアイテムは　偽物で　拾うことは　できませんが　他のアイテムでは　この音に　ぶつかれば　拾えると　わかります!"}
+{"sec": "map:689", "key": "You've just jumped down the ledge!", "en": "You've just jumped down the ledge!", "ja": "だんさを　飛び降りた!"}
+{"sec": "map:689", "key": "You've just walked into a ledge. This is the sound it makes.", "en": "You've just walked into a ledge. This is the sound it makes.", "ja": "だんさに　ぶつかりました。鳴る音は　こちらです。"}
+{"sec": "map:689", "key": "Specifically, this is a downward facing ledge; you can only jump down it from above.", "en": "Specifically, this is a downward facing ledge; you can only jump down it from above.", "ja": "具体的には　これは　下向きの　だんさで　上からしか　飛び降りることが　できません。"}
+{"sec": "map:689", "key": "Try walking to the left, upward, and then right in order to make your way above this ledge. Then you can jump down.", "en": "Try walking to the left, upward, and then right in order to make your way above this ledge. Then you can jump down.", "ja": "このだんさの　上に　出るには　左　上　右の順に　進んでみてください。それから　飛び降りることが　できます。"}
+{"sec": "map:689", "key": "This is a Pokémon! Specifically, Absol.", "en": "This is a Pokémon! Specifically, Absol.", "ja": "これは　ポケモンです! 具体的には　アブソルです。"}
+{"sec": "map:689", "key": "They make this sound when bumped into.", "en": "They make this sound when bumped into.", "ja": "ぶつかると　この音が　鳴ります。"}
+{"sec": "map:689", "key": "Many Pokémon will also play their cry when walked into.", "en": "Many Pokémon will also play their cry when walked into.", "ja": "多くのポケモンは　ぶつかると　鳴き声も　再生されます。"}
+{"sec": "map:689", "key": "Please be kind to them!", "en": "Please be kind to them!", "ja": "どうか　やさしく　してあげてください!"}
+{"sec": "map:689", "key": "You've walked into an NPC character.", "en": "You've walked into an NPC character.", "ja": "NPCキャラクターに　ぶつかりました。"}
+{"sec": "map:689", "key": "Don't worry, they don't mind.", "en": "Don't worry, they don't mind.", "ja": "心配しないでください　彼らは　気にしません。"}
+{"sec": "map:689", "key": "This is a berry tree.", "en": "This is a berry tree.", "ja": "これは　きのみの木です。"}
+{"sec": "map:689", "key": "It plays this sound when bumped into.", "en": "It plays this sound when bumped into.", "ja": "ぶつかると　この音が　鳴ります。"}
+{"sec": "map:689", "key": "You've just walked into grimey water.", "en": "You've just walked into grimey water.", "ja": "濁った水に　ぶつかりました。"}
+{"sec": "map:689", "key": "It's not very clean. You can fish in it, but not surf.", "en": "It's not very clean. You can fish in it, but not surf.", "ja": "あまり　きれいでは　ありません。釣りは　できますが　なみのりは　できません。"}
+{"sec": "map:689", "key": "It makes this sound when walked into.", "en": "It makes this sound when walked into.", "ja": "ぶつかると　この音が　鳴ります。"}
+{"sec": "map:689", "key": "You've just walked into clean water.", "en": "You've just walked into clean water.", "ja": "きれいな水に　ぶつかりました。"}
+{"sec": "map:689", "key": "This is water you can both fish and surf in, provided you have the requisite Badge and Machine.", "en": "This is water you can both fish and surf in, provided you have the requisite Badge and Machine.", "ja": "これは　必要なバッジと　マシンを　持っていれば　釣りも　なみのりも　できる水です。"}
+{"sec": "map:689", "key": "What you've just heard is the sound of bumping into a waterfall.", "en": "What you've just heard is the sound of bumping into a waterfall.", "ja": "今　聞こえたのは　滝に　ぶつかった音です。"}
+{"sec": "map:689", "key": "This isn't a real waterfall, since you're not surfing, but if it were, it would sound like that.", "en": "This isn't a real waterfall, since you're not surfing, but if it were, it would sound like that.", "ja": "なみのり中では　ないので　これは　本物の滝では　ありませんが　もし　そうならこんな音に　なります。"}
+{"sec": "map:689", "key": "This is a tree that can be cut.", "en": "This is a tree that can be cut.", "ja": "これは　切り倒せる木です。"}
+{"sec": "map:689", "key": "In this game, cutting trees in certain areas will also cause nearby vines to recede.", "en": "In this game, cutting trees in certain areas will also cause nearby vines to recede.", "ja": "このゲームでは　特定のエリアで　木を切ると　近くのツルも　後退することが　あります。"}
+{"sec": "map:689", "key": "If that happens, you'll probably hear something like this after cutting it:", "en": "If that happens, you'll probably hear something like this after cutting it:", "ja": "それが　起こると　木を切ったあと　おそらく　こんな音が　聞こえます。"}
+{"sec": "map:689", "key": "This is the sound a tree that you can use Headbutt on will make.", "en": "This is the sound a tree that you can use Headbutt on will make.", "ja": "これは　「ずつき」を　使える木の音です。"}
+{"sec": "map:689", "key": "This isn't such a tree, but you can pretend it is, right?", "en": "This isn't such a tree, but you can pretend it is, right?", "ja": "これは　そういう木では　ありませんが　そのつもりで　聞いてみてください。"}
+{"sec": "map:689", "key": "This is the sound a mirror makes when you walk into it.", "en": "This is the sound a mirror makes when you walk into it.", "ja": "これは　鏡に　ぶつかったときの音です。"}
+{"sec": "map:689", "key": "In this game, many mirrors are objects that can be Smashed.", "en": "In this game, many mirrors are objects that can be Smashed.", "ja": "このゲームでは　多くの鏡が「かいりき」で　壊せる対象です。"}
+{"sec": "map:689", "key": "Don't worry, we've taken the liberty of insulating our players from any resulting bad luck.", "en": "Don't worry, we've taken the liberty of insulating our players from any resulting bad luck.", "ja": "ご安心ください　その結果として　起こるかもしれない不運から　プレイヤーを　守るよう　配慮してあります。"}
+{"sec": "map:689", "key": "This is the sound a climbable rock makes.", "en": "This is the sound a climbable rock makes.", "ja": "これは　登れる岩の音です。"}
+{"sec": "map:689", "key": "You'll need the proper Badge and Machine to do so. It'll be a while!", "en": "You'll need the proper Badge and Machine to do so.  It'll be a while!", "ja": "それには　適切なバッジと　マシンが　必要です。まだ　少し　先の話ですが!"}
+{"sec": "map:689", "key": "These rocks can take you upwards, sideways, down, or any number of places.", "en": "These rocks can take you upwards, sideways, down, or any number of places.", "ja": "こうした岩は　上や　横　下　その他　さまざまな場所へ　連れて行ってくれます。"}
+{"sec": "map:689", "key": "Good luck exploring...", "en": "Good luck exploring...", "ja": "探検を　楽しんでください……"}
+{"sec": "map:689", "key": "This is the sound a rock or wall that can be smashed makes.", "en": "This is the sound a rock or wall that can be smashed makes.", "ja": "これは「かいりき」で　壊せる岩や壁の音です。"}
+{"sec": "map:689", "key": "You'll need the proper Badge and Machine to do so.", "en": "You'll need the proper Badge and Machine to do so. ", "ja": "それには　適切なバッジと　マシンが　必要です。"}
+{"sec": "map:689", "key": "What's this mysterious object?", "en": "What's this mysterious object?", "ja": "この謎めいた物体は　何でしょう?"}
+{"sec": "map:689", "key": "You won't see it for a long time, but this is a special cell belonging to a Legendary Pokémon.", "en": "You won't see it for a long time, but this is a special cell belonging to a Legendary Pokémon. ", "ja": "しばらくは　目にすることは　ないでしょうが　これは　伝説のポケモンに　属する特別なセルです。"}
+{"sec": "map:689", "key": "Pick them up whenever you find them!", "en": "Pick them up whenever you find them!", "ja": "見つけたら　いつでも　拾ってください!"}
+{"sec": "map:689", "key": "Have you already noticed the footstep sounds?", "en": "Have you already noticed the footstep sounds?", "ja": "もう　足音に　気づきましたか?"}
+{"sec": "map:689", "key": "They change slightly based on what direction you've moved.", "en": "They change slightly based on what direction you've moved.", "ja": "移動した方向によって　少しずつ　変化します。"}
+{"sec": "map:689", "key": "This one is down...", "en": "This one is down...", "ja": "これは　下……"}
+{"sec": "map:689", "key": "Here's left...", "en": "Here's left...", "ja": "こちらは　左……"}
+{"sec": "map:689", "key": "Here's right...", "en": "Here's right...", "ja": "こちらは　右……"}
+{"sec": "map:689", "key": "And finally, up!", "en": "And finally, up!", "ja": "そして　最後に　上!"}
+{"sec": "map:689", "key": "We'll play a sound whenever you're right next to an item.", "en": "We'll play a sound whenever you're right next to an item.", "ja": "アイテムの　すぐそばに　いるときは　音が　鳴ります。"}
+{"sec": "map:689", "key": "Hello, Voltorb!", "en": "Hello, Voltorb!", "ja": "こんにちは　ビリリダマ!"}
+{"sec": "map:689", "key": "Like other ambient sounds, the pan and pitch of this sound will change based on which direction the item is in.", "en": "Like other ambient sounds, the pan and pitch of this sound will change based on which direction the item is in.", "ja": "他の環境音と　同じように　この音の　左右の広がりと　音程は　アイテムが　どの方向に　あるかによって　変わります。"}
+{"sec": "map:689", "key": "There's no item this time, but if you hear it in the future, look around!", "en": "There's no item this time, but if you hear it in the future, look around!", "ja": "今回は　アイテムは　ありませんが　今後　この音が　聞こえたら　あたりを　見回してください!"}
+{"sec": "map:689", "key": "We'll play a sound whenever you're right next to an event.", "en": "We'll play a sound whenever you're right next to an event.", "ja": "イベントの　すぐそばに　いるときも　音が　鳴ります。"}
+{"sec": "map:689", "key": "...Unfortunately, what qualifies as an Event is a little up in the air.", "en": "...Unfortunately, what qualifies as an Event is a little up in the air.", "ja": "……残念ながら　何を「イベント」とみなすかは　少し　あいまいです。"}
+{"sec": "map:689", "key": "The game code uses Events for all sorts of things, from objects for puzzles to cosmetic effects to obstacles and walls to other NPCs.", "en": "The game code uses Events for all sorts of things, from objects for puzzles to cosmetic effects to obstacles and walls to other NPCs.", "ja": "ゲームのコードは　パズル用のオブジェクトから　演出効果　障害物や壁　他のNPCまで　あらゆるものに　イベントを　使っています。"}
+{"sec": "map:689", "key": "Unfortunately there's no way that we can helpfully specify and label all of them.", "en": "Unfortunately there's no way that we can helpfully specify and label all of them.", "ja": "残念ながら　そのすべてを　わかりやすく　特定して　ラベル付けする方法は　ありません。"}
+{"sec": "map:689", "key": "If you hear this sound, assume that there is a chance something interesting is near you-- it is not a guarantee.", "en": "If you hear this sound, assume that there is a chance something interesting is near you-- it is not a guarantee.", "ja": "この音が　聞こえたら　近くに　何か　興味深いものが　あるかもしれないと　思ってください―― 保証は　できませんが。"}
+{"sec": "map:689", "key": "This game will play Ambient sound based on your surroundings.", "en": "This game will play Ambient sound based on your surroundings.", "ja": "このゲームは　周囲の状況に　応じて　環境音を　再生します。"}
+{"sec": "map:689", "key": "Here's for if it's below you...", "en": "Here's for if it's below you...", "ja": "これは　下に　ある場合……"}
+{"sec": "map:689", "key": "Here's to you left...", "en": "Here's to you left...", "ja": "こちらは　左に　ある場合……"}
+{"sec": "map:689", "key": "And finally, above!", "en": "And finally, above!", "ja": "そして　最後に　上に　ある場合!"}
+{"sec": "map:689", "key": "Thanks to Aaron Vgstorm from Manamon for these sounds!", "en": "Thanks to Aaron Vgstorm from Manamon for these sounds!", "ja": "これらの音は　Manamonの　Aaron　Vgstorm氏に　感謝します!"}
+{"sec": "map:689", "key": "Here's a sound that should play when an Event is in line with you.", "en": "Here's a sound that should play when an Event is in line with you.", "ja": "これは　イベントが　あなたと　一直線上に　あるときに　鳴るはずの音です。"}
+{"sec": "map:689", "key": "We'll play a sound whenever you're near a door.", "en": "We'll play a sound whenever you're near a door.", "ja": "ドアの近くに　いるときも　音を　鳴らします。"}
+{"sec": "map:689", "key": "What specifically counts as a 'Door' is difficult to define. We're still working on identifying it properly.", "en": "What specifically counts as a 'Door' is difficult to define. We're still working on identifying it properly.", "ja": "具体的に　何が「ドア」に　当たるかを　定義するのは　難しく　正確に　識別する作業は　今も　続けています。"}
+{"sec": "map:689", "key": "Hopefully this will be more comprehensively accurate in the future!", "en": "Hopefully this will be more comprehensively accurate in the future!", "ja": "今後　もっと　包括的に　正確に　なることを　願っています!"}
+{"sec": "map:689", "key": "We've added some sounds to help you out when you can get to fishing.", "en": "We've added some sounds to help you out when you can get to fishing.", "ja": "釣りが　できるように　なったときに　役立つ音も　いくつか　追加しました。"}
+{"sec": "map:689", "key": "This is the sound that you'll hear several times when fishing.", "en": "This is the sound that you'll hear several times when fishing.", "ja": "これは　釣りの間　何度か　聞こえる音です。"}
+{"sec": "map:689", "key": "Eventually, you'll hear a new sound. This is how you know it's time to press the button to reel it in!", "en": "Eventually, you'll hear a new sound. This is how you know it's time to press the button to reel it in!", "ja": "やがて　新しい音が　聞こえます。これが　リールを巻く　ボタンを　押す合図です!"}
+{"sec": "map:689", "key": "If your fish gets away, you'll hear this...", "en": "If your fish gets away, you'll hear this...", "ja": "魚に　逃げられたときは　この音が　聞こえます……"}
+{"sec": "map:689", "key": "But if you succeeded, you'll hear this sound, and the battle will begin!", "en": "But if you succeeded, you'll hear this sound, and the battle will begin!", "ja": "でも　成功したら　この音が　聞こえて　バトルが　始まります!"}
+{"sec": "map:689", "key": "When you're out surfing, you might hear this sound...", "en": "When you're out surfing, you might hear this sound...", "ja": "なみのり中に　この音が　聞こえることが　あります……"}
+{"sec": "map:689", "key": "This means there's deep water below you!", "en": "This means there's deep water below you!", "ja": "これは　あなたの下に　深い水が　あるという意味です!"}
+{"sec": "map:689", "key": "If you have the requisite Badge and Machine, press the action button to Dive below!", "en": "If you have the requisite Badge and Machine, press the action button to Dive below!", "ja": "必要なバッジと　マシンを　持っていれば　アクションボタンを　押して　ダイビングで　もぐりましょう!"}
+{"sec": "map:689", "key": "Alternatively, when you're underwater already, you might hear this!", "en": "Alternatively, when you're underwater already, you might hear this!", "ja": "あるいは　すでに　水中に　いるときは　この音が　聞こえることも　あります!"}
+{"sec": "map:689", "key": "That means you're in a good place to resurface!", "en": "That means you're in a good place to resurface!", "ja": "それは　浮上するのに　ちょうどいい場所という　合図です!"}
+{"sec": "map:689", "key": "Press the action button to come up for air.", "en": "Press the action button to come up for air.", "ja": "アクションボタンを　押して　水面に　上がりましょう。"}
+{"sec": "map:689", "key": "This sound will play whenever you're walking through grass.", "en": "This sound will play whenever you're walking through grass.", "ja": "草むらを　歩いているときは　この音が　鳴ります。"}
+{"sec": "map:689", "key": "The area below here is full of grass.", "en": "The area below here is full of grass.", "ja": "この下のエリアは　草むらだらけです。"}
+{"sec": "map:689", "key": "There are no more tutorials below this space. Continuing further down through the grass will exit the area.", "en": "There are no more tutorials below this space.  Continuing further down through the grass will exit the area.", "ja": "この空間より下には　チュートリアルは　ありません。草むらを　さらに　下へ　進むと　このエリアから　出ます。"}
+{"sec": "map:689", "key": "Yes", "en": "Yes", "ja": "はい"}
+{"sec": "map:689", "key": "No", "en": "No", "ja": "いいえ"}

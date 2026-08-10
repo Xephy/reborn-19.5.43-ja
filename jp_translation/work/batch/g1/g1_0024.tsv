@@ -1,0 +1,350 @@
+map_0115#46		If you're here for the Gym, use the Gym entrance on the other side. Duh.
+map_0115#47		Anyway, as I was saying...
+map_0115#48		Hey, you're the one they said to keep out, huh?
+map_0115#49	Blane	So much for that.
+map_0115#50		Whatever. I never saw you.
+map_0115#51		No way! And then what?
+map_0115#52		>- Easterling Street\n^ - 10th Street
+map_0115#53		>- Ivyline Road\nv - 10th Street
+map_0115#54		<- Ivyline Road\nv - 11th Street
+map_0115#55		<- Easterling Street\n^v - 11th Street
+map_0115#56		Oh, dear, oh, dear... 
+map_0115#57		I lost the key to my home.
+map_0115#58		I must've dropped it somewhere, but where?
+map_0115#59		Huh? Omigod, that's it! You found it!
+map_0115#60		This is great! Now I don't have to stand here looking stupid in the rain all day!
+map_0115#61		Thank you so much!
+map_0115#62		Hey, you might already know this, but I'm the Move Relearner!
+map_0115#63		So I can pay you back for helping me! Normally I charge a Heart Scale, but since you found this for me...
+map_0115#64		Ah, well, here, how about this?
+map_0115#65		Okay, I'm going inside now. Come around whenever you need!
+map_0115#66		I'll keep looking... I have to find it.
+map_0115#67		Yes
+map_0115#68		No
+map_0117#0		Hello! Welcome to the Onyx Arcade!
+map_0117#1		Unfortunately, our player versus player systems are currently offline due to a system virus, but please feel free to enjoy the rest of our features!
+map_0117#2		Hello! Welcome to the Onyx Arcade, now fully operational!
+map_0117#3		This is the Pokémon Lottery Corner. I'm Rarity, your attendant today.
+map_0117#4		If the drawn number matches the ID No. of any of your Pokémon, you could win fabulous gifts.
+map_0117#5		Would you like to check today's lucky number?
+map_0117#6		First, I'll look up today's Pokémon Lottery Corner lucky number.
+map_0117#8		Your Lotto Ticket number is \v[1].
+map_0117#9		Now, let's see if it matches the ID No. of any of your Pokémon.
+map_0117#10		I'm sorry. You didn't get a match...
+map_0117#11		Please do visit again.
+map_0117#12		Congratulations!
+map_0117#13		The ID number of your team's \v[2] matches your Lotto Ticket number!
+map_0117#14		The ID number of your PC-boxed \v[2] matches your Lotto Ticket number!
+map_0117#15		Oh my goodness, all five digits matched!
+map_0117#16		You've won the jackpot prize!
+map_0117#17		Please do visit again! Good-bye from Rarity, your attendant!
+map_0117#18		\rYou have no room left. Make room, then come see me.
+map_0117#19		The last four digits matched, so you win the first prize!
+map_0117#20		You have no room left. Make room, then come see me.
+map_0117#21		The last three digits matched, so you win the second prize!
+map_0117#22		The last two digits matched, so you win the third prize!
+map_0117#23		The last digit matched, so you win the fourth prize!
+map_0117#24		Oh, I see.\nPlease do visit us again.
+map_0117#25		You've already drawn a Lotto Ticket today. Please come back tomorrow.
+map_0117#26		I've been waiting for you. Here's the item you won.
+map_0117#27		Why is the game down... 
+map_0117#28		My life has no meaning without online games.
+map_0117#29		I will be the best!!!
+map_0117#30		...When the PvP system is back.
+map_0117#31		Yes! I finally got promoted to Crystal!
+map_0117#32		I'll just gamble my life away until the real game is back.
+map_0117#33		I don't even care if I win or not. Here, have some coins.
+map_0117#34		\PN received 130 coins!
+map_0117#35		All the regulars here are sad 'cuz their arcade game is down.
+map_0117#36		Me? I got a better game right here. It's called Pokémon Reborn.
+map_0117#37		You probably haven't heard of it.
+map_0117#38		The server is offline, and right when I had almost earned enough points to buy a new champion...
+map_0117#39		Here you can buy coins to play our games and win fabulous prizes!
+map_0117#40		Coins can be purchased at 50 for $1000 or 500 for $10,000.
+map_0117#41		\G\CNWould you like to buy some coins?
+map_0117#42		Thank you very much!
+map_0117#43		I'm afraid you don't have the cash. Please come back soon!
+map_0117#44		Enjoy the games!
+map_0117#45		Oh, I'm sorry. In order to purchase coins, you must have a Coin Case first. Please return as soon as you obtain one!
+map_0117#46		Hello! Here, you can exchange your coins for fantastic prizes!
+map_0117#47		Which would you like?
+map_0117#48		Your Coins: \v[230] \ch[62,-1,Snover- 600 Coins,Slugma- 1000 Coins,Mantyke- 1800 Coins,Nidoran M- 3500 Coins,Shinx- 5000 Coins]
+map_0117#49		Thank you! We hope you've enjoyed the Onyx Arcade experience!
+map_0117#50		I'm sorry, it seems you don't have the necessary coins for that prize yet.
+map_0117#51		Machine, why you no payout?!
+map_0117#52		Come on, big money, big money... No Krabbies...
+map_0117#53		You're never too old to play games!
+map_0117#54		Here! Have some coins to get started!
+map_0117#55		\PN received 300 coins!
+map_0117#56		Hum. Which do you think is better, the slot machines or these Voltorb Flip games?
+map_0117#57		I just won big! Let's see if I can turn it into a streak!
+map_0117#58		Cheers, mate!
+map_0117#59		\PN received 200 coins!
+map_0117#60		\PN found 30 coins!
+map_0117#61		\PN found 20 coins!
+map_0117#62		\PN found 15 coins!
+map_0117#63		\PN found 55 coins!
+map_0117#64		\PN found 10 coins!
+map_0117#65		\PN found 45 coins!
+map_0117#66		\PN found 5 coins!
+map_0117#67		\PN found 115 coins!
+map_0117#68		\PN found 235 coins!
+map_0117#69		Your Coins: \v[230]
+map_0117#70		Oh! It looks like you already have that TM!
+map_0117#71		Are you sure you want another one?
+map_0117#72		Sorry, it seems you don't have room for that!
+map_0117#73		We're gonna beat those Gearen City punks for sure!
+map_0117#74		Hey! Stop feeding, you noob!
+map_0117#75		Hey, you're right, this game is pretty fun!
+map_0117#76		I mean, I'm super bad, but I should've started playing this a lot sooner!
+map_0117#77		Stop squabbling, we need sight on the Earl. 
+map_0117#78		Heal please.
+map_0117#79		Ugh, I've been playing for days straight and I'm tired of it.
+map_0117#80		But what else is there even to do?
+map_0117#81		Coral Gym is looking for help?
+map_0117#82		Sure, I'll go help out.
+map_0117#83		Maybe I'll remember what it's like to have a purpose in life or something.
+map_0117#84		\PN found 0 coins!
+map_0117#85		\PN found 5000 coins!
+map_0117#86		Do you and your Pokémon need a rest?
+map_0117#87		I've got nothing better to do while my granddaughter plays on the games.
+map_0117#88		Let me take care of the little ones.
+map_0117#89		Play safe out there!
+map_0117#90		HOST: Let's spin the wheel. See where it may fall? Give into temptation!
+map_0117#91		\PN found 125 coins!
+map_0117#92		Round and round and round and round and round and round and round.................
+map_0117#93		Bah! Lost again. I hate these things.
+map_0117#94		There's gotta be some kind of calculator for it...
+map_0117#95		This is where you win the big money!
+map_0117#96		Yes
+map_0117#97		No
+map_0117#98		50 Coins/$1000
+map_0117#99		500 Coins/$10000
+map_0117#100		No Thanks
+map_0117#101		TM Attract- 1000 Coins
+map_0117#102		TM Facade- 4000 Coins
+map_0117#103		TM Substitute- 7000 Coins
+map_0117#104		Nothing
+map_0122#0		Stupid!
+map_0122#1		Stupid, stupid!
+map_0122#2		I finally just earned the points I needed and then the Onyx Arcade's system goes down!
+map_0122#3		Stupid, stupid, stupid! I quit! I'm done! I can't do this anymore!
+map_0122#4		Hey. Hey you, you know what?
+map_0122#5		Take this! I won't need it anymore. I'm moving on.
+map_0122#6		Stupid...
+map_0122#7		Stupid arcades...
+map_0122#8		I don't care if and when they're back up. I'm using this to quit once and for all.
+map_0122#9		The computer is glitching out. It doesn't seem to respond to any input.
+map_0122#10		There's a port for a chip on the side of the monitor.
+map_0122#11		\PN used the Data Chip!
+map_0122#12		#@8888noxtox29^2
+map_0122#13		VIR#16872067893@58ffffff88911010
+map_0122#14		$%$%!!(ghs)77[mmddyyyy]?
+map_0122#17		???????????????????????????????? ????????????????????????????????
+map_0122#18		"Study notes: ..."\nThe handwriting is too messy to make out most of the text...
+map_0122#19		Read?
+map_0122#20		"Togekiss learn set"... "Extreme Speed, Aura Sphere, Air Slash"...
+map_0122#21		... "Fire Blast, Aerial Ace, Facade" ... "Swagger, Pluck, Substitute" ...
+map_0122#22		... "Magical Leaf, Charm, Growl" ... "Safeguard, Baton Pass, After You" ...
+map_0122#23		... "Focus Punch, Water Pulse, Shock Wave" ...  "Swift, Ancient Power, Endeavor" ...
+map_0122#24		...The rest is illegible.
+map_0122#25		"Study notes: Ninjask Stat Caps"
+map_0122#26		"Maximum levels:
+map_0122#27		HP: 326\nAtk: 306 Def: 207
+map_0122#28		Sp.Atk: 218\nSp.Def: 218 Speed: 460"
+map_0122#29		"All about Beartic, the Freezing Pokémon"
+map_0122#30		"Evolving from Cubchoo at level 37, Beartic is a unique Pokémon whose Abilities allow it to thrive in multiple kinds of weather.
+map_0122#31		Its Snow Cloak Ability, one of the precious few hail- dependent tactics, grants it extra Evasion in the snow. 
+map_0122#32		On the other hand, it's one of only two non-Water- types to get the Swift Swim Ability, augmenting its lackluster Speed.
+map_0122#33		Because of its unique typing with Swift Swim, Beartic is a great addition to any rain team looking to balance out their types.
+map_0122#34		Nevertheless, Beartic's most notable claim to fame must be its access to the ability Slush Rush.
+map_0122#35		The best of both worlds among its other Abilities, doubling Speed and making strong use of Hail's full potential, Beartic can become a fantastic sweeper.
+map_0122#36		Those looking to run Ice- and Hail-themed teams should absolutely consider adopting this majestic Pokémon for their ranks!"
+map_0122#37		Nevertheless, Beartic's most notable claim to fame must be its access to the Ability Slush Rush.
+map_0122#38		"Study notes: Beat Up Attack"
+map_0122#39		Beat Up is a unique move. This Dark-type attack inflicts damage multiple times based on the number of healthy Pokémon in the user's party.
+map_0122#40		For instance, with four Pokémon, it will attack four times. However, the power of each hit is always dependent on the user's stats.
+map_0122#41		The power of each hit is determined by taking the Attack stat of the user, ignoring any boosts, dividing it by ten, and adding five to the result.
+map_0122#42		Naturally, a high-Attack Dark-type is best to use it."
+map_0122#43		"All about Honchkrow, the Big Boss Pokémon"
+map_0122#44		"Honchkrow, like its pre-evolution Murkrow, is a Dark/Flying-type, obtained by applying a Dusk Stone to Murkrow.
+map_0122#45		Its Abilities include Insomnia, Super Luck, and most notably, Moxie.
+map_0122#46		Honchkrow is a great abuser of the move Sucker Punch, and proper timing combined with the Moxie Ability can make Honchkrow a devastating force.
+map_0122#47		However, by evolving into Honchkrow, a Trainer could miss out on Murkrow's super-utile Prankster Ability, so make sure to choose wisely!"
+map_0122#48		However, by evolving into Honchkrow, a Trainer could miss out on Murkrow's super-utile Prankster Ability, so make sure to choose wisely!
+map_0122#49		"Study notes: Answers to Ms. Belatry's final"
+map_0122#50		"1- C\n2- A 3- C
+map_0122#51		4- B\n5- B 6- D"
+map_0122#53		Somebody could get in a lot of trouble if this was found.
+map_0122#54		H-hey, back off!
+map_0122#55		You trying to peek in on my Mr. Mimecraft game?
+map_0122#56		No way, buddy!
+map_0122#57		I got here first!
+map_0122#58		I'm putting off studying, and having a helluva time!
+map_0122#59		Only way you could ever convince me to move is helping me find somethin' better!
+map_0122#60		Hey, back off while I'm playing my game, man!
+map_0122#61		Only way I'll ever move is--
+map_0122#62		Huh?
+map_0122#63		There's a cave with a bunch of mining rocks...?
+map_0122#64		Under the North Obsidia Ward?
+map_0122#65		Just like Mr. Mimecraft-- but like, actually!
+map_0122#66		Gonna mine some diamonds, y'know?
+map_0122#67		There's, uh... something wrong with the computer now, anyways. I dunno what I did--
+map_0122#68		Well, not my problem anymore!
+map_0122#69		Peace, homie! Thanks for the tip!
+map_0122#70		Yes
+map_0122#71		No
+map_0124#0		So everyone else didn't do anything, huh? Guess it's up to me.
+map_0124#1	Trey	Right then.
+map_0124#2		Fern's gonna kick the crap out of me...
+map_0124#3		So much for the gate, huh? Your road ends here.
+map_0124#4	Skye	Oh, you mean that gate key.
+map_0124#5		Look, tell Fern I gave you hell, okay?
+map_0124#6		Tehehehe, do you think you're ready to best us?
+map_0124#7	Lithi	Your display of your battling prowess far exceeds ours...
+map_0124#8		Bravo~
+map_0124#9		Step into the arena, test your skills!
+map_0124#10	Destry	You pass!
+map_0124#11		These practice arenas are great, but sometimes get a little messy.
+map_0124#12		XXX- WHAT LEVEL DOES STARMIE LEARN RAPID SPIN?
+map_0124#13		CORRECT.
+map_0124#14		INCORRECT.
+map_0124#15		QUESTION COMPLETE.
+map_0124#16		XXX- WHAT NUMBER IS HUNTAIL IN THE NATIONAL DEX?
+map_0124#17		XXX- TRUE OR FALSE: AREAS HAVE FIELD EFFECTS THAT CAN INCREASE OR CHANGE THE POWER, ACCURACY AND TYPE OF SOME ATTACKS
+map_0124#18		XXX- TRUE OR FALSE: FIELD EFFECTS CAN BE DESTROYED OR TRANSFORMED BY CERTAIN ATTACKS
+map_0124#19		XXX- WHAT IS CORSOLA'S BASE STAT TOTAL?
+map_0124#20		"The Fast and the Furious Pokémon!"
+map_0124#21		Read?
+map_0124#22		"Let's talk about Speed!
+map_0124#23		It's a crucial element to winning battles-- knowing if you or your opponent will move first! So, it's important to know how fast each Pokémon is!
+map_0124#24		Let's look at the fastest! Deoxys, Speed Forme, reigns king, but its Normal and Attack Formes aren't far behind! 
+map_0124#25		However, Ninjask actually takes 2nd place!
+map_0124#26		After that, it's Accelgor at 145 speed, and Electrode at 140! Yikes! 
+map_0124#27		Down from there, there's a four-way tie between Crobat, Jolteon, Aerodactyl and Mewtwo, at just 130.
+map_0124#28		Then, Meloetta's Pirouette Forme and the Sky Shaymin come in after there!
+map_0124#29		Finally, Swellow, Weavile and Darkrai finish out our list with just 125 Base Speed.
+map_0124#30		That's it for the fastest Pokémon known to date-- Megas notwithstanding! Study up!"
+map_0124#31		XXX- TRUE OR FALSE: FIELD EFFECTS CAN HAVE SPECIAL CHARACTERISTICS THAT MAY DRAMATICALLY ALTER A BATTLE
+map_0124#32		XXX- AT WHAT LEVEL DOES A CUBCHOO EVOLVE?
+map_0124#33		XXX- HOW MANY POKÉMON CAN LEARN THE ATTACK LAVA PLUME BY LEVEL-UP?
+map_0124#34		After that, it's Electrode at 150, Accelgor at 145 Speed, and Zeraora at 143! Yikes! 
+map_0124#35		Down from there, there's a five-way tie between Crobat, Jolteon, Aerodactyl, Tapu Koko and Mewtwo, at just 130.
+map_0124#36		Then, Meloetta's Pirouette Forme and the Sky Shaymin come in after there, followed shortly by Talonflame!
+map_0124#37		Finally, Swellow, Weavile, Marshadow and Darkrai finish out our list with just 125 Base Speed.
+map_0124#38		Some of these are really tough. 
+map_0124#39		But they're necessary to answer for anyone who wants to challenge Florinia!
+map_0124#40		Hey, I was thinking, maybe I could challenge Florinia soon? I could get a special grade if I beat her!
+map_0124#41		"All about Starmie, the Mysterious Pokémon."
+map_0124#42		"Starmie, the evolved form of Staryu, boasts greatly improved stats and viability from its pre-evolution.
+map_0124#43		Regrettably, the natural movepool is not one of Starmie's strengths. Like most stone-evolved Pokémon, its natural moves become severely limited.
+map_0124#44		In fact, it officially learns only seven moves naturally, with six of them being at level 1. 
+map_0124#45		These moves include Water Gun, Swift, Rapid Spin and Recover. The final move is Confuse Ray, learned at level 40.
+map_0124#46		All in all, the choice to evolve Staryu is best made after it has already learned the moves it will use."
+map_0124#47		Ugh, I can't get any of these questions...
+map_0124#48		I guess I have to read up.
+map_0124#49		I think the answers are in the books around the school-- even just the ones lying on the floor.
+map_0124#50		What a mess.
+map_0124#51		Hey, haven't I seen you around here before?
+map_0124#52		You must be...
+map_0124#53		That's right, you're a new student, aren't you?
+map_0124#54		Hey, you're kinda cute. If you wanna hang out, call me.
+map_0124#55		Moves that never miss? That's like, Swift and Aerial Ace, right?
+map_0124#56		Umm, you're that p-person all the other students have been talking about, aren't you?
+map_0124#57		C-could I m-maybe, uhm...
+map_0124#58		Could I get your autograph?
+map_0124#59		Aah! I'll treasure this forever!
+map_0124#60		...After I show it off, of course.
+map_0124#61		Having trouble with the quiz questions? Better study up!
+map_0124#62		Just read the books around the school, and I bet you'll find your answers!
+map_0124#63		You are that \PN, aren't you?
+map_0124#64		You are quite a common distraction for my students.  Some of them follow you like tabloids.
+map_0124#65		"Central Hall Upper Gate-- Unlocking...
+map_0124#66		Unlocking...
+map_0124#68		-ERROR-"
+map_0124#69		???: Oi, what's all the ruckus?
+map_0124#70		Heard half the school's up in arms over some challenger or another.
+map_0124#71		Don't suppose that's you?
+map_0124#72		???: Rock on.
+map_0124#73		The half that's riled is all just Fern's roadies. 
+map_0124#74		Can't stand the lot of them myself, and I donno why anyone puts up with him.
+map_0124#75		???: Just the bystander then?
+map_0124#76		Apologies for the rough ride.
+map_0124#77		A lout named Fern's got all his groupies goin' on about someone or other.
+map_0124#78		Man's got all the charm of a dusty Stunfisk and about as much honor.
+map_0124#79		So you're locked out, huh?
+map_0124#80		This switch's what does the deed, but it's a little janked out at times.
+map_0124#81		Scoot.
+map_0124#82		???: Sometimes you just gotta give it a good bang.
+map_0124#83		Just like...
+map_0124#84		???: Works every time.
+map_0124#85		HARDY: Name's Hardy, by the way.
+map_0124#86		Gym Leader by profession, rock star by aspiration...
+map_0124#87		...Student by technicality.
+map_0124#88		I've got chords to catch, so I'mma split.
+map_0124#89		You keep on keepin' on, mate.
+map_0124#90		Give Fern hell for me.
+map_0124#91		Let's see... If I recall correctly, moves that add a type work a little differently here than in other regions...
+map_0124#92		Whereas in other regions, Pokémon afflicted with Forest's Curse or Trick or Treat act as if they have a third type, apparently that's not the case here.
+map_0124#93		Instead, those moves act more like Soak, where it overwrites their Types entirely...
+map_0124#94		I wonder why?
+map_0124#95		Did you know?
+map_0124#96		The kids say the best place to train your Speed stat is at the western exit of the Underground Railnet!
+map_0124#97		Skip Onyx Gym puzzle?
+map_0124#98		True
+map_0124#99		False
+map_0124#100		Yes
+map_0124#101		No
+map_0126#0		Florinia takes education very seriously!
+map_0126#1		So serious, in fact, you'll have to answer a set of quiz questions to even access her arena!
+map_0126#2		Study up, young one!
+map_0126#3		Hmm. So you've done your reading after all.
+map_0126#4		Well, then it's time to put your knowledge to the test.
+map_0126#5		You earned your Badge from her after all?
+map_0126#6		She also still has a lot to learn, I suppose.
+map_0126#7		I'm afraid Florinia is out on business, and will be for a while.
+map_0126#8		AME: \PN?
+map_0126#9		Hey there! So I see you've made it to the Gym.
+map_0126#10		This telecom system connects right to the Grand Hall, so no matter where you are, whenever you get to a Gym, you can call in for advice!
+map_0126#11		Anyway...
+map_0126#12		So you're at Florinia's Gym.
+map_0126#13		Okay! So Florinia's fighting style is a little different from what you might expect from a Grass Leader-- her team is centered around sand.
+map_0126#14		Her 'desert rose' fighting style can be tricky-- she'll try to stall you out and take you down with residual sand damage and other status effects. 
+map_0126#15		Florinia's all about knowledge and strategy, so try something different from that to beat her.
+map_0126#16		Maybe you can find a way to abuse the sand and get lucky? Even if she insists that's not a factor.
+map_0126#17		Or, pick something that hits hard and power through her before she can get her effects going! Brawn over brains, if you will.
+map_0126#18		Good luck!
+map_0126#19		No one seems to be picking up at the Grand Hall...
+map_0127#0		FLORINIA: You return. Very well.
+map_0127#1		FLORINIA: Let's begin the next trial.
+map_0127#2		FLORINIA: Welcome, \PN.
+map_0127#3		Your assistance in Meteor-related affairs is appreciated.
+map_0127#4		However, that alone fails to merit the appropriation of a Badge.
+map_0127#5		In order to determine eligibility for Badge-ownership, further trial is required.
+map_0127#6		Do not mistake the impartial application of these tests as unthankfulness. 
+map_0127#7		It is simply procedure. 
+map_0127#8		Accordingly, let us begin.
+map_0127#9		FLORINIA: Students, please take notes on standard battling procedure. 
+map_0127#10		The demonstration will commence.
+map_0127#11		Hypothesis: Subject displays insufficient data for conclusive success.
+map_0127#12		Expected outcome: Failure.
+map_0127#14		FLORINIA: Challenger remains due to receive Canopy Badge.
+map_0127#15		\PN received the Canopy Badge!
+map_0127#16		FLORINIA: The Canopy Badge encourages proper behavior among Pokémon up to level 35.
+map_0127#17		Additionally, as per custom, accept this TM.
+map_0127#18		FLORINIA: Nature Power varies based on the terrain and Field Effects in which it is used.
+map_0127#19		To use it effectively, one must exercise proper knowledge and understanding-- a staple of an effective Trainer.
+map_0127#20		Use it wisely.
+map_0127#21		AMARIA: Excuse me~
+map_0127#22		Hope I'm not interrupting!
+map_0127#23		FLORINIA: The previous trial was just concluded.
+map_0127#24		Report.
+map_0127#25		AMARIA: Apparently Borealis was seen up around the Beryl Ward recently. 
+map_0127#26		If he's there, there's a chance Victoria is too.
+map_0127#27		FLORINIA: ...Understood.
+map_0127#28		\PN, as has been mentioned already, the Beryl and Jasper Wards presently remain under strict lockdown due to flora-incited destruction a la the Obsidia Park.
+map_0127#29		Whereas we caught Obsidia in a budding state, property and economic damage in those wards has been extensive.
+map_0127#30		If Borealis exists there as well, it is highly likely a correlation exists.
+map_0127#31		Being that you alone have had the experience of successfully terminating the previous machine, as well as witnessing Borealis, you are an ideal candidate for an excursion into the Beryl Ward.
+map_0127#32		Incidentally, this speaker has created another application that may be of service to you. 
+map_0127#33		\PN received the PULSE Dex!

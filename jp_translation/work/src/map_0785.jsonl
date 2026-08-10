@@ -1,0 +1,174 @@
+{"sec": "map:785", "key": "\"SIZE:\"", "en": "\"SIZE:\"", "ja": "「サイズ:」"}
+{"sec": "map:785", "key": "\"Miniscule\"", "en": "\"Miniscule\"", "ja": "「極小」"}
+{"sec": "map:785", "key": "\"Small\"", "en": "\"Small\"", "ja": "「小」"}
+{"sec": "map:785", "key": "\"Medium\"", "en": "\"Medium\"", "ja": "「中」"}
+{"sec": "map:785", "key": "\"Large\"", "en": "\"Large\"", "ja": "「大」"}
+{"sec": "map:785", "key": "\"HARDNESS:\"", "en": "\"HARDNESS:\"", "ja": "「硬度:」"}
+{"sec": "map:785", "key": "\"5\"", "en": "\"5\"", "ja": "「5」"}
+{"sec": "map:785", "key": "\"6\"", "en": "\"6\"", "ja": "「6」"}
+{"sec": "map:785", "key": "\"7\"", "en": "\"7\"", "ja": "「7」"}
+{"sec": "map:785", "key": "\"8\"", "en": "\"8\"", "ja": "「8」"}
+{"sec": "map:785", "key": "\"PURITY:\"", "en": "\"PURITY:\"", "ja": "「純度:」"}
+{"sec": "map:785", "key": "\"Impure\"", "en": "\"Impure\"", "ja": "「不純」"}
+{"sec": "map:785", "key": "\"Middling\"", "en": "\"Middling\"", "ja": "「中程度」"}
+{"sec": "map:785", "key": "\"Pure\"", "en": "\"Pure\"", "ja": "「純粋」"}
+{"sec": "map:785", "key": "\"Flawless\"", "en": "\"Flawless\"", "ja": "「完璧」"}
+{"sec": "map:785", "key": "CAL: Oh, \\PN.", "en": "CAL: Oh, \\PN.", "ja": "キャル: おっと、\\PN。"}
+{"sec": "map:785", "key": "You're a sight for sore eyes.", "en": "You're a sight for sore eyes.", "ja": "会えてうれしいよ。"}
+{"sec": "map:785", "key": "You'd think after so long I'd be used to my brother effectively trying to kill me, but somehow it still gets me every time.", "en": "You'd think after so long I'd be used to my brother effectively trying to kill me, but somehow it still gets me every time.", "ja": "もうこんなに長いこと兄貴に殺されかけてるんだから、いい加減慣れてもよさそうなのに、なぜか毎回堪えるんだよな。"}
+{"sec": "map:785", "key": "No hard feelings about before, okay?", "en": "No hard feelings about before, okay?", "ja": "この前のことは根に持ってないから、いいよな?"}
+{"sec": "map:785", "key": "Wasn't exactly the hugest fan of being stuck like that, but it is what it is, and it's fine now.", "en": "Wasn't exactly the hugest fan of being stuck like that, but it is what it is, and it's fine now.", "ja": "あんな風に閉じ込められるのはあんまりうれしくなかったけど、まあそういうもんだし、もう大丈夫だ。"}
+{"sec": "map:785", "key": "Right now we have a job to finish.", "en": "Right now we have a job to finish.", "ja": "今は片付けなきゃいけない仕事がある。"}
+{"sec": "map:785", "key": "CAL: So... what's all this?", "en": "CAL: So... what's all this?", "ja": "キャル: それで…これは一体何だ?"}
+{"sec": "map:785", "key": "CAL: May I?", "en": "CAL: May I?", "ja": "キャル: いいか?"}
+{"sec": "map:785", "key": "CAL: Let's see...", "en": "CAL: Let's see... ", "ja": "キャル: ええと…"}
+{"sec": "map:785", "key": "It's still operational. Must be modern.", "en": "It's still operational. Must be modern.", "ja": "まだ動いてるな。最近のものに違いない。"}
+{"sec": "map:785", "key": "Looks like it's for sorting and classifying excavated minerals.", "en": "Looks like it's for sorting and classifying excavated minerals.", "ja": "発掘された鉱物を選別・分類するためのものみたいだ。"}
+{"sec": "map:785", "key": "It has a data set loaded, but I don't...", "en": "It has a data set loaded, but I don't...", "ja": "データセットが読み込まれてるけど、俺には…"}
+{"sec": "map:785", "key": "CAL: Yeah, I don't think the minerals are actually here anymore.", "en": "CAL: Yeah, I don't think the minerals are actually here anymore.", "ja": "キャル: ああ、その鉱物はもうここにはないと思う。"}
+{"sec": "map:785", "key": "And naturally it says it's locked until the properties are matched.", "en": "And naturally it says it's locked until the properties are matched.", "ja": "案の定、特性が一致するまでロックされてるって書いてある。"}
+{"sec": "map:785", "key": "Give me a sec...", "en": "Give me a sec...", "ja": "ちょっと待って…"}
+{"sec": "map:785", "key": "Computers aren't exactly my thing, but this interface is apparently built so that even empty- headed miners can work it.", "en": "Computers aren't exactly my thing, but this interface is apparently built so that even empty- headed miners can work it.", "ja": "コンピュータは俺の得意分野じゃないけど、このインターフェースは頭が空っぽの鉱夫でも扱えるように作られてるらしい。"}
+{"sec": "map:785", "key": "You just have to... push the blocks around?", "en": "You just have to... push the blocks around?", "ja": "つまり…ブロックを押して動かせばいいだけ?"}
+{"sec": "map:785", "key": "On second thought, that seems horribly inefficient.", "en": "On second thought, that seems horribly inefficient.", "ja": "考え直してみると、ものすごく非効率的に思える。"}
+{"sec": "map:785", "key": "Well, there are some details here about the minerals, and if we want to unlock the way I guess we'll have to go over them and connect the dots.", "en": "Well, there are some details here about the minerals, and if we want to unlock the way I guess we'll have to go over them and connect the dots.", "ja": "まあ、ここに鉱物についての詳細情報がいくつかあるから、道を開けたいなら、これを調べて筋道をつなげるしかなさそうだ。"}
+{"sec": "map:785", "key": "Or something.", "en": "Or something. ", "ja": "みたいな感じだ。"}
+{"sec": "map:785", "key": "I'll summarize this and then you can talk to me if you want to get started.", "en": "I'll summarize this and then you can talk to me if you want to get started.", "ja": "これをまとめておくから、始めたくなったら話しかけてくれ。"}
+{"sec": "map:785", "key": "\"Complete.\"", "en": "\"Complete.\"", "ja": "「完了」"}
+{"sec": "map:785", "key": "CAL: All right.", "en": "CAL: All right. ", "ja": "キャル: よし。"}
+{"sec": "map:785", "key": "So the gist is...", "en": "So the gist is... ", "ja": "つまり要点は…"}
+{"sec": "map:785", "key": "I've got a list of details about these missing minerals.", "en": "I've got a list of details about these missing minerals.", "ja": "この失われた鉱物についての詳細リストがある。"}
+{"sec": "map:785", "key": "They'll have to serve as our clues, so to speak.", "en": "They'll have to serve as our clues, so to speak.", "ja": "これが言わば手がかりになるはずだ。"}
+{"sec": "map:785", "key": "Looks like there's exactly four of them, and one for each color.", "en": "Looks like there's exactly four of them, and one for each color.", "ja": "ちょうど4つあって、それぞれ色が違うみたいだな。"}
+{"sec": "map:785", "key": "It's pretty incomplete, but we'll have to do our best to fill in the holes and figure out the properties each color mineral had.", "en": "It's pretty incomplete, but we'll have to do our best to fill in the holes and figure out the properties each color mineral had.", "ja": "かなり不完全だけど、穴を埋めて各色の鉱物の特性を突き止めるしかない。"}
+{"sec": "map:785", "key": "Once we have an idea of it, we'll push the matching blocks into position, matching the screens above them.", "en": "Once we have an idea of it, we'll push the matching blocks into position, matching the screens above them.", "ja": "見当がついたら、対応するブロックを、上の画面に合わせて所定の位置まで押していこう。"}
+{"sec": "map:785", "key": "The screens each display properties the minerals can have, or a category thereof.", "en": "The screens each display properties the minerals can have, or a category thereof.", "ja": "画面にはそれぞれ、鉱物が持ちうる特性やそのカテゴリーが表示されてる。"}
+{"sec": "map:785", "key": "So if we decided that the Emerald had a Hardness of 5, we'd have to push that green block in front of the screen that says \"5\".", "en": "So if we decided that the Emerald had a Hardness of 5, we'd have to push that green block in front of the screen that says \"5\".", "ja": "つまり、エメラルドの硬度が5だと決まったら、緑のブロックを「5」と書かれた画面の前まで押すことになる。"}
+{"sec": "map:785", "key": "Uh, a lower Hardness means it's softer, I guess?", "en": "Uh, a lower Hardness means it's softer, I guess?", "ja": "ええと、硬度が低いほど柔らかいってことだと思う?"}
+{"sec": "map:785", "key": "...Frankly, I'm not so sure these are the actual scientific properties, but... whatever they say, I guess.", "en": "...Frankly, I'm not so sure these are the actual scientific properties, but... whatever they say, I guess.", "ja": "…正直、これが本当に科学的な特性なのかは自信ないけど…まあ、書いてある通りにするしかないか。"}
+{"sec": "map:785", "key": "Once everything's in place, I can check it against the registered data set.", "en": "Once everything's in place, I can check it against the registered data set.", "ja": "全部所定の位置に置いたら、登録されてるデータセットと照合できる。"}
+{"sec": "map:785", "key": "If it's a perfect match, then it should unlock.", "en": "If it's a perfect match, then it should unlock.", "ja": "完全に一致すれば、ロックが解除されるはずだ。"}
+{"sec": "map:785", "key": "So, how do you want to start?", "en": "So, how do you want to start?", "ja": "それで、どう始めたい?"}
+{"sec": "map:785", "key": "CAL: What's the word?", "en": "CAL: What's the word?", "ja": "キャル: どうする?"}
+{"sec": "map:785", "key": "CAL: All right, let's take a look...", "en": "CAL: All right, let's take a look...", "ja": "キャル: よし、見てみよう…"}
+{"sec": "map:785", "key": "CAL: I get the feeling pen and paper might be helpful for this, if there's anything like that around.", "en": "CAL: I get the feeling pen and paper might be helpful for this, if there's anything like that around.", "ja": "キャル: これ、ペンと紙があると助かる気がするな。その辺にないか?"}
+{"sec": "map:785", "key": "What a mess.", "en": "What a mess.", "ja": "ひどい有様だな。"}
+{"sec": "map:785", "key": "CAL: I'll give it a shot.", "en": "CAL: I'll give it a shot.", "ja": "キャル: やってみるよ。"}
+{"sec": "map:785", "key": "...", "en": "...", "ja": "…………"}
+{"sec": "map:785", "key": "CAL: ...I guess it worked?", "en": "CAL: ...I guess it worked?", "ja": "キャル: …うまくいった、のか?"}
+{"sec": "map:785", "key": "Great job as usual.", "en": "Great job as usual.", "ja": "相変わらずお見事。"}
+{"sec": "map:785", "key": "I'm going to go on ahead then.", "en": "I'm going to go on ahead then.", "ja": "じゃあ俺は先に行くよ。"}
+{"sec": "map:785", "key": "Someone is going to have to reason with that chump...", "en": "Someone is going to have to reason with that chump...", "ja": "誰かがあの馬鹿に道理を説かなきゃいけないだろうし…"}
+{"sec": "map:785", "key": "Well, \"reason\" may be a generous choice of wording...", "en": "Well, \"reason\" may be a generous choice of wording...", "ja": "まあ、「道理を説く」ってのは、ちょっと甘い言い方かもしれないけど…"}
+{"sec": "map:785", "key": "But we all have to do our part.", "en": "But we all have to do our part.", "ja": "でも、みんなそれぞれの役目を果たさなきゃな。"}
+{"sec": "map:785", "key": "And as much as I dislike it, he feels like my mess, and my responsibility to clean up.", "en": "And as much as I dislike it, he feels like my mess, and my responsibility to clean up.", "ja": "気に食わないけど、あいつは俺の後始末みたいなもんで、俺の責任で片付けるべきなんだろう。"}
+{"sec": "map:785", "key": "You focus on finding the way forward.", "en": "You focus on finding the way forward. ", "ja": "お前は先に進む道を見つけることに集中してくれ。"}
+{"sec": "map:785", "key": "If anyone has a chance against Lin...", "en": "If anyone has a chance against Lin...", "ja": "もし誰かがリンに対抗できる可能性があるとしたら…"}
+{"sec": "map:785", "key": "Well, you know.", "en": "Well, you know.", "ja": "まあ、わかるだろ。"}
+{"sec": "map:785", "key": "Good luck.", "en": "Good luck.", "ja": "幸運を。"}
+{"sec": "map:785", "key": "CAL: No luck, looks like.", "en": "CAL: No luck, looks like.", "ja": "キャル: 運が悪かったみたいだ。"}
+{"sec": "map:785", "key": "Seems like this is going to take a little more work...", "en": "Seems like this is going to take a little more work...", "ja": "もう少し手間がかかりそうだな…"}
+{"sec": "map:785", "key": "I guess we'll have to think about it another way.", "en": "I guess we'll have to think about it another way.", "ja": "別の角度から考えるしかなさそうだ。"}
+{"sec": "map:785", "key": "For instance, since we already know that Sapphire's Hardness is less than Emerald's, that means we can safely rule out Sapphire on Hardness 8.", "en": "For instance, since we already know that Sapphire's Hardness is less than Emerald's, that means we can safely rule out Sapphire on Hardness 8.", "ja": "たとえば、サファイアの硬度がエメラルドより低いのはもう分かってるから、硬度8のサファイアは安全に除外できる。"}
+{"sec": "map:785", "key": "Looking for extra information in these clues like that might give us what we need.", "en": "Looking for extra information in these clues like that might give us what we need.", "ja": "そんな風に手がかりから追加の情報を探せば、必要なものが見つかるかもしれない。"}
+{"sec": "map:785", "key": "CAL: I've got a list of details about these missing minerals.", "en": "CAL: I've got a list of details about these missing minerals.", "ja": "キャル: この失われた鉱物についての詳細リストがある。"}
+{"sec": "map:785", "key": "So if we decided that the Emerald was Small, we'd have to push that green block in front of the screen that says \"Small\".", "en": "So if we decided that the Emerald was Small, we'd have to push that green block in front of the screen that says \"Small\".", "ja": "つまり、エメラルドが「小」だと決まったら、緑のブロックを「小」と書かれた画面の前まで押すことになる。"}
+{"sec": "map:785", "key": "All I need is the power to be able to protect my friends...", "en": "All I need is the power to be able to protect my friends...", "ja": "私に必要なのは、友達を守れるだけの力…"}
+{"sec": "map:785", "key": "So long as I can have the strength to do that, I don't care if I'm weaker than everyone else in the world.", "en": "So long as I can have the strength to do that, I don't care if I'm weaker than everyone else in the world.", "ja": "それさえあれば、世界中の誰よりも弱くたって構わない。"}
+{"sec": "map:785", "key": "BENNETT: How far can you run...", "en": "BENNETT: How far can you run...", "ja": "ベネット: どこまで走れる…"}
+{"sec": "map:785", "key": "Oh, \\PN. You've come to help too?", "en": "Oh, \\PN. You've come to help too?", "ja": "おや、\\PN。君も手伝いに来てくれたのか?"}
+{"sec": "map:785", "key": "Wait, \\PN?!", "en": "Wait, \\PN?!", "ja": "待てよ、\\PN?!"}
+{"sec": "map:785", "key": "Julia said that you--", "en": "Julia said that you--", "ja": "ジュリアが言ってたけど、君が――"}
+{"sec": "map:785", "key": "Well, it's Julia. She said a lot of things.", "en": "Well, it's Julia. She said a lot of things.", "ja": "まあ、ジュリアだからな。いろいろ言ってたよ。"}
+{"sec": "map:785", "key": "I'll figure out the details later.", "en": "I'll figure out the details later.", "ja": "詳しいことは後で確かめるよ。"}
+{"sec": "map:785", "key": "Shall we work together to catch this thing?", "en": "Shall we work together to catch this thing?", "ja": "一緒にこいつを捕まえようか?"}
+{"sec": "map:785", "key": "I've been chasing it all around this place for some time already, but cornering it seems nigh impossible...", "en": "I've been chasing it all around this place for some time already, but cornering it seems nigh impossible...", "ja": "もうしばらくこの辺を追い回してるんだけど、追い詰めるのはほとんど不可能に思えてね…"}
+{"sec": "map:785", "key": "Still, no point in giving up now. How much further could it possibly go?", "en": "Still, no point in giving up now. How much further could it possibly go?", "ja": "でも、今さら諦める意味もない。これ以上どこまで逃げられるっていうんだ?"}
+{"sec": "map:785", "key": "Let's find out.", "en": "Let's find out.", "ja": "確かめてみよう。"}
+{"sec": "map:785", "key": "BENNETT: The little thing ran straight through...", "en": "BENNETT: The little thing ran straight through...", "ja": "ベネット: あの小さいのがまっすぐ走り抜けて…"}
+{"sec": "map:785", "key": "Jumped over this machine, and here we are.", "en": "Jumped over this machine, and here we are.", "ja": "この機械を飛び越えて、それで今ここにいるってわけだ。"}
+{"sec": "map:785", "key": "You already got through Victory Road once, so you should already know about these... but this one looks particularly unfriendly.", "en": "You already got through Victory Road once, so you should already know about these... but this one looks particularly unfriendly.", "ja": "君はもう一度チャンピオンロードを抜けてきたから、これのことはもう知ってるはずだけど…これは特に手強そうだ。"}
+{"sec": "map:785", "key": "I suppose I'll be your guide to this disaster tonight.", "en": "I suppose I'll be your guide to this disaster tonight.", "ja": "今夜はこの惨状の案内役を務めさせてもらうよ。"}
+{"sec": "map:785", "key": "How should we start?", "en": "How should we start?", "ja": "どう始めようか?"}
+{"sec": "map:785", "key": "BENNETT: We've got this. What's next?", "en": "BENNETT: We've got this. What's next?", "ja": "ベネット: これでよし。次は?"}
+{"sec": "map:785", "key": "BENNETT: Best get a notepad. This is a mess.", "en": "BENNETT: Best get a notepad. This is a mess.", "ja": "ベネット: メモ帳を用意した方がいいな。これはひどい有様だ。"}
+{"sec": "map:785", "key": "BENNETT: That's all there is.", "en": "BENNETT: That's all there is.", "ja": "ベネット: これで全部だ。"}
+{"sec": "map:785", "key": "BENNETT: I'll try running it.", "en": "BENNETT: I'll try running it.", "ja": "ベネット: 動かしてみるよ。"}
+{"sec": "map:785", "key": "BENNETT: No good, then.", "en": "BENNETT: No good, then.", "ja": "ベネット: だめだったか。"}
+{"sec": "map:785", "key": "Unfortunate.", "en": "Unfortunate.", "ja": "残念だな。"}
+{"sec": "map:785", "key": "Allow me to try as well...", "en": "Allow me to try as well...", "ja": "俺にもやらせてもらうよ…"}
+{"sec": "map:785", "key": "For my part, I believe I'm getting closer to a solution.", "en": "For my part, I believe I'm getting closer to a solution.", "ja": "俺の方は、解決に近づいてきてる気がする。"}
+{"sec": "map:785", "key": "I've realized that, assuming this is solvable, the logic must be ruled out in pairs.", "en": "I've realized that, assuming this is solvable, the logic must be ruled out in pairs.", "ja": "これが解けると仮定するなら、論理はペアで除外していくしかないと気づいたんだ。"}
+{"sec": "map:785", "key": "For example, that large rock is blocking two of the devices in the Foliation section.", "en": "For example, that large rock is blocking two of the devices in the Foliation section.", "ja": "たとえば、あの大きな岩が片理の項目にある装置を2つ塞いでる。"}
+{"sec": "map:785", "key": "Therefore, if this is solvable, those two gems can only have Foliation that is classified as \"Indistinct\" or \"Difficult.\"", "en": "Therefore, if this is solvable, those two gems can only have Foliation that is classified as \"Indistinct\" or \"Difficult.\"", "ja": "だから、これが解けるなら、その2つの宝石が持ちうる片理は「不明瞭」か「困難」のどちらかしかありえない。"}
+{"sec": "map:785", "key": "That much is obvious, but because there's two of those to two properties, that conversely means that the other two gems cannot have those properties.", "en": "That much is obvious, but because there's two of those to two properties, that conversely means that the other two gems cannot have those properties.", "ja": "そこまでは明らかだけど、2つの特性に対して2つずつあるということは、逆に言えば残りの2つの宝石はそれらの特性を持ちえないということだ。"}
+{"sec": "map:785", "key": "Although we don't know for sure which gem has which property, we can rule out additional combinations by considering them together.", "en": "Although we don't know for sure which gem has which property, we can rule out additional combinations by considering them together.", "ja": "どの宝石がどの特性を持つかは確実にはわからないけど、組み合わせて考えることでさらに除外していける。"}
+{"sec": "map:785", "key": "Perhaps that will lead us to a solution...", "en": "Perhaps that will lead us to a solution...", "ja": "それで解決にたどり着けるかもしれない…"}
+{"sec": "map:785", "key": "I'm also still working on it.", "en": "I'm also still working on it.", "ja": "俺もまだ取り組んでるところだ。"}
+{"sec": "map:785", "key": "There are some rocks in the way of the devices, but I don't think we'll be able to move them...", "en": "There are some rocks in the way of the devices, but I don't think we'll be able to move them...", "ja": "装置の邪魔になってる岩がいくつかあるけど、動かせるとは思えない…"}
+{"sec": "map:785", "key": "I believe we're forced to assume that it is possible to solve the problem around and despite those rocks.", "en": "I believe we're forced to assume that it is possible to solve the problem around and despite those rocks.", "ja": "あの岩があっても、その周りで問題を解決できると仮定するしかないと思う。"}
+{"sec": "map:785", "key": "Perhaps they were even there when this place was more operational, but more importantly, assuming that it is impossible will get us nowhere.", "en": "Perhaps they were even there when this place was more operational, but more importantly, assuming that it is impossible will get us nowhere.", "ja": "この場所がまだ稼働していた頃からあったのかもしれないけど、それより、不可能だと仮定してたら何も進まない。"}
+{"sec": "map:785", "key": "Then, under that assumption, they can rule out some possibilities for us as well...", "en": "Then, under that assumption, they can rule out some possibilities for us as well...", "ja": "その仮定のもとでなら、いくつかの可能性を除外することもできる…"}
+{"sec": "map:785", "key": "Don't worry though, I'm also working on the solution.", "en": "Don't worry though, I'm also working on the solution.", "ja": "でも心配しないでくれ、俺も解決策に取り組んでるから。"}
+{"sec": "map:785", "key": "Keep trying, and one of us is bound to get it eventually.", "en": "Keep trying, and one of us is bound to get it eventually.", "ja": "続けていれば、いずれ誰かが解けるはずだ。"}
+{"sec": "map:785", "key": "BENNETT: I suppose it has been a while for you, hasn't it?", "en": "BENNETT: I suppose it has been a while for you, hasn't it?", "ja": "ベネット: 君にとっては久しぶりってところかな?"}
+{"sec": "map:785", "key": "These machines lock a gate which can't be opened until all of the information, entered via the colored blocks lining up with the screen above, is correct.", "en": "These machines lock a gate which can't be opened until all of the information, entered via the colored blocks lining up with the screen above, is correct.", "ja": "これらの機械は扉をロックしていて、上の画面に対応する色付きブロックで入力された情報がすべて正しくなるまで開かない。"}
+{"sec": "map:785", "key": "So if we determine that the Emerald gem had a Hardness of 6, we would move the green block directly in front of the screen that says \"6\".", "en": "So if we determine that the Emerald gem had a Hardness of 6, we would move the green block directly in front of the screen that says \"6\".", "ja": "つまり、エメラルドの硬度が6だとわかったら、緑のブロックを「6」と書かれた画面の真正面まで動かすことになる。"}
+{"sec": "map:785", "key": "We have a set of clues from residual data, which ideally will lead us to a solution, but it will take a lot of work to piece them together.", "en": "We have a set of clues from residual data, which ideally will lead us to a solution, but it will take a lot of work to piece them together.", "ja": "残存データから得た手がかりが一式あって、うまくいけば解決に導いてくれるはずだけど、つなぎ合わせるにはかなりの手間がかかる。"}
+{"sec": "map:785", "key": "We can work on this together, and hopefully Victini has little further left to run by the time we finish.", "en": "We can work on this together, and hopefully Victini has little further left to run by the time we finish.", "ja": "一緒に取り組もう。終わる頃には、ビクティニもあまり逃げ回れなくなってるといいけどね。"}
+{"sec": "map:785", "key": "Shall we?", "en": "Shall we?", "ja": "始めようか?"}
+{"sec": "map:785", "key": "BENNETT: Ah, there it is.", "en": "BENNETT: Ah, there it is.", "ja": "ベネット: ああ、あれだ。"}
+{"sec": "map:785", "key": "That was an ordeal... but let's not dwell on it.", "en": "That was an ordeal... but let's not dwell on it.", "ja": "大変な試練だったけど…もうくよくよ考えるのはよそう。"}
+{"sec": "map:785", "key": "That Victini is still forward somewhere.", "en": "That Victini is still forward somewhere.", "ja": "あのビクティニはまだこの先のどこかにいる。"}
+{"sec": "map:785", "key": "BENNETT: ...Impressive.", "en": "BENNETT: ...Impressive.", "ja": "ベネット: …見事だ。"}
+{"sec": "map:785", "key": "As should be expected from you, \\PN.", "en": "As should be expected from you, \\PN.", "ja": "さすが\\PN、期待通りだよ。"}
+{"sec": "map:785", "key": "I'm a little embarrassed that I was beaten to it, but thanks for getting it.", "en": "I'm a little embarrassed that I was beaten to it, but thanks for getting it.", "ja": "先を越されたのはちょっと恥ずかしいけど、捕まえてくれてありがとう。"}
+{"sec": "map:785", "key": "Anyway... Victini awaits.", "en": "Anyway... Victini awaits.", "ja": "とにかく…ビクティニが待っている。"}
+{"sec": "map:785", "key": "SERRA: Oh, you're here.", "en": "SERRA: Oh, you're here.", "ja": "セラ: あら、来てたのね。"}
+{"sec": "map:785", "key": "I didn't expect to catch up with you so quickly.", "en": "I didn't expect to catch up with you so quickly.", "ja": "こんなに早く追いつけるとは思わなかったわ。"}
+{"sec": "map:785", "key": "BENNETT: Mother.", "en": "BENNETT: Mother.", "ja": "ベネット: 母上。"}
+{"sec": "map:785", "key": "SERRA: I-- I really do wish you would just call me \"Mom\" like a normal child.", "en": "SERRA: I-- I really do wish you would just call me \"Mom\" like a normal child.", "ja": "セラ: わ――わたしは本当に、普通の子供みたいに「お母さん」って呼んでほしいのだけれど。"}
+{"sec": "map:785", "key": "BENNETT: But I'm not just a child, mother, and few would call me normal.", "en": "BENNETT: But I'm not just a child, mother, and few would call me normal.", "ja": "ベネット: でも僕はただの子供じゃないし、普通だと言う人もそう多くはないでしょう、母上。"}
+{"sec": "map:785", "key": "Why are you here?", "en": "Why are you here?", "ja": "なぜここに?"}
+{"sec": "map:785", "key": "SERRA: I heard you were out here looking for something.", "en": "SERRA: I heard you were out here looking for something.", "ja": "セラ: あなたが何かを探してここに来てるって聞いたのよ。"}
+{"sec": "map:785", "key": "Thought it could be a good chance to catch up, given that we haven't talked since I nearly fell into a black hole that resulted from your escapade with a world-ending organization...", "en": "Thought it could be a good chance to catch up, given that we haven't talked since I nearly fell into a black hole that resulted from your escapade with a world-ending organization...", "ja": "あなたが世界を滅ぼしかけた組織との一件でブラックホールに落ちかけて以来、ろくに話してなかったから、いい機会だと思ったのよ…"}
+{"sec": "map:785", "key": "You know, normal parent-child bonding stuff...", "en": "You know, normal parent-child bonding stuff...", "ja": "ほら、普通の親子のきずなを深めるようなことをね…"}
+{"sec": "map:785", "key": "BENNETT: I won't stop you from accompanying us, on one condition:", "en": "BENNETT: I won't stop you from accompanying us, on one condition:", "ja": "ベネット: 同行するのを止めはしません。ただし条件が一つ:"}
+{"sec": "map:785", "key": "We are not here as parent and child.", "en": "We are not here as parent and child.", "ja": "僕たちはここに親子として来ているわけじゃない。"}
+{"sec": "map:785", "key": "We are here as equals-- both professional representatives of an official league, working to ensure the safety of our region.", "en": "We are here as equals-- both professional representatives of an official league, working to ensure the safety of our region.", "ja": "対等な立場として、ここにいるんです――どちらも公式リーグを代表するプロとして、地方の安全のために働いている。"}
+{"sec": "map:785", "key": "SERRA: Equals, the newest Elite says to a humble mid-tier Gym Leader...", "en": "SERRA: Equals, the newest Elite says to a humble mid-tier Gym Leader...", "ja": "セラ: 対等、と最新のエリートが、しがない中堅ジムリーダーに言うのね…"}
+{"sec": "map:785", "key": "BENNETT: Yes.", "en": "BENNETT: Yes.", "ja": "ベネット: そうです。"}
+{"sec": "map:785", "key": "Equals, with equal respect.", "en": "Equals, with equal respect.", "ja": "対等な敬意を持った、対等な立場です。"}
+{"sec": "map:785", "key": "SERRA: Professionals.", "en": "SERRA: Professionals.", "ja": "セラ: プロフェッショナル、ね。"}
+{"sec": "map:785", "key": "Not family?", "en": "Not family?", "ja": "家族ではなく?"}
+{"sec": "map:785", "key": "BENNETT: Both can be true,", "en": "BENNETT: Both can be true,", "ja": "ベネット: 両方とも真実でありえます、"}
+{"sec": "map:785", "key": "With equal respect.", "en": "With equal respect.", "ja": "対等な敬意を持って。"}
+{"sec": "map:785", "key": "Consider it.", "en": "Consider it.", "ja": "そう考えてください。"}
+{"sec": "map:785", "key": "SERRA: I'm confused--", "en": "SERRA: I'm confused--", "ja": "セラ: よくわからないのだけれど――"}
+{"sec": "map:785", "key": "Oh, bye.", "en": "Oh, bye.", "ja": "あ、じゃあね。"}
+{"sec": "map:785", "key": "SERRA: ...Have I not been respectful???", "en": "SERRA: ...Have I not been respectful???", "ja": "セラ: …わたし、敬意が足りなかったかしら???"}
+{"sec": "map:785", "key": "\"FOLIATION:\"", "en": "\"FOLIATION:\"", "ja": "「片理:」"}
+{"sec": "map:785", "key": "\"Indistinct\"", "en": "\"Indistinct\"", "ja": "「不明瞭」"}
+{"sec": "map:785", "key": "\"Difficult\"", "en": "\"Difficult\"", "ja": "「困難」"}
+{"sec": "map:785", "key": "\"Perfect\"", "en": "\"Perfect\"", "ja": "「完全」"}
+{"sec": "map:785", "key": "\"Eminent\"", "en": "\"Eminent\"", "ja": "「顕著」"}
+{"sec": "map:785", "key": "\"LUSTER:\"", "en": "\"LUSTER:\"", "ja": "「光沢:」"}
+{"sec": "map:785", "key": "\"Silky\"", "en": "\"Silky\"", "ja": "「絹糸状」"}
+{"sec": "map:785", "key": "\"Pearly\"", "en": "\"Pearly\"", "ja": "「真珠状」"}
+{"sec": "map:785", "key": "\"Vitreous\"", "en": "\"Vitreous\"", "ja": "「ガラス状」"}
+{"sec": "map:785", "key": "\"Adamantine\"", "en": "\"Adamantine\"", "ja": "「金剛状」"}
+{"sec": "map:785", "key": "\"HABIT:\"", "en": "\"HABIT:\"", "ja": "「晶癖:」"}
+{"sec": "map:785", "key": "\"Cubic\"", "en": "\"Cubic\"", "ja": "「立方状」"}
+{"sec": "map:785", "key": "\"Hexagonal\"", "en": "\"Hexagonal\"", "ja": "「六角状」"}
+{"sec": "map:785", "key": "\"Tabular\"", "en": "\"Tabular\"", "ja": "「板状」"}
+{"sec": "map:785", "key": "\"Coxcomb\"", "en": "\"Coxcomb\"", "ja": "「鶏冠状」"}
+{"sec": "map:785", "key": "SERRA: I'd say something like \"They grow up so fast,\" but I think the sentence alone would age me another ten years on the spot...", "en": "SERRA: I'd say something like \"They grow up so fast,\" but I think the sentence alone would age me another ten years on the spot...", "ja": "セラ: 「子供の成長は早いものね」とでも言おうかと思ったけど、その一言だけでもう十歳老け込みそうだわ…"}
+{"sec": "map:785", "key": "Skip Victory Road Gem Logic puzzles on this file?", "en": "Skip Victory Road Gem Logic puzzles on this file?", "ja": "このファイルでチャンピオンロードの宝石ロジックパズルをスキップする?"}
+{"sec": "map:785", "key": "Victory Road Gem Logic completion has been detected from a different save file.", "en": "Victory Road Gem Logic completion has been detected from a different save file.", "ja": "別のセーブファイルでチャンピオンロードの宝石ロジックのクリアが確認された。"}
+{"sec": "map:785", "key": "Skip Victory Road Gem Logic on this file?", "en": "Skip Victory Road Gem Logic on this file?", "ja": "このファイルでチャンピオンロードの宝石ロジックをスキップする?"}
+{"sec": "map:785", "key": "Skip Victory Road Gem Logic puzzle on this file?", "en": "Skip Victory Road Gem Logic puzzle on this file?", "ja": "このファイルでチャンピオンロードの宝石ロジックパズルをスキップする?"}
+{"sec": "map:785", "key": "See Clues", "en": "See Clues", "ja": "手がかりを見る"}
+{"sec": "map:785", "key": "Check Solution", "en": "Check Solution", "ja": "解答を確認する"}
+{"sec": "map:785", "key": "Review Instructions", "en": "Review Instructions", "ja": "説明を見直す"}
+{"sec": "map:785", "key": "Yes", "en": "Yes", "ja": "はい"}
+{"sec": "map:785", "key": "No", "en": "No", "ja": "いいえ"}

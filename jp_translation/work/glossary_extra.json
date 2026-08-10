@@ -1,0 +1,16 @@
+{
+  "_note": "glossary.json はゲーム内のポケモン／わざ／どうぐデータから生成しているため、会話文の中でしか言及されないものが載っていない。第9世代のポケモンなどはここで補う。すべて公式日本語名。",
+
+  "Meowscarada": "マスカーニャ",
+  "Glimmora": "キラフロル",
+  "Ogerpon": "オーガポン",
+  "Capsakid": "カプサイジ",
+
+  "Blight Badge": "ブライトバッジ",
+  "Verdignite": "ヴァーディグナイト",
+
+  "Amoonguss": "モロバレル",
+  "Slowpoke Tail": "ヤドンのしっぽ",
+  "Cueball": "ツッパリ",
+  "Roughneck": "チンピラ"
+}

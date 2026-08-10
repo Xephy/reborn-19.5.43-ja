@@ -1,0 +1,350 @@
+map_0074#6		FLORINIA: This facility's digital security system appears substandard. 
+map_0074#7		A brute force attack should be sufficient. Please hold.
+map_0074#8		JULIA: Brute force? I don't think we're gonna punch through the door! 
+map_0074#9		\PN, think you can find where they keep the explosives? It wasn't the way we came, but it's probably nearby!
+map_0074#10		If you can do that, we'll be in easily!
+map_0074#11		FLORINIA: Why is combustion your solution to any obstacle?
+map_0074#12		JULIA: Fun for the whole family?
+map_0074#13		FLORINIA: Indeed.
+map_0074#14		FERN: Whatever, man, I don't have time to sit around all day and wait for the Flobot to hack into the system. Let's just go find some bombs already.
+map_0074#15		JULIA: That's the spirit! For once Fern says something I agree with!
+map_0074#16		Quick, \PN! To the boom-mobile!
+map_0074#17		JULIA: They were planning on kabooming my Gym, so they must have explosives here somewhere.  Let's find them!
+map_0074#18		FERN: Here you go, crazy lady.
+map_0074#19		JULIA: Boomies! You got them!
+map_0074#20		Okay, let's do this!
+map_0074#21		JULIA: Okay! Three... Two... Ka...
+map_0074#22		...Huh?
+map_0074#23		FLORINIA: Access granted. Let us proceed.
+map_0074#24		JULIA: Wait, but...
+map_0074#25		I-- And...
+map_0074#26		The booms! 
+map_0074#27		What about the booms?!
+map_0074#28		Rini! You can't do that! 
+map_0074#29		I was just about to-- Rini!!!
+map_0074#30		FERN: Hah, leave it to my sister to ruin everyone's fun.
+map_0074#31		Whatever, let's just get a move on it.
+map_0074#32		It does take time to encode the necessary anti-security program.
+map_0074#33		One moment, please.
+map_0075#10	Rod	Ugh...
+map_0077#0		JULIA: You!  Are you the one in charge here?
+map_0077#1		???: And if I am?
+map_0077#2		JULIA: We're gonna blow your face off for what you did to Grandview Station!
+map_0077#3		???: Amusing. Tell me, what power do you think you have to do so?
+map_0077#4		JULIA: Just who do you think you are, anyway?!
+map_0077#5		???: You know already. We are Team Meteor. And we do not relent.
+map_0077#6		Don't think you got through this place on your own ability. 
+map_0077#7		We had no intention of defeating you.
+map_0077#8		Our purpose here is forfeit already.
+map_0077#9		But it was necessary to let you in, so that you could attend a demonstration. 
+map_0077#10		JULIA: Let us in?
+map_0077#11		???: Did you really think you hacked our security so easily? Foolish.
+map_0077#12		I ordered our operators to slow you down long enough to delete all mission critical data from our systems.
+map_0077#13		But it seems we overestimated your strength. Time was ample. 
+map_0077#14		We grew tired of waiting.
+map_0077#15		Now, enough talk.
+map_0077#16		Aster.
+map_0077#17		ASTER: Yes, boss!
+map_0077#18		???: Eclipse.
+map_0077#19		ECLIPSE: Yeah?
+map_0077#20		???: Deal with the small fries. 
+map_0077#21		I can handle the Gym Leaders.
+map_0077#22		ECLIPSE: Hmph. If you say so.
+map_0077#23		ASTER: For Team Meteor!
+map_0077#24		...Huh?
+map_0077#25		ASTER: Grr!
+map_0077#26		???: So you lost already? How disappointing. 
+map_0077#27		I can take on two myself easily, but four...
+map_0077#28		Well, it was an amusing diversion. 
+map_0077#29		Don't think you've won, though. 
+map_0077#30		Team Meteor does not forgive.
+map_0077#31		JULIA: Is he gone?
+map_0077#32		FLORINIA: Affirmative. Cradily, return.
+map_0077#33		JULIA: You too, Electrode! Good job~
+map_0077#34		Now let's see...
+map_0077#35		Mhm, mhm~
+map_0077#36		Okay! You all should start running now!
+map_0077#37		FERN: Huh? What did you do, now?
+map_0077#38		JULIA: Kaaaaaaaaaaaaaaaa...
+map_0077#39		FERN: Oh, shit! Let's move!
+map_0078#0		Voltorb approaches the metal gate and begins to glow...
+map_0078#1		VOLTORB: Bzzt!
+map_0078#2		Voltorb seems to want to follow you. It's burning with energy.
+map_0078#3		Where has Julia gone now?
+map_0078#4		Challengers and work alike have been stacking up for her ever since she left.
+map_0078#5		I swear, someone so irresponsible shouldn't be put in charge of a place like this,
+map_0078#6		Let alone have taken on so much work in the city reconstruction.
+map_0078#7		Or maybe I should just say "deconstruction", considering Julia was placed in charge of the demolition of old buildings.
+map_0078#8		I swear, that woman doesn't know the meaning of the word "safety".
+map_0078#9		Careful, or everything will blow up in your face!
+map_0078#10	Ivan	Kaboom!
+map_0078#11		You're dynamite!
+map_0078#12		It's absurd how she allows civilians into the power plant.
+map_0078#13	Bill	I suppose it's the price we pay for saving city space by turning the plant into a Gym.
+map_0078#14		This place is still absurd.
+map_0078#15		Looking for a Badge? You'll have to get through me first.
+map_0078#16	Lennon	All right. Go win your shit.
+map_0078#17		What are you waitin' around here for?
+map_0078#18		Everyone here is so reckless. You know, there are switches to the gates behind the gym.
+map_0078#19		Then again, those switches were covered up by Julia herself.
+map_0078#20		I do wish they would stop making us repair the doors.
+map_0078#21		AME: \PN?
+map_0078#22		Hey there! So I see you've made it to the Gym.
+map_0078#23		This telecom system connects right to the Grand Hall, so no matter where you are, whenever you get to a Gym, you can call in for advice!
+map_0078#24		Anyway...
+map_0078#25		AME: This is your first Gym Battle in Reborn, right?
+map_0078#26		Reborn's Gym Leaders are a little tougher than other regions'. For instance, every leader has a full team of six Pokémon!
+map_0078#27		Not only that, but they also use special arenas, or Fields, for tactical advantages.
+map_0078#28		If you want to survive in Reborn, you should get used to learning about and playing in these Fields!
+map_0078#29		You may even find ways to turn some opponents' arenas against them!
+map_0078#30		As for Julia, her Electric Field will make all of her same-type attacks even stronger, and add a jolt to some other attacks like her explosions!
+map_0078#31		It's standard fare, but if you have something that can tank Electric attacks, you're almost home free.
+map_0078#32		Failing that, your best bet is to come in with a full team, and hopefully some high-HP Pokémon to take the hits while you whittle her down.
+map_0078#33		Also, in case you end up needing a little more training, there should be some trainers here at the Grand Hall who would fight you freely!
+map_0078#34		Good luck!
+map_0078#35		No one seems to be picking up at the Grand Hall...
+map_0078#36		Welcome to Neo-Circuit Bowling, how may I make your day explode with happiness.
+map_0078#37		...Sigh, I need a new job.
+map_0078#38		JULIA: Okay-- okay,
+map_0078#39		Keep your eyes closed, a little further, and...
+map_0078#40		JULIA: Open!
+map_0078#41		JULIA: We finally got the go-ahead from the Grand Hall, and BOOM!
+map_0078#42		All the machinery's been moved safely downstairs, and they allowed us to rebuild the main area into--
+map_0078#43		You guessed it-- a bowling alley!!!
+map_0078#44		FLORINIA: I was quite surprised when she told me.
+map_0078#45		I would not have taken her for a bowler.
+map_0078#46		JULIA: That's the thing-- I'm not!!!
+map_0078#47		I've never bowled once in my entire life!
+map_0078#48		But now!
+map_0078#49		I can!
+map_0078#50		Ooh, and-- and!!!
+map_0078#51		JULIA: The bowling balls--
+map_0078#52		If you get a strike, they explode in the end zone!
+map_0078#53		If you get a GUTTER BALL,
+map_0078#54		They explode when they come back!
+map_0078#55		ARCHER: ...Is that truly safe?
+map_0078#56		MAXWELL: ...Is that really okay?
+map_0078#57		JULIA: Who knows!
+map_0078#58		Besides, it was your idea, in a way!
+map_0078#59		You're the one who said I should try to get more enjoyment out of the gym!
+map_0078#60		ARCHER: ...I suppose I am nothing if not an entrepeneur.
+map_0078#61		You thought I might be doing something like that on that train, right?
+map_0078#62		MAXWELL: Heh. Well, if nothing else, it'll be one hell of a spectacle.
+map_0078#63		FLORINIA: If I may belay your concerns,
+map_0078#64		During construction, I took the liberties of arranging a few accommodations for safety.
+map_0078#65		The Voltorb have been trained to perform a small Aftermath on gutter balls only.
+map_0078#66		A token explosion: exciting, but not harmful.
+map_0078#67		As for the end-zone,
+map_0078#68		5.4 inch thick reinforced blast-proof titanium for the walls...
+map_0078#69		Similar durability on the machine casing...
+map_0078#70		Uniquely-furnished resistant polish on the wood lanes...
+map_0078#71		Even the paint is specially-ordered to not so much as chip or brown in the face of combustive force.
+map_0078#72		It may require a cleaning here or there, but we are built to last.
+map_0078#73		JULIA: Just like us!
+map_0078#74		FLORINIA: Us?
+map_0078#75		JULIA: Our friendship!
+map_0078#76		FLORINIA: Our friendship is reinforced with 5.4 inch thick titanium?
+map_0078#77		JULIA: YES!
+map_0078#78		We've gotta have at least that much to keep on lettin' the good times bowl!
+map_0078#79		ARCHER: ...
+map_0078#80		MAXWELL: ...
+map_0078#81		JULIA: Now who's up for a game?!
+map_0079#0		We'll handle the situation. Stay back if you have no immediate business in the ward.
+map_0079#1		No other bombs have been found. Please remain calm.
+map_0079#2		Nothing to see here; move along.
+map_0079#3		I don't know, but judging by the landing of the rubble, it seems most likely that the bomb was placed underneath the Stairway.
+map_0079#4		Underneath? I always assumed it was totally solid.
+map_0079#5		They opened! The Grand Gates, sealed for years, have finally opened!
+map_0079#6		Wondering what this marvel is? Kids these days, don't know a thing.
+map_0079#7		These here are the Grand Gates to Reborn City! They used to be the main passage between the city and the Aventurine Region!
+map_0079#8		But massive as they are, they haven't opened in years.
+map_0079#9		Closed.
+map_0079#10		"Open from 8PM to 4AM"
+map_0079#11		An advertisement is plastered on the wall...
+map_0079#12		"The amazing Agate Circus!
+map_0079#13		Featuring carnies, clowns and chaos!
+map_0079#14		Now with the famed Agate Ace Triumvirate!
+map_0079#15		Take the challenge and face off against three Reborn League Leaders in a spectacular showcase smack- down!
+map_0079#16		Just west of Agate City!
+map_0079#17		Welcome to the Reborn Nightclub! --ACE MEMBERS ONLY--
+map_0079#18		On this day, humanity received a grim reminder...
+map_0079#19		I heard a huge noise come from up ahead! What happened?
+map_0079#20		I'm just relieved that no one was hurt.
+map_0079#21		Strange attack, in that sense.
+map_0079#22		Now I can evolve my Machoke!
+map_0079#23		W-why would anyone do something like this?!
+map_0079#24		OFFICER: Hey, no entry for civilians. 
+map_0079#25		Until we've deemed the area safe, you'll have to back off.
+map_0079#26		Even if the Grand Stairway is a mess, it's not like anyone could get out of the city anyway.
+map_0079#27		The Grand Gates haven't opened for years.
+map_0079#28		Damage report complete! It seems peripheral structures were only damaged minimally.
+map_0079#29		So this wasn't an accident. Good to know.
+map_0079#30		Yeah. The blast-type was a fairly controlled radius.  It's usually used for municipal demolition.
+map_0079#31		The Stairway looks terrible...
+map_0079#32		I mean, even worse than it was before it was blown up.
+map_0079#33		Such gorgeous, pristine water flowing in from the Carnelian Mountains.
+map_0079#34		This waterfall feeds the Azurine Lake, which means all this water is going to be contaminated.
+map_0079#35		Welcome, come one, come all for the grand unveiling of Silph Co.'s most fabulous new product!
+map_0079#36		It's the best thing since indoor bread! 
+map_0079#37		The most convenient thing since sliced plumbing!
+map_0079#38		Ladies and gentlemen, may I present to you-- the "Link Stone"!
+map_0079#39		Are you tired of having to find potentially untrustworthy Trainers to trade your Pokémon with to evolve them?
+map_0079#40		Are you as heartbroken as your Pokémon is when it has to be traded away from you just to grow?
+map_0079#41		Your worries are over! 
+map_0079#42		The Link Stone can force a Pokémon to evolve while never leaving your care!
+map_0079#43		The remarkable scientists of Silph Co. have produced this marvelous new Stone, 
+map_0079#44		Infused with the very energy emitted in a real trade that causes Pokémon to evolve!
+map_0079#45		This Link Stone will be hitting stores soon, but you all are a lucky bunch. 
+map_0079#46		Right here, right now, you can get a prototype edition fully-functional Link Stone for just $10,000!
+map_0079#47		\GBe the first to try it! What do you say?!
+map_0079#48		There you go! One happy customer!
+map_0079#49		I'm afraid you can't afford this! Anyone else?
+map_0079#50		Suit yourself. Who wants to try it? Don't be shy!
+map_0079#51		Look for the Link Stone at the Obsidia Department Store soon!
+map_0079#52		FERN: Man, these bitch-ass cops won't even let us through.
+map_0079#53		Yeah, there was a terrorist threat. I get it.
+map_0079#54		But they should be accepting help from the people to deal with it.
+map_0079#55		If they could do it on their own, this wouldn't have happened in the first place.
+map_0079#56		They're too tripped up on their own power and policies to even see that.
+map_0079#57		That right there is why the bad guys keep getting away--
+map_0079#58		Because no one on our side has the backbone to stop them.
+map_0079#59		I guess they're not ready for people of my caliber.
+map_0079#60		There's another gym in the Lapis Ward, so I'm gonna get ready to bust it in.
+map_0079#61		Later, loser.
+map_0079#62		Introducing!
+map_0079#63		Presenting!
+map_0079#64		This is pretty cool...
+map_0079#65		CAIN: There you are!
+map_0079#66		As soon as I distract this guy, make a break for it!
+map_0079#67		I don't know how long I'll be able to keep his attention.
+map_0079#68		You ready?
+map_0079#69		CAIN: Right on.
+map_0079#70		CAIN: Man, he's not even that cute.
+map_0079#71		Well, whatever. Maybe it'll make this work better.
+map_0079#72		CAIN: Hello, excuse me?
+map_0079#73		OFFICER: Not right now, son, we're busy.
+map_0079#74		CAIN: I-- I'm sorry, but I need to report a crime.
+map_0079#75		OFFICER: What-- with all this happening?
+map_0079#76		What kinda crime is it?
+map_0079#77		CAIN: I, uh...
+map_0079#78		I was struck.
+map_0079#79		OFFICER: Who did this to you? When?
+map_0079#80		CAIN: ...Should I really say here?
+map_0079#81		Someone might be watching...
+map_0079#82		OFFICER: ...Well, I can't leave this post.
+map_0079#83		Here, step aside with me.
+map_0079#84		OFFICER: Why don't you tell me exactly what happened, son?
+map_0079#85		CAIN: Well, like I said, I was struck...
+map_0079#86		...By your stunning good looks~
+map_0079#87		OFFICER: I... beg your pardon?
+map_0079#88		CAIN: Okay, gotta make sure we're set.
+map_0079#89		I'll wait until you finally say 'yes' to me~
+map_0079#90		Oh! I think I'll get one of these for my Kadabra!
+map_0079#91		10,000?! Yeesh!
+map_0079#92		Technology these days...
+map_0079#93		CAIN: Sorry, sorry!
+map_0079#94		It was just a joke, haha~
+map_0079#95		The truth is, I'm a bit lost.
+map_0079#96		OFFICER: Lost? You ain't from around here?
+map_0079#97		CAIN: Oh, no, I grew up not too far outside the city.
+map_0079#98		But I couldn't help but be lost in your eyes~
+map_0079#99		OFFICER: Son, if you don't have a real crime to report, I'm gonna have to ask you to leave.
+map_0079#100		CAIN: Okay, sorry-- I've been dancing around it because I'm nervous.
+map_0079#101		The truth is,
+map_0079#102		It's a crime how attractive you are~
+map_0079#103		OFFICER: Son.
+map_0079#104		OFFICER: I'm gonna have to ask you to head on home.
+map_0079#105		CAIN: Oh, that's okay.
+map_0079#106		Because I can't help but feel that my home is in your arms~
+map_0079#107		OFFICER: What exactly are you trying to do here?
+map_0079#108		CAIN: What I'm trying to do?
+map_0079#109		You~
+map_0079#110		Isn't that obvious?
+map_0079#111		OFFICER: I'm gonna have to write you up.
+map_0079#112		CAIN: Oooh, breaking out the handcuffs, are we?
+map_0079#113		OFFICER: Son, you know I can classify this as sexual harrassment, right?
+map_0079#114		CAIN: Okay, okay!
+map_0079#115		Joke's over; I don't wanna make you feel uncomfortable for real, sir.
+map_0079#116		Truth is, my friend put me up to this as a dare.
+map_0079#117		OFFICER: Uh huh.
+map_0079#118		I'm gonna need you to stick around while I take down your information.
+map_0079#119		OFFICER: Cain LaRue...
+map_0079#120		And what's your home address?
+map_0079#121		I don't have one.
+map_0079#122		No joke, officer.
+map_0079#123		OFFICER: ...Oh boy, this is gonna be complicated.
+map_0079#124		Link Stone? Sounds silly!
+map_0079#125		VICTORIA: Battle me.
+map_0079#126		VICTORIA: And here we are again.
+map_0079#127		When I face this way, and look out over the lake,
+map_0079#128		I can see the academy from here.
+map_0079#129		That's my home.
+map_0079#130		It's like nothing's changed.
+map_0079#131		And then just behind me, a bomb site.
+map_0079#132		Surreal.
+map_0079#133		And what have I done?
+map_0079#134		I teamed up with you to stop Team Meteor before and was immediately captured like some useless damsel.
+map_0079#135		I don't accept that.
+map_0079#136		\PN, you have my heartfelt gratitude for giving me a chance to break free.
+map_0079#137		Battle me.
+map_0079#138		I need to learn and grow much stronger if I'm ever going to make a real difference here.
+map_0079#139		Are you up for it?
+map_0079#140		VICTORIA: Great!
+map_0079#141		In full force and fury, I'll show you the fervor of the Apophyll Academy fighting style!
+map_0079#143		VICTORIA: I can't say I'm not a little disappointed that I don't measure up better,
+map_0079#144		But then I haven't exactly been training in ideal circumstances lately.
+map_0079#145		Thanks for taking the time for--
+map_0079#146		FERN: Yaaaaaaawwwwwnnnn~
+map_0079#147		FERN: That was one lame display on both your parts.
+map_0079#148		VICTORIA: Really.
+map_0079#149		FERN: Pretty sure I coulda done better in my sleep!
+map_0079#150		VICTORIA: ...I don't believe we've met.
+map_0079#151		FERN: That's your loss.
+map_0079#152		Name's Fern. 
+map_0079#153		Cool cat, top dog-- you know how it is.
+map_0079#154		You may be easy in battle, but you're easier on the eyes.
+map_0079#155		VICTORIA: Excuse me?
+map_0079#156		FERN: Oh come on, smile!
+map_0079#157		It's a compliment, lady. 
+map_0079#158		What do you say we hang out sometime?
+map_0079#159		Just you and me.
+map_0079#160		VICTORIA: Yeah, I don't think so.
+map_0079#161		FERN: Your loss!
+map_0079#162		Can't imagine you get too much attention over that giant forehead of yours.
+map_0079#163		VICTORIA: If you keep talking, you're gonna regret it.
+map_0079#164		FERN: Oh, I'm SO scared of some bitch who just got swept by a scrub like \PN.
+map_0079#165		VICTORIA: \PN, you know this guy?
+map_0079#166		FERN: He's kinda been my wingman once or twice, but that's it.
+map_0079#167		FERN: She's kinda been my wingman once or twice, but that's it.
+map_0079#168		FERN: They've kinda been my wingman once or twice, but that's it.
+map_0079#169		VICTORIA: Oh, so you won't really mind if I knock his lights out.
+map_0079#170		FERN: Like you could!
+map_0079#171		Tell you what, I'm on one hell of a win streak right now!
+map_0079#172		Just got my third badge, like taking candy from a baby.
+map_0079#173		That twerp leader was crying like one by the end of it too.
+map_0079#174		What an embarrassment.
+map_0079#175		If even people like Shelly can be Gym Leaders, no wonder the Flobot got in.
+map_0079#176		Anyway, \PN, what do you say we have a rematch?
+map_0079#177		I think we're past due, and this girl isn't worth my time.
+map_0079#178		VICTORIA: Didn't you just ask me out like thirty seconds ago?
+map_0079#179		FERN: Out of pity.
+map_0079#180		VICTORIA: ...
+map_0079#181		Sure, go ahead!
+map_0079#182		Better \PN fights you before I do something you'll really regret.
+map_0079#183		Here, let me heal your team first.
+map_0079#184		VICTORIA: Kick his entire ass for me, okay?
+map_0079#185		FERN: As if you can!
+map_0079#187		VICTORIA: Hah!
+map_0079#188		Where's your big mouth now?!
+map_0079#189		FERN: \PN only won because they fight cheap, 
+map_0079#190		But go off, I guess.
+map_0079#191		Whatever helps you sleep at night.
+map_0079#192		Paltry tricks and pot-shots are only gonna get you so far in the League.
+map_0079#193		When you zero out and have to spend your time hanging out with bottom-feeders like her, I'll be looking down from the Champion's seat.
+map_0079#194		Smell you later, losers!
+map_0079#195		VICTORIA: Yeah, I bet you're just going to turn tail and run after saying all that stuff!
+map_0079#196		You don't have either the integrity or the spine to stick around after saying it!
+map_0079#197		You're all hot air and big words anyway!
+map_0079#198		VICTORIA: What a PRICK!
+map_0079#199		VICTORIA: Okay, no; this is unbecoming...
+map_0079#200		Simple breathing exercises...

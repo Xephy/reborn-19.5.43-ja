@@ -1,0 +1,794 @@
+{"sec": 7, "key": "Repel", "en": "Repel", "ja": "むしよけスプレー"}
+{"sec": 7, "key": "Super Repel", "en": "Super Repel", "ja": "シルバースプレー"}
+{"sec": 7, "key": "Max Repel", "en": "Max Repel", "ja": "ゴールドスプレー"}
+{"sec": 7, "key": "Black Flute", "en": "Black Flute", "ja": "くろいビードロ"}
+{"sec": 7, "key": "White Flute", "en": "White Flute", "ja": "しろいビードロ"}
+{"sec": 7, "key": "Honey", "en": "Honey", "ja": "あまいミツ"}
+{"sec": 7, "key": "Escape Rope", "en": "Escape Rope", "ja": "あなぬけのヒモ"}
+{"sec": 7, "key": "Red Shard", "en": "Red Shard", "ja": "あかいかけら"}
+{"sec": 7, "key": "Purple Shard", "en": "Purple Shard", "ja": "むらさきのかけら"}
+{"sec": 7, "key": "Blue Shard", "en": "Blue Shard", "ja": "あおいかけら"}
+{"sec": 7, "key": "Green Shard", "en": "Green Shard", "ja": "みどりのかけら"}
+{"sec": 7, "key": "Fire Stone", "en": "Fire Stone", "ja": "ほのおのいし"}
+{"sec": 7, "key": "Thunder Stone", "en": "Thunder Stone", "ja": "かみなりのいし"}
+{"sec": 7, "key": "Water Stone", "en": "Water Stone", "ja": "みずのいし"}
+{"sec": 7, "key": "Leaf Stone", "en": "Leaf Stone", "ja": "リーフのいし"}
+{"sec": 7, "key": "Moon Stone", "en": "Moon Stone", "ja": "つきのいし"}
+{"sec": 7, "key": "Sun Stone", "en": "Sun Stone", "ja": "たいようのいし"}
+{"sec": 7, "key": "Dusk Stone", "en": "Dusk Stone", "ja": "やみのいし"}
+{"sec": 7, "key": "Dawn Stone", "en": "Dawn Stone", "ja": "めざめいし"}
+{"sec": 7, "key": "Shiny Stone", "en": "Shiny Stone", "ja": "ひかりのいし"}
+{"sec": 7, "key": "Helix Fossil", "en": "Helix Fossil", "ja": "かいのカセキ"}
+{"sec": 7, "key": "Dome Fossil", "en": "Dome Fossil", "ja": "こうらのカセキ"}
+{"sec": 7, "key": "Old Amber", "en": "Old Amber", "ja": "ひみつのコハク"}
+{"sec": 7, "key": "Root Fossil", "en": "Root Fossil", "ja": "ねっこのカセキ"}
+{"sec": 7, "key": "Claw Fossil", "en": "Claw Fossil", "ja": "ツメのカセキ"}
+{"sec": 7, "key": "Skull Fossil", "en": "Skull Fossil", "ja": "ずがいのカセキ"}
+{"sec": 7, "key": "Armor Fossil", "en": "Armor Fossil", "ja": "たてのカセキ"}
+{"sec": 7, "key": "Cover Fossil", "en": "Cover Fossil", "ja": "ふたのカセキ"}
+{"sec": 7, "key": "Plume Fossil", "en": "Plume Fossil", "ja": "はねのカセキ"}
+{"sec": 7, "key": "Pretty Wing", "en": "Pretty Wing", "ja": "きれいなハネ"}
+{"sec": 7, "key": "Tiny Mushroom", "en": "Tiny Mushroom", "ja": "ちいさなキノコ"}
+{"sec": 7, "key": "Big Mushroom", "en": "Big Mushroom", "ja": "おおきなキノコ"}
+{"sec": 7, "key": "Balm Mushroom", "en": "Balm Mushroom", "ja": "かおるキノコ"}
+{"sec": 7, "key": "Pearl", "en": "Pearl", "ja": "しんじゅ"}
+{"sec": 7, "key": "Big Pearl", "en": "Big Pearl", "ja": "おおきなしんじゅ"}
+{"sec": 7, "key": "Pearl String", "en": "Pearl String", "ja": "おだんごしんじゅ"}
+{"sec": 7, "key": "Stardust", "en": "Stardust", "ja": "ほしのすな"}
+{"sec": 7, "key": "Star Piece", "en": "Star Piece", "ja": "ほしのかけら"}
+{"sec": 7, "key": "Comet Shard", "en": "Comet Shard", "ja": "すいせいのかけら"}
+{"sec": 7, "key": "Nugget", "en": "Nugget", "ja": "きんのたま"}
+{"sec": 7, "key": "Big Nugget", "en": "Big Nugget", "ja": "でかいきんのたま"}
+{"sec": 7, "key": "Heart Scale", "en": "Heart Scale", "ja": "ハートのウロコ"}
+{"sec": 7, "key": "Slowpoke Tail", "en": "Slowpoke Tail", "ja": "おいしいシッポ"}
+{"sec": 7, "key": "Rare Bone", "en": "Rare Bone", "ja": "きちょうなホネ"}
+{"sec": 7, "key": "Relic Copper", "en": "Relic Copper", "ja": "こだいのどうか"}
+{"sec": 7, "key": "Relic Silver", "en": "Relic Silver", "ja": "こだいのぎんか"}
+{"sec": 7, "key": "Relic Gold", "en": "Relic Gold", "ja": "こだいのきんか"}
+{"sec": 7, "key": "Relic Vase", "en": "Relic Vase", "ja": "こだいのツボ"}
+{"sec": 7, "key": "Relic Band", "en": "Relic Band", "ja": "こだいのうでわ"}
+{"sec": 7, "key": "Relic Statue", "en": "Relic Statue", "ja": "こだいのせきぞう"}
+{"sec": 7, "key": "Relic Crown", "en": "Relic Crown", "ja": "こだいのおうかん"}
+{"sec": 7, "key": "Growth Mulch", "en": "Growth Mulch", "ja": "すくすくこやし"}
+{"sec": 7, "key": "Damp Mulch", "en": "Damp Mulch", "ja": "じめじめこやし"}
+{"sec": 7, "key": "Stable Mulch", "en": "Stable Mulch", "ja": "ながながこやし"}
+{"sec": 7, "key": "Gooey Mulch", "en": "Gooey Mulch", "ja": "ねばねばこやし"}
+{"sec": 7, "key": "Shoal Salt", "en": "Shoal Salt", "ja": "あさせのしお"}
+{"sec": 7, "key": "Shoal Shell", "en": "Shoal Shell", "ja": "あさせのかいがら"}
+{"sec": 7, "key": "Odd Keystone", "en": "Odd Keystone", "ja": "かなめいし"}
+{"sec": 7, "key": "Air Balloon", "en": "Air Balloon", "ja": "ふうせん"}
+{"sec": 7, "key": "Bright Powder", "en": "Bright Powder", "ja": "ひかりのこな"}
+{"sec": 7, "key": "Eviolite", "en": "Eviolite", "ja": "しんかのきせき"}
+{"sec": 7, "key": "Float Stone", "en": "Float Stone", "ja": "かるいし"}
+{"sec": 7, "key": "Destiny Knot", "en": "Destiny Knot", "ja": "あかいいと"}
+{"sec": 7, "key": "Rocky Helmet", "en": "Rocky Helmet", "ja": "ゴツゴツメット"}
+{"sec": 7, "key": "Eject Button", "en": "Eject Button", "ja": "だっしゅつボタン"}
+{"sec": 7, "key": "Red Card", "en": "Red Card", "ja": "レッドカード"}
+{"sec": 7, "key": "Shed Shell", "en": "Shed Shell", "ja": "きれいなぬけがら"}
+{"sec": 7, "key": "Smoke Ball", "en": "Smoke Ball", "ja": "けむりだま"}
+{"sec": 7, "key": "Lucky Egg", "en": "Lucky Egg", "ja": "しあわせタマゴ"}
+{"sec": 7, "key": "Exp. Share", "en": "Exp. Share", "ja": "がくしゅうそうち"}
+{"sec": 7, "key": "Amulet Coin", "en": "Amulet Coin", "ja": "おまもりこばん"}
+{"sec": 7, "key": "Soothe Bell", "en": "Soothe Bell", "ja": "やすらぎのすず"}
+{"sec": 7, "key": "Cleanse Tag", "en": "Cleanse Tag", "ja": "きよめのおふだ"}
+{"sec": 7, "key": "Choice Band", "en": "Choice Band", "ja": "こだわりハチマキ"}
+{"sec": 7, "key": "Choice Specs", "en": "Choice Specs", "ja": "こだわりメガネ"}
+{"sec": 7, "key": "Choice Scarf", "en": "Choice Scarf", "ja": "こだわりスカーフ"}
+{"sec": 7, "key": "Heat Rock", "en": "Heat Rock", "ja": "あついいわ"}
+{"sec": 7, "key": "Damp Rock", "en": "Damp Rock", "ja": "しめったいわ"}
+{"sec": 7, "key": "Smooth Rock", "en": "Smooth Rock", "ja": "さらさらいわ"}
+{"sec": 7, "key": "Icy Rock", "en": "Icy Rock", "ja": "つめたいいわ"}
+{"sec": 7, "key": "Light Clay", "en": "Light Clay", "ja": "ひかりのねんど"}
+{"sec": 7, "key": "Grip Claw", "en": "Grip Claw", "ja": "ねばりのかぎづめ"}
+{"sec": 7, "key": "Binding Band", "en": "Binding Band", "ja": "しめつけバンド"}
+{"sec": 7, "key": "Big Root", "en": "Big Root", "ja": "おおきなねっこ"}
+{"sec": 7, "key": "Black Sludge", "en": "Black Sludge", "ja": "くろいヘドロ"}
+{"sec": 7, "key": "Leftovers", "en": "Leftovers", "ja": "たべのこし"}
+{"sec": 7, "key": "Shell Bell", "en": "Shell Bell", "ja": "かいがらのすず"}
+{"sec": 7, "key": "Mental Herb", "en": "Mental Herb", "ja": "メンタルハーブ"}
+{"sec": 7, "key": "White Herb", "en": "White Herb", "ja": "しろいハーブ"}
+{"sec": 7, "key": "Power Herb", "en": "Power Herb", "ja": "パワフルハーブ"}
+{"sec": 7, "key": "Absorb Bulb", "en": "Absorb Bulb", "ja": "きゅうこん"}
+{"sec": 7, "key": "Cell Battery", "en": "Cell Battery", "ja": "じゅうでんち"}
+{"sec": 7, "key": "Life Orb", "en": "Life Orb", "ja": "いのちのたま"}
+{"sec": 7, "key": "Expert Belt", "en": "Expert Belt", "ja": "たつじんのおび"}
+{"sec": 7, "key": "Metronome", "en": "Metronome", "ja": "メトロノーム"}
+{"sec": 7, "key": "Muscle Band", "en": "Muscle Band", "ja": "ちからのハチマキ"}
+{"sec": 7, "key": "Wise Glasses", "en": "Wise Glasses", "ja": "ものしりメガネ"}
+{"sec": 7, "key": "Razor Claw", "en": "Razor Claw", "ja": "するどいツメ"}
+{"sec": 7, "key": "Scope Lens", "en": "Scope Lens", "ja": "ピントレンズ"}
+{"sec": 7, "key": "Wide Lens", "en": "Wide Lens", "ja": "こうかくレンズ"}
+{"sec": 7, "key": "Zoom Lens", "en": "Zoom Lens", "ja": "フォーカスレンズ"}
+{"sec": 7, "key": "King's Rock", "en": "King's Rock", "ja": "おうじゃのしるし"}
+{"sec": 7, "key": "Razor Fang", "en": "Razor Fang", "ja": "するどいキバ"}
+{"sec": 7, "key": "Lagging Tail", "en": "Lagging Tail", "ja": "こうこうのしっぽ"}
+{"sec": 7, "key": "Quick Claw", "en": "Quick Claw", "ja": "せんせいのツメ"}
+{"sec": 7, "key": "Focus Band", "en": "Focus Band", "ja": "きあいのハチマキ"}
+{"sec": 7, "key": "Focus Sash", "en": "Focus Sash", "ja": "きあいのタスキ"}
+{"sec": 7, "key": "Flame Orb", "en": "Flame Orb", "ja": "かえんだま"}
+{"sec": 7, "key": "Toxic Orb", "en": "Toxic Orb", "ja": "どくどくだま"}
+{"sec": 7, "key": "Sticky Barb", "en": "Sticky Barb", "ja": "くっつきバリ"}
+{"sec": 7, "key": "Iron Ball", "en": "Iron Ball", "ja": "くろいてっきゅう"}
+{"sec": 7, "key": "Ring Target", "en": "Ring Target", "ja": "ねらいのまと"}
+{"sec": 7, "key": "Macho Brace", "en": "Macho Brace", "ja": "きょうせいギプス"}
+{"sec": 7, "key": "Power Weight", "en": "Power Weight", "ja": "パワーウエイト"}
+{"sec": 7, "key": "Power Bracer", "en": "Power Bracer", "ja": "パワーリスト"}
+{"sec": 7, "key": "Power Belt", "en": "Power Belt", "ja": "パワーベルト"}
+{"sec": 7, "key": "Power Lens", "en": "Power Lens", "ja": "パワーレンズ"}
+{"sec": 7, "key": "Power Band", "en": "Power Band", "ja": "パワーバンド"}
+{"sec": 7, "key": "Power Anklet", "en": "Power Anklet", "ja": "パワーアンクル"}
+{"sec": 7, "key": "Lax Incense", "en": "Lax Incense", "ja": "のんきのおこう"}
+{"sec": 7, "key": "Full Incense", "en": "Full Incense", "ja": "まんぷくおこう"}
+{"sec": 7, "key": "Luck Incense", "en": "Luck Incense", "ja": "こううんのおこう"}
+{"sec": 7, "key": "Pure Incense", "en": "Pure Incense", "ja": "きよめのおこう"}
+{"sec": 7, "key": "Sea Incense", "en": "Sea Incense", "ja": "うしおのおこう"}
+{"sec": 7, "key": "Wave Incense", "en": "Wave Incense", "ja": "さざなみのおこう"}
+{"sec": 7, "key": "Rose Incense", "en": "Rose Incense", "ja": "おはなのおこう"}
+{"sec": 7, "key": "Odd Incense", "en": "Odd Incense", "ja": "あやしいおこう"}
+{"sec": 7, "key": "Rock Incense", "en": "Rock Incense", "ja": "がんせきおこう"}
+{"sec": 7, "key": "Charcoal", "en": "Charcoal", "ja": "もくたん"}
+{"sec": 7, "key": "Mystic Water", "en": "Mystic Water", "ja": "しんぴのしずく"}
+{"sec": 7, "key": "Magnet", "en": "Magnet", "ja": "じしゃく"}
+{"sec": 7, "key": "Miracle Seed", "en": "Miracle Seed", "ja": "きせきのタネ"}
+{"sec": 7, "key": "Never-Melt Ice", "en": "Never-Melt Ice", "ja": "とけないこおり"}
+{"sec": 7, "key": "Black Belt", "en": "Black Belt", "ja": "くろおび"}
+{"sec": 7, "key": "Poison Barb", "en": "Poison Barb", "ja": "どくバリ"}
+{"sec": 7, "key": "Soft Sand", "en": "Soft Sand", "ja": "やわらかいすな"}
+{"sec": 7, "key": "Sharp Beak", "en": "Sharp Beak", "ja": "するどいくちばし"}
+{"sec": 7, "key": "Twisted Spoon", "en": "Twisted Spoon", "ja": "まがったスプーン"}
+{"sec": 7, "key": "Silver Powder", "en": "Silver Powder", "ja": "ぎんのこな"}
+{"sec": 7, "key": "Hard Stone", "en": "Hard Stone", "ja": "かたいいし"}
+{"sec": 7, "key": "Spell Tag", "en": "Spell Tag", "ja": "のろいのおふだ"}
+{"sec": 7, "key": "Dragon Fang", "en": "Dragon Fang", "ja": "りゅうのキバ"}
+{"sec": 7, "key": "Black Glasses", "en": "Black Glasses", "ja": "くろいメガネ"}
+{"sec": 7, "key": "Metal Coat", "en": "Metal Coat", "ja": "メタルコート"}
+{"sec": 7, "key": "Silk Scarf", "en": "Silk Scarf", "ja": "シルクのスカーフ"}
+{"sec": 7, "key": "Fairy Feather", "en": "Fairy Feather", "ja": "ようせいのハネ"}
+{"sec": 7, "key": "Flame Plate", "en": "Flame Plate", "ja": "ひのたまプレート"}
+{"sec": 7, "key": "Splash Plate", "en": "Splash Plate", "ja": "しずくプレート"}
+{"sec": 7, "key": "Zap Plate", "en": "Zap Plate", "ja": "いかずちプレート"}
+{"sec": 7, "key": "Meadow Plate", "en": "Meadow Plate", "ja": "みどりのプレート"}
+{"sec": 7, "key": "Icicle Plate", "en": "Icicle Plate", "ja": "つららのプレート"}
+{"sec": 7, "key": "Fist Plate", "en": "Fist Plate", "ja": "こぶしのプレート"}
+{"sec": 7, "key": "Toxic Plate", "en": "Toxic Plate", "ja": "もうどくプレート"}
+{"sec": 7, "key": "Earth Plate", "en": "Earth Plate", "ja": "だいちのプレート"}
+{"sec": 7, "key": "Sky Plate", "en": "Sky Plate", "ja": "あおぞらプレート"}
+{"sec": 7, "key": "Mind Plate", "en": "Mind Plate", "ja": "ふしぎのプレート"}
+{"sec": 7, "key": "Insect Plate", "en": "Insect Plate", "ja": "たまむしプレート"}
+{"sec": 7, "key": "Stone Plate", "en": "Stone Plate", "ja": "がんせきプレート"}
+{"sec": 7, "key": "Spooky Plate", "en": "Spooky Plate", "ja": "もののけプレート"}
+{"sec": 7, "key": "Draco Plate", "en": "Draco Plate", "ja": "りゅうのプレート"}
+{"sec": 7, "key": "Dread Plate", "en": "Dread Plate", "ja": "こわもてプレート"}
+{"sec": 7, "key": "Iron Plate", "en": "Iron Plate", "ja": "こうてつプレート"}
+{"sec": 7, "key": "Fire Gem", "en": "Fire Gem", "ja": "ほのおのジュエル"}
+{"sec": 7, "key": "Water Gem", "en": "Water Gem", "ja": "みずのジュエル"}
+{"sec": 7, "key": "Electric Gem", "en": "Electric Gem", "ja": "でんきのジュエル"}
+{"sec": 7, "key": "Grass Gem", "en": "Grass Gem", "ja": "くさのジュエル"}
+{"sec": 7, "key": "Ice Gem", "en": "Ice Gem", "ja": "こおりのジュエル"}
+{"sec": 7, "key": "Fighting Gem", "en": "Fighting Gem", "ja": "かくとうジュエル"}
+{"sec": 7, "key": "Poison Gem", "en": "Poison Gem", "ja": "どくのジュエル"}
+{"sec": 7, "key": "Ground Gem", "en": "Ground Gem", "ja": "じめんのジュエル"}
+{"sec": 7, "key": "Flying Gem", "en": "Flying Gem", "ja": "ひこうのジュエル"}
+{"sec": 7, "key": "Psychic Gem", "en": "Psychic Gem", "ja": "エスパージュエル"}
+{"sec": 7, "key": "Bug Gem", "en": "Bug Gem", "ja": "むしのジュエル"}
+{"sec": 7, "key": "Rock Gem", "en": "Rock Gem", "ja": "いわのジュエル"}
+{"sec": 7, "key": "Ghost Gem", "en": "Ghost Gem", "ja": "ゴーストジュエル"}
+{"sec": 7, "key": "Dragon Gem", "en": "Dragon Gem", "ja": "ドラゴンジュエル"}
+{"sec": 7, "key": "Dark Gem", "en": "Dark Gem", "ja": "あくのジュエル"}
+{"sec": 7, "key": "Steel Gem", "en": "Steel Gem", "ja": "はがねのジュエル"}
+{"sec": 7, "key": "Normal Gem", "en": "Normal Gem", "ja": "ノーマルジュエル"}
+{"sec": 7, "key": "Light Ball", "en": "Light Ball", "ja": "でんきだま"}
+{"sec": 7, "key": "Lucky Punch", "en": "Lucky Punch", "ja": "ラッキーパンチ"}
+{"sec": 7, "key": "Metal Powder", "en": "Metal Powder", "ja": "メタルパウダー"}
+{"sec": 7, "key": "Quick Powder", "en": "Quick Powder", "ja": "スピードパウダー"}
+{"sec": 7, "key": "Thick Club", "en": "Thick Club", "ja": "ふといホネ"}
+{"sec": 7, "key": "Stick", "en": "Stick", "ja": "ながねぎ"}
+{"sec": 7, "key": "Soul Dew", "en": "Soul Dew", "ja": "こころのしずく"}
+{"sec": 7, "key": "Deep Sea Tooth", "en": "Deep Sea Tooth", "ja": "しんかいのキバ"}
+{"sec": 7, "key": "Deep Sea Scale", "en": "Deep Sea Scale", "ja": "しんかいのウロコ"}
+{"sec": 7, "key": "Adamant Orb", "en": "Adamant Orb", "ja": "こんごうだま"}
+{"sec": 7, "key": "Lustrous Orb", "en": "Lustrous Orb", "ja": "しらたま"}
+{"sec": 7, "key": "Griseous Orb", "en": "Griseous Orb", "ja": "はっきんだま"}
+{"sec": 7, "key": "Douse Drive", "en": "Douse Drive", "ja": "アクアカセット"}
+{"sec": 7, "key": "Shock Drive", "en": "Shock Drive", "ja": "イナズマカセット"}
+{"sec": 7, "key": "Burn Drive", "en": "Burn Drive", "ja": "ブレイズカセット"}
+{"sec": 7, "key": "Chill Drive", "en": "Chill Drive", "ja": "フリーズカセット"}
+{"sec": 7, "key": "Everstone", "en": "Everstone", "ja": "かわらずのいし"}
+{"sec": 7, "key": "Dragon Scale", "en": "Dragon Scale", "ja": "りゅうのウロコ"}
+{"sec": 7, "key": "Up-Grade", "en": "Up-Grade", "ja": "アップグレード"}
+{"sec": 7, "key": "Dubious Disc", "en": "Dubious Disc", "ja": "あやしいパッチ"}
+{"sec": 7, "key": "Protector", "en": "Protector", "ja": "プロテクター"}
+{"sec": 7, "key": "Electirizer", "en": "Electirizer", "ja": "エレキブースター"}
+{"sec": 7, "key": "Magmarizer", "en": "Magmarizer", "ja": "マグマブースター"}
+{"sec": 7, "key": "Reaper Cloth", "en": "Reaper Cloth", "ja": "れいかいのぬの"}
+{"sec": 7, "key": "Prism Scale", "en": "Prism Scale", "ja": "きれいなウロコ"}
+{"sec": 7, "key": "Oval Stone", "en": "Oval Stone", "ja": "まんまるいし"}
+{"sec": 7, "key": "Red Scarf", "en": "Red Scarf", "ja": "あかいバンダナ"}
+{"sec": 7, "key": "Blue Scarf", "en": "Blue Scarf", "ja": "あおいバンダナ"}
+{"sec": 7, "key": "Pink Scarf", "en": "Pink Scarf", "ja": "ピンクのバンダナ"}
+{"sec": 7, "key": "Green Scarf", "en": "Green Scarf", "ja": "みどりのバンダナ"}
+{"sec": 7, "key": "Yellow Scarf", "en": "Yellow Scarf", "ja": "きいろのバンダナ"}
+{"sec": 7, "key": "Potion", "en": "Potion", "ja": "キズぐすり"}
+{"sec": 7, "key": "Super Potion", "en": "Super Potion", "ja": "いいキズぐすり"}
+{"sec": 7, "key": "Hyper Potion", "en": "Hyper Potion", "ja": "すごいキズぐすり"}
+{"sec": 7, "key": "Max Potion", "en": "Max Potion", "ja": "まんたんのくすり"}
+{"sec": 7, "key": "Full Restore", "en": "Full Restore", "ja": "かいふくのくすり"}
+{"sec": 7, "key": "Sacred Ash", "en": "Sacred Ash", "ja": "せいなるはい"}
+{"sec": 7, "key": "Awakening", "en": "Awakening", "ja": "ねむけざまし"}
+{"sec": 7, "key": "Antidote", "en": "Antidote", "ja": "どくけし"}
+{"sec": 7, "key": "Burn Heal", "en": "Burn Heal", "ja": "やけどなおし"}
+{"sec": 7, "key": "Paralyze Heal", "en": "Paralyze Heal", "ja": "まひなおし"}
+{"sec": 7, "key": "Ice Heal", "en": "Ice Heal", "ja": "こおりなおし"}
+{"sec": 7, "key": "Full Heal", "en": "Full Heal", "ja": "なんでもなおし"}
+{"sec": 7, "key": "Lava Cookie", "en": "Lava Cookie", "ja": "フエンせんべい"}
+{"sec": 7, "key": "Old Gateau", "en": "Old Gateau", "ja": "もりのヨウカン"}
+{"sec": 7, "key": "Casteliacone", "en": "Casteliacone", "ja": "ヒウンアイス"}
+{"sec": 7, "key": "Revive", "en": "Revive", "ja": "げんきのかけら"}
+{"sec": 7, "key": "Max Revive", "en": "Max Revive", "ja": "げんきのかたまり"}
+{"sec": 7, "key": "Berry Juice", "en": "Berry Juice", "ja": "きのみジュース"}
+{"sec": 7, "key": "Rage Candy Bar", "en": "Rage Candy Bar", "ja": "いかりまんじゅう"}
+{"sec": 7, "key": "Sweet Heart", "en": "Sweet Heart", "ja": "ハートスイーツ"}
+{"sec": 7, "key": "Fresh Water", "en": "Fresh Water", "ja": "おいしいみず"}
+{"sec": 7, "key": "Soda Pop", "en": "Soda Pop", "ja": "サイコソーダ"}
+{"sec": 7, "key": "Lemonade", "en": "Lemonade", "ja": "ミックスオレ"}
+{"sec": 7, "key": "Moomoo Milk", "en": "Moomoo Milk", "ja": "モーモーミルク"}
+{"sec": 7, "key": "Energy Powder", "en": "Energy Powder", "ja": "ちからのこな"}
+{"sec": 7, "key": "Energy Root", "en": "Energy Root", "ja": "ちからのねっこ"}
+{"sec": 7, "key": "Heal Powder", "en": "Heal Powder", "ja": "ばんのうごな"}
+{"sec": 7, "key": "Revival Herb", "en": "Revival Herb", "ja": "ふっかつそう"}
+{"sec": 7, "key": "Ether", "en": "Ether", "ja": "ピーピーエイド"}
+{"sec": 7, "key": "Max Ether", "en": "Max Ether", "ja": "ピーピーリカバー"}
+{"sec": 7, "key": "Elixir", "en": "Elixir", "ja": "ピーピーエイダー"}
+{"sec": 7, "key": "Max Elixir", "en": "Max Elixir", "ja": "ピーピーマックス"}
+{"sec": 7, "key": "PP Up", "en": "PP Up", "ja": "ポイントアップ"}
+{"sec": 7, "key": "PP Max", "en": "PP Max", "ja": "ポイントマックス"}
+{"sec": 7, "key": "HP Up", "en": "HP Up", "ja": "マックスアップ"}
+{"sec": 7, "key": "Protein", "en": "Protein", "ja": "タウリン"}
+{"sec": 7, "key": "Iron", "en": "Iron", "ja": "ブロムヘキシン"}
+{"sec": 7, "key": "Calcium", "en": "Calcium", "ja": "リゾチウム"}
+{"sec": 7, "key": "Zinc", "en": "Zinc", "ja": "キトサン"}
+{"sec": 7, "key": "Carbos", "en": "Carbos", "ja": "インドメタシン"}
+{"sec": 7, "key": "Health Wing", "en": "Health Wing", "ja": "たいりょくのハネ"}
+{"sec": 7, "key": "Muscle Wing", "en": "Muscle Wing", "ja": "きんりょくのハネ"}
+{"sec": 7, "key": "Resist Wing", "en": "Resist Wing", "ja": "ていこうのハネ"}
+{"sec": 7, "key": "Genius Wing", "en": "Genius Wing", "ja": "ちりょくのハネ"}
+{"sec": 7, "key": "Clever Wing", "en": "Clever Wing", "ja": "せいしんのハネ"}
+{"sec": 7, "key": "Swift Wing", "en": "Swift Wing", "ja": "しゅんぱつのハネ"}
+{"sec": 7, "key": "Rare Candy", "en": "Rare Candy", "ja": "ふしぎなアメ"}
+{"sec": 7, "key": "Reborn Ball", "en": "Reborn Ball", "ja": "リボーンボール"}
+{"sec": 7, "key": "Ultra Ball", "en": "Ultra Ball", "ja": "ハイパーボール"}
+{"sec": 7, "key": "Great Ball", "en": "Great Ball", "ja": "スーパーボール"}
+{"sec": 7, "key": "Poké Ball", "en": "Poké Ball", "ja": "モンスターボール"}
+{"sec": 7, "key": "Safari Ball", "en": "Safari Ball", "ja": "サファリボール"}
+{"sec": 7, "key": "Sport Ball", "en": "Sport Ball", "ja": "コンペボール"}
+{"sec": 7, "key": "Net Ball", "en": "Net Ball", "ja": "ネットボール"}
+{"sec": 7, "key": "Dive Ball", "en": "Dive Ball", "ja": "ダイブボール"}
+{"sec": 7, "key": "Nest Ball", "en": "Nest Ball", "ja": "ネストボール"}
+{"sec": 7, "key": "Repeat Ball", "en": "Repeat Ball", "ja": "リピートボール"}
+{"sec": 7, "key": "Timer Ball", "en": "Timer Ball", "ja": "タイマーボール"}
+{"sec": 7, "key": "Luxury Ball", "en": "Luxury Ball", "ja": "ゴージャスボール"}
+{"sec": 7, "key": "Premier Ball", "en": "Premier Ball", "ja": "プレミアボール"}
+{"sec": 7, "key": "Dusk Ball", "en": "Dusk Ball", "ja": "ダークボール"}
+{"sec": 7, "key": "Heal Ball", "en": "Heal Ball", "ja": "ヒールボール"}
+{"sec": 7, "key": "Quick Ball", "en": "Quick Ball", "ja": "クイックボール"}
+{"sec": 7, "key": "Cherish Ball", "en": "Cherish Ball", "ja": "プレシャスボール"}
+{"sec": 7, "key": "Fast Ball", "en": "Fast Ball", "ja": "スピードボール"}
+{"sec": 7, "key": "Level Ball", "en": "Level Ball", "ja": "レベルボール"}
+{"sec": 7, "key": "Lure Ball", "en": "Lure Ball", "ja": "ルアーボール"}
+{"sec": 7, "key": "Heavy Ball", "en": "Heavy Ball", "ja": "ヘビーボール"}
+{"sec": 7, "key": "Love Ball", "en": "Love Ball", "ja": "ラブラブボール"}
+{"sec": 7, "key": "Friend Ball", "en": "Friend Ball", "ja": "フレンドボール"}
+{"sec": 7, "key": "Moon Ball", "en": "Moon Ball", "ja": "ムーンボール"}
+{"sec": 7, "key": "TM01", "en": "TM01", "ja": "わざマシン01"}
+{"sec": 7, "key": "TM02", "en": "TM02", "ja": "わざマシン02"}
+{"sec": 7, "key": "TM03", "en": "TM03", "ja": "わざマシン03"}
+{"sec": 7, "key": "TM04", "en": "TM04", "ja": "わざマシン04"}
+{"sec": 7, "key": "TM05", "en": "TM05", "ja": "わざマシン05"}
+{"sec": 7, "key": "TM06", "en": "TM06", "ja": "わざマシン06"}
+{"sec": 7, "key": "TM07", "en": "TM07", "ja": "わざマシン07"}
+{"sec": 7, "key": "TM08", "en": "TM08", "ja": "わざマシン08"}
+{"sec": 7, "key": "TM09", "en": "TM09", "ja": "わざマシン09"}
+{"sec": 7, "key": "TM10", "en": "TM10", "ja": "わざマシン10"}
+{"sec": 7, "key": "TM11", "en": "TM11", "ja": "わざマシン11"}
+{"sec": 7, "key": "TM12", "en": "TM12", "ja": "わざマシン12"}
+{"sec": 7, "key": "TM13", "en": "TM13", "ja": "わざマシン13"}
+{"sec": 7, "key": "TM14", "en": "TM14", "ja": "わざマシン14"}
+{"sec": 7, "key": "TM15", "en": "TM15", "ja": "わざマシン15"}
+{"sec": 7, "key": "TM16", "en": "TM16", "ja": "わざマシン16"}
+{"sec": 7, "key": "TM17", "en": "TM17", "ja": "わざマシン17"}
+{"sec": 7, "key": "TM18", "en": "TM18", "ja": "わざマシン18"}
+{"sec": 7, "key": "TM19", "en": "TM19", "ja": "わざマシン19"}
+{"sec": 7, "key": "TM20", "en": "TM20", "ja": "わざマシン20"}
+{"sec": 7, "key": "TM21", "en": "TM21", "ja": "わざマシン21"}
+{"sec": 7, "key": "TM22", "en": "TM22", "ja": "わざマシン22"}
+{"sec": 7, "key": "TM23", "en": "TM23", "ja": "わざマシン23"}
+{"sec": 7, "key": "TM24", "en": "TM24", "ja": "わざマシン24"}
+{"sec": 7, "key": "TM25", "en": "TM25", "ja": "わざマシン25"}
+{"sec": 7, "key": "TM26", "en": "TM26", "ja": "わざマシン26"}
+{"sec": 7, "key": "TM27", "en": "TM27", "ja": "わざマシン27"}
+{"sec": 7, "key": "TM28", "en": "TM28", "ja": "わざマシン28"}
+{"sec": 7, "key": "TM29", "en": "TM29", "ja": "わざマシン29"}
+{"sec": 7, "key": "TM30", "en": "TM30", "ja": "わざマシン30"}
+{"sec": 7, "key": "TM31", "en": "TM31", "ja": "わざマシン31"}
+{"sec": 7, "key": "TM32", "en": "TM32", "ja": "わざマシン32"}
+{"sec": 7, "key": "TM33", "en": "TM33", "ja": "わざマシン33"}
+{"sec": 7, "key": "TM34", "en": "TM34", "ja": "わざマシン34"}
+{"sec": 7, "key": "TM35", "en": "TM35", "ja": "わざマシン35"}
+{"sec": 7, "key": "TM36", "en": "TM36", "ja": "わざマシン36"}
+{"sec": 7, "key": "TM37", "en": "TM37", "ja": "わざマシン37"}
+{"sec": 7, "key": "TM38", "en": "TM38", "ja": "わざマシン38"}
+{"sec": 7, "key": "TM39", "en": "TM39", "ja": "わざマシン39"}
+{"sec": 7, "key": "TM40", "en": "TM40", "ja": "わざマシン40"}
+{"sec": 7, "key": "TM41", "en": "TM41", "ja": "わざマシン41"}
+{"sec": 7, "key": "TM42", "en": "TM42", "ja": "わざマシン42"}
+{"sec": 7, "key": "TM43", "en": "TM43", "ja": "わざマシン43"}
+{"sec": 7, "key": "TM44", "en": "TM44", "ja": "わざマシン44"}
+{"sec": 7, "key": "TM45", "en": "TM45", "ja": "わざマシン45"}
+{"sec": 7, "key": "TM46", "en": "TM46", "ja": "わざマシン46"}
+{"sec": 7, "key": "TM47", "en": "TM47", "ja": "わざマシン47"}
+{"sec": 7, "key": "TM48", "en": "TM48", "ja": "わざマシン48"}
+{"sec": 7, "key": "TM49", "en": "TM49", "ja": "わざマシン49"}
+{"sec": 7, "key": "TM50", "en": "TM50", "ja": "わざマシン50"}
+{"sec": 7, "key": "TM51", "en": "TM51", "ja": "わざマシン51"}
+{"sec": 7, "key": "TM52", "en": "TM52", "ja": "わざマシン52"}
+{"sec": 7, "key": "TM53", "en": "TM53", "ja": "わざマシン53"}
+{"sec": 7, "key": "TM54", "en": "TM54", "ja": "わざマシン54"}
+{"sec": 7, "key": "TM55", "en": "TM55", "ja": "わざマシン55"}
+{"sec": 7, "key": "TM56", "en": "TM56", "ja": "わざマシン56"}
+{"sec": 7, "key": "TM57", "en": "TM57", "ja": "わざマシン57"}
+{"sec": 7, "key": "TM58", "en": "TM58", "ja": "わざマシン58"}
+{"sec": 7, "key": "TM59", "en": "TM59", "ja": "わざマシン59"}
+{"sec": 7, "key": "TM60", "en": "TM60", "ja": "わざマシン60"}
+{"sec": 7, "key": "TM61", "en": "TM61", "ja": "わざマシン61"}
+{"sec": 7, "key": "TM62", "en": "TM62", "ja": "わざマシン62"}
+{"sec": 7, "key": "TM63", "en": "TM63", "ja": "わざマシン63"}
+{"sec": 7, "key": "TM64", "en": "TM64", "ja": "わざマシン64"}
+{"sec": 7, "key": "TM65", "en": "TM65", "ja": "わざマシン65"}
+{"sec": 7, "key": "TM66", "en": "TM66", "ja": "わざマシン66"}
+{"sec": 7, "key": "TM67", "en": "TM67", "ja": "わざマシン67"}
+{"sec": 7, "key": "TM68", "en": "TM68", "ja": "わざマシン68"}
+{"sec": 7, "key": "TM69", "en": "TM69", "ja": "わざマシン69"}
+{"sec": 7, "key": "TMX8", "en": "TMX8", "ja": "ひでんマシン8"}
+{"sec": 7, "key": "TM71", "en": "TM71", "ja": "わざマシン71"}
+{"sec": 7, "key": "TM72", "en": "TM72", "ja": "わざマシン72"}
+{"sec": 7, "key": "TM73", "en": "TM73", "ja": "わざマシン73"}
+{"sec": 7, "key": "TM74", "en": "TM74", "ja": "わざマシン74"}
+{"sec": 7, "key": "TM75", "en": "TM75", "ja": "わざマシン75"}
+{"sec": 7, "key": "TM76", "en": "TM76", "ja": "わざマシン76"}
+{"sec": 7, "key": "TM77", "en": "TM77", "ja": "わざマシン77"}
+{"sec": 7, "key": "TM78", "en": "TM78", "ja": "わざマシン78"}
+{"sec": 7, "key": "TM79", "en": "TM79", "ja": "わざマシン79"}
+{"sec": 7, "key": "TM80", "en": "TM80", "ja": "わざマシン80"}
+{"sec": 7, "key": "TM81", "en": "TM81", "ja": "わざマシン81"}
+{"sec": 7, "key": "TM82", "en": "TM82", "ja": "わざマシン82"}
+{"sec": 7, "key": "TM83", "en": "TM83", "ja": "わざマシン83"}
+{"sec": 7, "key": "TM84", "en": "TM84", "ja": "わざマシン84"}
+{"sec": 7, "key": "TM85", "en": "TM85", "ja": "わざマシン85"}
+{"sec": 7, "key": "TM86", "en": "TM86", "ja": "わざマシン86"}
+{"sec": 7, "key": "TM87", "en": "TM87", "ja": "わざマシン87"}
+{"sec": 7, "key": "TM88", "en": "TM88", "ja": "わざマシン88"}
+{"sec": 7, "key": "TM89", "en": "TM89", "ja": "わざマシン89"}
+{"sec": 7, "key": "TM90", "en": "TM90", "ja": "わざマシン90"}
+{"sec": 7, "key": "TM91", "en": "TM91", "ja": "わざマシン91"}
+{"sec": 7, "key": "TM92", "en": "TM92", "ja": "わざマシン92"}
+{"sec": 7, "key": "TM93", "en": "TM93", "ja": "わざマシン93"}
+{"sec": 7, "key": "TMX7", "en": "TMX7", "ja": "ひでんマシン7"}
+{"sec": 7, "key": "TM95", "en": "TM95", "ja": "わざマシン95"}
+{"sec": 7, "key": "TMX1", "en": "TMX1", "ja": "ひでんマシン1"}
+{"sec": 7, "key": "TMX2", "en": "TMX2", "ja": "ひでんマシン2"}
+{"sec": 7, "key": "TMX3", "en": "TMX3", "ja": "ひでんマシン3"}
+{"sec": 7, "key": "TMX4", "en": "TMX4", "ja": "ひでんマシン4"}
+{"sec": 7, "key": "TMX5", "en": "TMX5", "ja": "ひでんマシン5"}
+{"sec": 7, "key": "TMX6", "en": "TMX6", "ja": "ひでんマシン6"}
+{"sec": 7, "key": "Cheri Berry", "en": "Cheri Berry", "ja": "クラボのみ"}
+{"sec": 7, "key": "Chesto Berry", "en": "Chesto Berry", "ja": "カゴのみ"}
+{"sec": 7, "key": "Pecha Berry", "en": "Pecha Berry", "ja": "モモンのみ"}
+{"sec": 7, "key": "Rawst Berry", "en": "Rawst Berry", "ja": "チーゴのみ"}
+{"sec": 7, "key": "Aspear Berry", "en": "Aspear Berry", "ja": "ナナシのみ"}
+{"sec": 7, "key": "Leppa Berry", "en": "Leppa Berry", "ja": "ヒメリのみ"}
+{"sec": 7, "key": "Oran Berry", "en": "Oran Berry", "ja": "オレンのみ"}
+{"sec": 7, "key": "Persim Berry", "en": "Persim Berry", "ja": "キーのみ"}
+{"sec": 7, "key": "Lum Berry", "en": "Lum Berry", "ja": "ラムのみ"}
+{"sec": 7, "key": "Sitrus Berry", "en": "Sitrus Berry", "ja": "オボンのみ"}
+{"sec": 7, "key": "Figy Berry", "en": "Figy Berry", "ja": "フィラのみ"}
+{"sec": 7, "key": "Wiki Berry", "en": "Wiki Berry", "ja": "ウイのみ"}
+{"sec": 7, "key": "Mago Berry", "en": "Mago Berry", "ja": "マゴのみ"}
+{"sec": 7, "key": "Aguav Berry", "en": "Aguav Berry", "ja": "バンジのみ"}
+{"sec": 7, "key": "Iapapa Berry", "en": "Iapapa Berry", "ja": "イアのみ"}
+{"sec": 7, "key": "Razz Berry", "en": "Razz Berry", "ja": "ズリのみ"}
+{"sec": 7, "key": "Bluk Berry", "en": "Bluk Berry", "ja": "ブリーのみ"}
+{"sec": 7, "key": "Nanab Berry", "en": "Nanab Berry", "ja": "ナナのみ"}
+{"sec": 7, "key": "Wepear Berry", "en": "Wepear Berry", "ja": "セシナのみ"}
+{"sec": 7, "key": "Pinap Berry", "en": "Pinap Berry", "ja": "パイルのみ"}
+{"sec": 7, "key": "Pomeg Berry", "en": "Pomeg Berry", "ja": "ザロクのみ"}
+{"sec": 7, "key": "Kelpsy Berry", "en": "Kelpsy Berry", "ja": "ネコブのみ"}
+{"sec": 7, "key": "Qualot Berry", "en": "Qualot Berry", "ja": "タポルのみ"}
+{"sec": 7, "key": "Hondew Berry", "en": "Hondew Berry", "ja": "ロメのみ"}
+{"sec": 7, "key": "Grepa Berry", "en": "Grepa Berry", "ja": "ウブのみ"}
+{"sec": 7, "key": "Tamato Berry", "en": "Tamato Berry", "ja": "マトマのみ"}
+{"sec": 7, "key": "Cornn Berry", "en": "Cornn Berry", "ja": "モコシのみ"}
+{"sec": 7, "key": "Magost Berry", "en": "Magost Berry", "ja": "ゴスのみ"}
+{"sec": 7, "key": "Rabuta Berry", "en": "Rabuta Berry", "ja": "ラブタのみ"}
+{"sec": 7, "key": "Nomel Berry", "en": "Nomel Berry", "ja": "ノメルのみ"}
+{"sec": 7, "key": "Spelon Berry", "en": "Spelon Berry", "ja": "ノワキのみ"}
+{"sec": 7, "key": "Pamtre Berry", "en": "Pamtre Berry", "ja": "シーヤのみ"}
+{"sec": 7, "key": "Watmel Berry", "en": "Watmel Berry", "ja": "カイスのみ"}
+{"sec": 7, "key": "Durin Berry", "en": "Durin Berry", "ja": "ドリのみ"}
+{"sec": 7, "key": "Belue Berry", "en": "Belue Berry", "ja": "ベリブのみ"}
+{"sec": 7, "key": "Occa Berry", "en": "Occa Berry", "ja": "オッカのみ"}
+{"sec": 7, "key": "Passho Berry", "en": "Passho Berry", "ja": "イトケのみ"}
+{"sec": 7, "key": "Wacan Berry", "en": "Wacan Berry", "ja": "ソクノのみ"}
+{"sec": 7, "key": "Rindo Berry", "en": "Rindo Berry", "ja": "リンドのみ"}
+{"sec": 7, "key": "Yache Berry", "en": "Yache Berry", "ja": "ヤチェのみ"}
+{"sec": 7, "key": "Chople Berry", "en": "Chople Berry", "ja": "ヨプのみ"}
+{"sec": 7, "key": "Kebia Berry", "en": "Kebia Berry", "ja": "ビアーのみ"}
+{"sec": 7, "key": "Shuca Berry", "en": "Shuca Berry", "ja": "シュカのみ"}
+{"sec": 7, "key": "Coba Berry", "en": "Coba Berry", "ja": "バコウのみ"}
+{"sec": 7, "key": "Payapa Berry", "en": "Payapa Berry", "ja": "ウタンのみ"}
+{"sec": 7, "key": "Tanga Berry", "en": "Tanga Berry", "ja": "タンガのみ"}
+{"sec": 7, "key": "Charti Berry", "en": "Charti Berry", "ja": "ヨロギのみ"}
+{"sec": 7, "key": "Kasib Berry", "en": "Kasib Berry", "ja": "カシブのみ"}
+{"sec": 7, "key": "Haban Berry", "en": "Haban Berry", "ja": "ハバンのみ"}
+{"sec": 7, "key": "Colbur Berry", "en": "Colbur Berry", "ja": "ナモのみ"}
+{"sec": 7, "key": "Babiri Berry", "en": "Babiri Berry", "ja": "リリバのみ"}
+{"sec": 7, "key": "Chilan Berry", "en": "Chilan Berry", "ja": "ホズのみ"}
+{"sec": 7, "key": "Liechi Berry", "en": "Liechi Berry", "ja": "チイラのみ"}
+{"sec": 7, "key": "Ganlon Berry", "en": "Ganlon Berry", "ja": "リュガのみ"}
+{"sec": 7, "key": "Salac Berry", "en": "Salac Berry", "ja": "カムラのみ"}
+{"sec": 7, "key": "Petaya Berry", "en": "Petaya Berry", "ja": "ヤタピのみ"}
+{"sec": 7, "key": "Apicot Berry", "en": "Apicot Berry", "ja": "ズアのみ"}
+{"sec": 7, "key": "Lansat Berry", "en": "Lansat Berry", "ja": "サンのみ"}
+{"sec": 7, "key": "Starf Berry", "en": "Starf Berry", "ja": "スターのみ"}
+{"sec": 7, "key": "Enigma Berry", "en": "Enigma Berry", "ja": "ナゾのみ"}
+{"sec": 7, "key": "Micle Berry", "en": "Micle Berry", "ja": "ミクルのみ"}
+{"sec": 7, "key": "Custap Berry", "en": "Custap Berry", "ja": "イバンのみ"}
+{"sec": 7, "key": "Jaboca Berry", "en": "Jaboca Berry", "ja": "ジャポのみ"}
+{"sec": 7, "key": "Rowap Berry", "en": "Rowap Berry", "ja": "レンブのみ"}
+{"sec": 7, "key": "Lin Mail", "en": "Lin Mail", "ja": "リンのてがみ"}
+{"sec": 7, "key": "X Attack", "en": "X Attack", "ja": "プラスパワー"}
+{"sec": 7, "key": "X Defend", "en": "X Defend", "ja": "ディフェンダー"}
+{"sec": 7, "key": "X Sp. Atk", "en": "X Sp. Atk", "ja": "スペシャルアップ"}
+{"sec": 7, "key": "X Sp. Def", "en": "X Sp. Def", "ja": "スペシャルガード"}
+{"sec": 7, "key": "X Speed", "en": "X Speed", "ja": "スピーダー"}
+{"sec": 7, "key": "X Accuracy", "en": "X Accuracy", "ja": "ヨクアタール"}
+{"sec": 7, "key": "Dire Hit", "en": "Dire Hit", "ja": "クリティカット"}
+{"sec": 7, "key": "Guard Spec.", "en": "Guard Spec.", "ja": "エフェクトガード"}
+{"sec": 7, "key": "Blue Flute", "en": "Blue Flute", "ja": "あおいビードロ"}
+{"sec": 7, "key": "Yellow Flute", "en": "Yellow Flute", "ja": "きいろビードロ"}
+{"sec": 7, "key": "Red Flute", "en": "Red Flute", "ja": "あかいビードロ"}
+{"sec": 7, "key": "Poké Doll", "en": "Poké Doll", "ja": "ピッピにんぎょう"}
+{"sec": 7, "key": "Fluffy Tail", "en": "Fluffy Tail", "ja": "エネコのシッポ"}
+{"sec": 7, "key": "Poké Toy", "en": "Poké Toy", "ja": "ポケじゃらし"}
+{"sec": 7, "key": "Bicycle", "en": "Bicycle", "ja": "じてんしゃ"}
+{"sec": 7, "key": "Old Rod", "en": "Old Rod", "ja": "ボロのつりざお"}
+{"sec": 7, "key": "Good Rod", "en": "Good Rod", "ja": "いいつりざお"}
+{"sec": 7, "key": "Super Rod", "en": "Super Rod", "ja": "すごいつりざお"}
+{"sec": 7, "key": "Itemfinder", "en": "Itemfinder", "ja": "ダウジングマシン"}
+{"sec": 7, "key": "Dowsing MCHN", "en": "Dowsing MCHN", "ja": "ダウジングマシンMK2"}
+{"sec": 7, "key": "Poké Radar", "en": "Poké Radar", "ja": "ポケトレ"}
+{"sec": 7, "key": "Town Map", "en": "Town Map", "ja": "タウンマップ"}
+{"sec": 7, "key": "Poké Flute", "en": "Poké Flute", "ja": "ポケモンのふえ"}
+{"sec": 7, "key": "Coin Case", "en": "Coin Case", "ja": "コインケース"}
+{"sec": 7, "key": "Membership Card", "en": "Membership Card", "ja": "メンバーズカード"}
+{"sec": 7, "key": "Warehouse Key", "en": "Warehouse Key", "ja": "そうこのカギ"}
+{"sec": 7, "key": "Bike Voucher", "en": "Bike Voucher", "ja": "ひきかえけん"}
+{"sec": 7, "key": "Mining Kit", "en": "Mining Kit", "ja": "さいくつセット"}
+{"sec": 7, "key": "Wailmer Pail", "en": "Wailmer Pail", "ja": "ホエルコじょうろ"}
+{"sec": 7, "key": "Gracidea", "en": "Gracidea", "ja": "グラシデアのはな"}
+{"sec": 7, "key": "Link Stone", "en": "Link Stone", "ja": "リンクストーン"}
+{"sec": 7, "key": "Harbor Key", "en": "Harbor Key", "ja": "みなとのカギ"}
+{"sec": 7, "key": "Railnet Key", "en": "Railnet Key", "ja": "てつどうもうのカギ"}
+{"sec": 7, "key": "Choc Ice Cream", "en": "Choc Ice Cream", "ja": "チョコアイス"}
+{"sec": 7, "key": "Berry Ice Cream", "en": "Berry Ice Cream", "ja": "きのみアイス"}
+{"sec": 7, "key": "Herbal Extract", "en": "Herbal Extract", "ja": "やくそうエキス"}
+{"sec": 7, "key": "Common Candy", "en": "Common Candy", "ja": "ふつうのアメ"}
+{"sec": 7, "key": "Pop Rocks", "en": "Pop Rocks", "ja": "パチパチキャンディ"}
+{"sec": 7, "key": "Peppermint", "en": "Peppermint", "ja": "ハッカキャンディ"}
+{"sec": 7, "key": "Salt-Water Taffy", "en": "Salt-Water Taffy", "ja": "ソルトタフィー"}
+{"sec": 7, "key": "Chewing Gum", "en": "Chewing Gum", "ja": "チューインガム"}
+{"sec": 7, "key": "Red-Hots", "en": "Red-Hots", "ja": "シナモンキャンディ"}
+{"sec": 7, "key": "Cotton Candy", "en": "Cotton Candy", "ja": "わたあめ"}
+{"sec": 7, "key": "Vanilla Ice Cream", "en": "Vanilla Ice Cream", "ja": "バニラアイス"}
+{"sec": 7, "key": "Amethyst Pendant", "en": "Amethyst Pendant", "ja": "アメジストのペンダント"}
+{"sec": 7, "key": "Ruby Ring", "en": "Ruby Ring", "ja": "ルビーのゆびわ"}
+{"sec": 7, "key": "Yureyu Key", "en": "Yureyu Key", "ja": "ユレユのカギ"}
+{"sec": 7, "key": "Abomasite", "en": "Abomasite", "ja": "ユキノオナイト"}
+{"sec": 7, "key": "Absolite", "en": "Absolite", "ja": "アブソルナイト"}
+{"sec": 7, "key": "Aerodactylite", "en": "Aerodactylite", "ja": "プテラナイト"}
+{"sec": 7, "key": "Aggronite", "en": "Aggronite", "ja": "ボスゴドラナイト"}
+{"sec": 7, "key": "Alakazite", "en": "Alakazite", "ja": "フーディナイト"}
+{"sec": 7, "key": "Ampharosite", "en": "Ampharosite", "ja": "デンリュウナイト"}
+{"sec": 7, "key": "Assault Vest", "en": "Assault Vest", "ja": "とつげきチョッキ"}
+{"sec": 7, "key": "Banettite", "en": "Banettite", "ja": "ジュペッタナイト"}
+{"sec": 7, "key": "Blastoisinite", "en": "Blastoisinite", "ja": "カメックスナイト"}
+{"sec": 7, "key": "Blazikenite", "en": "Blazikenite", "ja": "バシャーモナイト"}
+{"sec": 7, "key": "Charizardite X", "en": "Charizardite X", "ja": "リザードナイトX"}
+{"sec": 7, "key": "Charizardite Y", "en": "Charizardite Y", "ja": "リザードナイトY"}
+{"sec": 7, "key": "Garchompite", "en": "Garchompite", "ja": "ガブリアスナイト"}
+{"sec": 7, "key": "Gardevoirite", "en": "Gardevoirite", "ja": "サーナイトナイト"}
+{"sec": 7, "key": "Gengarite", "en": "Gengarite", "ja": "ゲンガナイト"}
+{"sec": 7, "key": "Gyaradosite", "en": "Gyaradosite", "ja": "ギャラドスナイト"}
+{"sec": 7, "key": "Heracronite", "en": "Heracronite", "ja": "ヘラクロスナイト"}
+{"sec": 7, "key": "Houndoominite", "en": "Houndoominite", "ja": "ヘルガナイト"}
+{"sec": 7, "key": "Intriguing Stone", "en": "Intriguing Stone", "ja": "すごそうないし"}
+{"sec": 7, "key": "Jaw Fossil", "en": "Jaw Fossil", "ja": "アゴのカセキ"}
+{"sec": 7, "key": "Kangaskhanite", "en": "Kangaskhanite", "ja": "ガルーラナイト"}
+{"sec": 7, "key": "Kee Berry", "en": "Kee Berry", "ja": "アッキのみ"}
+{"sec": 7, "key": "Lucarionite", "en": "Lucarionite", "ja": "ルカリオナイト"}
+{"sec": 7, "key": "Luminous Moss", "en": "Luminous Moss", "ja": "ひかりごけ"}
+{"sec": 7, "key": "Lumiose Galette", "en": "Lumiose Galette", "ja": "ミアレガレット"}
+{"sec": 7, "key": "Manectite", "en": "Manectite", "ja": "ライボルトナイト"}
+{"sec": 7, "key": "Maranga Berry", "en": "Maranga Berry", "ja": "タラプのみ"}
+{"sec": 7, "key": "Mawilite", "en": "Mawilite", "ja": "クチートナイト"}
+{"sec": 7, "key": "Medichamite", "en": "Medichamite", "ja": "チャーレムナイト"}
+{"sec": 7, "key": "Mega-Z Ring", "en": "Mega-Z Ring", "ja": "メガZリング"}
+{"sec": 7, "key": "Mewtwonite X", "en": "Mewtwonite X", "ja": "ミュウツナイトX"}
+{"sec": 7, "key": "Mewtwonite Y", "en": "Mewtwonite Y", "ja": "ミュウツナイトY"}
+{"sec": 7, "key": "Pinsirite", "en": "Pinsirite", "ja": "カイロスナイト"}
+{"sec": 7, "key": "Pixie Plate", "en": "Pixie Plate", "ja": "せいれいプレート"}
+{"sec": 7, "key": "Roseli Berry", "en": "Roseli Berry", "ja": "ロゼルのみ"}
+{"sec": 7, "key": "Sachet", "en": "Sachet", "ja": "においぶくろ"}
+{"sec": 7, "key": "Safety Goggles", "en": "Safety Goggles", "ja": "ぼうじんゴーグル"}
+{"sec": 7, "key": "Sail Fossil", "en": "Sail Fossil", "ja": "ヒレのカセキ"}
+{"sec": 7, "key": "Scizorite", "en": "Scizorite", "ja": "ハッサムナイト"}
+{"sec": 7, "key": "Snowball", "en": "Snowball", "ja": "ゆきだま"}
+{"sec": 7, "key": "Tyranitarite", "en": "Tyranitarite", "ja": "バンギラスナイト"}
+{"sec": 7, "key": "Venusaurite", "en": "Venusaurite", "ja": "フシギバナイト"}
+{"sec": 7, "key": "Weakness Policy", "en": "Weakness Policy", "ja": "じゃくてんほけん"}
+{"sec": 7, "key": "Whipped Dream", "en": "Whipped Dream", "ja": "ホイップポップ"}
+{"sec": 7, "key": "Ability Capsule", "en": "Ability Capsule", "ja": "とくせいカプセル"}
+{"sec": 7, "key": "TM96", "en": "TM96", "ja": "わざマシン96"}
+{"sec": 7, "key": "TM97", "en": "TM97", "ja": "わざマシン97"}
+{"sec": 7, "key": "TM98", "en": "TM98", "ja": "わざマシン98"}
+{"sec": 7, "key": "TM99", "en": "TM99", "ja": "わざマシン99"}
+{"sec": 7, "key": "TM100", "en": "TM100", "ja": "わざマシン100"}
+{"sec": 7, "key": "DNA Splicers", "en": "DNA Splicers", "ja": "いでんしのくさび"}
+{"sec": 7, "key": "Reveal Glass", "en": "Reveal Glass", "ja": "うつしかがみ"}
+{"sec": 7, "key": "Oval Charm", "en": "Oval Charm", "ja": "まるいおまもり"}
+{"sec": 7, "key": "Shiny Charm", "en": "Shiny Charm", "ja": "ひかるおまもり"}
+{"sec": 7, "key": "Dull Key", "en": "Dull Key", "ja": "くすんだカギ"}
+{"sec": 7, "key": "Magnet Powder", "en": "Magnet Powder", "ja": "じしゃくのこな"}
+{"sec": 7, "key": "PokéSnax", "en": "PokéSnax", "ja": "ポケスナック"}
+{"sec": 7, "key": "Data Chip", "en": "Data Chip", "ja": "データチップ"}
+{"sec": 7, "key": "Soul Candle", "en": "Soul Candle", "ja": "たましいのロウソク"}
+{"sec": 7, "key": "Silver Ring", "en": "Silver Ring", "ja": "ぎんのゆびわ"}
+{"sec": 7, "key": "Floral Charm", "en": "Floral Charm", "ja": "はなのおまもり"}
+{"sec": 7, "key": "Blast Powder", "en": "Blast Powder", "ja": "ばくはつのこな"}
+{"sec": 7, "key": "'Rare Candy'", "en": "'Rare Candy'", "ja": "「ふしぎなアメ」"}
+{"sec": 7, "key": "Crystal Key", "en": "Crystal Key", "ja": "クリスタルのカギ"}
+{"sec": 7, "key": "Oddishweed", "en": "Oddishweed", "ja": "ナゾノクサのはっぱ"}
+{"sec": 7, "key": "Blue Moon Ice Cream", "en": "Blue Moon Ice Cream", "ja": "ブルームーンアイス"}
+{"sec": 7, "key": "Dark Material", "en": "Dark Material", "ja": "ダークマテリアル"}
+{"sec": 7, "key": "Powder Vial", "en": "Powder Vial", "ja": "こなのビン"}
+{"sec": 7, "key": "Battle Pass- Strike", "en": "Battle Pass- Strike", "ja": "バトルパス・ストライク"}
+{"sec": 7, "key": "Corrupted Poké Ball", "en": "Corrupted Poké Ball", "ja": "けがれたモンスターボール"}
+{"sec": 7, "key": "Tech Glasses", "en": "Tech Glasses", "ja": "テックグラス"}
+{"sec": 7, "key": "Ultra Potion", "en": "Ultra Potion", "ja": "すごいキズぐすり"}
+{"sec": 7, "key": "Silver Card", "en": "Silver Card", "ja": "シルバーカード"}
+{"sec": 7, "key": "Ill-Fated Doll", "en": "Ill-Fated Doll", "ja": "ふきつなにんぎょう"}
+{"sec": 7, "key": "House Key", "en": "House Key", "ja": "いえのカギ"}
+{"sec": 7, "key": "Battle Pass- Gravity", "en": "Battle Pass- Gravity", "ja": "バトルパス・グラビティ"}
+{"sec": 7, "key": "Galladite", "en": "Galladite", "ja": "エルレイドナイト"}
+{"sec": 7, "key": "Glalitite", "en": "Glalitite", "ja": "オニゴーリナイト"}
+{"sec": 7, "key": "Sharpedonite", "en": "Sharpedonite", "ja": "サメハダナイト"}
+{"sec": 7, "key": "Sceptilite", "en": "Sceptilite", "ja": "ジュカインナイト"}
+{"sec": 7, "key": "Beedrillite", "en": "Beedrillite", "ja": "スピアナイト"}
+{"sec": 7, "key": "Audinite", "en": "Audinite", "ja": "タブンネナイト"}
+{"sec": 7, "key": "Altarianite", "en": "Altarianite", "ja": "チルタリスナイト"}
+{"sec": 7, "key": "Diancite", "en": "Diancite", "ja": "ディアンシナイト"}
+{"sec": 7, "key": "Steelixite", "en": "Steelixite", "ja": "ハガネールナイト"}
+{"sec": 7, "key": "Cameruptite", "en": "Cameruptite", "ja": "バクーダナイト"}
+{"sec": 7, "key": "Pidgeotite", "en": "Pidgeotite", "ja": "ピジョットナイト"}
+{"sec": 7, "key": "Salamencite", "en": "Salamencite", "ja": "ボーマンダナイト"}
+{"sec": 7, "key": "Lopunnite", "en": "Lopunnite", "ja": "ミミロップナイト"}
+{"sec": 7, "key": "Metagrossite", "en": "Metagrossite", "ja": "メタグロスナイト"}
+{"sec": 7, "key": "Slowbronite", "en": "Slowbronite", "ja": "ヤドランナイト"}
+{"sec": 7, "key": "Sablenite", "en": "Sablenite", "ja": "ヤミラミナイト"}
+{"sec": 7, "key": "Swampertite", "en": "Swampertite", "ja": "ラグラージナイト"}
+{"sec": 7, "key": "Latiasite", "en": "Latiasite", "ja": "ラティアスナイト"}
+{"sec": 7, "key": "Latiosite", "en": "Latiosite", "ja": "ラティオスナイト"}
+{"sec": 7, "key": "Red Orb", "en": "Red Orb", "ja": "べにいろのたま"}
+{"sec": 7, "key": "Blue Orb", "en": "Blue Orb", "ja": "あいいろのたま"}
+{"sec": 7, "key": "Prison Bottle", "en": "Prison Bottle", "ja": "いましめのツボ"}
+{"sec": 7, "key": "TM94", "en": "TM94", "ja": "わざマシン94"}
+{"sec": 7, "key": "Beryl Grid Key", "en": "Beryl Grid Key", "ja": "ベリルはいでんもうのカギ"}
+{"sec": 7, "key": "Battle Pass- Suspension", "en": "Battle Pass- Suspension", "ja": "バトルパス・サスペンション"}
+{"sec": 7, "key": "Reset Disc- HP", "en": "Reset Disc- HP", "ja": "リセットディスク・HP"}
+{"sec": 7, "key": "Reset Disc- ATK", "en": "Reset Disc- ATK", "ja": "リセットディスク・こうげき"}
+{"sec": 7, "key": "Reset Disc- DEF", "en": "Reset Disc- DEF", "ja": "リセットディスク・ぼうぎょ"}
+{"sec": 7, "key": "Reset Disc- SPATK", "en": "Reset Disc- SPATK", "ja": "リセットディスク・とくこう"}
+{"sec": 7, "key": "Reset Disc- SPDEF", "en": "Reset Disc- SPDEF", "ja": "リセットディスク・とくぼう"}
+{"sec": 7, "key": "Reset Disc- SPEED", "en": "Reset Disc- SPEED", "ja": "リセットディスク・すばやさ"}
+{"sec": 7, "key": "Amplifield Rock", "en": "Amplifield Rock", "ja": "アンプリフィールドロック"}
+{"sec": 7, "key": "K2 Key", "en": "K2 Key", "ja": "K2のカギ"}
+{"sec": 7, "key": "K5 Key", "en": "K5 Key", "ja": "K5のカギ"}
+{"sec": 7, "key": "K22 Key", "en": "K22 Key", "ja": "K22のカギ"}
+{"sec": 7, "key": "K33 Key", "en": "K33 Key", "ja": "K33のカギ"}
+{"sec": 7, "key": "S4 Key", "en": "S4 Key", "ja": "S4のカギ"}
+{"sec": 7, "key": "S9 Key", "en": "S9 Key", "ja": "S9のカギ"}
+{"sec": 7, "key": "S12 Key", "en": "S12 Key", "ja": "S12のカギ"}
+{"sec": 7, "key": "F1 Key", "en": "F1 Key", "ja": "F1のカギ"}
+{"sec": 7, "key": "F10 Key", "en": "F10 Key", "ja": "F10のカギ"}
+{"sec": 7, "key": "F14 Key", "en": "F14 Key", "ja": "F14のカギ"}
+{"sec": 7, "key": "F34 Key", "en": "F34 Key", "ja": "F34のカギ"}
+{"sec": 7, "key": "Fairy Gem", "en": "Fairy Gem", "ja": "ようせいジュエル"}
+{"sec": 7, "key": "Diamond Ring", "en": "Diamond Ring", "ja": "ダイヤのゆびわ"}
+{"sec": 7, "key": "Sanctum Key", "en": "Sanctum Key", "ja": "せいいきのカギ"}
+{"sec": 7, "key": "GUM Key", "en": "GUM Key", "ja": "GUMのカギ"}
+{"sec": 7, "key": "Coral Key", "en": "Coral Key", "ja": "コーラルのカギ"}
+{"sec": 7, "key": "ID Tag", "en": "ID Tag", "ja": "IDタグ"}
+{"sec": 7, "key": "DJ Arc Autograph", "en": "DJ Arc Autograph", "ja": "DJアークのサイン"}
+{"sec": 7, "key": "McKrezzy Autograph", "en": "McKrezzy Autograph", "ja": "マクレジーのサイン"}
+{"sec": 7, "key": "Headphones", "en": "Headphones", "ja": "ヘッドホン"}
+{"sec": 7, "key": "Spyce Application", "en": "Spyce Application", "ja": "スパイスのもうしこみしょ"}
+{"sec": 7, "key": "Library Application", "en": "Library Application", "ja": "としょかんのもうしこみしょ"}
+{"sec": 7, "key": "Sweet Application", "en": "Sweet Application", "ja": "スイーツてんのもうしこみしょ"}
+{"sec": 7, "key": "Critical Application", "en": "Critical Application", "ja": "クリティカルのもうしこみしょ"}
+{"sec": 7, "key": "Medicine Application", "en": "Medicine Application", "ja": "やっきょくのもうしこみしょ"}
+{"sec": 7, "key": "Salon Application", "en": "Salon Application", "ja": "サロンのもうしこみしょ"}
+{"sec": 7, "key": "Glamazonia App", "en": "Glamazonia App", "ja": "グラマゾニアのもうしこみしょ"}
+{"sec": 7, "key": "Nightclub Application", "en": "Nightclub Application", "ja": "ナイトクラブのもうしこみしょ"}
+{"sec": 7, "key": "Cycle Application", "en": "Cycle Application", "ja": "じてんしゃやのもうしこみしょ"}
+{"sec": 7, "key": "Silph Application", "en": "Silph Application", "ja": "シルフのもうしこみしょ"}
+{"sec": 7, "key": "Circus Application", "en": "Circus Application", "ja": "サーカスのもうしこみしょ"}
+{"sec": 7, "key": "SOLICE Application", "en": "SOLICE Application", "ja": "SOLICEのもうしこみしょ"}
+{"sec": 7, "key": "Construction App", "en": "Construction App", "ja": "けんせつぎょうのもうしこみしょ"}
+{"sec": 7, "key": "Apophyll Application", "en": "Apophyll Application", "ja": "アポフィルのもうしこみしょ"}
+{"sec": 7, "key": "Classified Information", "en": "Classified Information", "ja": "きみつぶんしょ"}
+{"sec": 7, "key": "Pink Pearl", "en": "Pink Pearl", "ja": "ピンクのしんじゅ"}
+{"sec": 7, "key": "Crystal Ball", "en": "Crystal Ball", "ja": "すいしょうだま"}
+{"sec": 7, "key": "'R' Key", "en": "'R' Key", "ja": "「R」のカギ"}
+{"sec": 7, "key": "Devon Scope Model", "en": "Devon Scope Model", "ja": "デボンスコープしさくひん"}
+{"sec": 7, "key": "Silvon Scope", "en": "Silvon Scope", "ja": "シルボンスコープ"}
+{"sec": 7, "key": "Radio Transceiver", "en": "Radio Transceiver", "ja": "むせんき"}
+{"sec": 7, "key": "Adrenaline Orb", "en": "Adrenaline Orb", "ja": "ビビリだま"}
+{"sec": 7, "key": "Big Malasada", "en": "Big Malasada", "ja": "おおきいマラサダ"}
+{"sec": 7, "key": "Ice Stone", "en": "Ice Stone", "ja": "こおりのいし"}
+{"sec": 7, "key": "Protective Pads", "en": "Protective Pads", "ja": "ぼうごパット"}
+{"sec": 7, "key": "Fire Memory", "en": "Fire Memory", "ja": "ファイヤーメモリ"}
+{"sec": 7, "key": "Water Memory", "en": "Water Memory", "ja": "ウオーターメモリ"}
+{"sec": 7, "key": "Electric Memory", "en": "Electric Memory", "ja": "エレクトロメモリ"}
+{"sec": 7, "key": "Grass Memory", "en": "Grass Memory", "ja": "グラスメモリ"}
+{"sec": 7, "key": "Ice Memory", "en": "Ice Memory", "ja": "アイスメモリ"}
+{"sec": 7, "key": "Fighting Memory", "en": "Fighting Memory", "ja": "ファイトメモリ"}
+{"sec": 7, "key": "Poison Memory", "en": "Poison Memory", "ja": "ポイズンメモリ"}
+{"sec": 7, "key": "Ground Memory", "en": "Ground Memory", "ja": "グラウンドメモリ"}
+{"sec": 7, "key": "Flying Memory", "en": "Flying Memory", "ja": "フライングメモリ"}
+{"sec": 7, "key": "Psychic Memory", "en": "Psychic Memory", "ja": "サイキックメモリ"}
+{"sec": 7, "key": "Bug Memory", "en": "Bug Memory", "ja": "バグメモリ"}
+{"sec": 7, "key": "Rock Memory", "en": "Rock Memory", "ja": "ロックメモリ"}
+{"sec": 7, "key": "Ghost Memory", "en": "Ghost Memory", "ja": "ゴーストメモリ"}
+{"sec": 7, "key": "Dragon Memory", "en": "Dragon Memory", "ja": "ドラゴンメモリ"}
+{"sec": 7, "key": "Dark Memory", "en": "Dark Memory", "ja": "ダークメモリ"}
+{"sec": 7, "key": "Steel Memory", "en": "Steel Memory", "ja": "スチールメモリ"}
+{"sec": 7, "key": "Fairy Memory", "en": "Fairy Memory", "ja": "フェアリーメモリ"}
+{"sec": 7, "key": "Blue Moon Lemonade", "en": "Blue Moon Lemonade", "ja": "ブルームーンレモネード"}
+{"sec": 7, "key": "Beast Ball", "en": "Beast Ball", "ja": "ウルトラボール"}
+{"sec": 7, "key": "Red Nectar", "en": "Red Nectar", "ja": "くれないのミツ"}
+{"sec": 7, "key": "Yellow Nectar", "en": "Yellow Nectar", "ja": "やまぶきのミツ"}
+{"sec": 7, "key": "Pink Nectar", "en": "Pink Nectar", "ja": "うすもものミツ"}
+{"sec": 7, "key": "Purple Nectar", "en": "Purple Nectar", "ja": "むらさきのミツ"}
+{"sec": 7, "key": "TM70", "en": "TM70", "ja": "わざマシン70"}
+{"sec": 7, "key": "Buginium-Z", "en": "Buginium-Z", "ja": "ムシZ"}
+{"sec": 7, "key": "Darkinium-Z", "en": "Darkinium-Z", "ja": "アクZ"}
+{"sec": 7, "key": "Dragonium-Z", "en": "Dragonium-Z", "ja": "ドラゴンZ"}
+{"sec": 7, "key": "Electrium-Z", "en": "Electrium-Z", "ja": "デンキZ"}
+{"sec": 7, "key": "Fairium-Z", "en": "Fairium-Z", "ja": "フェアリーZ"}
+{"sec": 7, "key": "Fightinium-Z", "en": "Fightinium-Z", "ja": "カクトウZ"}
+{"sec": 7, "key": "Firium-Z", "en": "Firium-Z", "ja": "ホノオZ"}
+{"sec": 7, "key": "Flyinium-Z", "en": "Flyinium-Z", "ja": "ヒコウZ"}
+{"sec": 7, "key": "Ghostium-Z", "en": "Ghostium-Z", "ja": "ゴーストZ"}
+{"sec": 7, "key": "Grassium-Z", "en": "Grassium-Z", "ja": "クサZ"}
+{"sec": 7, "key": "Groundium-Z", "en": "Groundium-Z", "ja": "ジメンZ"}
+{"sec": 7, "key": "Icium-Z", "en": "Icium-Z", "ja": "コオリZ"}
+{"sec": 7, "key": "Normalium-Z", "en": "Normalium-Z", "ja": "ノーマルZ"}
+{"sec": 7, "key": "Poisonium-Z", "en": "Poisonium-Z", "ja": "ドクZ"}
+{"sec": 7, "key": "Psychium-Z", "en": "Psychium-Z", "ja": "エスパーZ"}
+{"sec": 7, "key": "Rockium-Z", "en": "Rockium-Z", "ja": "イワZ"}
+{"sec": 7, "key": "Steelium-Z", "en": "Steelium-Z", "ja": "ハガネZ"}
+{"sec": 7, "key": "Waterium-Z", "en": "Waterium-Z", "ja": "ミズZ"}
+{"sec": 7, "key": "Aloraichium-Z", "en": "Aloraichium-Z", "ja": "アロライZ"}
+{"sec": 7, "key": "Decidium-Z", "en": "Decidium-Z", "ja": "ジュナイパーZ"}
+{"sec": 7, "key": "Incinium-Z", "en": "Incinium-Z", "ja": "ガオガエンZ"}
+{"sec": 7, "key": "Primarium-Z", "en": "Primarium-Z", "ja": "アシレーヌZ"}
+{"sec": 7, "key": "Eevium-Z", "en": "Eevium-Z", "ja": "イーブイZ"}
+{"sec": 7, "key": "Pikanium-Z", "en": "Pikanium-Z", "ja": "ピカチュウZ"}
+{"sec": 7, "key": "Snorlium-Z", "en": "Snorlium-Z", "ja": "カビゴンZ"}
+{"sec": 7, "key": "Mewnium-Z", "en": "Mewnium-Z", "ja": "ミュウZ"}
+{"sec": 7, "key": "Tapunium-Z", "en": "Tapunium-Z", "ja": "カプZ"}
+{"sec": 7, "key": "Marshadium-Z", "en": "Marshadium-Z", "ja": "マーシャドーZ"}
+{"sec": 7, "key": "Elemental Seed", "en": "Elemental Seed", "ja": "エレメンタルシード"}
+{"sec": 7, "key": "Magical Seed", "en": "Magical Seed", "ja": "マジカルシード"}
+{"sec": 7, "key": "Telluric Seed", "en": "Telluric Seed", "ja": "テルリックシード"}
+{"sec": 7, "key": "Synthetic Seed", "en": "Synthetic Seed", "ja": "シンセティックシード"}
+{"sec": 7, "key": "Sapphire Bracelets", "en": "Sapphire Bracelets", "ja": "サファイアのブレスレット"}
+{"sec": 7, "key": "N-Solarizer", "en": "N-Solarizer", "ja": "ネクロプラスソル"}
+{"sec": 7, "key": "N-Lunarizer", "en": "N-Lunarizer", "ja": "ネクロプラスルナ"}
+{"sec": 7, "key": "Kommonium-Z", "en": "Kommonium-Z", "ja": "ジャラランガZ"}
+{"sec": 7, "key": "Lycanium-Z", "en": "Lycanium-Z", "ja": "ルガルガンZ"}
+{"sec": 7, "key": "Mimikium-Z", "en": "Mimikium-Z", "ja": "ミミッキュZ"}
+{"sec": 7, "key": "Solganium-Z", "en": "Solganium-Z", "ja": "ソルガレオZ"}
+{"sec": 7, "key": "Lunalium-Z", "en": "Lunalium-Z", "ja": "ルナアーラZ"}
+{"sec": 7, "key": "Ultranecrozium-Z", "en": "Ultranecrozium-Z", "ja": "ウルトラネクロZ"}
+{"sec": 7, "key": "TMX9", "en": "TMX9", "ja": "ひでんマシン9"}
+{"sec": 7, "key": "Cage Key", "en": "Cage Key", "ja": "おりのカギ"}
+{"sec": 7, "key": "Meteor Card", "en": "Meteor Card", "ja": "メテオカード"}
+{"sec": 7, "key": "Family Picture", "en": "Family Picture", "ja": "かぞくのしゃしん"}
+{"sec": 7, "key": "Orphanage Key", "en": "Orphanage Key", "ja": "ようごしせつのカギ"}
+{"sec": 7, "key": "Ribbon Collar", "en": "Ribbon Collar", "ja": "リボンのくびわ"}
+{"sec": 7, "key": "Exp. All (On)", "en": "Exp. All (On)", "ja": "がくしゅうそうち(ON)"}
+{"sec": 7, "key": "Ruby Star", "en": "Ruby Star", "ja": "ルビーのほし"}
+{"sec": 7, "key": "Sapphire Star", "en": "Sapphire Star", "ja": "サファイアのほし"}
+{"sec": 7, "key": "Emerald Star", "en": "Emerald Star", "ja": "エメラルドのほし"}
+{"sec": 7, "key": "Amethyst Star", "en": "Amethyst Star", "ja": "アメジストのほし"}
+{"sec": 7, "key": "Spirit Tracker", "en": "Spirit Tracker", "ja": "スピリットトラッカー"}
+{"sec": 7, "key": "Emerald Brooch", "en": "Emerald Brooch", "ja": "エメラルドのブローチ"}
+{"sec": 7, "key": "Reset Disc- ALL", "en": "Reset Disc- ALL", "ja": "リセットディスク・オール"}
+{"sec": 7, "key": "Gather Cube", "en": "Gather Cube", "ja": "ギャザーキューブ"}
+{"sec": 7, "key": "Tart Apple", "en": "Tart Apple", "ja": "すっぱいりんご"}
+{"sec": 7, "key": "Sweet Apple", "en": "Sweet Apple", "ja": "あまーいりんご"}
+{"sec": 7, "key": "Chipped Pot", "en": "Chipped Pot", "ja": "かけたポット"}
+{"sec": 7, "key": "Cracked Pot", "en": "Cracked Pot", "ja": "われたポット"}
+{"sec": 7, "key": "Rusted Sword", "en": "Rusted Sword", "ja": "くちたけん"}
+{"sec": 7, "key": "Rusted Shield", "en": "Rusted Shield", "ja": "くちたたて"}
+{"sec": 7, "key": "Fossilized Bird", "en": "Fossilized Bird", "ja": "カセキのトリ"}
+{"sec": 7, "key": "Fossilized Dino", "en": "Fossilized Dino", "ja": "カセキのクビナガ"}
+{"sec": 7, "key": "Fossilized Drake", "en": "Fossilized Drake", "ja": "カセキのリュウ"}
+{"sec": 7, "key": "Fossilized Fish", "en": "Fossilized Fish", "ja": "カセキのサカナ"}
+{"sec": 7, "key": "Throat Spray", "en": "Throat Spray", "ja": "のどスプレー"}
+{"sec": 7, "key": "Eject Pack", "en": "Eject Pack", "ja": "だっしゅつパック"}
+{"sec": 7, "key": "Exp. Candy XS", "en": "Exp. Candy XS", "ja": "けいけんアメXS"}
+{"sec": 7, "key": "Exp. Candy S", "en": "Exp. Candy S", "ja": "けいけんアメS"}
+{"sec": 7, "key": "Exp. Candy M", "en": "Exp. Candy M", "ja": "けいけんアメM"}
+{"sec": 7, "key": "Exp. Candy L", "en": "Exp. Candy L", "ja": "けいけんアメL"}
+{"sec": 7, "key": "Exp. Candy XL", "en": "Exp. Candy XL", "ja": "けいけんアメXL"}
+{"sec": 7, "key": "Adamant Mint", "en": "Adamant Mint", "ja": "いじっぱりミント"}
+{"sec": 7, "key": "Lonely Mint", "en": "Lonely Mint", "ja": "さみしがりミント"}
+{"sec": 7, "key": "Naughty Mint", "en": "Naughty Mint", "ja": "やんちゃミント"}
+{"sec": 7, "key": "Brave Mint", "en": "Brave Mint", "ja": "ゆうかんミント"}
+{"sec": 7, "key": "Bold Mint", "en": "Bold Mint", "ja": "ずぶといミント"}
+{"sec": 7, "key": "Impish Mint", "en": "Impish Mint", "ja": "わんぱくミント"}
+{"sec": 7, "key": "Lax Mint", "en": "Lax Mint", "ja": "のうてんきミント"}
+{"sec": 7, "key": "Relaxed Mint", "en": "Relaxed Mint", "ja": "のんきミント"}
+{"sec": 7, "key": "Modest Mint", "en": "Modest Mint", "ja": "ひかえめミント"}
+{"sec": 7, "key": "Mild Mint", "en": "Mild Mint", "ja": "おっとりミント"}
+{"sec": 7, "key": "Rash Mint", "en": "Rash Mint", "ja": "うっかりやミント"}
+{"sec": 7, "key": "Quiet Mint", "en": "Quiet Mint", "ja": "れいせいミント"}
+{"sec": 7, "key": "Calm Mint", "en": "Calm Mint", "ja": "おだやかミント"}
+{"sec": 7, "key": "Gentle Mint", "en": "Gentle Mint", "ja": "おとなしいミント"}
+{"sec": 7, "key": "Careful Mint", "en": "Careful Mint", "ja": "しんちょうミント"}
+{"sec": 7, "key": "Sassy Mint", "en": "Sassy Mint", "ja": "なまいきミント"}
+{"sec": 7, "key": "Timid Mint", "en": "Timid Mint", "ja": "おくびょうミント"}
+{"sec": 7, "key": "Hasty Mint", "en": "Hasty Mint", "ja": "せっかちミント"}
+{"sec": 7, "key": "Jolly Mint", "en": "Jolly Mint", "ja": "ようきミント"}
+{"sec": 7, "key": "Naive Mint", "en": "Naive Mint", "ja": "むじゃきミント"}
+{"sec": 7, "key": "Serious Mint", "en": "Serious Mint", "ja": "まじめミント"}
+{"sec": 7, "key": "Wishing Piece", "en": "Wishing Piece", "ja": "ねがいのかたまり"}
+{"sec": 7, "key": "Catching Charm: Ruby", "en": "Catching Charm: Ruby", "ja": "ゆれないおまもり・ルビー"}
+{"sec": 7, "key": "Cell Imprint", "en": "Cell Imprint", "ja": "セルのこくいん"}
+{"sec": 7, "key": "Heavy-Duty Boots", "en": "Heavy-Duty Boots", "ja": "あつぞこブーツ"}
+{"sec": 7, "key": "Blunder Policy", "en": "Blunder Policy", "ja": "からぶりほけん"}
+{"sec": 7, "key": "Room Service", "en": "Room Service", "ja": "ルームサービス"}
+{"sec": 7, "key": "Utility Umbrella", "en": "Utility Umbrella", "ja": "ばんのうがさ"}
+{"sec": 7, "key": "Manaphy Gem", "en": "Manaphy Gem", "ja": "マナフィのジュエル"}
+{"sec": 7, "key": "Gift Box", "en": "Gift Box", "ja": "プレゼントボックス"}
+{"sec": 7, "key": "Bubble Tea", "en": "Bubble Tea", "ja": "タピオカティー"}
+{"sec": 7, "key": "Gold Key", "en": "Gold Key", "ja": "きんのカギ"}
+{"sec": 7, "key": "Ivory Key", "en": "Ivory Key", "ja": "アイボリーのカギ"}
+{"sec": 7, "key": "Ebony Key", "en": "Ebony Key", "ja": "エボニーのカギ"}
+{"sec": 7, "key": "PP All", "en": "PP All", "ja": "ピーピーオール"}
+{"sec": 7, "key": "Archive Key", "en": "Archive Key", "ja": "しょこのカギ"}
+{"sec": 7, "key": "EV Tuner", "en": "EV Tuner", "ja": "どりょくちチューナー"}
+{"sec": 7, "key": "Glitter Ball", "en": "Glitter Ball", "ja": "グリッターボール"}
+{"sec": 7, "key": "EV Booster", "en": "EV Booster", "ja": "どりょくちブースター"}
+{"sec": 7, "key": "Remote PC", "en": "Remote PC", "ja": "リモートPC"}
+{"sec": 7, "key": "Dream Ball", "en": "Dream Ball", "ja": "ドリームボール"}
+{"sec": 7, "key": "Ebony Stonepiece", "en": "Ebony Stonepiece", "ja": "エボニーのいしのかけら"}
+{"sec": 7, "key": "Catching Charm: Sapphire", "en": "Catching Charm: Sapphire", "ja": "ゆれないおまもり・サファイア"}
+{"sec": 7, "key": "Catching Charm: Emerald", "en": "Catching Charm: Emerald", "ja": "ゆれないおまもり・エメラルド"}
+{"sec": 7, "key": "Catching Charm: Amethyst", "en": "Catching Charm: Amethyst", "ja": "ゆれないおまもり・アメジスト"}
+{"sec": 7, "key": "Negative Imprint", "en": "Negative Imprint", "ja": "ネガティブのこくいん"}
+{"sec": 7, "key": "Magnetic Lure", "en": "Magnetic Lure", "ja": "じしゃくルアー"}
+{"sec": 7, "key": "Exp. All (Off)", "en": "Exp. All (Off)", "ja": "がくしゅうそうち(OFF)"}
+{"sec": 7, "key": "Rainbow Scent", "en": "Rainbow Scent", "ja": "にじいろのかおり"}
+{"sec": 7, "key": "Mirror Lure", "en": "Mirror Lure", "ja": "ミラールアー"}

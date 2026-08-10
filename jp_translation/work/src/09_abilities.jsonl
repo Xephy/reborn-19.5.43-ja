@@ -1,0 +1,272 @@
+{"sec": 9, "key": "Stench", "en": "Stench", "ja": "あくしゅう"}
+{"sec": 9, "key": "Drizzle", "en": "Drizzle", "ja": "あめふらし"}
+{"sec": 9, "key": "Speed Boost", "en": "Speed Boost", "ja": "かそく"}
+{"sec": 9, "key": "Battle Armor", "en": "Battle Armor", "ja": "カブトアーマー"}
+{"sec": 9, "key": "Sturdy", "en": "Sturdy", "ja": "がんじょう"}
+{"sec": 9, "key": "Damp", "en": "Damp", "ja": "しめりけ"}
+{"sec": 9, "key": "Limber", "en": "Limber", "ja": "じゅうなん"}
+{"sec": 9, "key": "Sand Veil", "en": "Sand Veil", "ja": "すながくれ"}
+{"sec": 9, "key": "Static", "en": "Static", "ja": "せいでんき"}
+{"sec": 9, "key": "Volt Absorb", "en": "Volt Absorb", "ja": "ちくでん"}
+{"sec": 9, "key": "Water Absorb", "en": "Water Absorb", "ja": "ちょすい"}
+{"sec": 9, "key": "Oblivious", "en": "Oblivious", "ja": "どんかん"}
+{"sec": 9, "key": "Cloud Nine", "en": "Cloud Nine", "ja": "ノーてんき"}
+{"sec": 9, "key": "Compound Eyes", "en": "Compound Eyes", "ja": "ふくがん"}
+{"sec": 9, "key": "Insomnia", "en": "Insomnia", "ja": "ふみん"}
+{"sec": 9, "key": "Color Change", "en": "Color Change", "ja": "へんしょく"}
+{"sec": 9, "key": "Immunity", "en": "Immunity", "ja": "めんえき"}
+{"sec": 9, "key": "Flash Fire", "en": "Flash Fire", "ja": "もらいび"}
+{"sec": 9, "key": "Shield Dust", "en": "Shield Dust", "ja": "りんぷん"}
+{"sec": 9, "key": "Own Tempo", "en": "Own Tempo", "ja": "マイペース"}
+{"sec": 9, "key": "Suction Cups", "en": "Suction Cups", "ja": "きゅうばん"}
+{"sec": 9, "key": "Intimidate", "en": "Intimidate", "ja": "いかく"}
+{"sec": 9, "key": "Shadow Tag", "en": "Shadow Tag", "ja": "かげふみ"}
+{"sec": 9, "key": "Rough Skin", "en": "Rough Skin", "ja": "さめはだ"}
+{"sec": 9, "key": "Wonder Guard", "en": "Wonder Guard", "ja": "ふしぎなまもり"}
+{"sec": 9, "key": "Levitate", "en": "Levitate", "ja": "ふゆう"}
+{"sec": 9, "key": "Effect Spore", "en": "Effect Spore", "ja": "ほうし"}
+{"sec": 9, "key": "Synchronize", "en": "Synchronize", "ja": "シンクロ"}
+{"sec": 9, "key": "Clear Body", "en": "Clear Body", "ja": "クリアボディ"}
+{"sec": 9, "key": "Natural Cure", "en": "Natural Cure", "ja": "しぜんかいふく"}
+{"sec": 9, "key": "Lightning Rod", "en": "Lightning Rod", "ja": "ひらいしん"}
+{"sec": 9, "key": "Serene Grace", "en": "Serene Grace", "ja": "てんのめぐみ"}
+{"sec": 9, "key": "Swift Swim", "en": "Swift Swim", "ja": "すいすい"}
+{"sec": 9, "key": "Chlorophyll", "en": "Chlorophyll", "ja": "ようりょくそ"}
+{"sec": 9, "key": "Illuminate", "en": "Illuminate", "ja": "はっこう"}
+{"sec": 9, "key": "Trace", "en": "Trace", "ja": "トレース"}
+{"sec": 9, "key": "Huge Power", "en": "Huge Power", "ja": "ちからもち"}
+{"sec": 9, "key": "Poison Point", "en": "Poison Point", "ja": "どくのトゲ"}
+{"sec": 9, "key": "Inner Focus", "en": "Inner Focus", "ja": "せいしんりょく"}
+{"sec": 9, "key": "Magma Armor", "en": "Magma Armor", "ja": "マグマのよろい"}
+{"sec": 9, "key": "Water Veil", "en": "Water Veil", "ja": "みずのベール"}
+{"sec": 9, "key": "Magnet Pull", "en": "Magnet Pull", "ja": "じりょく"}
+{"sec": 9, "key": "Soundproof", "en": "Soundproof", "ja": "ぼうおん"}
+{"sec": 9, "key": "Rain Dish", "en": "Rain Dish", "ja": "あめうけざら"}
+{"sec": 9, "key": "Sand Stream", "en": "Sand Stream", "ja": "すなおこし"}
+{"sec": 9, "key": "Pressure", "en": "Pressure", "ja": "プレッシャー"}
+{"sec": 9, "key": "Thick Fat", "en": "Thick Fat", "ja": "あついしぼう"}
+{"sec": 9, "key": "Early Bird", "en": "Early Bird", "ja": "はやおき"}
+{"sec": 9, "key": "Flame Body", "en": "Flame Body", "ja": "ほのおのからだ"}
+{"sec": 9, "key": "Run Away", "en": "Run Away", "ja": "にげあし"}
+{"sec": 9, "key": "Keen Eye", "en": "Keen Eye", "ja": "するどいめ"}
+{"sec": 9, "key": "Hyper Cutter", "en": "Hyper Cutter", "ja": "かいりきバサミ"}
+{"sec": 9, "key": "Pickup", "en": "Pickup", "ja": "ものひろい"}
+{"sec": 9, "key": "Truant", "en": "Truant", "ja": "なまけ"}
+{"sec": 9, "key": "Hustle", "en": "Hustle", "ja": "はりきり"}
+{"sec": 9, "key": "Cute Charm", "en": "Cute Charm", "ja": "メロメロボディ"}
+{"sec": 9, "key": "Plus", "en": "Plus", "ja": "プラス"}
+{"sec": 9, "key": "Minus", "en": "Minus", "ja": "マイナス"}
+{"sec": 9, "key": "Forecast", "en": "Forecast", "ja": "てんきや"}
+{"sec": 9, "key": "Sticky Hold", "en": "Sticky Hold", "ja": "ねんちゃく"}
+{"sec": 9, "key": "Shed Skin", "en": "Shed Skin", "ja": "だっぴ"}
+{"sec": 9, "key": "Guts", "en": "Guts", "ja": "こんじょう"}
+{"sec": 9, "key": "Marvel Scale", "en": "Marvel Scale", "ja": "ふしぎなうろこ"}
+{"sec": 9, "key": "Liquid Ooze", "en": "Liquid Ooze", "ja": "ヘドロえき"}
+{"sec": 9, "key": "Overgrow", "en": "Overgrow", "ja": "しんりょく"}
+{"sec": 9, "key": "Blaze", "en": "Blaze", "ja": "もうか"}
+{"sec": 9, "key": "Torrent", "en": "Torrent", "ja": "げきりゅう"}
+{"sec": 9, "key": "Swarm", "en": "Swarm", "ja": "むしのしらせ"}
+{"sec": 9, "key": "Rock Head", "en": "Rock Head", "ja": "いしあたま"}
+{"sec": 9, "key": "Drought", "en": "Drought", "ja": "ひでり"}
+{"sec": 9, "key": "Arena Trap", "en": "Arena Trap", "ja": "ありじごく"}
+{"sec": 9, "key": "Vital Spirit", "en": "Vital Spirit", "ja": "やるき"}
+{"sec": 9, "key": "White Smoke", "en": "White Smoke", "ja": "しろいけむり"}
+{"sec": 9, "key": "Pure Power", "en": "Pure Power", "ja": "ヨガパワー"}
+{"sec": 9, "key": "Shell Armor", "en": "Shell Armor", "ja": "シェルアーマー"}
+{"sec": 9, "key": "Air Lock", "en": "Air Lock", "ja": "エアロック"}
+{"sec": 9, "key": "Tangled Feet", "en": "Tangled Feet", "ja": "ちどりあし"}
+{"sec": 9, "key": "Motor Drive", "en": "Motor Drive", "ja": "でんきエンジン"}
+{"sec": 9, "key": "Rivalry", "en": "Rivalry", "ja": "とうそうしん"}
+{"sec": 9, "key": "Steadfast", "en": "Steadfast", "ja": "ふくつのこころ"}
+{"sec": 9, "key": "Snow Cloak", "en": "Snow Cloak", "ja": "ゆきがくれ"}
+{"sec": 9, "key": "Gluttony", "en": "Gluttony", "ja": "くいしんぼう"}
+{"sec": 9, "key": "Anger Point", "en": "Anger Point", "ja": "いかりのつぼ"}
+{"sec": 9, "key": "Unburden", "en": "Unburden", "ja": "かるわざ"}
+{"sec": 9, "key": "Heatproof", "en": "Heatproof", "ja": "たいねつ"}
+{"sec": 9, "key": "Simple", "en": "Simple", "ja": "たんじゅん"}
+{"sec": 9, "key": "Dry Skin", "en": "Dry Skin", "ja": "かんそうはだ"}
+{"sec": 9, "key": "Download", "en": "Download", "ja": "ダウンロード"}
+{"sec": 9, "key": "Iron Fist", "en": "Iron Fist", "ja": "てつのこぶし"}
+{"sec": 9, "key": "Poison Heal", "en": "Poison Heal", "ja": "ポイズンヒール"}
+{"sec": 9, "key": "Adaptability", "en": "Adaptability", "ja": "てきおうりょく"}
+{"sec": 9, "key": "Skill Link", "en": "Skill Link", "ja": "スキルリンク"}
+{"sec": 9, "key": "Hydration", "en": "Hydration", "ja": "うるおいボディ"}
+{"sec": 9, "key": "Solar Power", "en": "Solar Power", "ja": "サンパワー"}
+{"sec": 9, "key": "Quick Feet", "en": "Quick Feet", "ja": "はやあし"}
+{"sec": 9, "key": "Normalize", "en": "Normalize", "ja": "ノーマルスキン"}
+{"sec": 9, "key": "Sniper", "en": "Sniper", "ja": "スナイパー"}
+{"sec": 9, "key": "Magic Guard", "en": "Magic Guard", "ja": "マジックガード"}
+{"sec": 9, "key": "No Guard", "en": "No Guard", "ja": "ノーガード"}
+{"sec": 9, "key": "Stall", "en": "Stall", "ja": "あとだし"}
+{"sec": 9, "key": "Technician", "en": "Technician", "ja": "テクニシャン"}
+{"sec": 9, "key": "Leaf Guard", "en": "Leaf Guard", "ja": "リーフガード"}
+{"sec": 9, "key": "Klutz", "en": "Klutz", "ja": "ぶきよう"}
+{"sec": 9, "key": "Mold Breaker", "en": "Mold Breaker", "ja": "かたやぶり"}
+{"sec": 9, "key": "Super Luck", "en": "Super Luck", "ja": "きょううん"}
+{"sec": 9, "key": "Aftermath", "en": "Aftermath", "ja": "ゆうばく"}
+{"sec": 9, "key": "Anticipation", "en": "Anticipation", "ja": "きけんよち"}
+{"sec": 9, "key": "Forewarn", "en": "Forewarn", "ja": "よちむ"}
+{"sec": 9, "key": "Unaware", "en": "Unaware", "ja": "てんねん"}
+{"sec": 9, "key": "Tinted Lens", "en": "Tinted Lens", "ja": "いろめがね"}
+{"sec": 9, "key": "Filter", "en": "Filter", "ja": "フィルター"}
+{"sec": 9, "key": "Slow Start", "en": "Slow Start", "ja": "スロースタート"}
+{"sec": 9, "key": "Scrappy", "en": "Scrappy", "ja": "きもったま"}
+{"sec": 9, "key": "Storm Drain", "en": "Storm Drain", "ja": "よびみず"}
+{"sec": 9, "key": "Ice Body", "en": "Ice Body", "ja": "アイスボディ"}
+{"sec": 9, "key": "Solid Rock", "en": "Solid Rock", "ja": "ハードロック"}
+{"sec": 9, "key": "Snow Warning", "en": "Snow Warning", "ja": "ゆきふらし"}
+{"sec": 9, "key": "Honey Gather", "en": "Honey Gather", "ja": "みつあつめ"}
+{"sec": 9, "key": "Frisk", "en": "Frisk", "ja": "おみとおし"}
+{"sec": 9, "key": "Reckless", "en": "Reckless", "ja": "すてみ"}
+{"sec": 9, "key": "Multitype", "en": "Multitype", "ja": "マルチタイプ"}
+{"sec": 9, "key": "Flower Gift", "en": "Flower Gift", "ja": "フラワーギフト"}
+{"sec": 9, "key": "Bad Dreams", "en": "Bad Dreams", "ja": "ナイトメア"}
+{"sec": 9, "key": "Pickpocket", "en": "Pickpocket", "ja": "わるいてぐせ"}
+{"sec": 9, "key": "Sheer Force", "en": "Sheer Force", "ja": "ちからずく"}
+{"sec": 9, "key": "Contrary", "en": "Contrary", "ja": "あまのじゃく"}
+{"sec": 9, "key": "Unnerve", "en": "Unnerve", "ja": "きんちょうかん"}
+{"sec": 9, "key": "Defiant", "en": "Defiant", "ja": "まけんき"}
+{"sec": 9, "key": "Defeatist", "en": "Defeatist", "ja": "よわき"}
+{"sec": 9, "key": "Cursed Body", "en": "Cursed Body", "ja": "のろわれボディ"}
+{"sec": 9, "key": "Healer", "en": "Healer", "ja": "いやしのこころ"}
+{"sec": 9, "key": "Friend Guard", "en": "Friend Guard", "ja": "フレンドガード"}
+{"sec": 9, "key": "Weak Armor", "en": "Weak Armor", "ja": "くだけるよろい"}
+{"sec": 9, "key": "Heavy Metal", "en": "Heavy Metal", "ja": "ヘヴィメタル"}
+{"sec": 9, "key": "Light Metal", "en": "Light Metal", "ja": "ライトメタル"}
+{"sec": 9, "key": "Multiscale", "en": "Multiscale", "ja": "マルチスケイル"}
+{"sec": 9, "key": "Toxic Boost", "en": "Toxic Boost", "ja": "どくぼうそう"}
+{"sec": 9, "key": "Flare Boost", "en": "Flare Boost", "ja": "ねつぼうそう"}
+{"sec": 9, "key": "Harvest", "en": "Harvest", "ja": "しゅうかく"}
+{"sec": 9, "key": "Telepathy", "en": "Telepathy", "ja": "テレパシー"}
+{"sec": 9, "key": "Moody", "en": "Moody", "ja": "ムラっけ"}
+{"sec": 9, "key": "Overcoat", "en": "Overcoat", "ja": "ぼうじん"}
+{"sec": 9, "key": "Poison Touch", "en": "Poison Touch", "ja": "どくしゅ"}
+{"sec": 9, "key": "Regenerator", "en": "Regenerator", "ja": "さいせいりょく"}
+{"sec": 9, "key": "Big Pecks", "en": "Big Pecks", "ja": "はとむね"}
+{"sec": 9, "key": "Sand Rush", "en": "Sand Rush", "ja": "すなかき"}
+{"sec": 9, "key": "Wonder Skin", "en": "Wonder Skin", "ja": "ミラクルスキン"}
+{"sec": 9, "key": "Analytic", "en": "Analytic", "ja": "アナライズ"}
+{"sec": 9, "key": "Illusion", "en": "Illusion", "ja": "イリュージョン"}
+{"sec": 9, "key": "Imposter", "en": "Imposter", "ja": "かわりもの"}
+{"sec": 9, "key": "Infiltrator", "en": "Infiltrator", "ja": "すりぬけ"}
+{"sec": 9, "key": "Mummy", "en": "Mummy", "ja": "ミイラ"}
+{"sec": 9, "key": "Moxie", "en": "Moxie", "ja": "じしんかじょう"}
+{"sec": 9, "key": "Justified", "en": "Justified", "ja": "せいぎのこころ"}
+{"sec": 9, "key": "Rattled", "en": "Rattled", "ja": "びびり"}
+{"sec": 9, "key": "Magic Bounce", "en": "Magic Bounce", "ja": "マジックミラー"}
+{"sec": 9, "key": "Sap Sipper", "en": "Sap Sipper", "ja": "そうしょく"}
+{"sec": 9, "key": "Prankster", "en": "Prankster", "ja": "いたずらごころ"}
+{"sec": 9, "key": "Sand Force", "en": "Sand Force", "ja": "すなのちから"}
+{"sec": 9, "key": "Iron Barbs", "en": "Iron Barbs", "ja": "てつのトゲ"}
+{"sec": 9, "key": "Zen Mode", "en": "Zen Mode", "ja": "ダルマモード"}
+{"sec": 9, "key": "Victory Star", "en": "Victory Star", "ja": "しょうりのほし"}
+{"sec": 9, "key": "Turboblaze", "en": "Turboblaze", "ja": "ターボブレイズ"}
+{"sec": 9, "key": "Teravolt", "en": "Teravolt", "ja": "テラボルテージ"}
+{"sec": 9, "key": "Aerilate", "en": "Aerilate", "ja": "スカイスキン"}
+{"sec": 9, "key": "Aroma Veil", "en": "Aroma Veil", "ja": "アロマベール"}
+{"sec": 9, "key": "Aura Break", "en": "Aura Break", "ja": "オーラブレイク"}
+{"sec": 9, "key": "Bulletproof", "en": "Bulletproof", "ja": "ぼうだん"}
+{"sec": 9, "key": "Cheek Pouch", "en": "Cheek Pouch", "ja": "ほおぶくろ"}
+{"sec": 9, "key": "Competitive", "en": "Competitive", "ja": "かちき"}
+{"sec": 9, "key": "Dark Aura", "en": "Dark Aura", "ja": "ダークオーラ"}
+{"sec": 9, "key": "Fairy Aura", "en": "Fairy Aura", "ja": "フェアリーオーラ"}
+{"sec": 9, "key": "Flower Veil", "en": "Flower Veil", "ja": "フラワーベール"}
+{"sec": 9, "key": "Fur Coat", "en": "Fur Coat", "ja": "ファーコート"}
+{"sec": 9, "key": "Gale Wings", "en": "Gale Wings", "ja": "はやてのつばさ"}
+{"sec": 9, "key": "Gooey", "en": "Gooey", "ja": "ぬめぬめ"}
+{"sec": 9, "key": "Grass Pelt", "en": "Grass Pelt", "ja": "くさのけがわ"}
+{"sec": 9, "key": "Magician", "en": "Magician", "ja": "マジシャン"}
+{"sec": 9, "key": "Mega Launcher", "en": "Mega Launcher", "ja": "メガランチャー"}
+{"sec": 9, "key": "Parental Bond", "en": "Parental Bond", "ja": "おやこあい"}
+{"sec": 9, "key": "Pixilate", "en": "Pixilate", "ja": "フェアリースキン"}
+{"sec": 9, "key": "Protean", "en": "Protean", "ja": "へんげんじざい"}
+{"sec": 9, "key": "Refrigerate", "en": "Refrigerate", "ja": "フリーズスキン"}
+{"sec": 9, "key": "Stance Change", "en": "Stance Change", "ja": "バトルスイッチ"}
+{"sec": 9, "key": "Strong Jaw", "en": "Strong Jaw", "ja": "がんじょうあご"}
+{"sec": 9, "key": "Sweet Veil", "en": "Sweet Veil", "ja": "スイートベール"}
+{"sec": 9, "key": "Symbiosis", "en": "Symbiosis", "ja": "きょうせい"}
+{"sec": 9, "key": "Tough Claws", "en": "Tough Claws", "ja": "かたいツメ"}
+{"sec": 9, "key": "Primordial Sea", "en": "Primordial Sea", "ja": "はじまりのうみ"}
+{"sec": 9, "key": "Desolate Land", "en": "Desolate Land", "ja": "おわりのだいち"}
+{"sec": 9, "key": "Delta Stream", "en": "Delta Stream", "ja": "デルタストリーム"}
+{"sec": 9, "key": "Battery", "en": "Battery", "ja": "バッテリー"}
+{"sec": 9, "key": "Beast Boost", "en": "Beast Boost", "ja": "ビーストブースト"}
+{"sec": 9, "key": "Berserk", "en": "Berserk", "ja": "ぎゃくじょう"}
+{"sec": 9, "key": "Comatose", "en": "Comatose", "ja": "ぜったいねむり"}
+{"sec": 9, "key": "Corrosion", "en": "Corrosion", "ja": "ふしょく"}
+{"sec": 9, "key": "Dancer", "en": "Dancer", "ja": "おどりこ"}
+{"sec": 9, "key": "Dazzling", "en": "Dazzling", "ja": "ビビッドボディ"}
+{"sec": 9, "key": "Electric Surge", "en": "Electric Surge", "ja": "エレキメイカー"}
+{"sec": 9, "key": "EmergencyExit", "en": "EmergencyExit", "ja": "ききかいひ"}
+{"sec": 9, "key": "Fluffy", "en": "Fluffy", "ja": "もふもふ"}
+{"sec": 9, "key": "Full Metal Body", "en": "Full Metal Body", "ja": "メタルプロテクト"}
+{"sec": 9, "key": "Galvanize", "en": "Galvanize", "ja": "エレキスキン"}
+{"sec": 9, "key": "Grassy Surge", "en": "Grassy Surge", "ja": "グラスメイカー"}
+{"sec": 9, "key": "Innards Out", "en": "Innards Out", "ja": "とびだすなかみ"}
+{"sec": 9, "key": "Liquid Voice", "en": "Liquid Voice", "ja": "うるおいボイス"}
+{"sec": 9, "key": "Long Reach", "en": "Long Reach", "ja": "えんかく"}
+{"sec": 9, "key": "Merciless", "en": "Merciless", "ja": "ひとでなし"}
+{"sec": 9, "key": "Misty Surge", "en": "Misty Surge", "ja": "ミストメイカー"}
+{"sec": 9, "key": "Alchemy", "en": "Alchemy", "ja": "かがくのちから"}
+{"sec": 9, "key": "Prism Armor", "en": "Prism Armor", "ja": "プリズムアーマー"}
+{"sec": 9, "key": "Psychic Surge", "en": "Psychic Surge", "ja": "サイコメイカー"}
+{"sec": 9, "key": "Q. Majesty", "en": "Q. Majesty", "ja": "じょおうのいげん"}
+{"sec": 9, "key": "Queenly Majesty", "en": "Queenly Majesty", "ja": "じょおうのいげん"}
+{"sec": 9, "key": "Receiver", "en": "Receiver", "ja": "レシーバー"}
+{"sec": 9, "key": "Shadow Shield", "en": "Shadow Shield", "ja": "ファントムガード"}
+{"sec": 9, "key": "Slush Rush", "en": "Slush Rush", "ja": "ゆきかき"}
+{"sec": 9, "key": "Soul-Heart", "en": "Soul-Heart", "ja": "ソウルハート"}
+{"sec": 9, "key": "Stakeout", "en": "Stakeout", "ja": "はりこみ"}
+{"sec": 9, "key": "Stamina", "en": "Stamina", "ja": "じきゅうりょく"}
+{"sec": 9, "key": "Steelworker", "en": "Steelworker", "ja": "はがねつかい"}
+{"sec": 9, "key": "Surge Surfer", "en": "Surge Surfer", "ja": "サーフテール"}
+{"sec": 9, "key": "Tangling Hair", "en": "Tangling Hair", "ja": "カーリーヘアー"}
+{"sec": 9, "key": "Triage", "en": "Triage", "ja": "ヒーリングシフト"}
+{"sec": 9, "key": "Water Bubble", "en": "Water Bubble", "ja": "すいほう"}
+{"sec": 9, "key": "W. Compaction", "en": "W. Compaction", "ja": "みずがため"}
+{"sec": 9, "key": "Water Compaction", "en": "Water Compaction", "ja": "みずがため"}
+{"sec": 9, "key": "Wimp Out", "en": "Wimp Out", "ja": "にげごし"}
+{"sec": 9, "key": "Schooling", "en": "Schooling", "ja": "ぎょぐん"}
+{"sec": 9, "key": "RKS System", "en": "RKS System", "ja": "ARシステム"}
+{"sec": 9, "key": "Shields Down", "en": "Shields Down", "ja": "リミットシールド"}
+{"sec": 9, "key": "Disguise", "en": "Disguise", "ja": "ばけのかわ"}
+{"sec": 9, "key": "P. Construct", "en": "P. Construct", "ja": "スワームチェンジ"}
+{"sec": 9, "key": "Power Construct", "en": "Power Construct", "ja": "スワームチェンジ"}
+{"sec": 9, "key": "Ball Fetch", "en": "Ball Fetch", "ja": "たまひろい"}
+{"sec": 9, "key": "Cotton Down", "en": "Cotton Down", "ja": "わたげ"}
+{"sec": 9, "key": "Dauntless Shield", "en": "Dauntless Shield", "ja": "ふくつのたて"}
+{"sec": 9, "key": "Gorilla Tactics", "en": "Gorilla Tactics", "ja": "ごりむちゅう"}
+{"sec": 9, "key": "Gulp Missile", "en": "Gulp Missile", "ja": "うのミサイル"}
+{"sec": 9, "key": "Hunger Switch", "en": "Hunger Switch", "ja": "はらぺこスイッチ"}
+{"sec": 9, "key": "Ice Face", "en": "Ice Face", "ja": "アイスフェイス"}
+{"sec": 9, "key": "Ice Scales", "en": "Ice Scales", "ja": "こおりのりんぷん"}
+{"sec": 9, "key": "Intrepid Sword", "en": "Intrepid Sword", "ja": "ふとうのけん"}
+{"sec": 9, "key": "Libero", "en": "Libero", "ja": "リベロ"}
+{"sec": 9, "key": "Mimicry", "en": "Mimicry", "ja": "ぎたい"}
+{"sec": 9, "key": "Mirror Armor", "en": "Mirror Armor", "ja": "ミラーアーマー"}
+{"sec": 9, "key": "Neutralizing Gas", "en": "Neutralizing Gas", "ja": "かがくへんかガス"}
+{"sec": 9, "key": "Pastel Veil", "en": "Pastel Veil", "ja": "パステルベール"}
+{"sec": 9, "key": "Perish Body", "en": "Perish Body", "ja": "ほろびのボディ"}
+{"sec": 9, "key": "Power Spot", "en": "Power Spot", "ja": "パワースポット"}
+{"sec": 9, "key": "Propeller Tail", "en": "Propeller Tail", "ja": "スクリューおびれ"}
+{"sec": 9, "key": "Punk Rock", "en": "Punk Rock", "ja": "パンクロック"}
+{"sec": 9, "key": "Ripen", "en": "Ripen", "ja": "じゅくせい"}
+{"sec": 9, "key": "Sand Spit", "en": "Sand Spit", "ja": "すなはき"}
+{"sec": 9, "key": "Screen Cleaner", "en": "Screen Cleaner", "ja": "バリアフリー"}
+{"sec": 9, "key": "Stalwart", "en": "Stalwart", "ja": "すじがねいり"}
+{"sec": 9, "key": "Steam Engine", "en": "Steam Engine", "ja": "じょうききかん"}
+{"sec": 9, "key": "Steely Spirit", "en": "Steely Spirit", "ja": "はがねのせいしん"}
+{"sec": 9, "key": "W. Spirit", "en": "W. Spirit", "ja": "さまようたましい"}
+{"sec": 9, "key": "Wandering Spirit", "en": "Wandering Spirit", "ja": "さまようたましい"}
+{"sec": 9, "key": "Neuroforce", "en": "Neuroforce", "ja": "ブレインフォース"}
+{"sec": 9, "key": "Quick Draw", "en": "Quick Draw", "ja": "クイックドロウ"}
+{"sec": 9, "key": "Unseen Fist", "en": "Unseen Fist", "ja": "ふかしのこぶし"}
+{"sec": 9, "key": "Curious Med.", "en": "Curious Med.", "ja": "きみょうなくすり"}
+{"sec": 9, "key": "Curious Medicine", "en": "Curious Medicine", "ja": "きみょうなくすり"}
+{"sec": 9, "key": "Transistor", "en": "Transistor", "ja": "トランジスタ"}
+{"sec": 9, "key": "Dragon's Maw", "en": "Dragon's Maw", "ja": "りゅうのあぎと"}
+{"sec": 9, "key": "Chilling Neigh", "en": "Chilling Neigh", "ja": "しろのいななき"}
+{"sec": 9, "key": "Grim Neigh", "en": "Grim Neigh", "ja": "くろのいななき"}
+{"sec": 9, "key": "As One", "en": "As One", "ja": "じんばいったい"}
+{"sec": 9, "key": "Battle Bond", "en": "Battle Bond", "ja": "きずなへんげ"}
+{"sec": 9, "key": "Duskilate", "en": "Duskilate", "ja": "ゴーストスキン"}

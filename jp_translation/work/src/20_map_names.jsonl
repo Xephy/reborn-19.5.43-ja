@@ -1,0 +1,895 @@
+{"sec": 20, "key": 1, "en": "Department Store 5F", "ja": "デパート5階"}
+{"sec": 20, "key": 2, "en": "Department Store 6F", "ja": "デパート6階"}
+{"sec": 20, "key": 3, "en": "Department Store 7F", "ja": "デパート7階"}
+{"sec": 20, "key": 4, "en": "Department Store 8F", "ja": "デパート8階"}
+{"sec": 20, "key": 5, "en": "Department Store 9F", "ja": "デパート9階"}
+{"sec": 20, "key": 6, "en": "Department Store 11F", "ja": "デパート11階"}
+{"sec": 20, "key": 7, "en": "Department Store 10F", "ja": "デパート10階"}
+{"sec": 20, "key": 8, "en": "Blacksteam Factory 3F", "ja": "ブラックスチーム工場3階"}
+{"sec": 20, "key": 9, "en": "Blacksteam Factory 2F", "ja": "ブラックスチーム工場2階"}
+{"sec": 20, "key": 10, "en": "Blacksteam Factory 1F", "ja": "ブラックスチーム工場1階"}
+{"sec": 20, "key": 11, "en": "Blacksteam Factory B1F", "ja": "ブラックスチーム工場地下1階"}
+{"sec": 20, "key": 12, "en": "Blacksteam Factory B2F", "ja": "ブラックスチーム工場地下2階"}
+{"sec": 20, "key": 13, "en": "Blacksteam Factory 1F", "ja": "ブラックスチーム工場1階"}
+{"sec": 20, "key": 14, "en": "Coral Ward", "ja": "コーラルワード"}
+{"sec": 20, "key": 15, "en": "Apophyll Beach", "ja": "アポフィルビーチ"}
+{"sec": 20, "key": 16, "en": "Apophyll Beach", "ja": "アポフィルビーチ"}
+{"sec": 20, "key": 17, "en": "Apophyll Academy", "ja": "アポフィルアカデミー"}
+{"sec": 20, "key": 18, "en": "Apophyll Beach", "ja": "アポフィルビーチ"}
+{"sec": 20, "key": 19, "en": "Apophyll Beach", "ja": "アポフィルビーチ"}
+{"sec": 20, "key": 20, "en": "Apophyll Beach", "ja": "アポフィルビーチ"}
+{"sec": 20, "key": 21, "en": "Pyrous Mountain", "ja": "パイロス山"}
+{"sec": 20, "key": 22, "en": "Apophyll Academy", "ja": "アポフィルアカデミー"}
+{"sec": 20, "key": 23, "en": "Apophyll Academy", "ja": "アポフィルアカデミー"}
+{"sec": 20, "key": 24, "en": "Reborn", "ja": "リボーン"}
+{"sec": 20, "key": 25, "en": "Apophyll Academy", "ja": "アポフィルアカデミー"}
+{"sec": 20, "key": 26, "en": "Apophyll Academy", "ja": "アポフィルアカデミー"}
+{"sec": 20, "key": 27, "en": "Pyrous Mountain", "ja": "パイロス山"}
+{"sec": 20, "key": 28, "en": "Reborn City", "ja": "リボーンシティ"}
+{"sec": 20, "key": 29, "en": "Opal Ward", "ja": "オパールワード"}
+{"sec": 20, "key": 30, "en": "Apophyll Cave", "ja": "アポフィルどうくつ"}
+{"sec": 20, "key": 31, "en": "Apophyll Cave 2F", "ja": "アポフィルどうくつ2階"}
+{"sec": 20, "key": 32, "en": "REMOVED", "ja": ""}
+{"sec": 20, "key": 33, "en": "Pyrous Mountain 1F", "ja": "パイロス山1階"}
+{"sec": 20, "key": 34, "en": "Pyrous Mountain 1F", "ja": "パイロス山1階"}
+{"sec": 20, "key": 35, "en": "Pyrous Mountain B1F", "ja": "パイロス山地下1階"}
+{"sec": 20, "key": 36, "en": "Obsidia Ward", "ja": "オブシディアワード"}
+{"sec": 20, "key": 37, "en": "Lower Peridot Ward", "ja": "下ペリドットワード"}
+{"sec": 20, "key": 38, "en": "Grand Hall", "ja": "大ホール"}
+{"sec": 20, "key": 39, "en": "Grand Hall", "ja": "大ホール"}
+{"sec": 20, "key": 40, "en": "Opal Ward", "ja": "オパールワード"}
+{"sec": 20, "key": 41, "en": "Underground Railnet", "ja": "地下鉄道網"}
+{"sec": 20, "key": 42, "en": "Lower Peridot Ward", "ja": "下ペリドットワード"}
+{"sec": 20, "key": 43, "en": "Lower Peridot Ward", "ja": "下ペリドットワード"}
+{"sec": 20, "key": 44, "en": "Lower Peridot Ward", "ja": "下ペリドットワード"}
+{"sec": 20, "key": 45, "en": "Lower Peridot Ward", "ja": "下ペリドットワード"}
+{"sec": 20, "key": 46, "en": "Lower Peridot Ward", "ja": "下ペリドットワード"}
+{"sec": 20, "key": 47, "en": "Lower Peridot Ward", "ja": "下ペリドットワード"}
+{"sec": 20, "key": 48, "en": "Peridot Pokemon Center", "ja": "ペリドットポケモンセンター"}
+{"sec": 20, "key": 49, "en": "Lower Peridot Ward", "ja": "下ペリドットワード"}
+{"sec": 20, "key": 50, "en": "Lower Peridot Ward", "ja": "下ペリドットワード"}
+{"sec": 20, "key": 51, "en": "Intro", "ja": ""}
+{"sec": 20, "key": 52, "en": "Lower Peridot Alley", "ja": "下ペリドット路地"}
+{"sec": 20, "key": 53, "en": "Lower Peridot Ward", "ja": "下ペリドットワード"}
+{"sec": 20, "key": 54, "en": "Lower Peridot Ward", "ja": "下ペリドットワード"}
+{"sec": 20, "key": 55, "en": "Lower Peridot Ward", "ja": "下ペリドットワード"}
+{"sec": 20, "key": 56, "en": "Lower Peridot Ward", "ja": "下ペリドットワード"}
+{"sec": 20, "key": 57, "en": "Peridot Ward", "ja": "ペリドットワード"}
+{"sec": 20, "key": 58, "en": "North Peridot Alley", "ja": "北ペリドット路地"}
+{"sec": 20, "key": 59, "en": "Peridot Ward", "ja": "ペリドットワード"}
+{"sec": 20, "key": 60, "en": "Peridot Ward", "ja": "ペリドットワード"}
+{"sec": 20, "key": 61, "en": "Peridot Ward", "ja": "ペリドットワード"}
+{"sec": 20, "key": 62, "en": "Peridot Ward", "ja": "ペリドットワード"}
+{"sec": 20, "key": 63, "en": "Peridot Ward", "ja": "ペリドットワード"}
+{"sec": 20, "key": 64, "en": "Peridot Ward", "ja": "ペリドットワード"}
+{"sec": 20, "key": 65, "en": "Peridot Ward", "ja": "ペリドットワード"}
+{"sec": 20, "key": 66, "en": "REMOVED", "ja": ""}
+{"sec": 20, "key": 67, "en": "Peridot Ward", "ja": "ペリドットワード"}
+{"sec": 20, "key": 68, "en": "Peridot Ward", "ja": "ペリドットワード"}
+{"sec": 20, "key": 69, "en": "Peridot Ward", "ja": "ペリドットワード"}
+{"sec": 20, "key": 70, "en": "Peridot PokeMart", "ja": "ペリドットショップ"}
+{"sec": 20, "key": 71, "en": "Mosswater Industrial", "ja": "モスウォーター工業区"}
+{"sec": 20, "key": 72, "en": "REMOVED", "ja": ""}
+{"sec": 20, "key": 73, "en": "REMOVED", "ja": ""}
+{"sec": 20, "key": 74, "en": "REMOVED", "ja": ""}
+{"sec": 20, "key": 75, "en": "REMOVED", "ja": ""}
+{"sec": 20, "key": 76, "en": "REMOVED", "ja": ""}
+{"sec": 20, "key": 77, "en": "REMOVED", "ja": ""}
+{"sec": 20, "key": 78, "en": "Peridot Gym", "ja": "ペリドットジム"}
+{"sec": 20, "key": 79, "en": "North Obsidia Ward", "ja": "北オブシディアワード"}
+{"sec": 20, "key": 80, "en": "Lapis Ward", "ja": "ラピスワード"}
+{"sec": 20, "key": 81, "en": "South Obsidia Ward", "ja": "南オブシディアワード"}
+{"sec": 20, "key": 82, "en": "Central Obsidia Salon", "ja": "中央オブシディア美容室"}
+{"sec": 20, "key": 83, "en": "Obsidia Pokemon Center", "ja": "オブシディアポケモンセンター"}
+{"sec": 20, "key": 84, "en": "Devon Corp", "ja": "デボンコーポ"}
+{"sec": 20, "key": 85, "en": "Obsidia Slums 1F", "ja": "オブシディアスラム1階"}
+{"sec": 20, "key": 86, "en": "South Obsidia Ward", "ja": "南オブシディアワード"}
+{"sec": 20, "key": 87, "en": "REMOVED", "ja": ""}
+{"sec": 20, "key": 88, "en": "Obsidia Slums B1F", "ja": "オブシディアスラム地下1階"}
+{"sec": 20, "key": 89, "en": "Obsidia Slums", "ja": "オブシディアスラム"}
+{"sec": 20, "key": 90, "en": "Obsidia Slums 1F", "ja": "オブシディアスラム1階"}
+{"sec": 20, "key": 91, "en": "Obsidia Slums 2F", "ja": "オブシディアスラム2階"}
+{"sec": 20, "key": 92, "en": "Obsidia Slums 3F", "ja": "オブシディアスラム3階"}
+{"sec": 20, "key": 93, "en": "REMOVED", "ja": ""}
+{"sec": 20, "key": 94, "en": "REMOVED", "ja": ""}
+{"sec": 20, "key": 95, "en": "Obsidia Slums B1F", "ja": "オブシディアスラム地下1階"}
+{"sec": 20, "key": 96, "en": "Obsidia Slums B1F", "ja": "オブシディアスラム地下1階"}
+{"sec": 20, "key": 97, "en": "Coral Ward", "ja": "コーラルワード"}
+{"sec": 20, "key": 98, "en": "Coral Ward", "ja": "コーラルワード"}
+{"sec": 20, "key": 99, "en": "Coral Ward", "ja": "コーラルワード"}
+{"sec": 20, "key": 100, "en": "Coral Pokemon Center", "ja": "コーラルポケモンセンター"}
+{"sec": 20, "key": 101, "en": "Glamazonia Salon", "ja": "グラマゾニア美容室"}
+{"sec": 20, "key": 102, "en": "Obsidia Ward", "ja": "オブシディアワード"}
+{"sec": 20, "key": 103, "en": "Underground Railnet", "ja": "地下鉄道網"}
+{"sec": 20, "key": 104, "en": "Obsidia Ward", "ja": "オブシディアワード"}
+{"sec": 20, "key": 105, "en": "Obsidia Alleyway", "ja": "オブシディア路地"}
+{"sec": 20, "key": 106, "en": "Obsidia Daycare", "ja": "オブシディア育て屋"}
+{"sec": 20, "key": 107, "en": "REMOVED", "ja": ""}
+{"sec": 20, "key": 108, "en": "Obsidia Ward", "ja": "オブシディアワード"}
+{"sec": 20, "key": 109, "en": "Coral Ward", "ja": "コーラルワード"}
+{"sec": 20, "key": 110, "en": "Coral Ward", "ja": "コーラルワード"}
+{"sec": 20, "key": 111, "en": "Silph CO", "ja": "シルフカンパニー"}
+{"sec": 20, "key": 112, "en": "Department Store", "ja": "デパート"}
+{"sec": 20, "key": 113, "en": "Department Store", "ja": "デパート"}
+{"sec": 20, "key": 114, "en": "Department Store 2F", "ja": "デパート2階"}
+{"sec": 20, "key": 115, "en": "Onyx Ward", "ja": "オニキスワード"}
+{"sec": 20, "key": 116, "en": "Onyx Ward", "ja": "オニキスワード"}
+{"sec": 20, "key": 117, "en": "Onyx Arcade", "ja": "オニキスゲームセンター"}
+{"sec": 20, "key": 118, "en": "Onyx Ward", "ja": "オニキスワード"}
+{"sec": 20, "key": 119, "en": "Onyx Trainers' School", "ja": "オニキストレーナー学校"}
+{"sec": 20, "key": 120, "en": "Onyx Trainers' School", "ja": "オニキストレーナー学校"}
+{"sec": 20, "key": 121, "en": "Onyx Trainers' School 2F", "ja": "オニキストレーナー学校2階"}
+{"sec": 20, "key": 122, "en": "Onyx Trainers' School 2F", "ja": "オニキストレーナー学校2階"}
+{"sec": 20, "key": 123, "en": "Onyx Trainers' School 2F", "ja": "オニキストレーナー学校2階"}
+{"sec": 20, "key": 124, "en": "Onyx Trainers' School", "ja": "オニキストレーナー学校"}
+{"sec": 20, "key": 125, "en": "Onyx Trainers' School", "ja": "オニキストレーナー学校"}
+{"sec": 20, "key": 126, "en": "Onyx Trainers' School", "ja": "オニキストレーナー学校"}
+{"sec": 20, "key": 127, "en": "Onyx Trainers' Arena", "ja": "オニキストレーナー闘技場"}
+{"sec": 20, "key": 128, "en": "Onyx Ward", "ja": "オニキスワード"}
+{"sec": 20, "key": 129, "en": "Onyx Ward", "ja": "オニキスワード"}
+{"sec": 20, "key": 130, "en": "Jasper Ward", "ja": "ジャスパーワード"}
+{"sec": 20, "key": 131, "en": "REMOVED", "ja": ""}
+{"sec": 20, "key": 132, "en": "Malchous Forest Park", "ja": "マルコウス森林公園"}
+{"sec": 20, "key": 133, "en": "Police Station", "ja": "警察署"}
+{"sec": 20, "key": 134, "en": "Jasper Ward", "ja": "ジャスパーワード"}
+{"sec": 20, "key": 135, "en": "Jasper Ward", "ja": "ジャスパーワード"}
+{"sec": 20, "key": 136, "en": "Jasper Pokemon Center", "ja": "ジャスパーポケモンセンター"}
+{"sec": 20, "key": 137, "en": "Jasper Ward", "ja": "ジャスパーワード"}
+{"sec": 20, "key": 138, "en": "Jasper Ward", "ja": "ジャスパーワード"}
+{"sec": 20, "key": 139, "en": "Jasper Ward", "ja": "ジャスパーワード"}
+{"sec": 20, "key": 140, "en": "Jasper Ward", "ja": "ジャスパーワード"}
+{"sec": 20, "key": 141, "en": "Department Store 3F", "ja": "デパート3階"}
+{"sec": 20, "key": 142, "en": "Beryl Ward", "ja": "ベリルワード"}
+{"sec": 20, "key": 143, "en": "REMOVED", "ja": ""}
+{"sec": 20, "key": 144, "en": "Beryl Bridge", "ja": "ベリル大橋"}
+{"sec": 20, "key": 145, "en": "Aventurine Region", "ja": "アベンチュリン地方"}
+{"sec": 20, "key": 146, "en": "Abandoned Power Plant", "ja": "廃発電所"}
+{"sec": 20, "key": 147, "en": "REMOVED", "ja": ""}
+{"sec": 20, "key": 148, "en": "Tourmaline Desert", "ja": "トルマリン砂漠"}
+{"sec": 20, "key": 149, "en": "Beryl Ward", "ja": "ベリルワード"}
+{"sec": 20, "key": 150, "en": "Rhodochrine Jungle", "ja": "ロドクラインジャングル"}
+{"sec": 20, "key": 151, "en": "Beryl Ward", "ja": "ベリルワード"}
+{"sec": 20, "key": 152, "en": "Beryl Cemetery", "ja": "ベリル墓地"}
+{"sec": 20, "key": 153, "en": "The Underroot", "ja": "アンダールート"}
+{"sec": 20, "key": 154, "en": "Rhodochrine Jungle", "ja": "ロドクラインジャングル"}
+{"sec": 20, "key": 155, "en": "Beryl Ward", "ja": "ベリルワード"}
+{"sec": 20, "key": 156, "en": "REMOVED", "ja": ""}
+{"sec": 20, "key": 157, "en": "REMOVED", "ja": ""}
+{"sec": 20, "key": 158, "en": "Beryl Ward", "ja": "ベリルワード"}
+{"sec": 20, "key": 159, "en": "Beryl Pokemon Center", "ja": "ベリルポケモンセンター"}
+{"sec": 20, "key": 160, "en": "Beryl PokeMart", "ja": "ベリルショップ"}
+{"sec": 20, "key": 161, "en": "Beryl Ward", "ja": "ベリルワード"}
+{"sec": 20, "key": 162, "en": "Beryl Gym", "ja": "ベリルジム"}
+{"sec": 20, "key": 163, "en": "Beryl Gym", "ja": "ベリルジム"}
+{"sec": 20, "key": 164, "en": "North Obsidia Ward", "ja": "北オブシディアワード"}
+{"sec": 20, "key": 165, "en": "North Obsidia Alleyway", "ja": "北オブシディア路地"}
+{"sec": 20, "key": 166, "en": "Lapis Pokemon Center", "ja": "ラピスポケモンセンター"}
+{"sec": 20, "key": 167, "en": "Lapis Luxury Cycle", "ja": "ラピス高級自転車店"}
+{"sec": 20, "key": 168, "en": "Lapis Ward", "ja": "ラピスワード"}
+{"sec": 20, "key": 169, "en": "Lapis Ward", "ja": "ラピスワード"}
+{"sec": 20, "key": 170, "en": "Lapis Alleyway", "ja": "ラピス路地"}
+{"sec": 20, "key": 171, "en": "Lapis PokeMart", "ja": "ラピスショップ"}
+{"sec": 20, "key": 172, "en": "Beryl Ward", "ja": "ベリルワード"}
+{"sec": 20, "key": 173, "en": "Beryl Ward", "ja": "ベリルワード"}
+{"sec": 20, "key": 174, "en": "Lapis Ward", "ja": "ラピスワード"}
+{"sec": 20, "key": 175, "en": "Lapis Gym", "ja": "ラピスジム"}
+{"sec": 20, "key": 176, "en": "Lapis Gym", "ja": "ラピスジム"}
+{"sec": 20, "key": 177, "en": "Grand Stairway", "ja": "大階段"}
+{"sec": 20, "key": 178, "en": "Grand Stairway B1F", "ja": "大階段地下1階"}
+{"sec": 20, "key": 179, "en": "Grand Stairway B2F", "ja": "大階段地下2階"}
+{"sec": 20, "key": 180, "en": "Grand Stairway B3F", "ja": "大階段地下3階"}
+{"sec": 20, "key": 181, "en": "Dr. Connal's Orphanage", "ja": "コナル博士の孤児院"}
+{"sec": 20, "key": 182, "en": "Lapis Gym", "ja": "ラピスジム"}
+{"sec": 20, "key": 183, "en": "Department Store 4F", "ja": "デパート4階"}
+{"sec": 20, "key": 184, "en": "Beryl Cave 1F", "ja": "ベリルどうくつ1階"}
+{"sec": 20, "key": 185, "en": "Beryl Cave B1F", "ja": "ベリルどうくつ地下1階"}
+{"sec": 20, "key": 186, "en": "Beryl Cave B2F", "ja": "ベリルどうくつ地下2階"}
+{"sec": 20, "key": 187, "en": "REMOVED", "ja": ""}
+{"sec": 20, "key": 188, "en": "Grand Stairway B1F", "ja": "大階段地下1階"}
+{"sec": 20, "key": 189, "en": "REMOVED", "ja": ""}
+{"sec": 20, "key": 190, "en": "Dr. Connal's Orphanage", "ja": "コナル博士の孤児院"}
+{"sec": 20, "key": 191, "en": "Dr. Connal's Orphanage", "ja": "コナル博士の孤児院"}
+{"sec": 20, "key": 192, "en": "Dr. Connal's Orphanage", "ja": "コナル博士の孤児院"}
+{"sec": 20, "key": 193, "en": "Dr. Connal's Orphanage", "ja": "コナル博士の孤児院"}
+{"sec": 20, "key": 194, "en": "Dr. Connal's Orphanage", "ja": "コナル博士の孤児院"}
+{"sec": 20, "key": 195, "en": "Dr. Connal's Orphanage", "ja": "コナル博士の孤児院"}
+{"sec": 20, "key": 196, "en": "Underground Railnet", "ja": "地下鉄道網"}
+{"sec": 20, "key": 197, "en": "Yureyu Power Plant", "ja": "ユレユ発電所"}
+{"sec": 20, "key": 198, "en": "Yureyu Power Plant", "ja": "ユレユ発電所"}
+{"sec": 20, "key": 199, "en": "Pyrous Mountain B1F", "ja": "パイロス山地下1階"}
+{"sec": 20, "key": 200, "en": "Pyrous Mountain B2F", "ja": "パイロス山地下2階"}
+{"sec": 20, "key": 201, "en": "Pyrous Mountain 2F", "ja": "パイロス山2階"}
+{"sec": 20, "key": 202, "en": "Pyrous Mountain 2F", "ja": "パイロス山2階"}
+{"sec": 20, "key": 203, "en": "Pyrous Mountain 3F", "ja": "パイロス山3階"}
+{"sec": 20, "key": 204, "en": "Pyrous Mountain 3F", "ja": "パイロス山3階"}
+{"sec": 20, "key": 205, "en": "Pyrous Mountain 4F", "ja": "パイロス山4階"}
+{"sec": 20, "key": 206, "en": "Azurine Island", "ja": "アズリン島"}
+{"sec": 20, "key": 207, "en": "Observation Facility", "ja": "観測施設"}
+{"sec": 20, "key": 208, "en": "Observation Facility", "ja": "観測施設"}
+{"sec": 20, "key": 209, "en": "Byxbysion Wasteland", "ja": "ビクスビジョン荒地"}
+{"sec": 20, "key": 210, "en": "Byxbysion Wasteland", "ja": "ビクスビジョン荒地"}
+{"sec": 20, "key": 211, "en": "Byxbysion Wasteland", "ja": "ビクスビジョン荒地"}
+{"sec": 20, "key": 212, "en": "Wasteland Wall", "ja": "荒地の壁"}
+{"sec": 20, "key": 213, "en": "Wasteland Wall", "ja": "荒地の壁"}
+{"sec": 20, "key": 214, "en": "Byxbysion Tunnels", "ja": "ビクスビジョン坑道"}
+{"sec": 20, "key": 215, "en": "Byxbysion Tunnels", "ja": "ビクスビジョン坑道"}
+{"sec": 20, "key": 216, "en": "Byxbysion Grotto", "ja": "ビクスビジョン洞穴"}
+{"sec": 20, "key": 217, "en": "Hidden Tunnel", "ja": "隠しトンネル"}
+{"sec": 20, "key": 218, "en": "Byxbysion Tunnels", "ja": "ビクスビジョン坑道"}
+{"sec": 20, "key": 219, "en": "Byxbysion Grotto", "ja": "ビクスビジョン洞穴"}
+{"sec": 20, "key": 220, "en": "Byxbysion Grotto", "ja": "ビクスビジョン洞穴"}
+{"sec": 20, "key": 221, "en": "Byxbysion Grotto", "ja": "ビクスビジョン洞穴"}
+{"sec": 20, "key": 222, "en": "Byxbysion Grotto", "ja": "ビクスビジョン洞穴"}
+{"sec": 20, "key": 223, "en": "Wasteland Hideout", "ja": "荒地のアジト"}
+{"sec": 20, "key": 224, "en": "Wasteland Hideout", "ja": "荒地のアジト"}
+{"sec": 20, "key": 225, "en": "Underground Railnet", "ja": "地下鉄道網"}
+{"sec": 20, "key": 226, "en": "North Obsidia Ward", "ja": "北オブシディアワード"}
+{"sec": 20, "key": 227, "en": "Yureyu HQ", "ja": "ユレユ本部"}
+{"sec": 20, "key": 228, "en": "Underground Railnet", "ja": "地下鉄道網"}
+{"sec": 20, "key": 229, "en": "Underground Railnet", "ja": "地下鉄道網"}
+{"sec": 20, "key": 230, "en": "Chrysolia Region", "ja": "クリソリア地方"}
+{"sec": 20, "key": 231, "en": "Tanzan Mountain", "ja": "タンザン山"}
+{"sec": 20, "key": 232, "en": "Tanzan Cove", "ja": "タンザン入り江"}
+{"sec": 20, "key": 233, "en": "Belrose Manse", "ja": "ベルローズ邸"}
+{"sec": 20, "key": 234, "en": "Chrysolia Forest", "ja": "クリソリアの森"}
+{"sec": 20, "key": 235, "en": "REMOVED", "ja": ""}
+{"sec": 20, "key": 236, "en": "REMOVED", "ja": ""}
+{"sec": 20, "key": 237, "en": "REMOVED", "ja": ""}
+{"sec": 20, "key": 238, "en": "Chrysolia Spring 1F", "ja": "クリソリア温泉1階"}
+{"sec": 20, "key": 239, "en": "Voclain Estate", "ja": "ボクレイン邸"}
+{"sec": 20, "key": 240, "en": "Spinel Pokemon Center", "ja": "スピネルポケモンセンター"}
+{"sec": 20, "key": 241, "en": "Spinel Museum", "ja": "スピネル博物館"}
+{"sec": 20, "key": 242, "en": "Spinel Town", "ja": "スピネルタウン"}
+{"sec": 20, "key": 243, "en": "Spinel PokeMart", "ja": "スピネルショップ"}
+{"sec": 20, "key": 244, "en": "Tanzan Mountain", "ja": "タンザン山"}
+{"sec": 20, "key": 245, "en": "Tanzan Meteor Base", "ja": "タンザンメテオ基地"}
+{"sec": 20, "key": 246, "en": "Tanzan Meteor Base", "ja": "タンザンメテオ基地"}
+{"sec": 20, "key": 247, "en": "Tanzan Depths", "ja": "タンザン深部"}
+{"sec": 20, "key": 248, "en": "Coral Ward", "ja": "コーラルワード"}
+{"sec": 20, "key": 249, "en": "Chrysolia Pass", "ja": "クリソリア峠"}
+{"sec": 20, "key": 250, "en": "Chrysolia Forest", "ja": "クリソリアの森"}
+{"sec": 20, "key": 251, "en": "Lost Railcave", "ja": "廃線どうくつ"}
+{"sec": 20, "key": 252, "en": "Lost Railcave", "ja": "廃線どうくつ"}
+{"sec": 20, "key": 253, "en": "Chrysolia Forest", "ja": "クリソリアの森"}
+{"sec": 20, "key": 254, "en": "Tanzan Meteor Base", "ja": "タンザンメテオ基地"}
+{"sec": 20, "key": 255, "en": "Tanzan Meteor Base", "ja": "タンザンメテオ基地"}
+{"sec": 20, "key": 256, "en": "Sweet Kiss Candy Shop", "ja": "あまいキッス菓子店"}
+{"sec": 20, "key": 257, "en": "Tanzan Depths", "ja": "タンザン深部"}
+{"sec": 20, "key": 258, "en": "Tanzan Depths", "ja": "タンザン深部"}
+{"sec": 20, "key": 259, "en": "Tanzan Depths", "ja": "タンザン深部"}
+{"sec": 20, "key": 260, "en": "Tanzan Depths", "ja": "タンザン深部"}
+{"sec": 20, "key": 261, "en": "Tanzan Depths", "ja": "タンザン深部"}
+{"sec": 20, "key": 262, "en": "Tanzan Depths", "ja": "タンザン深部"}
+{"sec": 20, "key": 263, "en": "Tanzan Depths", "ja": "タンザン深部"}
+{"sec": 20, "key": 264, "en": "Tanzan Depths", "ja": "タンザン深部"}
+{"sec": 20, "key": 265, "en": "Tanzan Peak", "ja": "タンザン山頂"}
+{"sec": 20, "key": 266, "en": "Reset Map", "ja": ""}
+{"sec": 20, "key": 267, "en": "REMOVED", "ja": ""}
+{"sec": 20, "key": 268, "en": "REMOVED", "ja": ""}
+{"sec": 20, "key": 269, "en": "Obsidia Park", "ja": "オブシディア公園"}
+{"sec": 20, "key": 270, "en": "REMOVED", "ja": ""}
+{"sec": 20, "key": 271, "en": "Spinel Town", "ja": "スピネルタウン"}
+{"sec": 20, "key": 272, "en": "Tanzan Mountain", "ja": "タンザン山"}
+{"sec": 20, "key": 273, "en": "Tanzan Mountain", "ja": "タンザン山"}
+{"sec": 20, "key": 274, "en": "Chrysolia Pass", "ja": "クリソリア峠"}
+{"sec": 20, "key": 275, "en": "Byxbysion Cave", "ja": "ビクスビジョンどうくつ"}
+{"sec": 20, "key": 276, "en": "Byxbysion Cave 2F", "ja": "ビクスビジョンどうくつ2階"}
+{"sec": 20, "key": 277, "en": "Byxbysion Cave 3F", "ja": "ビクスビジョンどうくつ3階"}
+{"sec": 20, "key": 278, "en": "Wasteland Wall", "ja": "荒地の壁"}
+{"sec": 20, "key": 279, "en": "Wasteland Wall", "ja": "荒地の壁"}
+{"sec": 20, "key": 280, "en": "Wasteland Wall", "ja": "荒地の壁"}
+{"sec": 20, "key": 281, "en": "Yureyu Power Plant", "ja": "ユレユ発電所"}
+{"sec": 20, "key": 282, "en": "South Aventurine Woods", "ja": "南アベンチュリンの森"}
+{"sec": 20, "key": 283, "en": "South Aventurine Woods", "ja": "南アベンチュリンの森"}
+{"sec": 20, "key": 284, "en": "South Aventurine Woods", "ja": "南アベンチュリンの森"}
+{"sec": 20, "key": 285, "en": "Route 1", "ja": "1番道路"}
+{"sec": 20, "key": 286, "en": "Route 1", "ja": "1番道路"}
+{"sec": 20, "key": 287, "en": "Route 1", "ja": "1番道路"}
+{"sec": 20, "key": 288, "en": "North Aventurine Woods", "ja": "北アベンチュリンの森"}
+{"sec": 20, "key": 289, "en": "North Aventurine Woods", "ja": "北アベンチュリンの森"}
+{"sec": 20, "key": 290, "en": "Route 1", "ja": "1番道路"}
+{"sec": 20, "key": 291, "en": "Route 1", "ja": "1番道路"}
+{"sec": 20, "key": 292, "en": "Vanhanen Labyrinth", "ja": "バンハネン迷宮"}
+{"sec": 20, "key": 293, "en": "Vanhanen Castle", "ja": "バンハネン城"}
+{"sec": 20, "key": 294, "en": "Nature Center", "ja": "ネイチャーセンター"}
+{"sec": 20, "key": 295, "en": "Grand Gate", "ja": "大門"}
+{"sec": 20, "key": 296, "en": "Grand Gate", "ja": "大門"}
+{"sec": 20, "key": 297, "en": "Agate City Checkpoint", "ja": "アゲートシティ検問所"}
+{"sec": 20, "key": 298, "en": "Agate City Checkpoint", "ja": "アゲートシティ検問所"}
+{"sec": 20, "key": 299, "en": "Nyu's House", "ja": "ニューの家"}
+{"sec": 20, "key": 300, "en": "REMOVED", "ja": ""}
+{"sec": 20, "key": 301, "en": "REMOVED", "ja": ""}
+{"sec": 20, "key": 302, "en": "Grand Gate", "ja": "大門"}
+{"sec": 20, "key": 303, "en": "Grand... Somewhere", "ja": "大…どこか"}
+{"sec": 20, "key": 304, "en": "Grand... Somewhere", "ja": "大…どこか"}
+{"sec": 20, "key": 305, "en": "Citae Astrae", "ja": "キタエ・アストラエ"}
+{"sec": 20, "key": 306, "en": "Citae Astrae", "ja": "キタエ・アストラエ"}
+{"sec": 20, "key": 307, "en": "Citae Astrae", "ja": "キタエ・アストラエ"}
+{"sec": 20, "key": 308, "en": "Citae Astrae", "ja": "キタエ・アストラエ"}
+{"sec": 20, "key": 309, "en": "Citae Astrae", "ja": "キタエ・アストラエ"}
+{"sec": 20, "key": 310, "en": "Ruby Tower", "ja": "ルビータワー"}
+{"sec": 20, "key": 311, "en": "Amethyst Tower", "ja": "アメジストタワー"}
+{"sec": 20, "key": 312, "en": "Grand Gate", "ja": "大門"}
+{"sec": 20, "key": 313, "en": "Vanhanen Castle", "ja": "バンハネン城"}
+{"sec": 20, "key": 314, "en": "Vanhanen Castle", "ja": "バンハネン城"}
+{"sec": 20, "key": 315, "en": "Vanhanen Castle", "ja": "バンハネン城"}
+{"sec": 20, "key": 316, "en": "Vanhanen Castle", "ja": "バンハネン城"}
+{"sec": 20, "key": 317, "en": "Vanhanen Castle", "ja": "バンハネン城"}
+{"sec": 20, "key": 318, "en": "Vanhanen Castle", "ja": "バンハネン城"}
+{"sec": 20, "key": 319, "en": "Reset", "ja": ""}
+{"sec": 20, "key": 320, "en": "Slums Playground", "ja": "スラムの遊び場"}
+{"sec": 20, "key": 321, "en": "Slums Playground", "ja": "スラムの遊び場"}
+{"sec": 20, "key": 322, "en": "Sweet Scent Flower Shop", "ja": "あまいかおり花屋"}
+{"sec": 20, "key": 323, "en": "Grand Hall", "ja": "大ホール"}
+{"sec": 20, "key": 324, "en": "7th Street", "ja": "7番街"}
+{"sec": 20, "key": 325, "en": "7th Street", "ja": "7番街"}
+{"sec": 20, "key": 326, "en": "7th Street", "ja": "7番街"}
+{"sec": 20, "key": 327, "en": "7th Street Watering Hole", "ja": "7番街の酒場"}
+{"sec": 20, "key": 328, "en": "Beryl Wall", "ja": "ベリルの壁"}
+{"sec": 20, "key": 329, "en": "Subseven Sanctum", "ja": "サブセブン聖域"}
+{"sec": 20, "key": 330, "en": "Subseven Sanctum", "ja": "サブセブン聖域"}
+{"sec": 20, "key": 331, "en": "Subseven Sanctum", "ja": "サブセブン聖域"}
+{"sec": 20, "key": 332, "en": "Subseven Sanctum", "ja": "サブセブン聖域"}
+{"sec": 20, "key": 333, "en": "Iolia Valley", "ja": "イオリア渓谷"}
+{"sec": 20, "key": 334, "en": "Iolia Valley", "ja": "イオリア渓谷"}
+{"sec": 20, "key": 335, "en": "Iolia Valley", "ja": "イオリア渓谷"}
+{"sec": 20, "key": 336, "en": "Iolia Valley", "ja": "イオリア渓谷"}
+{"sec": 20, "key": 337, "en": "Iolia Valley", "ja": "イオリア渓谷"}
+{"sec": 20, "key": 338, "en": "Iolia Valley", "ja": "イオリア渓谷"}
+{"sec": 20, "key": 339, "en": "Iolia Valley", "ja": "イオリア渓谷"}
+{"sec": 20, "key": 340, "en": "Iolia Valley", "ja": "イオリア渓谷"}
+{"sec": 20, "key": 341, "en": "Iolia Valley", "ja": "イオリア渓谷"}
+{"sec": 20, "key": 342, "en": "Iolia Valley", "ja": "イオリア渓谷"}
+{"sec": 20, "key": 343, "en": "Iolia Valley", "ja": "イオリア渓谷"}
+{"sec": 20, "key": 344, "en": "Iolia Valley", "ja": "イオリア渓谷"}
+{"sec": 20, "key": 345, "en": "Iolia Valley", "ja": "イオリア渓谷"}
+{"sec": 20, "key": 346, "en": "Iolia Valley", "ja": "イオリア渓谷"}
+{"sec": 20, "key": 347, "en": "Iolia Valley", "ja": "イオリア渓谷"}
+{"sec": 20, "key": 348, "en": "Iolia Valley", "ja": "イオリア渓谷"}
+{"sec": 20, "key": 349, "en": "Iolia Valley", "ja": "イオリア渓谷"}
+{"sec": 20, "key": 350, "en": "Iolia Valley", "ja": "イオリア渓谷"}
+{"sec": 20, "key": 351, "en": "Peridot Gym", "ja": "ペリドットジム"}
+{"sec": 20, "key": 352, "en": "7th Street", "ja": "7番街"}
+{"sec": 20, "key": 353, "en": "REMOVED", "ja": ""}
+{"sec": 20, "key": 354, "en": "Agate City", "ja": "アゲートシティ"}
+{"sec": 20, "key": 355, "en": "Agate Circus", "ja": "アゲートサーカス"}
+{"sec": 20, "key": 356, "en": "Big Top", "ja": "大テント"}
+{"sec": 20, "key": 357, "en": "Big Top", "ja": "大テント"}
+{"sec": 20, "key": 358, "en": "Route 2", "ja": "2番道路"}
+{"sec": 20, "key": 359, "en": "Celestinine Cascade", "ja": "セレスティナイン滝"}
+{"sec": 20, "key": 360, "en": "Route 2", "ja": "2番道路"}
+{"sec": 20, "key": 361, "en": "Route 3", "ja": "3番道路"}
+{"sec": 20, "key": 362, "en": "Fiore Mansion", "ja": "フィオレ屋敷"}
+{"sec": 20, "key": 363, "en": "Carnelia Region", "ja": "カルネリア地方"}
+{"sec": 20, "key": 364, "en": "Ametrine Mountain 2F", "ja": "アメトリン山2階"}
+{"sec": 20, "key": 365, "en": "Agate Circus Checkpoint", "ja": "アゲートサーカス検問所"}
+{"sec": 20, "key": 366, "en": "Ametrine Mountain 3F", "ja": "アメトリン山3階"}
+{"sec": 20, "key": 367, "en": "Reset Map", "ja": ""}
+{"sec": 20, "key": 368, "en": "Underground Railnet", "ja": "地下鉄道網"}
+{"sec": 20, "key": 369, "en": "Critical Capture", "ja": ""}
+{"sec": 20, "key": 370, "en": "Beryl Gym", "ja": "ベリルジム"}
+{"sec": 20, "key": 371, "en": "Tanzan Mountain", "ja": "タンザン山"}
+{"sec": 20, "key": 372, "en": "Celestinine Cascade", "ja": "セレスティナイン滝"}
+{"sec": 20, "key": 373, "en": "Ametrine Mountain 4F", "ja": "アメトリン山4階"}
+{"sec": 20, "key": 374, "en": "Ametrine Mountain 5F", "ja": "アメトリン山5階"}
+{"sec": 20, "key": 375, "en": "Ametrine Mountain 1F", "ja": "アメトリン山1階"}
+{"sec": 20, "key": 376, "en": "Ametrine Mountain B1F", "ja": "アメトリン山地下1階"}
+{"sec": 20, "key": 377, "en": "Ametrine Mountain B2F", "ja": "アメトリン山地下2階"}
+{"sec": 20, "key": 378, "en": "Ametrine Mountain B3F", "ja": "アメトリン山地下3階"}
+{"sec": 20, "key": 379, "en": "Ametrine Mountain B4F", "ja": "アメトリン山地下4階"}
+{"sec": 20, "key": 380, "en": "Celestinine Mountain 1F", "ja": "セレスティナイン山1階"}
+{"sec": 20, "key": 381, "en": "Citrine Mountain 1F", "ja": "シトリン山1階"}
+{"sec": 20, "key": 382, "en": "Citrine Mountain 2F", "ja": "シトリン山2階"}
+{"sec": 20, "key": 383, "en": "Citrine Mountain 3F", "ja": "シトリン山3階"}
+{"sec": 20, "key": 384, "en": "Celestinine Mountain 2F", "ja": "セレスティナイン山2階"}
+{"sec": 20, "key": 385, "en": "Celestinine Mountain 3F", "ja": "セレスティナイン山3階"}
+{"sec": 20, "key": 386, "en": "Celestinine Mountain B1F", "ja": "セレスティナイン山地下1階"}
+{"sec": 20, "key": 387, "en": "Celestinine Mountain B2F", "ja": "セレスティナイン山地下2階"}
+{"sec": 20, "key": 388, "en": "Celestinine Mountain B3F", "ja": "セレスティナイン山地下3階"}
+{"sec": 20, "key": 389, "en": "Ametrine Mountain 1F", "ja": "アメトリン山1階"}
+{"sec": 20, "key": 390, "en": "Ametrine Mountain 2F", "ja": "アメトリン山2階"}
+{"sec": 20, "key": 391, "en": "Ametrine Mountain 2F", "ja": "アメトリン山2階"}
+{"sec": 20, "key": 392, "en": "Ametrine Mountain 2F", "ja": "アメトリン山2階"}
+{"sec": 20, "key": 393, "en": "Ametrine Mountain B1F", "ja": "アメトリン山地下1階"}
+{"sec": 20, "key": 394, "en": "Ametrine Mountain B2F", "ja": "アメトリン山地下2階"}
+{"sec": 20, "key": 395, "en": "Ametrine Mountain B3F", "ja": "アメトリン山地下3階"}
+{"sec": 20, "key": 396, "en": "Celestinine Mountain 4F", "ja": "セレスティナイン山4階"}
+{"sec": 20, "key": 397, "en": "Celestinine Mountain 1F", "ja": "セレスティナイン山1階"}
+{"sec": 20, "key": 398, "en": "Celestinine Mountain 2F", "ja": "セレスティナイン山2階"}
+{"sec": 20, "key": 399, "en": "Celestinine Mountain B1F", "ja": "セレスティナイン山地下1階"}
+{"sec": 20, "key": 400, "en": "Celestinine Mountain B2F", "ja": "セレスティナイン山地下2階"}
+{"sec": 20, "key": 401, "en": "Celestinine Mountain B3F", "ja": "セレスティナイン山地下3階"}
+{"sec": 20, "key": 402, "en": "Ametrine Mountain B2F", "ja": "アメトリン山地下2階"}
+{"sec": 20, "key": 403, "en": "Ametrine Mountain B3F", "ja": "アメトリン山地下3階"}
+{"sec": 20, "key": 404, "en": "Route 3", "ja": "3番道路"}
+{"sec": 20, "key": 405, "en": "Route 3", "ja": "3番道路"}
+{"sec": 20, "key": 406, "en": "LCCC", "ja": ""}
+{"sec": 20, "key": 407, "en": "LCCC", "ja": ""}
+{"sec": 20, "key": 408, "en": "LCCC", "ja": ""}
+{"sec": 20, "key": 409, "en": "Route 3", "ja": "3番道路"}
+{"sec": 20, "key": 410, "en": "Route 3", "ja": "3番道路"}
+{"sec": 20, "key": 411, "en": "Route 3", "ja": "3番道路"}
+{"sec": 20, "key": 412, "en": "Route 4", "ja": "4番道路"}
+{"sec": 20, "key": 413, "en": "Calcenon City", "ja": "カルセノンシティ"}
+{"sec": 20, "key": 414, "en": "Labradorra City", "ja": "ラブラドラシティ"}
+{"sec": 20, "key": 415, "en": "Calcenon Pokemon Center", "ja": "カルセノンポケモンセンター"}
+{"sec": 20, "key": 416, "en": "Calcenon PokeMart", "ja": "カルセノンショップ"}
+{"sec": 20, "key": 417, "en": "Calcenon City", "ja": "カルセノンシティ"}
+{"sec": 20, "key": 418, "en": "Calcenon Checkpoint", "ja": "カルセノン検問所"}
+{"sec": 20, "key": 419, "en": "Calcenon Gym", "ja": "カルセノンジム"}
+{"sec": 20, "key": 420, "en": "Coral Stairway", "ja": "コーラル階段"}
+{"sec": 20, "key": 421, "en": "Onyx Stairway", "ja": "オニキス階段"}
+{"sec": 20, "key": 422, "en": "Beryl Stairway", "ja": "ベリル階段"}
+{"sec": 20, "key": 423, "en": "Jasper Stairway", "ja": "ジャスパー階段"}
+{"sec": 20, "key": 424, "en": "Lapis Checkpoint", "ja": "ラピス検問所"}
+{"sec": 20, "key": 425, "en": "Department Store Penthouse", "ja": "デパート最上階"}
+{"sec": 20, "key": 426, "en": "Beryl Library", "ja": "ベリル図書館"}
+{"sec": 20, "key": 427, "en": "Beryl Library", "ja": "ベリル図書館"}
+{"sec": 20, "key": 428, "en": "REMOVED", "ja": ""}
+{"sec": 20, "key": 429, "en": "Citrine Mountain 2F", "ja": "シトリン山2階"}
+{"sec": 20, "key": 430, "en": "Celestinine Mountain 2F", "ja": "セレスティナイン山2階"}
+{"sec": 20, "key": 431, "en": "Celestinine Mountain 2F", "ja": "セレスティナイン山2階"}
+{"sec": 20, "key": 432, "en": "Ametrine Mountain 2F", "ja": "アメトリン山2階"}
+{"sec": 20, "key": 433, "en": "Celestinine Mountain B2F", "ja": "セレスティナイン山地下2階"}
+{"sec": 20, "key": 434, "en": "Celestinine Mountain B2F", "ja": "セレスティナイン山地下2階"}
+{"sec": 20, "key": 435, "en": "Celestinine Mountain B2F", "ja": "セレスティナイン山地下2階"}
+{"sec": 20, "key": 436, "en": "Celestinine Mountain B2F", "ja": "セレスティナイン山地下2階"}
+{"sec": 20, "key": 437, "en": "Beryl Gym", "ja": "ベリルジム"}
+{"sec": 20, "key": 438, "en": "Route 3", "ja": "3番道路"}
+{"sec": 20, "key": 439, "en": "Ametrine City", "ja": "アメトリンシティ"}
+{"sec": 20, "key": 440, "en": "Ametrine Mountain 6F", "ja": "アメトリン山6階"}
+{"sec": 20, "key": 441, "en": "Ametrine Mountain 7F", "ja": "アメトリン山7階"}
+{"sec": 20, "key": 442, "en": "Ametrine Mountain 8F", "ja": "アメトリン山8階"}
+{"sec": 20, "key": 443, "en": "Route 23", "ja": "23番道路"}
+{"sec": 20, "key": 444, "en": "Glitch City", "ja": "グリッチシティ"}
+{"sec": 20, "key": 445, "en": "Mt Moon", "ja": "おつきみやま"}
+{"sec": 20, "key": 446, "en": "Pokemon League", "ja": "ポケモンリーグ"}
+{"sec": 20, "key": 447, "en": "Opal Ward", "ja": "オパールワード"}
+{"sec": 20, "key": 448, "en": "Rocket Hideout", "ja": "ロケットだんアジト"}
+{"sec": 20, "key": 449, "en": "Lavender Town", "ja": "シオンタウン"}
+{"sec": 20, "key": 450, "en": "Byxbysion Wasteland", "ja": "ビクスビジョン荒地"}
+{"sec": 20, "key": 451, "en": "Pokemon Mansion", "ja": "ポケモンやしき"}
+{"sec": 20, "key": 452, "en": "Citae Astrae", "ja": "キタエ・アストラエ"}
+{"sec": 20, "key": 453, "en": "Victory Road", "ja": "チャンピオンロード"}
+{"sec": 20, "key": 454, "en": "Indigo Plateau", "ja": "セキエイこうげん"}
+{"sec": 20, "key": 455, "en": "Cerulean Cave", "ja": "ハナダのどうくつ"}
+{"sec": 20, "key": 456, "en": "Champion Room", "ja": "チャンピオンの間"}
+{"sec": 20, "key": 457, "en": "Ametrine City", "ja": "アメトリンシティ"}
+{"sec": 20, "key": 458, "en": "Ametrine Pokemon Center", "ja": "アメトリンポケモンセンター"}
+{"sec": 20, "key": 459, "en": "Ametrine PokeMart", "ja": "アメトリンショップ"}
+{"sec": 20, "key": 460, "en": "Ametrine City", "ja": "アメトリンシティ"}
+{"sec": 20, "key": 461, "en": "Ametrine City", "ja": "アメトリンシティ"}
+{"sec": 20, "key": 462, "en": "Ametrine City", "ja": "アメトリンシティ"}
+{"sec": 20, "key": 463, "en": "Ametrine Mountain 2F", "ja": "アメトリン山2階"}
+{"sec": 20, "key": 464, "en": "Ametrine Cave", "ja": "アメトリンどうくつ"}
+{"sec": 20, "key": 465, "en": "Chrysolia Forest", "ja": "クリソリアの森"}
+{"sec": 20, "key": 466, "en": "Celestinine Cascade", "ja": "セレスティナイン滝"}
+{"sec": 20, "key": 467, "en": "Water Treatment Center", "ja": "浄水センター"}
+{"sec": 20, "key": 468, "en": "Lapis Water Grid", "ja": "ラピス水路網"}
+{"sec": 20, "key": 469, "en": "Central Obsidia Water Grid", "ja": "中央オブシディア水路網"}
+{"sec": 20, "key": 470, "en": "North Obsidia Water Grid", "ja": "北オブシディア水路網"}
+{"sec": 20, "key": 471, "en": "Onyx Water Grid", "ja": "オニキス水路網"}
+{"sec": 20, "key": 472, "en": "Coral Water Grid", "ja": "コーラル水路網"}
+{"sec": 20, "key": 473, "en": "Opal Water Grid", "ja": "オパール水路網"}
+{"sec": 20, "key": 474, "en": "Peridot Water Grid", "ja": "ペリドット水路網"}
+{"sec": 20, "key": 475, "en": "Jasper Water Grid", "ja": "ジャスパー水路網"}
+{"sec": 20, "key": 476, "en": "Beryl Water Grid", "ja": "ベリル水路網"}
+{"sec": 20, "key": 477, "en": "Water Treatment Center", "ja": "浄水センター"}
+{"sec": 20, "key": 478, "en": "Water Treatment Center", "ja": "浄水センター"}
+{"sec": 20, "key": 479, "en": "North Obsidia Water Grid", "ja": "北オブシディア水路網"}
+{"sec": 20, "key": 480, "en": "North Obsidia Water Grid", "ja": "北オブシディア水路網"}
+{"sec": 20, "key": 481, "en": "Central Obsidia Water Grid", "ja": "中央オブシディア水路網"}
+{"sec": 20, "key": 482, "en": "Central Obsidia Water Grid", "ja": "中央オブシディア水路網"}
+{"sec": 20, "key": 483, "en": "Onyx Water Grid", "ja": "オニキス水路網"}
+{"sec": 20, "key": 484, "en": "Onyx Water Grid", "ja": "オニキス水路網"}
+{"sec": 20, "key": 485, "en": "Coral Water Grid", "ja": "コーラル水路網"}
+{"sec": 20, "key": 486, "en": "Coral Water Grid", "ja": "コーラル水路網"}
+{"sec": 20, "key": 487, "en": "Opal Water Grid", "ja": "オパール水路網"}
+{"sec": 20, "key": 488, "en": "Opal Water Grid", "ja": "オパール水路網"}
+{"sec": 20, "key": 489, "en": "Peridot Water Grid", "ja": "ペリドット水路網"}
+{"sec": 20, "key": 490, "en": "Peridot Water Grid", "ja": "ペリドット水路網"}
+{"sec": 20, "key": 491, "en": "Lapis Water Grid", "ja": "ラピス水路網"}
+{"sec": 20, "key": 492, "en": "Lapis Water Grid", "ja": "ラピス水路網"}
+{"sec": 20, "key": 493, "en": "Jasper Water Grid", "ja": "ジャスパー水路網"}
+{"sec": 20, "key": 494, "en": "Jasper Water Grid", "ja": "ジャスパー水路網"}
+{"sec": 20, "key": 495, "en": "Beryl Water Grid", "ja": "ベリル水路網"}
+{"sec": 20, "key": 496, "en": "Beryl Water Grid", "ja": "ベリル水路網"}
+{"sec": 20, "key": 497, "en": "North Obsidia Water Grid", "ja": "北オブシディア水路網"}
+{"sec": 20, "key": 498, "en": "Central Obsidia Water Grid", "ja": "中央オブシディア水路網"}
+{"sec": 20, "key": 499, "en": "Onyx Water Grid", "ja": "オニキス水路網"}
+{"sec": 20, "key": 500, "en": "Coral Water Grid", "ja": "コーラル水路網"}
+{"sec": 20, "key": 501, "en": "Opal Water Grid", "ja": "オパール水路網"}
+{"sec": 20, "key": 502, "en": "Peridot Water Grid", "ja": "ペリドット水路網"}
+{"sec": 20, "key": 503, "en": "Lapis Water Grid", "ja": "ラピス水路網"}
+{"sec": 20, "key": 504, "en": "Jasper Water Grid", "ja": "ジャスパー水路網"}
+{"sec": 20, "key": 505, "en": "Beryl Water Grid", "ja": "ベリル水路網"}
+{"sec": 20, "key": 506, "en": "Voclain Estate", "ja": "ボクレイン邸"}
+{"sec": 20, "key": 507, "en": "Iolia Valley", "ja": "イオリア渓谷"}
+{"sec": 20, "key": 508, "en": "Fiore Mansion", "ja": "フィオレ屋敷"}
+{"sec": 20, "key": 509, "en": "Fiore Mansion", "ja": "フィオレ屋敷"}
+{"sec": 20, "key": 510, "en": "Spinel Town", "ja": "スピネルタウン"}
+{"sec": 20, "key": 511, "en": "Neoteric Isle", "ja": "ネオテリック島"}
+{"sec": 20, "key": 512, "en": "Grand Stairway B3F", "ja": "大階段地下3階"}
+{"sec": 20, "key": 513, "en": "Opal Ward", "ja": "オパールワード"}
+{"sec": 20, "key": 514, "en": "REMOVED", "ja": ""}
+{"sec": 20, "key": 515, "en": "REMOVED", "ja": ""}
+{"sec": 20, "key": 516, "en": "Onyx Trainers' School 3F", "ja": "オニキストレーナー学校3階"}
+{"sec": 20, "key": 517, "en": "The Spyce", "ja": "ザ・スパイス"}
+{"sec": 20, "key": 518, "en": "Neo Reborn City", "ja": "ネオリボーンシティ"}
+{"sec": 20, "key": 519, "en": "Opal Ward", "ja": "オパールワード"}
+{"sec": 20, "key": 520, "en": "Obsidia Ward", "ja": "オブシディアワード"}
+{"sec": 20, "key": 521, "en": "Onyx Ward", "ja": "オニキスワード"}
+{"sec": 20, "key": 522, "en": "Peridot Ward", "ja": "ペリドットワード"}
+{"sec": 20, "key": 523, "en": "Jasper Ward", "ja": "ジャスパーワード"}
+{"sec": 20, "key": 524, "en": "Lapis Ward", "ja": "ラピスワード"}
+{"sec": 20, "key": 525, "en": "Beryl Ward", "ja": "ベリルワード"}
+{"sec": 20, "key": 526, "en": "Coral Ward", "ja": "コーラルワード"}
+{"sec": 20, "key": 527, "en": "North Obsidia Ward", "ja": "北オブシディアワード"}
+{"sec": 20, "key": 528, "en": "South Obsidia Ward", "ja": "南オブシディアワード"}
+{"sec": 20, "key": 529, "en": "North Obsidia Alleyway", "ja": "北オブシディア路地"}
+{"sec": 20, "key": 530, "en": "Lower Peridot Ward", "ja": "下ペリドットワード"}
+{"sec": 20, "key": 531, "en": "South Peridot Alley", "ja": "南ペリドット路地"}
+{"sec": 20, "key": 532, "en": "North Peridot Alley", "ja": "北ペリドット路地"}
+{"sec": 20, "key": 533, "en": "Malchous Forest Park", "ja": "マルコウス森林公園"}
+{"sec": 20, "key": 534, "en": "Jasper Ward", "ja": "ジャスパーワード"}
+{"sec": 20, "key": 535, "en": "Jasper Ward", "ja": "ジャスパーワード"}
+{"sec": 20, "key": 536, "en": "Azurine Lake", "ja": "アズリン湖"}
+{"sec": 20, "key": 537, "en": "Jasper Ward", "ja": "ジャスパーワード"}
+{"sec": 20, "key": 538, "en": "Azurine Lake", "ja": "アズリン湖"}
+{"sec": 20, "key": 539, "en": "Jasper Stairway", "ja": "ジャスパー階段"}
+{"sec": 20, "key": 540, "en": "Onyx Stairway", "ja": "オニキス階段"}
+{"sec": 20, "key": 541, "en": "Goldenrod Station", "ja": "コガネ駅"}
+{"sec": 20, "key": 542, "en": "Lapis Community Garden", "ja": "ラピス市民農園"}
+{"sec": 20, "key": 543, "en": "Beryl Bridge", "ja": "ベリル大橋"}
+{"sec": 20, "key": 544, "en": "Beryl Ward", "ja": "ベリルワード"}
+{"sec": 20, "key": 545, "en": "Chrysolia Spring B1F", "ja": "クリソリア温泉地下1階"}
+{"sec": 20, "key": 546, "en": "Chrysolia Spring Sauna", "ja": "クリソリア温泉サウナ"}
+{"sec": 20, "key": 547, "en": "Azurine Lake", "ja": "アズリン湖"}
+{"sec": 20, "key": 548, "en": "Beryl Library", "ja": "ベリル図書館"}
+{"sec": 20, "key": 549, "en": "Beryl Library", "ja": "ベリル図書館"}
+{"sec": 20, "key": 550, "en": "REMOVED", "ja": ""}
+{"sec": 20, "key": 551, "en": "Beryl Ward", "ja": "ベリルワード"}
+{"sec": 20, "key": 552, "en": "Beryl Cemetery", "ja": "ベリル墓地"}
+{"sec": 20, "key": 553, "en": "Azurine Lake", "ja": "アズリン湖"}
+{"sec": 20, "key": 554, "en": "Beryl Stairway", "ja": "ベリル階段"}
+{"sec": 20, "key": 555, "en": "Coral Ward", "ja": "コーラルワード"}
+{"sec": 20, "key": 556, "en": "Azurine Lake", "ja": "アズリン湖"}
+{"sec": 20, "key": 557, "en": "Shantyport Station", "ja": "シャンティポート駅"}
+{"sec": 20, "key": 558, "en": "Azurine Lake", "ja": "アズリン湖"}
+{"sec": 20, "key": 559, "en": "Coral Stairway", "ja": "コーラル階段"}
+{"sec": 20, "key": 560, "en": "Abandoned Power Plant", "ja": "廃発電所"}
+{"sec": 20, "key": 561, "en": "Neo Apophyll", "ja": "ネオアポフィル"}
+{"sec": 20, "key": 562, "en": "Apophyll Beach", "ja": "アポフィルビーチ"}
+{"sec": 20, "key": 563, "en": "Apophyll Beach", "ja": "アポフィルビーチ"}
+{"sec": 20, "key": 564, "en": "Apophyll Academy", "ja": "アポフィルアカデミー"}
+{"sec": 20, "key": 565, "en": "Apophyll Beach", "ja": "アポフィルビーチ"}
+{"sec": 20, "key": 566, "en": "Apophyll Beach", "ja": "アポフィルビーチ"}
+{"sec": 20, "key": 567, "en": "Apophyll Beach", "ja": "アポフィルビーチ"}
+{"sec": 20, "key": 568, "en": "Pyrous Mountain", "ja": "パイロス山"}
+{"sec": 20, "key": 569, "en": "Azurine Island", "ja": "アズリン島"}
+{"sec": 20, "key": 570, "en": "Obsidia Alleyway", "ja": "オブシディア路地"}
+{"sec": 20, "key": 571, "en": "Sweet Co HQ", "ja": "スイート社本部"}
+{"sec": 20, "key": 572, "en": "Grand Gate", "ja": "大門"}
+{"sec": 20, "key": 573, "en": "Onyx Ward", "ja": "オニキスワード"}
+{"sec": 20, "key": 574, "en": "Azurine Lake", "ja": "アズリン湖"}
+{"sec": 20, "key": 575, "en": "Azurine Lake", "ja": "アズリン湖"}
+{"sec": 20, "key": 576, "en": "Azurine Lake", "ja": "アズリン湖"}
+{"sec": 20, "key": 577, "en": "Azurine Lake", "ja": "アズリン湖"}
+{"sec": 20, "key": 578, "en": "Azurine Lake", "ja": "アズリン湖"}
+{"sec": 20, "key": 579, "en": "Azurine Lake", "ja": "アズリン湖"}
+{"sec": 20, "key": 580, "en": "Battle Palace", "ja": "バトルパレス"}
+{"sec": 20, "key": 585, "en": "South Obsidia Ward", "ja": "南オブシディアワード"}
+{"sec": 20, "key": 586, "en": "Azurine Island", "ja": "アズリン島"}
+{"sec": 20, "key": 587, "en": "SOLICE Lobby", "ja": "SOLICEロビー"}
+{"sec": 20, "key": 588, "en": "Grand Stairway", "ja": "大階段"}
+{"sec": 20, "key": 589, "en": "Celestinine Cascade", "ja": "セレスティナイン滝"}
+{"sec": 20, "key": 590, "en": "Ivyline Station", "ja": "アイビーライン駅"}
+{"sec": 20, "key": 591, "en": "Grandview Station", "ja": "グランドビュー駅"}
+{"sec": 20, "key": 592, "en": "Blacksteam Shelter 3F", "ja": "ブラックスチーム避難所3階"}
+{"sec": 20, "key": 593, "en": "Blacksteam Shelter 2F", "ja": "ブラックスチーム避難所2階"}
+{"sec": 20, "key": 594, "en": "Blacksteam Shelter 1F", "ja": "ブラックスチーム避難所1階"}
+{"sec": 20, "key": 595, "en": "Blacksteam Shelter B1F", "ja": "ブラックスチーム避難所B1階"}
+{"sec": 20, "key": 596, "en": "Blacksteam Shelter B2F", "ja": "ブラックスチーム避難所B2階"}
+{"sec": 20, "key": 597, "en": "Peony Station", "ja": "ピオニー駅"}
+{"sec": 20, "key": 598, "en": "Jasper Pokemon Center", "ja": "ジャスパーポケモンセンター"}
+{"sec": 20, "key": 599, "en": "Kingsbury Station", "ja": "キングスベリー駅"}
+{"sec": 20, "key": 600, "en": "Beryl Ward", "ja": "ベリルワード"}
+{"sec": 20, "key": 601, "en": "Azurine Center", "ja": "アズリンセンター"}
+{"sec": 20, "key": 602, "en": "Underground Railnet", "ja": "地下鉄道網"}
+{"sec": 20, "key": 603, "en": "Azurine Cave", "ja": "アズリンどうくつ"}
+{"sec": 20, "key": 604, "en": "Azurine Cave", "ja": "アズリンどうくつ"}
+{"sec": 20, "key": 605, "en": "Azurine Cave", "ja": "アズリンどうくつ"}
+{"sec": 20, "key": 606, "en": "GUM Room", "ja": "GUMの部屋"}
+{"sec": 20, "key": 607, "en": "Tanzan Cove", "ja": "タンザン入り江"}
+{"sec": 20, "key": 608, "en": "Coral Ward", "ja": "コーラルワード"}
+{"sec": 20, "key": 609, "en": "Coral Lighthouse", "ja": "コーラル灯台"}
+{"sec": 20, "key": 610, "en": "Coral Lighthouse", "ja": "コーラル灯台"}
+{"sec": 20, "key": 611, "en": "Medicine Market", "ja": "薬の市場"}
+{"sec": 20, "key": 612, "en": "Lapis Ward", "ja": "ラピスワード"}
+{"sec": 20, "key": 613, "en": "Coral Gym", "ja": "コーラルジム"}
+{"sec": 20, "key": 614, "en": "Tanzan Depths", "ja": "タンザン深部"}
+{"sec": 20, "key": 615, "en": "Tanzan Depths", "ja": "タンザン深部"}
+{"sec": 20, "key": 616, "en": "Tanzan Depths", "ja": "タンザン深部"}
+{"sec": 20, "key": 617, "en": "Tanzan Depths", "ja": "タンザン深部"}
+{"sec": 20, "key": 618, "en": "Tanzan Depths", "ja": "タンザン深部"}
+{"sec": 20, "key": 619, "en": "Tanzan Depths", "ja": "タンザン深部"}
+{"sec": 20, "key": 620, "en": "Tanzan Depths", "ja": "タンザン深部"}
+{"sec": 20, "key": 621, "en": "Tanzan Depths", "ja": "タンザン深部"}
+{"sec": 20, "key": 622, "en": "Devon Corp B1F", "ja": "デボンコーポ地下1階"}
+{"sec": 20, "key": 623, "en": "Devon Corp 2F", "ja": "デボンコーポ2階"}
+{"sec": 20, "key": 624, "en": "Devon Corp 3F", "ja": "デボンコーポ3階"}
+{"sec": 20, "key": 625, "en": "Devon Corp 4F", "ja": "デボンコーポ4階"}
+{"sec": 20, "key": 626, "en": "Devon Corp 5F", "ja": "デボンコーポ5階"}
+{"sec": 20, "key": 627, "en": "Devon Corp 6F", "ja": "デボンコーポ6階"}
+{"sec": 20, "key": 628, "en": "Devon Corp?", "ja": "デボンコーポ?"}
+{"sec": 20, "key": 629, "en": "Devon Corp?", "ja": "デボンコーポ?"}
+{"sec": 20, "key": 630, "en": "Devon Corp?", "ja": "デボンコーポ?"}
+{"sec": 20, "key": 631, "en": "Devon Corp?", "ja": "デボンコーポ?"}
+{"sec": 20, "key": 632, "en": "Devon Corp?", "ja": "デボンコーポ?"}
+{"sec": 20, "key": 633, "en": "Underground Railnet", "ja": "地下鉄道網"}
+{"sec": 20, "key": 634, "en": "Underground Railnet", "ja": "地下鉄道網"}
+{"sec": 20, "key": 635, "en": "Underground Railnet", "ja": "地下鉄道網"}
+{"sec": 20, "key": 636, "en": "Route 2", "ja": "2番道路"}
+{"sec": 20, "key": 637, "en": "7th Street", "ja": "7番街"}
+{"sec": 20, "key": 638, "en": "Teknite Cave ", "ja": "テクナイトどうくつ"}
+{"sec": 20, "key": 639, "en": "Teknite Cave 2F", "ja": "テクナイトどうくつ2階"}
+{"sec": 20, "key": 640, "en": "Teknite Cave 3F", "ja": "テクナイトどうくつ3階"}
+{"sec": 20, "key": 641, "en": "Teknite Cave 4F", "ja": "テクナイトどうくつ4階"}
+{"sec": 20, "key": 642, "en": "Teknite Ridge", "ja": "テクナイト尾根"}
+{"sec": 20, "key": 643, "en": "Teknite Ridge", "ja": "テクナイト尾根"}
+{"sec": 20, "key": 644, "en": "Teknite Cave 4F", "ja": "テクナイトどうくつ4階"}
+{"sec": 20, "key": 645, "en": "Teknite Cave 3-4F", "ja": "テクナイトどうくつ3-4階"}
+{"sec": 20, "key": 646, "en": "Teknite Ridge", "ja": "テクナイト尾根"}
+{"sec": 20, "key": 647, "en": "Teknite Cave 2F", "ja": "テクナイトどうくつ2階"}
+{"sec": 20, "key": 648, "en": "Teknite Cave 3F", "ja": "テクナイトどうくつ3階"}
+{"sec": 20, "key": 649, "en": "Teknite Cave 3-4F", "ja": "テクナイトどうくつ3-4階"}
+{"sec": 20, "key": 650, "en": "Teknite Cave 4F", "ja": "テクナイトどうくつ4階"}
+{"sec": 20, "key": 651, "en": "Sugiline Cave", "ja": "スギラインどうくつ"}
+{"sec": 20, "key": 652, "en": "Sugiline Cave", "ja": "スギラインどうくつ"}
+{"sec": 20, "key": 653, "en": "Sugiline Cave", "ja": "スギラインどうくつ"}
+{"sec": 20, "key": 654, "en": "Sugiline Cave", "ja": "スギラインどうくつ"}
+{"sec": 20, "key": 655, "en": "Sugiline Cave", "ja": "スギラインどうくつ"}
+{"sec": 20, "key": 656, "en": "Sugiline Cave B1F", "ja": "スギラインどうくつ地下1階"}
+{"sec": 20, "key": 657, "en": "Sugiline Cave B1F", "ja": "スギラインどうくつ地下1階"}
+{"sec": 20, "key": 658, "en": "Sugiline Cave B1F", "ja": "スギラインどうくつ地下1階"}
+{"sec": 20, "key": 659, "en": "Sugiline Cave B1F", "ja": "スギラインどうくつ地下1階"}
+{"sec": 20, "key": 660, "en": "Sugiline Ruin", "ja": "スギライン遺跡"}
+{"sec": 20, "key": 661, "en": "Sugiline Ruin", "ja": "スギライン遺跡"}
+{"sec": 20, "key": 662, "en": "Sugiline Ruin B1F", "ja": "スギライン遺跡地下1階"}
+{"sec": 20, "key": 663, "en": "1R253 Scrapyard", "ja": "1R253廃品置き場"}
+{"sec": 20, "key": 664, "en": "7R099 Scrap", "ja": "7R099廃品区"}
+{"sec": 20, "key": 665, "en": "4R182 Scrap", "ja": "4R182廃品区"}
+{"sec": 20, "key": 666, "en": "2R400 Scrap", "ja": "2R400廃品区"}
+{"sec": 20, "key": 667, "en": "Intro Train", "ja": ""}
+{"sec": 20, "key": 668, "en": "Mirage Tower", "ja": "しんきろうの塔"}
+{"sec": 20, "key": 669, "en": "Mirage Tower B1F", "ja": "しんきろうの塔地下1階"}
+{"sec": 20, "key": 670, "en": "Mirage Tower 2F", "ja": "しんきろうの塔2階"}
+{"sec": 20, "key": 671, "en": "Mirage Tower 3F", "ja": "しんきろうの塔3階"}
+{"sec": 20, "key": 672, "en": "Mirage Tower 4F", "ja": "しんきろうの塔4階"}
+{"sec": 20, "key": 673, "en": "Mirage Tower 5F", "ja": "しんきろうの塔5階"}
+{"sec": 20, "key": 674, "en": "Mirage Tower 6F", "ja": "しんきろうの塔6階"}
+{"sec": 20, "key": 675, "en": "Tourmaline Desert", "ja": "トルマリン砂漠"}
+{"sec": 20, "key": 676, "en": "Mirage Tower", "ja": "しんきろうの塔"}
+{"sec": 20, "key": 677, "en": "Mirage Tower", "ja": "しんきろうの塔"}
+{"sec": 20, "key": 678, "en": "Fiore Gym", "ja": "フィオレジム"}
+{"sec": 20, "key": 679, "en": "Fiore Arena", "ja": "フィオレ闘技場"}
+{"sec": 20, "key": 680, "en": "Fiore Gym", "ja": "フィオレジム"}
+{"sec": 20, "key": 681, "en": "Fiore Gym", "ja": "フィオレジム"}
+{"sec": 20, "key": 682, "en": "Fiore Gym", "ja": "フィオレジム"}
+{"sec": 20, "key": 683, "en": "Fiore Gym", "ja": "フィオレジム"}
+{"sec": 20, "key": 686, "en": "1R108 Scrap", "ja": "1R108廃品区"}
+{"sec": 20, "key": 687, "en": "Tourmaline Desert", "ja": "トルマリン砂漠"}
+{"sec": 20, "key": 688, "en": "Tourmaline Desert", "ja": "トルマリン砂漠"}
+{"sec": 20, "key": 689, "en": "Tourmaline Desert", "ja": "トルマリン砂漠"}
+{"sec": 20, "key": 690, "en": "Mirage Tower 4F", "ja": "しんきろうの塔4階"}
+{"sec": 20, "key": 691, "en": "1R253 Scrapyard", "ja": "1R253廃品置き場"}
+{"sec": 20, "key": 692, "en": "1R253 Scrapyard", "ja": "1R253廃品置き場"}
+{"sec": 20, "key": 693, "en": "1R253 Scrapyard", "ja": "1R253廃品置き場"}
+{"sec": 20, "key": 694, "en": "Tourmaline Desert", "ja": "トルマリン砂漠"}
+{"sec": 20, "key": 695, "en": "Tourmaline Desert", "ja": "トルマリン砂漠"}
+{"sec": 20, "key": 696, "en": "Once Upon a Somewhere", "ja": "むかしむかしどこかで"}
+{"sec": 20, "key": 697, "en": "Once Upon a Somewhere", "ja": "むかしむかしどこかで"}
+{"sec": 20, "key": 698, "en": "Castle at Wit's End", "ja": "知恵の果ての城"}
+{"sec": 20, "key": 699, "en": "Tower Corybantia", "ja": "コリュバンティア塔"}
+{"sec": 20, "key": 700, "en": "Once Upon a Waste of Time", "ja": "むかしむかし時間の無駄"}
+{"sec": 20, "key": 701, "en": "The Belly of the Beast", "ja": "獣の腹の中"}
+{"sec": 20, "key": 702, "en": "Never After", "ja": "めでたしはない"}
+{"sec": 20, "key": 703, "en": "Tourmaline Desert", "ja": "トルマリン砂漠"}
+{"sec": 20, "key": 704, "en": "Tourmaline Desert", "ja": "トルマリン砂漠"}
+{"sec": 20, "key": 705, "en": "Tourmaline Desert", "ja": "トルマリン砂漠"}
+{"sec": 20, "key": 706, "en": "Mirage Tower 5F", "ja": "しんきろうの塔5階"}
+{"sec": 20, "key": 707, "en": "Mirage Tower", "ja": "しんきろうの塔"}
+{"sec": 20, "key": 708, "en": "Mirage Tower 3F", "ja": "しんきろうの塔3階"}
+{"sec": 20, "key": 709, "en": "Mirage Tower 2F", "ja": "しんきろうの塔2階"}
+{"sec": 20, "key": 710, "en": "Route 4", "ja": "4番道路"}
+{"sec": 20, "key": 711, "en": "Route 4", "ja": "4番道路"}
+{"sec": 20, "key": 712, "en": "Route 4", "ja": "4番道路"}
+{"sec": 20, "key": 713, "en": "Route 4", "ja": "4番道路"}
+{"sec": 20, "key": 714, "en": "Route 4", "ja": "4番道路"}
+{"sec": 20, "key": 715, "en": "Route 4", "ja": "4番道路"}
+{"sec": 20, "key": 716, "en": "Route 4", "ja": "4番道路"}
+{"sec": 20, "key": 717, "en": "Route 4", "ja": "4番道路"}
+{"sec": 20, "key": 718, "en": "Route 4", "ja": "4番道路"}
+{"sec": 20, "key": 719, "en": "Route 4", "ja": "4番道路"}
+{"sec": 20, "key": 720, "en": "Route 4", "ja": "4番道路"}
+{"sec": 20, "key": 721, "en": "Route 4", "ja": "4番道路"}
+{"sec": 20, "key": 722, "en": "Route 4", "ja": "4番道路"}
+{"sec": 20, "key": 723, "en": "Route 4", "ja": "4番道路"}
+{"sec": 20, "key": 724, "en": "Route 4", "ja": "4番道路"}
+{"sec": 20, "key": 725, "en": "Route 4", "ja": "4番道路"}
+{"sec": 20, "key": 726, "en": "Route 4", "ja": "4番道路"}
+{"sec": 20, "key": 727, "en": "Route 4", "ja": "4番道路"}
+{"sec": 20, "key": 728, "en": "Route 4", "ja": "4番道路"}
+{"sec": 20, "key": 729, "en": "Route 4", "ja": "4番道路"}
+{"sec": 20, "key": 730, "en": "Abandoned Warehouse", "ja": "廃倉庫"}
+{"sec": 20, "key": 731, "en": "Abandoned Warehouse", "ja": "廃倉庫"}
+{"sec": 20, "key": 732, "en": "Glass Workstation", "ja": "ガラス工房"}
+{"sec": 20, "key": 733, "en": "Glass Workstation", "ja": "ガラス工房"}
+{"sec": 20, "key": 734, "en": "Glass Workstation", "ja": "ガラス工房"}
+{"sec": 20, "key": 735, "en": "Glass Workstation", "ja": "ガラス工房"}
+{"sec": 20, "key": 736, "en": "Glass Workstation B1F", "ja": "ガラス工房地下1階"}
+{"sec": 20, "key": 737, "en": "Glass Workstation B2F", "ja": "ガラス工房地下2階"}
+{"sec": 20, "key": 738, "en": "Glass Workstation B2F", "ja": "ガラス工房地下2階"}
+{"sec": 20, "key": 739, "en": "Agate Gym", "ja": "アゲートジム"}
+{"sec": 20, "key": 740, "en": "Agate Arena", "ja": "アゲート闘技場"}
+{"sec": 20, "key": 741, "en": "Agate City", "ja": "アゲートシティ"}
+{"sec": 20, "key": 742, "en": "Route 4", "ja": "4番道路"}
+{"sec": 20, "key": 743, "en": "Beryl Cave 2F", "ja": "ベリルどうくつ2階"}
+{"sec": 20, "key": 744, "en": "Teknite Ridge", "ja": "テクナイト尾根"}
+{"sec": 20, "key": 745, "en": "Teknite Cave", "ja": "テクナイトどうくつ"}
+{"sec": 20, "key": 746, "en": "Teknite Cave", "ja": "テクナイトどうくつ"}
+{"sec": 20, "key": 747, "en": "Teknite Cave", "ja": "テクナイトどうくつ"}
+{"sec": 20, "key": 748, "en": "Mechanic Shed", "ja": "整備小屋"}
+{"sec": 20, "key": 749, "en": "Charous Mountain B2F", "ja": "シャルース山地下2階"}
+{"sec": 20, "key": 750, "en": "Charous Mountain B2F", "ja": "シャルース山地下2階"}
+{"sec": 20, "key": 751, "en": "Agate PokeMart", "ja": "アゲートショップ"}
+{"sec": 20, "key": 752, "en": "Agate Pokemon Center", "ja": "アゲートポケモンセンター"}
+{"sec": 20, "key": 753, "en": "Agate City", "ja": "アゲートシティ"}
+{"sec": 20, "key": 754, "en": "???", "ja": "???"}
+{"sec": 20, "key": 755, "en": "???", "ja": "???"}
+{"sec": 20, "key": 756, "en": "???", "ja": "???"}
+{"sec": 20, "key": 757, "en": "???", "ja": "???"}
+{"sec": 20, "key": 758, "en": "???", "ja": "???"}
+{"sec": 20, "key": 759, "en": "???", "ja": "???"}
+{"sec": 20, "key": 760, "en": "Underground Railnet", "ja": "地下鉄道網"}
+{"sec": 20, "key": 761, "en": "Railnet Train", "ja": "地下鉄道網の列車"}
+{"sec": 20, "key": 762, "en": "Underground Railnet", "ja": "地下鉄道網"}
+{"sec": 20, "key": 763, "en": "Agate City", "ja": "アゲートシティ"}
+{"sec": 20, "key": 764, "en": "Grand Hall", "ja": "大ホール"}
+{"sec": 20, "key": 765, "en": "Devon Corp?", "ja": "デボンコーポ?"}
+{"sec": 20, "key": 766, "en": "Calcenon City", "ja": "カルセノンシティ"}
+{"sec": 20, "key": 767, "en": "Agate City", "ja": "アゲートシティ"}
+{"sec": 20, "key": 768, "en": "Labradorra Arena", "ja": "ラブラドラ闘技場"}
+{"sec": 20, "key": 769, "en": "Labradorra Arena", "ja": "ラブラドラ闘技場"}
+{"sec": 20, "key": 770, "en": "Labradorra Arena", "ja": "ラブラドラ闘技場"}
+{"sec": 20, "key": 771, "en": "Labradorra Arena", "ja": "ラブラドラ闘技場"}
+{"sec": 20, "key": 772, "en": "Labradorra Pokemon Center", "ja": "ラブラドラポケモンセンター"}
+{"sec": 20, "key": 773, "en": "Labradorra PokeMart", "ja": "ラブラドラショップ"}
+{"sec": 20, "key": 774, "en": "Labradorra City", "ja": "ラブラドラシティ"}
+{"sec": 20, "key": 775, "en": "LCCC", "ja": ""}
+{"sec": 20, "key": 776, "en": "Labradorra Arena", "ja": "ラブラドラ闘技場"}
+{"sec": 20, "key": 777, "en": "Labradorra Arena", "ja": "ラブラドラ闘技場"}
+{"sec": 20, "key": 778, "en": "Labradorra Arena", "ja": "ラブラドラ闘技場"}
+{"sec": 20, "key": 779, "en": "Labradorra Gym", "ja": "ラブラドラジム"}
+{"sec": 20, "key": 780, "en": "Labradorra Gym", "ja": "ラブラドラジム"}
+{"sec": 20, "key": 781, "en": "Labradorra City", "ja": "ラブラドラシティ"}
+{"sec": 20, "key": 782, "en": "Victory Road Pokemon Center", "ja": "ロード前ポケモンセンター"}
+{"sec": 20, "key": 783, "en": "Victory Road", "ja": "チャンピオンロード"}
+{"sec": 20, "key": 784, "en": "Victory Road", "ja": "チャンピオンロード"}
+{"sec": 20, "key": 785, "en": "Victory Road 2F", "ja": "チャンピオンロード2階"}
+{"sec": 20, "key": 786, "en": "Victory Road B1F", "ja": "チャンピオンロード地下1階"}
+{"sec": 20, "key": 787, "en": "Victory Road", "ja": "チャンピオンロード"}
+{"sec": 20, "key": 788, "en": "Victory Road 2F", "ja": "チャンピオンロード2階"}
+{"sec": 20, "key": 789, "en": "Victory Road 2F", "ja": "チャンピオンロード2階"}
+{"sec": 20, "key": 790, "en": "Victory Road B1F", "ja": "チャンピオンロード地下1階"}
+{"sec": 20, "key": 791, "en": "Victory Road B2F", "ja": "チャンピオンロード地下2階"}
+{"sec": 20, "key": 792, "en": "Charous Mountain", "ja": "シャルース山"}
+{"sec": 20, "key": 793, "en": "Charous Mountain 2F", "ja": "シャルース山2階"}
+{"sec": 20, "key": 794, "en": "Charous Path", "ja": "シャルース小道"}
+{"sec": 20, "key": 795, "en": "Victory Road 2F", "ja": "チャンピオンロード2階"}
+{"sec": 20, "key": 796, "en": "Victory Road", "ja": "チャンピオンロード"}
+{"sec": 20, "key": 797, "en": "Victory Road", "ja": "チャンピオンロード"}
+{"sec": 20, "key": 798, "en": "Victory Road", "ja": "チャンピオンロード"}
+{"sec": 20, "key": 799, "en": "Victory Road B3F", "ja": "チャンピオンロード地下3階"}
+{"sec": 20, "key": 800, "en": "Victory Road B3F", "ja": "チャンピオンロード地下3階"}
+{"sec": 20, "key": 801, "en": "Victory Road B3F", "ja": "チャンピオンロード地下3階"}
+{"sec": 20, "key": 802, "en": "Victory Road B3F", "ja": "チャンピオンロード地下3階"}
+{"sec": 20, "key": 803, "en": "Victory Road B4F", "ja": "チャンピオンロード地下4階"}
+{"sec": 20, "key": 804, "en": "Victory Road B4F", "ja": "チャンピオンロード地下4階"}
+{"sec": 20, "key": 805, "en": "Victory Road B4F", "ja": "チャンピオンロード地下4階"}
+{"sec": 20, "key": 806, "en": "Victory Road B4F", "ja": "チャンピオンロード地下4階"}
+{"sec": 20, "key": 807, "en": "Victory Road B5F", "ja": "チャンピオンロード地下5階"}
+{"sec": 20, "key": 808, "en": "Victory Road B5F", "ja": "チャンピオンロード地下5階"}
+{"sec": 20, "key": 809, "en": "Victory Road B5F", "ja": "チャンピオンロード地下5階"}
+{"sec": 20, "key": 810, "en": "Victory Road B5F", "ja": "チャンピオンロード地下5階"}
+{"sec": 20, "key": 811, "en": "Victory Road B1F", "ja": "チャンピオンロード地下1階"}
+{"sec": 20, "key": 812, "en": "Victory Road", "ja": "チャンピオンロード"}
+{"sec": 20, "key": 813, "en": "Victory Road", "ja": "チャンピオンロード"}
+{"sec": 20, "key": 814, "en": "Charous Mountain", "ja": "シャルース山"}
+{"sec": 20, "key": 815, "en": "Charous Hall", "ja": "シャルースホール"}
+{"sec": 20, "key": 816, "en": "Charous Pokemon Center", "ja": "シャルースポケモンセンター"}
+{"sec": 20, "key": 817, "en": "Charous Hall", "ja": "シャルースホール"}
+{"sec": 20, "key": 818, "en": "Charous Hall", "ja": "シャルースホール"}
+{"sec": 20, "key": 819, "en": "Charous Hall", "ja": "シャルースホール"}
+{"sec": 20, "key": 820, "en": "Charous Hall", "ja": "シャルースホール"}
+{"sec": 20, "key": 821, "en": "Charous Hall", "ja": "シャルースホール"}
+{"sec": 20, "key": 822, "en": "Emerald Tower", "ja": "エメラルドタワー"}
+{"sec": 20, "key": 823, "en": "Sapphire Tower", "ja": "サファイアタワー"}
+{"sec": 20, "key": 824, "en": "New World", "ja": "新世界"}
+{"sec": 20, "key": 825, "en": "New World", "ja": "新世界"}
+{"sec": 20, "key": 826, "en": "Nightclub", "ja": "ナイトクラブ"}
+{"sec": 20, "key": 827, "en": "Nightclub Interior", "ja": "ナイトクラブ店内"}
+{"sec": 20, "key": 828, "en": "Nightclub Arena", "ja": "ナイトクラブ闘技場"}
+{"sec": 20, "key": 829, "en": "Battle Pavilion", "ja": "バトルパビリオン"}
+{"sec": 20, "key": 830, "en": "The Emporium", "ja": "エンポリアム"}
+{"sec": 20, "key": 831, "en": "New World", "ja": "新世界"}
+{"sec": 20, "key": 832, "en": "Vanhanen Castle", "ja": "バンハネン城"}
+{"sec": 20, "key": 833, "en": "New World", "ja": "新世界"}
+{"sec": 20, "key": 834, "en": "New World", "ja": "新世界"}
+{"sec": 20, "key": 835, "en": "New World", "ja": "新世界"}
+{"sec": 20, "key": 836, "en": "New World", "ja": "新世界"}
+{"sec": 20, "key": 837, "en": "New World", "ja": "新世界"}
+{"sec": 20, "key": 838, "en": "New World", "ja": "新世界"}
+{"sec": 20, "key": 839, "en": "New World", "ja": "新世界"}
+{"sec": 20, "key": 840, "en": "Chrysolia Deepwoods", "ja": "クリソリア深林"}
+{"sec": 20, "key": 841, "en": "Twilight Desert", "ja": "たそがれの砂漠"}
+{"sec": 20, "key": 842, "en": "Battle Factory", "ja": "バトルファクトリー"}
+{"sec": 20, "key": 843, "en": "Charous Hall", "ja": "シャルースホール"}
+{"sec": 20, "key": 844, "en": "Vacant Past", "ja": "空白の過去"}
+{"sec": 20, "key": 845, "en": "Charous Hall", "ja": "シャルースホール"}
+{"sec": 20, "key": 846, "en": "Twilight Factory", "ja": "たそがれの工場"}
+{"sec": 20, "key": 847, "en": "New World", "ja": "新世界"}
+{"sec": 20, "key": 848, "en": "Manyworld Forest", "ja": "多世界の森"}
+{"sec": 20, "key": 849, "en": "Aegir Cave", "ja": "エーギルどうくつ"}
+{"sec": 20, "key": 850, "en": "Aegir Cave", "ja": "エーギルどうくつ"}
+{"sec": 20, "key": 851, "en": "Aegir Cave", "ja": "エーギルどうくつ"}
+{"sec": 20, "key": 852, "en": "New World", "ja": "新世界"}
+{"sec": 20, "key": 853, "en": "New World", "ja": "新世界"}
+{"sec": 20, "key": 854, "en": "Not Truly For Children", "ja": "子供向けではない"}
+{"sec": 20, "key": 855, "en": "Tabula Rasa", "ja": "タブラ・ラサ"}
+{"sec": 20, "key": 856, "en": "Unexplored Territory", "ja": "未踏の地"}
+{"sec": 20, "key": 857, "en": "Unexplored Territory", "ja": "未踏の地"}
+{"sec": 20, "key": 858, "en": "Q81RK7", "ja": ""}
+{"sec": 20, "key": 859, "en": "Unexplored Territory", "ja": "未踏の地"}
+{"sec": 20, "key": 860, "en": "Aegir Cave Depths", "ja": "エーギルどうくつ深部"}
+{"sec": 20, "key": 861, "en": "Tourmaline Desert", "ja": "トルマリン砂漠"}
+{"sec": 20, "key": 862, "en": "Splash Grounds", "ja": "水遊び場"}
+{"sec": 20, "key": 863, "en": "Tourmaline Desert", "ja": "トルマリン砂漠"}
+{"sec": 20, "key": 865, "en": "New World", "ja": "新世界"}
+{"sec": 20, "key": 866, "en": "New World", "ja": "新世界"}
+{"sec": 20, "key": 867, "en": "Agate Circus", "ja": "アゲートサーカス"}
+{"sec": 20, "key": 868, "en": "Battle Wheel", "ja": "バトルホイール"}
+{"sec": 20, "key": 869, "en": "Manyworld Pool", "ja": "多世界の池"}
+{"sec": 20, "key": 870, "en": "Ametrine Core", "ja": "アメトリン中枢"}
+{"sec": 20, "key": 871, "en": "Subseven Sanctum", "ja": "サブセブン聖域"}
+{"sec": 20, "key": 872, "en": "Ametrine Core", "ja": "アメトリン中枢"}
+{"sec": 20, "key": 873, "en": "Ametrine Core", "ja": "アメトリン中枢"}
+{"sec": 20, "key": 874, "en": "Triskeline Toybox", "ja": "トリスケリンの玩具箱"}
+{"sec": 20, "key": 875, "en": "Chrysolia Deepwoods", "ja": "クリソリア深林"}
+{"sec": 20, "key": 876, "en": "Cauldron of the Future", "ja": "未来の大釜"}
+{"sec": 20, "key": 877, "en": "Neo Blacksteam Fabrication", "ja": "ネオブラックスチーム製造所"}
+{"sec": 20, "key": 878, "en": "Idyll of Pestilence", "ja": "疫病の楽園"}
+{"sec": 20, "key": 879, "en": "Idyll of Panaceance", "ja": "万能薬の楽園"}
+{"sec": 20, "key": 880, "en": "Mirage Tower?", "ja": "しんきろうの塔?"}
+{"sec": 20, "key": 881, "en": "Mirage Tower?", "ja": "しんきろうの塔?"}
+{"sec": 20, "key": 882, "en": "Mirage Tower?", "ja": "しんきろうの塔?"}
+{"sec": 20, "key": 883, "en": "New World", "ja": "新世界"}
+{"sec": 20, "key": 884, "en": "New World Crash", "ja": "新世界の崩落"}
+{"sec": 20, "key": 885, "en": "Jasper Ward Gym", "ja": "ジャスパーワードジム"}
+{"sec": 20, "key": 886, "en": "Rhodochrine Tree", "ja": "ロドクラインの樹"}
+{"sec": 20, "key": 887, "en": "New World Helix", "ja": "新世界のらせん"}
+{"sec": 20, "key": 888, "en": "New World Helix", "ja": "新世界のらせん"}
+{"sec": 20, "key": 889, "en": "Rhodochrine Tree", "ja": "ロドクラインの樹"}
+{"sec": 20, "key": 890, "en": "Distorted Space", "ja": "ゆがんだ空間"}
+{"sec": 20, "key": 891, "en": "Distorted Space", "ja": "ゆがんだ空間"}
+{"sec": 20, "key": 892, "en": "Distorted Space", "ja": "ゆがんだ空間"}
+{"sec": 20, "key": 893, "en": "Stalemate", "ja": "にらみ合い"}
+{"sec": 20, "key": 894, "en": "Endgame", "ja": "終局"}
+{"sec": 20, "key": 895, "en": "Neoteric Isle", "ja": "ネオテリック島"}
+{"sec": 20, "key": 896, "en": "Citae Prisma", "ja": "キタエ・プリズマ"}
+{"sec": 20, "key": 897, "en": "New World Asylum", "ja": "新世界の収容所"}
+{"sec": 20, "key": 898, "en": "New World Asylum", "ja": "新世界の収容所"}
+{"sec": 20, "key": 899, "en": "Ending Handler", "ja": ""}
+{"sec": 20, "key": 900, "en": "Another Time", "ja": "別の時間"}
+{"sec": 20, "key": 901, "en": "Grand Hall SEEKRIT Room", "ja": "大ホールの秘密部屋"}
+{"sec": 20, "key": 902, "en": "Citae Astrae", "ja": "キタエ・アストラエ"}

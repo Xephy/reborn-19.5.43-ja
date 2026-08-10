@@ -1,0 +1,330 @@
+{"sec": 10, "key": "The stench may cause the target to flinch.", "en": "The stench may cause the target to flinch.", "ja": "くさくて相手がひるむことがある。"}
+{"sec": 10, "key": "The Pokémon makes it rain when it enters a battle.", "en": "The Pokémon makes it rain when it enters a battle.", "ja": "戦闘にでると雨を降らす。"}
+{"sec": 10, "key": "Its Speed stat is gradually boosted.", "en": "Its Speed stat is gradually boosted.", "ja": "ちょっとずつ素早くなっていく。"}
+{"sec": 10, "key": "The Pokémon is protected against critical hits.", "en": "The Pokémon is protected against critical hits.", "ja": "相手の攻撃が急所に当たらない。"}
+{"sec": 10, "key": "It cannot be knocked out with one hit.", "en": "It cannot be knocked out with one hit.", "ja": "一撃で倒されない。"}
+{"sec": 10, "key": "Prevents the use of self-destructing moves.", "en": "Prevents the use of self-destructing moves.", "ja": "誰も爆発ができなくなる。"}
+{"sec": 10, "key": "The Pokémon is protected from paralysis.", "en": "The Pokémon is protected from paralysis.", "ja": "まひ状態にならない。"}
+{"sec": 10, "key": "Boosts the Pokémon's evasion in a sandstorm.", "en": "Boosts the Pokémon's evasion in a sandstorm.", "ja": "砂嵐でかいひりつが上がる。"}
+{"sec": 10, "key": "Contact with the Pokémon may cause paralysis.", "en": "Contact with the Pokémon may cause paralysis.", "ja": "さわった相手をまひさせることがある。"}
+{"sec": 10, "key": "Restores HP if hit by an Electric-type move.", "en": "Restores HP if hit by an Electric-type move.", "ja": "でんきを受けると回復する。"}
+{"sec": 10, "key": "Restores HP if hit by a Water-type move.", "en": "Restores HP if hit by a Water-type move.", "ja": "みずを受けると回復する。"}
+{"sec": 10, "key": "Prevents it from becoming infatuated.", "en": "Prevents it from becoming infatuated.", "ja": "メロメロやちょうはつ状態にならない。"}
+{"sec": 10, "key": "Eliminates the effects of weather.", "en": "Eliminates the effects of weather.", "ja": "天気のえいきょうがなくなる。"}
+{"sec": 10, "key": "The Pokémon's accuracy is boosted...", "en": "The Pokémon's accuracy is boosted...", "ja": "わざの命中率が上がる。"}
+{"sec": 10, "key": "The Pokémon's accuracy is boosted by 30%.", "en": "The Pokémon's accuracy is boosted by 30%.", "ja": "命中率が30％上がる。"}
+{"sec": 10, "key": "Prevents the Pokémon from falling asleep.", "en": "Prevents the Pokémon from falling asleep.", "ja": "眠り状態にならない。"}
+{"sec": 10, "key": "Changes the Pokémon's type to the foe's move.", "en": "Changes the Pokémon's type to the foe's move.", "ja": "受けたわざのタイプに変化する。"}
+{"sec": 10, "key": "Prevents the Pokémon from getting poisoned.", "en": "Prevents the Pokémon from getting poisoned.", "ja": "どく状態にならない。"}
+{"sec": 10, "key": "Powers up Fire-type moves if it's hit by one...", "en": "Powers up Fire-type moves if it's hit by one...", "ja": "ほのおを受けるとほのおわざが強くなる。"}
+{"sec": 10, "key": "When hit by a Fire-type move, this Pokémon's attacking stats are boosted by 50% when using Fire-type moves.", "en": "When hit by a Fire-type move, this Pokémon's attacking stats are boosted by 50% when using Fire-type moves.", "ja": "ほのおタイプの技を受けると自分のほのおタイプの技の威力が50％上がる。"}
+{"sec": 10, "key": "Blocks the added effects of attacks taken.", "en": "Blocks the added effects of attacks taken.", "ja": "わざの追加効果をうけない。"}
+{"sec": 10, "key": "Prevents the Pokémon from becoming confused.", "en": "Prevents the Pokémon from becoming confused.", "ja": "混乱状態にならない。"}
+{"sec": 10, "key": "Negates all moves that force switching out.", "en": "Negates all moves that force switching out.", "ja": "いれかえさせるわざや道具がきかない。"}
+{"sec": 10, "key": "Lowers the foe's Attack stat.", "en": "Lowers the foe's Attack stat.", "ja": "相手の攻撃を下げる。"}
+{"sec": 10, "key": "Prevents the foe from escaping.", "en": "Prevents the foe from escaping.", "ja": "相手のかげをふ にげられなくする。"}
+{"sec": 10, "key": "Inflicts damage to the foe on contact.", "en": "Inflicts damage to the foe on contact.", "ja": "ふれた相手をキズつける。"}
+{"sec": 10, "key": "Only super-effective moves will hit.", "en": "Only super-effective moves will hit.", "ja": "効果ばつぐんしか当たらない。"}
+{"sec": 10, "key": "Gives full immunity to all Ground-type moves.", "en": "Gives full immunity to all Ground-type moves.", "ja": "じめんタイプのわざをうけない。"}
+{"sec": 10, "key": "Contact may poison or cause paralysis or sleep.", "en": "Contact may poison or cause paralysis or sleep.", "ja": "ふれるとどくまひ眠りにすることがある。"}
+{"sec": 10, "key": "Passes a burn, poison, or paralysis to the foe.", "en": "Passes a burn, poison, or paralysis to the foe.", "ja": "どくまひやけどを相手にうつす。"}
+{"sec": 10, "key": "Prevents other Pokémon from lowering its stats.", "en": "Prevents other Pokémon from lowering its stats.", "ja": "相手に能力をさげられない。"}
+{"sec": 10, "key": "All status problems heal when it switches out.", "en": "All status problems heal when it switches out.", "ja": "状態いじょうがひっこむと治る。"}
+{"sec": 10, "key": "Draws in all Electric-type moves to raise Sp. Attack.", "en": "Draws in all Electric-type moves to raise Sp. Attack.", "ja": "でんきをよびこんで特攻を上げる。"}
+{"sec": 10, "key": "Boosts the likelihood of added effects appearing.", "en": "Boosts the likelihood of added effects appearing.", "ja": "わざの追加効果がでやすい。"}
+{"sec": 10, "key": "Doubles the Pokémon's Speed in rain.", "en": "Doubles the Pokémon's Speed in rain.", "ja": "雨のとき素早さが上がる。"}
+{"sec": 10, "key": "Doubles the Pokémon's Speed in sunshine.", "en": "Doubles the Pokémon's Speed in sunshine.", "ja": "はれのとき素早さが上がる。"}
+{"sec": 10, "key": "Raises the likelihood of meeting wild Pokémon.", "en": "Raises the likelihood of meeting wild Pokémon.", "ja": "やせいのポケモンにそうぐうしやすくなる。"}
+{"sec": 10, "key": "The Pokémon copies a foe's Ability.", "en": "The Pokémon copies a foe's Ability.", "ja": "相手と同じ特性になる。"}
+{"sec": 10, "key": "Doubles the Pokémon's Attack stat.", "en": "Doubles the Pokémon's Attack stat.", "ja": "ぶつり攻撃の威力が２ばいになる。"}
+{"sec": 10, "key": "Contact with the Pokémon may poison the attacker.", "en": "Contact with the Pokémon may poison the attacker.", "ja": "ふれた相手にどくをおわせることがある。"}
+{"sec": 10, "key": "The Pokémon is protected from flinching.", "en": "The Pokémon is protected from flinching.", "ja": "ひるまない。"}
+{"sec": 10, "key": "Prevents the Pokémon from becoming frozen.", "en": "Prevents the Pokémon from becoming frozen.", "ja": "こおり状態にならない。"}
+{"sec": 10, "key": "Prevents the Pokémon from becoming frozen. Makes eggs hatch twice as fast.", "en": "Prevents the Pokémon from becoming frozen. Makes eggs hatch twice as fast.", "ja": "こおり状態にならない。タマゴがかえるのが2倍速くなる。"}
+{"sec": 10, "key": "Prevents the Pokémon from getting a burn.", "en": "Prevents the Pokémon from getting a burn.", "ja": "やけど状態にならない。"}
+{"sec": 10, "key": "Prevents Steel-type Pokémon from escaping.", "en": "Prevents Steel-type Pokémon from escaping.", "ja": "はがねのポケモンをにげられなくする。"}
+{"sec": 10, "key": "Gives full immunity to all sound-based moves.", "en": "Gives full immunity to all sound-based moves.", "ja": "おとのわざをうけない。"}
+{"sec": 10, "key": "The Pokémon gradually regains HP in rain.", "en": "The Pokémon gradually regains HP in rain.", "ja": "雨のとき少しずつＨＰを回復する。"}
+{"sec": 10, "key": "The Pokémon summons a sandstorm in battle.", "en": "The Pokémon summons a sandstorm in battle.", "ja": "戦闘で砂嵐をおこす。"}
+{"sec": 10, "key": "The Pokémon raises the foe's PP usage.", "en": "The Pokémon raises the foe's PP usage.", "ja": "相手の使うわざのＰＰをおおく減らす。"}
+{"sec": 10, "key": "Ups resistance to Fire- and Ice-type moves...", "en": "Ups resistance to Fire- and Ice-type moves...", "ja": "ほのおとこおりタイプのわざに強い。"}
+{"sec": 10, "key": "Increases resistance to Fire- and Ice-type moves by 50%.", "en": "Increases resistance to Fire- and Ice-type moves by 50%.", "ja": "ほのおとこおりタイプの技で受けるダメージが半分になる。"}
+{"sec": 10, "key": "The Pokémon awakens quickly from sleep.", "en": "The Pokémon awakens quickly from sleep.", "ja": "おきるのが速くなる。"}
+{"sec": 10, "key": "Contact with the Pokémon may burn the attacker.", "en": "Contact with the Pokémon may burn the attacker.", "ja": "ふれた相手をやけどさせることがある。"}
+{"sec": 10, "key": "Contact with the Pokémon may burn the attacker. Makes eggs hatch twice as fast.", "en": "Contact with the Pokémon may burn the attacker. Makes eggs hatch twice as fast.", "ja": "触れた相手をやけど状態にすることがある。タマゴがかえるのが2倍速くなる。"}
+{"sec": 10, "key": "Enables a sure getaway from wild Pokémon.", "en": "Enables a sure getaway from wild Pokémon.", "ja": "やせいのポケモンから必ずにげられる。"}
+{"sec": 10, "key": "Prevents other Pokémon from lowering accuracy.", "en": "Prevents other Pokémon from lowering accuracy.", "ja": "命中率をさげられない。"}
+{"sec": 10, "key": "Prevents other Pokémon from lowering Attack stat.", "en": "Prevents other Pokémon from lowering Attack stat.", "ja": "相手に攻撃をさげられない。"}
+{"sec": 10, "key": "The Pokémon may pick up items...", "en": "The Pokémon may pick up items...", "ja": "道具を拾ってくることがある。"}
+{"sec": 10, "key": "At the end of each turn, picks up items used by other Pokémon that turn. Also may pick up items at the end of a battle.", "en": "At the end of each turn, picks up items used by other Pokémon that turn. Also may pick up items at the end of a battle.", "ja": "そのターンに他のポケモンが使った道具をターンの終わりに拾う。戦闘後にも道具を拾うことがある。"}
+{"sec": 10, "key": "Pokémon can't attack on consecutive turns.", "en": "Pokémon can't attack on consecutive turns.", "ja": "攻撃がれんぞくでだせない。"}
+{"sec": 10, "key": "Boosts the Attack stat, but lowers accuracy...", "en": "Boosts the Attack stat, but lowers accuracy...", "ja": "攻撃はたかいがはずれやすい。"}
+{"sec": 10, "key": "Boosts the Attack stat by 50%, but lowers accuracy by 20%.", "en": "Boosts the Attack stat by 50%, but lowers accuracy by 20%.", "ja": "攻撃が50％上がるが命中率が20％下がる。"}
+{"sec": 10, "key": "Contact with the Pokémon may cause infatuation.", "en": "Contact with the Pokémon may cause infatuation.", "ja": "ふれるとメロメロにすることがある。"}
+{"sec": 10, "key": "Ups Sp. Atk if another Pokémon has Plus or Minus...", "en": "Ups Sp. Atk if another Pokémon has Plus or Minus...", "ja": "プラスかマイナスがいると特攻が上がる。"}
+{"sec": 10, "key": "Ups Sp. Attack if another Pokémon has Plus or Minus by 50%. Magnetic Flux raises Defense and Sp. Defense, Gear Up raises Attack and Sp. Attack.", "en": "Ups Sp. Attack if another Pokémon has Plus or Minus by 50%. Magnetic Flux raises Defense and Sp. Defense, Gear Up raises Attack and Sp. Attack.", "ja": "味方にプラスかマイナスがいると特攻が50％上がる。じきゅうりょくは防御と特防をギアチェンジは攻撃と特攻を上げる。"}
+{"sec": 10, "key": "Castform transforms with the weather.", "en": "Castform transforms with the weather.", "ja": "天気でポワルンが変化する。"}
+{"sec": 10, "key": "Protects the Pokémon from item theft.", "en": "Protects the Pokémon from item theft.", "ja": "ねんちゃくして道具を守る。"}
+{"sec": 10, "key": "The Pokémon may heal its own status problems.", "en": "The Pokémon may heal its own status problems.", "ja": "状態いじょうを治すことがある。"}
+{"sec": 10, "key": "Boosts Attack if there is a status problem...", "en": "Boosts Attack if there is a status problem...", "ja": "状態いじょうで攻撃が上がる。"}
+{"sec": 10, "key": "Boosts Attack if there is a status problem by 50%.", "en": "Boosts Attack if there is a status problem by 50%.", "ja": "状態異常のとき攻撃が50％上がる。"}
+{"sec": 10, "key": "Ups Defense if there is a status problem...", "en": "Ups Defense if there is a status problem...", "ja": "状態いじょうで防御が上がる。"}
+{"sec": 10, "key": "Ups Defense if there is a status problem by 50%.", "en": "Ups Defense if there is a status problem by 50%.", "ja": "状態異常のとき防御が50％上がる。"}
+{"sec": 10, "key": "Damages attackers using any draining move...", "en": "Damages attackers using any draining move...", "ja": "すいとった相手のＨＰを減らす。"}
+{"sec": 10, "key": "Damages attackers using any draining move by that amount instead of healing.", "en": "Damages attackers using any draining move by that amount instead of healing.", "ja": "吸収技を受けると相手は回復せず同じだけダメージを受ける。"}
+{"sec": 10, "key": "Powers up Grass-type moves in a pinch...", "en": "Powers up Grass-type moves in a pinch...", "ja": "ピンチのときくさの威力が上がる。"}
+{"sec": 10, "key": "Increases Attack/Special Attack by 50% when below 1/3 max HP when using Grass-type moves.", "en": "Increases Attack/Special Attack by 50% when below 1/3 max HP when using Grass-type moves.", "ja": "HPが3分の1以下のときくさタイプの技の威力が50％上がる。"}
+{"sec": 10, "key": "Powers up Fire-type moves in a pinch...", "en": "Powers up Fire-type moves in a pinch...", "ja": "ピンチのときほのおの威力が上がる。"}
+{"sec": 10, "key": "Increases Attack/Special Attack by 50% when below 1/3 max HP when using Fire-type moves.", "en": "Increases Attack/Special Attack by 50% when below 1/3 max HP when using Fire-type moves.", "ja": "HPが3分の1以下のときほのおタイプの技の威力が50％上がる。"}
+{"sec": 10, "key": "Powers up Water-type moves in a pinch...", "en": "Powers up Water-type moves in a pinch...", "ja": "ピンチのとき ずの威力が上がる。"}
+{"sec": 10, "key": "Increases Attack/Special Attack by 50% when below 1/3 max HP when using Water-type moves.", "en": "Increases Attack/Special Attack by 50% when below 1/3 max HP when using Water-type moves.", "ja": "HPが3分の1以下のときみずタイプの技の威力が50％上がる。"}
+{"sec": 10, "key": "Powers up Bug-type moves in a pinch...", "en": "Powers up Bug-type moves in a pinch...", "ja": "ピンチのときむしの威力が上がる。"}
+{"sec": 10, "key": "Increases Attack/Special Attack by 50% when below 1/3 max HP when using Bug-type moves.", "en": "Increases Attack/Special Attack by 50% when below 1/3 max HP when using Bug-type moves.", "ja": "HPが3分の1以下のときむしタイプの技の威力が50％上がる。"}
+{"sec": 10, "key": "Protects the Pokémon from recoil damage.", "en": "Protects the Pokémon from recoil damage.", "ja": "ぶつかってもはんどうをうけない。"}
+{"sec": 10, "key": "The Pokémon summons harsh sunlight in battle.", "en": "The Pokémon summons harsh sunlight in battle.", "ja": "戦闘にでると日差しが強くなる。"}
+{"sec": 10, "key": "Prevents the foe from fleeing.", "en": "Prevents the foe from fleeing.", "ja": "戦闘で相手をにげられなくする。"}
+{"sec": 10, "key": "Raises evasion if the Pokémon is confused.", "en": "Raises evasion if the Pokémon is confused.", "ja": "混乱しているとかいひしやすくなる。"}
+{"sec": 10, "key": "Raises Speed if hit by an Electric-type move.", "en": "Raises Speed if hit by an Electric-type move.", "ja": "でんきを受けると素早さが上がる。"}
+{"sec": 10, "key": "Deals more damage to a foe of the same gender...", "en": "Deals more damage to a foe of the same gender...", "ja": "相手とせいべつが同じだと強くなる。"}
+{"sec": 10, "key": "Deal 25% more damage to the same gender and deal 25% less damage to the opposite gender.", "en": "Deal 25% more damage to the same gender and deal 25% less damage to the opposite gender.", "ja": "同じ性別には25％多く異なる性別には25％少ないダメージを与える。"}
+{"sec": 10, "key": "Raises Speed each time the Pokémon flinches.", "en": "Raises Speed each time the Pokémon flinches.", "ja": "ひるむたびに素早さが上がる。"}
+{"sec": 10, "key": "Raises evasion in a hailstorm.", "en": "Raises evasion in a hailstorm.", "ja": "天気があられのときかいひりつが上がる。"}
+{"sec": 10, "key": "Encourages the early use of a held Berry.", "en": "Encourages the early use of a held Berry.", "ja": "きの をいつもより速く使う。"}
+{"sec": 10, "key": "Maxes Attack after taking a critical hit.", "en": "Maxes Attack after taking a critical hit.", "ja": "急所に受けると攻撃が上がる。"}
+{"sec": 10, "key": "Doubles Speed if a held item is used.", "en": "Doubles Speed if a held item is used.", "ja": "道具がなくなると素早さが上がる。"}
+{"sec": 10, "key": "Weakens the power of Fire-type moves...", "en": "Weakens the power of Fire-type moves...", "ja": "ほのおわざの威力をよわめる。"}
+{"sec": 10, "key": "Halves the damage done by Fire-type moves and Burn.", "en": "Halves the damage done by Fire-type moves and Burn.", "ja": "ほのおタイプの技とやけどのダメージが半分になる。"}
+{"sec": 10, "key": "The Pokémon is prone to wild stat changes.", "en": "The Pokémon is prone to wild stat changes.", "ja": "能力変化がいつもよりはげしい。"}
+{"sec": 10, "key": "Reduces HP if it is hot. Water restores HP...", "en": "Reduces HP if it is hot. Water restores HP...", "ja": "あついとＨＰがへる。 ずでＨＰを回復。"}
+{"sec": 10, "key": "Fire-type moves deal 25% more damage. Water-type moves heal 1/4 max HP. Rain heals by 1/8 max HP. Sun damages for 1/8 max HP.", "en": "Fire-type moves deal 25% more damage. Water-type moves heal 1/4 max HP. Rain heals by 1/8 max HP. Sun damages for 1/8 max HP.", "ja": "ほのお技の威力が25％上がる。みず技で最大HPの4分の1回復。雨で8分の1回復し晴れで8分の1減る。"}
+{"sec": 10, "key": "Adjusts power according to a foe's defenses...", "en": "Adjusts power according to a foe's defenses...", "ja": "相手の能力を てつよさをかえる。"}
+{"sec": 10, "key": "Increase Attack or Special Attack by one stage based on the foe's lower defense stat.", "en": "Increase Attack or Special Attack by one stage based on the foe's lower defense stat.", "ja": "相手の低いほうの防御に応じて攻撃か特攻が1段階上がる。"}
+{"sec": 10, "key": "Boosts the power of punching moves...", "en": "Boosts the power of punching moves...", "ja": "パンチを使うわざの威力が上がる。"}
+{"sec": 10, "key": "Boosts the power of punching moves by 20%.", "en": "Boosts the power of punching moves by 20%.", "ja": "パンチを使う技の威力が20％上がる。"}
+{"sec": 10, "key": "Restores HP if the Pokémon is poisoned.", "en": "Restores HP if the Pokémon is poisoned.", "ja": "どく状態になるとＨＰを回復する。"}
+{"sec": 10, "key": "Powers up moves of the same type...", "en": "Powers up moves of the same type...", "ja": "タイプが同じわざの威力が上がる。"}
+{"sec": 10, "key": "Powers up STAB to an additional 100% rather than 50%.", "en": "Powers up STAB to an additional 100% rather than 50%.", "ja": "自分と同じタイプの技の威力が1.5倍ではなく2倍になる。"}
+{"sec": 10, "key": "Increases the frequency of multi-strike moves.", "en": "Increases the frequency of multi-strike moves.", "ja": "れんぞくわざをたくさんだせる。"}
+{"sec": 10, "key": "Heals status problems in the rain.", "en": "Heals status problems in the rain.", "ja": "状態いじょうが雨のとき治る。"}
+{"sec": 10, "key": "Sunshine boosts Sp. Atk but HP decreases...", "en": "Sunshine boosts Sp. Atk but HP decreases...", "ja": "はれるとＨＰがへるが特攻が上がる。"}
+{"sec": 10, "key": "In sunshine, Special Attack is boosted by 50%, but HP decreases by 1/8th max HP per turn.", "en": "In sunshine, Special Attack is boosted by 50%, but HP decreases by 1/8th max HP per turn.", "ja": "晴れのとき特攻が50％上がるが毎ターン最大HPの8分の1減る。"}
+{"sec": 10, "key": "Boosts Speed if there is a status problem...", "en": "Boosts Speed if there is a status problem...", "ja": "状態いじょうで素早さが上がる。"}
+{"sec": 10, "key": "Boosts Speed if there is a status problem by 50%. Ignores Paralysis Speed drop.", "en": "Boosts Speed if there is a status problem by 50%. Ignores Paralysis Speed drop.", "ja": "状態異常のとき素早さが50％上がる。まひによる素早さの低下も受けない。"}
+{"sec": 10, "key": "All the user's moves become the Normal type.", "en": "All the user's moves become the Normal type.", "ja": "だしたわざが全てノーマルタイプになる。"}
+{"sec": 10, "key": "Powers up critical hits...", "en": "Powers up critical hits...", "ja": "急所にあてたとき威力が上がる。"}
+{"sec": 10, "key": "Powers up critical hits by 50%.", "en": "Powers up critical hits by 50%.", "ja": "急所に当たったときの威力が50％上がる。"}
+{"sec": 10, "key": "The Pokémon only takes damage from attacks.", "en": "The Pokémon only takes damage from attacks.", "ja": "攻撃いがいではダメージをうけない。"}
+{"sec": 10, "key": "Ensures attacks by or against the user land.", "en": "Ensures attacks by or against the user land.", "ja": "おたがいのわざが必ず当たる。"}
+{"sec": 10, "key": "The Pokémon moves after all other Pokémon do.", "en": "The Pokémon moves after all other Pokémon do.", "ja": "相手より素早くても行動が遅くなる。"}
+{"sec": 10, "key": "Powers up the Pokémon's weaker moves...", "en": "Powers up the Pokémon's weaker moves...", "ja": "弱いわざの威力が上がる。"}
+{"sec": 10, "key": "Moves with 60 Base Power or less deal 50% more damage.", "en": "Moves with 60 Base Power or less deal 50% more damage.", "ja": "威力60以下の技の威力が50％上がる。"}
+{"sec": 10, "key": "Prevents status problems in sunny weather.", "en": "Prevents status problems in sunny weather.", "ja": "状態いじょうにはれのときならない。"}
+{"sec": 10, "key": "The Pokémon can't use any held items.", "en": "The Pokémon can't use any held items.", "ja": "もっている道具を使うことができない。"}
+{"sec": 10, "key": "Moves can be used regardless of Abilities.", "en": "Moves can be used regardless of Abilities.", "ja": "特性にかんけいなく相手にわざをだせる。"}
+{"sec": 10, "key": "Heightens the critical-hit ratios of moves...", "en": "Heightens the critical-hit ratios of moves...", "ja": "相手の急所に攻撃があたりやすい。"}
+{"sec": 10, "key": "Increases the critical-hit ratios of moves by 1 stage.", "en": "Increases the critical-hit ratios of moves by 1 stage.", "ja": "技が急所に当たりやすくなる。"}
+{"sec": 10, "key": "Damages the foe landing the finishing hit...", "en": "Damages the foe landing the finishing hit...", "ja": "ひんしのときにふれた相手にダメージ。"}
+{"sec": 10, "key": "When reduced to 0 HP by a contact move, the attacker suffers 1/4th of its max HP. Damp prevents this effect.", "en": "When reduced to 0 HP by a contact move, the attacker suffers 1/4th of its max HP. Damp prevents this effect.", "ja": "接触技で倒されると相手に最大HPの4分の1のダメージを与える。しめりけには無効。"}
+{"sec": 10, "key": "Senses a foe's dangerous moves.", "en": "Senses a foe's dangerous moves.", "ja": "相手のもつきけんなわざをさっちする。"}
+{"sec": 10, "key": "Determines what moves a foe has.", "en": "Determines what moves a foe has.", "ja": "相手のもつわざをよ とることができる。"}
+{"sec": 10, "key": "Ignores any stat changes in the Pokémon.", "en": "Ignores any stat changes in the Pokémon.", "ja": "相手の能力の変化をむしする。"}
+{"sec": 10, "key": "Powers up \"not very effective\" moves...", "en": "Powers up \"not very effective\" moves...", "ja": "効果いまひとつのときわざをつよめる。"}
+{"sec": 10, "key": "The damage of \"not very effective\" moves is doubled.", "en": "The damage of \"not very effective\" moves is doubled.", "ja": "効果がいまひとつの技のダメージが2倍になる。"}
+{"sec": 10, "key": "Reduces damage from supereffective attacks...", "en": "Reduces damage from supereffective attacks...", "ja": "効果ばつぐんのとき威力をよわめる。"}
+{"sec": 10, "key": "Reduces damage from supereffective attacks by 25%.", "en": "Reduces damage from supereffective attacks by 25%.", "ja": "効果はばつぐんの技で受けるダメージが25％減る。"}
+{"sec": 10, "key": "Temporarily halves Attack and Speed.", "en": "Temporarily halves Attack and Speed.", "ja": "攻撃と素早さがしばらく半分になる。"}
+{"sec": 10, "key": "Enables moves to hit Ghost-type Pokémon.", "en": "Enables moves to hit Ghost-type Pokémon.", "ja": "ゴーストタイプにノーマルわざが当たる。"}
+{"sec": 10, "key": "Draws in Water-type moves to up Sp. Attack.", "en": "Draws in Water-type moves to up Sp. Attack.", "ja": " ずをよびこんで特攻を上げる。"}
+{"sec": 10, "key": "The Pokémon gradually regains HP in hail.", "en": "The Pokémon gradually regains HP in hail.", "ja": "あられのときHPを少しずつ回復。"}
+{"sec": 10, "key": "The Pokémon summons a hailstorm in battle.", "en": "The Pokémon summons a hailstorm in battle.", "ja": "戦闘にでるとあられを降らす。"}
+{"sec": 10, "key": "The Pokémon may gather Honey from somewhere.", "en": "The Pokémon may gather Honey from somewhere.", "ja": "あまいミツをあつめてくることがある。"}
+{"sec": 10, "key": "The Pokémon can check a foe's held item.", "en": "The Pokémon can check a foe's held item.", "ja": "相手の持ち物をしることができる。"}
+{"sec": 10, "key": "Powers up moves that have recoil damage...", "en": "Powers up moves that have recoil damage...", "ja": "はんどうでダメージを受けるわざが強くなる。"}
+{"sec": 10, "key": "Powers up moves that have recoil damage by 20%.", "en": "Powers up moves that have recoil damage by 20%.", "ja": "反動を受ける技の威力が20％上がる。"}
+{"sec": 10, "key": "Changes type to match the held Plate.", "en": "Changes type to match the held Plate.", "ja": "もっているプレートでタイプがかわる。"}
+{"sec": 10, "key": "Powers up party Pokémon when it is sunny...", "en": "Powers up party Pokémon when it is sunny...", "ja": "はれのとき自分と味方が強くなる。"}
+{"sec": 10, "key": "Increases Attack and Special Defense by 50% for itself and ally Pokémon.", "en": "Increases Attack and Special Defense by 50% for itself and ally Pokémon.", "ja": "自分と味方の攻撃と特防が50％上がる。"}
+{"sec": 10, "key": "Reduces a sleeping foe's HP...", "en": "Reduces a sleeping foe's HP...", "ja": "眠っている相手のＨＰを減らす。"}
+{"sec": 10, "key": "Reduces a sleeping foe's HP by 1/8th of its max HP.", "en": "Reduces a sleeping foe's HP by 1/8th of its max HP.", "ja": "眠っている相手のHPを最大HPの8分の1減らす。"}
+{"sec": 10, "key": "Steals an item when hit by another Pokémon.", "en": "Steals an item when hit by another Pokémon.", "ja": "さわられた相手から道具をぬすむ。"}
+{"sec": 10, "key": "Removes added effects to increase move damage...", "en": "Removes added effects to increase move damage...", "ja": "力が強くなるが追加効果がなくなる。"}
+{"sec": 10, "key": "Removes added effects to increase move damage by 30%.", "en": "Removes added effects to increase move damage by 30%.", "ja": "技の追加効果がなくなるかわりに威力が30％上がる。"}
+{"sec": 10, "key": "Makes stat changes have an opposite effect.", "en": "Makes stat changes have an opposite effect.", "ja": "能力の変化がぎゃくてんする。"}
+{"sec": 10, "key": "Makes the foe unable to eat Berries.", "en": "Makes the foe unable to eat Berries.", "ja": "相手をきんちょうさせきの をたべさせない。"}
+{"sec": 10, "key": "When a stat is lowered its Attack increases.", "en": "When a stat is lowered its Attack increases.", "ja": "能力が下がると攻撃が上がる。"}
+{"sec": 10, "key": "Lowers stats when HP becomes half or less...", "en": "Lowers stats when HP becomes half or less...", "ja": "ＨＰが半分になると能力が下がる。"}
+{"sec": 10, "key": "Halves attacking stats when HP becomes half or less.", "en": "Halves attacking stats when HP becomes half or less.", "ja": "HPが半分以下になると攻撃と特攻が半分になる。"}
+{"sec": 10, "key": "May disable a move used on the Pokémon.", "en": "May disable a move used on the Pokémon.", "ja": "攻撃されるとたまにかなしばりにする。"}
+{"sec": 10, "key": "May heal an ally's status conditions.", "en": "May heal an ally's status conditions.", "ja": "状態いじょうの かたをたまに治す。"}
+{"sec": 10, "key": "Reduces damage done to allies...", "en": "Reduces damage done to allies...", "ja": "味方のダメージを減らすことができる。"}
+{"sec": 10, "key": "Reduces damage done to allies by 25%, stacking multiplicatively.", "en": "Reduces damage done to allies by 25%, stacking multiplicatively.", "ja": "味方が受けるダメージを25％減らす。重ねがけできる。"}
+{"sec": 10, "key": "Physical attacks lower Def. and sharply raise Spd.", "en": "Physical attacks lower Def. and sharply raise Spd.", "ja": "ぶつりわざで防御がさがり素早さが上がる。"}
+{"sec": 10, "key": "Doubles the Pokémon's weight.", "en": "Doubles the Pokémon's weight.", "ja": "自分の重さが２ばいになる。"}
+{"sec": 10, "key": "Halves the Pokémon's weight.", "en": "Halves the Pokémon's weight.", "ja": "自分の重さが半分になる。"}
+{"sec": 10, "key": "Halves damage when HP is full.", "en": "Halves damage when HP is full.", "ja": "ＨＰがまんたんのときにダメージがすくなくなる。"}
+{"sec": 10, "key": "Powers up physical attacks when poisoned...", "en": "Powers up physical attacks when poisoned...", "ja": "どくのときぶつりの威力が上がる。"}
+{"sec": 10, "key": "Powers up physical attacks when poisoned by 50%.", "en": "Powers up physical attacks when poisoned by 50%.", "ja": "どく状態のとき物理技の威力が50％上がる。"}
+{"sec": 10, "key": "Powers up special moves when burned...", "en": "Powers up special moves when burned...", "ja": "やけどのときとくしゅの威力が上がる。"}
+{"sec": 10, "key": "Powers up special moves when burned by 50%.", "en": "Powers up special moves when burned by 50%.", "ja": "やけど状態のとき特殊技の威力が50％上がる。"}
+{"sec": 10, "key": "May create another Berry after one is used.", "en": "May create another Berry after one is used.", "ja": "使ったきのみをなんかいもつくりだす。"}
+{"sec": 10, "key": "Anticipates an ally's attack and dodges it.", "en": "Anticipates an ally's attack and dodges it.", "ja": "味方の攻撃をよみとってうけない。"}
+{"sec": 10, "key": "Raises one stat and lowers another.", "en": "Raises one stat and lowers another.", "ja": "能力があがったりさがったりする。"}
+{"sec": 10, "key": "Protects the Pokémon from damage from weather.", "en": "Protects the Pokémon from damage from weather.", "ja": "ちりやこなを防ぐ。"}
+{"sec": 10, "key": "May poison targets upon contact.", "en": "May poison targets upon contact.", "ja": "さわるだけで相手をどくにすることがある。"}
+{"sec": 10, "key": "Restores HP when withdrawn from battle...", "en": "Restores HP when withdrawn from battle...", "ja": "ひっこめるとＨＰが少し回復する。"}
+{"sec": 10, "key": "Restores HP when withdrawn from battle by 33% max HP.", "en": "Restores HP when withdrawn from battle by 33% max HP.", "ja": "引っ込むと最大HPの3分の1回復する。"}
+{"sec": 10, "key": "Protects the Pokémon from Defense-lowering.", "en": "Protects the Pokémon from Defense-lowering.", "ja": "防御を下げる攻撃をうけない。"}
+{"sec": 10, "key": "Doubles the Pokémon's Speed in a sandstorm.", "en": "Doubles the Pokémon's Speed in a sandstorm.", "ja": "砂嵐で素早さが上がる。"}
+{"sec": 10, "key": "Makes foes' status moves more likely to miss...", "en": "Makes foes' status moves more likely to miss...", "ja": "変化技をうけにくい体になっている。"}
+{"sec": 10, "key": "Makes foes' status 50% more likely to miss unless already below 50% accuracy.", "en": "Makes foes' status 50% more likely to miss unless already below 50% accuracy.", "ja": "相手の変化技が外れやすくなる。命中率50％未満の技には効かない。"}
+{"sec": 10, "key": "Boosts move power when the Pokémon moves last...", "en": "Boosts move power when the Pokémon moves last...", "ja": "いちばんさいごにわざをだすとわざの威力が上がる。"}
+{"sec": 10, "key": "Boosts move power when the Pokémon moves last by 30%.", "en": "Boosts move power when the Pokémon moves last by 30%.", "ja": "自分が最後に行動すると技の威力が30％上がる。"}
+{"sec": 10, "key": "Comes out disguised as the Pokémon in back.", "en": "Comes out disguised as the Pokémon in back.", "ja": "うしろのポケモンになりきってでてくる。"}
+{"sec": 10, "key": "Transforms itself into the foe it is facing.", "en": "Transforms itself into the foe it is facing.", "ja": "めのまえのポケモンにへんしんしてしまう。"}
+{"sec": 10, "key": "Passes through the foe's barrier and strikes.", "en": "Passes through the foe's barrier and strikes.", "ja": "相手のかべをすりぬけて攻撃。"}
+{"sec": 10, "key": "Contact with this Pokémon spreads this Ability.", "en": "Contact with this Pokémon spreads this Ability.", "ja": "相手にさわられると相手をミイラにする。"}
+{"sec": 10, "key": "Boosts Attack after knocking out any Pokémon.", "en": "Boosts Attack after knocking out any Pokémon.", "ja": "相手を倒すと攻撃が上がる。"}
+{"sec": 10, "key": "Raises Attack when hit by a Dark-type move.", "en": "Raises Attack when hit by a Dark-type move.", "ja": "あくを受けると攻撃が上がる。"}
+{"sec": 10, "key": "Some move types scare it and boost its Speed...", "en": "Some move types scare it and boost its Speed...", "ja": "びびって素早さが上がるタイプがある。"}
+{"sec": 10, "key": "Bug-, Dark-, and Ghost-type moves that deal damage boost its Speed. Also activates against Intimidate.", "en": "Bug-, Dark-, and Ghost-type moves that deal damage boost its Speed. Also activates against Intimidate.", "ja": "むしあくゴーストタイプの技を受けると素早さが上がる。いかくでも発動する。"}
+{"sec": 10, "key": "Reflects status-changing moves.", "en": "Reflects status-changing moves.", "ja": "変化技をかえすことができる。"}
+{"sec": 10, "key": "Boosts Attack when hit by a Grass-type move.", "en": "Boosts Attack when hit by a Grass-type move.", "ja": "くさのわざを受けると攻撃が上がる。"}
+{"sec": 10, "key": "Gives priority to a status move.", "en": "Gives priority to a status move.", "ja": "変化技をせんせいでだすことができる。"}
+{"sec": 10, "key": "Boosts certain moves' power in a sandstorm...", "en": "Boosts certain moves' power in a sandstorm...", "ja": "砂嵐で威力が上がるわざがある。"}
+{"sec": 10, "key": "Boosts Rock-, Steel-, and Ground-type moves by 30% in a sandstorm, and takes no damage from sandstorm.", "en": "Boosts Rock-, Steel-, and Ground-type moves by 30% in a sandstorm, and takes no damage from sandstorm.", "ja": "砂嵐のときいわはがねじめんタイプの技の威力が30％上がり砂嵐のダメージも受けない。"}
+{"sec": 10, "key": "Inflicts damage to the Pokémon on contact...", "en": "Inflicts damage to the Pokémon on contact...", "ja": "ふれた相手をキズつける。"}
+{"sec": 10, "key": "Inflicts damage to the Pokémon on contact equal to 1/8th of its max HP.", "en": "Inflicts damage to the Pokémon on contact equal to 1/8th of its max HP.", "ja": "触れた相手に最大HPの8分の1のダメージを与える。"}
+{"sec": 10, "key": "Changes the Pokémon's shape when HP is halved.", "en": "Changes the Pokémon's shape when HP is halved.", "ja": "ピンチになると姿が変化する。"}
+{"sec": 10, "key": "Boosts the accuracy of its allies and itself...", "en": "Boosts the accuracy of its allies and itself...", "ja": "自分や味方の命中が上がる。"}
+{"sec": 10, "key": "Boosts the accuracy of its allies and itself by 10%. This ability may stack multiplicatively.", "en": "Boosts the accuracy of its allies and itself by 10%. This ability may stack multiplicatively.", "ja": "自分と味方の命中率が10％上がる。重ねがけできる。"}
+{"sec": 10, "key": "Normal-type moves become Flying-type moves...", "en": "Normal-type moves become Flying-type moves...", "ja": "ノーマルタイプのわざがひこうタイプになる。"}
+{"sec": 10, "key": "Normal-type moves become Flying-type moves and deal 30% more damage. This overrides Electrify and Ion Deluge.", "en": "Normal-type moves become Flying-type moves and deal 30% more damage. This overrides Electrify and Ion Deluge.", "ja": "ノーマルタイプの技がひこうタイプになり威力が30％上がる。そうでんプラズマシャワーより優先される。"}
+{"sec": 10, "key": "Protects allies from moves that effect their mind.", "en": "Protects allies from moves that effect their mind.", "ja": " かたへのメンタル攻撃を防ぐ。"}
+{"sec": 10, "key": "The effects of Aura Abilities are reversed.", "en": "The effects of Aura Abilities are reversed.", "ja": "オーラの効果がぎゃくになる。"}
+{"sec": 10, "key": "Protects the Pokémon from ball and bomb moves.", "en": "Protects the Pokémon from ball and bomb moves.", "ja": "たまやばくだんに当たらない。"}
+{"sec": 10, "key": "Restores HP when the Pokémon eats a Berry...", "en": "Restores HP when the Pokémon eats a Berry...", "ja": "きの をたべるとＨＰも回復する。"}
+{"sec": 10, "key": "Restores 33% of the Pokémon's max HP when it eats a Berry.", "en": "Restores 33% of the Pokémon's max HP when it eats a Berry.", "ja": "きのみを食べると最大HPの3分の1回復する。"}
+{"sec": 10, "key": "Boosts the Sp. Atk stat when a stat is lowered.", "en": "Boosts the Sp. Atk stat when a stat is lowered.", "ja": "能力が下がると特攻が上がる。"}
+{"sec": 10, "key": "Powers up each Pokémon's Dark-type moves...", "en": "Powers up each Pokémon's Dark-type moves...", "ja": "全員のあくタイプのわざが強くなる。"}
+{"sec": 10, "key": "Powers up each Pokémon's Dark-type moves by 33%.", "en": "Powers up each Pokémon's Dark-type moves by 33%.", "ja": "場にいる全てのポケモンのあくタイプの技の威力が33％上がる。"}
+{"sec": 10, "key": "Powers up each Pokémon's Fairy-type moves...", "en": "Powers up each Pokémon's Fairy-type moves...", "ja": "全員のフェアリーわざが強くなる。"}
+{"sec": 10, "key": "Powers up each Pokémon's Fairy-type moves by 33%.", "en": "Powers up each Pokémon's Fairy-type moves by 33%.", "ja": "場にいる全てのポケモンのフェアリータイプの技の威力が33％上がる。"}
+{"sec": 10, "key": "Prevents lowering of ally Grass-type stats.", "en": "Prevents lowering of ally Grass-type stats.", "ja": " かたのくさポケモンは能力がさがらない。"}
+{"sec": 10, "key": "Halves damage from physical moves.", "en": "Halves damage from physical moves.", "ja": "ぶつりわざのダメージが半分になる。"}
+{"sec": 10, "key": "Gives priority to Flying-type moves when HP is full.", "en": "Gives priority to Flying-type moves when HP is full.", "ja": "ひこうタイプのわざがせんせいでだせる。"}
+{"sec": 10, "key": "Contact lowers the foe's Speed stat.", "en": "Contact lowers the foe's Speed stat.", "ja": "ふれた相手の素早さを下げる。"}
+{"sec": 10, "key": "Boosts Defense when the terrain is grass.", "en": "Boosts Defense when the terrain is grass.", "ja": "グラスフィールドのとき防御が上がる。"}
+{"sec": 10, "key": "The Pokémon steals the foe's held item on contact.", "en": "The Pokémon steals the foe's held item on contact.", "ja": "わざをあてた相手の道具をうばってしまう。"}
+{"sec": 10, "key": "Powers up aura and pulse moves...", "en": "Powers up aura and pulse moves...", "ja": "はどうのわざの威力がたかい。"}
+{"sec": 10, "key": "Powers up aura and pulse moves by 50%. Heal Pulse heals by 75%.", "en": "Powers up aura and pulse moves by 50%. Heal Pulse heals by 75%.", "ja": "波動とパルスの技の威力が50％上がる。いやしのはどうの回復量は75％になる。"}
+{"sec": 10, "key": "Parent and child attack together...", "en": "Parent and child attack together...", "ja": "おやこ２ひきで攻撃する。"}
+{"sec": 10, "key": "Each attack deals an additional 25% damage and rolls effects separately, except for Secret Power.", "en": "Each attack deals an additional 25% damage and rolls effects separately, except for Secret Power.", "ja": "技のダメージが25％増え追加効果も個別に判定される。ひみつの力は除く。"}
+{"sec": 10, "key": "Normal-type moves become Fairy-type moves...", "en": "Normal-type moves become Fairy-type moves...", "ja": "ノーマルタイプのわざがフェアリータイプになる。"}
+{"sec": 10, "key": "Normal-type moves become Fairy-type moves and deal 20% more damage. This overrides Ion Deluge.", "en": "Normal-type moves become Fairy-type moves and deal 20% more damage. This overrides Ion Deluge.", "ja": "ノーマルタイプの技がフェアリータイプになり威力が20％上がる。プラズマシャワーより優先される。"}
+{"sec": 10, "key": "Changes the Pokémon's type to its move used.", "en": "Changes the Pokémon's type to its move used.", "ja": "だしたわざと同じタイプに変化する。"}
+{"sec": 10, "key": "Normal-type moves become Ice-type moves...", "en": "Normal-type moves become Ice-type moves...", "ja": "ノーマルタイプのわざがこおりタイプになる。"}
+{"sec": 10, "key": "Normal-type moves become Ice-type moves and deal 20% more damage. This overrides Electrify and Ion Deluge.", "en": "Normal-type moves become Ice-type moves and deal 20% more damage. This overrides Electrify and Ion Deluge.", "ja": "ノーマルタイプの技がこおりタイプになり威力が20％上がる。そうでんプラズマシャワーより優先される。"}
+{"sec": 10, "key": "The Pokémon changes form depending on moves.", "en": "The Pokémon changes form depending on moves.", "ja": "戦闘モードで姿がかわる。"}
+{"sec": 10, "key": "The power of biting moves is increased...", "en": "The power of biting moves is increased...", "ja": "あごががんじょうでかむ力が強い。"}
+{"sec": 10, "key": "The power of biting moves is increased by 50%.", "en": "The power of biting moves is increased by 50%.", "ja": "かみつく技の威力が50％上がる。"}
+{"sec": 10, "key": "Prevents ally Pokémon from falling asleep.", "en": "Prevents ally Pokémon from falling asleep.", "ja": " かたのポケモンはねむらなくなる。"}
+{"sec": 10, "key": "The Pokémon can pass an item to an ally.", "en": "The Pokémon can pass an item to an ally.", "ja": "味方に道具をわたせるようになる。"}
+{"sec": 10, "key": "Powers up moves that make direct contact.", "en": "Powers up moves that make direct contact.", "ja": "接触するわざの威力が上がる。"}
+{"sec": 10, "key": "Summons heavy rain when on the field...", "en": "Summons heavy rain when on the field...", "ja": "ほのおタイプの攻撃をうけない天気にする。"}
+{"sec": 10, "key": "Summons heavy rain and nullifies any Fire-type attacks while on the field.", "en": "Summons heavy rain and nullifies any Fire-type attacks while on the field.", "ja": "強い雨を降らせ場にいるあいだほのおタイプの技を無効にする。"}
+{"sec": 10, "key": "Summons extreme sunlight when on the field...", "en": "Summons extreme sunlight when on the field...", "ja": " ずタイプの攻撃をうけない天気にする。"}
+{"sec": 10, "key": "Summons extremely harsh sunlight and nullifies any Water-type attacks while on the field.", "en": "Summons extremely harsh sunlight and nullifies any Water-type attacks while on the field.", "ja": "強い日差しにし場にいるあいだみずタイプの技を無効にする。"}
+{"sec": 10, "key": "Summons strong winds when on the field...", "en": "Summons strong winds when on the field...", "ja": "ひこうのじゃくてんがなくなる天気にする。"}
+{"sec": 10, "key": "Summons strong winds and removes Flying-type weaknesses while on the field.", "en": "Summons strong winds and removes Flying-type weaknesses while on the field.", "ja": "乱気流を起こし場にいるあいだひこうタイプの弱点をなくす。"}
+{"sec": 10, "key": "Powers up ally Pokémon's special moves...", "en": "Powers up ally Pokémon's special moves...", "ja": "味方のとくしゅわざの威力を上げる。"}
+{"sec": 10, "key": "Increases the power of ally Pokémon's special moves by 30%.", "en": "Increases the power of ally Pokémon's special moves by 30%.", "ja": "味方の特殊技の威力が30％上がる。"}
+{"sec": 10, "key": "Boosts highest stat after KO'ing a Pokémon.", "en": "Boosts highest stat after KO'ing a Pokémon.", "ja": "相手をたおしたとき自分のいちばんたかい能力が上がる。"}
+{"sec": 10, "key": "Boosts Sp. Atk when a hit drops HP below half.", "en": "Boosts Sp. Atk when a hit drops HP below half.", "ja": "相手の攻撃でＨＰが半分になると特攻が上がる。"}
+{"sec": 10, "key": "It's always asleep, and attacks without waking up.", "en": "It's always asleep, and attacks without waking up.", "ja": "つねにゆめうつつの状態で絶対にめざめない。眠ったまま攻撃ができる。"}
+{"sec": 10, "key": "Can poison targets regardless of their type.", "en": "Can poison targets regardless of their type.", "ja": "はがねタイプやどくタイプもどく状態にすることができる。"}
+{"sec": 10, "key": "Dances with others, duplicating their moves.", "en": "Dances with others, duplicating their moves.", "ja": "誰かがおどりわざを使うと自分もそれにつづいておどりわざをだすことができる。"}
+{"sec": 10, "key": "Surprises the opponent, preventing priority moves.", "en": "Surprises the opponent, preventing priority moves.", "ja": "相手をびっくりさせてこちらにむかってせんせいわざをだせないようにする。"}
+{"sec": 10, "key": "Electrifies the terrain on entry.", "en": "Electrifies the terrain on entry.", "ja": "登場したときにエレキフィールドをはりめぐらせる。"}
+{"sec": 10, "key": "It retreats when its HP becomes half or less.", "en": "It retreats when its HP becomes half or less.", "ja": "ＨＰが半分になるときけんをかいひするためてもちにひっこんでしまう。"}
+{"sec": 10, "key": "Weakens contact moves, but doubles Fire damage.", "en": "Weakens contact moves, but doubles Fire damage.", "ja": "相手から受けた接触するわざのダメージを半減するがほのおタイプのわざのダメージは２ばいになる。"}
+{"sec": 10, "key": "Normal-type moves become Electric-type moves...", "en": "Normal-type moves become Electric-type moves...", "ja": "ノーマルタイプのわざがでんきタイプになる。威力が少し上がる。"}
+{"sec": 10, "key": "Normal-type moves become Electric-type moves and deal 20% more damage.", "en": "Normal-type moves become Electric-type moves and deal 20% more damage.", "ja": "ノーマルタイプの技がでんきタイプになり威力が20％上がる。"}
+{"sec": 10, "key": "Makes the terrain grassy on entry.", "en": "Makes the terrain grassy on entry.", "ja": "登場したときにグラスフィールドをはりめぐらせる。"}
+{"sec": 10, "key": "Damages the attacker the same amount when fainted.", "en": "Damages the attacker the same amount when fainted.", "ja": "相手に倒されたときＨＰののこりのぶんだけ相手にダメージを与える。"}
+{"sec": 10, "key": "All sound-based moves become Water-type moves.", "en": "All sound-based moves become Water-type moves.", "ja": "全てのおとわざがみずタイプになる。"}
+{"sec": 10, "key": "This Pokémon's moves do not make contact.", "en": "This Pokémon's moves do not make contact.", "ja": "全てのわざを相手に接触しないでだすことができる。"}
+{"sec": 10, "key": "Critically hits poisoned Pokémon without fail.", "en": "Critically hits poisoned Pokémon without fail.", "ja": "どく状態の相手を攻撃すると必ず急所に当たる。"}
+{"sec": 10, "key": "Makes the terrain misty on entry.", "en": "Makes the terrain misty on entry.", "ja": "登場したときにミストフィールドをはりめぐらせる。"}
+{"sec": 10, "key": "The Pokémon copies the Ability of a defeated ally.", "en": "The Pokémon copies the Ability of a defeated ally.", "ja": "倒れた味方の特性をコピーする。"}
+{"sec": 10, "key": "Reduces damage dealt by super effective moves by 25%. Cannot be ignored by moves or abilities.", "en": "Reduces damage dealt by super effective moves by 25%. Cannot be ignored by moves or abilities.", "ja": "効果はばつぐんの技のダメージが25％減る。技や特性で無視されない。"}
+{"sec": 10, "key": "Makes the terrain mysterious on entry.", "en": "Makes the terrain mysterious on entry.", "ja": "登場したときにサイコフィールドをはりめぐらせる。"}
+{"sec": 10, "key": "Pressures the opponent, preventing priority moves.", "en": "Pressures the opponent, preventing priority moves.", "ja": "相手を威圧し先制技を出せなくする。"}
+{"sec": 10, "key": "The Pokémon receives the Ability of a defeated ally.", "en": "The Pokémon receives the Ability of a defeated ally.", "ja": "倒された味方の特性をうけついで同じ特性になる。"}
+{"sec": 10, "key": "Halves damage when HP is full...", "en": "Halves damage when HP is full...", "ja": "ＨＰがまんたんのときに受けるダメージがすくなくなる。"}
+{"sec": 10, "key": "Halves damage when HP is full. Cannot be ignored by moves or abilities.", "en": "Halves damage when HP is full. Cannot be ignored by moves or abilities.", "ja": "HPが満タンのとき受けるダメージが半分になる。技や特性で無視されない。"}
+{"sec": 10, "key": "Doubles the Pokémon's Speed stat in a hailstorm.", "en": "Doubles the Pokémon's Speed stat in a hailstorm.", "ja": "天気があられのとき素早さが上がる。"}
+{"sec": 10, "key": "Boosts its Sp. Atk every time a Pokémon faints.", "en": "Boosts its Sp. Atk every time a Pokémon faints.", "ja": "ポケモンがひんしになるたびに特攻が上がる。"}
+{"sec": 10, "key": "Doubles damage to newly switched-in targets.", "en": "Doubles damage to newly switched-in targets.", "ja": "交代ででてきた相手に２ばいのダメージで攻撃できる。"}
+{"sec": 10, "key": "Boosts the Defense stat when hit by an attack.", "en": "Boosts the Defense stat when hit by an attack.", "ja": "攻撃を受けると防御が上がる。"}
+{"sec": 10, "key": "Powers up Steel-type moves...", "en": "Powers up Steel-type moves...", "ja": "はがねタイプのわざの威力が上がる。"}
+{"sec": 10, "key": "Increases its respective stat by 50% when a Steel-type move is used.", "en": "Increases its respective stat by 50% when a Steel-type move is used.", "ja": "はがねタイプの技を受けると対応する能力が50％上がる。"}
+{"sec": 10, "key": "Doubles the Speed stat on Electric Terrain.", "en": "Doubles the Speed stat on Electric Terrain.", "ja": "エレキフィールドのとき素早さが２ばいになる。"}
+{"sec": 10, "key": "Gives priority to a healing move.", "en": "Gives priority to a healing move.", "ja": "回復わざをせんせいでだすことができる。"}
+{"sec": 10, "key": "Stops burns, halves Fire damage and boosts Water...", "en": "Stops burns, halves Fire damage and boosts Water...", "ja": "自分にたいするほのおタイプのわざの威力を下げる。やけどしない。"}
+{"sec": 10, "key": "This Pokémon is immune to burns, takes 50% less damage from Fire-type moves, and deals 50% more damage with Water-type moves.", "en": "This Pokémon is immune to burns, takes 50% less damage from Fire-type moves, and deals 50% more damage with Water-type moves.", "ja": "やけどにならずほのお技のダメージが半分になりみず技の威力が50％上がる。"}
+{"sec": 10, "key": "Water-type moves sharply raise Defense.", "en": "Water-type moves sharply raise Defense.", "ja": "みずタイプの技を受けると防御がぐーんと上がる。"}
+{"sec": 10, "key": "It wimps out when its HP becomes half or less.", "en": "It wimps out when its HP becomes half or less.", "ja": "ＨＰが半分になるとあわててにげだしててもちにひっこんでしまう。"}
+{"sec": 10, "key": "As long as it has high HP, it can form a school.", "en": "As long as it has high HP, it can form a school.", "ja": "ＨＰが多いときはむれて強くなる。ＨＰののこりがすくなくなるとむれはちりぢりになってしまう。"}
+{"sec": 10, "key": "Changes type to match the held memory disc.", "en": "Changes type to match the held memory disc.", "ja": "もっているメモリで自分のタイプがかわる。"}
+{"sec": 10, "key": "This Pokémon is protected by its shell above half HP.", "en": "This Pokémon is protected by its shell above half HP.", "ja": "ＨＰが半分になるとからがこわれて攻撃てきになる。"}
+{"sec": 10, "key": "This Pokémon's shroud can protect it from one hit.", "en": "This Pokémon's shroud can protect it from one hit.", "ja": "体をおおうばけのかわで１かい攻撃を防ぐことができる。"}
+{"sec": 10, "key": "Enters Complete Form when HP is half or less.", "en": "Enters Complete Form when HP is half or less.", "ja": "HPが半分以下になるとパーフェクトフォルムになる。"}
+{"sec": 10, "key": "Fetches the first failed Pokéball if no held item.", "en": "Fetches the first failed Pokéball if no held item.", "ja": "道具をもっていない場合１かいめになげてしっぱいしたモンスターボールを拾ってくる。"}
+{"sec": 10, "key": "Lowers Speed of adjacent Pokémon when hit.", "en": "Lowers Speed of adjacent Pokémon when hit.", "ja": "攻撃を受けるとわたげをばらまいて自分いがいのポケモン全ての素早さを下げる。"}
+{"sec": 10, "key": "Boosts the Pokémon's Defense stat upon entry.", "en": "Boosts the Pokémon's Defense stat upon entry.", "ja": "登場したときに防御が上がる。"}
+{"sec": 10, "key": "Boosts attack and may only use one move.", "en": "Boosts attack and may only use one move.", "ja": "攻撃は上がるがさいしょにえらんだわざしかだせなくなる。"}
+{"sec": 10, "key": "Boosts the Pokémon's Attack stat by 50% and may only use the first selected move.", "en": "Boosts the Pokémon's Attack stat by 50% and may only use the first selected move.", "ja": "攻撃が50％上がるが最初に選んだ技しか出せなくなる。"}
+{"sec": 10, "key": "Catches Pokémon with Surf and Dive, spits out when hit.", "en": "Catches Pokémon with Surf and Dive, spits out when hit.", "ja": "なみのりかダイビングをするとえものをくわえてくる。ダメージを受けるとえものをはきだして攻撃。"}
+{"sec": 10, "key": "Switches forms after every turn...", "en": "Switches forms after every turn...", "ja": "ターンの終わりにまんぷくもようはらぺこもようまんぷくもよう……とこうごに姿をかえる。"}
+{"sec": 10, "key": "Changes between Full Belly Mode and Hangry Mode at the end of each turn. Additionally, Aura Wheel becomes Electric and Dark respectively.", "en": "Changes between Full Belly Mode and Hangry Mode at the end of each turn. Additionally, Aura Wheel becomes Electric and Dark respectively.", "ja": "ターンの終わりにまんぷくもようとはらぺこもようが入れ替わる。オーラぐるまのタイプもでんきとあくに変わる。"}
+{"sec": 10, "key": "Can take a physical attack once...", "en": "Can take a physical attack once...", "ja": "物理攻撃は頭のこおりがみがわりになるが姿もかわる。こおりはあられが降るともとにもどる。"}
+{"sec": 10, "key": "Can take a physical attack once. This effect is restored once when it hails.", "en": "Can take a physical attack once. This effect is restored once when it hails.", "ja": "物理技を1回防ぐ。あられが降ると1度だけ復活する。"}
+{"sec": 10, "key": "Halves the damage taken from special moves.", "en": "Halves the damage taken from special moves.", "ja": "こおりのりんぷんにまもられて特殊攻撃で受けるダメージが半減する。"}
+{"sec": 10, "key": "Boosts the Pokémon's Attack stat upon entry.", "en": "Boosts the Pokémon's Attack stat upon entry.", "ja": "登場したときに攻撃が上がる。"}
+{"sec": 10, "key": "Changes the Pokémon's type to its used move.", "en": "Changes the Pokémon's type to its used move.", "ja": "自分がだすわざと同じタイプに変化する。"}
+{"sec": 10, "key": "The Pokémon changes type to match the terrain.", "en": "The Pokémon changes type to match the terrain.", "ja": "フィールドの状態にあわせてポケモンのタイプがかわる。"}
+{"sec": 10, "key": "Reflects stat-changing moves.", "en": "Reflects stat-changing moves.", "ja": "自分が受けた能力ダウンの効果だけをはねかえす。"}
+{"sec": 10, "key": "Effects of abilities are nullified or prevented.", "en": "Effects of abilities are nullified or prevented.", "ja": "かがく変化ガスのポケモンがばにいると全てのポケモンの特性の効果がきえたりはつどうしなくなる。"}
+{"sec": 10, "key": "Protects the user and allies from being poisoned.", "en": "Protects the user and allies from being poisoned.", "ja": "自分も味方もどくの状態いじょうをうけなくなる。"}
+{"sec": 10, "key": "When hit by a contact move...", "en": "When hit by a contact move...", "ja": "接触するわざを受けるとおたがい３ターンたつとひんしになる。交代すると効果はなくなる。"}
+{"sec": 10, "key": "When hit by a contact move, both this Pokémon and the attacker are placed on a 3 turn Perish count.", "en": "When hit by a contact move, both this Pokémon and the attacker are placed on a 3 turn Perish count.", "ja": "接触技を受けると自分と相手の両方が3ターン後に倒れる状態になる。"}
+{"sec": 10, "key": "Just being next to the Pokémon powers up moves...", "en": "Just being next to the Pokémon powers up moves...", "ja": "となりにいるだけでわざの威力が上がる。"}
+{"sec": 10, "key": "Ally Pokémon's attacks are boosted by 30%.", "en": "Ally Pokémon's attacks are boosted by 30%.", "ja": "味方の技の威力が30％上がる。"}
+{"sec": 10, "key": "Ignores redirection...", "en": "Ignores redirection...", "ja": "相手のわざをひき受ける特性やわざのえいきょうをむしできる。"}
+{"sec": 10, "key": "This Pokémon ignores the effects of abilities and moves that would cause its moves to be redirected.", "en": "This Pokémon ignores the effects of abilities and moves that would cause its moves to be redirected.", "ja": "技の対象を変える特性や技の効果を受けない。"}
+{"sec": 10, "key": "Boosts damage of and resists sound based moves.", "en": "Boosts damage of and resists sound based moves.", "ja": "おとわざの威力が上がる。受けたおとわざのダメージは半分になる。"}
+{"sec": 10, "key": "Sound-based moves deal 30% more damage and deal 50% less damage to this Pokémon.", "en": "Sound-based moves deal 30% more damage and deal 50% less damage to this Pokémon.", "ja": "音の技の威力が30％上がり自分が受ける音の技のダメージは半分になる。"}
+{"sec": 10, "key": "Ripens Berries and doubles their effect.", "en": "Ripens Berries and doubles their effect.", "ja": "じゅくせいさせることできのみの効果がばいになる。"}
+{"sec": 10, "key": "Creates a sandstorm when it's hit by an attack.", "en": "Creates a sandstorm when it's hit by an attack.", "ja": "攻撃を受けると砂嵐をおこす。"}
+{"sec": 10, "key": "Negates all screen effects...", "en": "Negates all screen effects...", "ja": "登場したときにてきと味方の光のかべリフレクターオーロラベールの効果がきえる。"}
+{"sec": 10, "key": "Negates screen effects such as Light Screen or Reflect for both sides of the field.", "en": "Negates screen effects such as Light Screen or Reflect for both sides of the field.", "ja": "光のかべやリフレクターなどの効果をお互いの場からなくす。"}
+{"sec": 10, "key": "Fire- and Water-type moves boost Speed drastically.", "en": "Fire- and Water-type moves boost Speed drastically.", "ja": "みずタイプほのおタイプのわざを受けると素早さがぐぐーんと上がる。"}
+{"sec": 10, "key": "Fire- and Water-type moves boost Speed drastically. Makes eggs hatch twice as fast.", "en": "Fire- and Water-type moves boost Speed drastically. Makes eggs hatch twice as fast.", "ja": "ほのおとみずタイプの技を受けると素早さがぐーんと上がる。タマゴがかえるのが2倍速くなる。"}
+{"sec": 10, "key": "Powers up ally Pokémon's Steel-type moves...", "en": "Powers up ally Pokémon's Steel-type moves...", "ja": "味方のはがねタイプの攻撃の威力が上がる。"}
+{"sec": 10, "key": "Steel-type moves are boosted by 50% when used by itself or allies, multiplicative.", "en": "Steel-type moves are boosted by 50% when used by itself or allies, multiplicative.", "ja": "自分と味方のはがねタイプの技の威力が50％上がる。重ねがけできる。"}
+{"sec": 10, "key": "Swaps Abilities when hit by a contact move.", "en": "Swaps Abilities when hit by a contact move.", "ja": "接触技を受けると相手と特性を入れ替える。"}
+{"sec": 10, "key": "Powers up moves that are super effective.", "en": "Powers up moves that are super effective.", "ja": "効果ばつぐんの攻撃で威力がさらに上がる。"}
+{"sec": 10, "key": "Super effective moves deal an additional 25% damage.", "en": "Super effective moves deal an additional 25% damage.", "ja": "効果はばつぐんの技のダメージが25％増える。"}
+{"sec": 10, "key": "Enables the Pokémon to move first occasionally...", "en": "Enables the Pokémon to move first occasionally...", "ja": "相手よりさきに行動できることがある。"}
+{"sec": 10, "key": "This Pokémon has a 30% chance of moving first within its priority bracket.", "en": "This Pokémon has a 30% chance of moving first within its priority bracket.", "ja": "同じ優先度のなかで30％の確率で先に行動できる。"}
+{"sec": 10, "key": "Physical contact bypasses Protect and similar.", "en": "Physical contact bypasses Protect and similar.", "ja": "相手に接触するわざならまもりの効果をむしして攻撃することができる。"}
+{"sec": 10, "key": "Removes ally stat changes on entry.", "en": "Removes ally stat changes on entry.", "ja": "場に出ると味方の能力変化を元に戻す。"}
+{"sec": 10, "key": "Powers up Electric-type moves...", "en": "Powers up Electric-type moves...", "ja": "でんきタイプのわざの威力が上がる。"}
+{"sec": 10, "key": "Increases its respective stat by 50% when an Electric-type move is used.", "en": "Increases its respective stat by 50% when an Electric-type move is used.", "ja": "でんきタイプの技を受けると対応する能力が50％上がる。"}
+{"sec": 10, "key": "Powers up Dragon-type moves...", "en": "Powers up Dragon-type moves...", "ja": "ドラゴンタイプのわざの威力が上がる。"}
+{"sec": 10, "key": "Increases its respective stat by 50% when a Dragon-type move is used.", "en": "Increases its respective stat by 50% when a Dragon-type move is used.", "ja": "ドラゴンタイプの技を受けると対応する能力が50％上がる。"}
+{"sec": 10, "key": "Boosts Attack when knocking out an opponent.", "en": "Boosts Attack when knocking out an opponent.", "ja": "相手を倒すとつめたいこえでいなないて攻撃が上がる。"}
+{"sec": 10, "key": "Boosts Sp. Atk when knocking out an opponent.", "en": "Boosts Sp. Atk when knocking out an opponent.", "ja": "相手を倒すとおそろしいこえでいなないて特攻が上がる。"}
+{"sec": 10, "key": "Combines abilities of fused Pokémon.", "en": "Combines abilities of fused Pokémon.", "ja": "バドレックスのきんちょうかんとブリザポスのしろのいななきのふたつの特性をあわせもつ。"}
+{"sec": 10, "key": "Defeating an opponent grants a power-up.", "en": "Defeating an opponent grants a power-up.", "ja": "相手を倒すとトレーナーとのきずながふかまりサトシゲッコウガにへんげする。みずしゅりけんが強くなる。"}
+{"sec": 10, "key": "Normal-type moves become Dark-type moves.", "en": "Normal-type moves become Dark-type moves.", "ja": "ノーマルタイプのわざがあくタイプになる。"}

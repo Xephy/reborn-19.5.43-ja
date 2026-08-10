@@ -1,0 +1,552 @@
+{"sec": "map:355", "key": "Rest Area", "en": "Rest Area", "ja": "休憩エリア"}
+{"sec": "map:355", "key": "Welcome to the Agate Circus! This way to Ametrine, Calcenon!", "en": "Welcome to the Agate Circus! This way to Ametrine, Calcenon!", "ja": "アゲートサーカスへようこそ!アメトリン、カルセノンはこちら!"}
+{"sec": "map:355", "key": "Agate Ferris Wheel\\n-- OUT OF COMMISSION --", "en": "Agate Ferris Wheel\\n-- OUT OF COMMISSION --", "ja": "アゲート大観覧車\\n――運休中――"}
+{"sec": "map:355", "key": "Sorry, pal. Ferris Wheel's shut off for renovations.", "en": "Sorry, pal. Ferris Wheel's shut off for renovations.", "ja": "悪いね、相棒。観覧車は改装中で止まってるんだ。"}
+{"sec": "map:355", "key": "\"Agate Circus Big Top-- Come see the greatest show on Earth!\"", "en": "\"Agate Circus Big Top-- Come see the greatest show on Earth!\"", "ja": "「アゲートサーカス・ビッグトップ――地上最高のショーを見に来て!」"}
+{"sec": "map:355", "key": "Ice cream! Get your ice cream!", "en": "Ice cream! Get your ice cream!", "ja": "アイスクリームだよ!アイスクリームはいらんかね!"}
+{"sec": "map:355", "key": "It's a vending machine.\\nWhich drink would you like? \\G", "en": "It's a vending machine.\\nWhich drink would you like? \\G", "ja": "自動販売機だ。\\nどの飲み物にしますか?\\G"}
+{"sec": "map:355", "key": "\\GA Fresh Water dropped down!", "en": "\\GA Fresh Water dropped down!", "ja": "\\Gおいしいみずが出てきた!"}
+{"sec": "map:355", "key": "\\GBonus! Another Fresh Water dropped down.", "en": "\\GBonus! Another Fresh Water dropped down.", "ja": "\\Gボーナス!もう一本、おいしいみずが出てきた。"}
+{"sec": "map:355", "key": "\\GYou have no room left in the bag.", "en": "\\GYou have no room left in the bag.", "ja": "\\Gバッグに空きがない。"}
+{"sec": "map:355", "key": "\\GYou don't have enough money.", "en": "\\GYou don't have enough money.", "ja": "\\Gお金が足りない。"}
+{"sec": "map:355", "key": "\\GA Soda Pop dropped down!", "en": "\\GA Soda Pop dropped down!", "ja": "\\Gサイコソーダが出てきた!"}
+{"sec": "map:355", "key": "\\GBonus! Another Soda Pop dropped down.", "en": "\\GBonus! Another Soda Pop dropped down.", "ja": "\\Gボーナス!もう一本、サイコソーダが出てきた。"}
+{"sec": "map:355", "key": "\\GA Lemonade dropped down!", "en": "\\GA Lemonade dropped down!", "ja": "\\Gミックスオレが出てきた!"}
+{"sec": "map:355", "key": "\\GBonus! Another Lemonade dropped down.", "en": "\\GBonus! Another Lemonade dropped down.", "ja": "\\Gボーナス!もう一本、ミックスオレが出てきた。"}
+{"sec": "map:355", "key": "\\GDecided not to buy a drink.", "en": "\\GDecided not to buy a drink.", "ja": "\\G飲み物を買うのはやめた。"}
+{"sec": "map:355", "key": "AGATE CIRCUS AMPHITHEATRE SHOWTIMES EVERY THREE HOURS -- OUT OF COMMISSION --", "en": "AGATE CIRCUS AMPHITHEATRE SHOWTIMES EVERY THREE HOURS -- OUT OF COMMISSION --", "ja": "アゲートサーカス円形劇場　上演は3時間ごと　――運休中――"}
+{"sec": "map:355", "key": "TEST YOUR STRENGTH ON THE HIGH STRIKER, WIN A FABULOUS PRIZE!", "en": "TEST YOUR STRENGTH ON THE HIGH STRIKER, WIN A FABULOUS PRIZE!", "ja": "ハイストライカーで力試し、豪華賞品をゲットしよう!"}
+{"sec": "map:355", "key": "Power up your Pokémon! Pledge your allegiance here!", "en": "Power up your Pokémon! Pledge your allegiance here! ", "ja": "ポケモンをパワーアップ!ここで忠誠を誓おう!"}
+{"sec": "map:355", "key": "What'll it be?!", "en": "What'll it be?!", "ja": "どれにする?!"}
+{"sec": "map:355", "key": "Water Pledge, eh? That'll run you three Blue Shard tokens!", "en": "Water Pledge, eh? That'll run you three Blue Shard tokens!", "ja": "みずのちかい、だね?あおいかけらトークン3個いただくよ!"}
+{"sec": "map:355", "key": "Shard tokens can be bought at the front counter! Don't be shy!", "en": "Shard tokens can be bought at the front counter!  Don't be shy!", "ja": "かけらトークンは正面カウンターで買えるよ!遠慮しないで!"}
+{"sec": "map:355", "key": "Thank you, thank you!", "en": "Thank you, thank you!", "ja": "ありがとう、ありがとう!"}
+{"sec": "map:355", "key": "Fire Pledge, eh? That'll run you three Red Shard tokens!", "en": "Fire Pledge, eh? That'll run you three Red Shard tokens!", "ja": "ほのおのちかい、だね?あかいかけらトークン3個いただくよ!"}
+{"sec": "map:355", "key": "Grass Pledge, eh? That'll run you three Green Shard tokens!", "en": "Grass Pledge, eh? That'll run you three Green Shard tokens!", "ja": "くさのちかい、だね?みどりのかけらトークン3個いただくよ!"}
+{"sec": "map:355", "key": "Your allegiance is appreciated!", "en": "Your allegiance is appreciated!", "ja": "忠誠に感謝するよ!"}
+{"sec": "map:355", "key": "A cancelled exhibit is scratched out on the sign--", "en": "A cancelled exhibit is scratched out on the sign--", "ja": "看板の展示案内に、中止になった演目が線で消されている――"}
+{"sec": "map:355", "key": "\"The Living Angel\"", "en": "\"The Living Angel\"", "ja": "「生ける天使」"}
+{"sec": "map:355", "key": "Balloons! What's a circus without balloons!? Get 'em here!", "en": "Balloons! What's a circus without balloons!? Get 'em here!", "ja": "風船だよ!風船のないサーカスなんてありえない!?さあ買った買った!"}
+{"sec": "map:355", "key": "Our balloons are 100% doctor-approved!", "en": "Our balloons are 100% doctor-approved!", "ja": "うちの風船は100%お医者さんのお墨付き!"}
+{"sec": "map:355", "key": "Cotton Candy for sale! Melt-in-your-mouth goodness for both you and your Pokémon! Don't be shy!", "en": "Cotton Candy for sale! Melt-in-your-mouth goodness for both you and your Pokémon! Don't be shy!", "ja": "綿あめ売ってるよ!あなたにもポケモンにも、口の中でとろける美味しさ!遠慮しないで!"}
+{"sec": "map:355", "key": "...Oh, the Ringmaster sent you?", "en": "...Oh, the Ringmaster sent you?", "ja": "……あら、団長の紹介?"}
+{"sec": "map:355", "key": "One Cotton Candy on the house, just for you!", "en": "One Cotton Candy on the house, just for you!", "ja": "あなたには特別に、綿あめ一つサービスするわ!"}
+{"sec": "map:355", "key": "...And for anyone else who asks!", "en": "...And for anyone else who asks!", "ja": "……って、聞かれた人みんなに言ってるけどね!"}
+{"sec": "map:355", "key": "Yummy-nummy in your tummy, why not give us all your money?!", "en": "Yummy-nummy in your tummy, why not give us all your money?!", "ja": "お腹の中でおいしくとろける、財布の中身も全部くれちゃう?!"}
+{"sec": "map:355", "key": "Need a quick treat?", "en": "Need a quick treat?", "ja": "ちょっとしたおやつ、いかが?"}
+{"sec": "map:355", "key": "And if you eat too much, our janitors will always have you covered!", "en": "And if you eat too much, our janitors will always have you covered!", "ja": "食べ過ぎちゃっても、うちの清掃員がいつでもフォローしてくれるから!"}
+{"sec": "map:355", "key": "Step right up and try our challenge for a chance to win your very own Agate Circus mascot Pokémon... Timburr!", "en": "Step right up and try our challenge for a chance to win your very own Agate Circus mascot Pokémon...  Timburr!", "ja": "さあ寄ってらっしゃい、挑戦すればアゲートサーカスのマスコットポケモン……ドッコラーが当たるチャンス!"}
+{"sec": "map:355", "key": "It costs one Purple Shard to play, are you ready!?", "en": "It costs one Purple Shard to play, are you ready!?", "ja": "プレイにはむらさきのかけら1個!準備はいい?!"}
+{"sec": "map:355", "key": "I'll take that Shard then!", "en": "I'll take that Shard then!", "ja": "それじゃ、そのかけらいただくね!"}
+{"sec": "map:355", "key": "Do you want to skip this tile puzzle?", "en": "Do you want to skip this tile puzzle?", "ja": "このタイルパズルを省略しますか?"}
+{"sec": "map:355", "key": "Excellent! All you have to do is arrange the tiles to form the proper picture. Rotate the tiles using the Action key.", "en": "Excellent! All you have to do is arrange the tiles to form the proper picture. Rotate the tiles using the Action key.", "ja": "いいね!タイルを並べ替えて正しい絵を作るだけだよ。アクションキーでタイルを回転させてね。"}
+{"sec": "map:355", "key": "Good luck!", "en": "Good luck!", "ja": "頑張って!"}
+{"sec": "map:355", "key": "Ding ding ding! We have a winner!", "en": "Ding ding ding! We have a winner!", "ja": "チンチンチン!勝者の登場だ!"}
+{"sec": "map:355", "key": "For your dashing performance!", "en": "For your dashing performance!", "ja": "見事なパフォーマンスへのご褒美!"}
+{"sec": "map:355", "key": "There was no room for Timburr...", "en": "There was no room for Timburr...", "ja": "ドッコラーの居場所がなかった……"}
+{"sec": "map:355", "key": "That's okay, come back any time! It only costs one Shard!", "en": "That's okay, come back any time! It only costs one Shard!", "ja": "大丈夫、いつでもまた来て!かけら1個だけだから!"}
+{"sec": "map:355", "key": "It seems you don't have it with you-- Shard tokens can be won at the front counter!", "en": "It seems you don't have it with you-- Shard tokens can be won at the front counter!", "ja": "持ってないみたいだね――かけらトークンは正面カウンターで手に入るよ!"}
+{"sec": "map:355", "key": "We await the brave!", "en": "We await the brave!", "ja": "勇者を待ってるよ!"}
+{"sec": "map:355", "key": "If you hit a 'NICE' on the High Striker, you get your money back!", "en": "If you hit a 'NICE' on the High Striker, you get your money back!", "ja": "ハイストライカーで「ナイス」が出たら、お金が返ってくるよ!"}
+{"sec": "map:355", "key": "If you hit 'POWERFUL', you win your very own Poké Doll!", "en": "If you hit 'POWERFUL', you win your very own Poké Doll!", "ja": "「パワフル」が出たら、ピッピにんぎょうがもらえる!"}
+{"sec": "map:355", "key": "And if you actually manage to ring the bell, you win a brand-new TM!", "en": "And if you actually manage to ring the bell, you win a brand-new TM!", "ja": "そして本当にベルを鳴らせたら、新品のわざマシンがもらえる!"}
+{"sec": "map:355", "key": "Test your strength! $350 a pop! Win fabulous prizes!", "en": "Test your strength! $350 a pop! Win fabulous prizes!", "ja": "力試し!1回$350!豪華賞品をゲットしよう!"}
+{"sec": "map:355", "key": "\\GPlay?", "en": "\\GPlay?", "ja": "\\Gプレイしますか?"}
+{"sec": "map:355", "key": "And... WHAMMO!", "en": "And... WHAMMO!", "ja": "そして……ドッカーン!"}
+{"sec": "map:355", "key": "YOUR POWER LEVEL IS...", "en": "YOUR POWER LEVEL IS...", "ja": "あなたのパワーレベルは……"}
+{"sec": "map:355", "key": "...OVER 9000!!!", "en": "...OVER 9000!!!", "ja": "……9000オーバー!!!"}
+{"sec": "map:355", "key": "OPERATOR: And another new bell... Sigh...", "en": "OPERATOR: And another new bell... Sigh...", "ja": "係員: また新しいベルか……はぁ……"}
+{"sec": "map:355", "key": "I mean... Ahem! Congratulations!", "en": "I mean... Ahem! Congratulations!", "ja": "いや、その……ゴホン!おめでとうございます!"}
+{"sec": "map:355", "key": "And for your prize... Ayy, you got Swagger, TM87!", "en": "And for your prize... Ayy, you got Swagger, TM87!", "ja": "そして賞品は……おっと、「いばる」、わざマシン87をゲット!"}
+{"sec": "map:355", "key": "...But you already won, it huh?", "en": "...But you already won, it huh?", "ja": "……でも、もう手に入れてたんだっけ?"}
+{"sec": "map:355", "key": "Take your money back and a Poké Doll, and save some for the rest of us, why don't you!", "en": "Take your money back and a Poké Doll, and save some for the rest of us, why don't you!", "ja": "お金とピッピにんぎょうを返すから、他の人の分も残しておいてよね!"}
+{"sec": "map:355", "key": "POWERFUL!", "en": "POWERFUL!", "ja": "パワフル!"}
+{"sec": "map:355", "key": "OPERATOR: Not bad! Congratulations!", "en": "OPERATOR: Not bad! Congratulations!", "ja": "係員: なかなかやるね!おめでとう!"}
+{"sec": "map:355", "key": "For your prize, one of Agate Circus' very own Clefairy Poké Dolls!!", "en": "For your prize, one of Agate Circus' very own Clefairy Poké Dolls!!", "ja": "賞品は、アゲートサーカス特製のピッピにんぎょう!!"}
+{"sec": "map:355", "key": "And here you go!", "en": "And here you go!", "ja": "はい、どうぞ!"}
+{"sec": "map:355", "key": "CLEFAIRY: Cleff--!?", "en": "CLEFAIRY: Cleff--!?", "ja": "ピッピ: ピィ――!?"}
+{"sec": "map:355", "key": "OPERATOR: W-wait a second, this isn't a doll... This is a real Clefairy! How'd it get mixed up in there...?", "en": "OPERATOR: W-wait a second, this isn't a doll... This is a real Clefairy! How'd it get mixed up in there...?", "ja": "係員: ちょ、ちょっと待って、これ人形じゃない……本物のピッピじゃないか!どうしてこんなのが紛れ込んだんだ……?"}
+{"sec": "map:355", "key": "...Well, uh, why don't you just take this, and we won't speak of this to my supervisor. Sound good?", "en": "...Well, uh, why don't you just take this, and we won't speak of this to my supervisor. Sound good?", "ja": "……まあ、その、これ持って行ってくれないか、上司には黙っておくからさ。いいだろ?"}
+{"sec": "map:355", "key": "NICE!", "en": "NICE!", "ja": "ナイス!"}
+{"sec": "map:355", "key": "OPERATOR: Could be worse. Here's your money back. Keep trying!", "en": "OPERATOR: Could be worse. Here's your money back. Keep trying!", "ja": "係員: まあまあだね。お金は返すよ。また挑戦して!"}
+{"sec": "map:355", "key": "OK!", "en": "OK!", "ja": "OK!"}
+{"sec": "map:355", "key": "WEAK!", "en": "WEAK!", "ja": "ウィーク!"}
+{"sec": "map:355", "key": "Not enough cash...", "en": "Not enough cash...", "ja": "現金が足りない……"}
+{"sec": "map:355", "key": "Welcome!", "en": "Welcome!", "ja": "いらっしゃい!"}
+{"sec": "map:355", "key": "I can reteach your Pokémon moves that they've forgotten for the price of one Heart Scale! Don't be shy, learn those new old tricks!", "en": "I can reteach your Pokémon moves that they've forgotten for the price of one Heart Scale! Don't be shy, learn those new old tricks!", "ja": "ハートのウロコ1枚で、ポケモンが忘れちゃった技を思い出させてあげるよ!遠慮しないで、懐かしい技を覚え直しちゃおう!"}
+{"sec": "map:355", "key": "Throw in two more Heart Scales and your Pokémon will remember moves on their own, guaranteed!", "en": "Throw in two more Heart Scales and your Pokémon will remember moves on their own, guaranteed!", "ja": "さらにハートのウロコを2枚足せば、ポケモンが自分から技を思い出すこと間違いなし!"}
+{"sec": "map:355", "key": "You've got the goods, so do you want the moves?!", "en": "You've got the goods, so do you want the moves?!", "ja": "材料はそろってるね、それで技はいるかい?!"}
+{"sec": "map:355", "key": "Which Pokémon will it be today?", "en": "Which Pokémon will it be today?", "ja": "今日はどのポケモンにする?"}
+{"sec": "map:355", "key": "Anytime!", "en": "Anytime!", "ja": "いつでもどうぞ!"}
+{"sec": "map:355", "key": "You're pullin' my leg with that Egg!", "en": "You're pullin' my leg with that Egg!", "ja": "そのタマゴで俺をからかってるのか!"}
+{"sec": "map:355", "key": "Whoops, I actually don't have anything to teach that Pokémon. Try something else?", "en": "Whoops, I actually don't have anything to teach that Pokémon. Try something else?", "ja": "おっと、そのポケモンに教えられるものは実はないんだ。他のを試すかい?"}
+{"sec": "map:355", "key": "That Pokémon already remembers its old tricks!", "en": "That Pokémon already remembers its old tricks!", "ja": "そのポケモンはもう古い技を覚えてるよ!"}
+{"sec": "map:355", "key": "What'll it be?", "en": "What'll it be?", "ja": "どうする?"}
+{"sec": "map:355", "key": "\\PN handed over one Heart Scale in exchange.", "en": "\\PN handed over one Heart Scale in exchange.", "ja": "\\PNは引き換えにハートのウロコを1枚渡した。"}
+{"sec": "map:355", "key": "Come again!", "en": "Come again!", "ja": "またおいで!"}
+{"sec": "map:355", "key": "\\PN handed over three Heart Scales in exchange.", "en": "\\PN handed over three Heart Scales in exchange.", "ja": "\\PNは引き換えにハートのウロコを3枚渡した。"}
+{"sec": "map:355", "key": "Anytime you want!", "en": "Anytime you want!", "ja": "いつでもどうぞ!"}
+{"sec": "map:355", "key": "Will you help me out?", "en": "Will you help me out?", "ja": "手伝ってくれる?"}
+{"sec": "map:355", "key": "MEZAME: Gather the Heart Scales quickly before the Queen's evil plans come to fruition, okay, little Trainer?!", "en": "MEZAME: Gather the Heart Scales quickly before the Queen's evil plans come to fruition, okay, little Trainer?!", "ja": "メザメ: 女王の邪悪な企みが実を結ぶ前に、急いでハートのウロコを集めてね、小さなトレーナーさん!"}
+{"sec": "map:355", "key": "???: Brave Trainer, just a moment of your time please!", "en": "???: Brave Trainer, just a moment of your time please!", "ja": "???: 勇敢なトレーナーさん、少しだけお時間をください!"}
+{"sec": "map:355", "key": "You may not recognize me in this form, but...", "en": "You may not recognize me in this form, but...", "ja": "この姿では気づかないかもしれないけれど……"}
+{"sec": "map:355", "key": "In truth, my real identity is--", "en": "In truth, my real identity is--", "ja": "実を言うと、あたしの本当の正体は――"}
+{"sec": "map:355", "key": "Mystical Vivid Mage Mezame, the Heart-Rending Magical Girl!", "en": "Mystical Vivid Mage Mezame, the Heart-Rending Magical Girl!", "ja": "ミスティカル・ヴィヴィッド・メイジ・メザメ、心を引き裂く魔法少女よ!"}
+{"sec": "map:355", "key": "In order to fight off the Queen of Seven Darknesses, I have to collect the Power of Heart!", "en": "In order to fight off the Queen of Seven Darknesses, I have to collect the Power of Heart!", "ja": "七つの闇の女王と戦うため、あたしはハートの力を集めなくちゃいけないの!"}
+{"sec": "map:355", "key": "You can help me, Trainer!", "en": "You can help me, Trainer!", "ja": "トレーナーさん、あなたなら力になれる!"}
+{"sec": "map:355", "key": "Bring me your Heart Scales to help me gather strength!", "en": "Bring me your Heart Scales to help me gather strength!", "ja": "力を集める手助けに、ハートのウロコを持ってきて!"}
+{"sec": "map:355", "key": "In return, I'll use my magical abilities to unlock the Hidden Powers of your Pokémon!", "en": "In return, I'll use my magical abilities to unlock the Hidden Powers of your Pokémon!", "ja": "お礼に、あたしの魔法の力であなたのポケモンの「めざめるパワー」を解き放ってあげる!"}
+{"sec": "map:355", "key": "My energy is too low to actually teach the move, but I can at least make it the type of the heart!", "en": "My energy is too low to actually teach the move, but I can at least make it the type of the heart!", "ja": "今のあたしはエネルギー不足で技そのものを教えることはできないけど、少なくともハートのタイプにすることはできるわ!"}
+{"sec": "map:355", "key": "With my help, they can be literally anything!", "en": "With my help, they can be literally anything!", "ja": "あたしの助けがあれば、文字通り何にでもなれるのよ!"}
+{"sec": "map:355", "key": "Gather the Heart Scales quickly before the Queen's evil plans come to fruition, okay, little Trainer?!", "en": "Gather the Heart Scales quickly before the Queen's evil plans come to fruition, okay, little Trainer?!", "ja": "女王の邪悪な企みが実を結ぶ前に、急いでハートのウロコを集めてね、小さなトレーナーさん!"}
+{"sec": "map:355", "key": "MEZAME: You're amazing; I knew I could count on you!", "en": "MEZAME: You're amazing; I knew I could count on you!", "ja": "メザメ: すごいわ!やっぱりあなたを頼りにして正解だった!"}
+{"sec": "map:355", "key": "Now, which Pokémon do you want me to unlock the Hidden Power of heart from?", "en": "Now, which Pokémon do you want me to unlock the Hidden Power of heart from?", "ja": "それじゃ、どのポケモンの「めざめるパワー・ハート」を解き放ってほしい?"}
+{"sec": "map:355", "key": "MEZAME: Wait, did you change your mind?!", "en": "MEZAME: Wait, did you change your mind?!", "ja": "メザメ: あら、気が変わったの?!"}
+{"sec": "map:355", "key": "We can't let the Queen of Seven Darknesses find out about this!", "en": "We can't let the Queen of Seven Darknesses find out about this!", "ja": "このこと、七つの闇の女王に知られるわけにはいかないもの!"}
+{"sec": "map:355", "key": "MEZAME: Oh, I'm sorry, little egg! But I can't change your Hidden Power until you hatch!", "en": "MEZAME: Oh, I'm sorry, little egg! But I can't change your Hidden Power until you hatch!", "ja": "メザメ: あら、ごめんね、小さなタマゴさん!でもふ化するまでは「めざめるパワー」を変えられないの!"}
+{"sec": "map:355", "key": "Isn't there something else I can do for you?", "en": "Isn't there something else I can do for you?", "ja": "他に何かしてあげられることはある?"}
+{"sec": "map:355", "key": "MEZAME: Okay!", "en": "MEZAME: Okay!", "ja": "メザメ: オッケー!"}
+{"sec": "map:355", "key": "MEZAME: Crystal Heart: Shining Resonance Refrain-- Re: Unlimited EX~!", "en": "MEZAME: Crystal Heart: Shining Resonance Refrain-- Re: Unlimited EX~!", "ja": "メザメ: クリスタル・ハート：シャイニング・レゾナンス・リフレイン――Re：アンリミテッドEX～!"}
+{"sec": "map:355", "key": "Kajingo!", "en": "Kajingo!", "ja": "カジンゴ!"}
+{"sec": "map:355", "key": "Your Pokémon has unlocked a new Hidden Power from the depths of its Heart!", "en": "Your Pokémon has unlocked a new Hidden Power from the depths of its Heart!", "ja": "あなたのポケモンは、ハートの奥底から新たな「めざめるパワー」を解き放った!"}
+{"sec": "map:355", "key": "And I'll take that Heart Scale!", "en": "And I'll take that Heart Scale!", "ja": "それじゃ、そのハートのウロコはいただくわね!"}
+{"sec": "map:355", "key": "The Eternal Lights thank you for your contribution in the fight against the Queen of Seven Darknesses!", "en": "The Eternal Lights thank you for your contribution in the fight against the Queen of Seven Darknesses!", "ja": "永遠の光たちが、七つの闇の女王との戦いへのあなたの貢献に感謝しているわ!"}
+{"sec": "map:355", "key": "MEZAME: Isn't there something else I can do for you?", "en": "MEZAME: Isn't there something else I can do for you?", "ja": "メザメ: 他に何かしてあげられることはある?"}
+{"sec": "map:355", "key": "MEZAME: I implore you, think what will happen to the Eternal Lights if you refuse!", "en": "MEZAME: I implore you, think what will happen to the Eternal Lights if you refuse!", "ja": "メザメ: お願い、あなたが断ったら永遠の光たちがどうなるか、考えてみて!"}
+{"sec": "map:355", "key": "Step right up and I'll teach your Pokémon all kinds of brand-new tricks!", "en": "Step right up and I'll teach your Pokémon all kinds of brand-new tricks!", "ja": "さあおいで、あなたのポケモンに真新しい技をいろいろ教えてあげる!"}
+{"sec": "map:355", "key": "What would you like to see?", "en": "What would you like to see?", "ja": "どれが見たい?"}
+{"sec": "map:355", "key": "What an Uproar! That'll be three Blue Shards!", "en": "What an Uproar! That'll be three Blue Shards!", "ja": "さわぐとはね!あおいかけら3個いただくよ!"}
+{"sec": "map:355", "key": "Shards can be exchanged at the forward counter! No need to be stingy!", "en": "Shards can be exchanged at the forward counter!  No need to be stingy!", "ja": "かけらは正面カウンターで交換できるよ!ケチケチしないで!"}
+{"sec": "map:355", "key": "That's one move closer to a knock-out machine!", "en": "That's one move closer to a knock-out machine!", "ja": "それでノックアウトマシンに一歩近づくね!"}
+{"sec": "map:355", "key": "Show the world your booming pipes! Only five Green Shards!", "en": "Show the world your booming pipes! Only five Green Shards!", "ja": "そのとどろく喉を世界に見せつけろ!みどりのかけらたった5個!"}
+{"sec": "map:355", "key": "Rage around the field! Four Purple Shards!", "en": "Rage around the field! Four Purple Shards!", "ja": "フィールドを暴れまわれ!むらさきのかけら4個!"}
+{"sec": "map:355", "key": "Hit them low and hit them hard! Six Red Shards!", "en": "Hit them low and hit them hard! Six Red Shards!", "ja": "低く強くたたき込め!あかいかけら6個!"}
+{"sec": "map:355", "key": "Shards can be won at the front counter! No need to be stingy!", "en": "Shards can be won at the front counter! No need to be stingy!", "ja": "かけらは正面カウンターで手に入るよ!ケチケチしないで!"}
+{"sec": "map:355", "key": "Who else wants to power-pack their Pokémon?!", "en": "Who else wants to power-pack their Pokémon?!", "ja": "他にポケモンをパワーアップさせたい人は?!"}
+{"sec": "map:355", "key": "Luxray stares through the cage looking bored.", "en": "Luxray stares through the cage looking bored.", "ja": "レントラーがおりの中から、退屈そうにこちらを見つめている。"}
+{"sec": "map:355", "key": "Now sweetums, I keep telling you it's best not to count on these games.", "en": "Now sweetums, I keep telling you it's best not to count on these games. ", "ja": "ねえあなた、こういうゲームは当てにしない方がいいっていつも言ってるでしょ。"}
+{"sec": "map:355", "key": "They're all rigged, you know.", "en": "They're all rigged, you know.", "ja": "全部イカサマなんだから。"}
+{"sec": "map:355", "key": "Howdy do, stranger. You keep on keepin' the good on.", "en": "Howdy do, stranger. You keep on keepin' the good on. ", "ja": "よう、見ない顔だな。まあ、うまくやってきな。"}
+{"sec": "map:355", "key": "The Agate Circus uses Shards as a game currency. In fact, the entire fair is built on them!", "en": "The Agate Circus uses Shards as a game currency.  In fact, the entire fair is built on them!", "ja": "アゲートサーカスではかけらをゲーム通貨として使ってるんだ。実は、フェア全体がそれで成り立ってるのさ!"}
+{"sec": "map:355", "key": "Care for a little history?", "en": "Care for a little history?", "ja": "ちょっとした歴史話でも聞くかい?"}
+{"sec": "map:355", "key": "Years ago, the Ringmaster's father found a hidden crystal valley.", "en": "Years ago, the Ringmaster's father found a hidden crystal valley.", "ja": "何年も前、団長のお父さんが隠されたクリスタルの谷を見つけたんだ。"}
+{"sec": "map:355", "key": "He dug up the crystals and sold some of them to start up the Circus, a lifelong dream of his.", "en": "He dug up the crystals and sold some of them to start up the Circus, a lifelong dream of his. ", "ja": "クリスタルを掘り出して、一部を売ってサーカスを立ち上げた。彼の生涯の夢だったんだよ。"}
+{"sec": "map:355", "key": "Then, rather than paying to make golden token coins like most carnivals, he just decided to use the rest of the crystals as currency!", "en": "Then, rather than paying to make golden token coins like most carnivals, he just decided to use the rest of the crystals as currency!", "ja": "それで、たいていのカーニバルみたいに金貨トークンを作る金を払う代わりに、残りのクリスタルをそのまま通貨として使うことにしたのさ!"}
+{"sec": "map:355", "key": "Strangely, we've seen a lot of our Shard stock disappearing.", "en": "Strangely, we've seen a lot of our Shard stock disappearing. ", "ja": "不思議なことに、かけらの在庫がどんどん減ってきてるんだ。"}
+{"sec": "map:355", "key": "I hear people have been melting them down for the chemicals inside? Weird!", "en": "I hear people have been melting them down for the chemicals inside? Weird!", "ja": "中の化学物質のために溶かしてる連中がいるって聞くけど?おかしな話だよな!"}
+{"sec": "map:355", "key": "Come to think of it, I wonder who the Circus' founder sold all those crystals to in the first place?", "en": "Come to think of it, I wonder who the Circus' founder sold all those crystals to in the first place?", "ja": "そういえば、サーカスの創始者は最初、あのクリスタルを一体誰に売ったんだろうな?"}
+{"sec": "map:355", "key": "Oops! This isn't so much a history lesson as me thinking out loud.", "en": "Oops! This isn't so much a history lesson as me thinking out loud. ", "ja": "おっと!歴史の授業っていうより、ただの独り言だったな。"}
+{"sec": "map:355", "key": "Enjoy the Circus!", "en": "Enjoy the Circus!", "ja": "サーカスを楽しんでいってくれ!"}
+{"sec": "map:355", "key": "^~Ferris Wheel\\n <~ Big Top \\n v~ Rest Area", "en": "^~Ferris Wheel\\n <~ Big Top \\n v~ Rest Area", "ja": "^~観覧車\\n <~ ビッグトップ \\n v~ 休憩エリア"}
+{"sec": "map:355", "key": "^~Amphitheatre\\n >~ Rest Area", "en": "^~Amphitheatre\\n >~ Rest Area", "ja": "^~円形劇場\\n >~ 休憩エリア"}
+{"sec": "map:355", "key": "^~Big Top\\n <~ Amphitheatre \\n >~ Ferris Wheel", "en": "^~Big Top\\n <~ Amphitheatre \\n >~ Ferris Wheel", "ja": "^~ビッグトップ\\n <~ 円形劇場 \\n >~ 観覧車"}
+{"sec": "map:355", "key": "I'm not actually on break, so don't tell anyone!", "en": "I'm not actually on break, so don't tell anyone!", "ja": "実は休憩中じゃないんだ、誰にも言うなよ!"}
+{"sec": "map:355", "key": "Awwh, do I have to go back to work now?", "en": "Awwh, do I have to go back to work now?", "ja": "バート: あーあ、もう仕事に戻んなきゃダメ?"}
+{"sec": "map:355", "key": "I'll stay just a little longer.", "en": "I'll stay just a little longer.", "ja": "もうちょっとだけここにいよう。"}
+{"sec": "map:355", "key": "Trivia! What's red and white and wants to battle you?", "en": "Trivia! What's red and white and wants to battle you?", "ja": "クイズ!赤くて白くて、あなたと戦いたがってるものなーんだ?"}
+{"sec": "map:355", "key": "Forget red and white, I'm gonna be blue and black after that.", "en": "Forget red and white, I'm gonna be blue and black after that.", "ja": "ポスティ: 赤とか白とか言ってる場合じゃない、俺、この後青あざだらけになりそうだ。"}
+{"sec": "map:355", "key": "Or was it white and gold?", "en": "Or was it white and gold?", "ja": "それとも白と金だったっけ?"}
+{"sec": "map:355", "key": "Wanna see why these Pokémon have to be caged?", "en": "Wanna see why these Pokémon have to be caged?", "ja": "なんでこのポケモンたちがおりに入れられてるか、見てみたい?"}
+{"sec": "map:355", "key": "And the bars slam shut!", "en": "And the bars slam shut!", "ja": "レオナルド: そして鉄格子がバタンと閉まる!"}
+{"sec": "map:355", "key": "Legend has it, a local lion tamer keeps these beasts in check.", "en": "Legend has it, a local lion tamer keeps these beasts in check.", "ja": "伝説によれば、地元の猛獣使いがこの獣たちを抑えてるらしいぜ。"}
+{"sec": "map:355", "key": "Smile! Even when I beat you into the ground!", "en": "Smile! Even when I beat you into the ground!", "ja": "笑顔で!たとえ俺がお前をボロボロにしてもな!"}
+{"sec": "map:355", "key": "Smile since you beat me into the ground!", "en": "Smile since you beat me into the ground!", "ja": "アーサー: お前が俺をボロボロにしたから、笑うしかないぜ!"}
+{"sec": "map:355", "key": "Circus is the place for smiles! If you are not smiling, you are doing it wrong!", "en": "Circus is the place for smiles! If you are not smiling, you are doing it wrong!", "ja": "サーカスは笑顔の場所さ!笑ってなきゃ、やり方が間違ってるってことだぜ!"}
+{"sec": "map:355", "key": "This is the fun police, and you're under arrest... for not having enough FUN!!!", "en": "This is the fun police, and you're under arrest... for not having enough FUN!!!", "ja": "こちら「楽しさ警察」だ、お前を逮捕する……楽しさが足りないという罪でな!!!"}
+{"sec": "map:355", "key": "That's no fun...", "en": "That's no fun...", "ja": "ビンゴ: それ、全然楽しくないんだけど……"}
+{"sec": "map:355", "key": "We'll have a FUN exchange counter soon too, somewhere in the shop area!", "en": "We'll have a FUN exchange counter soon too, somewhere in the shop area!", "ja": "そのうち「楽しさ」交換カウンターも、ショップエリアのどこかにできる予定さ!"}
+{"sec": "map:355", "key": "You there! How about a battle? It'll entertain the crowds, guaranteed!", "en": "You there! How about a battle? It'll entertain the crowds, guaranteed!", "ja": "そこの君!バトルはどうだ?観客が絶対に盛り上がるぜ!"}
+{"sec": "map:355", "key": "It would've been more entertaining if you'd let me win.", "en": "It would've been more entertaining if you'd let me win.", "ja": "ドローリー: 俺を勝たせてくれてたら、もっと盛り上がっただろうにな。"}
+{"sec": "map:355", "key": "Well, can anyone beat this new Trainer? Don't be shy, guests, step right up and challenge them in droves!", "en": "Well, can anyone beat this new Trainer? Don't be shy, guests, step right up and challenge them in droves!", "ja": "さて、この新顔のトレーナーに勝てる者はいるか?遠慮するな、お客さんたち、どんどん挑戦しに来い!"}
+{"sec": "map:355", "key": "TERRA: An' here it be, deh famous Agate CIRCUS!", "en": "TERRA: An' here it be, deh famous Agate CIRCUS! ", "ja": "テラ: んで、これがかの有名なアゲートサーカスってわけ!"}
+{"sec": "map:355", "key": "Iz no sleepy people here.", "en": "Iz no sleepy people here. ", "ja": "ここには眠い人いないっしょ。"}
+{"sec": "map:355", "key": "CAIN: So I guess you're one of the clowns then?", "en": "CAIN: So I guess you're one of the clowns then?", "ja": "カイン: ってことは、テラもピエロの一人ってこと?"}
+{"sec": "map:355", "key": "TERRA: WRONGO!!", "en": "TERRA: WRONGO!! ", "ja": "テラ: ちがーう!!"}
+{"sec": "map:355", "key": "I AM NOT A CLOWN!!!", "en": "I AM NOT A CLOWN!!!", "ja": "あたしはピエロじゃない!!!"}
+{"sec": "map:355", "key": "I AM THE ENTIRE CIRCUS!!!!!!!", "en": "I AM THE ENTIRE CIRCUS!!!!!!!", "ja": "あたしはサーカスそのものなの!!!!!!!"}
+{"sec": "map:355", "key": "but mostly the lion tamer", "en": "but mostly the lion tamer", "ja": "まあ主に猛獣使いだけど"}
+{"sec": "map:355", "key": "whip whip nyaa ;)", "en": "whip whip nyaa ;)", "ja": "ぴしっぴしっ にゃん；）"}
+{"sec": "map:355", "key": "CAIN: What?", "en": "CAIN: What?", "ja": "カイン: は?"}
+{"sec": "map:355", "key": "TERRA: you know, like, nya?", "en": "TERRA: you know, like, nya?", "ja": "テラ: ほら、なんつーか、にゃん?的な?"}
+{"sec": "map:355", "key": "i also tame ciel", "en": "i also tame ciel", "ja": "シエルも手なずけてるし"}
+{"sec": "map:355", "key": "if you know what i mean", "en": "if you know what i mean", "ja": "意味わかるっしょ"}
+{"sec": "map:355", "key": ";)", "en": ";)", "ja": "；）"}
+{"sec": "map:355", "key": "TERRA: Anyweigh, yo friendlypeeps prolly fell 'round this joint somewhere.", "en": "TERRA: Anyweigh, yo friendlypeeps prolly fell 'round this joint somewhere.", "ja": "テラ: つーわけで、アンタの友達っぽい奴ら、たぶんこの辺に落っこちてるっしょ。"}
+{"sec": "map:355", "key": "I'm gonna go hit the showerzzz.", "en": "I'm gonna go hit the showerzzz. ", "ja": "あたしはシャワー浴びに行くわ～。"}
+{"sec": "map:355", "key": "pce.", "en": "pce.", "ja": "ばいばい。"}
+{"sec": "map:355", "key": "cha cha reallll smooooooth", "en": "cha cha reallll smooooooth", "ja": "チャチャ、まじスムーーーーズ"}
+{"sec": "map:355", "key": "CAIN: ...So that happened.", "en": "CAIN: ...So that happened.", "ja": "カイン: ……ってことがあったわけだ。"}
+{"sec": "map:355", "key": "CAIN: Do you think she's okay?", "en": "CAIN: Do you think she's okay? ", "ja": "カイン: あの子、大丈夫だと思う?"}
+{"sec": "map:355", "key": "Aya, I mean.", "en": "Aya, I mean.", "ja": "アヤのことだけど。"}
+{"sec": "map:355", "key": "After being knocked over a mountain wall by a giant mallet...", "en": "After being knocked over a mountain wall by a giant mallet...", "ja": "巨大なハンマーで山の壁越しに吹っ飛ばされた後じゃなあ……"}
+{"sec": "map:355", "key": "...", "en": "...", "ja": "…………"}
+{"sec": "map:355", "key": "Nevermind, I answered my own question.", "en": "Nevermind, I answered my own question.", "ja": "いや、いいや、自分で答え出ちゃったわ。"}
+{"sec": "map:355", "key": "Let's split up and find her, 'kay?", "en": "Let's split up and find her, 'kay?", "ja": "手分けして彼女を探そう、いい?"}
+{"sec": "map:355", "key": "Ciel is doing a show!", "en": "Ciel is doing a show! ", "ja": "シエルがショーをやってるんだって!"}
+{"sec": "map:355", "key": "I gotta get in and get a seat!", "en": "I gotta get in and get a seat!", "ja": "中に入って席取らなきゃ!"}
+{"sec": "map:355", "key": "Are there even any seats left?", "en": "Are there even any seats left?", "ja": "まだ席なんて残ってるのかな?"}
+{"sec": "map:355", "key": "Hey, c'mon, let me in!", "en": "Hey, c'mon, let me in!", "ja": "おいってば、中に入れてくれよ!"}
+{"sec": "map:355", "key": "Even if the line is this long, it's still much shorter than usual!", "en": "Even if the line is this long, it's still much shorter than usual!", "ja": "この列がこんなに長くても、いつもよりはずっと短いんだ!"}
+{"sec": "map:355", "key": "I guess there are good sides to Agate City being shut off!", "en": "I guess there are good sides to Agate City being shut off!", "ja": "アゲートシティが閉鎖されたのにも、いいことはあるってわけね!"}
+{"sec": "map:355", "key": "Ciel's shows are always so cool!", "en": "Ciel's shows are always so cool!", "ja": "シエルのショーはいつだってかっこいいんだから!"}
+{"sec": "map:355", "key": "She goes like, fwafaafafa, and then whooshwhooshwhoosh, and then aaaaaaaah...", "en": "She goes like, fwafaafafa, and then whooshwhooshwhoosh, and then aaaaaaaah...", "ja": "あの子ってば、ふわあああって感じで、それからしゅわしゅわしゅわーって、それであああああって……"}
+{"sec": "map:355", "key": "Just like that.", "en": "Just like that.", "ja": "そんな感じ。"}
+{"sec": "map:355", "key": "I hope we make it before it ends!", "en": "I hope we make it before it ends!", "ja": "終わる前に間に合うといいけど!"}
+{"sec": "map:355", "key": "I don't know if it's even worth standing in a line like that.", "en": "I don't know if it's even worth standing in a line like that. ", "ja": "あんな列に並ぶ価値があるのかどうかも分かんないな。"}
+{"sec": "map:355", "key": "I've been eating cotton candy for four days straight...", "en": "I've been eating cotton candy for four days straight...", "ja": "もう4日連続で綿あめ食べ続けてる……"}
+{"sec": "map:355", "key": "Are we there yet?", "en": "Are we there yet? ", "ja": "まだ着かないの?"}
+{"sec": "map:355", "key": "Now?", "en": "Now?", "ja": "今?"}
+{"sec": "map:355", "key": "How much longer?", "en": "How much longer?", "ja": "あとどれくらい?"}
+{"sec": "map:355", "key": "I got a super rare kind of ice cream from the vendor!", "en": "I got a super rare kind of ice cream from the vendor! ", "ja": "屋台ですっごい珍しい種類のアイスクリームをもらったの!"}
+{"sec": "map:355", "key": "I'm gonna treasure it forever!", "en": "I'm gonna treasure it forever!", "ja": "一生大事にするんだ!"}
+{"sec": "map:355", "key": "Oh no, it's melting!", "en": "Oh no, it's melting!", "ja": "あーん、溶けちゃう!"}
+{"sec": "map:355", "key": "Circuses are fun and all, but I've been here way too long.", "en": "Circuses are fun and all, but I've been here way too long.", "ja": "サーカスは楽しいけど、もう長居しすぎだよ。"}
+{"sec": "map:355", "key": "My home is in Agate. I happened to be here when they closed off the city, so now I can't go back.", "en": "My home is in Agate. I happened to be here when they closed off the city, so now I can't go back.", "ja": "家はアゲートにあるんだ。街が閉鎖された時たまたまここにいて、それで戻れなくなっちゃった。"}
+{"sec": "map:355", "key": "This place is more than a little boring after sitting around for so long. Ugggh!", "en": "This place is more than a little boring after sitting around for so long. Ugggh!", "ja": "こんなに長く居座ってると、さすがに退屈になってくるよ。うーん!"}
+{"sec": "map:355", "key": "B-b-but I w-wanted a Poké Doll...", "en": "B-b-but I w-wanted a Poké Doll...", "ja": "で、でも、ピッピにんぎょうが……欲しかったの……"}
+{"sec": "map:355", "key": "Give her a Poké Doll?", "en": "Give her a Poké Doll?", "ja": "ピッピにんぎょうをあげますか?"}
+{"sec": "map:355", "key": "\\PN handed over the Poké Doll.", "en": "\\PN handed over the Poké Doll.", "ja": "\\PNはピッピにんぎょうを渡した。"}
+{"sec": "map:355", "key": "GIRL: Huh? Is... is this for me?", "en": "GIRL: Huh? Is... is this for me?", "ja": "女の子: え?こ……これ、あたしに?"}
+{"sec": "map:355", "key": "Really?!", "en": "Really?!", "ja": "本当に!?"}
+{"sec": "map:355", "key": "Yayayayayayayayay!!!", "en": "Yayayayayayayayay!!!", "ja": "わーいわーいわーいわーい!!!"}
+{"sec": "map:355", "key": "Thank you, thank you! I'll keep it forever!!!", "en": "Thank you, thank you! I'll keep it forever!!!", "ja": "ありがとう、ありがとう!一生大事にする!!!"}
+{"sec": "map:355", "key": "GRANDPA: Well look at that. Seems there are good people in this place yet.", "en": "GRANDPA: Well look at that. Seems there are good people in this place yet.", "ja": "おじいさん: おやおや。この場所にもまだ、いい人がいるもんだねえ。"}
+{"sec": "map:355", "key": "Thank you kindly, stranger. Looks like you done made a little girl's day.", "en": "Thank you kindly, stranger. Looks like you done made a little girl's day.", "ja": "ありがとうよ、見知らぬ人よ。小さな女の子を幸せにしてくれたみたいだな。"}
+{"sec": "map:355", "key": "Let me give you somethin' for your generosity.", "en": "Let me give you somethin' for your generosity.", "ja": "その優しさに、何か贈らせてもらおう。"}
+{"sec": "map:355", "key": "Picked this up around here a bit earlier, and don't got much use for it myself.", "en": "Picked this up around here a bit earlier, and don't got much use for it myself. ", "ja": "ちょっと前にこの辺で拾ったんだが、わし自身はあまり使い道がなくてね。"}
+{"sec": "map:355", "key": "Maybe it'll do you right.", "en": "Maybe it'll do you right.", "ja": "あんたの役に立つかもしれん。"}
+{"sec": "map:355", "key": "\\PN obtained Field Effect Read-Out 06!", "en": "\\PN obtained Field Effect Read-Out 06!", "ja": "\\PNはフィールド効果解説06を手に入れた!"}
+{"sec": "map:355", "key": "Info on Big Top Arena now available!", "en": "Info on Big Top Arena now available!", "ja": "ビッグトップアリーナの情報が閲覧可能になった!"}
+{"sec": "map:355", "key": "Thank you! I'm gonna take good care of Cleferra for ever and ever!", "en": "Thank you! I'm gonna take good care of Cleferra for ever and ever!", "ja": "ありがとう!クレフェラのこと、ずっとずっと大事にするね!"}
+{"sec": "map:355", "key": "A stack of job applications for the Agate Circus sits on the counter.", "en": "A stack of job applications for the Agate Circus sits on the counter.", "ja": "カウンターにアゲートサーカスの応募用紙の束が置かれている。"}
+{"sec": "map:355", "key": "Take one?", "en": "Take one?", "ja": "一枚もらいますか?"}
+{"sec": "map:355", "key": "Brah, I can't get a score on this High Striker at all!", "en": "Brah, I can't get a score on this High Striker at all! ", "ja": "なあ、このハイストライカー、全然スコア出せねえよ!"}
+{"sec": "map:355", "key": "Stupid thing must be rigged!", "en": "Stupid thing must be rigged!", "ja": "こんなの絶対イカサマに決まってる!"}
+{"sec": "map:355", "key": "Agate City open yet?", "en": "Agate City open yet? ", "ja": "アゲートシティ、もう開いた?"}
+{"sec": "map:355", "key": "I'm tired of being here, but there's no other way back to Reborn City.", "en": "I'm tired of being here, but there's no other way back to Reborn City.", "ja": "ここに居るのもう飽きたけど、リボーンシティに戻る他の方法がないんだよね。"}
+{"sec": "map:355", "key": "I suppose I should count myself lucky that the Circus stays open overnight to accommodate any stray guests.", "en": "I suppose I should count myself lucky that the Circus stays open overnight to accommodate any stray guests.", "ja": "行き場のないお客のためにサーカスが夜通し開いててくれるだけ、まだ運がいい方だと思うことにするよ。"}
+{"sec": "map:355", "key": "But damned if I'm not sick of ice cream and cotton candy all the time.", "en": "But damned if I'm not sick of ice cream and cotton candy all the time.", "ja": "でも正直、アイスクリームと綿あめばっかりでもう飽き飽きなんだよなあ。"}
+{"sec": "map:355", "key": "Sorry there, the Ferris Wheel's still being renovated.", "en": "Sorry there, the Ferris Wheel's still being renovated.", "ja": "悪いね、観覧車はまだ改装中なんだ。"}
+{"sec": "map:355", "key": "That Terra girl did quite a number on it.", "en": "That Terra girl did quite a number on it. ", "ja": "あのテラって子が、しっかり派手にやらかしてくれてね。"}
+{"sec": "map:355", "key": "Again.", "en": "Again.", "ja": "また、だよ。"}
+{"sec": "map:355", "key": "Frankly I'm not sure what she expected when she put Alt-Exeggutors in every cart of the ride...", "en": "Frankly I'm not sure what she expected when she put Alt-Exeggutors in every cart of the ride...", "ja": "正直、乗り物の全部のカートに別バージョンのナッシーを乗せた時、何を考えてたのかさっぱりわからないけどな……"}
+{"sec": "map:355", "key": "But I should have learned to stop asking such questions after the Wailord incident.", "en": "But I should have learned to stop asking such questions after the Wailord incident. ", "ja": "だがホエルオー事件の後、そういう質問はもうやめておくべきだって学んだはずなんだがな。"}
+{"sec": "map:355", "key": "Ah well. Say, they were cleaning the area up and someone found this in the junk.", "en": "Ah well. Say, they were cleaning the area up and someone found this in the junk. ", "ja": "まあいいさ。そういえば、掃除してた連中がガラクタの中からこれを見つけてね。"}
+{"sec": "map:355", "key": "Asked me to dispose of it, and I don't right know what it is, but it looks like it could be useful still. Why don't you take it?", "en": "Asked me to dispose of it, and I don't right know what it is, but it looks like it could be useful still. Why don't you take it?", "ja": "処分してくれって頼まれたんだが、何なのかはよく分からない。だがまだ使えそうに見えるな。持ってったらどうだ?"}
+{"sec": "map:355", "key": "We have got to get that woman under control...", "en": "We have got to get that woman under control...", "ja": "あの女、なんとかしないとまずいよなあ……"}
+{"sec": "map:355", "key": "We've prohibited her from being around the Ferris Wheel ever since the time we opened and found the entire structure perfectly intact, but upside down.", "en": "We've prohibited her from being around the Ferris Wheel ever since the time we opened and found the entire structure perfectly intact, but upside down. ", "ja": "開けてみたら観覧車全体が完全に無傷のまま、丸ごと逆さまになってた時から、彼女を観覧車に近づけるのを禁止してるんだ。"}
+{"sec": "map:355", "key": "In retrospect, she might've just taken that as a challenge... Curses.", "en": "In retrospect, she might've just taken that as a challenge... Curses.", "ja": "今思えば、あれをただの挑戦状として受け取っただけかもな……くそ。"}
+{"sec": "map:355", "key": "Just what's so fascinating about carnivals to kids anyway?", "en": "Just what's so fascinating about carnivals to kids anyway?", "ja": "そもそも子供にとって、カーニバルの何がそんなに魅力的なんだろうな?"}
+{"sec": "map:355", "key": "All the clowns are scary...", "en": "All the clowns are scary...", "ja": "ピエロが全員怖いよぉ……"}
+{"sec": "map:355", "key": "But I wannaaaaaa go on it!!!", "en": "But I wannaaaaaa go on it!!!", "ja": "でも乗りたいのおおお!!!"}
+{"sec": "map:355", "key": "So like, does that mean we can go home soon?", "en": "So like, does that mean we can go home soon?", "ja": "ってことは、もうすぐ家に帰れるってこと?"}
+{"sec": "map:355", "key": "I just want to go back to my home in Onyx.", "en": "I just want to go back to my home in Onyx.", "ja": "オニキスの家に帰りたいだけなんだけどな。"}
+{"sec": "map:355", "key": "A weekend getaway was never supposed to turn into this.", "en": "A weekend getaway was never supposed to turn into this.", "ja": "週末の小旅行が、まさかこんなことになるなんて。"}
+{"sec": "map:355", "key": "I was a friend of the Ringmaster's family long before she took over.", "en": "I was a friend of the Ringmaster's family long before she took over. ", "ja": "彼女が跡を継ぐずっと前から、団長のご家族とは友人だったんだ。"}
+{"sec": "map:355", "key": "Her father was really quite the entrepreneur.", "en": "Her father was really quite the entrepreneur.", "ja": "彼女のお父さんは本当にすごい起業家だったよ。"}
+{"sec": "map:355", "key": "I'm glad to see her stepping up.", "en": "I'm glad to see her stepping up.", "ja": "彼女が頑張ってる姿を見られてうれしいね。"}
+{"sec": "map:355", "key": "If it weren't for the dorky outfit, she'd be pretty cute.", "en": "If it weren't for the dorky outfit, she'd be pretty cute.", "ja": "あのダサい衣装さえなければ、彼女なかなか可愛いんだけどな。"}
+{"sec": "map:355", "key": "RINGMASTER: And, um, as a result, we just need to assure everyone that, everything is probably okay!", "en": "RINGMASTER: And, um, as a result, we just need to assure everyone that, everything is probably okay!", "ja": "団長: それで、えっと、その結果として、皆さんには、多分すべて大丈夫ですって安心していただければ!"}
+{"sec": "map:355", "key": "We hope.", "en": "We hope.", "ja": "と、願ってます。"}
+{"sec": "map:355", "key": "Oh, um, hi!", "en": "Oh, um, hi! ", "ja": "あ、えっと、どうも!"}
+{"sec": "map:355", "key": "Can I help you?", "en": "Can I help you?", "ja": "何かご用ですか?"}
+{"sec": "map:355", "key": "Oh! You're here for the girl!?", "en": "Oh! You're here for the girl!? ", "ja": "あ!あの子のことですね!?"}
+{"sec": "map:355", "key": "That's great!", "en": "That's great!", "ja": "よかった!"}
+{"sec": "map:355", "key": "See, everyone, everything is under control!", "en": "See, everyone, everything is under control!", "ja": "ほら、皆さん、すべて制御下にありますから!"}
+{"sec": "map:355", "key": "It was super weird, this girl just sailed over the ride and landed plop in the middle of the Circus.", "en": "It was super weird, this girl just sailed over the ride and landed plop in the middle of the Circus.", "ja": "すっごく変な話なんですけど、この子、乗り物の上を飛び越えて、サーカスのど真ん中にぼてっと着地したんです。"}
+{"sec": "map:355", "key": "And then a moment later, everyone who looked up saw a boy fly straight across the Circus.", "en": "And then a moment later, everyone who looked up saw a boy fly straight across the Circus. ", "ja": "それでその少し後、上を見上げた人みんなが、男の子がサーカスを一直線に飛んでいくのを見たんです。"}
+{"sec": "map:355", "key": "We don't quite know where he landed yet.", "en": "We don't quite know where he landed yet.", "ja": "どこに着地したのかは、まだよく分かっていません。"}
+{"sec": "map:355", "key": "Don't worry though!", "en": "Don't worry though! ", "ja": "でもご心配なく!"}
+{"sec": "map:355", "key": "The girl survived!", "en": "The girl survived! ", "ja": "あの子は無事だったんです!"}
+{"sec": "map:355", "key": "Somehow.", "en": "Somehow. ", "ja": "どうにかして。"}
+{"sec": "map:355", "key": "I don't really know how, to be honest.", "en": "I don't really know how, to be honest.", "ja": "正直、どうやってなのかは私にもよく分かりませんが。"}
+{"sec": "map:355", "key": "And we'll find the boy too.", "en": "And we'll find the boy too.", "ja": "男の子の方も、必ず見つけます。"}
+{"sec": "map:355", "key": "...Huh?", "en": "...Huh? ", "ja": "……え?"}
+{"sec": "map:355", "key": "You mean it was Terra who--", "en": "You mean it was Terra who--", "ja": "それって、テラが――"}
+{"sec": "map:355", "key": "Well, that explains everything.", "en": "Well, that explains everything. ", "ja": "なるほど、それで全部説明つきますね。"}
+{"sec": "map:355", "key": "Now we really have to find them or it'll look bad for the Circus.", "en": "Now we really have to find them or it'll look bad for the Circus.", "ja": "これは本当に見つけ出さないと、サーカスの評判に関わりますね。"}
+{"sec": "map:355", "key": "Oh! Sorry, I didn't properly introduce myself.", "en": "Oh! Sorry, I didn't properly introduce myself. ", "ja": "あ!すみません、ちゃんと自己紹介してませんでしたね。"}
+{"sec": "map:355", "key": "Hi! Ringmaster Alistasia of the Agate service, at your circus--!", "en": "Hi! Ringmaster Alistasia of the Agate service, at your circus--!", "ja": "どうも!アゲート・サービスの団長アリスタシア、あなたのサーカスへ――!"}
+{"sec": "map:355", "key": "I mean-- service-- shoot.", "en": "I mean-- service-- shoot.", "ja": "じゃなくて――サービスへ――もう。"}
+{"sec": "map:355", "key": "At the Agate Circus, we bring you the Big Top top-tier entertainment!", "en": "At the Agate Circus, we bring you the Big Top top-tier entertainment! ", "ja": "アゲートサーカスでは、ビッグトップ最高峰のエンターテインメントをお届けします!"}
+{"sec": "map:355", "key": "It's an experience that can't be bought, guaranteed to make your draw jop!", "en": "It's an experience that can't be bought, guaranteed to make your draw jop!", "ja": "お金では買えない体験、あなたの顎をジョップさせること間違いなし!"}
+{"sec": "map:355", "key": "I mean-- jaw drop!", "en": "I mean-- jaw drop! ", "ja": "じゃなくて――顎が外れるほど驚くこと間違いなし!"}
+{"sec": "map:355", "key": "Dammit!", "en": "Dammit!", "ja": "もう!"}
+{"sec": "map:355", "key": "Sorry, I'm still new to this.", "en": "Sorry, I'm still new to this.", "ja": "すみません、まだこの仕事に慣れてなくて。"}
+{"sec": "map:355", "key": "My father was the original Ringmaster, but he just--", "en": "My father was the original Ringmaster, but he just--", "ja": "私の父が初代の団長だったんですけど、その、父は――"}
+{"sec": "map:355", "key": "...Well, he's not around. Nevermind that!", "en": "...Well, he's not around. Nevermind that!", "ja": "……まあ、今はもういないんです。それはさておき!"}
+{"sec": "map:355", "key": "To be honest, we're kind of having a rough time.", "en": "To be honest, we're kind of having a rough time. ", "ja": "正直に言うと、今はちょっと大変な時期でして。"}
+{"sec": "map:355", "key": "Agate City had to be closed because everyone who passed through would fall asleep and not wake up.", "en": "Agate City had to be closed because everyone who passed through would fall asleep and not wake up.", "ja": "アゲートシティは、通りかかった人がみんな眠りについて目を覚まさなくなったせいで、閉鎖せざるを得なかったんです。"}
+{"sec": "map:355", "key": "And as such, we can't get any business from Agate or Reborn City.", "en": "And as such, we can't get any business from Agate or Reborn City. ", "ja": "そのせいで、アゲートからもリボーンシティからも、お客さんが来なくなってしまって。"}
+{"sec": "map:355", "key": "It's been tough to keep going.", "en": "It's been tough to keep going. ", "ja": "続けていくのが大変で。"}
+{"sec": "map:355", "key": "And now Terra's causing problems again!", "en": "And now Terra's causing problems again!", "ja": "それでまた、テラが問題を起こしてるんです!"}
+{"sec": "map:355", "key": "But we will definitely all get through this, okay?!", "en": "But we will definitely all get through this, okay?!", "ja": "でも私たち、絶対にこれを乗り越えますから、ね?!"}
+{"sec": "map:355", "key": "Just um, why don't you all go help yourself to a free cotton candy?!", "en": "Just um, why don't you all go help yourself to a free cotton candy?!", "ja": "えっと、その、皆さん無料の綿あめでもどうぞ!"}
+{"sec": "map:355", "key": "Tell them I sent you!", "en": "Tell them I sent you!", "ja": "私が寄越したって言ってくださいね!"}
+{"sec": "map:355", "key": "Anyway, hey, I had Samson carry the girl into the back room so she could be treated.", "en": "Anyway, hey, I had Samson carry the girl into the back room so she could be treated.", "ja": "とにかく、あの、サムソンにあの子を裏の部屋に運ばせて、手当てしてもらってます。"}
+{"sec": "map:355", "key": "I have to finish up here, so go ask him to take you to her.", "en": "I have to finish up here, so go ask him to take you to her.", "ja": "私はここの用が終わってないので、彼に頼んで彼女のところに連れて行ってもらってください。"}
+{"sec": "map:355", "key": "He usually hangs out around the High Striker.", "en": "He usually hangs out around the High Striker.", "ja": "彼は普段、ハイストライカーの辺りにいますよ。"}
+{"sec": "map:355", "key": "RINGMASTER: Everyone just hang in there, and everything will be all right!", "en": "RINGMASTER: Everyone just hang in there, and everything will be all right!", "ja": "団長: 皆さん、ちょっとだけ持ちこたえてください、すべてうまくいきますから!"}
+{"sec": "map:355", "key": "We can smooth this over though;", "en": "We can smooth this over though;", "ja": "これで丸く収められると思うんですが。"}
+{"sec": "map:355", "key": "How about a free cotton candy AND a balloon?", "en": "How about a free cotton candy AND a balloon?", "ja": "無料の綿あめと、風船もいかがです?"}
+{"sec": "map:355", "key": "I had Samson carry the girl into the back room so she could be treated.", "en": "I had Samson carry the girl into the back room so she could be treated. ", "ja": "サムソンにあの子を裏の部屋に運ばせて、手当てしてもらってます。"}
+{"sec": "map:355", "key": "I have to finish up here, so go ask him to take you to her, okay?", "en": "I have to finish up here, so go ask him to take you to her, okay?", "ja": "私はここの用が終わってないので、彼に頼んで彼女のところに連れて行ってもらってください、いいですか?"}
+{"sec": "map:355", "key": "Some boy just went sailing overhead, so the Ringmaster is trying to calm everyone down.", "en": "Some boy just went sailing overhead, so the Ringmaster is trying to calm everyone down.", "ja": "男の子が頭上を飛んでいったばかりで、団長が皆を落ち着かせようとしている。"}
+{"sec": "map:355", "key": "This place is nuckin' futs.", "en": "This place is nuckin' futs.", "ja": "この場所、マジでいかれてる。"}
+{"sec": "map:355", "key": "???: High Striker up to go!", "en": "???: High Striker up to go! ", "ja": "???: ハイストライカー、準備万端!"}
+{"sec": "map:355", "key": "Win prizes!", "en": "Win prizes! ", "ja": "賞品ゲットのチャンス!"}
+{"sec": "map:355", "key": "Or something.", "en": "Or something.", "ja": "みたいな感じで。"}
+{"sec": "map:355", "key": "Lemme demonstrate!", "en": "Lemme demonstrate!", "ja": "お手本見せてやるよ!"}
+{"sec": "map:355", "key": "???: ...HAH!", "en": "???: ...HAH!", "ja": "???: ……ハッ!"}
+{"sec": "map:355", "key": "STRIKER: And... WHAMMO!", "en": "STRIKER: And... WHAMMO!", "ja": "ストライカー: そして……ドッカーン!"}
+{"sec": "map:355", "key": "???: Not bad, huh?", "en": "???: Not bad, huh?", "ja": "???: 悪くねえだろ?"}
+{"sec": "map:355", "key": "OPERATOR: Great.... Time for another new bell.", "en": "OPERATOR: Great.... Time for another new bell.", "ja": "係員: またかよ……新しいベルの時間だ。"}
+{"sec": "map:355", "key": "???: Name's Samson.", "en": "???: Name's Samson. ", "ja": "???: 名前はサムソン。"}
+{"sec": "map:355", "key": "Circus Strongman.", "en": "Circus Strongman. ", "ja": "サーカスの怪力男だ。"}
+{"sec": "map:355", "key": "SAMSON: My Pokémon do most of the work for the main shows, but as you can see, I ain't a lightweight.", "en": "SAMSON: My Pokémon do most of the work for the main shows, but as you can see, I ain't a lightweight.", "ja": "サムソン: メインのショーはほとんどうちのポケモンがやってるが、見ての通り、俺だって軽量級じゃねえぜ。"}
+{"sec": "map:355", "key": "Anyway, you look like you want something.", "en": "Anyway, you look like you want something. ", "ja": "とにかく、何か用がありそうだな。"}
+{"sec": "map:355", "key": "What's up?", "en": "What's up?", "ja": "どうした?"}
+{"sec": "map:355", "key": "Oh yeah, that girl what just crash landed in front of literally everyone?", "en": "Oh yeah, that girl what just crash landed in front of literally everyone?", "ja": "ああ、あの、みんなの目の前に墜落してきたあの子のことか?"}
+{"sec": "map:355", "key": "I carried her into our back room just a minute ago.", "en": "I carried her into our back room just a minute ago.", "ja": "ついさっき、裏の部屋に運んでおいたぜ。"}
+{"sec": "map:355", "key": "I'll take you there.", "en": "I'll take you there. ", "ja": "案内してやるよ。"}
+{"sec": "map:355", "key": "Meet me at the front of the Big Top.", "en": "Meet me at the front of the Big Top.", "ja": "ビッグトップの正面で会おう。"}
+{"sec": "map:355", "key": "DARM: \\PN! Check it OUT!", "en": "DARM: \\PN! Check it OUT!", "ja": "ダーム: \\PN!見てくれよ!"}
+{"sec": "map:355", "key": "Thanks to you, I got this sweet gig up here!", "en": "Thanks to you, I got this sweet gig up here!", "ja": "お前のおかげで、こんな最高の仕事にありついたぜ!"}
+{"sec": "map:355", "key": "I get to the be the stand-in strongman!", "en": "I get to the be the stand-in strongman!", "ja": "怪力男の代役ができるんだ!"}
+{"sec": "map:355", "key": "All I gotta do is smash this bell around and make people wanna try it!", "en": "All I gotta do is smash this bell around and make people wanna try it!", "ja": "このベルをぶったたいて、みんなにやりたいって思わせりゃいいだけさ!"}
+{"sec": "map:355", "key": "And I only gotta do it whenever Strongman Samson is busy with Gym Battles or other stuff!", "en": "And I only gotta do it whenever Strongman Samson is busy with Gym Battles or other stuff!", "ja": "それも、怪力男サムソンがジムバトルとかで忙しい時だけでいいんだぜ!"}
+{"sec": "map:355", "key": "This is totally easy!", "en": "This is totally easy!", "ja": "マジで楽勝だぜ!"}
+{"sec": "map:355", "key": "I mean, between you and me, it's totally rigged...", "en": "I mean, between you and me, it's totally rigged...", "ja": "つっても、ここだけの話、完全にイカサマだけどな……"}
+{"sec": "map:355", "key": "But if you have enough POWER you should be able to overcome any odds!", "en": "But if you have enough POWER you should be able to overcome any odds!", "ja": "だが十分なパワーがありゃ、どんな分の悪さも乗り越えられるはずだぜ!"}
+{"sec": "map:355", "key": "You wanna give a try?!", "en": "You wanna give a try?!", "ja": "試してみるか?!"}
+{"sec": "map:355", "key": "SAMSON: Ladies first.", "en": "SAMSON: Ladies first.", "ja": "サムソン: レディーファーストだ。"}
+{"sec": "map:355", "key": "SAMSON: After you.", "en": "SAMSON: After you.", "ja": "サムソン: お先にどうぞ。"}
+{"sec": "map:355", "key": "SAMSON: Crowd's annoying.", "en": "SAMSON: Crowd's annoying.", "ja": "サムソン: 人だかりがうるせえな。"}
+{"sec": "map:355", "key": "SAMSON: Hey, MOVE IT!", "en": "SAMSON: Hey, MOVE IT!", "ja": "サムソン: おい、どけ!"}
+{"sec": "map:355", "key": "Why not pick up a boost to your boosts?!", "en": "Why not pick up a boost to your boosts?!", "ja": "「上乗せの上乗せ」、手に入れてみない?!"}
+{"sec": "map:355", "key": "No better place than here to have a life-changing experience!", "en": "No better place than here to have a life-changing experience!", "ja": "人生変わる体験するなら、ここ以上の場所はないぜ!"}
+{"sec": "map:355", "key": "At 32 bonus EVs a pop and 100% stray EV-proofing satisfaction guaranteed, you've no need to shy away from these babies!", "en": "At 32 bonus EVs a pop and 100% stray EV-proofing satisfaction guaranteed, you've no need to shy away from these babies!", "ja": "1回で努力値ボーナス32、余分な努力値100%防止も保証つき、遠慮なんかいらないぜ!"}
+{"sec": "map:355", "key": "With business between booming and literally unable to leave, Agate Circus is looking to hire!", "en": "With business between booming and literally unable to leave, Agate Circus is looking to hire!", "ja": "商売は絶好調、文字通り立ち去れないってのもあって、アゲートサーカスは人材募集中!"}
+{"sec": "map:355", "key": "Are you interested in fun, festivities, and fantastical fantasies galore?", "en": "Are you interested in fun, festivities, and fantastical fantasies galore? ", "ja": "楽しさ、お祭り騒ぎ、幻想的なファンタジー満載に興味あるか?"}
+{"sec": "map:355", "key": "Take an application today!", "en": "Take an application today!", "ja": "今すぐ応募用紙を持っていけ!"}
+{"sec": "map:355", "key": "Hey howdy ho! Wanna life-changing experience?!", "en": "Hey howdy ho! Wanna life-changing experience?!", "ja": "よお、こんちわ!人生変わる体験、してみたい?!"}
+{"sec": "map:355", "key": "Well we're fresh out of those! But we can give you a name-changing one!", "en": "Well we're fresh out of those! But we can give you a name-changing one! ", "ja": "あいにくそれは今切らしててね!でも「名前が変わる」体験ならできるぜ!"}
+{"sec": "map:355", "key": "Would you like to change a Pokémon's nickname?", "en": "Would you like to change a Pokémon's nickname?", "ja": "ポケモンのニックネームを変えますか?"}
+{"sec": "map:355", "key": "Which Pokémon will it be?!", "en": "Which Pokémon will it be?!", "ja": "どのポケモンにする?!"}
+{"sec": "map:355", "key": "If you ever got some change, come around!", "en": "If you ever got some change, come around!", "ja": "何か変えたくなったら、また来なよ!"}
+{"sec": "map:355", "key": "Let us call him... Egg! Cuz that's what it is, ya dolt!", "en": "Let us call him... Egg! Cuz that's what it is, ya dolt!", "ja": "名前は……タマゴにしよう!だってタマゴなんだから、間抜けめ!"}
+{"sec": "map:355", "key": "Yes yes yes! Let's change it! Forever!", "en": "Yes yes yes! Let's change it! Forever!", "ja": "よしよしよし!変えよう!永遠にな!"}
+{"sec": "map:355", "key": "Presto changerino! Your new name is...", "en": "Presto changerino! Your new name is...", "ja": "プレスト・チェンジェリーノ!新しい名前は……"}
+{"sec": "map:355", "key": "\\v[3]! That's it! Done and sold!", "en": "\\v[3]! That's it! Done and sold!", "ja": "\\v[3]!これで決まり!商談成立だ!"}
+{"sec": "map:355", "key": "\\v[5]! That's it! Done and sold!", "en": "\\v[5]! That's it! Done and sold!", "ja": "\\v[5]!これで決まり!商談成立だ!"}
+{"sec": "map:355", "key": "Presto-Poncho-Pineco Change-o! Allow us to change the very essence of your Pokémon-- Ability Capsules are sold here!", "en": "Presto-Poncho-Pineco Change-o! Allow us to change the very essence of your Pokémon-- Ability Capsules are sold here!", "ja": "プレスト・ポンチョ・ビタップ・チェンジョー!あなたのポケモンの本質そのものを変えるお手伝いを――とくせいカプセル販売中!"}
+{"sec": "map:355", "key": "The next one goes for 1 Red Shard!", "en": "The next one goes for 1 Red Shard!", "ja": "次のは、あかいかけら1個!"}
+{"sec": "map:355", "key": "The next one goes for \\v[180] Red Shards!", "en": "The next one goes for \\v[180] Red Shards!", "ja": "次のは、あかいかけら\\v[180]個!"}
+{"sec": "map:355", "key": "The next one goes for 1 Purple Shard!", "en": "The next one goes for 1 Purple Shard!", "ja": "次のは、むらさきのかけら1個!"}
+{"sec": "map:355", "key": "The next one goes for \\v[180] Purple Shards!", "en": "The next one goes for \\v[180] Purple Shards!", "ja": "次のは、むらさきのかけら\\v[180]個!"}
+{"sec": "map:355", "key": "The next one goes for 1 Blue Shard!", "en": "The next one goes for 1 Blue Shard!", "ja": "次のは、あおいかけら1個!"}
+{"sec": "map:355", "key": "The next one goes for \\v[180] Blue Shards!", "en": "The next one goes for \\v[180] Blue Shards!", "ja": "次のは、あおいかけら\\v[180]個!"}
+{"sec": "map:355", "key": "The next one goes for 1 Green Shard!", "en": "The next one goes for 1 Green Shard!", "ja": "次のは、みどりのかけら1個!"}
+{"sec": "map:355", "key": "The next one goes for \\v[180] Green Shards!", "en": "The next one goes for \\v[180] Green Shards!", "ja": "次のは、みどりのかけら\\v[180]個!"}
+{"sec": "map:355", "key": "Don't be shy! Potential is your middle name, and ours!", "en": "Don't be shy! Potential is your middle name, and ours!", "ja": "遠慮すんな!可能性はお前のミドルネーム、俺たちのもな!"}
+{"sec": "map:355", "key": "We have a deal!", "en": "We have a deal!", "ja": "商談成立だ!"}
+{"sec": "map:355", "key": "Keep 'em coming, friends and countrymen, there's plenty more where that came from!", "en": "Keep 'em coming, friends and countrymen, there's plenty more where that came from!", "ja": "どんどん来いよ、友よ同胞よ、まだまだあるんだからな!"}
+{"sec": "map:355", "key": "Gotta get the Shards if you want the stuff! Shards can be won from the front!", "en": "Gotta get the Shards if you want the stuff! Shards can be won from the front!", "ja": "品物が欲しけりゃかけらが必要だ!かけらは正面で手に入るぜ!"}
+{"sec": "map:355", "key": "No need? No problem!", "en": "No need? No problem! ", "ja": "用がない?なら問題なし!"}
+{"sec": "map:355", "key": "Who's next? Don't be shy!", "en": "Who's next? Don't be shy!", "ja": "次は誰だ?遠慮すんなよ!"}
+{"sec": "map:355", "key": "General goods and trinkets here!", "en": "General goods and trinkets here!", "ja": "雑貨や小物はこちら!"}
+{"sec": "map:355", "key": "Step right up and try our challenge for a chance to win a special HM, Dive!", "en": "Step right up and try our challenge for a chance to win a special HM, Dive!", "ja": "さあ寄ってらっしゃい、挑戦して特別な技マシン「ダイビング」をゲットするチャンス!"}
+{"sec": "map:355", "key": "It costs one Blue Shard to play. Are you ready!?", "en": "It costs one Blue Shard to play. Are you ready!?", "ja": "プレイにはあおいかけら1個!準備はいい?!"}
+{"sec": "map:355", "key": "Excellent! All you have to do is arrange the tiles to form the proper picture. Rotate the tiles using the Ready Item key, and move them with the Action key.", "en": "Excellent! All you have to do is arrange the tiles to form the proper picture. Rotate the tiles using the Ready Item key, and move them with the Action key.", "ja": "いいね!タイルを並べ替えて正しい絵を作るだけだよ。「アイテム準備」キーでタイルを回転、アクションキーで動かしてね。"}
+{"sec": "map:355", "key": "Hey there, Trainer! We've got a special challenge for you!", "en": "Hey there, Trainer! We've got a special challenge for you!", "ja": "よう、トレーナー!特別な挑戦を用意してるぜ!"}
+{"sec": "map:355", "key": "You can win a very rare Pokémon, on a chance to play for only three Green Shards!", "en": "You can win a very rare Pokémon, on a chance to play for only three Green Shards!", "ja": "すっごくレアなポケモンが当たるチャンス、プレイはみどりのかけらたった3個!"}
+{"sec": "map:355", "key": "Wanna give a go?!", "en": "Wanna give a go?!", "ja": "やってみる?!"}
+{"sec": "map:355", "key": "Great! Now all you gotta do is shift around the tiles to put the image together. Simple, right?", "en": "Great! Now all you gotta do is shift around the tiles to put the image together. Simple, right?", "ja": "よし!あとはタイルを動かして絵を組み立てるだけだ。簡単だろ?"}
+{"sec": "map:355", "key": "You've got it!", "en": "You've got it!", "ja": "よし、いいぞ!"}
+{"sec": "map:355", "key": "And your prize!", "en": "And your prize!", "ja": "そして賞品だ!"}
+{"sec": "map:355", "key": "We hope to see you in sometime!", "en": "We hope to see you in sometime!", "ja": "またいつか会えるといいな!"}
+{"sec": "map:355", "key": "It seems you don't have it with you-- Shard tokens can be bought at the front counter! Help yourself!", "en": "It seems you don't have it with you-- Shard tokens can be bought at the front counter! Help yourself!", "ja": "持ってないみたいだね――かけらトークンは正面カウンターで買えるよ!遠慮なくどうぞ!"}
+{"sec": "map:355", "key": "Anybody? Come try a brand-new challenge! You haven't faced this one before, we guarantee!", "en": "Anybody? Come try a brand-new challenge! You haven't faced this one before, we guarantee!", "ja": "誰かいないか?真新しい挑戦を試してみろ!これは絶対、今まで経験したことないやつだぜ!"}
+{"sec": "map:355", "key": "DONPHAN: DOOOON!!!", "en": "DONPHAN: DOOOON!!!", "ja": "ドンファン: ドオオオン!!!"}
+{"sec": "map:355", "key": "WRONGPHAN: WRROOOOONG!!!", "en": "WRONGPHAN: WRROOOOONG!!!", "ja": "ロングファン: ロオオオング!!!"}
+{"sec": "map:355", "key": "Step right up and try our challenge for a chance to win a rare fossil prize!", "en": "Step right up and try our challenge for a chance to win a rare fossil prize!", "ja": "さあ寄ってらっしゃい、挑戦してレアな化石の賞品をゲットするチャンス!"}
+{"sec": "map:355", "key": "It costs one Red Shard to play. Are you ready!?", "en": "It costs one Red Shard to play. Are you ready!?", "ja": "プレイにはあかいかけら1個!準備はいい?!"}
+{"sec": "map:355", "key": "Excellent! All you have to do is arrange the tiles to form the proper picture. Rotate the tiles using Shift, and move them with the selection key.", "en": "Excellent! All you have to do is arrange the tiles to form the proper picture. Rotate the tiles using Shift, and move them with the selection key.", "ja": "いいね!タイルを並べ替えて正しい絵を作るだけだよ。Shiftキーでタイルを回転、選択キーで動かしてね。"}
+{"sec": "map:355", "key": "It seems you don't have it with you-- Shard tokens can be won at the front, near the Big Top!", "en": "It seems you don't have it with you-- Shard tokens can be won at the front, near the Big Top! ", "ja": "持ってないみたいだね――かけらトークンはビッグトップ近くの正面で手に入るよ!"}
+{"sec": "map:355", "key": "Chance your luck, win a prize!", "en": "Chance your luck, win a prize!", "ja": "運試し、賞品ゲット!"}
+{"sec": "map:355", "key": "It costs one Green Shard to play. Are you ready!?", "en": "It costs one Green Shard to play. Are you ready!?", "ja": "プレイにはみどりのかけら1個!準備はいい?!"}
+{"sec": "map:355", "key": "It seems you don't have it with you-- Shard tokens can be won at the front!", "en": "It seems you don't have it with you-- Shard tokens can be won at the front!", "ja": "持ってないみたいだね――かけらトークンは正面で手に入るよ!"}
+{"sec": "map:355", "key": "Check it out, win a prize!", "en": "Check it out, win a prize!", "ja": "見てって、賞品ゲット!"}
+{"sec": "map:355", "key": "CIEL: Please forgive me.", "en": "CIEL: Please forgive me.", "ja": "シエル: どうかお許しください。"}
+{"sec": "map:355", "key": "I'm afraid I'm not fit to perform at the moment.", "en": "I'm afraid I'm not fit to perform at the moment.", "ja": "今は演じるのにふさわしい状態ではございませんの。"}
+{"sec": "map:355", "key": "Not on a stage,", "en": "Not on a stage,", "ja": "舞台の上でも、"}
+{"sec": "map:355", "key": "Nor face to face,", "en": "Nor face to face,", "ja": "面と向かってでも、"}
+{"sec": "map:355", "key": "Nor anywhere else.", "en": "Nor anywhere else.", "ja": "それ以外のどこでも。"}
+{"sec": "map:355", "key": "I may act like a star, but it is just that, after all.", "en": "I may act like a star, but it is just that, after all.", "ja": "スターのように振る舞ってはおりますが、所詮はそれだけのことですわ。"}
+{"sec": "map:355", "key": "No matter how clean the makeup is, I know I'm just a country girl in over her head.", "en": "No matter how clean the makeup is, I know I'm just a country girl in over her head.", "ja": "どれほど化粧をきれいに施しても、自分がただの、身の丈に合わないことをしている田舎娘だとわかっておりますの。"}
+{"sec": "map:355", "key": "Often literally.", "en": "Often literally.", "ja": "しばしば文字通りに。"}
+{"sec": "map:355", "key": "I grew up in a farm town where the most exciting thing was watching the clouds pass.", "en": "I grew up in a farm town where the most exciting thing was watching the clouds pass.", "ja": "わたくしは、雲が流れるのを眺めるのが一番の楽しみという農村で育ちましたの。"}
+{"sec": "map:355", "key": "I didn't have much in the way of friends, nor avenues with which to meet them.", "en": "I didn't have much in the way of friends, nor avenues with which to meet them.", "ja": "友達と呼べるほどの相手もいなければ、出会う機会もほとんどありませんでしたわ。"}
+{"sec": "map:355", "key": "Just a family that was fractured in exactly as mundane a way as anyone else's.", "en": "Just a family that was fractured in exactly as mundane a way as anyone else's.", "ja": "あるのはただ、誰にでもあるようなありふれた形で壊れた家族だけ。"}
+{"sec": "map:355", "key": "It was somewhere between drab and vexatious.", "en": "It was somewhere between drab and vexatious.", "ja": "単調さと苛立たしさの間のような日々でしたわ。"}
+{"sec": "map:355", "key": "One day, a traveling circus came to the nearby city.", "en": "One day, a traveling circus came to the nearby city.", "ja": "ある日、近くの町に旅回りのサーカスがやって来ましたの。"}
+{"sec": "map:355", "key": "My cousin and I snuck away to meet it, and just--", "en": "My cousin and I snuck away to meet it, and just--", "ja": "いとことこっそり抜け出して見に行って、それで――"}
+{"sec": "map:355", "key": "The lights--", "en": "The lights--", "ja": "あの光――"}
+{"sec": "map:355", "key": "The sounds--", "en": "The sounds--", "ja": "あの音――"}
+{"sec": "map:355", "key": "Complete sensory overload.", "en": "Complete sensory overload. ", "ja": "感覚が完全に飽和してしまいましたわ。"}
+{"sec": "map:355", "key": "I was sick for a week.", "en": "I was sick for a week.", "ja": "一週間、寝込んでしまいましたの。"}
+{"sec": "map:355", "key": "But the people were fantastic.", "en": "But the people were fantastic.", "ja": "でも、あの人たちは素晴らしかった。"}
+{"sec": "map:355", "key": "The stars were all good and well, but the audience--", "en": "The stars were all good and well, but the audience--", "ja": "スターたちも確かに素敵でしたが、観客の方が――"}
+{"sec": "map:355", "key": "THEY were something.", "en": "THEY were something.", "ja": "あの人たちこそ、特別でしたわ。"}
+{"sec": "map:355", "key": "Everyone from bleacher to bleacher couldn't help but smile and cheer.", "en": "Everyone from bleacher to bleacher couldn't help but smile and cheer.", "ja": "どの観覧席の人も、笑顔と歓声を抑えられずにおりましたの。"}
+{"sec": "map:355", "key": "I felt more love in that little tent than I had in most of my life.", "en": "I felt more love in that little tent than I had in most of my life.", "ja": "あの小さなテントの中で、それまでの人生のほとんどよりも多くの愛を感じましたわ。"}
+{"sec": "map:355", "key": "And I was sure that such amazing performers could never be bored, or lonely.", "en": "And I was sure that such amazing performers could never be bored, or lonely.", "ja": "あれほど素晴らしい演者たちは、退屈することも孤独になることも決してないはずだと、確信しておりましたの。"}
+{"sec": "map:355", "key": "If I could just be like them--", "en": "If I could just be like them--", "ja": "もしわたくしも彼らのようになれたなら――"}
+{"sec": "map:355", "key": "But no.", "en": "But no.", "ja": "でも、無理でしたわ。"}
+{"sec": "map:355", "key": "I never could.", "en": "I never could.", "ja": "決してなれませんでしたの。"}
+{"sec": "map:355", "key": "I am just a bumpkin flailing in the silks.", "en": "I am just a bumpkin flailing in the silks.", "ja": "わたくしはただの、シルクの上でもがく田舎者ですわ。"}
+{"sec": "map:355", "key": "I don't have half of their talent, grace, or beauty.", "en": "I don't have half of their talent, grace, or beauty.", "ja": "彼らの才能も、優雅さも、美しさも、半分すら持ち合わせておりませんの。"}
+{"sec": "map:355", "key": "My knees are too stubby, my shoulders too broad, and good graces, have you SEEN my dimples?", "en": "My knees are too stubby, my shoulders too broad, and good graces, have you SEEN my dimples?", "ja": "膝は太すぎますし、肩は広すぎますし、それに――このえくぼ、ご覧になったことは?"}
+{"sec": "map:355", "key": "How anyone finds the strength to put palm to palm is beyond me.", "en": "How anyone finds the strength to put palm to palm is beyond me.", "ja": "どうしてみんな拍手する気力を見つけられるのか、わたくしにはわかりませんわ。"}
+{"sec": "map:355", "key": "I am sure it is an act of charity, if not mockery.", "en": "I am sure it is an act of charity, if not mockery.", "ja": "あざけりでないとすれば、きっと慈悲の行いなのでしょう。"}
+{"sec": "map:355", "key": "My own carelessness pushed my kin away, sights set on stars too high.", "en": "My own carelessness pushed my kin away, sights set on stars too high.", "ja": "わたくし自身の不注意で、身内を遠ざけてしまいましたの。あまりに高い星ばかり見ていて。"}
+{"sec": "map:355", "key": "And even so--", "en": "And even so--", "ja": "それでも――"}
+{"sec": "map:355", "key": "The others never minded.", "en": "The others never minded.", "ja": "他の皆さんは、気にもされませんでしたわ。"}
+{"sec": "map:355", "key": "Samson had always looked out for me, no matter how much I rejected his advances.", "en": "Samson had always looked out for me, no matter how much I rejected his advances.", "ja": "サムソンは、わたくしがどれほど彼の申し出を拒んでも、いつも気にかけてくれましたの。"}
+{"sec": "map:355", "key": "And Terra-- obnoxious as she was--", "en": "And Terra-- obnoxious as she was--", "ja": "それにテラ――あんなに騒々しい子でしたけれど――"}
+{"sec": "map:355", "key": "They didn't think about whether I was real or not.", "en": "They didn't think about whether I was real or not.", "ja": "彼らは、わたくしが「本物」かどうかなど、考えもしませんでしたわ。"}
+{"sec": "map:355", "key": "They were just there.", "en": "They were just there.", "ja": "ただ、そこにいてくれましたの。"}
+{"sec": "map:355", "key": "Brutish and clamorous and altogether the picture of indecency...", "en": "Brutish and clamorous and altogether the picture of indecency...", "ja": "粗野で騒がしくて、まるで下品さの見本のような人たちでしたけれど……"}
+{"sec": "map:355", "key": "But I do have such fond memories...", "en": "But I do have such fond memories...", "ja": "それでも、とても大切な思い出ですわ……"}
+{"sec": "map:355", "key": "And now they're gone.", "en": "And now they're gone.", "ja": "そして今は、みんないなくなってしまいました。"}
+{"sec": "map:355", "key": "Pack it up; the show is over.", "en": "Pack it up; the show is over.", "ja": "片付けましょう、ショーは終わりですわ。"}
+{"sec": "map:355", "key": "Better go back to watching the clouds.", "en": "Better go back to watching the clouds.", "ja": "また雲を眺める日々に戻った方がよさそうですわね。"}
+{"sec": "map:355", "key": "That one looks like a star.", "en": "That one looks like a star.", "ja": "あれは星のように見えますわね。"}
+{"sec": "map:355", "key": "Perhaps I could ask for its autograph.", "en": "Perhaps I could ask for its autograph.", "ja": "サインでもねだってみましょうかしら。"}
+{"sec": "map:355", "key": "CIEL: I thought stardom might bring me closer to others.", "en": "CIEL: I thought stardom might bring me closer to others.", "ja": "シエル: スターになれば、他の人ともっと近づけると思っておりましたの。"}
+{"sec": "map:355", "key": "It turns out that admiration is just another form of distance.", "en": "It turns out that admiration is just another form of distance.", "ja": "ですが、憧れというのもまた、一つの距離の形にすぎませんでしたわ。"}
+{"sec": "map:355", "key": "WAHOO! WHO WANTS SOME NEW TOYS?!", "en": "WAHOO! WHO WANTS SOME NEW TOYS?!", "ja": "ワッホー!新しいおもちゃが欲しい奴はいるかー!?"}
+{"sec": "map:355", "key": "IRON TAIL FOR JUST FOUR BLUE SHARDS. WHAT A STEEL!", "en": "IRON TAIL FOR JUST FOUR BLUE SHARDS. WHAT A STEEL!", "ja": "アイアンテールがあおいかけらたった4個!こりゃ鋼（すご）い!"}
+{"sec": "map:355", "key": "WHAT DO YOU MEAN YOU'VE HEARD THAT ONE?? MY PUNS ARE METAL!!!!!!", "en": "WHAT DO YOU MEAN YOU'VE HEARD THAT ONE?? MY PUNS ARE METAL!!!!!!", "ja": "それ、もう聞いたことあるってどういうことだ??俺のダジャレはメタルだぜ!!!!!!"}
+{"sec": "map:355", "key": "NOP-A-NOPE. YOU NEED MORE SHARDS FOR THAT. BAZINGA!", "en": "NOP-A-NOPE. YOU NEED MORE SHARDS FOR THAT.  BAZINGA!", "ja": "ノーノーノープ。それにはもっとかけらが必要だぜ。バジンガ!"}
+{"sec": "map:355", "key": "YOWZA! CHECK THAT POWER!", "en": "YOWZA! CHECK THAT POWER!", "ja": "うひょー!このパワーを見ろ!"}
+{"sec": "map:355", "key": "FALCON--!! THREE GREEN SHARDS!", "en": "FALCON--!! THREE GREEN SHARDS!", "ja": "ファルコン――!!みどりのかけら3個!"}
+{"sec": "map:355", "key": "YOU KNOW THE DRILL! DROP AND GIVE ME FOUR! PURPLE SHARDS!", "en": "YOU KNOW THE DRILL! DROP AND GIVE ME FOUR! PURPLE SHARDS!", "ja": "お決まりの流れだ!4個出しな!むらさきのかけらでな!"}
+{"sec": "map:355", "key": "PHOTOSYNTHESIS! I AM A PLANT!", "en": "PHOTOSYNTHESIS! I AM A PLANT!", "ja": "光合成!俺は植物だ!"}
+{"sec": "map:355", "key": "TREE RED SHARDS", "en": "TREE RED SHARDS", "ja": "あかいかけら3本!"}
+{"sec": "map:355", "key": "GET YOUR POWER MOVES HERE! ALL ABOARD THE SWAGGIN' WAGON!", "en": "GET YOUR POWER MOVES HERE! ALL ABOARD THE SWAGGIN' WAGON!", "ja": "パワー技はここだ!イケイケワゴンに乗り遅れるな!"}
+{"sec": "map:355", "key": "Hello, Trainer!", "en": "Hello, Trainer!", "ja": "こんにちは、トレーナーさん!"}
+{"sec": "map:355", "key": "Can I interest you in buying a pack of PokéSnax?", "en": "Can I interest you in buying a pack of PokéSnax?", "ja": "ポケスナックのパックを買ってみませんか?"}
+{"sec": "map:355", "key": "PokéSnax are a delicious treat for your Pokémon! Feeding your Pokémon PokéSnax will make them that much happier!", "en": "PokéSnax are a delicious treat for your Pokémon!  Feeding your Pokémon PokéSnax will make them that much happier!", "ja": "ポケスナックはポケモンのための美味しいおやつです!ポケモンに食べさせてあげれば、もっと幸せになりますよ!"}
+{"sec": "map:355", "key": "But that's not at all!", "en": "But that's not at all!", "ja": "でも、それだけじゃないんです!"}
+{"sec": "map:355", "key": "Just by having these delicious, nutritious sweet treats to eat, rare wild Pokémon will be more likely to approach you!", "en": "Just by having these delicious, nutritious sweet treats to eat, rare wild Pokémon will be more likely to approach you!", "ja": "この美味しくて栄養満点な甘いおやつを持っているだけで、レアな野生のポケモンがあなたに近づいてきやすくなるんです!"}
+{"sec": "map:355", "key": "I don't mean random encounters in the grass-- who would want that?", "en": "I don't mean random encounters in the grass-- who would want that?", "ja": "草むらでのランダムなエンカウントの話じゃありませんよ――そんなの誰が望みます?"}
+{"sec": "map:355", "key": "But on special occasions other Pokémon that would otherwise shy away might pay attention to you.", "en": "But on special occasions other Pokémon that would otherwise shy away might pay attention to you. ", "ja": "でも特別な機会には、普段は逃げてしまうようなポケモンが、あなたに注目してくれるかもしれません。"}
+{"sec": "map:355", "key": "So what do you say?", "en": "So what do you say?", "ja": "いかがですか?"}
+{"sec": "map:355", "key": "Care to buy up some Snax?", "en": "Care to buy up some Snax?", "ja": "スナックをいくつか買ってみませんか?"}
+{"sec": "map:355", "key": "Are YOU ready to take the Rainbow Challenge?!", "en": "Are YOU ready to take the Rainbow Challenge?!", "ja": "準備はいい、「レインボーチャレンジ」に挑む?!"}
+{"sec": "map:355", "key": "Face off against one of our patent color-theme dream-teams in the ring and win yourself a new shard thing!", "en": "Face off against one of our patent color-theme dream-teams in the ring and win yourself a new shard thing!", "ja": "リング上でうちの特製カラーテーマ・ドリームチームと対決して、新しいかけらをゲットしよう!"}
+{"sec": "map:355", "key": "Will you do it!?", "en": "Will you do it!?", "ja": "やってみる!?"}
+{"sec": "map:355", "key": "Marvelous! And now-- we spin the Wheel of Color to determine your fate!", "en": "Marvelous! And now-- we spin the Wheel of Color to determine your fate!", "ja": "素晴らしい!それでは――カラーホイールを回して、あなたの運命を決めよう!"}
+{"sec": "map:355", "key": "Your lucky color today is... Red! And we'll have you seeing it!", "en": "Your lucky color today is... Red! And we'll have you seeing it!", "ja": "今日のラッキーカラーは……赤!目にもの見せてやるぜ!"}
+{"sec": "map:355", "key": "We have a winner!!!", "en": "We have a winner!!!", "ja": "勝者の　誕生だァ〜〜〜っ!!!"}
+{"sec": "map:355", "key": "Your lucky color today is... Ah, you've got them Blues!", "en": "Your lucky color today is... Ah, you've got them Blues!", "ja": "今日のラッキーカラーは……ああ、青にツイてないねえ!"}
+{"sec": "map:355", "key": "Your lucky color today is... Ah! Time to put ol' Yellow down!", "en": "Your lucky color today is... Ah! Time to put ol' Yellow down!", "ja": "今日のラッキーカラーは……あっ!黄色をたたきのめす時間だ!"}
+{"sec": "map:355", "key": "Your lucky color today is... Green! It won't be easy fighting it either!", "en": "Your lucky color today is... Green! It won't be easy fighting it either!", "ja": "今日のラッキーカラーは……緑!これだって簡単には戦えないぜ!"}
+{"sec": "map:355", "key": "Your lucky color today is... Black! And there's no going back!", "en": "Your lucky color today is... Black! And there's no going back!", "ja": "今日のラッキーカラーは……黒!もう後戻りはできないぜ!"}
+{"sec": "map:355", "key": "Your lucky color today is... Brown! You're going down!", "en": "Your lucky color today is... Brown! You're going down!", "ja": "今日のラッキーカラーは……茶色!お前は撃沈だ!"}
+{"sec": "map:355", "key": "Your lucky color today is... Violet! Coupled with violence!", "en": "Your lucky color today is... Violet! Coupled with violence!", "ja": "今日のラッキーカラーは……紫!暴力とセットでな!"}
+{"sec": "map:355", "key": "Your lucky color today is... Grey! And every shade is pain!", "en": "Your lucky color today is... Grey! And every shade is pain!", "ja": "今日のラッキーカラーは……灰色!どの濃淡も痛みだらけだ!"}
+{"sec": "map:355", "key": "Your lucky color today is... White! I won't even need nine seconds to be done before!", "en": "Your lucky color today is... White! I won't even need nine seconds to be done before!", "ja": "今日のラッキーカラーは……白!終わらせるのに9秒すら要らないぜ!"}
+{"sec": "map:355", "key": "Your lucky color today is... Pink! And pink packs a pretty powerful punch!", "en": "Your lucky color today is... Pink! And pink packs a pretty powerful punch!", "ja": "今日のラッキーカラーは……ピンク!ピンクにはなかなかのパンチ力があるんだぜ!"}
+{"sec": "map:355", "key": "Ding ding ding!", "en": "Ding ding ding!", "ja": "チンチンチン!"}
+{"sec": "map:355", "key": "You've won a candy, and a free Shard to boot!", "en": "You've won a candy, and a free Shard to boot!", "ja": "キャンディをゲット、おまけにかけらも無料でもらえたよ!"}
+{"sec": "map:355", "key": "Who is brave enough to take the Rainbow Challenge?!", "en": "Who is brave enough to take the Rainbow Challenge?!", "ja": "「レインボーチャレンジ」に挑む勇気がある奴はいるか!?"}
+{"sec": "map:355", "key": "Not to mention, the usual cash prize, if'n y'hear me.", "en": "Not to mention, the usual cash prize, if'n y'hear me.", "ja": "それに加えて、いつも通りの賞金もあるぜ、聞いてるか?"}
+{"sec": "map:355", "key": "Y'hear me?", "en": "Y'hear me?", "ja": "聞いてるか?"}
+{"sec": "map:355", "key": "HIYA!!!! I AM DEFINITELY SAMSON!", "en": "HIYA!!!! I AM DEFINITELY SAMSON!", "ja": "ハイヤー!!!!俺は間違いなくサムソンだ!"}
+{"sec": "map:355", "key": "PUNCH! KICK! SLAM!", "en": "PUNCH! KICK! SLAM!", "ja": "パンチ!キック!たたきつけ!"}
+{"sec": "map:355", "key": "I DON'T PULL MY PUNCHES AND NEITHER SHOULD YOU!", "en": "I DON'T PULL MY PUNCHES AND NEITHER SHOULD YOU!", "ja": "俺は手加減しねえ、お前もするなよ!"}
+{"sec": "map:355", "key": "BREAK THEIR FOCUS! FOUR BLUE SHARDS!", "en": "BREAK THEIR FOCUS! FOUR BLUE SHARDS!", "ja": "集中力をぶち壊せ!あおいかけら4個!"}
+{"sec": "map:355", "key": "YOU NEED MORE SHARDS! UNLESS YOU WANNA THROW HANDS????", "en": "YOU NEED MORE SHARDS! UNLESS YOU WANNA THROW HANDS????", "ja": "もっとかけらが必要だぜ!それとも殴り合いたいのか????"}
+{"sec": "map:355", "key": "SETTLE THINGS PROPERLY. WITH YOUR FISTS!!!!!!!!!!!!", "en": "SETTLE THINGS PROPERLY. WITH YOUR FISTS!!!!!!!!!!!!", "ja": "きちんとケリをつけろ。拳でな!!!!!!!!!!!!"}
+{"sec": "map:355", "key": "CHARGE AT YOUR OPPONENTS! PARALYZE THE ENEMY! FIVE GREEN SHARDS!", "en": "CHARGE AT YOUR OPPONENTS! PARALYZE THE ENEMY! FIVE GREEN SHARDS!", "ja": "敵に突っ込め!相手をマヒさせろ!みどりのかけら5個!"}
+{"sec": "map:355", "key": "BURN THEM DOWN! BURRRRRRRRRRRN!", "en": "BURN THEM DOWN! BURRRRRRRRRRRN!", "ja": "焼き尽くせ!燃ヤセエエエエエエエエ!"}
+{"sec": "map:355", "key": "FIVE PURPLE SHARDS!", "en": "FIVE PURPLE SHARDS!", "ja": "むらさきのかけら5個!"}
+{"sec": "map:355", "key": "ALL WHO FACE YOU WILL FREEZE WITH TERROR! BECAUSE OF YOUR FISTS! SIX RED SHARDS!", "en": "ALL WHO FACE YOU WILL FREEZE WITH TERROR!  BECAUSE OF YOUR FISTS! SIX RED SHARDS!", "ja": "お前と対決する者は皆、恐怖で凍りつく!お前の拳のせいでな!あかいかけら6個!"}
+{"sec": "map:355", "key": "Oh, phew. All this yelling makes my voice hurt.", "en": "Oh, phew. All this yelling makes my voice hurt.", "ja": "ふう。こんなに叫んでたら喉が痛くなってきたな。"}
+{"sec": "map:355", "key": "I--", "en": "I-- ", "ja": "俺は――"}
+{"sec": "map:355", "key": "I mean--", "en": "I mean--", "ja": "つまり――"}
+{"sec": "map:355", "key": "HRAAAAAAA! SAMSOOOOON!", "en": "HRAAAAAAA! SAMSOOOOON!", "ja": "フラアアアア!サムソオオオン!"}
+{"sec": "map:355", "key": "Whoop, you found me!", "en": "Whoop, you found me!", "ja": "おっと、見つかっちまったか!"}
+{"sec": "map:355", "key": "Not that I was hiding!", "en": "Not that I was hiding!", "ja": "隠れてたわけじゃねえけどな!"}
+{"sec": "map:355", "key": "Plain sight, innit?", "en": "Plain sight, innit?", "ja": "丸見えだったろ?"}
+{"sec": "map:355", "key": "Or was I?", "en": "Or was I?", "ja": "それとも、そうでもなかったか?"}
+{"sec": "map:355", "key": "You never know!", "en": "You never know!", "ja": "わかんねえもんだぜ!"}
+{"sec": "map:355", "key": "You know what else you don't know?", "en": "You know what else you don't know?", "ja": "他に知らねえこと、何だと思う?"}
+{"sec": "map:355", "key": "No!", "en": "No!", "ja": "ウソ!"}
+{"sec": "map:355", "key": "But also,", "en": "But also,", "ja": "あとさ、"}
+{"sec": "map:355", "key": "Next time someone asks you for a password, try telling them \"randomizer\"!", "en": "Next time someone asks you for a password, try telling them \"randomizer\"!", "ja": "今度誰かにパスワード聞かれたら、「ランダマイザー」って言ってみな!"}
+{"sec": "map:355", "key": "Who knows what kinda zany stuff might happen?", "en": "Who knows what kinda zany stuff might happen?", "ja": "どんなおかしなことが起きるか、わかんねえぜ?"}
+{"sec": "map:355", "key": "I don't!", "en": "I don't!", "ja": "俺は知らねえ!"}
+{"sec": "map:355", "key": "Or do I?", "en": "Or do I?", "ja": "それとも、知ってるのか?"}
+{"sec": "map:355", "key": "Hey, wait your turn!!", "en": "Hey, wait your turn!!", "ja": "おい、順番待てよ!!"}
+{"sec": "map:355", "key": "We can't go home-- it's too crowded to leave--", "en": "We can't go home-- it's too crowded to leave--", "ja": "家に帰れない――混みすぎてて出られないんだ――"}
+{"sec": "map:355", "key": "What's the big deal!?", "en": "What's the big deal!?", "ja": "一体何が問題なんだよ!?"}
+{"sec": "map:355", "key": "???: Yo, what's up?", "en": "???: Yo, what's up?", "ja": "???: よう、調子どう?"}
+{"sec": "map:355", "key": "Hey, you tried the frosted funnel cake at this place?", "en": "Hey, you tried the frosted funnel cake at this place?", "ja": "なあ、ここのフロステッド・ファンネルケーキ食べた?"}
+{"sec": "map:355", "key": "Shit's dope as fuck.", "en": "Shit's dope as fuck.", "ja": "マジでヤバいくらい最高なんだけど。"}
+{"sec": "map:355", "key": "Bro--", "en": "Bro--", "ja": "なあ――"}
+{"sec": "map:355", "key": "Wait, can you call girls 'bro' yet?", "en": "Wait, can you call girls 'bro' yet?", "ja": "あれ、女の子にも「ブロ」って呼んでいいんだっけ?"}
+{"sec": "map:355", "key": "Girls should qualify for 'bro' status, just imho.", "en": "Girls should qualify for 'bro' status, just imho.", "ja": "女の子も「ブロ」の資格あると思うんだよね、個人的には。"}
+{"sec": "map:355", "key": "Wait, you don't mind being called bro, right?", "en": "Wait, you don't mind being called bro, right?", "ja": "てか、「ブロ」って呼ばれても平気だよね?"}
+{"sec": "map:355", "key": "Like, anyone can be a bro if you're a bro, you know?", "en": "Like, anyone can be a bro if you're a bro, you know?", "ja": "なんつーか、自分が「ブロ」なら誰でも「ブロ」になれるっていうか、わかる?"}
+{"sec": "map:355", "key": "'Dude' is basically a gender neutral term too by now, right?", "en": "'Dude' is basically a gender neutral term too by now, right?", "ja": "「デュード」も、もう基本的に性別関係ない言葉だよね?"}
+{"sec": "map:355", "key": "Like, the progressives already made that happen.", "en": "Like, the progressives already made that happen.", "ja": "ほら、進歩派の人たちがもうそういうことにしたし。"}
+{"sec": "map:355", "key": "Anyway, dude--", "en": "Anyway, dude--", "ja": "とにかく、なあ――"}
+{"sec": "map:355", "key": "The funnel cake--", "en": "The funnel cake--", "ja": "あのファンネルケーキ――"}
+{"sec": "map:355", "key": "They make it with Slurpuff.", "en": "They make it with Slurpuff.", "ja": "ペロリームで作ってるんだって。"}
+{"sec": "map:355", "key": "I mean, not with Slurpuff in it, but like, WITH Slurpuff.", "en": "I mean, not with Slurpuff in it, but like, WITH Slurpuff.", "ja": "いや、ペロリームが入ってるってことじゃなくて、その、ペロリーム「と一緒に」作ってるってこと。"}
+{"sec": "map:355", "key": "Like holding proverbial hands and shit.", "en": "Like holding proverbial hands and shit.", "ja": "なんつーか、比喩的に手をつないでる、みたいな感じ。"}
+{"sec": "map:355", "key": "Wait, Slurpuff have hands, right?", "en": "Wait, Slurpuff have hands, right?", "ja": "てか、ペロリームって手あるんだっけ?"}
+{"sec": "map:355", "key": "Anyway, the point is, it's like, ultra-mega sweet.", "en": "Anyway, the point is, it's like, ultra-mega sweet.", "ja": "とにかく、言いたいのは、超メガ甘いってこと。"}
+{"sec": "map:355", "key": "Cool as fuck.", "en": "Cool as fuck.", "ja": "マジでかっこいい。"}
+{"sec": "map:355", "key": "You gotta try it sometime.", "en": "You gotta try it sometime.", "ja": "いつか絶対食べてみなよ。"}
+{"sec": "map:355", "key": "I'd share, but I promised I'd bring some back for the kiddo.", "en": "I'd share, but I promised I'd bring some back for the kiddo.", "ja": "分けてあげたいけど、うちのちびすけに持ち帰るって約束しちゃったんだよね。"}
+{"sec": "map:355", "key": "But bro--", "en": "But bro--", "ja": "でもさ――"}
+{"sec": "map:355", "key": "You gotta try it.", "en": "You gotta try it.", "ja": "絶対食べてみなって。"}
+{"sec": "map:355", "key": "???: Seriously, frosted funnel cake.", "en": "???: Seriously, frosted funnel cake.", "ja": "???: マジで、フロステッド・ファンネルケーキな。"}
+{"sec": "map:355", "key": "It's no joke, fam.", "en": "It's no joke, fam.", "ja": "冗談抜きだぜ、相棒。"}
+{"sec": "map:355", "key": "You're missing out.", "en": "You're missing out.", "ja": "食べなきゃ損だぜ。"}
+{"sec": "map:355", "key": "Come one, come all, to the berry greatest experience this circus has to offer!", "en": "Come one, come all, to the berry greatest experience this circus has to offer!", "ja": "さあ皆さんおいでおいで、このサーカス一番の「ベリー」グレートな体験へ!"}
+{"sec": "map:355", "key": "Friendship Berries for sale!", "en": "Friendship Berries for sale!", "ja": "フレンドシップベリー販売中!"}
+{"sec": "map:355", "key": "Guaranteed to be the berry best, only for you and your Pokémon!", "en": "Guaranteed to be the berry best, only for you and your Pokémon!", "ja": "「ベリー」ベストなのは保証済み、あなたとあなたのポケモンのためだけに!"}
+{"sec": "map:355", "key": "...Please buy some.", "en": "...Please buy some.", "ja": "……お願いですから買ってください。"}
+{"sec": "map:355", "key": "If not, I'll be very blue-berry!", "en": "If not, I'll be very blue-berry!", "ja": "買ってくれなきゃ、あたし「ブルーベリー」な気分になっちゃう!"}
+{"sec": "map:355", "key": "...Pretty please with a berry on top?", "en": "...Pretty please with a berry on top?", "ja": "……ベリーの乗ったお願い、聞いてくれる?"}
+{"sec": "map:355", "key": "Fresh Water - $200", "en": "Fresh Water - $200", "ja": "おいしいみず - $200"}
+{"sec": "map:355", "key": "Soda Pop - $300", "en": "Soda Pop - $300", "ja": "サイコソーダ - $300"}
+{"sec": "map:355", "key": "Lemonade - $350", "en": "Lemonade - $350", "ja": "ミックスオレ - $350"}
+{"sec": "map:355", "key": "Cancel", "en": "Cancel", "ja": "キャンセル"}
+{"sec": "map:355", "key": "Water Pledge", "en": "Water Pledge", "ja": "みずのちかい"}
+{"sec": "map:355", "key": "Fire Pledge", "en": "Fire Pledge", "ja": "ほのおのちかい"}
+{"sec": "map:355", "key": "Grass Pledge", "en": "Grass Pledge", "ja": "くさのちかい"}
+{"sec": "map:355", "key": "Yes", "en": "Yes", "ja": "はい"}
+{"sec": "map:355", "key": "No", "en": "No", "ja": "いいえ"}
+{"sec": "map:355", "key": "Teach one-by-one.", "en": "Teach one-by-one.", "ja": "一つずつ教える。"}
+{"sec": "map:355", "key": "Remember all.", "en": "Remember all.", "ja": "全部思い出す。"}
+{"sec": "map:355", "key": "Uproar", "en": "Uproar", "ja": "さわぐ"}
+{"sec": "map:355", "key": "Hyper Voice", "en": "Hyper Voice", "ja": "ハイパーボイス"}
+{"sec": "map:355", "key": "Stomping Tantrum", "en": "Stomping Tantrum", "ja": "じだんだ"}
+{"sec": "map:355", "key": "Low Kick", "en": "Low Kick", "ja": "けたぐり"}
+{"sec": "map:355", "key": "Okay", "en": "Okay", "ja": "オーケー"}
+{"sec": "map:355", "key": "No thanks", "en": "No thanks", "ja": "いいえ結構です"}
+{"sec": "map:355", "key": "Buy", "en": "Buy", "ja": "買う"}
+{"sec": "map:355", "key": "Iron Tail", "en": "Iron Tail", "ja": "アイアンテール"}
+{"sec": "map:355", "key": "Focus Punch", "en": "Focus Punch", "ja": "きあいパンチ"}
+{"sec": "map:355", "key": "Drill Run", "en": "Drill Run", "ja": "ドリルライナー"}
+{"sec": "map:355", "key": "Synthesis", "en": "Synthesis", "ja": "こうごうせい"}
+{"sec": "map:355", "key": "Dual Chop", "en": "Dual Chop", "ja": "ダブルチョップ"}
+{"sec": "map:355", "key": "Thunder Punch", "en": "Thunder Punch", "ja": "かみなりパンチ"}
+{"sec": "map:355", "key": "Fire Punch", "en": "Fire Punch", "ja": "ほのおのパンチ"}
+{"sec": "map:355", "key": "Ice Punch", "en": "Ice Punch", "ja": "れいとうパンチ"}

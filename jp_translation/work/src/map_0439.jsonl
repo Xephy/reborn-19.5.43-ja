@@ -1,0 +1,695 @@
+{"sec": "map:439", "key": "Excuse me!", "en": "Excuse me!", "ja": "すみません!"}
+{"sec": "map:439", "key": "I'm very sorry! I dropped my necklace around here and I'm trying to find it!", "en": "I'm very sorry! I dropped my necklace around here and I'm trying to find it!", "ja": "ごめんなさい! この あたりで ネックレスを 落として しまって 探しているんです!"}
+{"sec": "map:439", "key": "I don't want it to get buried underfoot, so I can't let anyone through right now.", "en": "I don't want it to get buried underfoot, so I can't let anyone through right now.", "ja": "踏まれて 埋もれたら 困るので 今は 誰も 通せないんです。"}
+{"sec": "map:439", "key": "Really sorry!", "en": "Really sorry! ", "ja": "本当に すみません!"}
+{"sec": "map:439", "key": "I'll get out of your way as soon as I can!", "en": "I'll get out of your way as soon as I can!", "ja": "できるだけ 早く どきますから!"}
+{"sec": "map:439", "key": "I don't want it to get burried underfoot, so I don't want anyone to pass through right now.", "en": "I don't want it to get burried underfoot, so I don't want anyone to pass through right now.", "ja": "踏まれて 埋もれたら 困るので 今は 誰にも 通って ほしくないんです。"}
+{"sec": "map:439", "key": "Really sorry! I'll get out of your way as soon as I can!", "en": "Really sorry! I'll get out of your way as soon as I can!", "ja": "本当に すみません! できるだけ 早く どきますから!"}
+{"sec": "map:439", "key": "I never get bored of ice skating!", "en": "I never get bored of ice skating! ", "ja": "アイススケートは いくら やっても 飽きないよ!"}
+{"sec": "map:439", "key": "My mom says if I get good enough, she'll let me skate inside the mountain too!", "en": "My mom says if I get good enough, she'll let me skate inside the mountain too!", "ja": "もっと 上手に なったら 山の 中でも すべって いいって ママが 言ってた!"}
+{"sec": "map:439", "key": "I love this mountain! Even if we're trapped on it, it's so cool!", "en": "I love this mountain! Even if we're trapped on it, it's so cool!", "ja": "この 山 大好き! とじこめられてても すごく かっこいいもん!"}
+{"sec": "map:439", "key": "In the past, the peak was used to hold Gym Battles!", "en": "In the past, the peak was used to hold Gym Battles!", "ja": "むかしは 山頂で ジム戦を やってたんだって!"}
+{"sec": "map:439", "key": "The old Gym Leader retired-- I dunno why, I guess he got busy with other things?", "en": "The old Gym Leader retired-- I dunno why, I guess he got busy with other things? ", "ja": "前の ジムリーダーは 引退した—— 理由は わかんない ほかの ことで いそがしく なったのかな?"}
+{"sec": "map:439", "key": "But he still lives here!", "en": "But he still lives here!", "ja": "でも まだ ここに 住んでるよ!"}
+{"sec": "map:439", "key": "His name is Blake Whitaker! If you see him around, would you get his autograph for me?", "en": "His name is Blake Whitaker! If you see him around, would you get his autograph for me?", "ja": "名前は ブレイク・ホイッタカー! 見かけたら サインを もらってきて くれない?"}
+{"sec": "map:439", "key": "I'd ask him for it myself, but I'm kinda scared of him...", "en": "I'd ask him for it myself, but I'm kinda scared of him...", "ja": "自分で たのみたいけど ちょっと こわいんだ……"}
+{"sec": "map:439", "key": "A-ah... I have to hold onto the edge or I'll fall!", "en": "A-ah... I have to hold onto the edge or I'll fall!", "ja": "あわわ……はしに つかまってないと 落ちちゃう!"}
+{"sec": "map:439", "key": "Eep!", "en": "Eep!", "ja": "ひゃっ!"}
+{"sec": "map:439", "key": "I'm so glad we can get back to playing! Everyone's happy again here!", "en": "I'm so glad we can get back to playing! Everyone's happy again here!", "ja": "また 遊べるように なって うれしい! みんな 元気を 取りもどしたよ!"}
+{"sec": "map:439", "key": "It was really sad when all the food disappeared, because no one had any energy...", "en": "It was really sad when all the food disappeared, because no one had any energy...", "ja": "食べ物が 全部 消えた ときは みんな 元気が なくて 悲しかった……"}
+{"sec": "map:439", "key": "But recently, someone has been sneaking around and secretly distributing food to all the kids!", "en": "But recently, someone has been sneaking around and secretly distributing food to all the kids! ", "ja": "でも 最近 だれかが こっそり 子どもたち みんなに 食べ物を 配ってくれてるんだ!"}
+{"sec": "map:439", "key": "It's really cool!", "en": "It's really cool!", "ja": "すごく かっこいいよね!"}
+{"sec": "map:439", "key": "What's the matter?!", "en": "What's the matter?! ", "ja": "どうしたの?!"}
+{"sec": "map:439", "key": "Come and catch me! Nyaaaa!", "en": "Come and catch me! Nyaaaa!", "ja": "つかまえてごらん! べーっだ!"}
+{"sec": "map:439", "key": "Hrm. It's good to see everyone in high spirits again.", "en": "Hrm. It's good to see everyone in high spirits again.", "ja": "ふむ。みんなが また 元気に なって 何よりだ。"}
+{"sec": "map:439", "key": "I can't remember how long it was that the streets of this city were empty, or full of vacant faces looking more like zombies than humans.", "en": "I can't remember how long it was that the streets of this city were empty, or full of vacant faces looking more like zombies than humans.", "ja": "この 町の 通りが 人けを 失い 人よりも ゾンビのような うつろな 顔で あふれていた 日々が どれだけ 続いたか 思い出せん。"}
+{"sec": "map:439", "key": "Hunger can do that to a man.", "en": "Hunger can do that to a man.", "ja": "飢えは 人を そこまで 変えて しまう。"}
+{"sec": "map:439", "key": "But when people in the streets started getting fed by a mysterious person, we started to gain hope back. And here we are!", "en": "But when people in the streets started getting fed by a mysterious person, we started to gain hope back.  And here we are!", "ja": "だが なぞの 人物が 町の 人々に 食べ物を 配りはじめてから 希望が もどってきた。そして 今が ある!"}
+{"sec": "map:439", "key": "Ahm. But that's all I will say about that person! They must remain mysterious!", "en": "Ahm. But that's all I will say about that person! They must remain mysterious!", "ja": "おっと。その 人物の 話は ここまでだ! なぞの ままで なければ ならん!"}
+{"sec": "map:439", "key": "The previous crisis has really taught everyone not to take daily life for granted.", "en": "The previous crisis has really taught everyone not to take daily life for granted. ", "ja": "この前の 危機で みんな 毎日の 暮らしを 当たり前だと 思っては いけないと 学んだのさ。"}
+{"sec": "map:439", "key": "That's why everyone is out having so much fun.", "en": "That's why everyone is out having so much fun.", "ja": "だから みんな 外で あんなに 楽しんでいる。"}
+{"sec": "map:439", "key": "I kinda wish I could join them, but, I'm too old now.", "en": "I kinda wish I could join them, but, I'm too old now.", "ja": "わしも 混ざりたいが もう 年を 取りすぎた。"}
+{"sec": "map:439", "key": "I'd look silly out there, right?", "en": "I'd look silly out there, right?", "ja": "あそこに 出たら こっけいだろう?"}
+{"sec": "map:439", "key": "Oh? About the previous crisis?", "en": "Oh? About the previous crisis?", "ja": "ん? この前の 危機の ことかい?"}
+{"sec": "map:439", "key": "I mean, it's not over yet.", "en": "I mean, it's not over yet. ", "ja": "いや まだ 終わっては いないんだ。"}
+{"sec": "map:439", "key": "We're still low on food, but...", "en": "We're still low on food, but...", "ja": "食べ物は まだ 足りない だが……"}
+{"sec": "map:439", "key": "Everyone has hope, because as it turns out, this city has a Guardian Angel!", "en": "Everyone has hope, because as it turns out, this city has a Guardian Angel!", "ja": "みんな 希望を もっている。この 町には 守護天使が いるんだ!"}
+{"sec": "map:439", "key": "Who's that? Well...", "en": "Who's that? Well...", "ja": "だれかって? それは……"}
+{"sec": "map:439", "key": "I can't tell you!", "en": "I can't tell you!", "ja": "言えないな!"}
+{"sec": "map:439", "key": "Just being able to stand here right now is a wonderful thing, and it's all thanks to that girl.", "en": "Just being able to stand here right now is a wonderful thing, and it's all thanks to that girl.", "ja": "今 こうして ここに 立てるだけで すばらしい こと。ぜんぶ あの 娘の おかげさ。"}
+{"sec": "map:439", "key": "Oh my! I shouldn't have said that!", "en": "Oh my! I shouldn't have said that!", "ja": "おっと! 今のは 言っては いけなかった!"}
+{"sec": "map:439", "key": "Please do not tell anyone I did!", "en": "Please do not tell anyone I did! ", "ja": "だれにも 言わないで おくれ!"}
+{"sec": "map:439", "key": "Word has it that if the Guardian Angel's identity gets out, she won't be able to help us anymore!", "en": "Word has it that if the Guardian Angel's identity gets out, she won't be able to help us anymore!", "ja": "守護天使の 正体が 知れたら もう 助けて もらえなく なるという 話なんだ!"}
+{"sec": "map:439", "key": "I promised my son I wouldn't tell anyone, so please keep this quiet.", "en": "I promised my son I wouldn't tell anyone, so please keep this quiet.", "ja": "息子と だれにも 言わないと 約束したんだ。どうか 内緒に して おくれ。"}
+{"sec": "map:439", "key": "The air up here may be cold, but it's pure.", "en": "The air up here may be cold, but it's pure. ", "ja": "ここの 空気は 冷たいが 澄んでいる。"}
+{"sec": "map:439", "key": "I'd take this life over Reborn City's any day.", "en": "I'd take this life over Reborn City's any day. ", "ja": "リボーンシティの 暮らしより こっちの ほうが ずっと いい。"}
+{"sec": "map:439", "key": "Hunger and all.", "en": "Hunger and all.", "ja": "飢えも ひっくるめて な。"}
+{"sec": "map:439", "key": "Howdy, stranger.", "en": "Howdy, stranger.", "ja": "やあ　見ない顔だね"}
+{"sec": "map:439", "key": "You don't look like you're dressed for this climate. Conserve heat and stay indoors.", "en": "You don't look like you're dressed for this climate.  Conserve heat and stay indoors.", "ja": "その 服装では この 気候に 合わんぞ。体温を 保って 屋内に いなさい。"}
+{"sec": "map:439", "key": "And remember, try not to move around too much if you haven't got your rations.", "en": "And remember, try not to move around too much if you haven't got your rations. ", "ja": "それと 配給を もらっていないなら あまり 動きまわらない ことだ。"}
+{"sec": "map:439", "key": "You see, most of our foodstock disappeared recently.", "en": "You see, most of our foodstock disappeared recently.", "ja": "じつは 最近 食料の ほとんどが 消えて しまってな。"}
+{"sec": "map:439", "key": "We know that Ametrine Mountain had been blocked off, but that's okay, because we always used to store plenty to live on in emergencies.", "en": "We know that Ametrine Mountain had been blocked off, but that's okay, because we always used to store plenty to live on in emergencies.", "ja": "アメトリン山が ふさがれたのは 知っている。だが 非常時に 備えて いつも 十分に たくわえていたから 問題は なかった。"}
+{"sec": "map:439", "key": "But just when that happened, our emergency supply completely disappeared.", "en": "But just when that happened, our emergency supply completely disappeared. ", "ja": "ところが ちょうど その とき 非常用の たくわえが 丸ごと 消えたんだ。"}
+{"sec": "map:439", "key": "We're not really sure how.", "en": "We're not really sure how.", "ja": "どうしてかは わからん。"}
+{"sec": "map:439", "key": "Ever since then, the city has been living on the rations of the public food store.", "en": "Ever since then, the city has been living on the rations of the public food store. ", "ja": "それ以来 町は 公共の 食料庫の 配給で 暮らしている。"}
+{"sec": "map:439", "key": "It's been very difficult, but we WILL get through this!", "en": "It's been very difficult, but we WILL get through this!", "ja": "とても 苦しいが 必ず 乗りこえて みせる!"}
+{"sec": "map:439", "key": "A visitor?", "en": "A visitor? ", "ja": "よそから 来た のかい?"}
+{"sec": "map:439", "key": "Does that mean the mountain path has been unblocked?", "en": "Does that mean the mountain path has been unblocked?", "ja": "山道の ふうさが 解けたって ことか?"}
+{"sec": "map:439", "key": "I never used to like eating bread by itself, but when you're really starving, it's amazing how delicious it can be!", "en": "I never used to like eating bread by itself, but when you're really starving, it's amazing how delicious it can be!", "ja": "パンだけで 食べるのは 好きじゃ なかったけど 本当に 飢えていると おどろくほど おいしいんだ!"}
+{"sec": "map:439", "key": "Pretty sure there's some zen philosophy like that or something, isn't there?", "en": "Pretty sure there's some zen philosophy like that or something, isn't there? ", "ja": "そういう 禅の 教えが あった 気が するな?"}
+{"sec": "map:439", "key": "Maybe I should visit Apophyll.", "en": "Maybe I should visit Apophyll.", "ja": "アポフィルに 行ってみようかな。"}
+{"sec": "map:439", "key": "Much better!", "en": "Much better!", "ja": "ずっと いいね!"}
+{"sec": "map:439", "key": "There's nothing to go along with a pleasant snowstorm like an entire crate of newly-reclaimed food!", "en": "There's nothing to go along with a pleasant snowstorm like an entire crate of newly-reclaimed food!", "ja": "心地よい 吹雪に 取りもどしたばかりの 食料 ひと箱ほど 合う ものは ないね!"}
+{"sec": "map:439", "key": "Hey hey, do you know about this house?", "en": "Hey hey, do you know about this house?", "ja": "ねえねえ この 家の こと 知ってる?"}
+{"sec": "map:439", "key": "They say it's haunted!", "en": "They say it's haunted! ", "ja": "おばけが 出るんだって!"}
+{"sec": "map:439", "key": "A big accident happened there years ago and the girls who were living there died!", "en": "A big accident happened there years ago and the girls who were living there died!", "ja": "何年も 前に 大きな 事故が あって 住んでた 女の子たちが 死んじゃったんだ!"}
+{"sec": "map:439", "key": "It's super creepy! But super cool!", "en": "It's super creepy! But super cool! ", "ja": "すっごく 不気味! でも すっごく かっこいい!"}
+{"sec": "map:439", "key": "SHELLY: Hey! Um, I have a different question about what you t-told me before. Is that okay?", "en": "SHELLY: Hey! Um, I have a different question about what you t-told me before. Is that okay?", "ja": "シェリー: あの! さっき は、話して くれた ことで 別の しつもんが あるの……いい かな?"}
+{"sec": "map:439", "key": "You said before you can't tell me about the Guardian Angel who was giving you all food... but could you maybe tell us what would happen if you did?", "en": "You said before you can't tell me about the Guardian Angel who was giving you all food... but could you maybe tell us what would happen if you did?", "ja": "食べ物を 配って くれた 守護天使の ことは 言えないって 話だったけど……もし 言ったら どう なるのかは 教えて もらえる?"}
+{"sec": "map:439", "key": "KID: Huh? If I told you who the Guardian Angel is?", "en": "KID: Huh? If I told you who the Guardian Angel is?", "ja": "こども: え? 守護天使が だれか 教えたら って こと?"}
+{"sec": "map:439", "key": "SHELLY: Y-yeah. Can you tell us what would happen?", "en": "SHELLY: Y-yeah. Can you tell us what would happen?", "ja": "シェリー: う、うん。どう なるか 教えて くれる?"}
+{"sec": "map:439", "key": "KID: Um, well, if I told you who it was and word got out, then we probably wouldn't get any more food.", "en": "KID: Um, well, if I told you who it was and word got out, then we probably wouldn't get any more food.", "ja": "こども: えっと……だれか 教えて それが 広まったら たぶん もう 食べ物は もらえなく なる。"}
+{"sec": "map:439", "key": "SHELLY: Huh? This Guardian Angel person would do that to punish you?", "en": "SHELLY: Huh? This Guardian Angel person would do that to punish you?", "ja": "シェリー: え? 守護天使が ばつとして そう するの?"}
+{"sec": "map:439", "key": "KID: No! She would never!", "en": "KID: No! She would never!", "ja": "こども: ちがう! 彼女は そんな こと しない!"}
+{"sec": "map:439", "key": "I mean, um, they would never!", "en": "I mean, um, they would never!", "ja": "じゃなくて えっと その 人は そんな こと しない!"}
+{"sec": "map:439", "key": "SHELLY: I don't get it then. Why?", "en": "SHELLY: I don't get it then. Why?", "ja": "シェリー: じゃあ わからないよ。どうして?"}
+{"sec": "map:439", "key": "KID: Um, I think it's not the Guardian Angel we have to worry about.", "en": "KID: Um, I think it's not the Guardian Angel we have to worry about.", "ja": "こども: えっと……心配なのは 守護天使じゃ ないんだ。"}
+{"sec": "map:439", "key": "It's the person looking after her.", "en": "It's the person looking after her.", "ja": "その 人の 面倒を みている 人の ほう。"}
+{"sec": "map:439", "key": "She doesn't want him finding out that she's doing it...", "en": "She doesn't want him finding out that she's doing it...", "ja": "彼女は 自分が やってるって その 人に 知られたく ないんだ……"}
+{"sec": "map:439", "key": "SHELLY: Oh... Okay.", "en": "SHELLY: Oh... Okay. ", "ja": "シェリー: あ……そう なんだ。"}
+{"sec": "map:439", "key": "Um... Can I ask who that person is?", "en": "Um... Can I ask who that person is? ", "ja": "えっと……その 人が だれか 聞いても いい?"}
+{"sec": "map:439", "key": "You aren't sworn to keep a secret about that, right?", "en": "You aren't sworn to keep a secret about that, right?", "ja": "それは 秘密に するって 約束して ないよね?"}
+{"sec": "map:439", "key": "KID: I... Um, I guess not.", "en": "KID: I... Um, I guess not.", "ja": "こども: それは……うん たぶん 大丈夫。"}
+{"sec": "map:439", "key": "You promise you won't let him find out?", "en": "You promise you won't let him find out?", "ja": "その 人に ばれないって 約束して くれる?"}
+{"sec": "map:439", "key": "SHELLY: Yeah! We promise!", "en": "SHELLY: Yeah! We promise! ", "ja": "シェリー: うん! 約束する!"}
+{"sec": "map:439", "key": "Right, \\PN?", "en": "Right, \\PN?", "ja": "ね、\\PN?"}
+{"sec": "map:439", "key": "KID: The man's name is Blake.", "en": "KID: The man's name is Blake.", "ja": "こども: その 人の 名前は ブレイク。"}
+{"sec": "map:439", "key": "He's kind of a jerk. He wears a light blue jacket and has a mohawky-thing.", "en": "He's kind of a jerk. He wears a light blue jacket and has a mohawky-thing.", "ja": "ちょっと いやな 奴。水色の 上着を 着てて 頭が モヒカンみたいなんだ。"}
+{"sec": "map:439", "key": "SHELLY: \\PN! \\PN, \\PN, \\PN! That was him!", "en": "SHELLY: \\PN! \\PN, \\PN, \\PN! That was him!", "ja": "シェリー: \\PN! \\PN、\\PN、\\PN! さっきの 人だ!"}
+{"sec": "map:439", "key": "Huh? Cain told you Blake adopted Heather?", "en": "Huh? Cain told you Blake adopted Heather?", "ja": "え? ブレイクが ヘザーを 引き取ったって カインが 言ってたの?"}
+{"sec": "map:439", "key": "Then this Guardian Angel HAS to be Heather!", "en": "Then this Guardian Angel HAS to be Heather! ", "ja": "じゃあ この 守護天使は ぜったい ヘザーだよ!"}
+{"sec": "map:439", "key": "She's been the one giving food to everyone in Ametrine!", "en": "She's been the one giving food to everyone in Ametrine!", "ja": "アメトリンの みんなに 食べ物を 配ってたのは ヘザーなんだ!"}
+{"sec": "map:439", "key": "KID: Hey, quiet down!", "en": "KID: Hey, quiet down!", "ja": "こども: ちょっと 静かに して!"}
+{"sec": "map:439", "key": "SHELLY: Oops... Sorry!", "en": "SHELLY: Oops... Sorry!", "ja": "シェリー: あっ……ごめんなさい!"}
+{"sec": "map:439", "key": "Um, hey, do you know where we could find her?", "en": "Um, hey, do you know where we could find her?", "ja": "あの……ヘザーが どこに いるか 知らない?"}
+{"sec": "map:439", "key": "KID: Nu-uh.", "en": "KID: Nu-uh. ", "ja": "こども: ううん。"}
+{"sec": "map:439", "key": "Actually, I think it's been a few days since anyone's seen her.", "en": "Actually, I think it's been a few days since anyone's seen her. ", "ja": "そういえば ここ 何日か だれも 見てない と 思う。"}
+{"sec": "map:439", "key": "Maybe she went to go find us more food? I dunno.", "en": "Maybe she went to go find us more food? I dunno.", "ja": "もっと 食べ物を 探しに 行ったのかな? わかんない。"}
+{"sec": "map:439", "key": "SHELLY: That's not good.", "en": "SHELLY: That's not good.", "ja": "シェリー: それは よくないよ。"}
+{"sec": "map:439", "key": "Well, m-maybe we should just ask Blake?", "en": "Well, m-maybe we should just ask Blake?", "ja": "その……ぶ、ブレイクに 聞いてみる?"}
+{"sec": "map:439", "key": "KID: What?! You can't do that!", "en": "KID: What?! You can't do that! ", "ja": "こども: ええっ?! だめだよ そんなの!"}
+{"sec": "map:439", "key": "He'll find out!", "en": "He'll find out!", "ja": "ばれちゃう!"}
+{"sec": "map:439", "key": "SHELLY: Don't worry! We won't say anything about her being the Guardian Angel!", "en": "SHELLY: Don't worry! We won't say anything about her being the Guardian Angel!", "ja": "シェリー: 大丈夫! 守護天使の ことは 何も 言わないから!"}
+{"sec": "map:439", "key": "She's my friend! I'm just trying to find her!", "en": "She's my friend! I'm just trying to find her!", "ja": "あの子は わたしの 友だち! ただ 探したいだけなの!"}
+{"sec": "map:439", "key": "Can you tell us where Blake lives?", "en": "Can you tell us where Blake lives?", "ja": "ブレイクが どこに 住んでるか 教えて くれる?"}
+{"sec": "map:439", "key": "KID: Um... It's right at the top of the hill.", "en": "KID: Um... It's right at the top of the hill.", "ja": "こども: えっと……坂を 上りきった ところだよ。"}
+{"sec": "map:439", "key": "I'll go leave it open for you if you want... But then I'm not gonna be involved with this anymore!", "en": "I'll go leave it open for you if you want... But then I'm not gonna be involved with this anymore!", "ja": "よかったら 開けておいて あげる……でも これ以上 かかわらないからね!"}
+{"sec": "map:439", "key": "SHELLY: Thank you so much! I'm right behind you!", "en": "SHELLY: Thank you so much! I'm right behind you!", "ja": "シェリー: 本当に ありがとう! すぐ 後を 追うね!"}
+{"sec": "map:439", "key": "SHELLY: Brrr!", "en": "SHELLY: Brrr!", "ja": "シェリー: さ、寒い!"}
+{"sec": "map:439", "key": "I don't know how anyone can stand this cold!", "en": "I don't know how anyone can stand this cold!", "ja": "この 寒さに よく たえられるね!"}
+{"sec": "map:439", "key": "But if Heather is here somewhere, I'll definitely find her!", "en": "But if Heather is here somewhere, I'll definitely find her!", "ja": "でも ヘザーが どこかに いるなら 絶対 見つけるから!"}
+{"sec": "map:439", "key": "Let's split up and ask around!", "en": "Let's split up and ask around! ", "ja": "手分けして 聞いて まわろう!"}
+{"sec": "map:439", "key": "I bet someone is bound to know something!", "en": "I bet someone is bound to know something!", "ja": "きっと だれかが 何か 知ってるはず!"}
+{"sec": "map:439", "key": "After we talk to everyone, let's meet up somewhere.", "en": "After we talk to everyone, let's meet up somewhere.", "ja": "みんなに 聞き終わったら どこかで 落ち合おう。"}
+{"sec": "map:439", "key": "Hm, maybe there's a suspicious place around here?", "en": "Hm, maybe there's a suspicious place around here? ", "ja": "うーん この あたりに あやしい 場所が あるかな?"}
+{"sec": "map:439", "key": "I'm going to look for something like that once I'm done!", "en": "I'm going to look for something like that once I'm done!", "ja": "わたしは 終わったら そういう 場所を 探してみる!"}
+{"sec": "map:439", "key": "Good luck!", "en": "Good luck!", "ja": "がんばってね!"}
+{"sec": "map:439", "key": "KID: Um, well, if I told you who it was and word got out, then we probably wouldn't get anymore food.", "en": "KID: Um, well, if I told you who it was and word got out, then we probably wouldn't get anymore food.", "ja": "こども: えっと……だれか 教えて それが 広まったら たぶん もう 食べ物は もらえなく なる。"}
+{"sec": "map:439", "key": "SHELLY: \\PN! \\PN, \\PN, \\PN!", "en": "SHELLY: \\PN! \\PN, \\PN, \\PN! ", "ja": "シェリー: \\PN! \\PN、\\PN、\\PN!"}
+{"sec": "map:439", "key": "That WAS him!", "en": "That WAS him!", "ja": "やっぱり さっきの 人だ!"}
+{"sec": "map:439", "key": "I thought so, but I wasn't sure!", "en": "I thought so, but I wasn't sure!", "ja": "そうだと 思ってたけど 確信が なかったの!"}
+{"sec": "map:439", "key": "Maybe she went to go find us more food?", "en": "Maybe she went to go find us more food? ", "ja": "もっと 食べ物を 探しに 行ったのかな?"}
+{"sec": "map:439", "key": "I dunno.", "en": "I dunno.", "ja": "わかんない。"}
+{"sec": "map:439", "key": "SHELLY: Don't worry!", "en": "SHELLY: Don't worry! ", "ja": "シェリー: 大丈夫!"}
+{"sec": "map:439", "key": "We won't say anything about her being the Guardian Angel!", "en": "We won't say anything about her being the Guardian Angel!", "ja": "守護天使の ことは 何も 言わないから!"}
+{"sec": "map:439", "key": "She's my friend!", "en": "She's my friend! ", "ja": "あの子は わたしの 友だち!"}
+{"sec": "map:439", "key": "I'm just trying to find her!", "en": "I'm just trying to find her!", "ja": "ただ 探したいだけなの!"}
+{"sec": "map:439", "key": "I'll go leave it open for you if you want...", "en": "I'll go leave it open for you if you want... ", "ja": "よかったら 開けておいて あげる……"}
+{"sec": "map:439", "key": "But then I'm not gonna be involved with this anymore!", "en": "But then I'm not gonna be involved with this anymore!", "ja": "でも これ以上 かかわらないからね!"}
+{"sec": "map:439", "key": "SHELLY: Thank you so much!", "en": "SHELLY: Thank you so much! ", "ja": "シェリー: 本当に ありがとう!"}
+{"sec": "map:439", "key": "I'm right behind you!", "en": "I'm right behind you!", "ja": "すぐ 後を 追うね!"}
+{"sec": "map:439", "key": "Locked.", "en": "Locked.", "ja": "カギが　かかっている"}
+{"sec": "map:439", "key": "SHELLY: Heather!", "en": "SHELLY: Heather! ", "ja": "シェリー: ヘザー!"}
+{"sec": "map:439", "key": "Can you hear me?", "en": "Can you hear me?", "ja": "聞こえる?"}
+{"sec": "map:439", "key": "Or...", "en": "Or...", "ja": "それとも……"}
+{"sec": "map:439", "key": "Would you respond even if you could?", "en": "Would you respond even if you could?", "ja": "聞こえてても 返事は して くれない?"}
+{"sec": "map:439", "key": "...", "en": "...", "ja": "…………"}
+{"sec": "map:439", "key": "...No, never mind.", "en": "...No, never mind. ", "ja": "……ううん なんでもない。"}
+{"sec": "map:439", "key": "It doesn't matter!", "en": "It doesn't matter! ", "ja": "そんなの どうでも いい!"}
+{"sec": "map:439", "key": "We have to get this door open!", "en": "We have to get this door open!", "ja": "この 扉を 開けなきゃ!"}
+{"sec": "map:439", "key": "But it's locked...", "en": "But it's locked...", "ja": "でも 鍵が かかってる……"}
+{"sec": "map:439", "key": "D-did we really come all the way up here just for nothing?", "en": "D-did we really come all the way up here just for nothing?", "ja": "こ、こんな ところまで 来たのに ぜんぶ むだだったの?"}
+{"sec": "map:439", "key": "???: I'll do it.", "en": "???: I'll do it.", "ja": "???: 俺が やる。"}
+{"sec": "map:439", "key": "SHELLY: Eep! It's Blake!", "en": "SHELLY: Eep! It's Blake!", "ja": "シェリー: ひゃっ! ブレイクだ!"}
+{"sec": "map:439", "key": "???: Ugh, don't say that.", "en": "???: Ugh, don't say that.", "ja": "???: おい やめてくれ。"}
+{"sec": "map:439", "key": "CAL: It's me, Cal.", "en": "CAL: It's me, Cal. ", "ja": "キャル: 俺だ キャルだよ。"}
+{"sec": "map:439", "key": "Been a while.", "en": "Been a while.", "ja": "久しぶりだな。"}
+{"sec": "map:439", "key": "SHELLY: C-Cal?", "en": "SHELLY: C-Cal?", "ja": "シェリー: キャ、キャル?"}
+{"sec": "map:439", "key": "Th-that's even...", "en": "Th-that's even...", "ja": "そ、それって もっと……"}
+{"sec": "map:439", "key": "I-- I-- I...", "en": "I-- I-- I...", "ja": "わ——わ——わたし……"}
+{"sec": "map:439", "key": "I'm g-going!", "en": "I'm g-going! ", "ja": "い、行くね!"}
+{"sec": "map:439", "key": "I'm sorry!", "en": "I'm sorry!", "ja": "ごめんなさい!"}
+{"sec": "map:439", "key": "I'll stay out of your way!", "en": "I'll stay out of your way!", "ja": "じゃまは しないから!"}
+{"sec": "map:439", "key": "CAL: Wait!", "en": "CAL: Wait!", "ja": "キャル: 待て!"}
+{"sec": "map:439", "key": "CAL: No use...", "en": "CAL: No use... ", "ja": "キャル: だめか……"}
+{"sec": "map:439", "key": "She's still upset with me.", "en": "She's still upset with me.", "ja": "まだ 俺を 許せないんだな。"}
+{"sec": "map:439", "key": "Can't really blame her.", "en": "Can't really blame her.", "ja": "無理も ない。"}
+{"sec": "map:439", "key": "CAL: She'll figure it out.", "en": "CAL: She'll figure it out.", "ja": "キャル: あいつも いずれ わかる。"}
+{"sec": "map:439", "key": "Everyone has to move on eventually.", "en": "Everyone has to move on eventually.", "ja": "だれだって いつかは 前に 進むものだ。"}
+{"sec": "map:439", "key": "I've spent my whole life trying to be someone who was better than my brother.", "en": "I've spent my whole life trying to be someone who was better than my brother.", "ja": "俺は 人生を ずっと 兄より 上に なろうと して 生きてきた。"}
+{"sec": "map:439", "key": "I should've been trying to be someone who was, well, myself.", "en": "I should've been trying to be someone who was, well, myself.", "ja": "本当は ただ 自分自身に なろうと するべきだった。"}
+{"sec": "map:439", "key": "I've realized there's no point brooding on the past.", "en": "I've realized there's no point brooding on the past.", "ja": "過去を 悔やんでも 意味は ないと 気づいたんだ。"}
+{"sec": "map:439", "key": "So let's start over from the beginning.", "en": "So let's start over from the beginning.", "ja": "だから 最初から やりなおそう。"}
+{"sec": "map:439", "key": "Hi, \\PN.", "en": "Hi, \\PN.", "ja": "よう、\\PN。"}
+{"sec": "map:439", "key": "I'm Cal.", "en": "I'm Cal. ", "ja": "俺は キャル。"}
+{"sec": "map:439", "key": "A different Cal.", "en": "A different Cal.", "ja": "前とは 違う キャルだ。"}
+{"sec": "map:439", "key": "I may not be important, or better than anyone, but I'm my own person.", "en": "I may not be important, or better than anyone, but I'm my own person.", "ja": "たいした 人間でも だれかより 上でも ないが 俺は 俺だ。"}
+{"sec": "map:439", "key": "That's what matters.", "en": "That's what matters.", "ja": "大事なのは それだけさ。"}
+{"sec": "map:439", "key": "Now let's save Heather.", "en": "Now let's save Heather. ", "ja": "さあ ヘザーを 助けよう。"}
+{"sec": "map:439", "key": "Get behind me.", "en": "Get behind me.", "ja": "後ろに 下がってろ。"}
+{"sec": "map:439", "key": "CAL: Magmortar, melt down that door.", "en": "CAL: Magmortar, melt down that door.", "ja": "キャル: ブーバーン その 扉を 溶かせ。"}
+{"sec": "map:439", "key": "CAL: Return.", "en": "CAL: Return.", "ja": "キャル: もどれ。"}
+{"sec": "map:439", "key": "HEATHER: ...", "en": "HEATHER: ...", "ja": "ヘザー: ……"}
+{"sec": "map:439", "key": "CAL: Are you all right?", "en": "CAL: Are you all right?", "ja": "キャル: 無事か?"}
+{"sec": "map:439", "key": "HEATHER: ...Yeah, I'm fine.", "en": "HEATHER: ...Yeah, I'm fine. ", "ja": "ヘザー: ……うん 平気。"}
+{"sec": "map:439", "key": "Just got locked in a shack for like ever.", "en": "Just got locked in a shack for like ever. ", "ja": "小屋に えんえん 閉じこめられてただけ。"}
+{"sec": "map:439", "key": "No big deal.", "en": "No big deal.", "ja": "たいした ことないし。"}
+{"sec": "map:439", "key": "Actually, the food in there is decent.", "en": "Actually, the food in there is decent.", "ja": "ていうか 中の 食べ物 わりと まともだったし。"}
+{"sec": "map:439", "key": "Stupid Blake took it all away to hurt everyone else.", "en": "Stupid Blake took it all away to hurt everyone else.", "ja": "バカな ブレイクが みんなを 苦しめる ために 全部 持ってったの。"}
+{"sec": "map:439", "key": "Is everyone in the city okay?", "en": "Is everyone in the city okay?", "ja": "町の みんなは 無事なの?"}
+{"sec": "map:439", "key": "CAL: Yeah.", "en": "CAL: Yeah. ", "ja": "キャル: ああ。"}
+{"sec": "map:439", "key": "Thanks to you, from what I hear.", "en": "Thanks to you, from what I hear. ", "ja": "聞いた 話じゃ お前の おかげらしいな。"}
+{"sec": "map:439", "key": "HEATHER: Duh.", "en": "HEATHER: Duh. ", "ja": "ヘザー: 当たり前でしょ。"}
+{"sec": "map:439", "key": "I'm not just gonna sit by and let people starve.", "en": "I'm not just gonna sit by and let people starve. ", "ja": "人が 飢えてるのを だまって 見てられるわけ ないじゃん。"}
+{"sec": "map:439", "key": "I knew where the food was hidden so I did something about it.", "en": "I knew where the food was hidden so I did something about it.", "ja": "食べ物の 隠し場所を 知ってたから 何とかしたの。"}
+{"sec": "map:439", "key": "Anyone would do that, right?", "en": "Anyone would do that, right?", "ja": "だれだって そう するでしょ?"}
+{"sec": "map:439", "key": "Only Blake caught me and locked me in there.", "en": "Only Blake caught me and locked me in there. ", "ja": "でも ブレイクに 見つかって あそこに 閉じこめられた。"}
+{"sec": "map:439", "key": "So... thanks.", "en": "So... thanks.", "ja": "だから……ありがと。"}
+{"sec": "map:439", "key": "CAL: Sure thing, but we're not out of the woods yet.", "en": "CAL: Sure thing, but we're not out of the woods yet.", "ja": "キャル: どういたしまして。だが まだ 安心は できない。"}
+{"sec": "map:439", "key": "HEATHER: Yeah. We've gotta get this food to the people.", "en": "HEATHER: Yeah. We've gotta get this food to the people. ", "ja": "ヘザー: だよね。この 食べ物を みんなに 届けなきゃ。"}
+{"sec": "map:439", "key": "CAL: No.", "en": "CAL: No. ", "ja": "キャル: いや。"}
+{"sec": "map:439", "key": "We need to stop Blake.", "en": "We need to stop Blake. ", "ja": "先に ブレイクを 止める。"}
+{"sec": "map:439", "key": "On my way here, I overheard him radio for back up.", "en": "On my way here, I overheard him radio for back up. ", "ja": "ここへ 来る 途中 あいつが 無線で 応援を 呼ぶのを 聞いた。"}
+{"sec": "map:439", "key": "Team Meteor is sending a unit here, now.", "en": "Team Meteor is sending a unit here, now. ", "ja": "メテオだんが 今 部隊を こっちへ 送っている。"}
+{"sec": "map:439", "key": "HEATHER: What, starving people wasn't enough for him?", "en": "HEATHER: What, starving people wasn't enough for him?", "ja": "ヘザー: は? 人を 飢えさせるだけじゃ 足りないわけ?"}
+{"sec": "map:439", "key": "CAL: He's trying to pass off the Ruby Ring to Solaris.", "en": "CAL: He's trying to pass off the Ruby Ring to Solaris. ", "ja": "キャル: あいつは ルビーのゆびわを ソラリスに 渡そうと している。"}
+{"sec": "map:439", "key": "I don't think I need to tell you, \\PN, why that's not a good thing.", "en": "I don't think I need to tell you, \\PN, why that's not a good thing. ", "ja": "\\PN、それが どれだけ まずい ことか 言うまでも ないな。"}
+{"sec": "map:439", "key": "HEATHER: What?! How'd he get mom's ring?!", "en": "HEATHER: What?! How'd he get mom's ring?!", "ja": "ヘザー: はあ?! なんで ママの ゆびわを 持ってんの?!"}
+{"sec": "map:439", "key": "I'm getting that back, pronto!", "en": "I'm getting that back, pronto!", "ja": "今すぐ 取り返してやる!"}
+{"sec": "map:439", "key": "CAL: That's the plan.", "en": "CAL: That's the plan. ", "ja": "キャル: そのつもりだ。"}
+{"sec": "map:439", "key": "Blake's going to rendezvous with the air unit at the peak of the mountain.", "en": "Blake's going to rendezvous with the air unit at the peak of the mountain.", "ja": "ブレイクは 山頂で 航空部隊と 落ち合う。"}
+{"sec": "map:439", "key": "We don't have much time, so let's act fast.", "en": "We don't have much time, so let's act fast. ", "ja": "時間が ない 急いで 動こう。"}
+{"sec": "map:439", "key": "My plan is this:", "en": "My plan is this:", "ja": "作戦は こうだ:"}
+{"sec": "map:439", "key": "Heather, we need you to go out and slow the air unit down.", "en": "Heather, we need you to go out and slow the air unit down. ", "ja": "ヘザー、お前は 外へ 出て 航空部隊を 足止めして くれ。"}
+{"sec": "map:439", "key": "Make sure they don't reach the mountaintop.", "en": "Make sure they don't reach the mountaintop. ", "ja": "山頂に 着かせるな。"}
+{"sec": "map:439", "key": "HEATHER: What?", "en": "HEATHER: What? ", "ja": "ヘザー: はあ?"}
+{"sec": "map:439", "key": "No, I wanna get the ring back!", "en": "No, I wanna get the ring back!", "ja": "やだ アタシは ゆびわを 取り返したいの!"}
+{"sec": "map:439", "key": "CAL: I know, and you will, but with your mastery of the air, you're the best person for this job.", "en": "CAL: I know, and you will, but with your mastery of the air, you're the best person for this job.", "ja": "キャル: わかってる 必ず 取り返させる。だが 空を 制する お前が この 役目には 一番 向いている。"}
+{"sec": "map:439", "key": "HEATHER: Tch, fine.", "en": "HEATHER: Tch, fine. ", "ja": "ヘザー: ちっ わかったわよ。"}
+{"sec": "map:439", "key": "I'll show them who controls the skies!", "en": "I'll show them who controls the skies!", "ja": "空の 王者が だれか 見せてやる!"}
+{"sec": "map:439", "key": "CAL: And I'm going to find Solaris.", "en": "CAL: And I'm going to find Solaris. ", "ja": "キャル: 俺は ソラリスを 探す。"}
+{"sec": "map:439", "key": "I have a bone to pick with him after what happened at Pyrous.", "en": "I have a bone to pick with him after what happened at Pyrous. ", "ja": "パイロス山の 一件で あいつには 借りが ある。"}
+{"sec": "map:439", "key": "\\PN, you find Shelly and pursue Blake.", "en": "\\PN, you find Shelly and pursue Blake. ", "ja": "\\PN、お前は シェリーと 合流して ブレイクを 追え。"}
+{"sec": "map:439", "key": "Take the ring back.", "en": "Take the ring back. ", "ja": "ゆびわを 取り返すんだ。"}
+{"sec": "map:439", "key": "HEATHER: Huh? Shelly's here too?", "en": "HEATHER: Huh? Shelly's here too?", "ja": "ヘザー: え? シェリーも いるの?"}
+{"sec": "map:439", "key": "CAL: Yeah. Somewhere.", "en": "CAL: Yeah. Somewhere. ", "ja": "キャル: ああ どこかにな。"}
+{"sec": "map:439", "key": "Don't worry, \\PN can calm her down.", "en": "Don't worry, \\PN can calm her down.", "ja": "心配ない \\PNが なだめて くれる。"}
+{"sec": "map:439", "key": "Everyone clear?", "en": "Everyone clear? ", "ja": "みんな いいな?"}
+{"sec": "map:439", "key": "We need to move fast!", "en": "We need to move fast!", "ja": "急いで 動くぞ!"}
+{"sec": "map:439", "key": "HEATHER: Got it!", "en": "HEATHER: Got it!", "ja": "ヘザー: わかった!"}
+{"sec": "map:439", "key": "Salamence, stretch your wings!", "en": "Salamence, stretch your wings! ", "ja": "ボーマンダ 翼を 広げて!"}
+{"sec": "map:439", "key": "It's take-off time!", "en": "It's take-off time!", "ja": "飛び立つ 時間よ!"}
+{"sec": "map:439", "key": "CAL: All right, no time to waste.", "en": "CAL: All right, no time to waste. ", "ja": "キャル: よし むだにする 時間は ない。"}
+{"sec": "map:439", "key": "You find Shelly.", "en": "You find Shelly. ", "ja": "お前は シェリーを 探せ。"}
+{"sec": "map:439", "key": "Let's go!", "en": "Let's go!", "ja": "行くぞ!"}
+{"sec": "map:439", "key": "SHELLY: Heather! Can you hear me?", "en": "SHELLY: Heather! Can you hear me?", "ja": "シェリー: ヘザー! 聞こえる?"}
+{"sec": "map:439", "key": "No, never mind.", "en": "No, never mind.", "ja": "ううん なんでもない。"}
+{"sec": "map:439", "key": "...No.", "en": "...No.", "ja": "……いや"}
+{"sec": "map:439", "key": "We have to have faith in her... Heather!", "en": "We have to have faith in her... Heather!", "ja": "あの子を 信じなきゃ……ヘザー!"}
+{"sec": "map:439", "key": "Heather, can you hear me?!", "en": "Heather, can you hear me?!", "ja": "ヘザー、聞こえる?!"}
+{"sec": "map:439", "key": "SHELLY: \\PN! I'm sorry!", "en": "SHELLY: \\PN! I'm sorry! ", "ja": "シェリー: \\PN! ごめんなさい!"}
+{"sec": "map:439", "key": "I totally freaked out!", "en": "I totally freaked out!", "ja": "すっかり 取り乱しちゃって!"}
+{"sec": "map:439", "key": "But you guys got Heather out okay, right?", "en": "But you guys got Heather out okay, right?", "ja": "でも ヘザーは 無事に 助け出せたんだよね?"}
+{"sec": "map:439", "key": "...Good.", "en": "...Good. ", "ja": "……それでいい"}
+{"sec": "map:439", "key": "I don't think I can face C-Cal again.", "en": "I don't think I can face C-Cal again.", "ja": "も、もう キャルとは 顔を 合わせられない。"}
+{"sec": "map:439", "key": "I'm so scared of upsetting him like last t-time.", "en": "I'm so scared of upsetting him like last t-time.", "ja": "この前 みたいに 怒らせるのが こ、こわいの。"}
+{"sec": "map:439", "key": "I understand if he hates me, but...", "en": "I understand if he hates me, but...", "ja": "きらわれても しかたないけど……"}
+{"sec": "map:439", "key": "SHELLY: Huh?! Why is T-Team Meteor here?", "en": "SHELLY: Huh?! Why is T-Team Meteor here?", "ja": "シェリー: え?! なんで メ、メテオだんが ここに?"}
+{"sec": "map:439", "key": "METEOR: This is an attack, so brace for impact!", "en": "METEOR: This is an attack, so brace for impact!", "ja": "メテオだん: 襲撃だ 衝撃に 備えろ!"}
+{"sec": "map:439", "key": "METEOR: Targets confirmed. Beginning assault.", "en": "METEOR: Targets confirmed. Beginning assault.", "ja": "メテオだん: 目標 確認。攻撃を 開始する。"}
+{"sec": "map:439", "key": "Gr! We're out of focus!", "en": "Gr! We're out of focus!", "ja": "くっ! 照準が ずれた!"}
+{"sec": "map:439", "key": "Tch, no worries, we just need to slow them down!", "en": "Tch, no worries, we just need to slow them down!", "ja": "ちっ 気にするな 足止めできれば いい!"}
+{"sec": "map:439", "key": "SHELLY: Slow us d-down from what?", "en": "SHELLY: Slow us d-down from what?", "ja": "シェリー: な、何から 足止めするの?"}
+{"sec": "map:439", "key": "H-huh? Blake is trying to get to the peak to give the Ring to Meteor's leader?", "en": "H-huh? Blake is trying to get to the peak to give the Ring to Meteor's leader?", "ja": "え、ええ? ブレイクは 山頂で メテオだんの ボスに ゆびわを 渡そうと してるの?"}
+{"sec": "map:439", "key": "W-we won't let that happen!", "en": "W-we won't let that happen!", "ja": "そ、そんなの させない!"}
+{"sec": "map:439", "key": "METEOR: You can say that, but there's no way you'll catch him now.", "en": "METEOR: You can say that, but there's no way you'll catch him now. ", "ja": "メテオだん: 言うのは 勝手だが もう 追いつけはしない。"}
+{"sec": "map:439", "key": "Our work is as good as done.", "en": "Our work is as good as done. ", "ja": "こっちの 仕事は 終わったも 同然だ。"}
+{"sec": "map:439", "key": "Sayonara!", "en": "Sayonara!", "ja": "あばよ!"}
+{"sec": "map:439", "key": "SHELLY: And they took off...", "en": "SHELLY: And they took off...", "ja": "シェリー: 行っちゃった……"}
+{"sec": "map:439", "key": "If Blake is trying to get to the peak, we have to stop him!", "en": "If Blake is trying to get to the peak, we have to stop him! ", "ja": "ブレイクが 山頂を めざしてるなら 止めなきゃ!"}
+{"sec": "map:439", "key": "There's no t-time to waste, right? I'm going ahead!", "en": "There's no t-time to waste, right? I'm going ahead!", "ja": "ぐ、ぐずぐずして られないよね? 先に 行くね!"}
+{"sec": "map:439", "key": "SHELLY: Huh?! Why is T-team Meteor here?", "en": "SHELLY: Huh?! Why is T-team Meteor here?", "ja": "シェリー: え?! なんで メ、メテオだんが ここに?"}
+{"sec": "map:439", "key": "SHELLY: We found him!", "en": "SHELLY: We found him!", "ja": "シェリー: 見つけた!"}
+{"sec": "map:439", "key": "BLAKE: So I see you escaped your cage, little birdie.", "en": "BLAKE: So I see you escaped your cage, little birdie. ", "ja": "ブレイク: かごから 逃げ出したか 小鳥ちゃん。"}
+{"sec": "map:439", "key": "HEATHER: Don't talk down to me!", "en": "HEATHER: Don't talk down to me!", "ja": "ヘザー: 見下した 言い方 やめてよ!"}
+{"sec": "map:439", "key": "You're the one working with the bad guys!", "en": "You're the one working with the bad guys!", "ja": "悪党と 手を 組んでるのは そっちでしょ!"}
+{"sec": "map:439", "key": "You're the one who tried to starve an entire city!", "en": "You're the one who tried to starve an entire city!", "ja": "町ぜんぶを 飢えさせようと したのも そっち!"}
+{"sec": "map:439", "key": "And you're the one who lied and said you'd let me do anything I wanted if I stayed here!", "en": "And you're the one who lied and said you'd let me do anything I wanted if I stayed here!", "ja": "ここに いれば 好きに させてやるって うそを ついたのも そっちじゃん!"}
+{"sec": "map:439", "key": "BLAKE: Well, yeah, that's cuz I needed the Ruby Ring.", "en": "BLAKE: Well, yeah, that's cuz I needed the Ruby Ring.", "ja": "ブレイク: まあな ルビーのゆびわが 必要だったからだ。"}
+{"sec": "map:439", "key": "People lie all the time, birdie.", "en": "People lie all the time, birdie.", "ja": "人は しょっちゅう うそを つくんだよ 小鳥ちゃん。"}
+{"sec": "map:439", "key": "It's no big deal.", "en": "It's no big deal.", "ja": "たいした ことじゃない。"}
+{"sec": "map:439", "key": "HEATHER: Don't you DARE say that to me!", "en": "HEATHER: Don't you DARE say that to me!", "ja": "ヘザー: アタシに それを 言うな!"}
+{"sec": "map:439", "key": "That's life.", "en": "That's life.", "ja": "それが 人生って もんだ。"}
+{"sec": "map:439", "key": "\"That's life\" this!", "en": "\"That's life\" this! ", "ja": "「それが 人生」だの!"}
+{"sec": "map:439", "key": "\"Welcome to the real world\" that!", "en": "\"Welcome to the real world\" that!", "ja": "「現実は こんなもんだ」だの!"}
+{"sec": "map:439", "key": "I had enough of that from my stupid father!", "en": "I had enough of that from my stupid father!", "ja": "そんなの バカな 父さんで もう うんざりなの!"}
+{"sec": "map:439", "key": "BLAKE: Oh, yeah.", "en": "BLAKE: Oh, yeah. ", "ja": "ブレイク: ああ そうだな。"}
+{"sec": "map:439", "key": "That old coot.", "en": "That old coot. ", "ja": "あの じいさんか。"}
+{"sec": "map:439", "key": "It's his fault any of this happened in the first place.", "en": "It's his fault any of this happened in the first place. ", "ja": "そもそも こう なったのは あいつの せいだ。"}
+{"sec": "map:439", "key": "HEATHER: Oh, shut up already!", "en": "HEATHER: Oh, shut up already!", "ja": "ヘザー: いいかげん だまってよ!"}
+{"sec": "map:439", "key": "Okay, maybe he was a jerk half the time, but you know what?", "en": "Okay, maybe he was a jerk half the time, but you know what?", "ja": "たしかに 半分は いやな 奴だった。でも ね?"}
+{"sec": "map:439", "key": "He always said life is cruel and all this other stuff, and I see what he meant now!", "en": "He always said life is cruel and all this other stuff, and I see what he meant now!", "ja": "人生は 残酷だとか ずっと 言ってた。今なら その 意味が わかる!"}
+{"sec": "map:439", "key": "People like you are the reason!", "en": "People like you are the reason!", "ja": "あんたみたいな 奴が いるからだ!"}
+{"sec": "map:439", "key": "If \"reality\" is cold, it's because people like you only care about themselves!", "en": "If \"reality\" is cold, it's because people like you only care about themselves!", "ja": "「現実」が 冷たいのは あんたみたいに 自分の ことしか 考えない 奴が いるから!"}
+{"sec": "map:439", "key": "And yes, it's not fair!", "en": "And yes, it's not fair!", "ja": "そう 不公平だよ!"}
+{"sec": "map:439", "key": "But that's why we have to fight to fix it!", "en": "But that's why we have to fight to fix it!", "ja": "でも だから 直す ために 戦うんじゃん!"}
+{"sec": "map:439", "key": "That's what he taught me!", "en": "That's what he taught me! ", "ja": "父さんが 教えてくれたのは それ!"}
+{"sec": "map:439", "key": "He taught me to fight to make life better!", "en": "He taught me to fight to make life better!", "ja": "人生を よくする ために 戦えって 教えてくれたの!"}
+{"sec": "map:439", "key": "I mean, if he had just given us the Ring, this would be sooo much easier.", "en": "I mean, if he had just given us the Ring, this would be sooo much easier.", "ja": "あいつが ゆびわを 素直に 渡してりゃ ずーっと 楽だったんだがな。"}
+{"sec": "map:439", "key": "HEATHER: Tch, as if he would!", "en": "HEATHER: Tch, as if he would! ", "ja": "ヘザー: ちっ 渡すわけ ないでしょ!"}
+{"sec": "map:439", "key": "That was Mom's precious ring!", "en": "That was Mom's precious ring!", "ja": "ママの 大切な ゆびわだったんだから!"}
+{"sec": "map:439", "key": "BLAKE: LOL, you actually don't know, do you?", "en": "BLAKE: LOL, you actually don't know, do you?", "ja": "ブレイク: ぷっ 本当に 知らないんだな?"}
+{"sec": "map:439", "key": "Your daddy was working for us the whole time!", "en": "Your daddy was working for us the whole time! ", "ja": "お前の パパは ずっと こっちの ために 働いてたんだよ!"}
+{"sec": "map:439", "key": "We were just letting him borrow it for his stupid sentiments.", "en": "We were just letting him borrow it for his stupid sentiments. ", "ja": "くだらない 感傷に つきあって 貸してやってただけだ。"}
+{"sec": "map:439", "key": "Then you stole it, and here we are.", "en": "Then you stole it, and here we are. ", "ja": "それを お前が 盗んで 今に いたる。"}
+{"sec": "map:439", "key": "HEATHER: My dad would never work with you guys!", "en": "HEATHER: My dad would never work with you guys! ", "ja": "ヘザー: パパが あんたたちと 組むわけ ない!"}
+{"sec": "map:439", "key": "You're just lying again!", "en": "You're just lying again!", "ja": "また うそを ついてる!"}
+{"sec": "map:439", "key": "You've done nothing but lie since I met you!", "en": "You've done nothing but lie since I met you!", "ja": "会ってから ずっと うそばっかり!"}
+{"sec": "map:439", "key": "You said that you'd take care of me, and you didn't!", "en": "You said that you'd take care of me, and you didn't! ", "ja": "面倒を 見るって 言ったのに 見なかった!"}
+{"sec": "map:439", "key": "You said there would be no rules, and then you locked me up!", "en": "You said there would be no rules, and then you locked me up!", "ja": "ルールは ないって 言ったのに 閉じこめた!"}
+{"sec": "map:439", "key": "So you're obviously just lying about this too!", "en": "So you're obviously just lying about this too!", "ja": "だから これも どうせ うそに 決まってる!"}
+{"sec": "map:439", "key": "BLAKE: Uh huh.", "en": "BLAKE: Uh huh.", "ja": "ブレイク: へえへえ。"}
+{"sec": "map:439", "key": "You done yet?", "en": "You done yet?", "ja": "もう 終わりか?"}
+{"sec": "map:439", "key": "HEATHER: Hmph!", "en": "HEATHER: Hmph!", "ja": "ヘザー: ふんっ!"}
+{"sec": "map:439", "key": "Listen here! You're gonna give me my ring back!", "en": "Listen here! You're gonna give me my ring back!", "ja": "いい? アタシの ゆびわを 返してもらうから!"}
+{"sec": "map:439", "key": "BLAKE: I'm sorry, what was that?", "en": "BLAKE: I'm sorry, what was that? ", "ja": "ブレイク: わるいな 何だって?"}
+{"sec": "map:439", "key": "I can't hear you over the annoying screeching noise in the air.", "en": "I can't hear you over the annoying screeching noise in the air.", "ja": "空から うるさい きしみ音が して 聞こえないんだ。"}
+{"sec": "map:439", "key": "Also, I think I hear the air unit approaching.", "en": "Also, I think I hear the air unit approaching.", "ja": "それに 航空部隊が 近づいてくるのが 聞こえるぜ。"}
+{"sec": "map:439", "key": "HEATHER: Tch, guess I don't have a choice.", "en": "HEATHER: Tch, guess I don't have a choice.", "ja": "ヘザー: ちっ しかたないか。"}
+{"sec": "map:439", "key": "I'll show them what's what and then I'll be back for you. Count on it!", "en": "I'll show them what's what and then I'll be back for you. Count on it!", "ja": "あいつらを 片づけたら すぐ 戻ってくる。覚悟してなよ!"}
+{"sec": "map:439", "key": "Shelly, \\PN, keep him busy!", "en": "Shelly, \\PN, keep him busy!", "ja": "シェリー、\\PN、そいつを 引き止めて!"}
+{"sec": "map:439", "key": "BLAKE: Busy, huh?", "en": "BLAKE: Busy, huh? ", "ja": "ブレイク: 引き止める ねぇ?"}
+{"sec": "map:439", "key": "I'm bored already.", "en": "I'm bored already.", "ja": "もう 飽きたよ。"}
+{"sec": "map:439", "key": "You two deal with them.", "en": "You two deal with them. ", "ja": "お前ら 2人で 相手しろ。"}
+{"sec": "map:439", "key": "I'm going on.", "en": "I'm going on.", "ja": "俺は 先へ 行く。"}
+{"sec": "map:439", "key": "So much for that.", "en": "So much for that.", "ja": "これまでか。"}
+{"sec": "map:439", "key": "Did we really fly all the way up here just to lose?", "en": "Did we really fly all the way up here just to lose?", "ja": "こんな 高くまで 飛んできて 負けるだけ かよ?"}
+{"sec": "map:439", "key": "METEOR: Think that's good enough for them?", "en": "METEOR: Think that's good enough for them?", "ja": "メテオだん: これで あいつらは 足止めできたか?"}
+{"sec": "map:439", "key": "METEOR: It'll have to be.", "en": "METEOR: It'll have to be. ", "ja": "メテオだん: そう するしか ない。"}
+{"sec": "map:439", "key": "Let's get out of here, I'm freezing!", "en": "Let's get out of here, I'm freezing!", "ja": "早く ずらかろう 凍えちまう!"}
+{"sec": "map:439", "key": "CAL: Stop already!", "en": "CAL: Stop already!", "ja": "キャル: もう やめろ!"}
+{"sec": "map:439", "key": "BLAKE: Yeah, okay, I'll just do that.", "en": "BLAKE: Yeah, okay, I'll just do that.", "ja": "ブレイク: ああ わかった そう するよ。"}
+{"sec": "map:439", "key": "You know, these guys are gonna keep on coming.", "en": "You know, these guys are gonna keep on coming. ", "ja": "なあ こいつらは いくらでも 湧いてくるぜ。"}
+{"sec": "map:439", "key": "Save yourself the time and give up already, bro!", "en": "Save yourself the time and give up already, bro!", "ja": "時間の むだだ さっさと あきらめろ 弟よ!"}
+{"sec": "map:439", "key": "Ta-ta for now.", "en": "Ta-ta for now.", "ja": "じゃあな。"}
+{"sec": "map:439", "key": "CAL: Arrogant as always.", "en": "CAL: Arrogant as always.", "ja": "キャル: 相変わらず 高慢だな。"}
+{"sec": "map:439", "key": "Let's do this fast.", "en": "Let's do this fast.", "ja": "手早く 片づけよう。"}
+{"sec": "map:439", "key": "Hey, didn't you use to be on our side?", "en": "Hey, didn't you use to be on our side?", "ja": "なあ あんた 前は こっち側だったよな?"}
+{"sec": "map:439", "key": "Does it matter? He clearly isn't anymore.", "en": "Does it matter? He clearly isn't anymore.", "ja": "どうでも いい。今は 明らかに 違う。"}
+{"sec": "map:439", "key": "It'll have to be.", "en": "It'll have to be. ", "ja": "そう するしか ない。"}
+{"sec": "map:439", "key": "CAL: You must be Heather.", "en": "CAL: You must be Heather.", "ja": "キャル: お前が ヘザーだな。"}
+{"sec": "map:439", "key": "HEATHER: Yeah. Cal, right?", "en": "HEATHER: Yeah. Cal, right? ", "ja": "ヘザー: そう。キャル だっけ?"}
+{"sec": "map:439", "key": "Shelly told me about you.", "en": "Shelly told me about you.", "ja": "シェリーから 聞いてる。"}
+{"sec": "map:439", "key": "Look, there's a lot more of them in the air unit than I expected!", "en": "Look, there's a lot more of them in the air unit than I expected!", "ja": "ねえ 航空部隊 思ってたより ずっと 多いよ!"}
+{"sec": "map:439", "key": "I'm not sure which the main helicopter is, but one of them has their leader!", "en": "I'm not sure which the main helicopter is, but one of them has their leader!", "ja": "どれが 本命の ヘリか わかんないけど どれかに ボスが 乗ってる!"}
+{"sec": "map:439", "key": "CAL: Yeah?", "en": "CAL: Yeah? ", "ja": "キャル: そうか。"}
+{"sec": "map:439", "key": "Well, we'll just have to shoot them all down until we find him.", "en": "Well, we'll just have to shoot them all down until we find him. ", "ja": "なら 見つかるまで 全部 撃ち落とすまでだ。"}
+{"sec": "map:439", "key": "That sounds like something I'm game for.", "en": "That sounds like something I'm game for.", "ja": "望むところだな。"}
+{"sec": "map:439", "key": "CAL: Charizard, get ready!", "en": "CAL: Charizard, get ready!", "ja": "キャル: リザードン 用意しろ!"}
+{"sec": "map:439", "key": "CAL: Solaris, I'm coming for you.", "en": "CAL: Solaris, I'm coming for you. ", "ja": "キャル: ソラリス 会いに 行くぞ。"}
+{"sec": "map:439", "key": "HEATHER: I'm gonna go help!", "en": "HEATHER: I'm gonna go help! ", "ja": "ヘザー: アタシも 手伝ってくる!"}
+{"sec": "map:439", "key": "I dropped Shelly off a little further up, so meet up with her, all right, \\PN?", "en": "I dropped Shelly off a little further up, so meet up with her, all right, \\PN?", "ja": "シェリーは 少し 先で 降ろしたから 合流してよ いい、\\PN?"}
+{"sec": "map:439", "key": "Let's kick some butt!", "en": "Let's kick some butt!", "ja": "ぶっ飛ばしてやろう!"}
+{"sec": "map:439", "key": "SHELLY: Hey! If you look down there, you can see Calcenon and Labradorra!", "en": "SHELLY: Hey! If you look down there, you can see Calcenon and Labradorra!", "ja": "シェリー: ねえ! 下を 見て カルセノンと ラブラドラが 見えるよ!"}
+{"sec": "map:439", "key": "That barrier really does cover the whole city, huh...", "en": "That barrier really does cover the whole city, huh...", "ja": "あの 障壁 本当に 町ぜんぶを おおってるんだね……"}
+{"sec": "map:439", "key": "I hope everyone down there is okay.", "en": "I hope everyone down there is okay.", "ja": "下の みんなが 無事だと いいけど。"}
+{"sec": "map:439", "key": "S-sorry! This isn't the time to be sight-seeing! Let's go!", "en": "S-sorry! This isn't the time to be sight-seeing! Let's go!", "ja": "ご、ごめん! 見物してる 場合じゃ ないね! 行こう!"}
+{"sec": "map:439", "key": "METEOR: Sup?!", "en": "METEOR: Sup?!", "ja": "メテオだん: よお!"}
+{"sec": "map:439", "key": "Down you go! Bop!", "en": "Down you go! Bop!", "ja": "落ちろ! それっ!"}
+{"sec": "map:439", "key": "SHELLY: H-huh?! Wha-wha-aaaah!", "en": "SHELLY: H-huh?! Wha-wha-aaaah!", "ja": "シェリー: え、ええ?! な、なんで きゃああっ!"}
+{"sec": "map:439", "key": "CAL: I've got you!", "en": "CAL: I've got you!", "ja": "キャル: つかまえた!"}
+{"sec": "map:439", "key": "SHELLY: C-Cal...?", "en": "SHELLY: C-Cal...?", "ja": "シェリー: キャ、キャル……?"}
+{"sec": "map:439", "key": "SHELLY: Watch out!", "en": "SHELLY: Watch out!", "ja": "シェリー: 危ない!"}
+{"sec": "map:439", "key": "CAL: Hmph, right.", "en": "CAL: Hmph, right. ", "ja": "キャル: ふん そうだな。"}
+{"sec": "map:439", "key": "\\PN, you got my back? Let's do this!", "en": "\\PN, you got my back? Let's do this!", "ja": "\\PN、背中は まかせたぞ。行くぞ!"}
+{"sec": "map:439", "key": "Ugh, we couldn't account for a third being here...", "en": "Ugh, we couldn't account for a third being here...", "ja": "くそ 3人目が いるとは 計算外だ……"}
+{"sec": "map:439", "key": "Hey! Weren't you on our side at one point, mister?!", "en": "Hey! Weren't you on our side at one point, mister?!", "ja": "おい! あんた 前は こっち側だっただろ?!"}
+{"sec": "map:439", "key": "METEOR: Tch, don't let your petty sibling rivalry get in the way of our work, Cal.", "en": "METEOR: Tch, don't let your petty sibling rivalry get in the way of our work, Cal.", "ja": "メテオだん: ちっ くだらない 兄弟げんかで 仕事の じゃまを するな キャル。"}
+{"sec": "map:439", "key": "CAL: I've cut my ties with you already.", "en": "CAL: I've cut my ties with you already.", "ja": "キャル: お前たちとは とっくに 縁を 切った。"}
+{"sec": "map:439", "key": "Leave or I'll burn you to a crisp, chump.", "en": "Leave or I'll burn you to a crisp, chump. ", "ja": "消えろ さもないと 消し炭に するぞ 三下。"}
+{"sec": "map:439", "key": "METEOR: Hm! No difference to us at this point.", "en": "METEOR: Hm! No difference to us at this point. ", "ja": "メテオだん: ふん! 今さら こっちには 関係ない。"}
+{"sec": "map:439", "key": "Ta-ta!", "en": "Ta-ta!", "ja": "じゃあな!"}
+{"sec": "map:439", "key": "CAL: Shelly, are you hurt?", "en": "CAL: Shelly, are you hurt?", "ja": "キャル: シェリー けがは ないか?"}
+{"sec": "map:439", "key": "SHELLY: N-no... Um, thanks.", "en": "SHELLY: N-no... Um, thanks.", "ja": "シェリー: う、ううん……あの ありがとう。"}
+{"sec": "map:439", "key": "Y-y-you, um...", "en": "Y-y-you, um...", "ja": "あ、あ、あなた その……"}
+{"sec": "map:439", "key": "CAL: Hey. I'm sorry about before.", "en": "CAL: Hey. I'm sorry about before. ", "ja": "キャル: なあ この前は わるかった。"}
+{"sec": "map:439", "key": "I made a lot of mistakes, but that's all behind me now.", "en": "I made a lot of mistakes, but that's all behind me now.", "ja": "たくさん 間違いを おかした。だが もう 過去の ことだ。"}
+{"sec": "map:439", "key": "I don't expect you to forgive me, but at the very least, you don't have to be scared.", "en": "I don't expect you to forgive me, but at the very least, you don't have to be scared.", "ja": "許して もらおうとは 思わない。だが せめて こわがる 必要は ない。"}
+{"sec": "map:439", "key": "I'm not going to hurt you.", "en": "I'm not going to hurt you.", "ja": "君を 傷つけたりは しない。"}
+{"sec": "map:439", "key": "SHELLY: O-okay...", "en": "SHELLY: O-okay...", "ja": "シェリー: う、うん……"}
+{"sec": "map:439", "key": "CAL: Unfortunately, this really isn't the time to be catching up.", "en": "CAL: Unfortunately, this really isn't the time to be catching up. ", "ja": "キャル: あいにく 積もる 話を している 場合じゃ ない。"}
+{"sec": "map:439", "key": "Solaris is almost near the peak.", "en": "Solaris is almost near the peak.", "ja": "ソラリスは もう 山頂の 近くだ。"}
+{"sec": "map:439", "key": "There's too many for me to even get near him, so I'm going this way.", "en": "There's too many for me to even get near him, so I'm going this way. ", "ja": "数が 多すぎて 近づけない。俺は こっちから 行く。"}
+{"sec": "map:439", "key": "Come on, we don't have much time!", "en": "Come on, we don't have much time!", "ja": "来い 時間が ない!"}
+{"sec": "map:439", "key": "SHELLY: There you are!", "en": "SHELLY: There you are!", "ja": "シェリー: そこに いたんだ!"}
+{"sec": "map:439", "key": "It seems like Heather's doing a lot better.", "en": "It seems like Heather's doing a lot better. ", "ja": "ヘザーは ずいぶん 元気に なったみたい。"}
+{"sec": "map:439", "key": "Thank you for helping me with her!", "en": "Thank you for helping me with her!", "ja": "あの子の こと 助けてくれて ありがとう!"}
+{"sec": "map:439", "key": "Anyway, she's trusting us to catch Blake, so let's get to it, okay?", "en": "Anyway, she's trusting us to catch Blake, so let's get to it, okay?", "ja": "とにかく ヘザーは ブレイクを 追うのを 任せてくれた。急ごう ね?"}
+{"sec": "map:439", "key": "SHELLY: Eep! Where'd you guys come from!?", "en": "SHELLY: Eep! Where'd you guys come from!?", "ja": "シェリー: ひゃっ! どこから 出てきたの!?"}
+{"sec": "map:439", "key": "Ah, no! I won't be scared anymore!", "en": "Ah, no! I won't be scared anymore!", "ja": "ううん! もう こわがったり しない!"}
+{"sec": "map:439", "key": "So much for the element of surprise.", "en": "So much for the element of surprise.", "ja": "奇襲も 台なしだな。"}
+{"sec": "map:439", "key": "I think my wing jammed...", "en": "I think my wing jammed...", "ja": "翼が 引っかかったみたいだ……"}
+{"sec": "map:439", "key": "SHELLY: There! We did it!", "en": "SHELLY: There! We did it!", "ja": "シェリー: よし! やったね!"}
+{"sec": "map:439", "key": "METEOR: Hm! No difference to us at this point. Ta-ta!", "en": "METEOR: Hm! No difference to us at this point. Ta-ta!", "ja": "メテオだん: ふん! 今さら こっちには 関係ない。じゃあな!"}
+{"sec": "map:439", "key": "SHELLY: Anyway, as I was saying, we should hurry!", "en": "SHELLY: Anyway, as I was saying, we should hurry! ", "ja": "シェリー: とにかく さっきも 言ったけど 急がなきゃ!"}
+{"sec": "map:439", "key": "Blake could be getting close to the top at any time!", "en": "Blake could be getting close to the top at any time!", "ja": "ブレイクは いつ 山頂に 着いても おかしくない!"}
+{"sec": "map:439", "key": "C'mon!", "en": "C'mon!", "ja": "行こう!"}
+{"sec": "map:439", "key": "SHELLY: I- I'm sorry, \\PN... I think I n-need a moment.", "en": "SHELLY: I- I'm sorry, \\PN... I think I n-need a moment.", "ja": "シェリー: ご、ごめん、\\PN……ちょ、ちょっと 休ませて。"}
+{"sec": "map:439", "key": "D-don't wait for me, okay?", "en": "D-don't wait for me, okay?", "ja": "ま、待たなくて いいから ね?"}
+{"sec": "map:439", "key": "CAL: They're just comin' out of the woodwork, aren't they?", "en": "CAL: They're just comin' out of the woodwork, aren't they?", "ja": "キャル: つぎつぎ 湧いて 出てくるな。"}
+{"sec": "map:439", "key": "It's all right, they'll meet up soon!", "en": "It's all right, they'll meet up soon!", "ja": "問題ない もうすぐ 合流できる!"}
+{"sec": "map:439", "key": "You say that, but I'm tired of losing!", "en": "You say that, but I'm tired of losing!", "ja": "そう 言うけど 負けるのは もう うんざりだ!"}
+{"sec": "map:439", "key": "CAL: There can't be too many more now.", "en": "CAL: There can't be too many more now. ", "ja": "キャル: もう そう 多くは 残っていない はずだ。"}
+{"sec": "map:439", "key": "You just wait, Solaris.", "en": "You just wait, Solaris.", "ja": "待ってろよ ソラリス。"}
+{"sec": "map:439", "key": "SHELLY: More of them!", "en": "SHELLY: More of them!", "ja": "シェリー: まだ いる!"}
+{"sec": "map:439", "key": "Okay, I'm set! \\PN?", "en": "Okay, I'm set! \\PN?", "ja": "よし 準備 できた! \\PNは?"}
+{"sec": "map:439", "key": "SHELLY: We must be getting close now.", "en": "SHELLY: We must be getting close now. ", "ja": "シェリー: もう だいぶ 近いはず。"}
+{"sec": "map:439", "key": "Just a little more!", "en": "Just a little more!", "ja": "あと 少しだよ!"}
+{"sec": "map:439", "key": "BLAKE: Aite, so now that you caught up to me, what're you gonna do?", "en": "BLAKE: Aite, so now that you caught up to me, what're you gonna do?", "ja": "ブレイク: よお 追いついたは いいが これから どうする?"}
+{"sec": "map:439", "key": "Didn't you think that through?", "en": "Didn't you think that through?", "ja": "そこまで 考えてなかったのか?"}
+{"sec": "map:439", "key": "CAL: You're trying to aggravate me.", "en": "CAL: You're trying to aggravate me. ", "ja": "キャル: 俺を 怒らせたいんだろう。"}
+{"sec": "map:439", "key": "It's not going to work anymore.", "en": "It's not going to work anymore. ", "ja": "もう 通用しない。"}
+{"sec": "map:439", "key": "BLAKE: And you got your old hair color to match!", "en": "BLAKE: And you got your old hair color to match! ", "ja": "ブレイク: しかも 昔の 髪の色に 戻してきたか!"}
+{"sec": "map:439", "key": "Did you wanna be more like your big bro?", "en": "Did you wanna be more like your big bro?", "ja": "兄貴に 近づきたく なったのか?"}
+{"sec": "map:439", "key": "How sweet.", "en": "How sweet. ", "ja": "かわいい ねぇ。"}
+{"sec": "map:439", "key": "CAL: My distaste for you hasn't changed, but I'm not going to define myself in response to you anymore.", "en": "CAL: My distaste for you hasn't changed, but I'm not going to define myself in response to you anymore. ", "ja": "キャル: お前が 嫌いなのは 変わらない。だが もう お前を 基準に 自分を 決めたりは しない。"}
+{"sec": "map:439", "key": "BLAKE: Awwh, did my baby brother finally grow up?", "en": "BLAKE: Awwh, did my baby brother finally grow up?", "ja": "ブレイク: おやおや 弟くんも やっと 大人に なったか?"}
+{"sec": "map:439", "key": "How adowable!", "en": "How adowable! ", "ja": "なんて かわいいんでちゅ!"}
+{"sec": "map:439", "key": "What a cutie, I could just pinch your wittle cheek!", "en": "What a cutie, I could just pinch your wittle cheek!", "ja": "かわいこちゃん ちっちゃな ほっぺを つまんでやりたいよ!"}
+{"sec": "map:439", "key": "So what happened to all your precious little Fire- Types you always tried to beat me with?", "en": "So what happened to all your precious little Fire- Types you always tried to beat me with? ", "ja": "ところで 俺を 倒そうと いつも 連れてた だいじな ほのおタイプは どうした?"}
+{"sec": "map:439", "key": "Get bored of 'em yet?", "en": "Get bored of 'em yet?", "ja": "もう 飽きたか?"}
+{"sec": "map:439", "key": "CAL: Don't kid yourself.", "en": "CAL: Don't kid yourself. ", "ja": "キャル: ばかを 言うな。"}
+{"sec": "map:439", "key": "Now, return the Ruby Ring to Heather.", "en": "Now, return the Ruby Ring to Heather.", "ja": "さあ ルビーのゆびわを ヘザーに 返せ。"}
+{"sec": "map:439", "key": "BLAKE: 'Kay, LOL.", "en": "BLAKE: 'Kay, LOL.", "ja": "ブレイク: はいはい ぷぷっ。"}
+{"sec": "map:439", "key": "You two deal with him.", "en": "You two deal with him. ", "ja": "お前ら 2人で こいつを 相手しろ。"}
+{"sec": "map:439", "key": "I have a ride to catch.", "en": "I have a ride to catch.", "ja": "俺は 迎えに 乗る。"}
+{"sec": "map:439", "key": "It's no good!", "en": "It's no good!", "ja": "だめだ!"}
+{"sec": "map:439", "key": "Yeah, it never has been.", "en": "Yeah, it never has been.", "ja": "ああ 最初から そうさ。"}
+{"sec": "map:439", "key": "CAL: Blake!", "en": "CAL: Blake!", "ja": "キャル: ブレイク!"}
+{"sec": "map:439", "key": "Enough. Face me already.", "en": "Enough. Face me already. ", "ja": "もう たくさんだ。いいかげん 俺と 向き合え。"}
+{"sec": "map:439", "key": "BLAKE: ...Bruh.", "en": "BLAKE: ...Bruh.", "ja": "ブレイク: ……やれやれ。"}
+{"sec": "map:439", "key": "Fine, have it your way.", "en": "Fine, have it your way.", "ja": "いいさ 好きに しろ。"}
+{"sec": "map:439", "key": "BLAKE: Knowing you, you're too stupid to die from something like that, right?", "en": "BLAKE: Knowing you, you're too stupid to die from something like that, right?", "ja": "ブレイク: お前の ことだ この程度じゃ 死なないくらい バカだろ?"}
+{"sec": "map:439", "key": "See you next fall, stupid oaf.", "en": "See you next fall, stupid oaf.", "ja": "また 落ちて 会おうぜ まぬけ。"}
+{"sec": "map:439", "key": "We'll be going now.", "en": "We'll be going now. ", "ja": "こっちは 行かせてもらう。"}
+{"sec": "map:439", "key": "Stay frosty.", "en": "Stay frosty.", "ja": "せいぜい 冷えてろよ。"}
+{"sec": "map:439", "key": "\"Welcome to Ametrine City!\"", "en": "\"Welcome to Ametrine City!\"", "ja": "「アメトリンシティへ ようこそ!」"}
+{"sec": "map:439", "key": "SHELLY: Okay, let's think.", "en": "SHELLY: Okay, let's think. ", "ja": "シェリー: よし 考えよう。"}
+{"sec": "map:439", "key": "There has to be some way to find her, right?", "en": "There has to be some way to find her, right?", "ja": "きっと 見つける 方法が あるはずだよね?"}
+{"sec": "map:439", "key": "SHELLY: He said she was locked up.", "en": "SHELLY: He said she was locked up.", "ja": "シェリー: 閉じこめられてるって 話だった。"}
+{"sec": "map:439", "key": "So where could someone possibly hide a girl in a place like this?", "en": "So where could someone possibly hide a girl in a place like this?", "ja": "こんな 場所で 女の子を 隠すなら どこ だろう?"}
+{"sec": "map:439", "key": "???: ...Shelly?", "en": "???: ...Shelly?", "ja": "???: ……シェリー?"}
+{"sec": "map:439", "key": "SHELLY: Eep!", "en": "SHELLY: Eep! ", "ja": "シェリー: ひゃっ!"}
+{"sec": "map:439", "key": "It's Blake, he's s-still here!", "en": "It's Blake, he's s-still here!", "ja": "ブレイクだ ま、まだ ここに いる!"}
+{"sec": "map:439", "key": "???: I'm not Blake.", "en": "???: I'm not Blake.", "ja": "???: ブレイクじゃ ない。"}
+{"sec": "map:439", "key": "It's me, Cal.", "en": "It's me, Cal.", "ja": "俺だ キャルだ。"}
+{"sec": "map:439", "key": "Oh n-no, no, no...", "en": "Oh n-no, no, no... ", "ja": "や、やだ やだ やだ……"}
+{"sec": "map:439", "key": "I'm sorry, I'm--", "en": "I'm sorry, I'm--", "ja": "ごめんなさい、わたし——"}
+{"sec": "map:439", "key": "CAL: Shelly, wait.", "en": "CAL: Shelly, wait.", "ja": "キャル: シェリー 待て。"}
+{"sec": "map:439", "key": "SHELLY: Y-yeah?", "en": "SHELLY: Y-yeah?", "ja": "シェリー: な、なに?"}
+{"sec": "map:439", "key": "CAL: You don't have to be scared.", "en": "CAL: You don't have to be scared. ", "ja": "キャル: こわがらなくて いい。"}
+{"sec": "map:439", "key": "I'm sorry for what happened before.", "en": "I'm sorry for what happened before.", "ja": "この前の ことは すまなかった。"}
+{"sec": "map:439", "key": "I let my anger get the better of me and hurt you.", "en": "I let my anger get the better of me and hurt you.", "ja": "怒りに 飲まれて 君を 傷つけた。"}
+{"sec": "map:439", "key": "SHELLY: N-no, I was really stu-stupid...", "en": "SHELLY: N-no, I was really stu-stupid...", "ja": "シェリー: う、ううん わたしが ば、ばかだったの……"}
+{"sec": "map:439", "key": "I should've known th-that it wasn't, um, exactly the same...", "en": "I should've known th-that it wasn't, um, exactly the same...", "ja": "お、同じじゃ ないって 気づくべきだった……"}
+{"sec": "map:439", "key": "CAL: There's no use in telling yourself things like you \"should've known\".", "en": "CAL: There's no use in telling yourself things like you \"should've known\".", "ja": "キャル: 「気づくべきだった」なんて 自分に 言い聞かせても 意味は ない。"}
+{"sec": "map:439", "key": "That would just give me an excuse where I don't deserve one.", "en": "That would just give me an excuse where I don't deserve one.", "ja": "それは 資格の ない 俺に 言い訳を あたえるだけだ。"}
+{"sec": "map:439", "key": "I hurt you;", "en": "I hurt you; ", "ja": "俺は 君を 傷つけた。"}
+{"sec": "map:439", "key": "You should be upset with me.", "en": "You should be upset with me.", "ja": "君は 俺を 責めて いい。"}
+{"sec": "map:439", "key": "Nothing I do will change the past, and I don't expect your forgiveness.", "en": "Nothing I do will change the past, and I don't expect your forgiveness.", "ja": "何を しても 過去は 変わらないし 許しを 求める つもりも ない。"}
+{"sec": "map:439", "key": "So I'm just going to focus on what I can fix:", "en": "So I'm just going to focus on what I can fix: ", "ja": "だから 直せる ものにだけ 集中する:"}
+{"sec": "map:439", "key": "The future.", "en": "The future. ", "ja": "未来だ。"}
+{"sec": "map:439", "key": "And if you can stand me, I would greatly appreciate your help.", "en": "And if you can stand me, I would greatly appreciate your help.", "ja": "そして 俺を 我慢できるなら 力を 貸して ほしい。"}
+{"sec": "map:439", "key": "SHELLY: Um-- Of course...", "en": "SHELLY: Um-- Of course...", "ja": "シェリー: えっと——もちろん……"}
+{"sec": "map:439", "key": "But... um, j-just one question?", "en": "But... um, j-just one question?", "ja": "でも……あの ひ、ひとつ 聞いても いい?"}
+{"sec": "map:439", "key": "CAL: What is it?", "en": "CAL: What is it?", "ja": "キャル: 何だ?"}
+{"sec": "map:439", "key": "SHELLY: ...Why is your hair blue?", "en": "SHELLY: ...Why is your hair blue?", "ja": "シェリー: ……どうして 髪が 青いの?"}
+{"sec": "map:439", "key": "CAL: Here I thought it was a serious question.", "en": "CAL: Here I thought it was a serious question.", "ja": "キャル: まじめな 質問かと 思えば。"}
+{"sec": "map:439", "key": "SHELLY: I was serious.... but it's--", "en": "SHELLY: I was serious.... but it's-- ", "ja": "シェリー: まじめだよ……でも それ——"}
+{"sec": "map:439", "key": "Um, it just looks--", "en": "Um, it just looks--", "ja": "えっと ただ 見た目が——"}
+{"sec": "map:439", "key": "CAL: My hair is naturally this color.", "en": "CAL: My hair is naturally this color. ", "ja": "キャル: 俺の 髪は もともと この 色だ。"}
+{"sec": "map:439", "key": "Or something close.", "en": "Or something close. ", "ja": "近い 色 と いうべきか。"}
+{"sec": "map:439", "key": "I had it dyed back.", "en": "I had it dyed back.", "ja": "元の 色に 染め 戻した。"}
+{"sec": "map:439", "key": "SHELLY: H-huh? Why?", "en": "SHELLY: H-huh? Why?", "ja": "シェリー: え、ええ? どうして?"}
+{"sec": "map:439", "key": "CAL: It seemed like the thing to do.", "en": "CAL: It seemed like the thing to do. ", "ja": "キャル: そう するべきだと 思った。"}
+{"sec": "map:439", "key": "That's all.", "en": "That's all.", "ja": "それだけだ。"}
+{"sec": "map:439", "key": "I spent most of my life trying to do everything in response to my brother.", "en": "I spent most of my life trying to do everything in response to my brother.", "ja": "俺は 人生の ほとんどを 兄への 反発で 動いて きた。"}
+{"sec": "map:439", "key": "Dyed my hair to be different from his, tried to join both the Reborn League and Team Meteor to one-up him...", "en": "Dyed my hair to be different from his, tried to join both the Reborn League and Team Meteor to one-up him...", "ja": "兄と 違う 色に 髪を 染め 兄を 出しぬく ために リボーンリーグにも メテオだんにも 入ろうと した……"}
+{"sec": "map:439", "key": "SHELLY: Wait, you what?!", "en": "SHELLY: Wait, you what?!", "ja": "シェリー: え、ちょっと 今 なんて?!"}
+{"sec": "map:439", "key": "CAL: Ugh, you didn't know about that.", "en": "CAL: Ugh, you didn't know about that. ", "ja": "キャル: しまった それは 知らなかったか。"}
+{"sec": "map:439", "key": "Don't be alarmed.", "en": "Don't be alarmed. ", "ja": "おどろかなくて いい。"}
+{"sec": "map:439", "key": "I've left that behind.", "en": "I've left that behind. ", "ja": "もう 捨てた ことだ。"}
+{"sec": "map:439", "key": "I was a walking mistake.", "en": "I was a walking mistake. ", "ja": "俺は 歩く 間違いだった。"}
+{"sec": "map:439", "key": "I was trying to be someone better than my brother, when I should've just been trying to be myself.", "en": "I was trying to be someone better than my brother, when I should've just been trying to be myself.", "ja": "兄より 上の 人間に なろうと していた。ただ 自分に なれば よかったのに。"}
+{"sec": "map:439", "key": "So I'm fixing that.", "en": "So I'm fixing that. ", "ja": "だから それを 直している。"}
+{"sec": "map:439", "key": "Going back to myself.", "en": "Going back to myself. ", "ja": "自分に 戻るんだ。"}
+{"sec": "map:439", "key": "Having my natural hair color is weird, but it's fine.", "en": "Having my natural hair color is weird, but it's fine.", "ja": "地毛の 色は 落ち着かないが かまわない。"}
+{"sec": "map:439", "key": "After all, blue flame burns even hotter.", "en": "After all, blue flame burns even hotter.", "ja": "なにしろ 青い 炎の ほうが 熱いからな。"}
+{"sec": "map:439", "key": "That also means that I need to stop Team Meteor as much as anyone else.", "en": "That also means that I need to stop Team Meteor as much as anyone else.", "ja": "つまり 俺も 人一倍 メテオだんを 止める 必要が ある。"}
+{"sec": "map:439", "key": "So don't be afraid, all right?", "en": "So don't be afraid, all right?", "ja": "だから こわがらなくて いい いいな?"}
+{"sec": "map:439", "key": "SHELLY: Al-all right...", "en": "SHELLY: Al-all right... ", "ja": "シェリー: う、うん……"}
+{"sec": "map:439", "key": "If you say so...", "en": "If you say so...", "ja": "そう 言うなら……"}
+{"sec": "map:439", "key": "CAL: Thanks.", "en": "CAL: Thanks.", "ja": "キャル: ありがとう。"}
+{"sec": "map:439", "key": "I'm glad we had the chance to meet again like this.", "en": "I'm glad we had the chance to meet again like this.", "ja": "こうして また 会えて よかった。"}
+{"sec": "map:439", "key": "SHELLY: Come to think of it, if we'd have been just a few minutes off, this might not have happened?", "en": "SHELLY: Come to think of it, if we'd have been just a few minutes off, this might not have happened?", "ja": "シェリー: 考えてみたら 数分 ずれてたら こう なって なかったかも?"}
+{"sec": "map:439", "key": "CAL: I'm guessing you were just speaking to my brother.", "en": "CAL: I'm guessing you were just speaking to my brother.", "ja": "キャル: 今しがた 兄と 話していたんだろう。"}
+{"sec": "map:439", "key": "SHELLY: Yeah! He locked up Heather and we need to find her!", "en": "SHELLY: Yeah! He locked up Heather and we need to find her!", "ja": "シェリー: うん! ヘザーを 閉じこめたの 早く 見つけないと!"}
+{"sec": "map:439", "key": "CAL: That's not all.", "en": "CAL: That's not all. ", "ja": "キャル: それだけじゃ ない。"}
+{"sec": "map:439", "key": "I overheard him radioing Team Meteor for back-up.", "en": "I overheard him radioing Team Meteor for back-up.", "ja": "あいつが 無線で メテオだんに 応援を 呼ぶのを 聞いた。"}
+{"sec": "map:439", "key": "They're dispatching an air unit here, right now.", "en": "They're dispatching an air unit here, right now.", "ja": "今 こっちへ 航空部隊を 送り出している。"}
+{"sec": "map:439", "key": "SHELLY: Huh? Oh no!", "en": "SHELLY: Huh? Oh no! ", "ja": "シェリー: え? そんな!"}
+{"sec": "map:439", "key": "He's trying to give them the Ring!", "en": "He's trying to give them the Ring!", "ja": "ゆびわを 渡す つもりなんだ!"}
+{"sec": "map:439", "key": "CAL: Right. I don't think I need to explain why that's not a good thing.", "en": "CAL: Right. I don't think I need to explain why that's not a good thing.", "ja": "キャル: そうだ。それが まずい 理由は 説明するまでも ないな。"}
+{"sec": "map:439", "key": "SHELLY: What do we do?", "en": "SHELLY: What do we do?", "ja": "シェリー: どう すれば いいの?"}
+{"sec": "map:439", "key": "We still have to find Heather, and stop him at the same time!", "en": "We still have to find Heather, and stop him at the same time!", "ja": "ヘザーも 見つけて 同時に あの人も 止めなきゃ!"}
+{"sec": "map:439", "key": "CAL: Right, your friend with the Salamence...", "en": "CAL: Right, your friend with the Salamence... ", "ja": "キャル: そうだ ボーマンダを 連れた 友だち だったな……"}
+{"sec": "map:439", "key": "Didn't you also say that she was in the Elite Four or something?", "en": "Didn't you also say that she was in the Elite Four or something?", "ja": "四天王か 何かだと 言っていなかったか?"}
+{"sec": "map:439", "key": "SHELLY: Yeah, you remember!", "en": "SHELLY: Yeah, you remember!", "ja": "シェリー: うん 覚えててくれたんだ!"}
+{"sec": "map:439", "key": "CAL: How does a girl that young get into something like that?", "en": "CAL: How does a girl that young get into something like that?", "ja": "キャル: あんな 年の 子が どうして そんな 立場に?"}
+{"sec": "map:439", "key": "SHELLY: Huh? Um, well... I think I remember that her mom used to be part of it a long time ago...", "en": "SHELLY: Huh? Um, well... I think I remember that her mom used to be part of it a long time ago... ", "ja": "シェリー: え? えっと……たしか ずっと 前に お母さんが その 一員だったはず……"}
+{"sec": "map:439", "key": "So I guess she proved she was good enough to take over?", "en": "So I guess she proved she was good enough to take over?", "ja": "だから 継げるだけの 実力を 示したんじゃ ないかな?"}
+{"sec": "map:439", "key": "CAL: We could use her strength.", "en": "CAL: We could use her strength.", "ja": "キャル: その 力は 使える。"}
+{"sec": "map:439", "key": "She can fly out and deal with the air unit, leaving us free to chase down Blake.", "en": "She can fly out and deal with the air unit, leaving us free to chase down Blake.", "ja": "彼女が 飛んで 航空部隊を 抑えれば こちらは ブレイクを 追える。"}
+{"sec": "map:439", "key": "We get him, take the Ring, and then when the air unit comes in late thanks to Heather, I'll take out Solaris myself.", "en": "We get him, take the Ring, and then when the air unit comes in late thanks to Heather, I'll take out Solaris myself.", "ja": "あいつを 押さえて ゆびわを 奪う。ヘザーの おかげで 遅れて 来る 航空部隊は 俺が ソラリスごと 片づける。"}
+{"sec": "map:439", "key": "I owe him a thing or two.", "en": "I owe him a thing or two.", "ja": "あいつには 借りが ある。"}
+{"sec": "map:439", "key": "SHELLY: But we need Heather for that!", "en": "SHELLY: But we need Heather for that!", "ja": "シェリー: でも それには ヘザーが 必要だよ!"}
+{"sec": "map:439", "key": "CAL: Yeah, I have a feeling I know where she is.", "en": "CAL: Yeah, I have a feeling I know where she is.", "ja": "キャル: ああ 居場所は 見当が ついている。"}
+{"sec": "map:439", "key": "SHELLY: You do?!", "en": "SHELLY: You do?!", "ja": "シェリー: 本当に?!"}
+{"sec": "map:439", "key": "CAL: I grew up in this place too, so I know all about it.", "en": "CAL: I grew up in this place too, so I know all about it.", "ja": "キャル: 俺も ここで 育った。この 町の ことは 知り尽くしている。"}
+{"sec": "map:439", "key": "Check out Blake's apartment.", "en": "Check out Blake's apartment. ", "ja": "ブレイクの 部屋を 調べろ。"}
+{"sec": "map:439", "key": "Look very carefully and there should be a hidden passage of some kind.", "en": "Look very carefully and there should be a hidden passage of some kind.", "ja": "よく 見れば 隠し通路が あるはずだ。"}
+{"sec": "map:439", "key": "SHELLY: R-really? That's crazy!", "en": "SHELLY: R-really? That's crazy!", "ja": "シェリー: ほ、本当? すごい!"}
+{"sec": "map:439", "key": "CAL: We used it a lot when meeting with Team Meteor.", "en": "CAL: We used it a lot when meeting with Team Meteor. ", "ja": "キャル: メテオだんと 会う ときに よく 使っていた。"}
+{"sec": "map:439", "key": "But, I'll bet he's changed the security on it since then.", "en": "But, I'll bet he's changed the security on it since then.", "ja": "だが あれから 仕掛けを 変えている だろうな。"}
+{"sec": "map:439", "key": "So I'll leave that to you two.", "en": "So I'll leave that to you two.", "ja": "そこは 君たち 2人に 任せる。"}
+{"sec": "map:439", "key": "In the meantime, I'm going after Blake.", "en": "In the meantime, I'm going after Blake. ", "ja": "その間に 俺は ブレイクを 追う。"}
+{"sec": "map:439", "key": "I'll need to slow him down.", "en": "I'll need to slow him down. ", "ja": "足止めして おく 必要が ある。"}
+{"sec": "map:439", "key": "Are you both clear?", "en": "Are you both clear?", "ja": "2人とも いいな?"}
+{"sec": "map:439", "key": "Investigate Blake's room and find the hidden passage.", "en": "Investigate Blake's room and find the hidden passage. ", "ja": "ブレイクの 部屋を 調べて 隠し通路を 見つけろ。"}
+{"sec": "map:439", "key": "Let's go. Time is short!", "en": "Let's go. Time is short!", "ja": "行くぞ。時間が ない!"}
+{"sec": "map:439", "key": "SHELLY: All right, Heather, use Ancient Power.", "en": "SHELLY: All right, Heather, use Ancient Power. ", "ja": "シェリー: よし ヘザー げんしのちからを!"}
+{"sec": "map:439", "key": "Tear that door off!", "en": "Tear that door off!", "ja": "その 扉を こじ開けて!"}
+{"sec": "map:439", "key": "SHELLY: We did it!", "en": "SHELLY: We did it!", "ja": "シェリー: やったね!"}
+{"sec": "map:439", "key": "HEATHER: Salamence, return.", "en": "HEATHER: Salamence, return.", "ja": "ヘザー: ボーマンダ もどって。"}
+{"sec": "map:439", "key": "SHELLY: Heather, return!", "en": "SHELLY: Heather, return!", "ja": "シェリー: ヘザー もどって!"}
+{"sec": "map:439", "key": "HEATHER: Thanks for coming for me.", "en": "HEATHER: Thanks for coming for me.", "ja": "ヘザー: 助けに 来てくれて ありがと。"}
+{"sec": "map:439", "key": "SHELLY: Of course! That's what friends do, right?", "en": "SHELLY: Of course! That's what friends do, right?", "ja": "シェリー: 当然だよ! 友だちなんだから ね?"}
+{"sec": "map:439", "key": "HEATHER: Yeah.", "en": "HEATHER: Yeah.", "ja": "ヘザー: うん。"}
+{"sec": "map:439", "key": "I never was much of a friend though.", "en": "I never was much of a friend though.", "ja": "アタシは たいして いい 友だちじゃ なかったけど。"}
+{"sec": "map:439", "key": "SHELLY: You were to me.", "en": "SHELLY: You were to me. ", "ja": "シェリー: わたしには そうだったよ。"}
+{"sec": "map:439", "key": "You were all I had.", "en": "You were all I had.", "ja": "あなただけが いてくれたの。"}
+{"sec": "map:439", "key": "HEATHER: Shelly, I'm sorry--", "en": "HEATHER: Shelly, I'm sorry--", "ja": "ヘザー: シェリー、ごめん——"}
+{"sec": "map:439", "key": "SHELLY: It's okay!", "en": "SHELLY: It's okay! ", "ja": "シェリー: いいの!"}
+{"sec": "map:439", "key": "Don't worry.", "en": "Don't worry.", "ja": "気にしないで。"}
+{"sec": "map:439", "key": "Someone just told me that everyone makes mistakes.", "en": "Someone just told me that everyone makes mistakes.", "ja": "だれでも 間違えるって さっき 教わったの。"}
+{"sec": "map:439", "key": "Nothing can change the past, but we can always fix the future.", "en": "Nothing can change the past, but we can always fix the future.", "ja": "過去は 変えられないけど 未来は いつでも 直せるって。"}
+{"sec": "map:439", "key": "So, I forgive you.", "en": "So, I forgive you.", "ja": "だから わたしは 許す。"}
+{"sec": "map:439", "key": "I'd forgive him, too.", "en": "I'd forgive him, too.", "ja": "あの人の ことも 許すよ。"}
+{"sec": "map:439", "key": "HEATHER: Right... Thanks.", "en": "HEATHER: Right... Thanks.", "ja": "ヘザー: そう……ありがと。"}
+{"sec": "map:439", "key": "You too, \\PN.", "en": "You too, \\PN.", "ja": "\\PNも ね。"}
+{"sec": "map:439", "key": "I haven't been very nice, but you've done a lot for me.", "en": "I haven't been very nice, but you've done a lot for me.", "ja": "感じよく なかったのに いろいろ してくれた。"}
+{"sec": "map:439", "key": "SHELLY: Hey, listen, we need your help.", "en": "SHELLY: Hey, listen, we need your help.", "ja": "シェリー: ねえ 聞いて 力を 貸して ほしいの。"}
+{"sec": "map:439", "key": "Blake stole your ring.", "en": "Blake stole your ring.", "ja": "ブレイクが あなたの ゆびわを 盗んだの。"}
+{"sec": "map:439", "key": "HEATHER: Mom's ring?", "en": "HEATHER: Mom's ring? ", "ja": "ヘザー: ママの ゆびわ?"}
+{"sec": "map:439", "key": "He has it?", "en": "He has it?", "ja": "あいつが 持ってるの?"}
+{"sec": "map:439", "key": "SHELLY: Yeah! And he's trying to turn it over to Team Meteor.", "en": "SHELLY: Yeah! And he's trying to turn it over to Team Meteor.", "ja": "シェリー: うん! それを メテオだんに 渡そうと してる。"}
+{"sec": "map:439", "key": "They're sending an air unit up here now to retrieve it, so we need to stop him!", "en": "They're sending an air unit up here now to retrieve it, so we need to stop him!", "ja": "受け取る ために 今 航空部隊が 来てるの。止めなきゃ!"}
+{"sec": "map:439", "key": "HEATHER: Duh, we do!", "en": "HEATHER: Duh, we do! ", "ja": "ヘザー: 当たり前でしょ!"}
+{"sec": "map:439", "key": "What are we waiting for?", "en": "What are we waiting for? ", "ja": "何を 待ってんの?"}
+{"sec": "map:439", "key": "I'm gonna knock his head off after everything he did!", "en": "I'm gonna knock his head off after everything he did!", "ja": "あれだけ やっといて タダで すむと 思うな!"}
+{"sec": "map:439", "key": "SHELLY: For locking you up?", "en": "SHELLY: For locking you up?", "ja": "シェリー: 閉じこめられた こと?"}
+{"sec": "map:439", "key": "HEATHER: Ugh, who cares about that?!", "en": "HEATHER: Ugh, who cares about that?! ", "ja": "ヘザー: そんなの どうでも いい!"}
+{"sec": "map:439", "key": "For trying to starve an entire city!", "en": "For trying to starve an entire city!", "ja": "町ぜんぶを 飢えさせようと したから!"}
+{"sec": "map:439", "key": "I tried to feed them secretly, cuz that's what anyone would do, right?", "en": "I tried to feed them secretly, cuz that's what anyone would do, right? ", "ja": "こっそり 食べ物を 配ったのは だれだって そう するからでしょ?"}
+{"sec": "map:439", "key": "If they found where he was hiding the food.", "en": "If they found where he was hiding the food.", "ja": "食べ物の 隠し場所を 見つけたらね。"}
+{"sec": "map:439", "key": "But then he caught me and here we are.", "en": "But then he caught me and here we are. ", "ja": "でも 見つかって この ざま。"}
+{"sec": "map:439", "key": "So I owe him big time!", "en": "So I owe him big time!", "ja": "だから きっちり 返してやる!"}
+{"sec": "map:439", "key": "SHELLY: Speaking of time, Cal thinks we don't have much of it.", "en": "SHELLY: Speaking of time, Cal thinks we don't have much of it.", "ja": "シェリー: 時間といえば、キャルは　もう あまり残っていないって　思ってるみたい。"}
+{"sec": "map:439", "key": "\\PN, could you go help him out?", "en": "\\PN, could you go help him out? ", "ja": "\\PN、キャルを　助けに　行ってくれる?"}
+{"sec": "map:439", "key": "We'll be right behind you!", "en": "We'll be right behind you!", "ja": "わたしたちも　すぐ　追いつくから!"}
+{"sec": "map:439", "key": "I just wanna talk to Heather for a little bit. Sorry...", "en": "I just wanna talk to Heather for a little bit. Sorry...", "ja": "ちょっとだけ　ヘザーと　話したくて。ごめんね……"}
+{"sec": "map:439", "key": "HEATHER: Yeah, for sure.", "en": "HEATHER: Yeah, for sure. ", "ja": "ヘザー: うん、もちろん。"}
+{"sec": "map:439", "key": "Let's go smack a few of them out of the sky!", "en": "Let's go smack a few of them out of the sky! ", "ja": "空にいる　連中を　たたき落として　やろっ!"}
+{"sec": "map:439", "key": "Salamence can carry you!", "en": "Salamence can carry you!", "ja": "ボーマンダが　乗せてってくれる!"}
+{"sec": "map:439", "key": "SHELLY: So we'll meet you up on the peak, okay \\PN?", "en": "SHELLY: So we'll meet you up on the peak, okay \\PN?", "ja": "シェリー: だから　山頂で　合流しよう、いいかな \\PN?"}
+{"sec": "map:439", "key": "BLAKE: Enough, enough already!", "en": "BLAKE: Enough, enough already!", "ja": "ブレイク: もういい、もう　じゅうぶんだ!"}
+{"sec": "map:439", "key": "Geez bro, I thought you used to be whiny,", "en": "Geez bro, I thought you used to be whiny, ", "ja": "まったく　ブラザー、昔から　めそめそ野郎だとは　思ってたけどな"}
+{"sec": "map:439", "key": "But please, miss me with that hippie Apophyll zen shit!", "en": "But please, miss me with that hippie Apophyll zen shit!", "ja": "だが　頼むから　その　アポフィル流の　ありがたい　お説教は　やめてくれ!"}
+{"sec": "map:439", "key": "CAL: Nothing I'm saying is for your benefit.", "en": "CAL: Nothing I'm saying is for your benefit. ", "ja": "キャル: 俺の言葉は　お前のために　言ってるんじゃない。"}
+{"sec": "map:439", "key": "You asked me a question, and I answered.", "en": "You asked me a question, and I answered.", "ja": "お前が　聞いたから　答えただけだ。"}
+{"sec": "map:439", "key": "BLAKE: Damn, lesson learned.", "en": "BLAKE: Damn, lesson learned. ", "ja": "ブレイク: はいはい、勉強に　なったよ。"}
+{"sec": "map:439", "key": "Spare me the sermon.", "en": "Spare me the sermon.", "ja": "説教は　勘弁してくれ。"}
+{"sec": "map:439", "key": "Look, tell you what, you can talk to that tree behind you.", "en": "Look, tell you what, you can talk to that tree behind you.", "ja": "いいか、そこの　後ろの木にでも　話しかけてろよ。"}
+{"sec": "map:439", "key": "I promise you, it cares almost as much as I do.", "en": "I promise you, it cares almost as much as I do.", "ja": "保証するぜ、そいつも　俺と　同じくらい　興味あるからさ。"}
+{"sec": "map:439", "key": "I, however, am a little bit busy, so peace.", "en": "I, however, am a little bit busy, so peace.", "ja": "俺はな、ちょっと　忙しいんだ。じゃあな。"}
+{"sec": "map:439", "key": "BLAKE: You know, I don't think I'll be doing that.", "en": "BLAKE: You know, I don't think I'll be doing that.", "ja": "ブレイク: なあ、俺は　そんなこと　するつもりないぜ。"}
+{"sec": "map:439", "key": "But whatever other concerns or tragic life stories you have, I'm sure those two will be happy to indulge you.", "en": "But whatever other concerns or tragic life stories you have, I'm sure those two will be happy to indulge you.", "ja": "だが　他の悩みだの　悲劇の身の上話だのは、そこの二人が　喜んで　聞いてくれるさ。"}
+{"sec": "map:439", "key": "I'm outtie.", "en": "I'm outtie.", "ja": "俺は　落ちるわ。"}
+{"sec": "map:439", "key": "I think I'd have preferred the life story...", "en": "I think I'd have preferred the life story...", "ja": "身の上話のほうが　まだ　ましだったな……"}
+{"sec": "map:439", "key": "Tch, no worries, we just needed to keep them busy anyway.", "en": "Tch, no worries, we just needed to keep them busy anyway.", "ja": "チッ、気にするな。どうせ　足止めできれば　よかったんだ。"}
+{"sec": "map:439", "key": "CAL: Get out of here already, chumps.", "en": "CAL: Get out of here already, chumps. ", "ja": "キャル: さっさと　消えろ、雑魚ども。"}
+{"sec": "map:439", "key": "I've put you behind me.", "en": "I've put you behind me.", "ja": "お前たちとは　もう　縁を切った。"}
+{"sec": "map:439", "key": "METEOR: So we've heard.", "en": "METEOR: So we've heard. ", "ja": "メテオだん: そう　聞いてるぜ。"}
+{"sec": "map:439", "key": "Do you really think you'll get away with it?", "en": "Do you really think you'll get away with it?", "ja": "本当に　ただで済むと　思ってるのか?"}
+{"sec": "map:439", "key": "CAL: Don't act like that matters to you.", "en": "CAL: Don't act like that matters to you. ", "ja": "キャル: 気にしてるフリは　やめろ。"}
+{"sec": "map:439", "key": "Go on.", "en": "Go on.", "ja": "とっとと　行け。"}
+{"sec": "map:439", "key": "METEOR: As you wish. Until next time~", "en": "METEOR: As you wish. Until next time~", "ja": "メテオだん: お望みどおりに。またな〜"}
+{"sec": "map:439", "key": "CAL: Thanks for your help, \\PN.", "en": "CAL: Thanks for your help, \\PN. ", "ja": "キャル: 助かったよ、\\PN。"}
+{"sec": "map:439", "key": "But it looks like we have a chase ahead of us.", "en": "But it looks like we have a chase ahead of us.", "ja": "だが　追いかけっこは　これからだ。"}
+{"sec": "map:439", "key": "Blake's heading to the peak to rendezvous.", "en": "Blake's heading to the peak to rendezvous. ", "ja": "ブレイクは　合流のため　山頂へ　向かってる。"}
+{"sec": "map:439", "key": "There's no way I'm letting him get there!", "en": "There's no way I'm letting him get there!", "ja": "たどり着かせるわけには　いかない!"}
+{"sec": "map:439", "key": "BLAKE: Bruh, you really don't know when to quit, do you?", "en": "BLAKE: Bruh, you really don't know when to quit, do you?", "ja": "ブレイク: おいおい、あきらめって　言葉を　知らねえのか?"}
+{"sec": "map:439", "key": "SHELLY: We'll quit when you give us back the Ring!", "en": "SHELLY: We'll quit when you give us back the Ring!", "ja": "シェリー: ゆびわを　返してくれたら　やめる!"}
+{"sec": "map:439", "key": "BLAKE: What a fascinating declaration!", "en": "BLAKE: What a fascinating declaration! ", "ja": "ブレイク: そりゃまた　ご立派な　宣言だな!"}
+{"sec": "map:439", "key": "What do you think, Mr. Grunt?", "en": "What do you think, Mr. Grunt?", "ja": "どう思う、したっぱさん?"}
+{"sec": "map:439", "key": "METEOR: I think she needs some manners.", "en": "METEOR: I think she needs some manners.", "ja": "メテオだん: 礼儀を　教えてやる　必要が　ありそうだな。"}
+{"sec": "map:439", "key": "METEOR: We can teach them to her.", "en": "METEOR: We can teach them to her.", "ja": "メテオだん: 俺たちが　教えてやるさ。"}
+{"sec": "map:439", "key": "You go on ahead, agent.", "en": "You go on ahead, agent.", "ja": "あんたは　先に行け、エージェント。"}
+{"sec": "map:439", "key": "Solaris has almost arrived.", "en": "Solaris has almost arrived.", "ja": "ソラリス様が　まもなく　到着する。"}
+{"sec": "map:439", "key": "BLAKE: GG, easy.", "en": "BLAKE: GG, easy. ", "ja": "ブレイク: GG、よゆーだな。"}
+{"sec": "map:439", "key": "METEOR: Even if you win, it's gonna be too late.", "en": "METEOR: Even if you win, it's gonna be too late. ", "ja": "メテオだん: 勝ったところで　もう　手遅れだ。"}
+{"sec": "map:439", "key": "So sorry.", "en": "So sorry.", "ja": "お気の毒にな。"}
+{"sec": "map:439", "key": "SHELLY: All right, I'm going!", "en": "SHELLY: All right, I'm going!", "ja": "シェリー: よし、わたしが　行く!"}
+{"sec": "map:439", "key": "For Heather, and Cal, and-- everyone!", "en": "For Heather, and Cal, and-- everyone!", "ja": "ヘザーのため、キャルのため、それに——みんなのために!"}
+{"sec": "map:439", "key": "BLAKE: Aaand here we go again.", "en": "BLAKE: Aaand here we go again.", "ja": "ブレイク: はいはい、また　これかよ。"}
+{"sec": "map:439", "key": "SHELLY: I'm s-sorry, \\PN...", "en": "SHELLY: I'm s-sorry, \\PN... ", "ja": "シェリー: ご、ごめん、\\PN……"}
+{"sec": "map:439", "key": "I thought I could d-do it, but I already lost.", "en": "I thought I could d-do it, but I already lost.", "ja": "で、できると　思ったのに、負けちゃった。"}
+{"sec": "map:439", "key": "BLAKE: Pfft, don't kid yourself.", "en": "BLAKE: Pfft, don't kid yourself. ", "ja": "ブレイク: ぷっ、笑わせるなよ。"}
+{"sec": "map:439", "key": "BLAKE: Any second now...", "en": "BLAKE: Any second now...", "ja": "ブレイク: もう　すぐだ……"}
+{"sec": "map:439", "key": "But you're pretty annoying, you know?", "en": "But you're pretty annoying, you know?", "ja": "しかし　お前　かなり　うっとうしいな?"}
+{"sec": "map:439", "key": "Why don't you just chill out?", "en": "Why don't you just chill out?", "ja": "少しは　落ち着いたら　どうだ?"}
+{"sec": "map:439", "key": "Cool story, bro.", "en": "Cool story, bro.", "ja": "はいはい　よかったな"}
+{"sec": "map:439", "key": "SHELLY: \\PN! Sorry I took so long!", "en": "SHELLY: \\PN! Sorry I took so long!", "ja": "シェリー: \\PN! 遅くなって　ごめん!"}
+{"sec": "map:439", "key": "BLAKE: Not like it matters now.", "en": "BLAKE: Not like it matters now. ", "ja": "ブレイク: 今さら　どうでもいいけどな。"}
+{"sec": "map:439", "key": "I can hear them coming.", "en": "I can hear them coming.", "ja": "来る音が　聞こえるぜ。"}
+{"sec": "map:439", "key": "SHELLY: But \\PN won the battle, right?", "en": "SHELLY: But \\PN won the battle, right?", "ja": "シェリー: でも　\\PNが　勝負に　勝ったよね?"}
+{"sec": "map:439", "key": "D-doesn't that mean you have to give us the Ring?", "en": "D-doesn't that mean you have to give us the Ring?", "ja": "だ、だったら　ゆびわを　返すべきじゃない?"}
+{"sec": "map:439", "key": "BLAKE: Forget it!", "en": "BLAKE: Forget it! ", "ja": "ブレイク: 冗談じゃない!"}
+{"sec": "map:439", "key": "You've already lost!", "en": "You've already lost!  ", "ja": "お前らの　負けだ!"}
+{"sec": "map:439", "key": "My ride's here, kids.", "en": "My ride's here, kids.", "ja": "迎えが　来たぜ、お子様たち。"}
+{"sec": "map:439", "key": "SHELLY: P-please!", "en": "SHELLY: P-please! ", "ja": "シェリー: お、お願い!"}
+{"sec": "map:439", "key": "Heather absolutely needs that back!", "en": "Heather absolutely needs that back! ", "ja": "ヘザーには　どうしても　それが　必要なの!"}
+{"sec": "map:439", "key": "You can't take it away from her!", "en": "You can't take it away from her!", "ja": "取り上げるなんて　だめ!"}
+{"sec": "map:439", "key": "BLAKE: Oh, well since you asked so nicely, I'll just give it right back.", "en": "BLAKE: Oh, well since you asked so nicely, I'll just give it right back.", "ja": "ブレイク: おお、そんなに　丁寧に　頼まれちゃ　すぐ返すしかないな。"}
+{"sec": "map:439", "key": "SHELLY: R-really?", "en": "SHELLY: R-really?", "ja": "シェリー: ほ、本当?"}
+{"sec": "map:439", "key": "BLAKE: LOL, no.", "en": "BLAKE: LOL, no. ", "ja": "ブレイク: ウケる、返すわけないだろ。"}
+{"sec": "map:439", "key": "Get wrecked, brah.", "en": "Get wrecked, brah.", "ja": "ざまあないな、ブラザー。"}
+{"sec": "map:439", "key": "SHELLY: T-then we'll have no choice but to s-stop you!", "en": "SHELLY: T-then we'll have no choice but to s-stop you!", "ja": "シェリー: な、なら　力ずくで　と、止めるしかない!"}
+{"sec": "map:439", "key": "BLAKE: Oh, yeah? You and what army?", "en": "BLAKE: Oh, yeah? You and what army?", "ja": "ブレイク: へえ? お前と　どこの軍隊が　だよ?"}
+{"sec": "map:439", "key": "HEATHER: This one!", "en": "HEATHER: This one! ", "ja": "ヘザー: この軍隊よ!"}
+{"sec": "map:439", "key": "Salamence, it's take-down time!", "en": "Salamence, it's take-down time!", "ja": "ボーマンダ、たたき落とす　時間よ!"}
+{"sec": "map:439", "key": "CAL: Got the ring!", "en": "CAL: Got the ring!", "ja": "キャル: ゆびわは　もらった!"}
+{"sec": "map:439", "key": "BLAKE: Ugh, what the--", "en": "BLAKE: Ugh, what the--", "ja": "ブレイク: うぐっ、なんだと——"}
+{"sec": "map:439", "key": "BLAKE: Hey, oaf-head, what the fuck do you think you're doing?!", "en": "BLAKE: Hey, oaf-head, what the fuck do you think you're doing?!", "ja": "ブレイク: おい　うすのろ、いったい　何のつもりだ!?"}
+{"sec": "map:439", "key": "CAL: I'm setting things right.", "en": "CAL: I'm setting things right.", "ja": "キャル: 間違いを　正してるだけだ。"}
+{"sec": "map:439", "key": "BLAKE: Okay, okay, I get it already!", "en": "BLAKE: Okay, okay, I get it already!", "ja": "ブレイク: わかった、わかったよ!"}
+{"sec": "map:439", "key": "CAL: Here.", "en": "CAL: Here. ", "ja": "キャル: ほら。"}
+{"sec": "map:439", "key": "This is yours.", "en": "This is yours.", "ja": "これは　君のものだ。"}
+{"sec": "map:439", "key": "Heather received the Ruby Ring!", "en": "Heather received the Ruby Ring!", "ja": "ヘザーは　ルビーのゆびわを　受け取った!"}
+{"sec": "map:439", "key": "CAL: Keep it safe.", "en": "CAL: Keep it safe.", "ja": "キャル: 大事に　持っていろ。"}
+{"sec": "map:439", "key": "HEATHER: Don't have to tell me twice.", "en": "HEATHER: Don't have to tell me twice.", "ja": "ヘザー: 二度も　言われなくても　わかってるんだから。"}
+{"sec": "map:439", "key": "BLAKE: All right, you all can do that.", "en": "BLAKE: All right, you all can do that.", "ja": "ブレイク: はいはい、勝手に　やってくれ。"}
+{"sec": "map:439", "key": "I, for one, am putting this show on ice.", "en": "I, for one, am putting this show on ice.", "ja": "俺は　この茶番から　降りるぜ。"}
+{"sec": "map:439", "key": "SHELLY: Hey, wait a minute!", "en": "SHELLY: Hey, wait a minute!", "ja": "シェリー: ちょっと　待って!"}
+{"sec": "map:439", "key": "What about Agate?", "en": "What about Agate?", "ja": "アゲートは　どうなるの?"}
+{"sec": "map:439", "key": "Wasn't the sleep spell on Agate supposed to be controlled from up here?", "en": "Wasn't the sleep spell on Agate supposed to be controlled from up here?", "ja": "アゲートの　眠りは　ここから　操られてるはずじゃ　なかったの?"}
+{"sec": "map:439", "key": "BLAKE: LOL, I don't have a clue about that.", "en": "BLAKE: LOL, I don't have a clue about that.", "ja": "ブレイク: ウケる、そんなの　知るかよ。"}
+{"sec": "map:439", "key": "Whoever told you that probably just baited you hard, fam.", "en": "Whoever told you that probably just baited you hard, fam.", "ja": "そう言った奴に　まんまと　釣られたんだろ、なあ。"}
+{"sec": "map:439", "key": "Anyway, I'm blowin' this popsicle stand.", "en": "Anyway, I'm blowin' this popsicle stand. ", "ja": "とにかく　俺は　ここから　ずらかる。"}
+{"sec": "map:439", "key": "See ya!", "en": "See ya!", "ja": "じゃあな!"}
+{"sec": "map:439", "key": "SHELLY: Should we go after them?", "en": "SHELLY: Should we go after them?", "ja": "シェリー: 追いかけたほうが　いいかな?"}
+{"sec": "map:439", "key": "CAL: No point.", "en": "CAL: No point.", "ja": "キャル: 意味はない。"}
+{"sec": "map:439", "key": "He's just an annoyance.", "en": "He's just an annoyance. ", "ja": "あいつは　ただの　邪魔者だ。"}
+{"sec": "map:439", "key": "And Solaris didn't even show his face.", "en": "And Solaris didn't even show his face.", "ja": "それに　ソラリスは　顔すら　見せなかった。"}
+{"sec": "map:439", "key": "But it looks like the day is ours.", "en": "But it looks like the day is ours.", "ja": "だが　今日は　俺たちの　勝ちのようだ。"}
+{"sec": "map:439", "key": "HEATHER: Hey, thanks for your help...", "en": "HEATHER: Hey, thanks for your help... ", "ja": "ヘザー: ねえ、助けてくれて　ありがと……"}
+{"sec": "map:439", "key": "All of you.", "en": "All of you.", "ja": "みんな　ね。"}
+{"sec": "map:439", "key": "CAL: Of course.", "en": "CAL: Of course. ", "ja": "キャル: 当然だ。"}
+{"sec": "map:439", "key": "But I'm not finished yet.", "en": "But I'm not finished yet.", "ja": "だが　俺は　まだ　終わってない。"}
+{"sec": "map:439", "key": "HEATHER: Definitely.", "en": "HEATHER: Definitely. ", "ja": "ヘザー: だよね。"}
+{"sec": "map:439", "key": "Hey! I'm gonna go get the rest of the food out to the people of Ametrine, but I'll catch up with you guys later!", "en": "Hey! I'm gonna go get the rest of the food out to the people of Ametrine, but I'll catch up with you guys later!", "ja": "ねえ! アタシは　残りの食料を　アメトリンの　みんなに　配ってくる。あとで　合流するから!"}
+{"sec": "map:439", "key": "SHELLY: Oh! I wanna help!", "en": "SHELLY: Oh! I wanna help!", "ja": "シェリー: あっ! わたしも　手伝いたい!"}
+{"sec": "map:439", "key": "HEATHER: Aye-aye!", "en": "HEATHER: Aye-aye! ", "ja": "ヘザー: 了解っ!"}
+{"sec": "map:439", "key": "You can ride with me, Shell Bell.", "en": "You can ride with me, Shell Bell.", "ja": "アタシに　乗ってきなよ、シェルベル。"}
+{"sec": "map:439", "key": "CAL: Hey, \\PN.", "en": "CAL: Hey, \\PN.", "ja": "キャル: なあ、\\PN。"}
+{"sec": "map:439", "key": "What Blake said about Agate City--", "en": "What Blake said about Agate City-- ", "ja": "ブレイクが　アゲートシティについて　言ったこと——"}
+{"sec": "map:439", "key": "I don't think he was lying.", "en": "I don't think he was lying.", "ja": "あれは　うそじゃ　ないと思う。"}
+{"sec": "map:439", "key": "Well, not this time.", "en": "Well, not this time.", "ja": "少なくとも　今回は　な。"}
+{"sec": "map:439", "key": "I cut my ties with Meteor just as they were getting that going, so I don't know the details.", "en": "I cut my ties with Meteor just as they were getting that going, so I don't know the details.", "ja": "俺は　あの計画が　動き出すころに　メテオだんと　縁を切った。詳細は　知らない。"}
+{"sec": "map:439", "key": "But there's no base up here that could maintain a signal of that strength.", "en": "But there's no base up here that could maintain a signal of that strength.", "ja": "だが　あれほど強い信号を　保てる基地は　この山には　ない。"}
+{"sec": "map:439", "key": "So, whoever told you that the signal was coming from Ametrine was probably trying to throw you off the trail.", "en": "So, whoever told you that the signal was coming from Ametrine was probably trying to throw you off the trail.", "ja": "つまり　信号が　アメトリンから　出ていると　言った奴は　君を　まこうと　したんだろう。"}
+{"sec": "map:439", "key": "Do you remember who that was?", "en": "Do you remember who that was?", "ja": "それが　誰だったか　覚えてるか?"}
+{"sec": "map:439", "key": "Ah... Terra.", "en": "Ah... Terra.", "ja": "ああ……テラか。"}
+{"sec": "map:439", "key": "I know of her.", "en": "I know of her.", "ja": "あいつのことは　知っている。"}
+{"sec": "map:439", "key": "That is, I know of her through Team Meteor.", "en": "That is, I know of her through Team Meteor.", "ja": "正確には　メテオだんを通して　知っている。"}
+{"sec": "map:439", "key": "Not long before I left, she joined under the codename Titawin.", "en": "Not long before I left, she joined under the codename Titawin.", "ja": "俺が　抜ける少し前に　ティタウィンという　コードネームで　加わった。"}
+{"sec": "map:439", "key": "It's a name based on the stars, like all of ours.", "en": "It's a name based on the stars, like all of ours.", "ja": "俺たちと　同じく　星に　由来する名前だ。"}
+{"sec": "map:439", "key": "She really doesn't seem the type, but she's a skilled programmer and system hacker.", "en": "She really doesn't seem the type, but she's a skilled programmer and system hacker.", "ja": "とても　そうは　見えないが、腕のいい　プログラマーで　システムハッカーだ。"}
+{"sec": "map:439", "key": "It's hard to say if she's better than the old one, but I certainly have a preference,", "en": "It's hard to say if she's better than the old one, but I certainly have a preference,", "ja": "前任者より　上かは　わからんが、俺の好みは　はっきりしている。"}
+{"sec": "map:439", "key": "Obnoxious girl that she is.", "en": "Obnoxious girl that she is. ", "ja": "あんな　鼻につく女でもな。"}
+{"sec": "map:439", "key": "Lin was pushing for her to take the position for a while.", "en": "Lin was pushing for her to take the position for a while.", "ja": "リンが　しばらく前から　あいつを　その座に　推していた。"}
+{"sec": "map:439", "key": "Weird, isn't it?", "en": "Weird, isn't it?", "ja": "妙だろう?"}
+{"sec": "map:439", "key": "They couldn't be more different, but for some reason, Lin seems to favor Terra.", "en": "They couldn't be more different, but for some reason, Lin seems to favor Terra.", "ja": "正反対の　二人なのに　なぜか　リンは　テラを　気に入っているらしい。"}
+{"sec": "map:439", "key": "As for what that's about, your guess is as good as mine.", "en": "As for what that's about, your guess is as good as mine.", "ja": "その理由は　俺にも　見当が　つかない。"}
+{"sec": "map:439", "key": "I've got some stuff to finish up, but I won't be a stranger.", "en": "I've got some stuff to finish up, but I won't be a stranger.", "ja": "俺は　片づける用が　あるが、また　会うことに　なるだろう。"}
+{"sec": "map:439", "key": "I suggest you go confront Terra about this ordeal.", "en": "I suggest you go confront Terra about this ordeal. ", "ja": "この件については　テラを　問いつめてみるといい。"}
+{"sec": "map:439", "key": "See you around, \\PN.", "en": "See you around, \\PN.", "ja": "またな、\\PN。"}
+{"sec": "map:439", "key": "CAL: Actually, I can give you a lift down to Ametrine if you'd like.", "en": "CAL: Actually, I can give you a lift down to Ametrine if you'd like. ", "ja": "キャル: そうだ、よければ　アメトリンまで　乗せていくぞ。"}
+{"sec": "map:439", "key": "Wouldn't feel right leaving you on a mountain peak after all your help.", "en": "Wouldn't feel right leaving you on a mountain peak after all your help.", "ja": "あれだけ　助けてもらって　山頂に　置き去りは　さすがにな。"}
+{"sec": "map:439", "key": "Do you want a ride?", "en": "Do you want a ride?", "ja": "乗っていくか?"}
+{"sec": "map:439", "key": "CAL: All right, all aboard.", "en": "CAL: All right, all aboard. ", "ja": "キャル: よし、乗れ。"}
+{"sec": "map:439", "key": "Hang on tight.", "en": "Hang on tight.", "ja": "しっかり　つかまってろ。"}
+{"sec": "map:439", "key": "CAL: Here you go.", "en": "CAL: Here you go. ", "ja": "キャル: 着いたぞ。"}
+{"sec": "map:439", "key": "Take care.", "en": "Take care.", "ja": "気をつけてな。"}
+{"sec": "map:439", "key": "CAL: Right then.", "en": "CAL: Right then. ", "ja": "キャル: そうか、わかった。"}
+{"sec": "map:439", "key": "ARTICUNO: Artiiii!", "en": "ARTICUNO: Artiiii!", "ja": "フリーザー: フリィィィ!"}
+{"sec": "map:439", "key": "LUCARIO: ...Carrr!", "en": "LUCARIO: ...Carrr!", "ja": "ルカリオ: ……リオォ!"}
+{"sec": "map:439", "key": "LUCARIO: LUUCA--", "en": "LUCARIO: LUUCA--", "ja": "ルカリオ: ルゥカ——"}
+{"sec": "map:439", "key": "LUCARIO: Lucaaaaa...", "en": "LUCARIO: Lucaaaaa...", "ja": "ルカリオ: ルカァァァ……"}
+{"sec": "map:439", "key": "LUCAAARIO!", "en": "LUCAAARIO!", "ja": "ルカァァリオ!"}
+{"sec": "map:439", "key": "...Carrrrr...", "en": "...Carrrrr...", "ja": "……リオォォォ……"}
+{"sec": "map:439", "key": "LUCARIO: Luu...", "en": "LUCARIO: Luu...", "ja": "ルカリオ: ルゥ……"}
+{"sec": "map:439", "key": "Cario, Carr...", "en": "Cario, Carr...", "ja": "カリオ、リオ……"}
+{"sec": "map:439", "key": "Lucario bows slightly.", "en": "Lucario bows slightly.", "ja": "ルカリオは　軽く　頭を下げた。"}
+{"sec": "map:439", "key": "Yes", "en": "Yes", "ja": "はい"}
+{"sec": "map:439", "key": "No", "en": "No", "ja": "いいえ"}

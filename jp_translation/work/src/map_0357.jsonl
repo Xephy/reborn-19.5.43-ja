@@ -1,0 +1,755 @@
+{"sec": "map:357", "key": "AYA: ...", "en": "AYA: ...", "ja": "アヤ: ……"}
+{"sec": "map:357", "key": "SAMSON: She's your friend, right?", "en": "SAMSON: She's your friend, right?", "ja": "サムソン: こいつ、お前の友達なんだろ?"}
+{"sec": "map:357", "key": "RINGMASTER: Hey everyone! We've got another visitor!", "en": "RINGMASTER: Hey everyone! We've got another visitor!", "ja": "団長: おーい、みんな! また新しいお客さんだぞ!"}
+{"sec": "map:357", "key": "CAIN: Aya!", "en": "CAIN: Aya!", "ja": "カイン: アヤ!"}
+{"sec": "map:357", "key": "RINGMASTER: By the way, is something up with Terra?", "en": "RINGMASTER: By the way, is something up with Terra? ", "ja": "団長: ところで、テラの様子がおかしくないか?"}
+{"sec": "map:357", "key": "She just ran up, punched the community shower and then scampered off.", "en": "She just ran up, punched the community shower and then scampered off.", "ja": "さっき走ってきたと思ったら、共同シャワーを殴って、そのまま逃げてったぞ。"}
+{"sec": "map:357", "key": "CAIN: Aya, can you hear me?", "en": "CAIN: Aya, can you hear me? ", "ja": "カイン: アヤ、聞こえるか?"}
+{"sec": "map:357", "key": "Are you okay? Please wake up!", "en": "Are you okay? Please wake up!", "ja": "大丈夫か? 頼むから起きてくれ!"}
+{"sec": "map:357", "key": "AYA: Unnh...", "en": "AYA: Unnh...", "ja": "アヤ: うぅん……"}
+{"sec": "map:357", "key": "I feel like shit...", "en": "I feel like shit...", "ja": "最悪な気分……"}
+{"sec": "map:357", "key": "AYA: ...Cain?", "en": "AYA: ...Cain?", "ja": "アヤ: ……カイン?"}
+{"sec": "map:357", "key": "CAIN: Oh, thank goodness!", "en": "CAIN: Oh, thank goodness!", "ja": "カイン: ああ、よかった!"}
+{"sec": "map:357", "key": "AYA: Been a while...", "en": "AYA: Been a while...", "ja": "アヤ: 久しぶり……"}
+{"sec": "map:357", "key": "CAIN: ...Yeaaaah...", "en": "CAIN: ...Yeaaaah...", "ja": "カイン: ……ああ……"}
+{"sec": "map:357", "key": "...Sorry about that.", "en": "...Sorry about that. ", "ja": "……悪かったな。"}
+{"sec": "map:357", "key": "I was, uh... busy.", "en": "I was, uh... busy.", "ja": "その、忙しかったんだ。"}
+{"sec": "map:357", "key": "How's Mom?", "en": "How's Mom?", "ja": "母さんは元気か?"}
+{"sec": "map:357", "key": "AYA: Tch, don't ask.", "en": "AYA: Tch, don't ask.", "ja": "アヤ: チッ、聞くなよ。"}
+{"sec": "map:357", "key": "Where's Hardy?", "en": "Where's Hardy?", "ja": "ハーディはどこ?"}
+{"sec": "map:357", "key": "CIEL: Ah! That must be the other boy whom we observed soaring not-quite-so-elegantly over the Circus.", "en": "CIEL: Ah! That must be the other boy whom we observed soaring not-quite-so-elegantly over the Circus.", "ja": "シエル: あら! それって、サーカスの上をあまり優雅とは言えない感じで飛んでいた、あの男の子のことかしら。"}
+{"sec": "map:357", "key": "AYA: Hardy was supposed to show me his Gym.", "en": "AYA: Hardy was supposed to show me his Gym.", "ja": "アヤ: ハーディが自分のジムを見せてくれるはずだったの。"}
+{"sec": "map:357", "key": "That's why we went up to Agate, but...", "en": "That's why we went up to Agate, but...", "ja": "だからアゲートまで行ったんだけど……"}
+{"sec": "map:357", "key": "I can't remember what happened when we got there.", "en": "I can't remember what happened when we got there.", "ja": "着いてから何があったのか、思い出せなくて。"}
+{"sec": "map:357", "key": "SAMSON: Somethin' in the city conked the both of you out.", "en": "SAMSON: Somethin' in the city conked the both of you out. ", "ja": "サムソン: 街の中で何かが起きて、お前ら二人ともぶっ倒れたんだよ。"}
+{"sec": "map:357", "key": "Affects everyone in there.", "en": "Affects everyone in there.", "ja": "中にいる人間、全員に効くみたいだ。"}
+{"sec": "map:357", "key": "That's why the whole place has been closed off for who knows how long by now.", "en": "That's why the whole place has been closed off for who knows how long by now.", "ja": "だから街全体がずっと封鎖されたままなんだ。"}
+{"sec": "map:357", "key": "CAIN: We found you sleeping in the middle of the street.", "en": "CAIN: We found you sleeping in the middle of the street. ", "ja": "カイン: 道の真ん中で眠ってるところを見つけたんだ。"}
+{"sec": "map:357", "key": "SAMSON: Speaking of that, boss--", "en": "SAMSON: Speaking of that, boss--", "ja": "サムソン: そういえば、団長――"}
+{"sec": "map:357", "key": "There any word on that sitch?", "en": "There any word on that sitch?", "ja": "あの件、なんか情報は入ってきてないのか?"}
+{"sec": "map:357", "key": "RINGMASTER: We did get some information, actually, but...", "en": "RINGMASTER: We did get some information, actually, but...", "ja": "団長: 実は、いくつか情報は入ってきてるんだが……"}
+{"sec": "map:357", "key": "It's probably best not to trouble our guests with it.", "en": "It's probably best not to trouble our guests with it.", "ja": "お客さんたちを煩わせるようなことでもないだろう。"}
+{"sec": "map:357", "key": "The only point of concern is that this sleeping ordeal has been cast over the entire city.", "en": "The only point of concern is that this sleeping ordeal has been cast over the entire city.", "ja": "気になるのは、この眠りの災難が街全体にかけられてるってことくらいだ。"}
+{"sec": "map:357", "key": "CAIN: I almost fell victim to it too, but then Terra happened.", "en": "CAIN: I almost fell victim to it too, but then Terra happened.", "ja": "カイン: 俺も危うくやられるところだったんだけど、そこにテラが来てさ。"}
+{"sec": "map:357", "key": "CIEL: Apologies for her.", "en": "CIEL: Apologies for her.", "ja": "シエル: 彼女のこと、申し訳なく思ってますわ。"}
+{"sec": "map:357", "key": "RINGMASTER: Ahah, she may be rambunctious, but we do have to keep her around!", "en": "RINGMASTER: Ahah, she may be rambunctious, but we do have to keep her around!", "ja": "団長: あはは、あいつは暴れん坊だが、手放すわけにはいかないからな!"}
+{"sec": "map:357", "key": "After all, it wouldn't do for the Agate Circus to lose one of its famous Gym Leaders!", "en": "After all, it wouldn't do for the Agate Circus to lose one of its famous Gym Leaders!", "ja": "アゲートサーカスの看板ジムリーダーを失うわけにはいかないだろう!"}
+{"sec": "map:357", "key": "CIEL: True, we wouldn't be the Agate Ace Triumvirate without her.", "en": "CIEL: True, we wouldn't be the Agate Ace Triumvirate without her.", "ja": "シエル: たしかに、彼女がいなければアゲート三強とは呼べませんものね。"}
+{"sec": "map:357", "key": "Unfortunately.", "en": "Unfortunately.", "ja": "残念ながら。"}
+{"sec": "map:357", "key": "RINGMASTER: That's right! The Gym Battles make fantastic shows!", "en": "RINGMASTER: That's right! The Gym Battles make fantastic shows!", "ja": "団長: そのとおり! ジムバトルは最高のショーになるからな!"}
+{"sec": "map:357", "key": "CIEL: Flying-type Leader, at your service~", "en": "CIEL: Flying-type Leader, at your service~", "ja": "シエル: ひこうタイプのリーダー、お呼びとあらば参上ですわ〜"}
+{"sec": "map:357", "key": "RINGMASTER: Terra is the Ground-type Leader, and Samson has the Fighting-type!", "en": "RINGMASTER: Terra is the Ground-type Leader, and Samson has the Fighting-type!", "ja": "団長: テラはじめんタイプのリーダー、そしてサムソンはかくとうタイプだ!"}
+{"sec": "map:357", "key": "SAMSON: Sup.", "en": "SAMSON: Sup. ", "ja": "サムソン: よう。"}
+{"sec": "map:357", "key": "AYA: So... Hardy isn't here?", "en": "AYA: So... Hardy isn't here?", "ja": "アヤ: つまり……ハーディはここにいないの?"}
+{"sec": "map:357", "key": "RINGMASTER: I'm afraid not.", "en": "RINGMASTER: I'm afraid not.", "ja": "団長: 残念だが、いないな。"}
+{"sec": "map:357", "key": "He probably fell somewhere in Route 2.", "en": "He probably fell somewhere in Route 2.", "ja": "おそらく2番道路のどこかで倒れてるんじゃないか。"}
+{"sec": "map:357", "key": "AYA: Then... we need to go find him, right?", "en": "AYA: Then... we need to go find him, right?", "ja": "アヤ: なら……探しに行かないと、だよね?"}
+{"sec": "map:357", "key": "CAIN: You really seem to like this guy, huh?", "en": "CAIN: You really seem to like this guy, huh?", "ja": "カイン: お前、そいつのことけっこう気に入ってるんだな?"}
+{"sec": "map:357", "key": "AYA: What?", "en": "AYA: What? ", "ja": "アヤ: 何?"}
+{"sec": "map:357", "key": "N-no!", "en": "N-no! ", "ja": "ち、違う!"}
+{"sec": "map:357", "key": "It's not like that.", "en": "It's not like that.", "ja": "そういうんじゃないから。"}
+{"sec": "map:357", "key": "I'm just worried.", "en": "I'm just worried. ", "ja": "ただ心配なだけ。"}
+{"sec": "map:357", "key": "That's all.", "en": "That's all.", "ja": "それだけ。"}
+{"sec": "map:357", "key": "And I know he would do the same for us.", "en": "And I know he would do the same for us. ", "ja": "それに、あいつだって同じことしてくれるはずだし。"}
+{"sec": "map:357", "key": "So... we should go.", "en": "So... we should go.", "ja": "だから……行かなきゃ。"}
+{"sec": "map:357", "key": "SAMSON: Negative, little lady.", "en": "SAMSON: Negative, little lady. ", "ja": "サムソン: ダメだ、お嬢ちゃん。"}
+{"sec": "map:357", "key": "You're staying right there.", "en": "You're staying right there.", "ja": "お前はそこでじっとしてろ。"}
+{"sec": "map:357", "key": "I'm surprised you can even walk after what Terra put you through.", "en": "I'm surprised you can even walk after what Terra put you through.", "ja": "テラにあんな目に遭わされて、よく歩けるもんだと感心するぜ。"}
+{"sec": "map:357", "key": "CIEL: I'm afraid I must agree.", "en": "CIEL: I'm afraid I must agree. ", "ja": "シエル: わたしも同意せざるを得ませんわ。"}
+{"sec": "map:357", "key": "It won't do at all to send you in your condition.", "en": "It won't do at all to send you in your condition.", "ja": "その状態で行かせるわけにはいきませんもの。"}
+{"sec": "map:357", "key": "CAIN: \\PN, would you mind going to look for Hardy?", "en": "CAIN: \\PN, would you mind going to look for Hardy?", "ja": "カイン: \\PN、ハーディを探しに行ってもらってもいいか?"}
+{"sec": "map:357", "key": "I kinda wanna catch up with Aya for a little.", "en": "I kinda wanna catch up with Aya for a little. ", "ja": "俺はちょっとアヤと積もる話がしたくてさ。"}
+{"sec": "map:357", "key": "AYA: Now?", "en": "AYA: Now? ", "ja": "アヤ: 今?"}
+{"sec": "map:357", "key": "After everything?", "en": "After everything?", "ja": "こんなことがあった後で?"}
+{"sec": "map:357", "key": "CAIN: ...Look, I can... explain,", "en": "CAIN: ...Look, I can... explain,", "ja": "カイン: ……なあ、説明……できると思う、"}
+{"sec": "map:357", "key": "Kind of,", "en": "Kind of,", "ja": "一応な、"}
+{"sec": "map:357", "key": "But I never wanted to leave you alone there.", "en": "But I never wanted to leave you alone there.", "ja": "でも、お前を一人にするつもりなんて一度もなかったんだ。"}
+{"sec": "map:357", "key": "I just couldn't stay.", "en": "I just couldn't stay.", "ja": "ただ、あそこにはいられなかった。"}
+{"sec": "map:357", "key": "That's all the more reason I owe it to you to get back on track now, right?", "en": "That's all the more reason I owe it to you to get back on track now, right?", "ja": "だからこそ、今きちんと向き合う義理があるだろ?"}
+{"sec": "map:357", "key": "AYA: ...Whatever.", "en": "AYA: ...Whatever.", "ja": "アヤ: ……もういい。"}
+{"sec": "map:357", "key": "RINGMASTER: Oh! Hmm, if \\PN is going out searching...", "en": "RINGMASTER: Oh! Hmm, if \\PN is going out searching...", "ja": "団長: おっと! \\PNが探しに行くってなら……"}
+{"sec": "map:357", "key": "Then I believe a change of plans is in order!", "en": "Then I believe a change of plans is in order!", "ja": "予定を変更したほうがよさそうだな!"}
+{"sec": "map:357", "key": "RINGMASTER: I mentioned that intel about Agate before, right?", "en": "RINGMASTER: I mentioned that intel about Agate before, right?", "ja": "団長: さっきアゲートの情報がどうとか言ってたよな?"}
+{"sec": "map:357", "key": "Perhaps you can be of help to us.", "en": "Perhaps you can be of help to us.", "ja": "お前さんに手を貸してもらえるかもしれない。"}
+{"sec": "map:357", "key": "We had already suspected as much, but we just confirmed that this whole sleeping spell is most definitely caused by that terrorist group, Team Meteor.", "en": "We had already suspected as much, but we just confirmed that this whole sleeping spell is most definitely caused by that terrorist group, Team Meteor.", "ja": "薄々感づいてはいたんだが、この眠りの呪いが、あのテロ組織――チームメテオの仕業だってことが確認できたんだ。"}
+{"sec": "map:357", "key": "We got a tip-- someone from the inside-- who confirmed it for us.", "en": "We got a tip-- someone from the inside-- who confirmed it for us.", "ja": "内部の人間から密告があってな――それで確かめられたんだ。"}
+{"sec": "map:357", "key": "SAMSON: You sure they aren't leading us on?", "en": "SAMSON: You sure they aren't leading us on?", "ja": "サムソン: そいつに担がれてるってことはないのか?"}
+{"sec": "map:357", "key": "RINGMASTER: I asked the caller that as well...", "en": "RINGMASTER: I asked the caller that as well...", "ja": "団長: 電話の相手にもそう聞いたんだが……"}
+{"sec": "map:357", "key": "They assured me, in a very flowery and over-elaborate voice, that they were just looking out for their own interests.", "en": "They assured me, in a very flowery and over-elaborate voice, that they were just looking out for their own interests.", "ja": "自分はただ自分の利益のために動いてるだけだと、やたら回りくどくて大げさな話し方で保証してきたよ。"}
+{"sec": "map:357", "key": "Come to think of it, their pattern of speech was somewhat familiar...", "en": "Come to think of it, their pattern of speech was somewhat familiar...", "ja": "考えてみりゃ、その話し方、どこか聞き覚えがあった気がするんだよな……"}
+{"sec": "map:357", "key": "Oh, maybe because it reminds me of the way you talk, Ciel.", "en": "Oh, maybe because it reminds me of the way you talk, Ciel.", "ja": "ああ、もしかしたらシエル、お前の話し方に似てたからかもな。"}
+{"sec": "map:357", "key": "CIEL: I-- ???", "en": "CIEL: I-- ??? ", "ja": "シエル: わたし――???"}
+{"sec": "map:357", "key": "I haven't the foggiest what you could mean by that.", "en": "I haven't the foggiest what you could mean by that.", "ja": "何のことだか、さっぱりわかりませんわ。"}
+{"sec": "map:357", "key": "RINGMASTER: Yeah, like that.", "en": "RINGMASTER: Yeah, like that.", "ja": "団長: ああ、そうそう、その話し方だ。"}
+{"sec": "map:357", "key": "Anyway, they also suggested that the person responsible for the issue was not too far from here, and goes by the name Titawin, or \"T\".", "en": "Anyway, they also suggested that the person responsible for the issue was not too far from here, and goes by the name Titawin, or \"T\".", "ja": "とにかく、この件の張本人はここからそう遠くない場所にいて、ティタウィン、あるいは『T』と名乗ってるらしい。"}
+{"sec": "map:357", "key": "SAMSON: What kind of name is Titawin?", "en": "SAMSON: What kind of name is Titawin?", "ja": "サムソン: ティタウィンって、なんつー名前だよ。"}
+{"sec": "map:357", "key": "RINGMASTER: Maybe a codename.", "en": "RINGMASTER: Maybe a codename.", "ja": "団長: たぶんコードネームだろうな。"}
+{"sec": "map:357", "key": "Or, I don't know; your guess is as good as mine,", "en": "Or, I don't know; your guess is as good as mine,", "ja": "まあ、俺にもよくわからん、お前の勘と大差ないさ、"}
+{"sec": "map:357", "key": "But it may not be as good as someone else's.", "en": "But it may not be as good as someone else's.", "ja": "だが、他の誰かの勘のほうが当たってるかもな。"}
+{"sec": "map:357", "key": "There's another Gym Leader who lives not too far from here-- out by the cascade on Route 2--", "en": "There's another Gym Leader who lives not too far from here-- out by the cascade on Route 2--", "ja": "ここからそう遠くないところに、もう一人ジムリーダーが住んでるんだ――2番道路の滝の近くにな――"}
+{"sec": "map:357", "key": "And I understand she was digging into Team Meteor at some point in the past.", "en": "And I understand she was digging into Team Meteor at some point in the past.", "ja": "彼女は以前、チームメテオのことを調べてたって聞いてる。"}
+{"sec": "map:357", "key": "I believe her name is...", "en": "I believe her name is... ", "ja": "たしか名前は……"}
+{"sec": "map:357", "key": "Amaria Fiore.", "en": "Amaria Fiore.", "ja": "アマリア・フィオーレ。"}
+{"sec": "map:357", "key": "\\PN, if you have to search out in that direction anyway, maybe you could check in with her and see if we could all trade notes?", "en": "\\PN, if you have to search out in that direction anyway, maybe you could check in with her and see if we could all trade notes?", "ja": "\\PN、どうせそっちの方向を探しに行くなら、彼女のところに寄って、情報交換できないか聞いてみてくれないか?"}
+{"sec": "map:357", "key": "Ah, and you might find this useful.", "en": "Ah, and you might find this useful.", "ja": "ああ、それとこれが役に立つかもしれないぞ。"}
+{"sec": "map:357", "key": "RINGMASTER: That Powder Vial will be useful for getting through Route 2.", "en": "RINGMASTER: That Powder Vial will be useful for getting through Route 2.", "ja": "団長: そのこなのビンは、2番道路を通り抜けるのに役立つはずだ。"}
+{"sec": "map:357", "key": "You can ask the rangers in the west gate how to use it.", "en": "You can ask the rangers in the west gate how to use it.", "ja": "使い方は西門のレンジャーに聞くといい。"}
+{"sec": "map:357", "key": "AYA: Just don't forget about Hardy, okay?", "en": "AYA: Just don't forget about Hardy, okay?", "ja": "アヤ: ハーディのこと、忘れないでよね?"}
+{"sec": "map:357", "key": "Um, not that I miss him or anything...", "en": "Um, not that I miss him or anything...", "ja": "べ、別に会いたいとか、そういうんじゃないけど……"}
+{"sec": "map:357", "key": "RINGMASTER: Best of luck, \\PN, and we'll be waiting to hear back~", "en": "RINGMASTER: Best of luck, \\PN, and we'll be waiting to hear back~", "ja": "団長: 頑張ってこいよ、\\PN、報告を待ってるぞ〜"}
+{"sec": "map:357", "key": "CAIN: Soooo, this Hardy guy...", "en": "CAIN: Soooo, this Hardy guy...", "ja": "カイン: それでさ、そのハーディってやつ……"}
+{"sec": "map:357", "key": "AYA: I know what you're going to say, and you may as well just not say it.", "en": "AYA: I know what you're going to say, and you may as well just not say it.", "ja": "アヤ: 何言おうとしてるかわかってるから、言わなくていいよ。"}
+{"sec": "map:357", "key": "CAIN: Pshaw, don't be like that.", "en": "CAIN: Pshaw, don't be like that. ", "ja": "カイン: ちぇっ、そんなこと言うなよ。"}
+{"sec": "map:357", "key": "Tell me about him.", "en": "Tell me about him.", "ja": "そいつのこと、教えてくれよ。"}
+{"sec": "map:357", "key": "After all, I'm gonna need to know who to beat up if he hurts you.", "en": "After all, I'm gonna need to know who to beat up if he hurts you. ", "ja": "だってさ、そいつがお前を傷つけたら、誰をぶちのめせばいいか知っとかないと。"}
+{"sec": "map:357", "key": "That's what brothers are supposed to do, right?", "en": "That's what brothers are supposed to do, right?", "ja": "それが兄貴ってもんだろ?"}
+{"sec": "map:357", "key": "AYA: Brothers also aren't supposed to run away from home.", "en": "AYA: Brothers also aren't supposed to run away from home.", "ja": "アヤ: 兄貴は家出もしないもんだけどね。"}
+{"sec": "map:357", "key": "CAIN: Ouch.", "en": "CAIN: Ouch. ", "ja": "カイン: 痛いとこ突くな。"}
+{"sec": "map:357", "key": "AYA: He's the Agate City Rock Leader.", "en": "AYA: He's the Agate City Rock Leader. ", "ja": "アヤ: アゲートシティのいわタイプリーダーだよ。"}
+{"sec": "map:357", "key": "He came down to help me settle into my own job--", "en": "He came down to help me settle into my own job-- ", "ja": "わたしが仕事に慣れるのを手伝いに来てくれたの――"}
+{"sec": "map:357", "key": "You know, the one you totally dumped on me.", "en": "You know, the one you totally dumped on me.", "ja": "そう、あんたが丸投げしてきた仕事のこと。"}
+{"sec": "map:357", "key": "CAIN: Okay, okay, I get it!", "en": "CAIN: Okay, okay, I get it! ", "ja": "カイン: わかった、わかったって!"}
+{"sec": "map:357", "key": "I'm sorry.", "en": "I'm sorry.", "ja": "悪かったよ。"}
+{"sec": "map:357", "key": "Put your claws away.", "en": "Put your claws away.", "ja": "爪をしまってくれ。"}
+{"sec": "map:357", "key": "AYA: We were working on figuring out what kind of puzzle my Gym should have.", "en": "AYA: We were working on figuring out what kind of puzzle my Gym should have. ", "ja": "アヤ: わたしのジムにどんな謎解きを置くか、二人で考えてたの。"}
+{"sec": "map:357", "key": "Because, I guess every Gym has to have a puzzle.", "en": "Because, I guess every Gym has to have a puzzle. ", "ja": "だって、どのジムにも謎解きが必要みたいだから。"}
+{"sec": "map:357", "key": "Is that strange?", "en": "Is that strange?", "ja": "変かな?"}
+{"sec": "map:357", "key": "Anyway, he said he'd take me up and show me his Gym's puzzle as an example.", "en": "Anyway, he said he'd take me up and show me his Gym's puzzle as an example. ", "ja": "とにかく、例として自分のジムの謎解きを見せてくれるって言ってくれて。"}
+{"sec": "map:357", "key": "I guess it's based on sound and music?", "en": "I guess it's based on sound and music?", "ja": "音とか音楽がテーマみたい?"}
+{"sec": "map:357", "key": "And... then this happened.", "en": "And... then this happened.", "ja": "それで……こうなったの。"}
+{"sec": "map:357", "key": "CAIN: You still haven't actually told me anything about him though.", "en": "CAIN: You still haven't actually told me anything about him though.", "ja": "カイン: でも、まだそいつのこと全然話してもらってないぞ。"}
+{"sec": "map:357", "key": "Is he cute?", "en": "Is he cute?", "ja": "かわいい系?"}
+{"sec": "map:357", "key": "AYA: I mean, he--", "en": "AYA: I mean, he-- ", "ja": "アヤ: その、彼は――"}
+{"sec": "map:357", "key": "What kind of question is that?!", "en": "What kind of question is that?!", "ja": "何その質問!?"}
+{"sec": "map:357", "key": "CAIN: Ahaha~ So he is!", "en": "CAIN: Ahaha~ So he is!", "ja": "カイン: あはは〜 やっぱりそうなんだ!"}
+{"sec": "map:357", "key": "AYA: I didn't say that!", "en": "AYA: I didn't say that!", "ja": "アヤ: そんなこと言ってない!"}
+{"sec": "map:357", "key": "CAIN: You didn't deny it.", "en": "CAIN: You didn't deny it.", "ja": "カイン: 否定もしてないけどな。"}
+{"sec": "map:357", "key": "AYA: That doesn't mean it's true!", "en": "AYA: That doesn't mean it's true!", "ja": "アヤ: だからって本当とは限らないでしょ!"}
+{"sec": "map:357", "key": "CAIN: Is it true?", "en": "CAIN: Is it true?", "ja": "カイン: で、本当なのか?"}
+{"sec": "map:357", "key": "AYA: That-- I--", "en": "AYA: That-- I-- ", "ja": "アヤ: それは――わたし――"}
+{"sec": "map:357", "key": "...Maybe.", "en": "...Maybe.", "ja": "……かもね。"}
+{"sec": "map:357", "key": "CAIN: Use protection.", "en": "CAIN: Use protection.", "ja": "カイン: ちゃんと気をつけろよ。"}
+{"sec": "map:357", "key": "AYA: WHAT?!", "en": "AYA: WHAT?!", "ja": "アヤ: なんですって?!"}
+{"sec": "map:357", "key": "AYA: Since Agate City is closed, what should we do now?", "en": "AYA: Since Agate City is closed, what should we do now?", "ja": "アヤ: アゲートシティが閉鎖されてるなら、これからどうすればいいの?"}
+{"sec": "map:357", "key": "HARDY: There's some crazy stuff going on in Calcenon.", "en": "HARDY: There's some crazy stuff going on in Calcenon. ", "ja": "ハーディ: カルセノンで何かヤバいことが起きてるみたいだぜ。"}
+{"sec": "map:357", "key": "Imma go check it out.", "en": "Imma go check it out.", "ja": "ちょっと見に行ってくるかな。"}
+{"sec": "map:357", "key": "Once my entire body stops aching, anyway...", "en": "Once my entire body stops aching, anyway... ", "ja": "全身の痛みが引いたらの話だけど……"}
+{"sec": "map:357", "key": "I feel like I got run over by a herd of Bouffalant.", "en": "I feel like I got run over by a herd of Bouffalant.", "ja": "バッフロンの群れにひかれた気分だぜ。"}
+{"sec": "map:357", "key": "CAIN: Terra treated you like a croquet ball.", "en": "CAIN: Terra treated you like a croquet ball. ", "ja": "カイン: テラにクロッケーの球みたいに扱われてたもんな。"}
+{"sec": "map:357", "key": "So, close enough.", "en": "So, close enough.", "ja": "まあ、大差ないさ。"}
+{"sec": "map:357", "key": "I mean, I'm surprised you guys even survived.", "en": "I mean, I'm surprised you guys even survived.", "ja": "つーか、よく生きてたなって驚いてるくらいだよ。"}
+{"sec": "map:357", "key": "AYA: Disappointed?", "en": "AYA: Disappointed?", "ja": "アヤ: がっかりした?"}
+{"sec": "map:357", "key": "CAIN: Nah~", "en": "CAIN: Nah~", "ja": "カイン: いやいや〜"}
+{"sec": "map:357", "key": "HARDY: Haha, gonna take more than that to break us down.", "en": "HARDY: Haha, gonna take more than that to break us down.", "ja": "ハーディ: はは、あれくらいじゃ俺たちは倒れないぜ。"}
+{"sec": "map:357", "key": "You were hurt too, huh, Aya?", "en": "You were hurt too, huh, Aya?", "ja": "アヤ、お前もやられたんだろ?"}
+{"sec": "map:357", "key": "AYA: I think I took an Earthquake to the face.", "en": "AYA: I think I took an Earthquake to the face.", "ja": "アヤ: 顔面に『じしん』を食らった気がする。"}
+{"sec": "map:357", "key": "CAIN: You know she almost flattened me, too.", "en": "CAIN: You know she almost flattened me, too. ", "ja": "カイン: 俺もあやうくぺしゃんこにされるところだったんだぜ。"}
+{"sec": "map:357", "key": "And not in the good way.", "en": "And not in the good way.", "ja": "しかも、いい意味じゃなくてな。"}
+{"sec": "map:357", "key": "HARDY: Pfft, I'd hope not in the good way, mate. Isn't she a bit old for you?", "en": "HARDY: Pfft, I'd hope not in the good way, mate. Isn't she a bit old for you?", "ja": "ハーディ: ぷっ、いい意味じゃないほうがいいだろ、相棒。あいつ、お前にはちょっと年上すぎないか?"}
+{"sec": "map:357", "key": "AYA: How old is she?", "en": "AYA: How old is she?", "ja": "アヤ: 何歳なの、あの人?"}
+{"sec": "map:357", "key": "CAIN: Based on her attitude, I'd say about six.", "en": "CAIN: Based on her attitude, I'd say about six.", "ja": "カイン: 態度だけ見たら、6歳ってとこだな。"}
+{"sec": "map:357", "key": "TERRA: I AINT SIX, YOU HOOLIGANS!", "en": "TERRA: I AINT SIX, YOU HOOLIGANS! ", "ja": "テラ: あたしゃ6歳じゃないよ、このごろつきどもがァ!"}
+{"sec": "map:357", "key": "CAIN: She can hear us?", "en": "CAIN: She can hear us? ", "ja": "カイン: 聞こえてたのか?"}
+{"sec": "map:357", "key": "Awkward...", "en": "Awkward...", "ja": "気まずいな……"}
+{"sec": "map:357", "key": "TERRA: GET RAWR'D ON!!!!", "en": "TERRA: GET RAWR'D ON!!!!", "ja": "テラ: ほえろオオオ!!!!"}
+{"sec": "map:357", "key": "CIEL: I will not say I miss them.", "en": "CIEL: I will not say I miss them.", "ja": "シエル: 寂しいなんて言いませんわよ。"}
+{"sec": "map:357", "key": "Uncouth and hapless as they both may be...", "en": "Uncouth and hapless as they both may be...", "ja": "二人とも、無作法でどうしようもないところがありますけれど……"}
+{"sec": "map:357", "key": "I don't need to say that I miss them for everyone to know.", "en": "I don't need to say that I miss them for everyone to know.", "ja": "口にしなくても、寂しいってことくらいみんな分かってますもの。"}
+{"sec": "map:357", "key": "Perhaps I should work on my acting after all.", "en": "Perhaps I should work on my acting after all.", "ja": "やっぱり、演技の練習をしたほうがよさそうですわね。"}
+{"sec": "map:357", "key": "CIEL: Don't worry, she's well.", "en": "CIEL: Don't worry, she's well. ", "ja": "シエル: ご心配なく、彼女は元気ですわ。"}
+{"sec": "map:357", "key": "Miraculously.", "en": "Miraculously. ", "ja": "奇跡的に。"}
+{"sec": "map:357", "key": "SAMSON: And here she is.", "en": "SAMSON: And here she is.", "ja": "サムソン: おっ、来たぞ。"}
+{"sec": "map:357", "key": "HARDY: Hey, mate. Thanks for fetching me before.", "en": "HARDY: Hey, mate. Thanks for fetching me before.", "ja": "ハーディ: よう、相棒。さっきは迎えに来てくれてありがとな。"}
+{"sec": "map:357", "key": "Sorry you had to deal with my sister.", "en": "Sorry you had to deal with my sister. ", "ja": "うちの妹の相手させちまって悪かったな。"}
+{"sec": "map:357", "key": "She's always been kinda intense, yanno?", "en": "She's always been kinda intense, yanno?", "ja": "あいつ、昔からちょっと激しいんだよ、わかるだろ?"}
+{"sec": "map:357", "key": "Personally, I was ready to take any excuse I could to roll on outta there.", "en": "Personally, I was ready to take any excuse I could to roll on outta there.", "ja": "俺自身、口実さえあればさっさとおさらばする気満々だったぜ。"}
+{"sec": "map:357", "key": "CAIN: Oh, is your sister a brat too?", "en": "CAIN: Oh, is your sister a brat too?", "ja": "カイン: へえ、お前の妹も生意気なタイプなのか?"}
+{"sec": "map:357", "key": "AYA: I'm sitting right here, you know.", "en": "AYA: I'm sitting right here, you know.", "ja": "アヤ: すぐそこに座ってるんですけど。"}
+{"sec": "map:357", "key": "HARDY: Nah, not a brat.", "en": "HARDY: Nah, not a brat.", "ja": "ハーディ: いや、生意気ってほどじゃないな。"}
+{"sec": "map:357", "key": "More like a violent murder waiting to happen.", "en": "More like a violent murder waiting to happen.", "ja": "むしろ、今にも人を殺しかねない暴力女って感じだ。"}
+{"sec": "map:357", "key": "CAIN: Yeah, that sounds like Aya.", "en": "CAIN: Yeah, that sounds like Aya.", "ja": "カイン: ああ、それアヤっぽいな。"}
+{"sec": "map:357", "key": "AYA: It does not!", "en": "AYA: It does not!", "ja": "アヤ: 違うから!"}
+{"sec": "map:357", "key": "HARDY: Haha, nah. Aya's a pretty cool girl.", "en": "HARDY: Haha, nah. Aya's a pretty cool girl. ", "ja": "ハーディ: はは、冗談だよ。アヤはけっこういい女だぜ。"}
+{"sec": "map:357", "key": "Be nice to her, mate.", "en": "Be nice to her, mate.", "ja": "優しくしてやれよ、相棒。"}
+{"sec": "map:357", "key": "CAIN: I'll think about it.", "en": "CAIN: I'll think about it.", "ja": "カイン: 考えとくよ。"}
+{"sec": "map:357", "key": "AYA: Jerk.", "en": "AYA: Jerk.", "ja": "アヤ: バカ。"}
+{"sec": "map:357", "key": "CAIN: Bitch.", "en": "CAIN: Bitch.", "ja": "カイン: クソ女。"}
+{"sec": "map:357", "key": "AYA: Dick.", "en": "AYA: Dick.", "ja": "アヤ: クズ野郎。"}
+{"sec": "map:357", "key": "CAIN: Hag.", "en": "CAIN: Hag.", "ja": "カイン: ババア。"}
+{"sec": "map:357", "key": "AYA: Asshole.", "en": "AYA: Asshole.", "ja": "アヤ: クソ野郎。"}
+{"sec": "map:357", "key": "CAIN: Spinster.", "en": "CAIN: Spinster.", "ja": "カイン: 行き遅れ。"}
+{"sec": "map:357", "key": "AYA: Bitch.", "en": "AYA: Bitch.", "ja": "アヤ: クソ女。"}
+{"sec": "map:357", "key": "CAIN: I already said that one.", "en": "CAIN: I already said that one.", "ja": "カイン: それ、もう言っただろ。"}
+{"sec": "map:357", "key": "AYA: I don't care!", "en": "AYA: I don't care!", "ja": "アヤ: 知らないし!"}
+{"sec": "map:357", "key": "CAIN: Love ya.", "en": "CAIN: Love ya.", "ja": "カイン: 愛してるぜ。"}
+{"sec": "map:357", "key": "AYA: ...Love you too.", "en": "AYA: ...Love you too.", "ja": "アヤ: ……わたしも愛してる。"}
+{"sec": "map:357", "key": "Sometimes.", "en": "Sometimes.", "ja": "たまにはね。"}
+{"sec": "map:357", "key": "SAMSON: So, you're a challenger, yeah?", "en": "SAMSON: So, you're a challenger, yeah?", "ja": "サムソン: で、お前が挑戦者だってか?"}
+{"sec": "map:357", "key": "You know how the badge system in Reborn works, yeah?", "en": "You know how the badge system in Reborn works, yeah?", "ja": "リボーンのバッジシステムは知ってるよな?"}
+{"sec": "map:357", "key": "There's a set ranking, but challengers can fight any Leader within four places of their lowest missing badge.", "en": "There's a set ranking, but challengers can fight any Leader within four places of their lowest missing badge.", "ja": "順位は決まってるが、挑戦者は自分が持ってない一番低い順位のバッジから、4つ以内のリーダーとなら戦えるんだ。"}
+{"sec": "map:357", "key": "Most people don't get them all in order, so that helps even out.", "en": "Most people don't get them all in order, so that helps even out.", "ja": "たいていのやつは順番通りにバッジを取らないから、そのおかげで均等になるんだよ。"}
+{"sec": "map:357", "key": "So, who you missing?", "en": "So, who you missing?", "ja": "で、お前はどのバッジがないんだ?"}
+{"sec": "map:357", "key": "I bet you've only got like three, right?", "en": "I bet you've only got like three, right?", "ja": "どうせ3個くらいしか持ってないんだろ?"}
+{"sec": "map:357", "key": "...Oh, huh.", "en": "...Oh, huh.", "ja": "……おっと、へえ。"}
+{"sec": "map:357", "key": "Nine already.", "en": "Nine already.", "ja": "もう9個か。"}
+{"sec": "map:357", "key": "Well, shit.", "en": "Well, shit.", "ja": "こりゃ参ったな。"}
+{"sec": "map:357", "key": "Now I look like an ass.", "en": "Now I look like an ass.", "ja": "間抜けに見えちまったな、俺。"}
+{"sec": "map:357", "key": "CIEL: Nothing unusual there.", "en": "CIEL: Nothing unusual there.", "ja": "シエル: いつものことですわね。"}
+{"sec": "map:357", "key": "SAMSON: Tch, yeah, but I usually try to hold off on making that known until at least the second date.", "en": "SAMSON: Tch, yeah, but I usually try to hold off on making that known until at least the second date.", "ja": "サムソン: チッ、まあな、でも普通はせめて二回目のデートまでは、そういうところ隠しとくもんだろ。"}
+{"sec": "map:357", "key": "SAMSON: Tch, yeah, but I usually try to hold off on making that known.", "en": "SAMSON: Tch, yeah, but I usually try to hold off on making that known.", "ja": "サムソン: チッ、まあな、でも普通はそういうところ、あんまり見せないようにしてるんだけどな。"}
+{"sec": "map:357", "key": "SAMSON: Anyway, nice to have a challenger at our level!", "en": "SAMSON: Anyway, nice to have a challenger at our level!", "ja": "サムソン: とにかく、俺たちと同格の挑戦者が来てくれてうれしいぜ!"}
+{"sec": "map:357", "key": "I'll have to amp up the competition so it's not too easy for you!", "en": "I'll have to amp up the competition so it's not too easy for you!", "ja": "簡単すぎないように、気合入れてかからないとな!"}
+{"sec": "map:357", "key": "CIEL: Oh, but it's always so easy with you~", "en": "CIEL: Oh, but it's always so easy with you~", "ja": "シエル: あら、でもあなたにはいつも楽勝ですものね〜"}
+{"sec": "map:357", "key": "SAMSON: No comments from the \"super-effective\" peanut gallery, thanks.", "en": "SAMSON: No comments from the \"super-effective\" peanut gallery, thanks.", "ja": "サムソン: 『こうかはばつぐんだ』の野次馬席から茶々入れんなよ。"}
+{"sec": "map:357", "key": "CIEL: Ahaha~", "en": "CIEL: Ahaha~ ", "ja": "シエル: あはは〜"}
+{"sec": "map:357", "key": "I may be the peanut gallery, but I'm not the one who's salty~", "en": "I may be the peanut gallery, but I'm not the one who's salty~", "ja": "野次馬席かもしれませんけど、悔しがってるのはわたしじゃありませんわ〜"}
+{"sec": "map:357", "key": "CIEL: I do hope Agate City is restored shortly.", "en": "CIEL: I do hope Agate City is restored shortly. ", "ja": "シエル: アゲートシティが早く元に戻るといいのですけれど。"}
+{"sec": "map:357", "key": "It's such a let-down to see the audience dwindling as the shows roll onward.", "en": "It's such a let-down to see the audience dwindling as the shows roll onward.", "ja": "ショーを重ねるごとにお客さんが減っていくのを見るのは、がっかりですもの。"}
+{"sec": "map:357", "key": "Unfortunately, no one can quite figure out why everyone in Agate falls asleep.", "en": "Unfortunately, no one can quite figure out why everyone in Agate falls asleep.", "ja": "残念ながら、アゲートのみんなが眠ってしまう理由は、誰にもよくわかっていませんの。"}
+{"sec": "map:357", "key": "That said, we do have someone on the case.", "en": "That said, we do have someone on the case. ", "ja": "とはいえ、調べてくれている者はおりますわ。"}
+{"sec": "map:357", "key": "You won't believe who, either.", "en": "You won't believe who, either.", "ja": "誰だと思います? きっと信じられませんわよ。"}
+{"sec": "map:357", "key": "SAMSON: Turns out Terra the Terrible isn't bad with computers.", "en": "SAMSON: Turns out Terra the Terrible isn't bad with computers.", "ja": "サムソン: 恐怖のテラが、実はパソコンに強いってことがわかってな。"}
+{"sec": "map:357", "key": "CIEL: Indeed, she tells us she's able to detect some kind of signal broadcasting over Agate City.", "en": "CIEL: Indeed, she tells us she's able to detect some kind of signal broadcasting over Agate City. ", "ja": "シエル: ええ、アゲートシティ上空に何らかの信号が流れているのを検知できてるそうですわ。"}
+{"sec": "map:357", "key": "In just a short while longer, she can figure out its source.", "en": "In just a short while longer, she can figure out its source.", "ja": "もう少しで、その発信源も突き止められるとのことですの。"}
+{"sec": "map:357", "key": "SAMSON: Once she does, we go in there, give it some good, old-fashioned knuckle-bashing, and call it a day.", "en": "SAMSON: Once she does, we go in there, give it some good, old-fashioned knuckle-bashing, and call it a day.", "ja": "サムソン: それが分かり次第、乗り込んで、昔ながらのゲンコツをお見舞いして、それで終わりだ。"}
+{"sec": "map:357", "key": "CIEL: A highly unprofessional plan...", "en": "CIEL: A highly unprofessional plan...", "ja": "シエル: なんとも不用意な計画ですこと……"}
+{"sec": "map:357", "key": "But I suppose that is the idea.", "en": "But I suppose that is the idea.", "ja": "でも、それが狙いなのでしょうね。"}
+{"sec": "map:357", "key": "SAMSON: The lady knows good work when she hears it.", "en": "SAMSON: The lady knows good work when she hears it.", "ja": "サムソン: いい仕事はちゃんとわかるお嬢さんだな。"}
+{"sec": "map:357", "key": "CIEL: I know no such thing, brute.", "en": "CIEL: I know no such thing, brute.", "ja": "シエル: そんなこと知りませんわよ、野蛮人。"}
+{"sec": "map:357", "key": "SAMSON: Oh, you don't know good ideas?", "en": "SAMSON: Oh, you don't know good ideas?", "ja": "サムソン: お、いい考えってのがわからないのか?"}
+{"sec": "map:357", "key": "Guess that explains some things.", "en": "Guess that explains some things.", "ja": "そりゃいろいろ納得だな。"}
+{"sec": "map:357", "key": "CIEL: Hey! That's not what I meant and you know it!", "en": "CIEL: Hey! That's not what I meant and you know it!", "ja": "シエル: ちょっと! そういう意味じゃないの、わかってるくせに!"}
+{"sec": "map:357", "key": "CAIN: Hey, Aya. You know I'm sorry about pushing all that stuff on you, right?", "en": "CAIN: Hey, Aya. You know I'm sorry about pushing all that stuff on you, right?", "ja": "カイン: なあ、アヤ。あれこれ押しつけたこと、悪かったと思ってるんだぞ?"}
+{"sec": "map:357", "key": "AYA: If you were really sorry, you wouldn't have done it.", "en": "AYA: If you were really sorry, you wouldn't have done it.", "ja": "アヤ: 本当に悪いと思ってるなら、最初からやってないでしょ。"}
+{"sec": "map:357", "key": "CAIN: ~ Your heart's beating around the clock,", "en": "CAIN: ~ Your heart's beating around the clock,", "ja": "〜 心臓は時計みたいに時を刻んでる、"}
+{"sec": "map:357", "key": "Time tickin' away, it doesn't stop ~", "en": "Time tickin' away, it doesn't stop ~", "ja": "刻まれる時間は 止まりはしない〜"}
+{"sec": "map:357", "key": "~ Evolution is takin' place, the world is spinnin' and changin' every day ~", "en": "~ Evolution is takin' place, the world is spinnin' and changin' every day ~ ", "ja": "〜 進化はいつも起きていて、世界は毎日回って変わっていく〜"}
+{"sec": "map:357", "key": "~ Anything you think of with a name", "en": "~ Anything you think of with a name", "ja": "〜 名前のあるものは何だって"}
+{"sec": "map:357", "key": "There isn't anything in life that ever stays the same ~", "en": "There isn't anything in life that ever stays the same ~", "ja": "この世に ずっと同じままのものなんて ひとつもない〜"}
+{"sec": "map:357", "key": "AYA: Just stop.", "en": "AYA: Just stop.", "ja": "アヤ: もうやめて。"}
+{"sec": "map:357", "key": "Were those stupid songs of yours enough to shove us out of your mind entirely?", "en": "Were those stupid songs of yours enough to shove us out of your mind entirely?", "ja": "その馬鹿みたいな歌のせいで、わたしたちのこと頭から追い出せてたわけ?"}
+{"sec": "map:357", "key": "CAIN: Of course not.", "en": "CAIN: Of course not. ", "ja": "カイン: そんなわけないだろ。"}
+{"sec": "map:357", "key": "But I made that choice for my own well-being, so there's no point in feeling guilty for it.", "en": "But I made that choice for my own well-being, so there's no point in feeling guilty for it.", "ja": "でも、あれは自分のために選んだことだから、罪悪感を感じても仕方ないんだ。"}
+{"sec": "map:357", "key": "I didn't mean to saddle you with so much responsibility, but I couldn't deal with Mom anymore.", "en": "I didn't mean to saddle you with so much responsibility, but I couldn't deal with Mom anymore.", "ja": "お前にそんな重い責任を背負わせるつもりはなかったけど、もう母さんに耐えられなかったんだよ。"}
+{"sec": "map:357", "key": "AYA: Uh huh.", "en": "AYA: Uh huh. ", "ja": "アヤ: ふうん。"}
+{"sec": "map:357", "key": "You think she got any more tolerable after you left?", "en": "You think she got any more tolerable after you left?", "ja": "あんたが出てったあと、母さんがちょっとはマシになったとでも思ってる?"}
+{"sec": "map:357", "key": "She practically denies your existence now.", "en": "She practically denies your existence now.", "ja": "今じゃ、あんたの存在なんてほとんど無かったことにしてるよ。"}
+{"sec": "map:357", "key": "Her yelling hasn't stopped.", "en": "Her yelling hasn't stopped. ", "ja": "怒鳴り声も、ずっと止まってない。"}
+{"sec": "map:357", "key": "Tez's got worse.", "en": "Tez's got worse.", "ja": "テズ、もっとひどくなったよ。"}
+{"sec": "map:357", "key": "The only real difference is it's not about you anymore.", "en": "The only real difference is it's not about you anymore. ", "ja": "違うのは、もうあんたのことじゃなくなっただけ。"}
+{"sec": "map:357", "key": "CAIN: Right...", "en": "CAIN: Right...", "ja": "カイン: だよな……"}
+{"sec": "map:357", "key": "AYA: Well, it's whatever.", "en": "AYA: Well, it's whatever.", "ja": "アヤ: まあ、どうでもいいけど。"}
+{"sec": "map:357", "key": "At least one of us can be happy this way.", "en": "At least one of us can be happy this way. ", "ja": "少なくとも、これでどっちかは幸せになれるんだから。"}
+{"sec": "map:357", "key": "And if I didn't have to take your position, I might not have met Hardy.", "en": "And if I didn't have to take your position, I might not have met Hardy.", "ja": "それに、あんたの代わりを引き受けなかったら、ハーディに出会えなかったかもしれないし。"}
+{"sec": "map:357", "key": "CAIN: Ooh, so he makes you happy, huh?", "en": "CAIN: Ooh, so he makes you happy, huh?", "ja": "カイン: おお、じゃああいつがお前を幸せにしてくれてるってことか?"}
+{"sec": "map:357", "key": "AYA: It's not like that...", "en": "AYA: It's not like that...", "ja": "アヤ: そういうんじゃないから……"}
+{"sec": "map:357", "key": "CAIN: Suuuuuure.", "en": "CAIN: Suuuuuure.", "ja": "カイン: はいはい、そういうことにしといてやるよ。"}
+{"sec": "map:357", "key": "CAIN: So, Hardy, what do you do besides running your Gym?", "en": "CAIN: So, Hardy, what do you do besides running your Gym?", "ja": "カイン: それで、ハーディ、ジムの運営以外は何してるんだ?"}
+{"sec": "map:357", "key": "HARDY: Music, mostly.", "en": "HARDY: Music, mostly. ", "ja": "ハーディ: だいたい音楽だな。"}
+{"sec": "map:357", "key": "I spend a lotta time practicing guitar.", "en": "I spend a lotta time practicing guitar.", "ja": "ギターの練習にけっこう時間を使ってるぜ。"}
+{"sec": "map:357", "key": "AYA: He plays really well.", "en": "AYA: He plays really well.", "ja": "アヤ: すごく上手いんだよ。"}
+{"sec": "map:357", "key": "CAIN: Oh, you've impressed even Aya.", "en": "CAIN: Oh, you've impressed even Aya. ", "ja": "カイン: おお、アヤを感心させるとはな。"}
+{"sec": "map:357", "key": "You've done what I failed to do for her entire life~", "en": "You've done what I failed to do for her entire life~", "ja": "俺が一生かけてもできなかったことを、やってのけたわけだ〜"}
+{"sec": "map:357", "key": "AYA: What do you mean, my entire life?", "en": "AYA: What do you mean, my entire life? ", "ja": "アヤ: 一生って何よ?"}
+{"sec": "map:357", "key": "Don't you mean YOUR life?", "en": "Don't you mean YOUR life?", "ja": "それ、あんたの一生の間違いじゃないの?"}
+{"sec": "map:357", "key": "CAIN: I'm sure you were never impressed before I was born either.", "en": "CAIN: I'm sure you were never impressed before I was born either.", "ja": "カイン: どうせ俺が生まれる前だって、お前を感心させたことなんてなかったんだろうな。"}
+{"sec": "map:357", "key": "Isn't disappointment your sole existence?", "en": "Isn't disappointment your sole existence?", "ja": "がっかりすることが、お前の存在理由みたいなもんだろ?"}
+{"sec": "map:357", "key": "HARDY: Easy there, mate.", "en": "HARDY: Easy there, mate. ", "ja": "ハーディ: まあまあ落ち着けよ、相棒。"}
+{"sec": "map:357", "key": "What about you?", "en": "What about you? ", "ja": "お前はどうなんだ?"}
+{"sec": "map:357", "key": "Play anything?", "en": "Play anything?", "ja": "何か楽器やるのか?"}
+{"sec": "map:357", "key": "CAIN: I play my voice~", "en": "CAIN: I play my voice~", "ja": "カイン: 俺の楽器はこの声さ〜"}
+{"sec": "map:357", "key": "AYA: Only to terrorize me, I'm sure.", "en": "AYA: Only to terrorize me, I'm sure.", "ja": "アヤ: どうせわたしを怖がらせるためだけでしょ。"}
+{"sec": "map:357", "key": "CAIN: Pshawww~", "en": "CAIN: Pshawww~", "ja": "カイン: ちぇーい〜"}
+{"sec": "map:357", "key": "HARDY: That's cool.", "en": "HARDY: That's cool. ", "ja": "ハーディ: いいじゃんか。"}
+{"sec": "map:357", "key": "Hey, if we had a drummer and a bassist, we could have our own band.", "en": "Hey, if we had a drummer and a bassist, we could have our own band. ", "ja": "なあ、ドラムとベースがいれば、自分たちのバンドが組めるかもな。"}
+{"sec": "map:357", "key": "AYA: That could be kind of cool...", "en": "AYA: That could be kind of cool...", "ja": "アヤ: それ、ちょっと面白いかも……"}
+{"sec": "map:357", "key": "CAIN: Know anyone who suits the bill?", "en": "CAIN: Know anyone who suits the bill?", "ja": "カイン: 誰か適任者に心当たりあるか?"}
+{"sec": "map:357", "key": "HARDY: 'Fraid not.", "en": "HARDY: 'Fraid not.", "ja": "ハーディ: いや、悪いけど。"}
+{"sec": "map:357", "key": "My sister used to play bass, but...", "en": "My sister used to play bass, but...", "ja": "俺の妹、昔ベースやってたんだけどな……"}
+{"sec": "map:357", "key": "I don't hate myself enough to go there.", "en": "I don't hate myself enough to go there.", "ja": "そこに首を突っ込むほど自分を嫌ってないんでな。"}
+{"sec": "map:357", "key": "RINGMASTER: So you're a challenger to our League, right?", "en": "RINGMASTER: So you're a challenger to our League, right?", "ja": "団長: で、お前がうちのリーグへの挑戦者ってことか?"}
+{"sec": "map:357", "key": "Then I should tell you about our special challenge rules~", "en": "Then I should tell you about our special challenge rules~", "ja": "それなら、うちの特別ルールを説明しておかないとな〜"}
+{"sec": "map:357", "key": "Everyone and their Pikachu would just be challenging the Leaders all the time if they could,", "en": "Everyone and their Pikachu would just be challenging the Leaders all the time if they could, ", "ja": "誰も彼も、猫もしゃくしもリーダーに挑みたがるからな、放っておいたら、"}
+{"sec": "map:357", "key": "And then we'd never get to use the Big Top space for anything else.", "en": "And then we'd never get to use the Big Top space for anything else.", "ja": "ビッグトップが他のことに使えなくなっちまう。"}
+{"sec": "map:357", "key": "Soooo, in order to face one of the Agate Ace Triumvirate, you need a special Battle Pass!", "en": "Soooo, in order to face one of the Agate Ace Triumvirate, you need a special Battle Pass!", "ja": "だから、アゲート三強の誰かと戦うには、特別なバトルパスが必要なんだ!"}
+{"sec": "map:357", "key": "We sent some passes out as a promotion, and you also have a chance to win them from circus games and other events!", "en": "We sent some passes out as a promotion, and you also have a chance to win them from circus games and other events!", "ja": "宣伝としていくつか配ったし、サーカスのゲームやイベントで手に入るチャンスもあるぞ!"}
+{"sec": "map:357", "key": "Sooo, stick around and get to playing!", "en": "Sooo, stick around and get to playing!", "ja": "というわけで、しばらく居座って遊んでいくといい!"}
+{"sec": "map:357", "key": "SAMSON: As you can see, her ad campaign is something else.", "en": "SAMSON: As you can see, her ad campaign is something else.", "ja": "サムソン: 見ての通り、あいつの宣伝の仕方はちょっと普通じゃないんだ。"}
+{"sec": "map:357", "key": "RINGMASTER: Ooh, shush, you!", "en": "RINGMASTER: Ooh, shush, you!", "ja": "団長: おっと、黙ってろ!"}
+{"sec": "map:357", "key": "Ah, one more thing~", "en": "Ah, one more thing~", "ja": "ああ、もうひとつ〜"}
+{"sec": "map:357", "key": "There may be a special qualifying battle against a secret mystery opponent before we let you onto the main stage!", "en": "There may be a special qualifying battle against a secret mystery opponent before we let you onto the main stage!", "ja": "メインステージに上げる前に、秘密の謎の相手との特別な予選バトルがあるかもしれないぞ!"}
+{"sec": "map:357", "key": "SAMSON: It's her.", "en": "SAMSON: It's her.", "ja": "サムソン: あいつのことだよ。"}
+{"sec": "map:357", "key": "RINGMASTER: Shush!", "en": "RINGMASTER: Shush!", "ja": "団長: 黙ってろって!"}
+{"sec": "map:357", "key": "It is SECRET and a MYSTERY!", "en": "It is SECRET and a MYSTERY!", "ja": "秘密で謎の相手なんだからな!"}
+{"sec": "map:357", "key": "So be ready for that!!!", "en": "So be ready for that!!!", "ja": "覚悟しておけよ!!!"}
+{"sec": "map:357", "key": "TERRA: hey bb u lyk wat u c??", "en": "TERRA: hey bb u lyk wat u c??", "ja": "テラ: よぉベイベ気に入ったかぁ見た目わ??"}
+{"sec": "map:357", "key": "CIEL: Terra, please refrain from flirting with our guests.", "en": "CIEL: Terra, please refrain from flirting with our guests.", "ja": "シエル: テラ、お客様への色目はやめてくださる?"}
+{"sec": "map:357", "key": "TERRA: Ciel iz jelly", "en": "TERRA: Ciel iz jelly", "ja": "テラ: シエルったらヤキモチぃ"}
+{"sec": "map:357", "key": "CIEL: I am not!", "en": "CIEL: I am not! ", "ja": "シエル: 妬いてなんかいませんわ!"}
+{"sec": "map:357", "key": "Of what would I possibly be jealous?", "en": "Of what would I possibly be jealous?", "ja": "何に妬く必要があるっていうんです?"}
+{"sec": "map:357", "key": "TERRA: Ciel wantz the D.", "en": "TERRA: Ciel wantz the D.", "ja": "テラ: シエルはナニがほしいんでしょ"}
+{"sec": "map:357", "key": "CIEL: Terra, darling, you don't even have a D.", "en": "CIEL: Terra, darling, you don't even have a D.", "ja": "シエル: テラ、あなたそもそもナニなんて持ってませんでしょう。"}
+{"sec": "map:357", "key": "SAMSON: Well, hold on, Ciel.", "en": "SAMSON: Well, hold on, Ciel. ", "ja": "サムソン: おいおい、待てよ、シエル。"}
+{"sec": "map:357", "key": "How do you know for sure?", "en": "How do you know for sure?", "ja": "なんでそんなに自信たっぷりに言い切れるんだ?"}
+{"sec": "map:357", "key": "CIEL: What are you implying?", "en": "CIEL: What are you implying?", "ja": "シエル: 何をほのめかしてますの?"}
+{"sec": "map:357", "key": "TERRA: he aint imply nothin.", "en": "TERRA: he aint imply nothin. ", "ja": "テラ: あいつ何もほのめかしてなくね。"}
+{"sec": "map:357", "key": "cuz we all know what do happen when you done implied...", "en": "cuz we all know what do happen when you done implied...", "ja": "だってほのめかしたらどうなるか、みんな知ってるっしょ……"}
+{"sec": "map:357", "key": "you make an imp out of li and ed LOLOLOLOL\\tts[you make an imp out of li and ed, LOLOLOLOL]", "en": "you make an imp out of li and ed LOLOLOLOL\\tts[you make an imp out of li and ed, LOLOLOLOL]", "ja": "「ほの」と「めかす」に分けたら小鬼が出てくるんだよ、わかる? LOLOLOLOL\\tts[you make an imp out of li and ed, LOLOLOLOL]"}
+{"sec": "map:357", "key": "CIEL: Don't you have work to do?", "en": "CIEL: Don't you have work to do?", "ja": "シエル: お仕事があるのではなくて?"}
+{"sec": "map:357", "key": "TERRA: HELLZ YEA I GOT WORK TO DO!", "en": "TERRA: HELLZ YEA I GOT WORK TO DO!", "ja": "テラ: おうともよ仕事ならあるぜぇ!"}
+{"sec": "map:357", "key": "SO BEND OVER SO I CAN DO YA!!!", "en": "SO BEND OVER SO I CAN DO YA!!!", "ja": "だからかがめよ、ヤッてやっからよぉ!!!"}
+{"sec": "map:357", "key": "CIEL: That's abhorrent.", "en": "CIEL: That's abhorrent.", "ja": "シエル: 反吐が出ますわ。"}
+{"sec": "map:357", "key": "TERRA: YO MOMMA IS ABWHORENT!!! OOOOOO", "en": "TERRA: YO MOMMA IS ABWHORENT!!! OOOOOO", "ja": "テラ: おめぇのオカンが反吐もんだろぉぉぉ!!! ウオオオオ"}
+{"sec": "map:357", "key": "CIEL: Do you even know what that word means?", "en": "CIEL: Do you even know what that word means?", "ja": "シエル: そもそもその言葉の意味、分かって使ってますの?"}
+{"sec": "map:357", "key": "TERRA: 4sho. it meanz...\\tts[TERRA: forsho. it meanz...]", "en": "TERRA: 4sho. it meanz...\\tts[TERRA: forsho. it meanz...]", "ja": "テラ: あったりまえよ。意味はな……\\tts[TERRA: forsho. it meanz...]"}
+{"sec": "map:357", "key": "RAWWWWWWWWWWWWWWWWWRRRRR!!!!!!!!!!", "en": "RAWWWWWWWWWWWWWWWWWRRRRR!!!!!!!!!!", "ja": "ガアアアアアアアアアアアアアオオオ!!!!!!!!!!"}
+{"sec": "map:357", "key": "CIEL: It does not mean rawr.", "en": "CIEL: It does not mean rawr.", "ja": "シエル: 意味は「ガオー」ではありませんわ。"}
+{"sec": "map:357", "key": "TERRA: Sh000000re it dont.", "en": "TERRA: Sh000000re it dont. ", "ja": "テラ: そぉぉぉぉりゃそうだろよぉ。"}
+{"sec": "map:357", "key": "Ciel juzt saltyyy.", "en": "Ciel juzt saltyyy.", "ja": "シエルってばひがみすぎぃ。"}
+{"sec": "map:357", "key": "s00000 saltyyyy.\\tts[sooooo saltyyyy.]", "en": "s00000 saltyyyy.\\tts[sooooo saltyyyy.]", "ja": "ひがみひがみひがみぃ〜\\tts[sooooo saltyyyy.]"}
+{"sec": "map:357", "key": "make a pretzel outta her, d'as how salty she izzz.\\tts[make a pretzel outta her, das how salty she izzz.]", "en": "make a pretzel outta her, d'as how salty she izzz.\\tts[make a pretzel outta her, das how salty she izzz.]", "ja": "プレッツェルにしちまえよ、そんくらいしょっぱいんだからよぉ。\\tts[make a pretzel outta her, das how salty she izzz.]"}
+{"sec": "map:357", "key": "awh bitchtits now i want a pretzel.", "en": "awh bitchtits now i want a pretzel. ", "ja": "あちゃー、そのせいでプレッツェル食いたくなったじゃん。"}
+{"sec": "map:357", "key": "DEFEAT.", "en": "DEFEAT.", "ja": "敗北。"}
+{"sec": "map:357", "key": "CIEL: I-- what?", "en": "CIEL: I-- what?", "ja": "シエル: わたし――何ですって?"}
+{"sec": "map:357", "key": "SAMSON: Apparently pretzels are Terra's secret weakness.", "en": "SAMSON: Apparently pretzels are Terra's secret weakness. ", "ja": "サムソン: どうやらプレッツェルはテラの隠れた弱点らしいな。"}
+{"sec": "map:357", "key": "I'll be sure to keep a stock on me at all times.", "en": "I'll be sure to keep a stock on me at all times.", "ja": "常に持ち歩いとくことにするよ。"}
+{"sec": "map:357", "key": "SAMSON: You set?", "en": "SAMSON: You set?", "ja": "サムソン: 準備はいいか?"}
+{"sec": "map:357", "key": "SAMSON: All right, all I should need to do is this...", "en": "SAMSON: All right, all I should need to do is this...", "ja": "サムソン: よし、これだけやりゃいいはずだ……"}
+{"sec": "map:357", "key": "SAMSON: Yeah, don't rush this.", "en": "SAMSON: Yeah, don't rush this. ", "ja": "サムソン: ああ、焦らずいこう。"}
+{"sec": "map:357", "key": "Besides, I doubt she's coming out of there any time soon.", "en": "Besides, I doubt she's coming out of there any time soon.", "ja": "どうせあいつ、すぐには出てこないだろうしな。"}
+{"sec": "map:357", "key": "SAMSON: Going back in?", "en": "SAMSON: Going back in?", "ja": "サムソン: また戻るのか?"}
+{"sec": "map:357", "key": "SAMSON: Just tell me when.", "en": "SAMSON: Just tell me when.", "ja": "サムソン: いつでも言ってくれ。"}
+{"sec": "map:357", "key": "CIEL: Bravo, dear, bravo!", "en": "CIEL: Bravo, dear, bravo!", "ja": "シエル: ブラボー、あなた、ブラボーですわ!"}
+{"sec": "map:357", "key": "SAMSON: Not bad. We saw everything on the monitor.", "en": "SAMSON: Not bad. We saw everything on the monitor.", "ja": "サムソン: 悪くないな。モニターで全部見てたぜ。"}
+{"sec": "map:357", "key": "That was some stupid goose chase.", "en": "That was some stupid goose chase. ", "ja": "まったく馬鹿げた鬼ごっこだったな。"}
+{"sec": "map:357", "key": "Seemed like she was just trying to distract you from the whole Meteor deal.", "en": "Seemed like she was just trying to distract you from the whole Meteor deal.", "ja": "メテオの件からお前の気をそらそうとしてただけみたいだったな。"}
+{"sec": "map:357", "key": "She ran off again.", "en": "She ran off again. ", "ja": "また逃げてったぞ。"}
+{"sec": "map:357", "key": "I haven't been able to find where, but now that you're out, I have an idea.", "en": "I haven't been able to find where, but now that you're out, I have an idea.", "ja": "どこに行ったかはまだ分からないが、お前が出てきたなら、ちょっと考えがある。"}
+{"sec": "map:357", "key": "CIEL: Ah, if you do that, will Terra be all right?", "en": "CIEL: Ah, if you do that, will Terra be all right?", "ja": "シエル: あら、それをしたら、テラは大丈夫なんですの?"}
+{"sec": "map:357", "key": "SAMSON: Can't say for sure, but she probably can't get out of there as long as this is off.", "en": "SAMSON: Can't say for sure, but she probably can't get out of there as long as this is off.", "ja": "サムソン: 確かなことは言えないが、これを切っておけば、たぶんあいつはそこから出られないはずだ。"}
+{"sec": "map:357", "key": "SAMSON: At the least, she can't cause any more trouble for Team Meteor.", "en": "SAMSON: At the least, she can't cause any more trouble for Team Meteor. ", "ja": "サムソン: 少なくとも、これ以上チームメテオのために悪さはできなくなる。"}
+{"sec": "map:357", "key": "We'll let her out when this is all over.", "en": "We'll let her out when this is all over.", "ja": "全部終わったら出してやるさ。"}
+{"sec": "map:357", "key": "In the meantime, can't say I mind the relative serenity.", "en": "In the meantime, can't say I mind the relative serenity.", "ja": "それまでの間、この静けさもまんざらじゃないけどな。"}
+{"sec": "map:357", "key": "CIEL: But that does leave us high and dry without a clue what's actually going on with Agate City.", "en": "CIEL: But that does leave us high and dry without a clue what's actually going on with Agate City.", "ja": "シエル: でも、それだとアゲートシティで実際に何が起きてるのか、手がかりなしで途方に暮れることになりますわよ。"}
+{"sec": "map:357", "key": "SAMSON: We can see if Terra wants to talk in a bit.", "en": "SAMSON: We can see if Terra wants to talk in a bit.", "ja": "サムソン: もう少ししたら、テラが話す気になるか見てみればいい。"}
+{"sec": "map:357", "key": "We'll tell her we'll let her out if she does.", "en": "We'll tell her we'll let her out if she does.", "ja": "話してくれたら出してやるって言っておくさ。"}
+{"sec": "map:357", "key": "So, \\PN, leave that to us.", "en": "So, \\PN, leave that to us.", "ja": "だから、\\PN、そっちは俺たちに任せとけ。"}
+{"sec": "map:357", "key": "If I heard right, you've gotta scale that waterfall?", "en": "If I heard right, you've gotta scale that waterfall?", "ja": "俺の聞いた話が正しけりゃ、お前はあの滝を登らなきゃいけないんだろ?"}
+{"sec": "map:357", "key": "CIEL: Bon voyage, \\PN!", "en": "CIEL: Bon voyage, \\PN!", "ja": "シエル: 良い旅を、\\PN!"}
+{"sec": "map:357", "key": "Don't worry, we'll have that woman practically writing novels!", "en": "Don't worry, we'll have that woman practically writing novels!", "ja": "ご心配なく、あの女性から小説が書けそうなくらい話を聞き出してみせますわ!"}
+{"sec": "map:357", "key": "SAMSON: Erotica if I had to guess.", "en": "SAMSON: Erotica if I had to guess.", "ja": "サムソン: 予想するなら官能小説だろうな。"}
+{"sec": "map:357", "key": "CIEL: Probably some wretched anime cross-over erotica, yes.", "en": "CIEL: Probably some wretched anime cross-over erotica, yes.", "ja": "シエル: ええ、おそらく質の悪いアニメクロスオーバー官能小説でしょうね。"}
+{"sec": "map:357", "key": "On second thought, let's scratch the novels.", "en": "On second thought, let's scratch the novels. ", "ja": "いえ、やっぱり小説の話はなしにしましょう。"}
+{"sec": "map:357", "key": "But we'll figure it out.", "en": "But we'll figure it out.", "ja": "でも、なんとかしてみせますわ。"}
+{"sec": "map:357", "key": "SAMSON: We'll give her time to get cozy in there before we start negotiating.", "en": "SAMSON: We'll give her time to get cozy in there before we start negotiating.", "ja": "サムソン: 交渉を始める前に、あいつがそこで落ち着く時間をやろう。"}
+{"sec": "map:357", "key": "CIEL: Aye! Desperation makes lovely verisimilitude!", "en": "CIEL: Aye! Desperation makes lovely verisimilitude!", "ja": "シエル: そうですわ! 切羽詰まった様子ほど、真実味を演出してくれますもの!"}
+{"sec": "map:357", "key": "SAMSON: Oh, \\PN. Hey.", "en": "SAMSON: Oh, \\PN. Hey. ", "ja": "サムソン: おっ、\\PN。よう。"}
+{"sec": "map:357", "key": "Wish I had news for you, but I don't.", "en": "Wish I had news for you, but I don't.", "ja": "何か知らせがありゃよかったんだが、何もないんだよ。"}
+{"sec": "map:357", "key": "No matter how many times we check, we still can't find Terra.", "en": "No matter how many times we check, we still can't find Terra.", "ja": "何度確認しても、テラが見つからないんだ。"}
+{"sec": "map:357", "key": "CIEL: Oh, greetings, \\PN!", "en": "CIEL: Oh, greetings, \\PN!", "ja": "シエル: あら、ごきげんよう、\\PN!"}
+{"sec": "map:357", "key": "I trust you were able to take care of your friends?", "en": "I trust you were able to take care of your friends?", "ja": "お友達のこと、ちゃんと片付けられたのかしら?"}
+{"sec": "map:357", "key": "That would be more than we could say.", "en": "That would be more than we could say.", "ja": "こちらはそうもいきませんでしたけれど。"}
+{"sec": "map:357", "key": "SAMSON: Not so sure we can call Terra a friend at this point.", "en": "SAMSON: Not so sure we can call Terra a friend at this point.", "ja": "サムソン: この状況で、テラを友達って呼べるかどうか怪しいけどな。"}
+{"sec": "map:357", "key": "CIEL: The point was less the \"friend\", and more the looming threat that you may have deleted her outright.", "en": "CIEL: The point was less the \"friend\", and more the looming threat that you may have deleted her outright.", "ja": "シエル: 「友達」かどうかより、あなたが彼女を完全に消してしまったんじゃないかって心配してましたのよ。"}
+{"sec": "map:357", "key": "And then what!", "en": "And then what! ", "ja": "そうなったらどうするんですの!"}
+{"sec": "map:357", "key": "We'd have to resign ourselves to being the Agate Ace Doublet!", "en": "We'd have to resign ourselves to being the Agate Ace Doublet! ", "ja": "「アゲート二強」に成り下がるしかありませんわ!"}
+{"sec": "map:357", "key": "That's not nearly as attractive-sounding!", "en": "That's not nearly as attractive-sounding!", "ja": "全然かっこよく聞こえませんもの!"}
+{"sec": "map:357", "key": "SAMSON: Hey, if you don't like the sound of that, we could always be the Agate Ace Couple.", "en": "SAMSON: Hey, if you don't like the sound of that, we could always be the Agate Ace Couple.", "ja": "サムソン: その名前が気に入らないなら、いっそ「アゲートの熱愛カップル」ってのはどうだ。"}
+{"sec": "map:357", "key": "CIEL: Please, that didn't work out for you before.", "en": "CIEL: Please, that didn't work out for you before. ", "ja": "シエル: やめてくださいまし、前にもうまくいかなかったでしょう。"}
+{"sec": "map:357", "key": "What makes you think it'll work now?", "en": "What makes you think it'll work now?", "ja": "今ならうまくいくと、なぜ思えますの?"}
+{"sec": "map:357", "key": "SAMSON: My rugged good looks and dazzling charm.", "en": "SAMSON: My rugged good looks and dazzling charm.", "ja": "サムソン: 俺のワイルドな見た目とまぶしい魅力があればな。"}
+{"sec": "map:357", "key": "CIEL: ...Right.", "en": "CIEL: ...Right.", "ja": "シエル: ……はいはい。"}
+{"sec": "map:357", "key": "Tell you what, figure out how to un-delete Terra, and then we'll talk.", "en": "Tell you what, figure out how to un-delete Terra, and then we'll talk. ", "ja": "テラを元に戻す方法でも見つけたら、それから話しましょうか。"}
+{"sec": "map:357", "key": "SAMSON: That's a steep price.", "en": "SAMSON: That's a steep price.", "ja": "サムソン: ずいぶん高い代償だな。"}
+{"sec": "map:357", "key": "I've finally been able to get decent sleep since she's been gone.", "en": "I've finally been able to get decent sleep since she's been gone.", "ja": "あいつがいなくなってから、やっとまともに眠れてるんだからよ。"}
+{"sec": "map:357", "key": "CIEL: Oh, you were that busy with her?", "en": "CIEL: Oh, you were that busy with her?", "ja": "シエル: あら、彼女とそんなに忙しくしてらしたの?"}
+{"sec": "map:357", "key": "And you have the audacity to ask me out right after she vanishes... Tsk, tsk.", "en": "And you have the audacity to ask me out right after she vanishes... Tsk, tsk.", "ja": "それなのに、彼女がいなくなった途端にわたしを誘うなんて……あきれますわ。"}
+{"sec": "map:357", "key": "SAMSON: Tch, I'm sure she'd have enjoyed those nights even more if that was the case.", "en": "SAMSON: Tch, I'm sure she'd have enjoyed those nights even more if that was the case.", "ja": "サムソン: チッ、そういうことなら、あいつのほうがあの夜をもっと楽しんでただろうな。"}
+{"sec": "map:357", "key": "CIEL: So you say.", "en": "CIEL: So you say.", "ja": "シエル: よく言いますわね。"}
+{"sec": "map:357", "key": "SAMSON: Riiiight, and who's the expert on Position 52 here?", "en": "SAMSON: Riiiight, and who's the expert on Position 52 here?", "ja": "サムソン: そういうお前こそ、体位52番の専門家じゃなかったか?"}
+{"sec": "map:357", "key": "CIEL: Darling, even with just half of the poses I hold in mid-air on a daily basis, I've got far more than 52 positions at the ready.", "en": "CIEL: Darling, even with just half of the poses I hold in mid-air on a daily basis, I've got far more than 52 positions at the ready.", "ja": "シエル: あなた、わたしが日々空中で決めるポーズの半分だけでも、52なんてとっくに超えてますのよ。"}
+{"sec": "map:357", "key": "But you don't get to see half of them.", "en": "But you don't get to see half of them.", "ja": "でも、その半分だってあなたには見せませんけれど。"}
+{"sec": "map:357", "key": "SAMSON: Challenge accepted.", "en": "SAMSON: Challenge accepted.", "ja": "サムソン: 上等だ、受けて立つぜ。"}
+{"sec": "map:357", "key": "RINGMASTER: Hello! Any luck?", "en": "RINGMASTER: Hello! Any luck?", "ja": "団長: よう! 何か進展あったか?"}
+{"sec": "map:357", "key": "SAMSON: None.", "en": "SAMSON: None.", "ja": "サムソン: 何も。"}
+{"sec": "map:357", "key": "RINGMASTER: That's too bad, although the number of on-site injuries has really dropped since she's been gone.", "en": "RINGMASTER: That's too bad, although the number of on-site injuries has really dropped since she's been gone.", "ja": "団長: そりゃ残念だが、あいつがいなくなってから、現場のケガ人はめっきり減ったけどな。"}
+{"sec": "map:357", "key": "And hello, \\PN!", "en": "And hello, \\PN!", "ja": "おっと、こんにちは、\\PN!"}
+{"sec": "map:357", "key": "What brings you here today?", "en": "What brings you here today?", "ja": "今日はどうしたんだ?"}
+{"sec": "map:357", "key": "Oh, is it time to battle Ciel?", "en": "Oh, is it time to battle Ciel?", "ja": "おっと、シエルとの試合の時間か?"}
+{"sec": "map:357", "key": "CIEL: I'd be lying if I said I hadn't been looking forward to it.", "en": "CIEL: I'd be lying if I said I hadn't been looking forward to it.", "ja": "シエル: 楽しみにしていなかったと言えば、うそになりますわ。"}
+{"sec": "map:357", "key": "RINGMASTER: Your last performance was a stellar success, but I do hope you have a Battle Pass for her!", "en": "RINGMASTER: Your last performance was a stellar success, but I do hope you have a Battle Pass for her!", "ja": "団長: 前回のショーは大成功だったが、彼女のためのバトルパスはちゃんと持ってるんだろうな!"}
+{"sec": "map:357", "key": "CIEL: Er... You do have one, right, \\PN?", "en": "CIEL: Er... You do have one, right, \\PN?", "ja": "シエル: ええと……お持ちですわよね、\\PN?"}
+{"sec": "map:357", "key": "Oh dear.", "en": "Oh dear.", "ja": "あら、まあ。"}
+{"sec": "map:357", "key": "RINGMASTER: Of course, it is policy that you can't fight without one.", "en": "RINGMASTER: Of course, it is policy that you can't fight without one.", "ja": "団長: もちろんだ、それがなきゃ戦えないのが決まりだからな。"}
+{"sec": "map:357", "key": "Um, we went over this before, right?", "en": "Um, we went over this before, right?", "ja": "ええと、この話は前にもしたよな?"}
+{"sec": "map:357", "key": "Ciel slipped \\PN a Battle Pass!", "en": "Ciel slipped \\PN a Battle Pass!", "ja": "シエルは\\PNにこっそりバトルパスを渡した!"}
+{"sec": "map:357", "key": "CIEL: There it is!", "en": "CIEL: There it is! ", "ja": "シエル: ほら、ありましたわ!"}
+{"sec": "map:357", "key": "\\PN clearly just lost it for a moment!", "en": "\\PN clearly just lost it for a moment!", "ja": "\\PNはちょっとの間、失くしていただけですのよ!"}
+{"sec": "map:357", "key": "We're all good!", "en": "We're all good!", "ja": "問題ありませんわ!"}
+{"sec": "map:357", "key": "RINGMASTER: ...", "en": "RINGMASTER: ...", "ja": "団長: ……"}
+{"sec": "map:357", "key": "Then I'll make the preparations now.", "en": "Then I'll make the preparations now.", "ja": "それじゃ、準備をしてくるとしよう。"}
+{"sec": "map:357", "key": "CIEL: Call that an investment in my career.", "en": "CIEL: Call that an investment in my career.", "ja": "シエル: これはわたしのキャリアへの投資ということで。"}
+{"sec": "map:357", "key": "SAMSON: Smooth.", "en": "SAMSON: Smooth.", "ja": "サムソン: 見事なもんだな。"}
+{"sec": "map:357", "key": "CIEL: You're one to talk.", "en": "CIEL: You're one to talk.", "ja": "シエル: あなたに言われたくありませんわ。"}
+{"sec": "map:357", "key": "CIEL: Anyway, let me know whenever you're ready, and we'll get this show on the road!", "en": "CIEL: Anyway, let me know whenever you're ready, and we'll get this show on the road!", "ja": "シエル: とにかく、準備ができたら教えてくださいまし、それでショーを始めましょう!"}
+{"sec": "map:357", "key": "SAMSON: This is useless.", "en": "SAMSON: This is useless.", "ja": "サムソン: こりゃ無駄だな。"}
+{"sec": "map:357", "key": "She's floated off somewhere, whether that be to some other network, or the recycle bin where she belongs.", "en": "She's floated off somewhere, whether that be to some other network, or the recycle bin where she belongs.", "ja": "どこかに消えちまったんだろう、別のネットワークにでも、それともあいつにお似合いのゴミ箱にでもな。"}
+{"sec": "map:357", "key": "SAMSON: Hm? You want to challenge me?", "en": "SAMSON: Hm? You want to challenge me?", "ja": "サムソン: あ? 俺に挑戦したいのか?"}
+{"sec": "map:357", "key": "Sorry, little lady, but no can-do.", "en": "Sorry, little lady, but no can-do. ", "ja": "悪いな、お嬢ちゃん、それは無理だ。"}
+{"sec": "map:357", "key": "Sorry, dude, but no can-do.", "en": "Sorry, dude, but no can-do. ", "ja": "悪いな、兄弟、それは無理だ。"}
+{"sec": "map:357", "key": "The Ringmaster's a real stickler about her policies.", "en": "The Ringmaster's a real stickler about her policies. ", "ja": "団長は自分の決まりにはうるさいんでな。"}
+{"sec": "map:357", "key": "Anyone who wants to battle has to have a Battle Pass.", "en": "Anyone who wants to battle has to have a Battle Pass.", "ja": "戦いたいやつは全員バトルパスが必要ってわけだ。"}
+{"sec": "map:357", "key": "...Much like the one you're holding.", "en": "...Much like the one you're holding.", "ja": "……お前が持ってるみたいなやつがな。"}
+{"sec": "map:357", "key": "Well then.", "en": "Well then.", "ja": "それじゃあ。"}
+{"sec": "map:357", "key": "I assume the Ringmaster already gave you her \"surprise\" challenge, so...", "en": "I assume the Ringmaster already gave you her \"surprise\" challenge, so...", "ja": "団長がもうお前に「サプライズ」の挑戦をやらせてるはずだよな……"}
+{"sec": "map:357", "key": "Does that mean you're ready now?", "en": "Does that mean you're ready now?", "ja": "ってことは、準備はできてるってことか?"}
+{"sec": "map:357", "key": "SAMSON: All right, out to the field.", "en": "SAMSON: All right, out to the field. ", "ja": "サムソン: よし、フィールドに出るぞ。"}
+{"sec": "map:357", "key": "Let's do this.", "en": "Let's do this.", "ja": "やろうぜ。"}
+{"sec": "map:357", "key": "SAMSON: No rush.", "en": "SAMSON: No rush.", "ja": "サムソン: 急がなくていいぜ。"}
+{"sec": "map:357", "key": "You just give the word, and I'll be ready to wipe the floor with you at a moment's notice.", "en": "You just give the word, and I'll be ready to wipe the floor with you at a moment's notice.", "ja": "合図さえくれりゃ、いつでもぼこぼこにしてやる準備はできてるからな。"}
+{"sec": "map:357", "key": "SAMSON: Ready to take me on, pipsqueak?", "en": "SAMSON: Ready to take me on, pipsqueak?", "ja": "サムソン: 俺に挑む準備はできたか、ちびすけ?"}
+{"sec": "map:357", "key": "RINGMASTER: Good show, good show, everyone!", "en": "RINGMASTER: Good show, good show, everyone! ", "ja": "団長: いいショーだった、いいショーだったぞ、みんな!"}
+{"sec": "map:357", "key": "We made a killing!", "en": "We made a killing!", "ja": "大もうけだったな!"}
+{"sec": "map:357", "key": "\\PN, to beat Samson like that...", "en": "\\PN, to beat Samson like that... ", "ja": "\\PN、サムソンをあんな風に倒すとはな……"}
+{"sec": "map:357", "key": "I'm impressed!", "en": "I'm impressed!", "ja": "感心したぞ!"}
+{"sec": "map:357", "key": "I do hope you find Passes to challenge our other Leaders.", "en": "I do hope you find Passes to challenge our other Leaders.", "ja": "他のリーダーに挑むためのパスも見つけてくれるといいんだが。"}
+{"sec": "map:357", "key": "CIEL: Samson is our baby though.", "en": "CIEL: Samson is our baby though. ", "ja": "シエル: とはいえ、サムソンはうちの子たちの中でも甘めですのよ。"}
+{"sec": "map:357", "key": "Don't think we'll be quite so easy~", "en": "Don't think we'll be quite so easy~", "ja": "わたしたちがそんなに簡単だなんて、思わないことですわ〜"}
+{"sec": "map:357", "key": "TERRA: Ciel is t0tes ez. if yanno wut i mean.\\tts[TERRA: Ciel is totes eZ. if yanno wut i mean.]", "en": "TERRA: Ciel is t0tes ez. if yanno wut i mean.\\tts[TERRA: Ciel is totes eZ. if yanno wut i mean.]", "ja": "テラ: シエルなんてまじちょろいっしょ。ゆーて意味わかるっしょ。\\tts[TERRA: Ciel is totes eZ. if yanno wut i mean.]"}
+{"sec": "map:357", "key": "but u mess w/ me and ill RAWWWWWRRR RAWWWR your RAWWWRRAWWWRRAWWWR.\\tts[but u mess with me and ill RAWWWWWRRR RAWWWR your RAWWWRRAWWWRRAWWWR.]", "en": "but u mess w/ me and ill RAWWWWWRRR RAWWWR your RAWWWRRAWWWRRAWWWR.\\tts[but u mess with me and ill RAWWWWWRRR RAWWWR your RAWWWRRAWWWRRAWWWR.]", "ja": "だけどあたしに手ぇ出したらガアアアアってお前のガアアアガアアアガアアアしてやっからな。\\tts[but u mess with me and ill RAWWWWWRRR RAWWWR your RAWWWRRAWWWRRAWWWR.]"}
+{"sec": "map:357", "key": "and ill take my RAWWRR and shove it in your RAWWWR until you cant even RAAAWWWRR RRAWWWWRRAAWWRRR!!!!", "en": "and ill take my RAWWRR and shove it in your RAWWWR until you cant even RAAAWWWRR RRAWWWWRRAAWWRRR!!!!", "ja": "そんであたしのガアアアをお前のガアアアに突っ込んで、お前がガアアアすら言えなくなるまでやってやるからなガアアアアアア!!!!"}
+{"sec": "map:357", "key": "twice.", "en": "twice.", "ja": "二回な。"}
+{"sec": "map:357", "key": "RINGMASTER: ...Anyway.", "en": "RINGMASTER: ...Anyway. ", "ja": "団長: ……とにかく。"}
+{"sec": "map:357", "key": "I've got parting words to do, so I'll leave you to your rawring!", "en": "I've got parting words to do, so I'll leave you to your rawring!", "ja": "俺は締めの挨拶があるから、お前らはそのガオガオでも続けててくれ!"}
+{"sec": "map:357", "key": "TERRA: Waiddasecond.", "en": "TERRA: Waiddasecond. ", "ja": "テラ: ちょっと待てぃ。"}
+{"sec": "map:357", "key": "CIEL: Hm? Did you finally trace the signal?", "en": "CIEL: Hm? Did you finally trace the signal?", "ja": "シエル: あら? ついに信号の出所を突き止めましたの?"}
+{"sec": "map:357", "key": "TERRA: HOLD ON TO YOUR DONGERS, BOYS AND GIRLS, WE'VE GOT NEWS!", "en": "TERRA: HOLD ON TO YOUR DONGERS, BOYS AND GIRLS, WE'VE GOT NEWS!", "ja": "テラ: しっかりつかまってなよ、みんな、ニュースだよォ!"}
+{"sec": "map:357", "key": "SAMSON: Well, what is it?", "en": "SAMSON: Well, what is it?", "ja": "サムソン: で、なんだよ?"}
+{"sec": "map:357", "key": "TERRA: With m4h highly adv4nced sup3r 1337 h4ck1ngu sKiLlZ i have discovered something very important!!!\\tts[TERRA: With mah highly advanced super leet hackingu skills i have discovered something very important!!!]", "en": "TERRA: With m4h highly adv4nced sup3r 1337 h4ck1ngu sKiLlZ i have discovered something very important!!!\\tts[TERRA: With mah highly advanced super leet hackingu skills i have discovered something very important!!!]", "ja": "テラ: あたしの超高度なス1パ1エリ1トハッキングぎじゅつでな、超重要なことを発見したぞ!!!\\tts[TERRA: With mah highly advanced super leet hackingu skills i have discovered something very important!!!]"}
+{"sec": "map:357", "key": "HARDY: Well, you gonna tell us or not?", "en": "HARDY: Well, you gonna tell us or not?", "ja": "ハーディ: で、教えてくれんのか、くれねぇのか?"}
+{"sec": "map:357", "key": "TERRA: I HAVE DISCOVERED", "en": "TERRA: I HAVE DISCOVERED", "ja": "テラ: あたしが発見したのわ"}
+{"sec": "map:357", "key": "THAT CIEL IS WEARING A THONG!", "en": "THAT CIEL IS WEARING A THONG!", "ja": "シエルがTバックを履いてるってことだぁ!"}
+{"sec": "map:357", "key": "CIEL: Excuse me?!", "en": "CIEL: Excuse me?!", "ja": "シエル: 何ですって?!"}
+{"sec": "map:357", "key": "CIEL: What is this--", "en": "CIEL: What is this--", "ja": "シエル: これは一体――"}
+{"sec": "map:357", "key": "CIEL: That's not what it says at all!!!", "en": "CIEL: That's not what it says at all!!!", "ja": "シエル: そんなこと、どこにも書いてありませんわよ!!!"}
+{"sec": "map:357", "key": "TERRA: ya didnt deny it bb", "en": "TERRA: ya didnt deny it bb", "ja": "テラ: 否定しなかったっしょベイベ"}
+{"sec": "map:357", "key": "CIEL: I--", "en": "CIEL: I-- ", "ja": "シエル: わたし――"}
+{"sec": "map:357", "key": "Look, let's just focus on this.", "en": "Look, let's just focus on this. ", "ja": "とにかく、これに集中してくださらない。"}
+{"sec": "map:357", "key": "CIEL: That data point right there, what is it?", "en": "CIEL: That data point right there, what is it?", "ja": "シエル: そこのデータ、それは何ですの?"}
+{"sec": "map:357", "key": "TERRA: that one, right?", "en": "TERRA: that one, right?", "ja": "テラ: これのこと?"}
+{"sec": "map:357", "key": "i call him timmy.", "en": "i call him timmy. ", "ja": "こいつのことはティミーって呼んでる。"}
+{"sec": "map:357", "key": "his hobbies including cross-stitching, motorbiking, and planting lizards in the knicker drawers of old ladies.", "en": "his hobbies including cross-stitching, motorbiking, and planting lizards in the knicker drawers of old ladies.", "ja": "趣味はクロスステッチとバイク、あとお婆ちゃんの下着の引き出しにトカゲを仕込むことだよ。"}
+{"sec": "map:357", "key": "CAIN: I like Timmy.", "en": "CAIN: I like Timmy.", "ja": "カイン: ティミー、いいやつだな。"}
+{"sec": "map:357", "key": "CIEL: I mean, what does the data MEAN?!", "en": "CIEL: I mean, what does the data MEAN?!", "ja": "シエル: そうじゃなくて、このデータの意味を聞いてますの!!"}
+{"sec": "map:357", "key": "TERRA: I 'unno.", "en": "TERRA: I 'unno. ", "ja": "テラ: しんない。"}
+{"sec": "map:357", "key": "I just hacked the broadcaster to get it, I ain't no statistician.", "en": "I just hacked the broadcaster to get it, I ain't no statistician. ", "ja": "放送局をハッキングして手に入れただけで、統計学者じゃねえからよ。"}
+{"sec": "map:357", "key": "Buuuuuuut if I HAD to take a guess, I'd say the signal's RAWRIN' out from somewhere in Ametrine City.", "en": "Buuuuuuut if I HAD to take a guess, I'd say the signal's RAWRIN' out from somewhere in Ametrine City.", "ja": "でもぉ、しいて言うなら、信号はアメトリンシティのどっかからガオってきてる気がするなぁ。"}
+{"sec": "map:357", "key": "SAMSON: So someone in Ametrine is broadcasting a signal over Agate City which puts them to sleep.", "en": "SAMSON: So someone in Ametrine is broadcasting a signal over Agate City which puts them to sleep.", "ja": "サムソン: つまりアメトリンの誰かが、アゲートシティに眠らせる信号を飛ばしてるってことか。"}
+{"sec": "map:357", "key": "HARDY: Then someone needs to go up to Ametrine City and stop that signal, pronto.", "en": "HARDY: Then someone needs to go up to Ametrine City and stop that signal, pronto. ", "ja": "ハーディ: なら誰かがアメトリンシティに行って、その信号を早いとこ止めないとな。"}
+{"sec": "map:357", "key": "SAMSON: That's gonna require Surf.", "en": "SAMSON: That's gonna require Surf. ", "ja": "サムソン: それには「なみのり」が要るな。"}
+{"sec": "map:357", "key": "CAIN: Then that sounds like a job for \\PN~", "en": "CAIN: Then that sounds like a job for \\PN~", "ja": "カイン: それなら\\PNの出番ってことだな〜"}
+{"sec": "map:357", "key": "I'll see if I can make any headway towards Ametrine too.", "en": "I'll see if I can make any headway towards Ametrine too.", "ja": "俺もアメトリンのほうで何か進められるか見てみるよ。"}
+{"sec": "map:357", "key": "We can make headway ~together~!", "en": "We can make headway ~together~!", "ja": "一緒に〜進めていこうぜ〜!"}
+{"sec": "map:357", "key": "HARDY: Aya and I will head on up to Calcenon when we can, so meet us there when you're done at Ametrine.", "en": "HARDY: Aya and I will head on up to Calcenon when we can, so meet us there when you're done at Ametrine. ", "ja": "ハーディ: 俺とアヤは都合がついたらカルセノンに向かうから、アメトリンが終わったらそっちで落ち合おうぜ。"}
+{"sec": "map:357", "key": "TERRA: Calcenon?", "en": "TERRA: Calcenon? ", "ja": "テラ: カルセノン?"}
+{"sec": "map:357", "key": "More like Calceyawwwwn.", "en": "More like Calceyawwwwn. ", "ja": "カルセあくびーん、って感じだけどね。"}
+{"sec": "map:357", "key": "HARDY: Some of the other Leaders are in a stand-off against Team Meteor there.", "en": "HARDY: Some of the other Leaders are in a stand-off against Team Meteor there. ", "ja": "ハーディ: あそこじゃ他のリーダーたちがチームメテオとにらみ合ってるらしいんだ。"}
+{"sec": "map:357", "key": "We're going to help out.", "en": "We're going to help out.", "ja": "俺たちも力を貸しに行くよ。"}
+{"sec": "map:357", "key": "TERRA: Team Meteor?", "en": "TERRA: Team Meteor? ", "ja": "テラ: チームメテオ?"}
+{"sec": "map:357", "key": "More like Team Metebore.\\tts[More like Team MetaBore.]", "en": "More like Team Metebore.\\tts[More like Team MetaBore.]", "ja": "チームメテぼぉ、って感じでしょ。\\tts[More like Team MetaBore.]"}
+{"sec": "map:357", "key": "AYA: Do you ever say anything that isn't stupid?", "en": "AYA: Do you ever say anything that isn't stupid?", "ja": "アヤ: あんた、たまにはまともなこと言わないの?"}
+{"sec": "map:357", "key": "TERRA: Stupid?", "en": "TERRA: Stupid? ", "ja": "テラ: まとも?"}
+{"sec": "map:357", "key": "More like...", "en": "More like...", "ja": "それより……"}
+{"sec": "map:357", "key": "...RAAAAAAWWRRRRRR!!!!", "en": "...RAAAAAAWWRRRRRR!!!!", "ja": "……ガアアアアアオオオ!!!!"}
+{"sec": "map:357", "key": "CIEL: Like a bat out of hell.", "en": "CIEL: Like a bat out of hell.", "ja": "シエル: まるで地獄から逃げ出したコウモリですわね。"}
+{"sec": "map:357", "key": "SAMSON: She's definitely something out of hell all right.", "en": "SAMSON: She's definitely something out of hell all right. ", "ja": "サムソン: 確かに地獄から来た何かなのは間違いねえな。"}
+{"sec": "map:357", "key": "HARDY: Aye.", "en": "HARDY: Aye. ", "ja": "ハーディ: だな。"}
+{"sec": "map:357", "key": "I guess we'll take off now.", "en": "I guess we'll take off now. ", "ja": "そろそろ俺たちは出発するとするか。"}
+{"sec": "map:357", "key": "See you at Calcenon, mate. Peace!", "en": "See you at Calcenon, mate. Peace!", "ja": "カルセノンでな、相棒。じゃあな!"}
+{"sec": "map:357", "key": "SAMSON: I'll enjoy the brief moment of solace in which Terra's gone, and not ask questions.", "en": "SAMSON: I'll enjoy the brief moment of solace in which Terra's gone, and not ask questions.", "ja": "サムソン: テラがいないこのつかの間の平穏を、余計な詮索せずに楽しませてもらうぜ。"}
+{"sec": "map:357", "key": "Anyway, I guess you gotta go get that Surf Machine, huh?", "en": "Anyway, I guess you gotta go get that Surf Machine, huh?", "ja": "とにかく、お前はあの「なみのり」のマシンを取りに行かなきゃいけないんだろ?"}
+{"sec": "map:357", "key": "SAMSON: Huh? That girl out on the fall, took the, well, fall?", "en": "SAMSON: Huh? That girl out on the fall, took the, well, fall?", "ja": "サムソン: あ? あの滝んとこにいた女、その、滝みたいに落ちたって?"}
+{"sec": "map:357", "key": "That's some shit.", "en": "That's some shit. ", "ja": "とんでもねえ話だな。"}
+{"sec": "map:357", "key": "You think she's all right?", "en": "You think she's all right?", "ja": "あいつ、大丈夫だと思うか?"}
+{"sec": "map:357", "key": "SAMSON: Geez, where did Terra disappear to this time?", "en": "SAMSON: Geez, where did Terra disappear to this time?", "ja": "サムソン: まったく、テラの野郎、今度はどこに消えやがったんだ?"}
+{"sec": "map:357", "key": "Don't get me wrong.", "en": "Don't get me wrong. ", "ja": "誤解しないでくれよ。"}
+{"sec": "map:357", "key": "I don't mind her being gone, but...", "en": "I don't mind her being gone, but...", "ja": "いないのは別にかまわないんだが……"}
+{"sec": "map:357", "key": "She seems to vanish for long periods of time occasionally.", "en": "She seems to vanish for long periods of time occasionally. ", "ja": "たまに長い間、まるっきり姿を消すことがあるんだよな。"}
+{"sec": "map:357", "key": "And a girl like that is hard to miss.", "en": "And a girl like that is hard to miss.", "ja": "しかも、あんな目立つやつがいないと逆に気になるんだよ。"}
+{"sec": "map:357", "key": "So where the hell is she?", "en": "So where the hell is she?", "ja": "一体どこに行きやがったんだ?"}
+{"sec": "map:357", "key": "CIEL: Terra, dear, have you been able to find the source of the signal over Agate yet?", "en": "CIEL: Terra, dear, have you been able to find the source of the signal over Agate yet?", "ja": "シエル: テラ、あなた、アゲートに流れてる信号の発信源、もう見つけられまして?"}
+{"sec": "map:357", "key": "I am quite anxious to stop whatever it is putting people to sleep.", "en": "I am quite anxious to stop whatever it is putting people to sleep. ", "ja": "みんなを眠らせている元凶を、一刻も早く止めたいのですけれど。"}
+{"sec": "map:357", "key": "They should be watching us, not sleeping!", "en": "They should be watching us, not sleeping!", "ja": "眠ってないで、わたしたちを見てくださらないと!"}
+{"sec": "map:357", "key": "TERRA: naWWWh, but calm yo tits.", "en": "TERRA: naWWWh, but calm yo tits. ", "ja": "テラ: んなーい、けど落ち着けって。"}
+{"sec": "map:357", "key": "T3RR4 iz SUP3R 1337 hackar.", "en": "T3RR4 iz SUP3R 1337 hackar. ", "ja": "テラ様は超エリートハッカーだかんな。"}
+{"sec": "map:357", "key": "nothin ezzcape my b00ty.\\tts[nothin ezzcape my booty.]", "en": "nothin ezzcape my b00ty.\\tts[nothin ezzcape my booty.]", "ja": "あたしのケツから逃げられるもんはねえのよ。\\tts[nothin ezzcape my booty.]"}
+{"sec": "map:357", "key": "CIEL: Your \"b00ty\" has taken so long already though...\\tts[CIEL: Your \"booty\" has taken so long already though...]", "en": "CIEL: Your \"b00ty\" has taken so long already though...\\tts[CIEL: Your \"booty\" has taken so long already though...]", "ja": "シエル: その「ケツ」とやら、もうずいぶん時間かかってますけれど……\\tts[CIEL: Your \"booty\" has taken so long already though...]"}
+{"sec": "map:357", "key": "TERRA: Y0 DID I OR DID I NaWT TELL U 2 CALM YO TITS BITCH\\tts[TERRA: YO DID I OR DID I nawt TELL U TO CALM YO TITS BITCH]", "en": "TERRA: Y0 DID I OR DID I NaWT TELL U 2 CALM YO TITS BITCH\\tts[TERRA: YO DID I OR DID I nawt TELL U TO CALM YO TITS BITCH]", "ja": "テラ: あたしゃ落ち着けっつっただろクソアマ\\tts[TERRA: YO DID I OR DID I nawt TELL U TO CALM YO TITS BITCH]"}
+{"sec": "map:357", "key": "UNDO THE KALAMITY THAT IS YO MAMMARIES!\\tts[UNDO THE CALAMITY THAT IS YO MAMMARIES!]", "en": "UNDO THE KALAMITY THAT IS YO MAMMARIES!\\tts[UNDO THE CALAMITY THAT IS YO MAMMARIES!]", "ja": "おっぱいの災難とやらをどうにかしろってんだよ!\\tts[UNDO THE CALAMITY THAT IS YO MAMMARIES!]"}
+{"sec": "map:357", "key": "HAKUNA\\nYO TATAS!!!!!!!!!exclamationpoint!!!", "en": "HAKUNA\\nYO TATAS!!!!!!!!!exclamationpoint!!!", "ja": "ハクナ\\nYOおっぱいタタ!!!!!!!!!びっくりまーく!!!"}
+{"sec": "map:357", "key": "SAMSON: Just stop.", "en": "SAMSON: Just stop. ", "ja": "サムソン: もうやめてくれ。"}
+{"sec": "map:357", "key": "I can feel my brain cells dying off one by one.", "en": "I can feel my brain cells dying off one by one.", "ja": "脳細胞が一個ずつ死んでいくのがわかるぜ。"}
+{"sec": "map:357", "key": "CIEL: Indeed, you are cruel to rob Samson of his few remaining ones.", "en": "CIEL: Indeed, you are cruel to rob Samson of his few remaining ones.", "ja": "シエル: ええ、サムソンに残された数少ない脳細胞まで奪うなんて、あなたも罪深いこと。"}
+{"sec": "map:357", "key": "SAMSON: Whoa, no need to put your cat fight on me.", "en": "SAMSON: Whoa, no need to put your cat fight on me. ", "ja": "サムソン: おいおい、俺を女のけんかに巻き込むなよ。"}
+{"sec": "map:357", "key": "I'm innocent here.", "en": "I'm innocent here.", "ja": "俺はここじゃ無関係だからな。"}
+{"sec": "map:357", "key": "TERRA: you werent so innocent last night", "en": "TERRA: you werent so innocent last night", "ja": "テラ: 昨日の夜は無関係じゃなかったくせに"}
+{"sec": "map:357", "key": "SAMSON: How would you know?", "en": "SAMSON: How would you know?", "ja": "サムソン: なんでお前が知ってんだよ?"}
+{"sec": "map:357", "key": "TERRA: u wuz all up on me like oooo n i was all up on u like RAWRRRRRR!", "en": "TERRA: u wuz all up on me like oooo n i was all up on u like RAWRRRRRR!", "ja": "テラ: あんたあたしに「おおお」って夢中であたしはあんたに「ガアアアア」って夢中だったっしょ!"}
+{"sec": "map:357", "key": "SAMSON: How could I forget?", "en": "SAMSON: How could I forget? ", "ja": "サムソン: 忘れるわけねえだろ。"}
+{"sec": "map:357", "key": "Position number 52: The Angry Dinosaur.", "en": "Position number 52: The Angry Dinosaur. ", "ja": "体位52番、怒れる恐竜だったな。"}
+{"sec": "map:357", "key": "Yeah, right.", "en": "Yeah, right.", "ja": "はいはい、そうだったな。"}
+{"sec": "map:357", "key": "TERRA: aawwwwh yih.", "en": "TERRA: aawwwwh yih. ", "ja": "テラ: あぁぁーそうそう。"}
+{"sec": "map:357", "key": "mah secon' favorite position.", "en": "mah secon' favorite position.", "ja": "あたしの二番目に好きな体位だよ。"}
+{"sec": "map:357", "key": "CIEL: Dare I ask what the first is?", "en": "CIEL: Dare I ask what the first is?", "ja": "シエル: 一番目は何か、あえて聞いてもよろしくて?"}
+{"sec": "map:357", "key": "TERRA: if u wanna know, git y0 butt nekkid\\tts[TERRA: if u wanna know, git yo butt nekkid]", "en": "TERRA: if u wanna know, git y0 butt nekkid\\tts[TERRA: if u wanna know, git yo butt nekkid]", "ja": "テラ: 知りたきゃ、そのケツ丸出しにしなよ\\tts[TERRA: if u wanna know, git yo butt nekkid]"}
+{"sec": "map:357", "key": "CIEL: We don't need a demonstration.", "en": "CIEL: We don't need a demonstration.", "ja": "シエル: 実演は結構ですわ。"}
+{"sec": "map:357", "key": "SAMSON: Oh, no, you ladies go right ahead.", "en": "SAMSON: Oh, no, you ladies go right ahead. ", "ja": "サムソン: いやいや、お嬢さんがた、どうぞご遠慮なく。"}
+{"sec": "map:357", "key": "I think it will be highly informative.", "en": "I think it will be highly informative.", "ja": "かなり勉強になると思うぜ。"}
+{"sec": "map:357", "key": "CIEL: I'm NOT going to--", "en": "CIEL: I'm NOT going to-- ", "ja": "シエル: わたしは絶対に――"}
+{"sec": "map:357", "key": "I'm sorry I asked!", "en": "I'm sorry I asked!", "ja": "聞いたわたしが馬鹿でしたわ!"}
+{"sec": "map:357", "key": "TERRA: fiiiiiine, but if i tell u, dat girl over dere on the couch, she gon run outta the room rawrin' cuz she ain't gon wanna be near dat couch no m0re.\\tts[TERRA: fiiiiiine, but if i tell u, dat girl over dere on the couch, she gon run outta the room rawrin' cuz she ain't gon wanna be near dat couch no more.]", "en": "TERRA: fiiiiiine, but if i tell u, dat girl over dere on the couch, she gon run outta the room rawrin' cuz she ain't gon wanna be near dat couch no m0re.\\tts[TERRA: fiiiiiine, but if i tell u, dat girl over dere on the couch, she gon run outta the room rawrin' cuz she ain't gon wanna be near dat couch no more.]", "ja": "テラ: わぁーったよ、けど教えたら、そこのソファにいる女、ガオりながら部屋から逃げ出すぞ、もうあのソファに近づきたくなくなるだろうからな。\\tts[TERRA: fiiiiiine, but if i tell u, dat girl over dere on the couch, she gon run outta the room rawrin' cuz she ain't gon wanna be near dat couch no more.]"}
+{"sec": "map:357", "key": "CIEL: Note to self: Order new couch.", "en": "CIEL: Note to self: Order new couch.", "ja": "シエル: 覚え書き――新しいソファを注文すること。"}
+{"sec": "map:357", "key": "SAMSON: Again?", "en": "SAMSON: Again?", "ja": "サムソン: またかよ?"}
+{"sec": "map:357", "key": "CIEL: Ametrine City is very high up, so naturally it's freezing there.", "en": "CIEL: Ametrine City is very high up, so naturally it's freezing there. ", "ja": "シエル: アメトリンシティはとても標高が高いから、当然凍えるほど寒いですわよ。"}
+{"sec": "map:357", "key": "Dress warmly!", "en": "Dress warmly!", "ja": "暖かくして行ってくださいまし!"}
+{"sec": "map:357", "key": "But don't dress so warmly that it looks bad.", "en": "But don't dress so warmly that it looks bad. ", "ja": "でも、着膨れして格好悪くならない程度に。"}
+{"sec": "map:357", "key": "There's a limit to these things.", "en": "There's a limit to these things.", "ja": "何事にも限度がありますもの。"}
+{"sec": "map:357", "key": "CIEL: Oh my, Miss Amaria has done that? How dreadful!", "en": "CIEL: Oh my, Miss Amaria has done that? How dreadful!", "ja": "シエル: まあ、アマリアさんがそんなことを? 何て恐ろしい!"}
+{"sec": "map:357", "key": "You simply must aid her at once. But to do that, you'll need the Machine for Waterfall, hm?", "en": "You simply must aid her at once. But to do that, you'll need the Machine for Waterfall, hm?", "ja": "すぐにでも助けに行かなくては。でも、そのためには「たきのぼり」のマシンが必要ですわね?"}
+{"sec": "map:357", "key": "CIEL: Ah, I should mention even if you do get Waterfall, you'll need Terra's Badge in order to use it!", "en": "CIEL: Ah, I should mention even if you do get Waterfall, you'll need Terra's Badge in order to use it!", "ja": "シエル: ああ、そういえば「たきのぼり」を手に入れても、使うにはテラのバッジが必要ですわよ!"}
+{"sec": "map:357", "key": "Though, I'm not quite sure where that train wreck has pranced off to now.", "en": "Though, I'm not quite sure where that train wreck has pranced off to now.", "ja": "とはいえ、あの厄介者が今どこをうろついてるのかは、わたしにもよく分かりませんけれど。"}
+{"sec": "map:357", "key": "SAMSON: Yo. How's your little rescue operation going?", "en": "SAMSON: Yo. How's your little rescue operation going?", "ja": "サムソン: よう。ちっちゃな救助作戦の調子はどうだ?"}
+{"sec": "map:357", "key": "Not gonna lie, I'm a little anxious for Agate City to be reopened.", "en": "Not gonna lie, I'm a little anxious for Agate City to be reopened.", "ja": "正直に言うと、アゲートシティが早く再開してほしくて、ちょっと落ち着かねえんだよ。"}
+{"sec": "map:357", "key": "This whole half-circus, half-shelter thing is for the birds.", "en": "This whole half-circus, half-shelter thing is for the birds.", "ja": "サーカス半分、避難所半分のこの状態にはもううんざりだ。"}
+{"sec": "map:357", "key": "Uh, no offense to Ciel.", "en": "Uh, no offense to Ciel.", "ja": "あ、シエルに悪気はないぜ。"}
+{"sec": "map:357", "key": "CIEL: Oh, Samson, what brutish slander are you muttering about me now?", "en": "CIEL: Oh, Samson, what brutish slander are you muttering about me now?", "ja": "シエル: あら、サムソン、また何か野蛮な悪口をつぶやいてますの?"}
+{"sec": "map:357", "key": "SAMSON: I was just telling \\PN about the thong you're apparently wearing.", "en": "SAMSON: I was just telling \\PN about the thong you're apparently wearing.", "ja": "サムソン: お前が履いてるらしいTバックの話を、\\PNに教えてただけだよ。"}
+{"sec": "map:357", "key": "CIEL: Right, we're going to try this again, you and I.", "en": "CIEL: Right, we're going to try this again, you and I.", "ja": "シエル: そう、あなたとはもう一度、この話をやり直さないといけませんわね。"}
+{"sec": "map:357", "key": "CIEL: Hello, \\PN and ever-cordial Samson.", "en": "CIEL: Hello, \\PN and ever-cordial Samson. ", "ja": "シエル: こんにちは、\\PN、それにいつも礼儀正しいサムソン。"}
+{"sec": "map:357", "key": "How are you each on this fine day?", "en": "How are you each on this fine day?", "ja": "今日はお二人とも、いかがお過ごしかしら?"}
+{"sec": "map:357", "key": "Oh? \\PN, I see you've obtained another Battle Pass.", "en": "Oh? \\PN, I see you've obtained another Battle Pass. ", "ja": "あら? \\PN、また新しいバトルパスを手に入れましたのね。"}
+{"sec": "map:357", "key": "Terra's, is it?", "en": "Terra's, is it?", "ja": "テラのものですの?"}
+{"sec": "map:357", "key": "That is somewhat unfortunate.", "en": "That is somewhat unfortunate. ", "ja": "それは少々不都合ですわね。"}
+{"sec": "map:357", "key": "You see, we don't actually know where she is.", "en": "You see, we don't actually know where she is.", "ja": "実を言うと、彼女がどこにいるのか、わたしたちにも分かっておりませんの。"}
+{"sec": "map:357", "key": "SAMSON: She's been disappearing for days at a time for a while now.", "en": "SAMSON: She's been disappearing for days at a time for a while now.", "ja": "サムソン: あいつ、しばらく前から何日も姿を消すようになっててな。"}
+{"sec": "map:357", "key": "And as you might imagine when she's around, everyone in a fifty mile radius tends to be keenly aware of her.", "en": "And as you might imagine when she's around, everyone in a fifty mile radius tends to be keenly aware of her.", "ja": "あいつが近くにいりゃ、半径50マイル以内の全員がいやでも気づくもんだしな。"}
+{"sec": "map:357", "key": "CIEL: Of course, the question does remain as to just where she has been vanishing.", "en": "CIEL: Of course, the question does remain as to just where she has been vanishing.", "ja": "シエル: とはいえ、彼女がどこに消えているのかという疑問は、依然として残りますわね。"}
+{"sec": "map:357", "key": "There aren't exactly a lot of options, and we can safely rule out Agate and beyond thanks to the sleeping spell.", "en": "There aren't exactly a lot of options, and we can safely rule out Agate and beyond thanks to the sleeping spell.", "ja": "選択肢はそう多くありませんし、眠りの呪いのおかげでアゲートより先は除外して間違いないでしょう。"}
+{"sec": "map:357", "key": "SAMSON: Hold on there.", "en": "SAMSON: Hold on there.", "ja": "サムソン: ちょっと待てよ。"}
+{"sec": "map:357", "key": "\\PN, didn't Terra find you and uh, that other guy, in Agate?", "en": "\\PN, didn't Terra find you and uh, that other guy, in Agate?", "ja": "\\PN、テラがお前と、その、もう一人のやつをアゲートで見つけたんじゃなかったか?"}
+{"sec": "map:357", "key": "But even so, she shouldn't have been in there without falling asleep herself.", "en": "But even so, she shouldn't have been in there without falling asleep herself.", "ja": "だとしても、あいつ自身が眠らずにあそこにいられるはずがねえだろ。"}
+{"sec": "map:357", "key": "CIEL: Oh, please. Terra's very presence is an inherent detriment to sleep.", "en": "CIEL: Oh, please. Terra's very presence is an inherent detriment to sleep.", "ja": "シエル: あら、何をおっしゃいますの。テラという存在自体が、眠りにとって天敵ですのよ。"}
+{"sec": "map:357", "key": "SAMSON: You would know, huh?", "en": "SAMSON: You would know, huh?", "ja": "サムソン: よく知ってるみたいだな?"}
+{"sec": "map:357", "key": "Got that position number 52 on deck?", "en": "Got that position number 52 on deck?", "ja": "また体位52番の話でも出すつもりか?"}
+{"sec": "map:357", "key": "CIEL: At any rate!", "en": "CIEL: At any rate! ", "ja": "シエル: とにかく!"}
+{"sec": "map:357", "key": "It does make sense for her to traipse about Agate if she is perhaps looking for the source of the signal she was tracing.", "en": "It does make sense for her to traipse about Agate if she is perhaps looking for the source of the signal she was tracing.", "ja": "彼女が追跡していた信号の発信源を探していたのなら、アゲートをうろついていたのも筋が通りますわ。"}
+{"sec": "map:357", "key": "SAMSON: Not really.", "en": "SAMSON: Not really. ", "ja": "サムソン: いや、そうでもない。"}
+{"sec": "map:357", "key": "She said it was in Ametrine.", "en": "She said it was in Ametrine.", "ja": "あいつ、アメトリンにあるって言ってたぞ。"}
+{"sec": "map:357", "key": "CIEL: This is true--", "en": "CIEL: This is true--", "ja": "シエル: それは確かに――"}
+{"sec": "map:357", "key": "...Oh?", "en": "...Oh?", "ja": "……あら?"}
+{"sec": "map:357", "key": "You learned that Titawin was actually... Terra?", "en": "You learned that Titawin was actually... Terra?", "ja": "ティタウィンの正体が……テラだったって分かりましたの?"}
+{"sec": "map:357", "key": "Why, that's nonsense!", "en": "Why, that's nonsense!", "ja": "まあ、そんな馬鹿な話!"}
+{"sec": "map:357", "key": "They would never accept a girl like that with all of her...", "en": "They would never accept a girl like that with all of her... ", "ja": "あんな娘を受け入れるはずがありませんもの、その……"}
+{"sec": "map:357", "key": "Rawrness, and her generally maniacal deviance.", "en": "Rawrness, and her generally maniacal deviance.", "ja": "ガオガオぶりと、常軌を逸した奇行の数々を考えれば。"}
+{"sec": "map:357", "key": "Just think about what you're saying, darling!", "en": "Just think about what you're saying, darling!", "ja": "ちゃんと考えてから話してくださいまし、あなた!"}
+{"sec": "map:357", "key": "SAMSON: Actually, it might not be impossible. For instance--", "en": "SAMSON: Actually, it might not be impossible. For instance--", "ja": "サムソン: いや、あり得なくもないぜ。例えば――"}
+{"sec": "map:357", "key": "TERRA: HUNNIEZ, I'M HOME!!!", "en": "TERRA: HUNNIEZ, I'M HOME!!!", "ja": "テラ: あんたらぁ、ただいまぁ!!!"}
+{"sec": "map:357", "key": "TERRA: Mwuah!", "en": "TERRA: Mwuah!", "ja": "テラ: ちゅっ!"}
+{"sec": "map:357", "key": "CIEL: T-Terra!", "en": "CIEL: T-Terra!", "ja": "シエル: テ、テラ!"}
+{"sec": "map:357", "key": "TERRA: awwwright, furgot you dun lyk that stuff in the publix", "en": "TERRA: awwwright, furgot you dun lyk that stuff in the publix", "ja": "テラ: あぁそっか、人前でそういうの嫌いなんだったな"}
+{"sec": "map:357", "key": "AYE AYE AYE AYE CAPTAIN SHIERU, WE SAVE IT FOR WHEN I LAND IN YO PORT TONIGHT", "en": "AYE AYE AYE AYE CAPTAIN SHIERU, WE SAVE IT FOR WHEN I LAND IN YO PORT TONIGHT", "ja": "了解了解了解了解シエル船長、今夜あんたの港に着いた時までとっとくわ"}
+{"sec": "map:357", "key": "CIEL: Don't just make stuff like that up!", "en": "CIEL: Don't just make stuff like that up!", "ja": "シエル: そんなこと勝手に言わないでくださる!"}
+{"sec": "map:357", "key": "TERRA: SO, SUPPERONI BOYS AND GIRLS AND PERSONS OF NONDISCRIMINATE GENDER IDENTITY?", "en": "TERRA: SO, SUPPERONI BOYS AND GIRLS AND PERSONS OF NONDISCRIMINATE GENDER IDENTITY?", "ja": "テラ: それでさぁ、みんな、男も女もその他のジェンダーのみんなもさぁ?"}
+{"sec": "map:357", "key": "SAMSON: We were just discussing the possibility of you being a member of Team Meteor.", "en": "SAMSON: We were just discussing the possibility of you being a member of Team Meteor.", "ja": "サムソン: ちょうど、お前がチームメテオの一員なんじゃないかって話してたところだぜ。"}
+{"sec": "map:357", "key": "TERRA: u wot m7\\tts[TERRA: u wot mate]", "en": "TERRA: u wot m7\\tts[TERRA: u wot mate]", "ja": "テラ: はぁ何だって\\tts[TERRA: u wot mate]"}
+{"sec": "map:357", "key": "LEWL THAT'S THE BEST THING I'VE HEARD ALL THIRTY SECONDS\\tts[Lewl THAT'S THE BEST THING I'VE HEARD ALL THIRTY SECONDS]", "en": "LEWL THAT'S THE BEST THING I'VE HEARD ALL THIRTY SECONDS\\tts[Lewl THAT'S THE BEST THING I'VE HEARD ALL THIRTY SECONDS]", "ja": "うけるそれこの30秒で聞いた中で一番おもしれえわ\\tts[Lewl THAT'S THE BEST THING I'VE HEARD ALL THIRTY SECONDS]"}
+{"sec": "map:357", "key": "CIEL: So it's not true, right?", "en": "CIEL: So it's not true, right?", "ja": "シエル: つまり、本当ではないんですわよね?"}
+{"sec": "map:357", "key": "TERRA: RAWWWWWWWWWWWWWR!!!!", "en": "TERRA: RAWWWWWWWWWWWWWR!!!! ", "ja": "テラ: ガアアアアアアアアアアアオ!!!!"}
+{"sec": "map:357", "key": "what are we talkin bout again lol", "en": "what are we talkin bout again lol", "ja": "つーかなんの話だっけwww"}
+{"sec": "map:357", "key": "SAMSON: Does the name Titawin mean anything to you?", "en": "SAMSON: Does the name Titawin mean anything to you?", "ja": "サムソン: ティタウィンって名前、何か心当たりあるか?"}
+{"sec": "map:357", "key": "TERRA: that's the uhhh desert planet, right?", "en": "TERRA: that's the uhhh desert planet, right?", "ja": "テラ: それってあれだろ、砂漠の惑星だろ?"}
+{"sec": "map:357", "key": "from Star Forces", "en": "from Star Forces ", "ja": "「スターフォーセズ」の"}
+{"sec": "map:357", "key": "Episode LXIX: The Versus of Evil", "en": "Episode LXIX: The Versus of Evil", "ja": "第69話「邪悪との対決」の"}
+{"sec": "map:357", "key": "SAMSON: ...What?", "en": "SAMSON: ...What?", "ja": "サムソン: ……は?"}
+{"sec": "map:357", "key": "CIEL: Titawin was the name of a Team Meteor agent.", "en": "CIEL: Titawin was the name of a Team Meteor agent.", "ja": "シエル: ティタウィンというのは、チームメテオの工作員の名前でしたわ。"}
+{"sec": "map:357", "key": "But that's not you, right?", "en": "But that's not you, right?", "ja": "でも、あなたのことじゃありませんわよね?"}
+{"sec": "map:357", "key": "TERRA: lmao i never lose, i only titawin\\tts[TERRA: lmao i never lose, i only TitaWin]", "en": "TERRA: lmao i never lose, i only titawin\\tts[TERRA: lmao i never lose, i only TitaWin]", "ja": "テラ: 大笑い あたしは負けたことねえよ、勝つだけだから\\tts[TERRA: lmao i never lose, i only TitaWin]"}
+{"sec": "map:357", "key": "CIEL: Terra, answer us properly.", "en": "CIEL: Terra, answer us properly. ", "ja": "シエル: テラ、ちゃんと答えてくださいまし。"}
+{"sec": "map:357", "key": "You are not a member of Team Meteor, correct?", "en": "You are not a member of Team Meteor, correct?", "ja": "あなたはチームメテオの一員ではありませんわよね?"}
+{"sec": "map:357", "key": "TERRA: well duhhhhhhhhhhhhhhhhh", "en": "TERRA: well duhhhhhhhhhhhhhhhhh", "ja": "テラ: あったりまえじゃぁぁぁぁぁぁん"}
+{"sec": "map:357", "key": "'course i am, bitchezzzz.", "en": "'course i am, bitchezzzz.", "ja": "そうに決まってんだろ、あんたらよぉ。"}
+{"sec": "map:357", "key": "CIEL: I...", "en": "CIEL: I...", "ja": "シエル: わたし……"}
+{"sec": "map:357", "key": "TERRA: aww yeh they alllll checkin' me out now.", "en": "TERRA: aww yeh they alllll checkin' me out now. ", "ja": "テラ: おお、みんな今あたしのこと見てるじゃん。"}
+{"sec": "map:357", "key": "mah humps, mah humps...", "en": "mah humps, mah humps...", "ja": "あたしのお尻、あたしのお尻……"}
+{"sec": "map:357", "key": "CIEL: If you really are with Team Meteor, then why?", "en": "CIEL: If you really are with Team Meteor, then why?", "ja": "シエル: 本当にチームメテオの一員だとして、それならどうして?"}
+{"sec": "map:357", "key": "TERRA: LISTEN UP KIDS, IT'S TRAGIC BACKSTORY TIME!", "en": "TERRA: LISTEN UP KIDS, IT'S TRAGIC BACKSTORY TIME!", "ja": "テラ: みんな聞けよ、悲しい過去語りの時間だぜ!"}
+{"sec": "map:357", "key": "TERRA: OK SO.", "en": "TERRA: OK SO. ", "ja": "テラ: よし、それじゃあな。"}
+{"sec": "map:357", "key": "A long time ago, when I was just a wee lad...", "en": "A long time ago, when I was just a wee lad...", "ja": "ずっと昔、あたしがまだほんのガキだった頃……"}
+{"sec": "map:357", "key": "My father was a famous doctor who lived happily with his wife,", "en": "My father was a famous doctor who lived happily with his wife, ", "ja": "あたしの父は名高き医者で、妻とともに幸せに暮らしていた、"}
+{"sec": "map:357", "key": "But one day!", "en": "But one day!", "ja": "しかしある日!"}
+{"sec": "map:357", "key": "A burglar broke into our estate...", "en": "A burglar broke into our estate...", "ja": "強盗が我が家に押し入り……"}
+{"sec": "map:357", "key": "...And killed them both.", "en": "...And killed them both.", "ja": "……二人とも殺されてしまった。"}
+{"sec": "map:357", "key": "I was left alone, in the darkness...", "en": "I was left alone, in the darkness...", "ja": "あたしは一人、闇の中に取り残された……"}
+{"sec": "map:357", "key": "Only a single creature appeared before me, but when it did, I knew my purpose.", "en": "Only a single creature appeared before me, but when it did, I knew my purpose.", "ja": "ただ一匹の生き物があたしの前に現れた、その瞬間、あたしは自分の使命を悟った。"}
+{"sec": "map:357", "key": "I knew I would dedicate my life to fighting crime across the city under my secret identity...", "en": "I knew I would dedicate my life to fighting crime across the city under my secret identity...", "ja": "あたしは秘密の正体のもと、この街の犯罪と戦うことに人生をささげると誓ったのだ……"}
+{"sec": "map:357", "key": "SAMSON: Terra, that's literally the plot of a superhero comic.", "en": "SAMSON: Terra, that's literally the plot of a superhero comic. ", "ja": "サムソン: テラ、それ完全にヒーロー漫画のあらすじじゃねえか。"}
+{"sec": "map:357", "key": "Try again.", "en": "Try again.", "ja": "もう一回やり直せ。"}
+{"sec": "map:357", "key": "TERRA: aw bitchtits i been found out", "en": "TERRA: aw bitchtits i been found out", "ja": "テラ: あちゃー バレちった"}
+{"sec": "map:357", "key": "but das okay.", "en": "but das okay.", "ja": "けどまあいいや。"}
+{"sec": "map:357", "key": "cuz they'll NEVER find me here!", "en": "cuz they'll NEVER find me here!", "ja": "だってここならぜってー見つからねえもん!"}
+{"sec": "map:357", "key": "SAMSON: What, exactly, are you doing?", "en": "SAMSON: What, exactly, are you doing?", "ja": "サムソン: お前、一体何やってんだ?"}
+{"sec": "map:357", "key": "TERRA: awwll set. les do dis.", "en": "TERRA: awwll set. les do dis.", "ja": "テラ: よぉしオッケー、いっちょやったろ。"}
+{"sec": "map:357", "key": "M3G4T3RR4, JACK OFF! EXECUTE!\\tts[MEGATERRA, JACK OFF! EXECUTE!]", "en": "M3G4T3RR4, JACK OFF! EXECUTE!\\tts[MEGATERRA, JACK OFF! EXECUTE!]", "ja": "メガテラ、ヌいてけ! 実行!\\tts[MEGATERRA, JACK OFF! EXECUTE!]"}
+{"sec": "map:357", "key": "CIEL: I... beg your pardon?", "en": "CIEL: I... beg your pardon?", "ja": "シエル: わたし……今何と?"}
+{"sec": "map:357", "key": "SAMSON: Please tell me she didn't just escape into that big-ass computer.", "en": "SAMSON: Please tell me she didn't just escape into that big-ass computer.", "ja": "サムソン: おい、まさかあいつ、あのバカでかいコンピューターの中に逃げ込んだんじゃねえよな?"}
+{"sec": "map:357", "key": "CIEL: All right.", "en": "CIEL: All right. ", "ja": "シエル: わかりましたわ。"}
+{"sec": "map:357", "key": "She didn't just escape into that computer.", "en": "She didn't just escape into that computer.", "ja": "彼女はあのコンピューターの中に逃げ込んだりしていません。"}
+{"sec": "map:357", "key": "SAMSON: Thanks.", "en": "SAMSON: Thanks.", "ja": "サムソン: 助かるぜ。"}
+{"sec": "map:357", "key": "SAMSON: I guess it works like storing Pokémon in a PC.", "en": "SAMSON: I guess it works like storing Pokémon in a PC.", "ja": "サムソン: ポケモンをボックスに預けるのと同じ仕組みってことか。"}
+{"sec": "map:357", "key": "...And it looks like it's waiting for a \"Player 2\".", "en": "...And it looks like it's waiting for a \"Player 2\".", "ja": "……それに、どうやら「プレイヤー2」を待ってるみたいだな。"}
+{"sec": "map:357", "key": "\\PN, I think that has to be you.", "en": "\\PN, I think that has to be you.", "ja": "\\PN、それはお前しかいないと思うぜ。"}
+{"sec": "map:357", "key": "You know the most about the situation, and you should be strong enough to fight her.", "en": "You know the most about the situation, and you should be strong enough to fight her.", "ja": "お前が一番この状況を分かってるし、あいつと戦えるだけの強さもあるはずだ。"}
+{"sec": "map:357", "key": "We'll follow you if possible, but it looks like this console only accepts two \"players\".", "en": "We'll follow you if possible, but it looks like this console only accepts two \"players\".", "ja": "できれば俺たちもついていきたいが、このコンソールは「プレイヤー」を二人までしか受け付けないみたいだ。"}
+{"sec": "map:357", "key": "Talk to me whenever you're ready and I'll see if I can get you in there.", "en": "Talk to me whenever you're ready and I'll see if I can get you in there.", "ja": "準備ができたら声をかけてくれ、中に入れるかどうかやってみる。"}
+{"sec": "map:357", "key": "CIEL: Honestly though, if it is true, what's a girl like her doing in Team Meteor?", "en": "CIEL: Honestly though, if it is true, what's a girl like her doing in Team Meteor?", "ja": "シエル: でも正直なところ、もし本当だとして、あんな娘がなぜチームメテオになんかいますの?"}
+{"sec": "map:357", "key": "CIEL: While I do understand we can't just set her free, I will miss her cacophonous babbling in some strange, dissolute way.", "en": "CIEL: While I do understand we can't just set her free, I will miss her cacophonous babbling in some strange, dissolute way.", "ja": "シエル: そのまま自由にさせておくわけにはいかないと分かってはいますけれど、あの騒々しいおしゃべりが、妙に、だらしなく恋しくなりますわ。"}
+{"sec": "map:357", "key": "She was our friend after all.", "en": "She was our friend after all. ", "ja": "結局のところ、彼女はわたしたちの友達でしたもの。"}
+{"sec": "map:357", "key": "I can hardly believe that all this time she was working for our enemies.", "en": "I can hardly believe that all this time she was working for our enemies.", "ja": "この間ずっと敵のために働いていたなんて、とても信じられませんわ。"}
+{"sec": "map:357", "key": "No one seems to be picking up at the Grand Hall...", "en": "No one seems to be picking up at the Grand Hall...", "ja": "大ホールでは誰も電話に出ないみたいだけれど……"}
+{"sec": "map:357", "key": "AME: \\PN?", "en": "AME: \\PN?", "ja": "アメ: \\PN?"}
+{"sec": "map:357", "key": "Hey there! So I see you've made it to the Gym.", "en": "Hey there! So I see you've made it to the Gym.", "ja": "やっほー! ジムに着いたみたいだね。"}
+{"sec": "map:357", "key": "This telecom system connects right to the Grand Hall, so no matter where you are, whenever you get to a Gym, you can call in for advice!", "en": "This telecom system connects right to the Grand Hall, so no matter where you are, whenever you get to a Gym, you can call in for advice!", "ja": "この通信システムは大ホールに直接つながってるから、どこにいても、ジムに着いたらいつでもアドバイスを聞きに連絡できるんだよ!"}
+{"sec": "map:357", "key": "Anyway...", "en": "Anyway...", "ja": "それはさておき……"}
+{"sec": "map:357", "key": "AME: You made it to the Agate Circus? Sounds like it's a mess up there.", "en": "AME: You made it to the Agate Circus? Sounds like it's a mess up there.", "ja": "アメ: アゲートサーカスまで来たんだね? そっちは大変なことになってるみたいだね。"}
+{"sec": "map:357", "key": "As you might know, Agate Circus services three separate Leaders. So Samson is first?", "en": "As you might know, Agate Circus services three separate Leaders. So Samson is first?", "ja": "知ってるかもしれないけど、アゲートサーカスには三人のリーダーがいるんだよ。ってことは、最初はサムソン?"}
+{"sec": "map:357", "key": "All right. He's fresh into the ring as far as Leaders go, so I can't say too much, but I'll tell you what I know about the Big Top Arena.", "en": "All right. He's fresh into the ring as far as Leaders go, so I can't say too much, but I'll tell you what I know about the Big Top Arena.", "ja": "了解。彼はリーダーとしてはまだ新人だから、詳しくは言えないけど、ビッグトップ・アリーナについて知ってることを教えるね。"}
+{"sec": "map:357", "key": "There's actually two main parts to it. The first is Samson's ploy, the High Striker.", "en": "There's actually two main parts to it. The first is Samson's ploy, the High Striker.", "ja": "実はあそこには大きく分けて二つの仕掛けがあるの。ひとつはサムソンの仕掛け、ハイストライカーだよ。"}
+{"sec": "map:357", "key": "The entire ground is made of panels that trigger it.", "en": "The entire ground is made of panels that trigger it. ", "ja": "床全体がそれを起動させるパネルでできてるんだ。"}
+{"sec": "map:357", "key": "They were originally set up for Terra, as any attack that hits the floor hard will activate it.", "en": "They were originally set up for Terra, as any attack that hits the floor hard will activate it. ", "ja": "もともとはテラのために設置されたもので、床を強くたたくわざなら何でも起動するようになってるの。"}
+{"sec": "map:357", "key": "But since Fighting moves take strong power stances, they end up triggering the panels too. See if you can get a bonus from it as well!", "en": "But since Fighting moves take strong power stances, they end up triggering the panels too. See if you can get a bonus from it as well!", "ja": "でも、かくとうタイプのわざは踏ん張って力を込めるから、それでもパネルが反応するんだ。そこからボーナスが得られるか試してみて!"}
+{"sec": "map:357", "key": "Alternatively, you might use Ciel's type advantage part of the field against him.", "en": "Alternatively, you might use Ciel's type advantage part of the field against him. ", "ja": "それか、シエル用のタイプ相性フィールドを、逆にサムソンに使うって手もあるよ。"}
+{"sec": "map:357", "key": "Some Flying-type attacks like Acrobatics and Bounce can make an extra splash around the Big Top with Ciel's aerial scaffolding.", "en": "Some Flying-type attacks like Acrobatics and Bounce can make an extra splash around the Big Top with Ciel's aerial scaffolding.", "ja": "アクロバットやとびはねるみたいなひこうタイプのわざなら、シエルの空中足場を使ってビッグトップ全体に追加効果を出せるんだ。"}
+{"sec": "map:357", "key": "A few of those, and Samson should go down in no time!", "en": "A few of those, and Samson should go down in no time!", "ja": "そういうのを何回か決めれば、サムソンなんてあっという間に倒せるよ!"}
+{"sec": "map:357", "key": "Good luck!", "en": "Good luck!", "ja": "頑張ってね!"}
+{"sec": "map:357", "key": "AME: Glad you picked up. I heard from Cal about what's going on.", "en": "AME: Glad you picked up. I heard from Cal about what's going on.", "ja": "アメ: 出てくれてよかった。キャルから状況は聞いたよ。"}
+{"sec": "map:357", "key": "I never would have thought Terra of all people would be a Meteor.", "en": "I never would have thought Terra of all people would be a Meteor. ", "ja": "よりによってテラがメテオだったなんて、思いもしなかったな。"}
+{"sec": "map:357", "key": "I mean, I never liked her anyway, so whatever.", "en": "I mean, I never liked her anyway, so whatever.", "ja": "まあ、もともと苦手だったし、別にいいけど。"}
+{"sec": "map:357", "key": "I patched into her computer after I heard there was something up with it, and I can see it reporting her presence.", "en": "I patched into her computer after I heard there was something up with it, and I can see it reporting her presence.", "ja": "彼女のコンピューターに何かおかしいって聞いて中に入ってみたら、彼女の存在を検知してるのが見えるよ。"}
+{"sec": "map:357", "key": "I'm not going to question how she managed to enter a computer world at all; that girl already defies logic.", "en": "I'm not going to question how she managed to enter a computer world at all; that girl already defies logic. ", "ja": "どうやってコンピューターの世界に入り込んだのかは、もう突っ込まないでおくよ。あの子はもう論理を超えた存在だからね。"}
+{"sec": "map:357", "key": "I'm running an analysis right now. Hold on, and I'll tell you what to expect.", "en": "I'm running an analysis right now. Hold on, and I'll tell you what to expect.", "ja": "今、解析をかけてるところ。ちょっと待って、何が起きるか教えるから。"}
+{"sec": "map:357", "key": "The results are strange.", "en": "The results are strange.", "ja": "結果がちょっと変なんだよね。"}
+{"sec": "map:357", "key": "It looks like the computer environment is set up to simulate an old video game.", "en": "It looks like the computer environment is set up to simulate an old video game.", "ja": "このコンピューターの環境、どうやら昔のゲームを再現するように設定されてるみたい。"}
+{"sec": "map:357", "key": "In this game, attacks are physical or special based on what type they are.", "en": "In this game, attacks are physical or special based on what type they are.", "ja": "そのゲームでは、わざが物理か特殊かはタイプによって決まるんだって。"}
+{"sec": "map:357", "key": "Plus, the Special Attack and Special Defense stats are treated as a single value-- it looks like it works off of whichever stat is higher.", "en": "Plus, the Special Attack and Special Defense stats are treated as a single value-- it looks like it works off of whichever stat is higher.", "ja": "しかも、とくこうととくぼうがひとつの数値として扱われてて、高いほうの値が使われる仕組みみたい。"}
+{"sec": "map:357", "key": "Finally, the Dark-, Steel- and Fairy-types seem to have been erased.", "en": "Finally, the Dark-, Steel- and Fairy-types seem to have been erased. ", "ja": "最後に、あくタイプとはがねタイプ、フェアリータイプは削除されてるみたい。"}
+{"sec": "map:357", "key": "This all sounds familiar, right?", "en": "This all sounds familiar, right?", "ja": "なんだか聞き覚えがある話でしょ?"}
+{"sec": "map:357", "key": "Keep these things in mind when you're in there. I know you can do what's necessary.", "en": "Keep these things in mind when you're in there. I know you can do what's necessary.", "ja": "中に入ったら、これを頭に入れておいて。あなたなら必要なことができるって信じてるよ。"}
+{"sec": "map:357", "key": "AME: So you need to fight Ciel?", "en": "AME: So you need to fight Ciel?", "ja": "アメ: シエルと戦わないといけないんだね?"}
+{"sec": "map:357", "key": "Right. This won't be the first time you've fought on this field, so try to keep in mind everything you used before against Samson.", "en": "Right. This won't be the first time you've fought on this field, so try to keep in mind everything you used before against Samson.", "ja": "うん。このフィールドで戦うのは初めてじゃないから、サムソンとの時に使った作戦を思い出してみて。"}
+{"sec": "map:357", "key": "Unlike Samson's all-out offense, Ciel plays more defensively.", "en": "Unlike Samson's all-out offense, Ciel plays more defensively.", "ja": "サムソンの全力攻撃と違って、シエルはもっと守りを重視するタイプだよ。"}
+{"sec": "map:357", "key": "Many of her Pokémon have bulky set-ups, so they can be hard to power down.", "en": "Many of her Pokémon have bulky set-ups, so they can be hard to power down.", "ja": "彼女のポケモンはタフな型が多いから、削り切るのが大変なんだ。"}
+{"sec": "map:357", "key": "But, Ciel is a performer at heart, and it shows in her battles, as she prefers to use dancing and sound- based moves.", "en": "But, Ciel is a performer at heart, and it shows in her battles, as she prefers to use dancing and sound- based moves.", "ja": "でも、シエルは根っからのパフォーマーだから、それが戦い方にも出てて、ダンスや音を使うわざを好んで使うよ。"}
+{"sec": "map:357", "key": "And being in an arena, it's the perfect place for those things to get her going.", "en": "And being in an arena, it's the perfect place for those things to get her going.", "ja": "アリーナっていう場所は、そういうわざを活かすのにぴったりなんだ。"}
+{"sec": "map:357", "key": "If you can set up and knock her down before she even gets in the air, you should do well!", "en": "If you can set up and knock her down before she even gets in the air, you should do well! ", "ja": "彼女が宙に浮く前に態勢を整えてたたければ、有利に進められるはずだよ!"}
+{"sec": "map:357", "key": "But if she gets her act in the air, it's gonna be a long way down for you.", "en": "But if she gets her act in the air, it's gonna be a long way down for you.", "ja": "でも、いったん彼女が空中でショーを始めたら、こっちは奈落の底行きだからね。"}
+{"sec": "map:357", "key": "CIEL: Shall we dance?", "en": "CIEL: Shall we dance?", "ja": "シエル: 踊っていただけますかしら?"}
+{"sec": "map:357", "key": "CIEL: Right, show me everything you've got!", "en": "CIEL: Right, show me everything you've got!", "ja": "シエル: さあ、あなたの持てるすべてを見せてくださいまし!"}
+{"sec": "map:357", "key": "CIEL: Take your time, darling. I want your best performance!", "en": "CIEL: Take your time, darling. I want your best performance!", "ja": "シエル: 焦らなくていいですわ、あなた。最高のパフォーマンスを期待してますの!"}
+{"sec": "map:357", "key": "RINGMASTER: All right, that was very well done, both of you!", "en": "RINGMASTER: All right, that was very well done, both of you!", "ja": "団長: よし、二人ともお見事だったぞ!"}
+{"sec": "map:357", "key": "CIEL: Naturally~", "en": "CIEL: Naturally~", "ja": "シエル: 当然ですわ〜"}
+{"sec": "map:357", "key": "RINGMASTER: BUT.", "en": "RINGMASTER: BUT.", "ja": "団長: だがな。"}
+{"sec": "map:357", "key": "No more stunts like that in the future, Ciel.", "en": "No more stunts like that in the future, Ciel.", "ja": "今後は、ああいう危ない真似はもうやめとけよ、シエル。"}
+{"sec": "map:357", "key": "CIEL: Who, me?", "en": "CIEL: Who, me?", "ja": "シエル: あら、わたしのこと?"}
+{"sec": "map:357", "key": "I haven't a clue what you might be referring to.", "en": "I haven't a clue what you might be referring to.", "ja": "何のことだか、さっぱり見当もつきませんわ。"}
+{"sec": "map:357", "key": "RINGMASTER: The only reason I went with it is because we ARE short on performances with Terra gone.", "en": "RINGMASTER: The only reason I went with it is because we ARE short on performances with Terra gone.", "ja": "団長: 見逃したのは、テラがいなくてショーが足りてないってだけの理由だからな。"}
+{"sec": "map:357", "key": "CIEL: Thank you for your benevolence and mercy, young master~", "en": "CIEL: Thank you for your benevolence and mercy, young master~", "ja": "シエル: あなたの慈悲深いご厚意に感謝いたしますわ、若様〜"}
+{"sec": "map:357", "key": "RINGMASTER: \"Young master\"?", "en": "RINGMASTER: \"Young master\"? ", "ja": "団長: 「若様」?"}
+{"sec": "map:357", "key": "Go back to sassing each other.", "en": "Go back to sassing each other. ", "ja": "お前らはまた減らず口をたたき合ってろ。"}
+{"sec": "map:357", "key": "I've got a closing ceremony to do!", "en": "I've got a closing ceremony to do!", "ja": "俺は閉会の挨拶があるんだ!"}
+{"sec": "map:357", "key": "SAMSON: Nice.", "en": "SAMSON: Nice.", "ja": "サムソン: いいじゃん。"}
+{"sec": "map:357", "key": "CIEL: I don't want to hear it!", "en": "CIEL: I don't want to hear it!", "ja": "シエル: あなたには言われたくありませんわ!"}
+{"sec": "map:357", "key": "My battle was better than yours.", "en": "My battle was better than yours. ", "ja": "わたしの試合のほうが、あなたのより見応えがありましたもの。"}
+{"sec": "map:357", "key": "So ha-ha~", "en": "So ha-ha~", "ja": "だからいい気味ですわ〜"}
+{"sec": "map:357", "key": "SAMSON: Whatever you say, lass.", "en": "SAMSON: Whatever you say, lass.", "ja": "サムソン: はいはい、そういうことにしといてやるよ、お嬢さん。"}
+{"sec": "map:357", "key": "I think we can agree that both of our battles beat getting lost in a digital void.", "en": "I think we can agree that both of our battles beat getting lost in a digital void. ", "ja": "とりあえず、デジタル空間で迷子になるよりは、俺たちの試合のほうがマシだったってことは、お互い認められるだろ。"}
+{"sec": "map:357", "key": "I'm not really in the mood to banter though, so I'm gonna go blow off some steam.", "en": "I'm not really in the mood to banter though, so I'm gonna go blow off some steam.", "ja": "軽口をたたく気分でもないから、ちょっと発散してくるわ。"}
+{"sec": "map:357", "key": "Ciao.", "en": "Ciao.", "ja": "じゃあな。"}
+{"sec": "map:357", "key": "CIEL: Hmm...", "en": "CIEL: Hmm...", "ja": "シエル: ふぅ……"}
+{"sec": "map:357", "key": "I suppose you have business too, don't you?", "en": "I suppose you have business too, don't you?", "ja": "あなたにも用事があるのでしょう?"}
+{"sec": "map:357", "key": "It's been quiet here lately.", "en": "It's been quiet here lately.", "ja": "最近、ここは静かになりましたわね。"}
+{"sec": "map:357", "key": "CIEL: But I suppose it's to be expected.", "en": "CIEL: But I suppose it's to be expected.", "ja": "シエル: でも、当然のことなのでしょうね。"}
+{"sec": "map:357", "key": "What is it they say?", "en": "What is it they say? ", "ja": "よく言うでしょう?"}
+{"sec": "map:357", "key": "It's lonely at the top.", "en": "It's lonely at the top.", "ja": "頂点に立つ者は孤独だと。"}
+{"sec": "map:357", "key": "...Or, perhaps,", "en": "...Or, perhaps,", "ja": "……いえ、それとも、"}
+{"sec": "map:357", "key": "They only say that because they've already pushed everyone who cared for them away.", "en": "They only say that because they've already pushed everyone who cared for them away.", "ja": "気にかけてくれる人たちをすでに全員遠ざけてしまったから、そう言うだけなのかしら。"}
+{"sec": "map:357", "key": "Well, Samson is so easy to bully, one can hardly be blamed for it, right?", "en": "Well, Samson is so easy to bully, one can hardly be blamed for it, right?", "ja": "まあ、サムソンはいじりやすすぎますから、責められるようなことでもありませんわよね?"}
+{"sec": "map:357", "key": "And that's kind of our thing.", "en": "And that's kind of our thing.", "ja": "それがわたしたちらしさ、みたいなところもありますし。"}
+{"sec": "map:357", "key": "Terra...", "en": "Terra...", "ja": "テラは……"}
+{"sec": "map:357", "key": "Well, she has her moments, I suppose.", "en": "Well, she has her moments, I suppose.", "ja": "まあ、彼女にも見どころはあると思いますわ。"}
+{"sec": "map:357", "key": "When she isn't stabbing us in our proverbial backs, that is.", "en": "When she isn't stabbing us in our proverbial backs, that is.", "ja": "こちらの背中を刺していないときに限りますけれど。"}
+{"sec": "map:357", "key": "There was another, you know.", "en": "There was another, you know.", "ja": "他にもいましたのよ。"}
+{"sec": "map:357", "key": "They came out here not long after I did, and brought their own act.", "en": "They came out here not long after I did, and brought their own act.", "ja": "わたしが来てからそう経たないうちに、ここへやってきて、自分の出し物を持ち込んだんですの。"}
+{"sec": "map:357", "key": "And I think they expected more from me than I could give.", "en": "And I think they expected more from me than I could give.", "ja": "わたしに期待していたものは、わたしが差し出せるもの以上だったのでしょうね。"}
+{"sec": "map:357", "key": "It was my cousin.", "en": "It was my cousin.", "ja": "わたしの従姉妹でしたの。"}
+{"sec": "map:357", "key": "But I was afraid that if I let the pieces of my old life trail behind me, they would drag me down.", "en": "But I was afraid that if I let the pieces of my old life trail behind me, they would drag me down.", "ja": "でも、昔の生活の残りを引きずったままだと、足を引っ張られてしまうのが怖かったんですの。"}
+{"sec": "map:357", "key": "I was, perhaps, callous.", "en": "I was, perhaps, callous.", "ja": "わたしは、たぶん、冷たかったのでしょうね。"}
+{"sec": "map:357", "key": "I suddenly feel as if I owe them an apology.", "en": "I suddenly feel as if I owe them an apology.", "ja": "急に、あの人に謝らなくてはという気持ちになってきましたわ。"}
+{"sec": "map:357", "key": "Maybe I shall attempt to reach out to them...", "en": "Maybe I shall attempt to reach out to them...", "ja": "連絡を取ってみようかしら……"}
+{"sec": "map:357", "key": "CIEL: Ah, but enough of you lingering just to hear me drivel on.", "en": "CIEL: Ah, but enough of you lingering just to hear me drivel on.", "ja": "シエル: ああ、でも、わたしの繰り言を聞くためだけに、あなたを引き止めるのはこのくらいにしておきますわ。"}
+{"sec": "map:357", "key": "You intend to go back to the city, don't you?", "en": "You intend to go back to the city, don't you?", "ja": "街に戻るおつもりなのでしょう?"}
+{"sec": "map:357", "key": "Best of luck, wherever you go, \\PN.", "en": "Best of luck, wherever you go, \\PN.", "ja": "どこへ行くにしても、幸運を祈ってますわ、\\PN。"}
+{"sec": "map:357", "key": "SAMSON: I'm on cleaning duty for a month.", "en": "SAMSON: I'm on cleaning duty for a month.", "ja": "サムソン: 一ヶ月間、掃除当番になっちまった。"}
+{"sec": "map:357", "key": "Trashed the changing room.", "en": "Trashed the changing room.", "ja": "更衣室をぶっ壊したんだ。"}
+{"sec": "map:357", "key": "Had to.", "en": "Had to.", "ja": "しょうがなかったんだよ。"}
+{"sec": "map:357", "key": "At first it was just Ciel's cabinet.", "en": "At first it was just Ciel's cabinet.", "ja": "最初はシエルのロッカーだけだったんだ。"}
+{"sec": "map:357", "key": "Then it was Terra's.", "en": "Then it was Terra's.", "ja": "それからテラのロッカーもな。"}
+{"sec": "map:357", "key": "Bunch of fucking rubber Torchic in there.", "en": "Bunch of fucking rubber Torchic in there.", "ja": "中にクソみたいなアチャモのゴム人形がぎっしり入っててよ。"}
+{"sec": "map:357", "key": "They scream bloody murder.", "en": "They scream bloody murder.", "ja": "あいつら、鳴らすと悲鳴みたいな音が出るんだ。"}
+{"sec": "map:357", "key": "Laughed so hard I fell over and passed out.", "en": "Laughed so hard I fell over and passed out.", "ja": "笑いすぎて倒れて気絶しちまった。"}
+{"sec": "map:357", "key": "That's one way to get caught red-handed.", "en": "That's one way to get caught red-handed.", "ja": "それで見事に現行犯ってわけだ。"}
+{"sec": "map:357", "key": "Even when she's been gone for so long, that wench still causes trouble for me.", "en": "Even when she's been gone for so long, that wench still causes trouble for me.", "ja": "あんなに長くいなくなってても、あの女はまだ俺に面倒事を残していきやがる。"}
+{"sec": "map:357", "key": "You know, she's the only reason I was in the Triumvirate in the first place.", "en": "You know, she's the only reason I was in the Triumvirate in the first place.", "ja": "そもそも俺が三強に入ったのは、あいつのせいなんだよな。"}
+{"sec": "map:357", "key": "I'd been in the Circus for a while.", "en": "I'd been in the Circus for a while.", "ja": "サーカスにはしばらく前からいたんだ。"}
+{"sec": "map:357", "key": "My old man was a fan of corporal punishment.", "en": "My old man was a fan of corporal punishment. ", "ja": "うちの親父は体罰が大好きな男でな。"}
+{"sec": "map:357", "key": "I wasn't.", "en": "I wasn't.", "ja": "俺のほうはそうじゃなかった。"}
+{"sec": "map:357", "key": "But eventually boys get bigger than their fathers.", "en": "But eventually boys get bigger than their fathers.", "ja": "でも、いずれ息子は親父よりでかくなるもんだ。"}
+{"sec": "map:357", "key": "That bit him in the ass.", "en": "That bit him in the ass.", "ja": "それが親父にとって痛い目を見る羽目になった。"}
+{"sec": "map:357", "key": "Got kicked to the street; found a life here.", "en": "Got kicked to the street; found a life here.", "ja": "街に放り出されて、ここで生きる道を見つけたんだ。"}
+{"sec": "map:357", "key": "Then that chick showed up one day and insisted on being a lion tamer of all things.", "en": "Then that chick showed up one day and insisted on being a lion tamer of all things.", "ja": "そしたらある日、あの女が現れて、よりによってライオン使いになるって言い張ってな。"}
+{"sec": "map:357", "key": "We made her a clown.", "en": "We made her a clown.", "ja": "結局、俺たちはあいつをピエロにしたんだ。"}
+{"sec": "map:357", "key": "She dyed her hair.", "en": "She dyed her hair. ", "ja": "髪を染めてな。"}
+{"sec": "map:357", "key": "Could've just worn a wig, but, nope.", "en": "Could've just worn a wig, but, nope.", "ja": "かつらでもかぶりゃよかったのに、しなかった。"}
+{"sec": "map:357", "key": "That would've been practical.", "en": "That would've been practical.", "ja": "そのほうが現実的だったろうによ。"}
+{"sec": "map:357", "key": "That ain't her style.", "en": "That ain't her style.", "ja": "でも、それはあいつのやり方じゃねえんだ。"}
+{"sec": "map:357", "key": "She always got on my nerves, and was all too happy to do so.", "en": "She always got on my nerves, and was all too happy to do so.", "ja": "いつも俺の神経を逆なでしてきて、しかもそれを心底楽しんでやがった。"}
+{"sec": "map:357", "key": "She knew I had eyes for Ciel.", "en": "She knew I had eyes for Ciel.", "ja": "俺がシエルに気があるのを知っててな。"}
+{"sec": "map:357", "key": "With a lady like that, who can blame a man?", "en": "With a lady like that, who can blame a man?", "ja": "あんな女に、ほれない男がいるかよ。"}
+{"sec": "map:357", "key": "I think she started flirting with her just to make me jealous.", "en": "I think she started flirting with her just to make me jealous.", "ja": "あいつ、俺をやきもきさせるためにシエルに言い寄り始めたんだと思う。"}
+{"sec": "map:357", "key": "Eventually it came to a bet.", "en": "Eventually it came to a bet.", "ja": "結局、それが賭けにまで発展してな。"}
+{"sec": "map:357", "key": "Six on six.", "en": "Six on six.", "ja": "6対6。"}
+{"sec": "map:357", "key": "Winner asked her out first.", "en": "Winner asked her out first.", "ja": "勝った方が先にシエルを誘えるってルールでな。"}
+{"sec": "map:357", "key": "And if Terra had lost, she'd have left the Circus.", "en": "And if Terra had lost, she'd have left the Circus.", "ja": "テラが負けたら、サーカスを去るって話だった。"}
+{"sec": "map:357", "key": "If I had lost, I would've done whatever she wanted.", "en": "If I had lost, I would've done whatever she wanted.", "ja": "俺が負けたら、あいつの言うことを何でも聞くって話でな。"}
+{"sec": "map:357", "key": "She wanted me to register as a Leader with her.", "en": "She wanted me to register as a Leader with her.", "ja": "あいつは俺に、一緒にリーダー登録しろって言ってきたんだ。"}
+{"sec": "map:357", "key": "Only got the reserve spot for my type, but that was enough to get us into some extra limelight for shows.", "en": "Only got the reserve spot for my type, but that was enough to get us into some extra limelight for shows.", "ja": "俺のタイプは補欠枠にしかなれなかったが、それでもショーで多少目立てるくらいにはなったな。"}
+{"sec": "map:357", "key": "Enough to get us more time around Ciel.", "en": "Enough to get us more time around Ciel.", "ja": "シエルと過ごす時間を増やすには十分だった。"}
+{"sec": "map:357", "key": "And more rejections apiece.", "en": "And more rejections apiece.", "ja": "その分、二人とも振られる回数も増えたけどな。"}
+{"sec": "map:357", "key": "But thinking about it...", "en": "But thinking about it...", "ja": "でも、こうして考えてみると……"}
+{"sec": "map:357", "key": "I'm glad it didn't go down any other way.", "en": "I'm glad it didn't go down any other way.", "ja": "他の結末にならなくてよかったと思ってる。"}
+{"sec": "map:357", "key": "...", "en": "...", "ja": "…………"}
+{"sec": "map:357", "key": "I don't have a fucking clue what to do, \\PN.", "en": "I don't have a fucking clue what to do, \\PN.", "ja": "どうすりゃいいのか、俺にはまったく分からねえよ、\\PN。"}
+{"sec": "map:357", "key": "I learned from my old man that getting back at someone never makes anything better.", "en": "I learned from my old man that getting back at someone never makes anything better.", "ja": "親父を見て学んだんだ、仕返しなんかしても何も良くならねえって。"}
+{"sec": "map:357", "key": "But I can't shake this anger.", "en": "But I can't shake this anger.", "ja": "でも、この怒りを振り払えねえんだ。"}
+{"sec": "map:357", "key": "It's quiet by now, but it's there.", "en": "It's quiet by now, but it's there.", "ja": "今は静かになってるが、確かにそこにある。"}
+{"sec": "map:357", "key": "It doesn't leave, no matter what I take it out on.", "en": "It doesn't leave, no matter what I take it out on.", "ja": "何にぶつけても、消えてなくなりはしねえ。"}
+{"sec": "map:357", "key": "I can barely breathe,", "en": "I can barely breathe,", "ja": "息すらまともにできねえ、"}
+{"sec": "map:357", "key": "Like a vat of lava being poured down my throat,", "en": "Like a vat of lava being poured down my throat,", "ja": "喉に溶岩を流し込まれてるみたいに、"}
+{"sec": "map:357", "key": "Fire in my fucking bloodstream,", "en": "Fire in my fucking bloodstream,", "ja": "血の中を火が駆け巡ってやがる、"}
+{"sec": "map:357", "key": "Eventually it just settles into stone.", "en": "Eventually it just settles into stone.", "ja": "そのうち、それも石みたいに固まっちまうんだ。"}
+{"sec": "map:357", "key": "A weight in my core.", "en": "A weight in my core.", "ja": "腹の底に重石があるみたいでよ。"}
+{"sec": "map:357", "key": "Hard to walk. Hard to think.", "en": "Hard to walk. Hard to think.", "ja": "歩くのもつらい。考えるのもつらい。"}
+{"sec": "map:357", "key": "And I'm sure it's not half as bad as whatever's happened to Ciel.", "en": "And I'm sure it's not half as bad as whatever's happened to Ciel.", "ja": "それでも、シエルに起きたことに比べりゃ、半分もひどくねえんだろうけどな。"}
+{"sec": "map:357", "key": "SAMSON: If I stay around here, I'll break something, or someone.", "en": "SAMSON: If I stay around here, I'll break something, or someone.", "ja": "サムソン: ここにこれ以上いたら、何かか、誰かを壊しちまう。"}
+{"sec": "map:357", "key": "See you around.", "en": "See you around.", "ja": "またな。"}
+{"sec": "map:357", "key": "Yes", "en": "Yes", "ja": "はい"}
+{"sec": "map:357", "key": "No", "en": "No", "ja": "いいえ"}

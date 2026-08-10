@@ -1,0 +1,505 @@
+{"sec": "map:150", "key": "Something unseeable is in the way.", "en": "Something unseeable is in the way.", "ja": "目に見えない何かが立ちふさがっている。"}
+{"sec": "map:150", "key": "\\PN used the Silvon Scope.", "en": "\\PN used the Silvon Scope.", "ja": "\\PNはシルボンスコープを使った。"}
+{"sec": "map:150", "key": "The startled Pokémon attacked!", "en": "The startled Pokémon attacked!", "ja": "驚いたポケモンが攻撃してきた!"}
+{"sec": "map:150", "key": "A hole in the ground shoots directly below.", "en": "A hole in the ground shoots directly below.", "ja": "地面の穴が、真下へと続いている。"}
+{"sec": "map:150", "key": "Jump?", "en": "Jump?", "ja": "飛び込みますか?"}
+{"sec": "map:150", "key": "???: Hey, dumbass.", "en": "???: Hey, dumbass.", "ja": "???: おい、ばか野郎。"}
+{"sec": "map:150", "key": "How long are you gonna sleep in there?", "en": "How long are you gonna sleep in there?", "ja": "いつまでそこで寝てるつもりだ?"}
+{"sec": "map:150", "key": "FERN: Earth to \\PN. Anyone home?", "en": "FERN: Earth to \\PN. Anyone home?", "ja": "ファーン: おーい\\PN。誰かいるかー?"}
+{"sec": "map:150", "key": "FERN: Yeah, hi, remember the waking world?", "en": "FERN: Yeah, hi, remember the waking world?", "ja": "ファーン: よう、目覚めてる世界のこと、覚えてるか?"}
+{"sec": "map:150", "key": "Frankly I was starting to wonder if you were dead in there.", "en": "Frankly I was starting to wonder if you were dead in there.", "ja": "正直、中で死んでるんじゃねえかと思い始めてたところだぜ。"}
+{"sec": "map:150", "key": "Figured if my laughing didn't wake you up, nothing was going to.", "en": "Figured if my laughing didn't wake you up, nothing was going to.", "ja": "オレ様の笑い声で起きねえなら、もう何しても無駄だろうと思ってな。"}
+{"sec": "map:150", "key": "Seeing you trapped in that cage was just too much.", "en": "Seeing you trapped in that cage was just too much. ", "ja": "おりに閉じ込められてるお前を見て、笑いが止まらなかったぜ。"}
+{"sec": "map:150", "key": "Face down in the dirt, utterly helpless...", "en": "Face down in the dirt, utterly helpless...", "ja": "泥に顔を突っ込んで、完全に無力になって……"}
+{"sec": "map:150", "key": "It suits you.", "en": "It suits you.", "ja": "よく似合ってるぜ。"}
+{"sec": "map:150", "key": "FERN: Aww, c'mon, smile!", "en": "FERN: Aww, c'mon, smile!", "ja": "ファーン: おいおい、笑えよ!"}
+{"sec": "map:150", "key": "Top dog Fern's here to help you out.", "en": "Top dog Fern's here to help you out.", "ja": "トップのファーン様が、助けてやろうって言ってるんだぜ。"}
+{"sec": "map:150", "key": "I'll gladly open the cage for you...", "en": "I'll gladly open the cage for you...", "ja": "喜んでおりを開けてやるよ……"}
+{"sec": "map:150", "key": "...If you get on your knees and beg.", "en": "...If you get on your knees and beg. ", "ja": "……ひざまずいて頼むならな。"}
+{"sec": "map:150", "key": "Whaddya say?", "en": "Whaddya say?", "ja": "どうする?"}
+{"sec": "map:150", "key": "Perfect.", "en": "Perfect. ", "ja": "よし、それでいい。"}
+{"sec": "map:150", "key": "Now get on all fours and repeat after me:", "en": "Now get on all fours and repeat after me:", "ja": "じゃあ、四つんばいになって、オレ様の後に続けて言え。"}
+{"sec": "map:150", "key": "I, \\PN, admit that I am an inferior Trainer, battler and person to Fern.", "en": "I, \\PN, admit that I am an inferior Trainer, battler and person to Fern. ", "ja": "「私、\\PNは、トレーナーとしてもバトラーとしても人間としても、ファーンに劣ることを認めます。」"}
+{"sec": "map:150", "key": "Furthermore, I, \\PN swear that I will never get in Fern's way again, because I'm not worth the time it takes him to step on me.", "en": "Furthermore, I, \\PN swear that I will never get in Fern's way again, because I'm not worth the time it takes him to step on me.", "ja": "「さらに、私、\\PNは、二度とファーンの邪魔をしないと誓います。踏みつけられる時間すら、私にはもったいないからです。」"}
+{"sec": "map:150", "key": "Finally, I, \\PN, fully embrace the fact that I will NEVER be anywhere remotely near as cool, stylish, popular, talented, good-looking, or likable as Fern.", "en": "Finally, I, \\PN, fully embrace the fact that I will NEVER be anywhere remotely near as cool, stylish, popular, talented, good-looking, or likable as Fern.", "ja": "「最後に、私、\\PNは、かっこよさでも、おしゃれさでも、人気でも、才能でも、見た目でも、好感度でも、ファーンには決して及ばないという事実を、心から受け入れます。」"}
+{"sec": "map:150", "key": "FERN: Hah! So desperate.", "en": "FERN: Hah! So desperate. ", "ja": "ファーン: はっ! 必死だな。"}
+{"sec": "map:150", "key": "Love it, man.", "en": "Love it, man.", "ja": "気に入ったぜ。"}
+{"sec": "map:150", "key": "No worries, I'll keep my end of the bargain.", "en": "No worries, I'll keep my end of the bargain. ", "ja": "安心しろ、約束は守ってやるよ。"}
+{"sec": "map:150", "key": "FERN: There you go.", "en": "FERN: There you go.", "ja": "ファーン: よし、これでいい。"}
+{"sec": "map:150", "key": "I'm not gonna save you twice, so stay out trouble. Got that, princess?", "en": "I'm not gonna save you twice, so stay out trouble.  Got that, princess?", "ja": "二度は助けねえからな、トラブルには近づくなよ。わかったか、お姫様?"}
+{"sec": "map:150", "key": "Later, loser!", "en": "Later, loser!", "ja": "じゃあな、負け犬!"}
+{"sec": "map:150", "key": "FERN: You're not gonna do it?", "en": "FERN: You're not gonna do it?", "ja": "ファーン: やらねえのか?"}
+{"sec": "map:150", "key": "Fine, suit yourself.", "en": "Fine, suit yourself. ", "ja": "ふん、勝手にしろ。"}
+{"sec": "map:150", "key": "Rot in there, for all I care!", "en": "Rot in there, for all I care!", "ja": "そこで朽ち果ててろ、知ったことか!"}
+{"sec": "map:150", "key": "CHATOT: Chat-chat-- 'Release \\PN!' ...Chatot!", "en": "CHATOT: Chat-chat-- 'Release \\PN!' ...Chatot!", "ja": "ペラップ: ペラッ、ペラッ――『\\PNを放して!』……ペラップ!"}
+{"sec": "map:150", "key": "???: Ugh, I'm so bored!", "en": "???: Ugh, I'm so bored!", "ja": "???: ああ、暇すぎる!"}
+{"sec": "map:150", "key": "METEOR: We've been here for god knows how long and there's STILL no sign of that stupid Gym Leader!", "en": "METEOR: We've been here for god knows how long and there's STILL no sign of that stupid Gym Leader!", "ja": "メテオ団員: もうどれだけここにいると思ってんだ、あのバカジムリーダー、まだ影も形もねえぞ!"}
+{"sec": "map:150", "key": "Don't we have better things to be doing than waiting around on the off chance someone shows up?", "en": "Don't we have better things to be doing than waiting around on the off chance someone shows up?", "ja": "誰か来るかもって待ちぼうけするより、もっとマシな仕事があるだろ?"}
+{"sec": "map:150", "key": "METEOR: Keep your voice down, or every schmuck from here to Carnelia will hear you.", "en": "METEOR: Keep your voice down, or every schmuck from here to Carnelia will hear you. ", "ja": "メテオ団員: 声を落とせ、じゃないとカルネリアまで聞こえちまうぞ。"}
+{"sec": "map:150", "key": "Just because she hasn't shown yet, doesn't mean she won't.", "en": "Just because she hasn't shown yet, doesn't mean she won't.", "ja": "まだ現れてないからって、来ないとは限らないだろ。"}
+{"sec": "map:150", "key": "METEOR: Besides, I overheard the commanders saying something about having lost the PULSE in Malchous too.", "en": "METEOR: Besides, I overheard the commanders saying something about having lost the PULSE in Malchous too.", "ja": "メテオ団員: それに、幹部たちがマルコウスのPULSEも失ったとかって話してるのを聞いたぞ。"}
+{"sec": "map:150", "key": "You can't blame them for wanting a little extra security around here.", "en": "You can't blame them for wanting a little extra security around here.", "ja": "こっちの警備を厚くしたがるのも無理ないさ。"}
+{"sec": "map:150", "key": "METEOR: I mean, I guess, but everyone knows Taka's incompetent anyway.", "en": "METEOR: I mean, I guess, but everyone knows Taka's incompetent anyway.", "ja": "メテオ団員: まあそうだけどよ、タカが無能なのはみんな知ってることだろ。"}
+{"sec": "map:150", "key": "Kid has the backbone of an Ekans.", "en": "Kid has the backbone of an Ekans.", "ja": "あいつの根性、アーボ並みだぜ。"}
+{"sec": "map:150", "key": "No, a Ditto!", "en": "No, a Ditto!", "ja": "いや、メタモンだな!"}
+{"sec": "map:150", "key": "METEOR: Shut up about it, yeah?", "en": "METEOR: Shut up about it, yeah?", "ja": "メテオ団員: その話はやめとけ、な?"}
+{"sec": "map:150", "key": "If the commander hears you talking like that, we'll ALL be in trouble.", "en": "If the commander hears you talking like that, we'll ALL be in trouble.", "ja": "幹部にそんな話聞かれたら、全員まとめてやばいことになるぞ。"}
+{"sec": "map:150", "key": "Just be quiet and keep an eye out for any interlopers.", "en": "Just be quiet and keep an eye out for any interlopers.", "ja": "黙って、侵入者がいないか見張ってろ。"}
+{"sec": "map:150", "key": "METEOR: Yeah, yeah, yeah, whatever...", "en": "METEOR: Yeah, yeah, yeah, whatever...", "ja": "メテオ団員: はいはい、わかったよ……"}
+{"sec": "map:150", "key": "METEOR: It's about time something interesting happened.", "en": "METEOR: It's about time something interesting happened.", "ja": "メテオ団員: そろそろ何か面白いことが起きてもいい頃だ。"}
+{"sec": "map:150", "key": "Emolga, come on out and use Flash!", "en": "Emolga, come on out and use Flash!", "ja": "エモンガ、出て「フラッシュ」を使え!"}
+{"sec": "map:150", "key": "METEOR: Quick, grab him while he's blinded!", "en": "METEOR: Quick, grab him while he's blinded!", "ja": "メテオ団員: 今だ、目がくらんでるうちに捕まえろ!"}
+{"sec": "map:150", "key": "METEOR: Just toss him into the Nuzleaf's territory with that other kid.", "en": "METEOR: Just toss him into the Nuzleaf's territory with that other kid.", "ja": "メテオ団員: あのもう一人のガキと一緒に、コノハナの縄張りにでも放り込んどけ。"}
+{"sec": "map:150", "key": "METEOR: Quick, grab her while she's blinded!", "en": "METEOR: Quick, grab her while she's blinded!", "ja": "メテオ団員: 今だ、目がくらんでるうちに捕まえろ!"}
+{"sec": "map:150", "key": "METEOR: Just toss her into the Nuzleaf's territory with that other kid.", "en": "METEOR: Just toss her into the Nuzleaf's territory with that other kid.", "ja": "メテオ団員: あのもう一人のガキと一緒に、コノハナの縄張りにでも放り込んどけ。"}
+{"sec": "map:150", "key": "METEOR: Quick, grab them while they're blinded!", "en": "METEOR: Quick, grab them while they're blinded!", "ja": "メテオ団員: 今だ、目がくらんでるうちに捕まえろ!"}
+{"sec": "map:150", "key": "METEOR: Just toss them into the Nuzleaf's territory with that other kid.", "en": "METEOR: Just toss them into the Nuzleaf's territory with that other kid.", "ja": "メテオ団員: あのもう一人のガキと一緒に、コノハナの縄張りにでも放り込んどけ。"}
+{"sec": "map:150", "key": "They'll lock 'em up quicker than we can anyway.", "en": "They'll lock 'em up quicker than we can anyway.", "ja": "どうせ、こっちより先にとっ捕まえちまうだろうよ。"}
+{"sec": "map:150", "key": "METEOR: Take a quick nap for me, okay?", "en": "METEOR: Take a quick nap for me, okay?", "ja": "メテオ団員: ちょっと寝ててくれよな。"}
+{"sec": "map:150", "key": "METEOR: What was that noise!?", "en": "METEOR: What was that noise!?", "ja": "メテオ団員: 何の音だ、今の?!"}
+{"sec": "map:150", "key": "METEOR: Hey, what are you doing here?!", "en": "METEOR: Hey, what are you doing here?!", "ja": "メテオ団員: おい、お前、ここで何してる?!"}
+{"sec": "map:150", "key": "METEOR: Oh, hi there!", "en": "METEOR: Oh, hi there!", "ja": "メテオ団員: おっと、こんにちは!"}
+{"sec": "map:150", "key": "\\PN obtained PULSE Read-out 05A!", "en": "\\PN obtained PULSE Read-out 05A!", "ja": "\\PNはPULSE解析データ05Aを手に入れた!"}
+{"sec": "map:150", "key": "PULSE Dex updated!", "en": "PULSE Dex updated!", "ja": "PULSE図鑑が更新された!"}
+{"sec": "map:150", "key": "Tropius seems to be taking in the sunlight.", "en": "Tropius seems to be taking in the sunlight.", "ja": "トロピウスが日光を浴びているようだ。"}
+{"sec": "map:150", "key": "...", "en": "...", "ja": "…………"}
+{"sec": "map:150", "key": "Do you want to take Tropius with you?", "en": "Do you want to take Tropius with you?", "ja": "トロピウスを連れていきますか?"}
+{"sec": "map:150", "key": "...Tropius challenges you!", "en": "...Tropius challenges you!", "ja": "……トロピウスが勝負を挑んできた!"}
+{"sec": "map:150", "key": "Tropius continues absorbing sunlight.", "en": "Tropius continues absorbing sunlight.", "ja": "トロピウスは日光を浴び続けている。"}
+{"sec": "map:150", "key": "...?!", "en": "...?!", "ja": "……!?"}
+{"sec": "map:150", "key": "The Ill-Fated Doll in \\PN's bag is reacting to the totem's energy!", "en": "The Ill-Fated Doll in \\PN's bag is reacting to the totem's energy!", "ja": "\\PNのバッグの中で、ふきつなにんぎょうがトーテムのエネルギーに反応している!"}
+{"sec": "map:150", "key": "SHIFTRY: Shiff...", "en": "SHIFTRY: Shiff...", "ja": "ダーテング: シフ……"}
+{"sec": "map:150", "key": "SHFITRY: ...TRY!!", "en": "SHFITRY: ...TRY!!", "ja": "ダーテング: ……テング!!"}
+{"sec": "map:150", "key": "Shift...try...", "en": "Shift...try...", "ja": "シフ……テング……"}
+{"sec": "map:150", "key": "SHIFTRY: Shif- Shiftry!", "en": "SHIFTRY: Shif- Shiftry!", "ja": "ダーテング: シフ……ダーテング!"}
+{"sec": "map:150", "key": "NUZLEAF: Nuz...", "en": "NUZLEAF: Nuz...", "ja": "コノハナ: コノ……"}
+{"sec": "map:150", "key": "Nuzleaf seems submissive.", "en": "Nuzleaf seems submissive.", "ja": "コノハナはおとなしくなっているようだ。"}
+{"sec": "map:150", "key": "Would you like to take Nuzleaf with you?", "en": "Would you like to take Nuzleaf with you?", "ja": "コノハナを連れていきますか?"}
+{"sec": "map:150", "key": "Nuzleaf seems submissive...", "en": "Nuzleaf seems submissive...", "ja": "コノハナはおとなしくなっている……"}
+{"sec": "map:150", "key": "\"CAUTION:", "en": "\"CAUTION:", "ja": "「注意:"}
+{"sec": "map:150", "key": "This is a protected area!", "en": "This is a protected area!", "ja": "ここは保護区域です!"}
+{"sec": "map:150", "key": "Watch out for traps and take care to avoid harming wildlife!\"", "en": "Watch out for traps and take care to avoid harming wildlife!\"", "ja": "わなにご注意のうえ、野生生物を傷つけないようお願いします!」"}
+{"sec": "map:150", "key": "CAIN: Oh, heyy there~", "en": "CAIN: Oh, heyy there~", "ja": "カイン: あ、やあ~"}
+{"sec": "map:150", "key": "Didn't expect you to be coming by.", "en": "Didn't expect you to be coming by.", "ja": "来てくれるとは思わなかったな。"}
+{"sec": "map:150", "key": "So...", "en": "So...", "ja": "それで……"}
+{"sec": "map:150", "key": "This is my place...", "en": "This is my place...", "ja": "ここが僕の住処ってわけさ……"}
+{"sec": "map:150", "key": "Make yourself at home~", "en": "Make yourself at home~", "ja": "くつろいでいってよ~"}
+{"sec": "map:150", "key": "CAIN: Nahh, just kidding.", "en": "CAIN: Nahh, just kidding.", "ja": "カイン: なーんて、冗談だよ。"}
+{"sec": "map:150", "key": "CAIN: I heard Victoria was still missing and came up here to help.", "en": "CAIN: I heard Victoria was still missing and came up here to help.", "ja": "カイン: ヴィクトリアがまだ行方不明だって聞いて、力になろうとここまで来たんだ。"}
+{"sec": "map:150", "key": "...And immediately got caught by some Meteor grunts and tossed in here.", "en": "...And immediately got caught by some Meteor grunts and tossed in here.", "ja": "……それで、すぐにメテオ団のしたっぱに捕まって、ここに放り込まれたってわけ。"}
+{"sec": "map:150", "key": "You too, huh?", "en": "You too, huh?", "ja": "君もかい?"}
+{"sec": "map:150", "key": "So how'd you get out?", "en": "So how'd you get out?", "ja": "それで、どうやって出たの?"}
+{"sec": "map:150", "key": "Huh, some other boy let you out?", "en": "Huh, some other boy let you out?", "ja": "へえ、他の男の子が出してくれたって?"}
+{"sec": "map:150", "key": "I didn't even see anyone.", "en": "I didn't even see anyone.", "ja": "誰も見かけなかったけどな。"}
+{"sec": "map:150", "key": "A Chatot let you out?", "en": "A Chatot let you out?", "ja": "ペラップが出してくれたって?"}
+{"sec": "map:150", "key": "Wild.", "en": "Wild.", "ja": "すごいね。"}
+{"sec": "map:150", "key": "Well, thanks for coming by and setting me free~", "en": "Well, thanks for coming by and setting me free~", "ja": "まあ、来てくれて、僕を出してくれてありがとう~"}
+{"sec": "map:150", "key": "I was beginning to wonder when a knight in shining armor would show up~", "en": "I was beginning to wonder when a knight in shining armor would show up~", "ja": "いつになったら白馬の騎士が現れるのかって、思い始めてたところさ~"}
+{"sec": "map:150", "key": "Better you than that Fern guy.", "en": "Better you than that Fern guy.", "ja": "あのファーンって奴よりは、君の方がずっとマシだよ。"}
+{"sec": "map:150", "key": "Better you than some bird.", "en": "Better you than some bird.", "ja": "鳥よりは、君の方がずっとマシだよ。"}
+{"sec": "map:150", "key": "No offense to the bird.", "en": "No offense to the bird.", "ja": "鳥に悪気はないけどね。"}
+{"sec": "map:150", "key": "Shall we~?", "en": "Shall we~?", "ja": "行こうか~?"}
+{"sec": "map:150", "key": "CAIN: Is...", "en": "CAIN: Is...", "ja": "カイン: これ……"}
+{"sec": "map:150", "key": "Is this thing broken?", "en": "Is this thing broken?", "ja": "壊れてるのかな、これ?"}
+{"sec": "map:150", "key": "CAIN: I think it's broken.", "en": "CAIN: I think it's broken.", "ja": "カイン: 壊れてると思うな。"}
+{"sec": "map:150", "key": "Let's try another one.", "en": "Let's try another one.", "ja": "別のを試してみよう。"}
+{"sec": "map:150", "key": "C'mon, give me a boost up here...", "en": "C'mon, give me a boost up here...", "ja": "ほら、ここ持ち上げるの手伝って……"}
+{"sec": "map:150", "key": "CAIN: Nice thrust~", "en": "CAIN: Nice thrust~", "ja": "カイン: いい押しっぷりだね~"}
+{"sec": "map:150", "key": "Okay, I've got this one!", "en": "Okay, I've got this one!", "ja": "よし、これはいける!"}
+{"sec": "map:150", "key": "CAIN: ...", "en": "CAIN: ...", "ja": "カイン: ……"}
+{"sec": "map:150", "key": "HEATHER: You have to pull all three of them at once.", "en": "HEATHER: You have to pull all three of them at once.", "ja": "ヘザー: 三つ同時に引かなきゃだめよ。"}
+{"sec": "map:150", "key": "The Nuzleaf made it that way so that only they could do it.", "en": "The Nuzleaf made it that way so that only they could do it.", "ja": "コノハナが、自分たちにしかできないように作ったのよ。"}
+{"sec": "map:150", "key": "CAIN: Oh, surprise! Hello up there!", "en": "CAIN: Oh, surprise! Hello up there!", "ja": "カイン: おっと、驚いた! やあ、上にいたのか!"}
+{"sec": "map:150", "key": "How do you know that?", "en": "How do you know that?", "ja": "どうしてそんなこと知ってるの?"}
+{"sec": "map:150", "key": "HEATHER: I mean, it's obvious, right?", "en": "HEATHER: I mean, it's obvious, right?", "ja": "ヘザー: だって、見ればわかるでしょ?"}
+{"sec": "map:150", "key": "Also, this place is kind of my backyard.", "en": "Also, this place is kind of my backyard.", "ja": "それに、ここってあたしの裏庭みたいなものだし。"}
+{"sec": "map:150", "key": "Anyway, hi again \\PN!", "en": "Anyway, hi again \\PN!", "ja": "それはそうと、また会ったわね\\PN!"}
+{"sec": "map:150", "key": "Why'd you go and let yourself get captured?", "en": "Why'd you go and let yourself get captured?", "ja": "なんでわざわざ捕まったりしたのよ?"}
+{"sec": "map:150", "key": "Just don't get caught, dummy.", "en": "Just don't get caught, dummy.", "ja": "捕まるんじゃないわよ、ばか。"}
+{"sec": "map:150", "key": "CAIN: You two know each other?", "en": "CAIN: You two know each other?", "ja": "カイン: 二人、知り合いなの?"}
+{"sec": "map:150", "key": "HEATHER: \\PN helped me beat up some bad guys in Malchous.", "en": "HEATHER: \\PN helped me beat up some bad guys in Malchous.", "ja": "ヘザー: マルコウスで悪者をやっつけるの、\\PNが手伝ってくれたのよ。"}
+{"sec": "map:150", "key": "He's kind of my sidekick.", "en": "He's kind of my sidekick.", "ja": "あたしの相棒みたいなもんよ。"}
+{"sec": "map:150", "key": "She's kind of my sidekick.", "en": "She's kind of my sidekick.", "ja": "あたしの相棒みたいなもんよ。"}
+{"sec": "map:150", "key": "They're kind of my sidekick.", "en": "They're kind of my sidekick.", "ja": "あたしの相棒みたいなもんよ。"}
+{"sec": "map:150", "key": "But then my stupid dad showed up and yelled at me some more and blah blah blah--", "en": "But then my stupid dad showed up and yelled at me some more and blah blah blah--", "ja": "でもそのあと、バカ父さんが出てきてまた怒鳴りだして、うんぬんかんぬん――"}
+{"sec": "map:150", "key": "So anyway, I ran out again.", "en": "So anyway, I ran out again.", "ja": "だから、また飛び出してきたってわけ。"}
+{"sec": "map:150", "key": "Now we're here. Hi!", "en": "Now we're here. Hi!", "ja": "それで、今ここにいるの。よろしく!"}
+{"sec": "map:150", "key": "CAIN: Running away from home is a pretty big leap...", "en": "CAIN: Running away from home is a pretty big leap...", "ja": "カイン: 家出はまた、思いきったことするね……"}
+{"sec": "map:150", "key": "HEATHER: Nah, I do it all the time.", "en": "HEATHER: Nah, I do it all the time.", "ja": "ヘザー: ううん、しょっちゅうやってることよ。"}
+{"sec": "map:150", "key": "I go back, eventually.", "en": "I go back, eventually.", "ja": "結局、戻るんだけどね。"}
+{"sec": "map:150", "key": "Usually I just go have a sleepover with my friend, Shelly.", "en": "Usually I just go have a sleepover with my friend, Shelly.", "ja": "だいたい、友達のシェリーの家にお泊まりに行くの。"}
+{"sec": "map:150", "key": "She has her own Gym down in Lapis, so sometimes we just have a surprise sleepover.", "en": "She has her own Gym down in Lapis, so sometimes we just have a surprise sleepover.", "ja": "シェリーはラピスに自分のジムを持ってて、たまに急にお泊まり会になるのよね。"}
+{"sec": "map:150", "key": "Anyway, it's good that you're here.", "en": "Anyway, it's good that you're here.", "ja": "とにかく、あんたがいてくれてよかったわ。"}
+{"sec": "map:150", "key": "Those guys in black are all over this place now.", "en": "Those guys in black are all over this place now.", "ja": "今、黒い服の連中がそこら中にいるのよ。"}
+{"sec": "map:150", "key": "You can be my backup for taking them on!", "en": "You can be my backup for taking them on!", "ja": "あんたはあたしのバックアップってことで、あいつらをやっつけるの手伝いなさいよ!"}
+{"sec": "map:150", "key": "Both of you can!", "en": "Both of you can!", "ja": "二人ともよ!"}
+{"sec": "map:150", "key": "CAIN: ...Not partners, just backup?", "en": "CAIN: ...Not partners, just backup?", "ja": "カイン: ……相棒じゃなくて、バックアップなんだ?"}
+{"sec": "map:150", "key": "HEATHER: Yeah, I can probably handle them myself-- so it's just in case!", "en": "HEATHER: Yeah, I can probably handle them myself-- so it's just in case!", "ja": "ヘザー: そうよ、あたし一人でもだいたい何とかなるし――念のためってやつ!"}
+{"sec": "map:150", "key": "But you can't be my backup if you're stuck in there, so let's get you out.", "en": "But you can't be my backup if you're stuck in there, so let's get you out.", "ja": "でも、そこに閉じ込められたままじゃバックアップになれないから、出してあげる。"}
+{"sec": "map:150", "key": "Everybody pull on the count of 3!", "en": "Everybody pull on the count of 3!", "ja": "3つ数えたら、みんなで引くわよ!"}
+{"sec": "map:150", "key": "HEATHER: One... Two... Three!", "en": "HEATHER: One... Two... Three!", "ja": "ヘザー: いち……にの……さん!"}
+{"sec": "map:150", "key": "HEATHER: Good job following basic instructions!", "en": "HEATHER: Good job following basic instructions!", "ja": "ヘザー: 簡単な指示にちゃんと従えて、えらいじゃない!"}
+{"sec": "map:150", "key": "Okay, I'm gonna go beat up the evil people now!", "en": "Okay, I'm gonna go beat up the evil people now!", "ja": "よし、じゃああたしは悪者をやっつけに行くわね!"}
+{"sec": "map:150", "key": "Come help eventually, okay?", "en": "Come help eventually, okay?", "ja": "そのうち、手伝いに来てよね?"}
+{"sec": "map:150", "key": "CAIN: Hold on, it's dangerous to go alone--", "en": "CAIN: Hold on, it's dangerous to go alone--", "ja": "カイン: 待って、一人で行くのは危ないよ――"}
+{"sec": "map:150", "key": "HEATHER: Salamence, it's take-off time!", "en": "HEATHER: Salamence, it's take-off time!", "ja": "ヘザー: ボーマンダ、飛び立つわよ!"}
+{"sec": "map:150", "key": "CAIN: ...Did...", "en": "CAIN: ...Did...", "ja": "カイン: ……今の……"}
+{"sec": "map:150", "key": "Did that little girl just fly off on an entire Salamence?", "en": "Did that little girl just fly off on an entire Salamence?", "ja": "あの小さな子、丸ごとボーマンダに乗って飛んでいったの?"}
+{"sec": "map:150", "key": "CAIN: ...Mm.", "en": "CAIN: ...Mm.", "ja": "カイン: ……うん。"}
+{"sec": "map:150", "key": "CAIN: It's nice of you to lie to me.", "en": "CAIN: It's nice of you to lie to me.", "ja": "カイン: 僕にうそをついてくれるなんて、優しいね。"}
+{"sec": "map:150", "key": "CAIN: I didn't see much of it as I was being dragged in, but I think this is a pretty big area.", "en": "CAIN: I didn't see much of it as I was being dragged in, but I think this is a pretty big area.", "ja": "カイン: 引きずり込まれたときはあんまり見えなかったけど、ここってかなり広いエリアみたいだね。"}
+{"sec": "map:150", "key": "If Victoria and Borealis really are here, we'll probably have more luck finding them if we split up.", "en": "If Victoria and Borealis really are here, we'll probably have more luck finding them if we split up.", "ja": "ヴィクトリアとボレアリスが本当にここにいるなら、手分けした方が見つけやすいと思う。"}
+{"sec": "map:150", "key": "Come to think of it, if that Fern guy was just here, and this was in the way of leaving now...", "en": "Come to think of it, if that Fern guy was just here, and this was in the way of leaving now...", "ja": "そういえば、さっきまでファーンがここにいて、これが出口を塞いでたなら……"}
+{"sec": "map:150", "key": "...Does that mean he flipped the barrier himself?", "en": "...Does that mean he flipped the barrier himself?", "ja": "……ってことは、彼がバリアを自分で切り替えたってこと?"}
+{"sec": "map:150", "key": "Well, whatever.", "en": "Well, whatever.", "ja": "まあ、いいか。"}
+{"sec": "map:150", "key": "Give a shout if you get into any trouble and I'll come running, okay?", "en": "Give a shout if you get into any trouble and I'll come running, okay?", "ja": "何か困ったら大声出してよ、すぐ駆けつけるからさ、いい?"}
+{"sec": "map:150", "key": "Consider this one Knight-in-Shining-Armor Coupon, redeemable at your local Cain~", "en": "Consider this one Knight-in-Shining-Armor Coupon, redeemable at your local Cain~", "ja": "これは「白馬の騎士クーポン」一枚だと思ってよ、お近くのカインでご利用いただけます~"}
+{"sec": "map:150", "key": "Ta!", "en": "Ta!", "ja": "じゃあね!"}
+{"sec": "map:150", "key": "???: What was that?", "en": "???: What was that?", "ja": "???: 今のは何だ?"}
+{"sec": "map:150", "key": "METEOR: Looks like it was just a live vine, Commander.", "en": "METEOR: Looks like it was just a live vine, Commander.", "ja": "メテオ団員: ただのつるが動いただけのようです、司令官。"}
+{"sec": "map:150", "key": "Nothing to worry about, I think.", "en": "Nothing to worry about, I think.", "ja": "心配ないかと。"}
+{"sec": "map:150", "key": "???: Very well.", "en": "???: Very well. ", "ja": "???: よかろう。"}
+{"sec": "map:150", "key": "I've received word from Sirius that our demonstration for North Obsidia is nearly complete.", "en": "I've received word from Sirius that our demonstration for North Obsidia is nearly complete.", "ja": "シリウスから、北オブシディア向けのデモンストレーションがほぼ完了したとの報告を受けた。"}
+{"sec": "map:150", "key": "Thus, it's high-time I left this farce behind and got on with our business.", "en": "Thus, it's high-time I left this farce behind and got on with our business.", "ja": "したがって、そろそろこの茶番に見切りをつけ、本来の仕事に取りかかるべきだろう。"}
+{"sec": "map:150", "key": "I will take the girl with me.", "en": "I will take the girl with me.", "ja": "あの娘は、私が連れていく。"}
+{"sec": "map:150", "key": "Whatever riff-raff or League Leader sticks their nose into our business, see to it that we do not lose this project as well.", "en": "Whatever riff-raff or League Leader sticks their nose into our business, see to it that we do not lose this project as well.", "ja": "下っ端だろうがリーグのリーダーだろうが、誰が首を突っ込んでこようと、この計画まで失うことのないようにしろ。"}
+{"sec": "map:150", "key": "???: Understood.", "en": "???: Understood.", "ja": "???: 了解しました。"}
+{"sec": "map:150", "key": "AMARIA: Hi again, \\PN.", "en": "AMARIA: Hi again, \\PN.", "ja": "アマリア: また会ったわね、\\PN。"}
+{"sec": "map:150", "key": "Keep it down; Team Meteor isn't far away.", "en": "Keep it down; Team Meteor isn't far away.", "ja": "静かにして、メテオ団はすぐ近くにいるから。"}
+{"sec": "map:150", "key": "I've been following Borealis' trail and he's definitely here too, but he's far from alone.", "en": "I've been following Borealis' trail and he's definitely here too, but he's far from alone.", "ja": "ボレアリスの足取りを追ってきたんだけど、彼は間違いなくここにいるわ。でも、一人じゃない。"}
+{"sec": "map:150", "key": "By my count, there's gotta be five or six of their leading officers up there...", "en": "By my count, there's gotta be five or six of their leading officers up there...", "ja": "数えたところ、上には幹部級が五、六人はいそうよ……"}
+{"sec": "map:150", "key": "Apparently someone shut down another one of their machines in Jasper Ward, so they're on ultra-high alert.", "en": "Apparently someone shut down another one of their machines in Jasper Ward, so they're on ultra-high alert. ", "ja": "どうやら、ジャスパーワードの機械もまた誰かに止められたみたいで、連中は今、極度に警戒してるの。"}
+{"sec": "map:150", "key": "...Huh, that was you?", "en": "...Huh, that was you?", "ja": "……あら、それってあなただったの?"}
+{"sec": "map:150", "key": "I'm impressed!", "en": "I'm impressed!", "ja": "やるじゃない!"}
+{"sec": "map:150", "key": "Though it certainly doesn't make our job here any easier.", "en": "Though it certainly doesn't make our job here any easier.", "ja": "もっとも、こっちの仕事が楽になるわけじゃないけど。"}
+{"sec": "map:150", "key": "I'll be out of sight, just waiting for an opening.", "en": "I'll be out of sight, just waiting for an opening.", "ja": "わたしは姿を隠して、隙を待つわ。"}
+{"sec": "map:150", "key": "The second their guard is down, we're gonna get Victoria back for sure.", "en": "The second their guard is down, we're gonna get Victoria back for sure.", "ja": "連中の警戒が緩んだ瞬間、必ずヴィクトリアを取り戻す。"}
+{"sec": "map:150", "key": "AMARIA: Their team is bigger than I thought...", "en": "AMARIA: Their team is bigger than I thought...", "ja": "アマリア: 思ってたより、大所帯ね……"}
+{"sec": "map:150", "key": "I don't know what kind of person can stand by and do nothing, let alone join a group like that...", "en": "I don't know what kind of person can stand by and do nothing, let alone join a group like that...", "ja": "あんな組織に加わるどころか、何もせず傍観できる人の気持ちなんて、わたしにはわからないわ……"}
+{"sec": "map:150", "key": "Personally, if I'm not out trying to make a difference or help someone, I barely know what to do with myself.", "en": "Personally, if I'm not out trying to make a difference or help someone, I barely know what to do with myself. ", "ja": "個人的には、何か力になろうとしたり、誰かを助けようとしたりしていないと、自分をどうしていいかわからなくなるの。"}
+{"sec": "map:150", "key": "Oh! How are you doing, by the way?", "en": "Oh! How are you doing, by the way?", "ja": "あ! ところで、調子はどう?"}
+{"sec": "map:150", "key": "Do you need me to heal your team?", "en": "Do you need me to heal your team?", "ja": "手持ちを回復させておく?"}
+{"sec": "map:150", "key": "AMARIA: No problem! We'll get you all patched up in no time!", "en": "AMARIA: No problem! We'll get you all patched up in no time!", "ja": "アマリア: 任せて! あっという間に全快させてあげるわ!"}
+{"sec": "map:150", "key": "AMARIA: You take care out there, okay?", "en": "AMARIA: You take care out there, okay?", "ja": "アマリア: 気をつけてね?"}
+{"sec": "map:150", "key": "AMARIA: Okay, take care out there!", "en": "AMARIA: Okay, take care out there!", "ja": "アマリア: よし、気をつけてね!"}
+{"sec": "map:150", "key": "FERN: ...You again, really?", "en": "FERN: ...You again, really?", "ja": "ファーン: ……マジかよ、またお前か?"}
+{"sec": "map:150", "key": "I mean, whatever, I guess.", "en": "I mean, whatever, I guess.", "ja": "まあ、いいけどよ。"}
+{"sec": "map:150", "key": "Good job sneaking past those Meteor grunts.", "en": "Good job sneaking past those Meteor grunts.", "ja": "メテオ団のしたっぱをかいくぐってきたのは、上出来だな。"}
+{"sec": "map:150", "key": "I heard they were in the area, so I took a break from sweeping scrubs to come up and show Team Meteor what's what again myself.", "en": "I heard they were in the area, so I took a break from sweeping scrubs to come up and show Team Meteor what's what again myself.", "ja": "こいつらがこの辺にいるって聞いてよ、雑魚掃除を一休みして、また自らメテオ団に思い知らせてやろうと来たのさ。"}
+{"sec": "map:150", "key": "And I mean, the scrubs were just the Gym Leaders, so it's good work.", "en": "And I mean, the scrubs were just the Gym Leaders, so it's good work.", "ja": "まあ、雑魚っつってもジムリーダー連中のことだから、いい仕事だったぜ。"}
+{"sec": "map:150", "key": "If I had realized Flobot and her batshit dormmate were such pushovers, I would've gotten started ages ago.", "en": "If I had realized Flobot and her batshit dormmate were such pushovers, I would've gotten started ages ago.", "ja": "フロボットとあのイカれた寮長がこんなに雑魚だって分かってりゃ、とっくの昔に始めてたのによ。"}
+{"sec": "map:150", "key": "Anyway, boldly assuming you're going to actually be competent, some backup wouldn't hurt here.", "en": "Anyway, boldly assuming you're going to actually be competent, some backup wouldn't hurt here.", "ja": "まあ、お前が今回は使えるって大胆に仮定するとして、バックアップがいても損はねえな。"}
+{"sec": "map:150", "key": "This way.", "en": "This way.", "ja": "こっちだ。"}
+{"sec": "map:150", "key": "FERN: There's a whole cabal of those goons up ahead.", "en": "FERN: There's a whole cabal of those goons up ahead.", "ja": "ファーン: この先に、あいつらの一味がわんさかいるぜ。"}
+{"sec": "map:150", "key": "But before we can even deal with them, there--", "en": "But before we can even deal with them, there--", "ja": "でも、そいつらを相手にする前に――"}
+{"sec": "map:150", "key": "Well, there WERE some vines in the way.", "en": "Well, there WERE some vines in the way.", "ja": "まあ、つるが邪魔してたんだけどな。"}
+{"sec": "map:150", "key": "I guess they're gone now.", "en": "I guess they're gone now.", "ja": "もうなくなったみたいだ。"}
+{"sec": "map:150", "key": "Nothing left to stop us from charging in, I guess.", "en": "Nothing left to stop us from charging in, I guess.", "ja": "これで突っ込むのを止めるものは、何もねえってわけだ。"}
+{"sec": "map:150", "key": "Ladies first, \\PN.", "en": "Ladies first, \\PN.", "ja": "レディファーストだぜ、\\PN。"}
+{"sec": "map:150", "key": "But before we can even deal with them, those vines are in the way.", "en": "But before we can even deal with them, those vines are in the way.", "ja": "でも、そいつらを相手にする前に、あのつるが邪魔なんだよな。"}
+{"sec": "map:150", "key": "You get rid of the vines while I keep look out.", "en": "You get rid of the vines while I keep look out.", "ja": "お前がつるを片づけてる間、オレ様が見張っててやる。"}
+{"sec": "map:150", "key": "Once they're out of the way, we can cut in there and take 'em down.", "en": "Once they're out of the way, we can cut in there and take 'em down.", "ja": "それが片づいたら、乗り込んでぶちのめしてやろうぜ。"}
+{"sec": "map:150", "key": "Sound fair?", "en": "Sound fair?", "ja": "文句ねえだろ?"}
+{"sec": "map:150", "key": "FERN: What's the matter? Scared?", "en": "FERN: What's the matter? Scared?", "ja": "ファーン: どうした? びびってんのか?"}
+{"sec": "map:150", "key": "C'mon, smile!", "en": "C'mon, smile!", "ja": "ほら、笑えって!"}
+{"sec": "map:150", "key": "Top dog Fern's got your six!", "en": "Top dog Fern's got your six!", "ja": "トップのファーン様が背後を守ってやるよ!"}
+{"sec": "map:150", "key": "I'll make sure nothing too bad happens to you.", "en": "I'll make sure nothing too bad happens to you.", "ja": "ひどい目には遭わせねえよ。"}
+{"sec": "map:150", "key": "Hold it right there!", "en": "Hold it right there!", "ja": "待ちなさい!"}
+{"sec": "map:150", "key": "Ugh, what are you trying to do?", "en": "Ugh, what are you trying to do?", "ja": "うう、いったい何がしたいんだ?"}
+{"sec": "map:150", "key": "For your own safety, I advise you not proceed.", "en": "For your own safety, I advise you not proceed.", "ja": "身の安全のためにも、進まないことを勧める。"}
+{"sec": "map:150", "key": "First that Gym Leader, now you!", "en": "First that Gym Leader, now you!", "ja": "まずあのジムリーダー、次はお前かよ!"}
+{"sec": "map:150", "key": "Tch, this just isn't our day...", "en": "Tch, this just isn't our day...", "ja": "ちっ、今日はついてないな……"}
+{"sec": "map:150", "key": "We'll persevere yet!", "en": "We'll persevere yet!", "ja": "それでもまだ、耐え抜いてみせる!"}
+{"sec": "map:150", "key": "Hey! Aren't you the one we dealt with before?!", "en": "Hey! Aren't you the one we dealt with before?!", "ja": "おい! 前にも相手にした奴じゃねえか?!"}
+{"sec": "map:150", "key": "Shoulda just blinded you and been done with it...", "en": "Shoulda just blinded you and been done with it...", "ja": "さっさと目をつぶしておけばよかったわ……"}
+{"sec": "map:150", "key": "Go on, get out of here already.", "en": "Go on, get out of here already.", "ja": "さっさと、どこかへ行きなさい。"}
+{"sec": "map:150", "key": "\"PULSE-05A\"", "en": "\"PULSE-05A\"", "ja": "「PULSE-05A」"}
+{"sec": "map:150", "key": "BOREALIS: You should not have come here.", "en": "BOREALIS: You should not have come here.", "ja": "ボレアリス: ここへ来るべきではなかったな。"}
+{"sec": "map:150", "key": "TAKA: It really is a shame...", "en": "TAKA: It really is a shame...", "ja": "タカ: 本当に、残念です……"}
+{"sec": "map:150", "key": "ACE: Ah, the audience has finally started to trickle in!", "en": "ACE: Ah, the audience has finally started to trickle in!", "ja": "エース: おお、観客がようやく集まり始めたようだね!"}
+{"sec": "map:150", "key": "zEl: I told you they would make their move eventually.", "en": "zEl: I told you they would make their move eventually.", "ja": "ゼル: いずれ動くって言っただろ。"}
+{"sec": "map:150", "key": "TAKA: So anyway, this is the Trainer that defeated the PULSE in Jasper.", "en": "TAKA: So anyway, this is the Trainer that defeated the PULSE in Jasper.", "ja": "タカ: それはそうと、この方がジャスパーのPULSEを倒したトレーナーです。"}
+{"sec": "map:150", "key": "I invited \\PN to come here so we could all deal with the problem properly.", "en": "I invited \\PN to come here so we could all deal with the problem properly.", "ja": "きちんと問題に対処できるよう、\\PNをここへ招待しました。"}
+{"sec": "map:150", "key": "Happy?", "en": "Happy?", "ja": "それで満足ですか?"}
+{"sec": "map:150", "key": "Zel: \\PN also took out the Obsidia PULSE!", "en": "Zel: \\PN also took out the Obsidia PULSE!", "ja": "ゼル: \\PNはオブシディアのPULSEも倒したんだ!"}
+{"sec": "map:150", "key": "BOREALIS: I am all too aware.", "en": "BOREALIS: I am all too aware.", "ja": "ボレアリス: よくわかっている。"}
+{"sec": "map:150", "key": "ACE: It is SO kind of you to volunteer for our act--", "en": "ACE: It is SO kind of you to volunteer for our act--", "ja": "エース: ボクたちの舞台に、自ら志願してくれるとは実に親切だね――"}
+{"sec": "map:150", "key": "But unfortunately, you are not our star performer!", "en": "But unfortunately, you are not our star performer!", "ja": "でも残念ながら、君は主役じゃないんだ!"}
+{"sec": "map:150", "key": "BOREALIS: That distinction goes to the clandestine girl clamoring about on our flank.", "en": "BOREALIS: That distinction goes to the clandestine girl clamoring about on our flank.", "ja": "ボレアリス: その栄誉は、我々の側面で騒いでいる隠れた娘のものだ。"}
+{"sec": "map:150", "key": "Come out and face us directly.", "en": "Come out and face us directly.", "ja": "出てきて、正面から向き合うがいい。"}
+{"sec": "map:150", "key": "AMARIA: So much for the element of surprise...", "en": "AMARIA: So much for the element of surprise...", "ja": "アマリア: 奇襲も、これで台無しね……"}
+{"sec": "map:150", "key": "BOREALIS: You kid yourself to assume you ever had it.", "en": "BOREALIS: You kid yourself to assume you ever had it.", "ja": "ボレアリス: それがあったなどと思い込むこと自体、思い上がりだ。"}
+{"sec": "map:150", "key": "Why else do you think we've been amassed here?", "en": "Why else do you think we've been amassed here?", "ja": "でなければ、なぜ我々がこうして集まっていると思う?"}
+{"sec": "map:150", "key": "ACE: If you were just going to get caught anyway, you might've saved us the time and shown up sooner!", "en": "ACE: If you were just going to get caught anyway, you might've saved us the time and shown up sooner!", "ja": "エース: どうせ捕まるつもりだったなら、もっと早く出てきてくれれば時間の節約になったのにね!"}
+{"sec": "map:150", "key": "CAIN: What's wrong with being fashionably late?", "en": "CAIN: What's wrong with being fashionably late?", "ja": "カイン: おしゃれに遅刻するのの、何が悪いのさ?"}
+{"sec": "map:150", "key": "FERN: She isn't alone, moron!", "en": "FERN: She isn't alone, moron!", "ja": "ファーン: 彼女は一人じゃねえぞ、間抜けが!"}
+{"sec": "map:150", "key": "CAIN: Is there room for one more?", "en": "CAIN: Is there room for one more?", "ja": "カイン: もう一人分、席は空いてる?"}
+{"sec": "map:150", "key": "Ame said something was going down up here, and I thought you all could use a hand~", "en": "Ame said something was going down up here, and I thought you all could use a hand~", "ja": "アメが、ここで何か起きてるって言うから、みんな手が要るんじゃないかと思ってさ~"}
+{"sec": "map:150", "key": "Let's go, Nidorino~", "en": "Let's go, Nidorino~", "ja": "行こう、ニドリーノ~"}
+{"sec": "map:150", "key": "FERN: If I don't help out, you'll probably just get smacked.", "en": "FERN: If I don't help out, you'll probably just get smacked.", "ja": "ファーン: オレ様が手伝わなきゃ、お前ら多分ぶちのめされるだけだろうしな。"}
+{"sec": "map:150", "key": "You can thank me later.", "en": "You can thank me later.", "ja": "礼は後でいいぜ。"}
+{"sec": "map:150", "key": "Dartrix, let's show them some style!", "en": "Dartrix, let's show them some style!", "ja": "フクスロー、スタイルってやつを見せてやろうぜ!"}
+{"sec": "map:150", "key": "TAKA: Looks like we're up again...", "en": "TAKA: Looks like we're up again...", "ja": "タカ: また私たちの出番のようですね……"}
+{"sec": "map:150", "key": "Zel: For all your brave talk, you're still far outnumbered!", "en": "Zel: For all your brave talk, you're still far outnumbered!", "ja": "ゼル: 威勢のいいこと言ったって、数じゃまだこっちが圧倒的だぞ!"}
+{"sec": "map:150", "key": "FERN: Maybe you should learn to count, moron.", "en": "FERN: Maybe you should learn to count, moron.", "ja": "ファーン: 数え方を覚えた方がいいんじゃねえか、間抜け。"}
+{"sec": "map:150", "key": "CAIN: You sure about that?", "en": "CAIN: You sure about that?", "ja": "カイン: それ、本気で言ってる?"}
+{"sec": "map:150", "key": "FERN: Told you I got your back, \\PN.", "en": "FERN: Told you I got your back, \\PN.", "ja": "ファーン: 背後は守るって言っただろ、\\PN。"}
+{"sec": "map:150", "key": "Let's wipe the floor with these losers!", "en": "Let's wipe the floor with these losers!", "ja": "こいつら、こてんぱんにしてやろうぜ!"}
+{"sec": "map:150", "key": "CAIN: I'll be taking that coupon now~", "en": "CAIN: I'll be taking that coupon now~", "ja": "カイン: あのクーポン、もらっておこうかな~"}
+{"sec": "map:150", "key": "AMARIA: We're not about to go down easily!", "en": "AMARIA: We're not about to go down easily!", "ja": "アマリア: 簡単にはやられないわよ!"}
+{"sec": "map:150", "key": "Tell us where you're keeping Victoria, and we can make this quick!", "en": "Tell us where you're keeping Victoria, and we can make this quick!", "ja": "ヴィクトリアをどこに閉じ込めてるか教えて、それで手早く済ませましょう!"}
+{"sec": "map:150", "key": "ACE: Ah, but it's the same show; second act!", "en": "ACE: Ah, but it's the same show; second act! ", "ja": "エース: ああ、でもそれは同じ公演の第二幕だよ!"}
+{"sec": "map:150", "key": "Had you been sooner, the story might have been different--", "en": "Had you been sooner, the story might have been different--", "ja": "もっと早ければ、物語も違っていたかもしれないけど――"}
+{"sec": "map:150", "key": "But the curtain's closed, the ship's sailed, and all those other alliterative expressions--", "en": "But the curtain's closed, the ship's sailed, and all those other alliterative expressions--", "ja": "でも幕はもう下りたし、船はもう出た、その他もろもろの言い回しの通りさ――"}
+{"sec": "map:150", "key": "Sorry, little Leader, but she's long gone!", "en": "Sorry, little Leader, but she's long gone!", "ja": "悪いね、小さなリーダーくん、彼女はとっくにいなくなったよ!"}
+{"sec": "map:150", "key": "BOREALIS: And like her, we cannot abide by you all simply strolling in here as you please.", "en": "BOREALIS: And like her, we cannot abide by you all simply strolling in here as you please.", "ja": "ボレアリス: そして彼女同様、お前たちが好き勝手にここへ入り込むことを、我々は容認できない。"}
+{"sec": "map:150", "key": "No matter your rank or numbers, you cannot hope to face us.", "en": "No matter your rank or numbers, you cannot hope to face us.", "ja": "どれほどの地位や人数だろうと、我々に立ち向かえるとは思わぬことだ。"}
+{"sec": "map:150", "key": "The only choice before you is to accept the situation you've allowed yourself to be trapped in, and capitulate.", "en": "The only choice before you is to accept the situation you've allowed yourself to be trapped in, and capitulate.", "ja": "お前たちに残された選択は、自ら陥ったこの状況を受け入れ、降伏することだけだ。"}
+{"sec": "map:150", "key": "AMARIA: As if we'd do something like that!", "en": "AMARIA: As if we'd do something like that!", "ja": "アマリア: そんなこと、するわけないでしょ!"}
+{"sec": "map:150", "key": "BOREALIS: Your heroism is mere vainglory.", "en": "BOREALIS: Your heroism is mere vainglory.", "ja": "ボレアリス: お前の英雄気取りなど、ただの虚栄にすぎん。"}
+{"sec": "map:150", "key": "Allow me to remind you of the futility of your reality.", "en": "Allow me to remind you of the futility of your reality.", "ja": "お前の現実がいかに空しいものか、思い知らせてやろう。"}
+{"sec": "map:150", "key": "AMARIA: ...Are you always this edgy?", "en": "AMARIA: ...Are you always this edgy?", "ja": "アマリア: ……いつもこんなとげとげした感じなの?"}
+{"sec": "map:150", "key": "Like, sure?", "en": "Like, sure?", "ja": "まあ、それはそうかもね?"}
+{"sec": "map:150", "key": "Everything is pointless, nothing brings true happiness, yadda yadda--", "en": "Everything is pointless, nothing brings true happiness, yadda yadda--", "ja": "何もかも無意味で、本当の幸せなんてどこにもない、うんぬんかんぬん――"}
+{"sec": "map:150", "key": "But at least some of us are out here trying, yeah?", "en": "But at least some of us are out here trying, yeah?", "ja": "でも、少なくともわたしたちはここで頑張ってるでしょ?"}
+{"sec": "map:150", "key": "BOREALIS: That luxury is a privilege not all share.", "en": "BOREALIS: That luxury is a privilege not all share.", "ja": "ボレアリス: その余裕は、誰もが持てるわけではない特権だ。"}
+{"sec": "map:150", "key": "But this cannot be resolved by words.", "en": "But this cannot be resolved by words.", "ja": "だが、これは言葉で解決できることではない。"}
+{"sec": "map:150", "key": "Crobat.", "en": "Crobat.", "ja": "クロバット。"}
+{"sec": "map:150", "key": "AMARIA: Help me out, Deliverance!", "en": "AMARIA: Help me out, Deliverance!", "ja": "アマリア: 力を貸して、デリバランス!"}
+{"sec": "map:150", "key": "HEATHER: Salamence!!!", "en": "HEATHER: Salamence!!!", "ja": "ヘザー: ボーマンダ!!!"}
+{"sec": "map:150", "key": "HEATHER: ...What? I thought we were all saying the names of our Pokémon.", "en": "HEATHER: ...What? I thought we were all saying the names of our Pokémon.", "ja": "ヘザー: ……何よ? みんなポケモンの名前を叫んでるものだと思ってたのに。"}
+{"sec": "map:150", "key": "BOREALIS: ...What are you doing here?", "en": "BOREALIS: ...What are you doing here?", "ja": "ボレアリス: ……なぜここにいる?"}
+{"sec": "map:150", "key": "HEATHER: Stopping you bad guys, duh!", "en": "HEATHER: Stopping you bad guys, duh!", "ja": "ヘザー: あんたたち悪者を止めるために決まってるでしょ!"}
+{"sec": "map:150", "key": "Now that I'm here, you're in for a world of hurt!", "en": "Now that I'm here, you're in for a world of hurt!", "ja": "あたしが来たからには、ひどい目に遭ってもらうわよ!"}
+{"sec": "map:150", "key": "Zel: Tch, this is getting bad...", "en": "Zel: Tch, this is getting bad...", "ja": "ゼル: ちっ、まずいことになってきたな……"}
+{"sec": "map:150", "key": "Just how many of them are there?!", "en": "Just how many of them are there?!", "ja": "一体何人いるんだよ?!"}
+{"sec": "map:150", "key": "Hey, private!", "en": "Hey, private!", "ja": "おい、二等兵!"}
+{"sec": "map:150", "key": "How long are you gonna stare stupid into the distance for!?", "en": "How long are you gonna stare stupid into the distance for!?", "ja": "いつまでボケっと突っ立ってるつもりだ!?"}
+{"sec": "map:150", "key": "Get over here and stall her or something!", "en": "Get over here and stall her or something!", "ja": "こっちに来て、あの子の足止めでもしろ!"}
+{"sec": "map:150", "key": "HEATHER: Don't underestimate me!", "en": "HEATHER: Don't underestimate me! ", "ja": "ヘザー: あたしを甘く見ないでよね!"}
+{"sec": "map:150", "key": "You'll be lucky if you can so much as stall!", "en": "You'll be lucky if you can so much as stall!", "ja": "足止めできるだけでも、上出来だと思うことね!"}
+{"sec": "map:150", "key": "ACE: Well, we've suddenly got quite the crowd, hm?", "en": "ACE: Well, we've suddenly got quite the crowd, hm?", "ja": "エース: おや、急ににぎやかになってきたね?"}
+{"sec": "map:150", "key": "I'll have to ask for your attention center stage!", "en": "I'll have to ask for your attention center stage!", "ja": "ここはひとつ、センターステージに注目してもらおうか!"}
+{"sec": "map:150", "key": "ACE: You and I can work our own magic trick here, little hero,", "en": "ACE: You and I can work our own magic trick here, little hero,", "ja": "エース: 君とボクとで、ここでひとつマジックを見せようじゃないか、小さな英雄くん。"}
+{"sec": "map:150", "key": "And the trick--", "en": "And the trick--", "ja": "そしてそのマジックとは――"}
+{"sec": "map:150", "key": "...Is that I make you disappear!", "en": "...Is that I make you disappear!", "ja": "……君を消してしまうことさ!"}
+{"sec": "map:150", "key": "...Ah, so that's the show?", "en": "...Ah, so that's the show?", "ja": "……ああ、そういう演目か。"}
+{"sec": "map:150", "key": "BOREALIS: HEATHER!", "en": "BOREALIS: HEATHER!", "ja": "ボレアリス: ヘザー!"}
+{"sec": "map:150", "key": "???: Subtle.", "en": "???: Subtle.", "ja": "???: 露骨だな。"}
+{"sec": "map:150", "key": "BOREALIS: Crobat, get her out of here!", "en": "BOREALIS: Crobat, get her out of here!", "ja": "ボレアリス: クロバット、あの子をここから連れ出せ!"}
+{"sec": "map:150", "key": "BOREALIS: Just what part of your orders included harming a young child?", "en": "BOREALIS: Just what part of your orders included harming a young child?", "ja": "ボレアリス: 幼い子供を傷つけろなどと、命令のどこに書いてあった?"}
+{"sec": "map:150", "key": "???: What part forbade it?", "en": "???: What part forbade it?", "ja": "???: では、禁じていた部分はどこにある?"}
+{"sec": "map:150", "key": "But if you wish to talk of orders, \"Borealis\", let us do so.", "en": "But if you wish to talk of orders, \"Borealis\", let us do so.", "ja": "だが、命令について語りたいというのなら、「ボレアリス」、望み通り語ろうじゃないか。"}
+{"sec": "map:150", "key": "What part of your orders bade you let an enemy escape?", "en": "What part of your orders bade you let an enemy escape?", "ja": "敵を逃がせと、貴様の命令のどこに書いてあった?"}
+{"sec": "map:150", "key": "BOREALIS: I've no need to explain myself to you.", "en": "BOREALIS: I've no need to explain myself to you.", "ja": "ボレアリス: 貴様に釈明する必要はない。"}
+{"sec": "map:150", "key": "ACE: Ah, but you will have to explain to the boss--", "en": "ACE: Ah, but you will have to explain to the boss--", "ja": "エース: ああ、でもボスには説明しないといけないだろうね――"}
+{"sec": "map:150", "key": "And even I'm not looking forward to hearing how that conversation would go.", "en": "And even I'm not looking forward to hearing how that conversation would go.", "ja": "ボクでさえ、その会話の行方を聞きたいとは思わないよ。"}
+{"sec": "map:150", "key": "One agent to another-- I must admit I'm confused as to your actions here.", "en": "One agent to another-- I must admit I'm confused as to your actions here.", "ja": "エージェント同士として言わせてもらうが――貴様の行動には、正直戸惑っている。"}
+{"sec": "map:150", "key": "It seems our other friends' battles have led them elsewhere.", "en": "It seems our other friends' battles have led them elsewhere.", "ja": "他の仲間たちは、戦いのせいでどこか別の場所にいるようだ。"}
+{"sec": "map:150", "key": "As your sole other witness in the group, it may do you some good to reveal your intentions before I get the wrong idea.", "en": "As your sole other witness in the group, it may do you some good to reveal your intentions before I get the wrong idea.", "ja": "この場に居合わせた唯一の他の証人として言うが、私が誤解する前に、その意図を明かしておいた方が身のためだろう。"}
+{"sec": "map:150", "key": "???: The wrong idea is the right one.", "en": "???: The wrong idea is the right one.", "ja": "???: その誤解こそが、正しい。"}
+{"sec": "map:150", "key": "He is responsible for the failure here.", "en": "He is responsible for the failure here.", "ja": "この失敗の責任は、彼にある。"}
+{"sec": "map:150", "key": "ACE: You're awfully quick to turn on one of our own.", "en": "ACE: You're awfully quick to turn on one of our own.", "ja": "エース: 仲間に対して、ずいぶんと手のひらを返すのが早いね。"}
+{"sec": "map:150", "key": "???: Should dogs not starve when they bite the hand that feeds?", "en": "???: Should dogs not starve when they bite the hand that feeds?", "ja": "???: 飼い主の手をかむ犬が、飢えずに済むと思うか?"}
+{"sec": "map:150", "key": "This is the natural consequence for insubordination.", "en": "This is the natural consequence for insubordination.", "ja": "これは、命令違反の当然の結果だ。"}
+{"sec": "map:150", "key": "AMARIA: Go!", "en": "AMARIA: Go! ", "ja": "アマリア: 行って!"}
+{"sec": "map:150", "key": "\\PN, and Borealis, too--", "en": "\\PN, and Borealis, too-- ", "ja": "\\PN、それとボレアリスも――"}
+{"sec": "map:150", "key": "Get out of here!", "en": "Get out of here!", "ja": "ここから逃げて!"}
+{"sec": "map:150", "key": "I'll deal with her!", "en": "I'll deal with her!", "ja": "あの女はわたしが引き受けるわ!"}
+{"sec": "map:150", "key": "BOREALIS: Tch.", "en": "BOREALIS: Tch.", "ja": "ボレアリス: チッ。"}
+{"sec": "map:150", "key": "Your naive and foolhardy sense of justice extends even to your enemies?", "en": "Your naive and foolhardy sense of justice extends even to your enemies?", "ja": "その甘く向こう見ずな正義感は、敵にまで及ぶというのか?"}
+{"sec": "map:150", "key": "AMARIA: I prefer to think of it as compassion.", "en": "AMARIA: I prefer to think of it as compassion.", "ja": "アマリア: それは、思いやりって呼びたいわね。"}
+{"sec": "map:150", "key": "Get going already!", "en": "Get going already!", "ja": "さっさと行って!"}
+{"sec": "map:150", "key": "BOREALIS: Fine!", "en": "BOREALIS: Fine!", "ja": "ボレアリス: いいだろう!"}
+{"sec": "map:150", "key": "SHELLY: I wonder if there's someone who could help you get a Zygarde like that...", "en": "SHELLY: I wonder if there's someone who could help you get a Zygarde like that...", "ja": "シェリー: そんなふうにジガルデを手に入れる手助けをしてくれる人、いないかな……"}
+{"sec": "map:150", "key": "Hmm...", "en": "Hmm...", "ja": "うーん……"}
+{"sec": "map:150", "key": "Maybe I need to do some more reading.", "en": "Maybe I need to do some more reading.", "ja": "もっと調べないとだめかも。"}
+{"sec": "map:150", "key": "NOEL: I don't know what I'm doing here.", "en": "NOEL: I don't know what I'm doing here.", "ja": "ノエル: 自分がここで何をしているのか、わかりません。"}
+{"sec": "map:150", "key": "Lumi asked me to come, but I don't understand the point.", "en": "Lumi asked me to come, but I don't understand the point.", "ja": "ルミに来てって頼まれましたが、意味がよくわからなくて。"}
+{"sec": "map:150", "key": "Even if you eat outdoors, the food isn't better, right?", "en": "Even if you eat outdoors, the food isn't better, right?", "ja": "外で食べたって、食べ物がおいしくなるわけじゃないですよね?"}
+{"sec": "map:150", "key": "It just attracts bugs.", "en": "It just attracts bugs.", "ja": "虫が寄ってくるだけです。"}
+{"sec": "map:150", "key": "NOEL: If you don't want to go get the pickup order, I can be a delivery boy instead.", "en": "NOEL: If you don't want to go get the pickup order, I can be a delivery boy instead.", "ja": "ノエル: 受け取りに行きたくないなら、僕が配達係になりますよ。"}
+{"sec": "map:150", "key": "LUMI: \\PN, you came!", "en": "LUMI: \\PN, you came!", "ja": "ルミ: \\PN、来てくれたんだ!"}
+{"sec": "map:150", "key": "I was hoping you'd get our message!", "en": "I was hoping you'd get our message!", "ja": "メッセージ、届いてるといいなって思ってたの!"}
+{"sec": "map:150", "key": "Laura was the one who suggested we all have a tea party picnic!", "en": "Laura was the one who suggested we all have a tea party picnic!", "ja": "ティーパーティー・ピクニックをしようって言い出したのは、ローラなんだよ!"}
+{"sec": "map:150", "key": "And she was gonna come too, but then something came up with her sisters--", "en": "And she was gonna come too, but then something came up with her sisters--", "ja": "ローラも来るはずだったんだけど、姉妹たちのことで何かあったみたいで――"}
+{"sec": "map:150", "key": "So we had some spare food, and we thought, \"\\PN's helped us all with a lot, so why not?!\"", "en": "So we had some spare food, and we thought, \"\\PN's helped us all with a lot, so why not?!\"", "ja": "それで食べ物が余ったから、「\\PNにはいつもお世話になってるし、いいよね!」って思ったの!"}
+{"sec": "map:150", "key": "This can also be our small way of saying thanks for helping with all the stuff before!", "en": "This can also be our small way of saying thanks for helping with all the stuff before!", "ja": "前に色々手伝ってもらったお礼の、ちょっとした気持ちでもあるんだ!"}
+{"sec": "map:150", "key": "...Hm, I can't help but feel like we're forgetting something though...", "en": "...Hm, I can't help but feel like we're forgetting something though...", "ja": "……うーん、何か忘れてるような気がするんだけど……"}
+{"sec": "map:150", "key": "LUMI: WAIT!", "en": "LUMI: WAIT!", "ja": "ルミ: あっ、待って!"}
+{"sec": "map:150", "key": "I figured out what we forgot!", "en": "I figured out what we forgot!", "ja": "何を忘れてたか、わかった!"}
+{"sec": "map:150", "key": "Laura put in a special order to The Spyce just for our picnic and I totally forgot to pick it up when we were heading out from the Nightclub!", "en": "Laura put in a special order to The Spyce just for our picnic and I totally forgot to pick it up when we were heading out from the Nightclub!", "ja": "ローラが、うちらのピクニックのためにザ・スパイスへ特別注文を入れてくれてたのに、ナイトクラブを出るとき、受け取るの完全に忘れてた!"}
+{"sec": "map:150", "key": "\\PN, I'm so sorry for the fetch quest, but can you go pick it up for us?", "en": "\\PN, I'm so sorry for the fetch quest, but can you go pick it up for us?", "ja": "\\PN、お使いさせちゃってごめんね、代わりに受け取りに行ってくれる?"}
+{"sec": "map:150", "key": "Just say Laura's name and the clerk at The Spyce should get it for you!", "en": "Just say Laura's name and the clerk at The Spyce should get it for you!", "ja": "ローラの名前を言えば、ザ・スパイスの店員さんが渡してくれるはずだよ!"}
+{"sec": "map:150", "key": "LUMI: Laura put in a special order to The Spyce just for our picnic and I totally forgot to pick it up when we were heading out from the Nightclub!", "en": "LUMI: Laura put in a special order to The Spyce just for our picnic and I totally forgot to pick it up when we were heading out from the Nightclub!", "ja": "ルミ: ローラが、うちらのピクニックのためにザ・スパイスへ特別注文を入れてくれてたのに、ナイトクラブを出るとき、受け取るの完全に忘れてた!"}
+{"sec": "map:150", "key": "LUMI: \\PN, you're back just in time!", "en": "LUMI: \\PN, you're back just in time!", "ja": "ルミ: \\PN、ちょうどいいところに戻ってきた!"}
+{"sec": "map:150", "key": "Just as soon as you left, this weird aura started affecting the area!", "en": "Just as soon as you left, this weird aura started affecting the area!", "ja": "あなたが出かけてすぐ、この辺りに変なオーラが影響を及ぼし始めたの!"}
+{"sec": "map:150", "key": "Shelly thought she noticed some Pokémon burrowing away, so she went to try and find a way underground and see what they were running from,", "en": "Shelly thought she noticed some Pokémon burrowing away, so she went to try and find a way underground and see what they were running from,", "ja": "シェリーが、ポケモンたちが地面に潜って逃げていくのに気づいたみたいで、何から逃げてるのか確かめようって、地下への道を探しに行ったの。"}
+{"sec": "map:150", "key": "And the source of the aura seemed to be centered on the tree, so Heather flew up to see if anything was at the top,", "en": "And the source of the aura seemed to be centered on the tree, so Heather flew up to see if anything was at the top,", "ja": "それで、オーラの発生源は木の辺りみたいだったから、ヘザーが頂上に何かないか確かめに飛んでいって、"}
+{"sec": "map:150", "key": "And then all of a sudden that New World Door appeared.", "en": "And then all of a sudden that New World Door appeared.", "ja": "そしたら急に、あの新世界の扉が現れたの。"}
+{"sec": "map:150", "key": "But why here?!", "en": "But why here?!", "ja": "でもなんでここに?!"}
+{"sec": "map:150", "key": "Why now?!", "en": "Why now?!", "ja": "なんで今?!"}
+{"sec": "map:150", "key": "We were supposed to be having a nice time!", "en": "We were supposed to be having a nice time!", "ja": "楽しい時間を過ごすはずだったのに!"}
+{"sec": "map:150", "key": "One of my friends taught me a word that is VERY good for situations like these!", "en": "One of my friends taught me a word that is VERY good for situations like these!", "ja": "こういうときにぴったりな言葉を、友達が教えてくれたんだけどね!"}
+{"sec": "map:150", "key": "But I will not say it!!!", "en": "But I will not say it!!!", "ja": "でも、口には出さないから!!!"}
+{"sec": "map:150", "key": "YET.", "en": "YET.", "ja": "まだね。"}
+{"sec": "map:150", "key": "Anyway, the two are obviously connected, so Noel and Eve went inside to go check it out.", "en": "Anyway, the two are obviously connected, so Noel and Eve went inside to go check it out.", "ja": "とにかく、この二つは絶対つながってるから、ノエルとイヴが中に確かめに行ったの。"}
+{"sec": "map:150", "key": "HEATHER: Update-- there's some kind of weird barrier all around parts of the top of the tree!", "en": "HEATHER: Update-- there's some kind of weird barrier all around parts of the top of the tree!", "ja": "ヘザー: 報告――木の頂上のあちこちに、変なバリアみたいなのが張られてるわ!"}
+{"sec": "map:150", "key": "So obviously, I'm gonna try to break through it!", "en": "So obviously, I'm gonna try to break through it!", "ja": "だから当然、突破してみるつもりよ!"}
+{"sec": "map:150", "key": "Back in a bit!", "en": "Back in a bit!", "ja": "すぐ戻るわね!"}
+{"sec": "map:150", "key": "LUMI: That sounds like a bad idea!", "en": "LUMI: That sounds like a bad idea!", "ja": "ルミ: それ、絶対よくない考えだよ!"}
+{"sec": "map:150", "key": "Good luck!", "en": "Good luck!", "ja": "がんばって!"}
+{"sec": "map:150", "key": "LUMI: Well anyway, if you ask me, this whole thing is very rude and unfair, and I would like to have a word with whoever is responsible!", "en": "LUMI: Well anyway, if you ask me, this whole thing is very rude and unfair, and I would like to have a word with whoever is responsible!", "ja": "ルミ: とにかく、これって本当に失礼で理不尽だと思うし、責任者には一言言ってやりたいくらいだよ!"}
+{"sec": "map:150", "key": "LUMI: I told the others I'd stay out here to make sure things didn't get any worse,", "en": "LUMI: I told the others I'd stay out here to make sure things didn't get any worse,", "ja": "ルミ: これ以上悪くならないように、ここに残っておくってみんなに言ったの。"}
+{"sec": "map:150", "key": "But it might be worth checking on Shelly underground, or following the others inside!", "en": "But it might be worth checking on Shelly underground, or following the others inside!", "ja": "でも、地下のシェリーの様子を見に行くか、中に入ったみんなを追いかけた方がいいかもね!"}
+{"sec": "map:150", "key": "I'm glad we ended up inviting you...", "en": "I'm glad we ended up inviting you...", "ja": "あなたを誘ってよかった……"}
+{"sec": "map:150", "key": "After all, there's no better person to resolve this!", "en": "After all, there's no better person to resolve this!", "ja": "だって、これを解決するのにこれ以上の人はいないもの!"}
+{"sec": "map:150", "key": "LUMI: As soon as you get a 100% Zygarde, bring it here!", "en": "LUMI: As soon as you get a 100% Zygarde, bring it here!", "ja": "ルミ: 100%フォルムのジガルデを手に入れたら、すぐここに持ってきて!"}
+{"sec": "map:150", "key": "We'll use it to bust down the door and save Noel!", "en": "We'll use it to bust down the door and save Noel!", "ja": "それを使って扉を打ち破って、ノエルを助けるの!"}
+{"sec": "map:150", "key": "He deserves better than to be trapped up there!", "en": "He deserves better than to be trapped up there!", "ja": "あんなところに閉じ込められたままなんて、あの子にふさわしくないわ!"}
+{"sec": "map:150", "key": "...Even if he did kind of do it to himself this time...", "en": "...Even if he did kind of do it to himself this time...", "ja": "……今回はまあ、自業自得なところもあるんだけど……"}
+{"sec": "map:150", "key": "LUMI: Did you bring the 100% Zygarde?!", "en": "LUMI: Did you bring the 100% Zygarde?!", "ja": "ルミ: 100%フォルムのジガルデ、持ってきた?!"}
+{"sec": "map:150", "key": "Bring it to Shelly in the Underroot!", "en": "Bring it to Shelly in the Underroot!", "ja": "アンダールートにいるシェリーのところに持っていって!"}
+{"sec": "map:150", "key": "She said she had an idea of how to use it to break through the barrier and save Noel!", "en": "She said she had an idea of how to use it to break through the barrier and save Noel!", "ja": "バリアを突破してノエルを助ける方法、思いついたって言ってたよ!"}
+{"sec": "map:150", "key": "LUMI: You really did it!", "en": "LUMI: You really did it! ", "ja": "ルミ: 本当にやったんだね!"}
+{"sec": "map:150", "key": "Now there's nothing standing in our way from rescuing Noel properly!", "en": "Now there's nothing standing in our way from rescuing Noel properly!", "ja": "これで、ちゃんとノエルを助けるのを邪魔するものは何もないわ!"}
+{"sec": "map:150", "key": "I'm here if you need me, \\PN!", "en": "I'm here if you need me, \\PN!", "ja": "何かあったらここにいるからね、\\PN!"}
+{"sec": "map:150", "key": "EVE: Oh, you made it.", "en": "EVE: Oh, you made it.", "ja": "イヴ: あら、来たのね。"}
+{"sec": "map:150", "key": "That's good; Lumi will be happy.", "en": "That's good; Lumi will be happy.", "ja": "よかったわ、ルミも喜ぶでしょう。"}
+{"sec": "map:150", "key": "She's been doing better lately,", "en": "She's been doing better lately,", "ja": "あの子、最近は調子がいいの、"}
+{"sec": "map:150", "key": "In every way imaginable.", "en": "In every way imaginable.", "ja": "考えられるあらゆる意味で。"}
+{"sec": "map:150", "key": "Even some ways I hadn't imagined possible.", "en": "Even some ways I hadn't imagined possible.", "ja": "わたしが想像もしなかったような意味でもね。"}
+{"sec": "map:150", "key": "I've been thinking, perhaps I've been selfish.", "en": "I've been thinking, perhaps I've been selfish.", "ja": "わたし、自分が身勝手だったんじゃないかって考えてたの。"}
+{"sec": "map:150", "key": "I should have worked with her from the very beginning.", "en": "I should have worked with her from the very beginning.", "ja": "最初から、あの子と一緒にやるべきだったのね。"}
+{"sec": "map:150", "key": "She may be younger, but she is still my sister, and every bit as capable as I am.", "en": "She may be younger, but she is still my sister, and every bit as capable as I am.", "ja": "あの子は妹だけど、わたしと同じくらいちゃんとできる子なのよ。"}
+{"sec": "map:150", "key": "In some ways, maybe even more.", "en": "In some ways, maybe even more.", "ja": "ある意味では、わたしより上かもしれないくらい。"}
+{"sec": "map:150", "key": "Perhaps I held her back this whole time by taking the burden for myself.", "en": "Perhaps I held her back this whole time by taking the burden for myself.", "ja": "重荷をひとりで抱え込んで、ずっとあの子の足を引っ張ってたのかもしれないわ。"}
+{"sec": "map:150", "key": "But there's no use in worrying about all that for now.", "en": "But there's no use in worrying about all that for now.", "ja": "でも、今それを気にしても仕方ないわね。"}
+{"sec": "map:150", "key": "I think the best thing to do for now is simply to find a cozy spot and enjoy the air.", "en": "I think the best thing to do for now is simply to find a cozy spot and enjoy the air.", "ja": "今のところは、居心地のいい場所を見つけて、空気を楽しむのが一番だと思うの。"}
+{"sec": "map:150", "key": "EVE: Laura seemed pretty excited about the order, but personally I don't see what the fuss is all about...", "en": "EVE: Laura seemed pretty excited about the order, but personally I don't see what the fuss is all about...", "ja": "イヴ: ローラはあの注文にずいぶん張り切ってたみたいだけど、わたしには何がそんなに騒ぐことなのか、正直わからないの……"}
+{"sec": "map:150", "key": "EVE: Personally, I'm not sold on the plan.", "en": "EVE: Personally, I'm not sold on the plan.", "ja": "イヴ: 個人的には、その計画には乗り気じゃないわ。"}
+{"sec": "map:150", "key": "However, I don't exactly have a better idea.", "en": "However, I don't exactly have a better idea.", "ja": "とはいえ、これといった代案もないし。"}
+{"sec": "map:150", "key": "I'll keep researching.", "en": "I'll keep researching.", "ja": "引き続き調べておくわ。"}
+{"sec": "map:150", "key": "If I find out anything of use, you'll hear about it.", "en": "If I find out anything of use, you'll hear about it.", "ja": "何か役に立ちそうなことがわかったら、知らせるわね。"}
+{"sec": "map:150", "key": "EVE: Heather has been circling the tree looking for another way in nearly nonstop since she brought you down...", "en": "EVE: Heather has been circling the tree looking for another way in nearly nonstop since she brought you down...", "ja": "イヴ: あなたをここに連れてきてから、ヘザーはほとんどずっと、別の入り口を探して木の周りをぐるぐる回ってるわ……"}
+{"sec": "map:150", "key": "It's a good thing we brought food with us, or I'd be worried for her health.", "en": "It's a good thing we brought food with us, or I'd be worried for her health.", "ja": "食べ物を持ってきておいてよかった、じゃなきゃあの子の体が心配だもの。"}
+{"sec": "map:150", "key": "EVE: It seems Shelly's theory was correct?", "en": "EVE: It seems Shelly's theory was correct?", "ja": "イヴ: シェリーの理論、正しかったみたいね?"}
+{"sec": "map:150", "key": "I'm relieved, though I can't say I understand the mechanics on any kind of technical level...", "en": "I'm relieved, though I can't say I understand the mechanics on any kind of technical level...", "ja": "ほっとしたわ、仕組みの技術的な部分は全然理解できてないけど……"}
+{"sec": "map:150", "key": "Then again, I suppose I should know better by now than to expect everything to have a perfect, technical explanation anyway.", "en": "Then again, I suppose I should know better by now than to expect everything to have a perfect, technical explanation anyway.", "ja": "まあ、何もかもに完璧な技術的説明を求めるものじゃないって、そろそろわかっていてもいい頃よね。"}
+{"sec": "map:150", "key": "It seems people always surprise me.", "en": "It seems people always surprise me.", "ja": "人って、いつもわたしを驚かせてくれるものなのね。"}
+{"sec": "map:150", "key": "It's nice.", "en": "It's nice.", "ja": "それって、いいことだわ。"}
+{"sec": "map:150", "key": "SHELLY: Hi, \\PN!", "en": "SHELLY: Hi, \\PN!", "ja": "シェリー: やあ、\\PN!"}
+{"sec": "map:150", "key": "I'm glad you came!", "en": "I'm glad you came!", "ja": "来てくれてうれしい!"}
+{"sec": "map:150", "key": "Just in time, too! It took forever to find a good spot!", "en": "Just in time, too! It took forever to find a good spot!", "ja": "ちょうどいいタイミングだったよ! いい場所見つけるの、すごく時間かかっちゃって!"}
+{"sec": "map:150", "key": "We're just getting set up now, but-- just give me a bit and I'll get a plate for you, too!", "en": "We're just getting set up now, but-- just give me a bit and I'll get a plate for you, too!", "ja": "今準備してるところなんだけど――ちょっと待ってて、あなたの分のお皿も用意するから!"}
+{"sec": "map:150", "key": "SHELLY: Wait, yeah, we totally can't start eating until we get the drinks!", "en": "SHELLY: Wait, yeah, we totally can't start eating until we get the drinks!", "ja": "シェリー: あ、そうだ、飲み物が来るまでは食べ始められないよね!"}
+{"sec": "map:150", "key": "Like-- like that's just how drinks work, right?", "en": "Like-- like that's just how drinks work, right?", "ja": "ほら――飲み物ってそういうものでしょ?"}
+{"sec": "map:150", "key": "Laura said it was a surprise anyhow!", "en": "Laura said it was a surprise anyhow!", "ja": "どっちにしろ、ローラがサプライズだって言ってたし!"}
+{"sec": "map:150", "key": "HEATHER: Hi, \\PN!", "en": "HEATHER: Hi, \\PN!", "ja": "ヘザー: やあ、\\PN!"}
+{"sec": "map:150", "key": "Nice to see another familiar face.", "en": "Nice to see another familiar face.", "ja": "また見知った顔に会えてうれしいわ。"}
+{"sec": "map:150", "key": "Laura invited us all here, and I was like, \"Okay, I'll come to your picnic,", "en": "Laura invited us all here, and I was like, \"Okay, I'll come to your picnic,", "ja": "ローラがみんなをここに招待してくれて、あたしは「わかった、ピクニック行くわ、"}
+{"sec": "map:150", "key": "BUT,", "en": "BUT,", "ja": "でも」"}
+{"sec": "map:150", "key": "You have to battle me!\"", "en": "You have to battle me!\"", "ja": "「あんたはあたしとバトルしなきゃだめよ!」って言ったの!"}
+{"sec": "map:150", "key": "We were gonna see who the stronger Elite Four member was!", "en": "We were gonna see who the stronger Elite Four member was!", "ja": "どっちが強い四天王か、決着つけようとしてたのよ!"}
+{"sec": "map:150", "key": "(And it was gonna be ME, cuz I have the type advantage and that's definitely not cheating!)", "en": "(And it was gonna be ME, cuz I have the type advantage and that's definitely not cheating!)", "ja": "(それであたしが勝つはずだったの、タイプ相性が有利だからで、それは絶対ズルじゃないから!)"}
+{"sec": "map:150", "key": "But then she couldn't even make it!", "en": "But then she couldn't even make it!", "ja": "でも結局、あの子来られなかったのよね!"}
+{"sec": "map:150", "key": "So now this is kind of a bummer.", "en": "So now this is kind of a bummer.", "ja": "だから、ちょっとがっかりなの。"}
+{"sec": "map:150", "key": "I mean, food and picnics are nice and all, but where's the fun stuff?!", "en": "I mean, food and picnics are nice and all, but where's the fun stuff?!", "ja": "食べ物とかピクニックとかいいけど、楽しいことはどこにあるのよ?!"}
+{"sec": "map:150", "key": "I'd challenge you to a rematch here and now, but I don't wanna mess up the picnic blanket now.", "en": "I'd challenge you to a rematch here and now, but I don't wanna mess up the picnic blanket now.", "ja": "今すぐ再戦を挑みたいところだけど、ピクニックシートを台無しにしたくないもの。"}
+{"sec": "map:150", "key": "I just wish something exciting would happen!", "en": "I just wish something exciting would happen!", "ja": "何か面白いことが起きないかなぁ!"}
+{"sec": "map:150", "key": "HEATHER: But after this, you're gonna run through Charous again, right?", "en": "HEATHER: But after this, you're gonna run through Charous again, right?", "ja": "ヘザー: でもこの後、またシャルースを走り回るんでしょ?"}
+{"sec": "map:150", "key": "I'm always down to take you on!", "en": "I'm always down to take you on!", "ja": "いつでも相手になってあげるわよ!"}
+{"sec": "map:150", "key": "HEATHER: Okay, I'm going back for Noel!", "en": "HEATHER: Okay, I'm going back for Noel!", "ja": "ヘザー: よし、ノエルを助けに戻るわね!"}
+{"sec": "map:150", "key": "Fixtheproblemokaythanksbye!", "en": "Fixtheproblemokaythanksbye!", "ja": "問題解決オッケーありがとねバイバイ!"}
+{"sec": "map:150", "key": "LUMI: Wait, what was that? Where's Noel?", "en": "LUMI: Wait, what was that? Where's Noel?", "ja": "ルミ: え、今のなに? ノエルは?"}
+{"sec": "map:150", "key": "He stayed at the top?!", "en": "He stayed at the top?!", "ja": "上に残ったままなの?!"}
+{"sec": "map:150", "key": "What is he thinking?!", "en": "What is he thinking?!", "ja": "一体何を考えてるのよ?!"}
+{"sec": "map:150", "key": "EVE: Trying to rescue him on foot is likely a waste.", "en": "EVE: Trying to rescue him on foot is likely a waste. ", "ja": "イヴ: 徒歩で助けに行くのは、多分無駄足になるわ。"}
+{"sec": "map:150", "key": "A barrier has appeared at the entrance of the tree as well, so we can't even get in anymore.", "en": "A barrier has appeared at the entrance of the tree as well, so we can't even get in anymore.", "ja": "木の入り口にもバリアが現れて、もう中に入ることすらできないの。"}
+{"sec": "map:150", "key": "Whatever that is, it's spreading and fortifying itself quickly.", "en": "Whatever that is, it's spreading and fortifying itself quickly.", "ja": "あれが何であれ、急速に広がって、強固になっているわ。"}
+{"sec": "map:150", "key": "LUMI: So what do we do?", "en": "LUMI: So what do we do?", "ja": "ルミ: じゃあ、どうすればいいの?"}
+{"sec": "map:150", "key": "We can't just wait here!", "en": "We can't just wait here!", "ja": "ここでただ待ってるわけにはいかないよ!"}
+{"sec": "map:150", "key": "SHELLY: Um--", "en": "SHELLY: Um--", "ja": "シェリー: あの――"}
+{"sec": "map:150", "key": "Um, I have an idea actually?", "en": "Um, I have an idea actually?", "ja": "あの、実はアイデアがあるんだけど?"}
+{"sec": "map:150", "key": "LUMI: Tell us, tell us!", "en": "LUMI: Tell us, tell us!", "ja": "ルミ: 教えて、教えて!"}
+{"sec": "map:150", "key": "SHELLY: Well, there's an Yveltal, right?", "en": "SHELLY: Well, there's an Yveltal, right?", "ja": "シェリー: ええと、イベルタルがいるでしょ?"}
+{"sec": "map:150", "key": "And when I was at the roots of the tree, there were all these Z-Cells...", "en": "And when I was at the roots of the tree, there were all these Z-Cells...", "ja": "それで、木の根元にいたとき、Zセルがたくさんあったの……"}
+{"sec": "map:150", "key": "...And doesn't the barrier kind of look like them too?", "en": "...And doesn't the barrier kind of look like them too?", "ja": "……それで、バリアもなんだかそれに似てない?"}
+{"sec": "map:150", "key": "EVE: Where are you going with this?", "en": "EVE: Where are you going with this?", "ja": "イヴ: それで、何が言いたいの?"}
+{"sec": "map:150", "key": "SHELLY: I don't really know-- but I remembered reading about an old myth,", "en": "SHELLY: I don't really know-- but I remembered reading about an old myth,", "ja": "シェリー: よくわからないんだけど――昔の神話を読んだのを思い出して、"}
+{"sec": "map:150", "key": "About a giant tree, an Yveltal, and a snake gnawing at its roots...", "en": "About a giant tree, an Yveltal, and a snake gnawing at its roots...", "ja": "巨大な木と、イベルタルと、その根をかじる蛇の話……"}
+{"sec": "map:150", "key": "Um, what I'm saying is--", "en": "Um, what I'm saying is--", "ja": "ええと、つまり言いたいのは――"}
+{"sec": "map:150", "key": "What if we used a Zygarde?", "en": "What if we used a Zygarde?", "ja": "ジガルデを使ったらどうかなって?"}
+{"sec": "map:150", "key": "In the myth, I think the snake attacked the bird--", "en": "In the myth, I think the snake attacked the bird--", "ja": "神話では、蛇が鳥を攻撃したんだと思うの――"}
+{"sec": "map:150", "key": "So maybe a snake like Zygarde could deliver an attack that would break through the barriers once and for all!", "en": "So maybe a snake like Zygarde could deliver an attack that would break through the barriers once and for all!", "ja": "だから、ジガルデみたいな蛇なら、バリアを一気に打ち破る攻撃ができるかもしれない!"}
+{"sec": "map:150", "key": "EVE: An interesting theory.", "en": "EVE: An interesting theory.", "ja": "イヴ: 興味深い説ね。"}
+{"sec": "map:150", "key": "I don't know if there's any use in putting stock in myths, but...", "en": "I don't know if there's any use in putting stock in myths, but...", "ja": "神話を当てにすることに意味があるかはわからないけれど……"}
+{"sec": "map:150", "key": "Zygarde's Core Enforcer attack is known to eliminate special properties of its target.", "en": "Zygarde's Core Enforcer attack is known to eliminate special properties of its target.", "ja": "ジガルデの「コアエンフォーサー」は、相手の特殊な性質を打ち消すことで知られているわ。"}
+{"sec": "map:150", "key": "If we could get our hands on a 100% Zygarde, I think it's reasonable to assume it would be able to break through.", "en": "If we could get our hands on a 100% Zygarde, I think it's reasonable to assume it would be able to break through.", "ja": "100%フォルムのジガルデが手に入れば、突破できると考えるのは理にかなっていると思うの。"}
+{"sec": "map:150", "key": "LUMI: But how in the world would we do that?", "en": "LUMI: But how in the world would we do that?", "ja": "ルミ: でも、一体どうやってそんなの手に入れるの?"}
+{"sec": "map:150", "key": "I saw \\PN collecting cells, but that would take a whole 100!", "en": "I saw \\PN collecting cells, but that would take a whole 100!", "ja": "\\PNがセルを集めてるのは見たけど、100個も要るんでしょ!"}
+{"sec": "map:150", "key": "EVE: It's possible to collect cells.", "en": "EVE: It's possible to collect cells.", "ja": "イヴ: セルを集めることは可能よ。"}
+{"sec": "map:150", "key": "I believe that Smeargle who helps around the Nightclub mentioned seeing a Gather Cube somewhere in Chrysolia.", "en": "I believe that Smeargle who helps around the Nightclub mentioned seeing a Gather Cube somewhere in Chrysolia.", "ja": "ナイトクラブを手伝ってるあのドーブルが、クリソリアのどこかでギャザーキューブを見たって言ってたはずだわ。"}
+{"sec": "map:150", "key": "Then it's just a matter of collecting them one by one.", "en": "Then it's just a matter of collecting them one by one.", "ja": "あとは、それを一つずつ集めるだけよ。"}
+{"sec": "map:150", "key": "LUMI: But a whole 100 of them!?", "en": "LUMI: But a whole 100 of them!?", "ja": "ルミ: でも、まるまる100個も?!"}
+{"sec": "map:150", "key": "We'll never get that many in time!", "en": "We'll never get that many in time!", "ja": "間に合うように、そんなに集められないよ!"}
+{"sec": "map:150", "key": "SHELLY: Maybe, since all these Pokémon are spawning from the New World, one will just appear?", "en": "SHELLY: Maybe, since all these Pokémon are spawning from the New World, one will just appear?", "ja": "シェリー: もしかして、みんな新世界から出てきてるみたいだから、ひとりでに現れたりしないかな?"}
+{"sec": "map:150", "key": "EVE: That would be too convenient.", "en": "EVE: That would be too convenient.", "ja": "イヴ: それはあまりにも都合が良すぎるわ。"}
+{"sec": "map:150", "key": "LUMI: But it's not impossible!", "en": "LUMI: But it's not impossible!", "ja": "ルミ: でも、あり得ないことじゃないでしょ!"}
+{"sec": "map:150", "key": "A lot of too-convenient things have happened lately, haven't they?", "en": "A lot of too-convenient things have happened lately, haven't they?", "ja": "最近、都合が良すぎることばっかり起きてるじゃない?"}
+{"sec": "map:150", "key": "EVE: ...I certainly can't deny that.", "en": "EVE: ...I certainly can't deny that.", "ja": "イヴ: ……それは、確かに否定できないわね。"}
+{"sec": "map:150", "key": "SHELLY: We'll keep doing what we can here, but \\PN, you should keep gathering Z-Cells and chasing down Anomalies!", "en": "SHELLY: We'll keep doing what we can here, but \\PN, you should keep gathering Z-Cells and chasing down Anomalies!", "ja": "シェリー: わたしたちはここでできることを続けるから、\\PNはZセルを集めながらアノマリーを追い続けて!"}
+{"sec": "map:150", "key": "As soon as you get a 100% Zygarde, bring it here right away!", "en": "As soon as you get a 100% Zygarde, bring it here right away!", "ja": "100%フォルムのジガルデが手に入ったら、すぐここに持ってきて!"}
+{"sec": "map:150", "key": "We'll make sure we save Noel no matter what!", "en": "We'll make sure we save Noel no matter what!", "ja": "何としてでも、ノエルを助けてみせるから!"}
+{"sec": "map:150", "key": "LUMI: That's the plan then!", "en": "LUMI: That's the plan then!", "ja": "ルミ: それじゃ、これで決まりね!"}
+{"sec": "map:150", "key": "I know it seems daunting, but if anyone can do it, it's you, \\PN!", "en": "I know it seems daunting, but if anyone can do it, it's you, \\PN!", "ja": "大変そうに見えるけど、あなたにならできるはずだよ、\\PN!"}
+{"sec": "map:150", "key": "HEATHER: Want a ride to the top?", "en": "HEATHER: Want a ride to the top?", "ja": "ヘザー: 頂上まで乗せていこうか?"}
+{"sec": "map:150", "key": "HEATHER: So you finally did it, huh?", "en": "HEATHER: So you finally did it, huh?", "ja": "ヘザー: ついにやったのね?"}
+{"sec": "map:150", "key": "I suppose that's to be expected from someone who beat me.", "en": "I suppose that's to be expected from someone who beat me.", "ja": "まあ、あたしを負かした奴なら、当然か。"}
+{"sec": "map:150", "key": "The barrier had entirely enclosed the top before and it wasn't flinching no matter what I did to it!", "en": "The barrier had entirely enclosed the top before and it wasn't flinching no matter what I did to it!", "ja": "さっきまで、頂上はすっかりバリアに包まれてて、何しても全然びくともしなかったのに!"}
+{"sec": "map:150", "key": "But just a bit ago, it cracked like an egg!", "en": "But just a bit ago, it cracked like an egg!", "ja": "でもさっき、タマゴみたいにひび割れたわ!"}
+{"sec": "map:150", "key": "Much less messy than one too!", "en": "Much less messy than one too!", "ja": "それに、タマゴよりずっと汚くなかったし!"}
+{"sec": "map:150", "key": "Anyway, I didn't see Noel anymore when I was up there, so I'm a little concerned...", "en": "Anyway, I didn't see Noel anymore when I was up there, so I'm a little concerned... ", "ja": "それはそうと、上にいたときノエルの姿が見えなかったから、ちょっと心配なの……"}
+{"sec": "map:150", "key": "Want a ride to the top?", "en": "Want a ride to the top?", "ja": "頂上まで乗せていこうか?"}
+{"sec": "map:150", "key": "HEATHER: You got it!", "en": "HEATHER: You got it!", "ja": "ヘザー: 了解!"}
+{"sec": "map:150", "key": "Hop on and hang tight; you know what time it is!", "en": "Hop on and hang tight; you know what time it is!", "ja": "乗って、しっかりつかまってて。あれの時間よ!"}
+{"sec": "map:150", "key": "HEATHER: Suit yourself. It's your sore legs.", "en": "HEATHER: Suit yourself. It's your sore legs.", "ja": "ヘザー: 好きにすれば。あんたの足が痛くなるだけよ。"}
+{"sec": "map:150", "key": "friend!!!!!!!", "en": "friend!!!!!!!", "ja": "トモダチ!!!!!!!"}
+{"sec": "map:150", "key": "LIN: This is a Gym Leader?", "en": "LIN: This is a Gym Leader?", "ja": "リン: これがジムリーダーですの?"}
+{"sec": "map:150", "key": "This is the best that can be expected?", "en": "This is the best that can be expected?", "ja": "これが精一杯だと言うのですか?"}
+{"sec": "map:150", "key": "AMARIA: I-- I don't understand...", "en": "AMARIA: I-- I don't understand...", "ja": "アマリア: わ、わからない……"}
+{"sec": "map:150", "key": "LIN: You don't understand.", "en": "LIN: You don't understand.", "ja": "リン: わからない、と。"}
+{"sec": "map:150", "key": "AMARIA: How was it over so quickly...?", "en": "AMARIA: How was it over so quickly...?", "ja": "アマリア: どうしてこんなにあっという間に……?"}
+{"sec": "map:150", "key": "LIN: What is there to question?", "en": "LIN: What is there to question?", "ja": "リン: 何を疑う必要がありますの?"}
+{"sec": "map:150", "key": "You are weak.", "en": "You are weak.", "ja": "あなたは弱い。"}
+{"sec": "map:150", "key": "That is all.", "en": "That is all.", "ja": "それだけのことですわ。"}
+{"sec": "map:150", "key": "AMARIA: No, I--", "en": "AMARIA: No, I--", "ja": "アマリア: 違う、わたし――"}
+{"sec": "map:150", "key": "LIN: You are powerless.", "en": "LIN: You are powerless.", "ja": "リン: あなたには、力がない。"}
+{"sec": "map:150", "key": "LIN: Surrender the bracelets.", "en": "LIN: Surrender the bracelets.", "ja": "リン: ブレスレットを差し出しなさい。"}
+{"sec": "map:150", "key": "AMARIA: Wait-- what?", "en": "AMARIA: Wait-- what?", "ja": "アマリア: 待って――何?"}
+{"sec": "map:150", "key": "ACE: Ah, I was wondering about those.", "en": "ACE: Ah, I was wondering about those.", "ja": "エース: ああ、それについては気になっていたんだ。"}
+{"sec": "map:150", "key": "AMARIA: These were-- a gift.", "en": "AMARIA: These were-- a gift.", "ja": "アマリア: これは――贈り物なの。"}
+{"sec": "map:150", "key": "I won't just give them to you--", "en": "I won't just give them to you--", "ja": "あなたなんかに、渡すもんですか――"}
+{"sec": "map:150", "key": "LIN: You will give them up willingly.", "en": "LIN: You will give them up willingly.", "ja": "リン: 自ら差し出すことになりますわ。"}
+{"sec": "map:150", "key": "There is no other option.", "en": "There is no other option.", "ja": "それ以外の選択肢はありません。"}
+{"sec": "map:150", "key": "AMARIA: S-stop it--", "en": "AMARIA: S-stop it--", "ja": "アマリア: や、やめて――"}
+{"sec": "map:150", "key": "ACE: That's enough.", "en": "ACE: That's enough.", "ja": "エース: もうやめだ。"}
+{"sec": "map:150", "key": "LIN: ...", "en": "LIN: ...", "ja": "リン: ……"}
+{"sec": "map:150", "key": "Just moments ago, you chastised another for protecting an enemy.", "en": "Just moments ago, you chastised another for protecting an enemy.", "ja": "つい先ほど、敵をかばった者をとがめたばかりですのに。"}
+{"sec": "map:150", "key": "Are a few stray seconds all it takes to break your spirit?", "en": "Are a few stray seconds all it takes to break your spirit?", "ja": "ほんの数秒で、その決意は折れてしまいますの?"}
+{"sec": "map:150", "key": "ACE: I expect loyalty to the family,", "en": "ACE: I expect loyalty to the family, ", "ja": "エース: ボクが求めるのは、家族への忠誠であって、"}
+{"sec": "map:150", "key": "Not needless cruelty.", "en": "Not needless cruelty.", "ja": "無用な残酷さではない。"}
+{"sec": "map:150", "key": "You've taken it too far already.", "en": "You've taken it too far already.", "ja": "もう、やりすぎだ。"}
+{"sec": "map:150", "key": "For now we capture her WITHOUT harming her.", "en": "For now we capture her WITHOUT harming her.", "ja": "今は、彼女を傷つけずに捕らえる。"}
+{"sec": "map:150", "key": "As your superior, that's an order.", "en": "As your superior, that's an order.", "ja": "上官として、これは命令だ。"}
+{"sec": "map:150", "key": "LIN: ...Understood.", "en": "LIN: ...Understood.", "ja": "リン: ……承知しました。"}
+{"sec": "map:150", "key": "As the superior officer, that order...", "en": "As the superior officer, that order...", "ja": "上官としてのその命令は……"}
+{"sec": "map:150", "key": "...Will be your last.", "en": "...Will be your last.", "ja": "……あなたにとって最後のものになりますわ。"}
+{"sec": "map:150", "key": "Out exploring, are we?", "en": "Out exploring, are we?", "ja": "探検してるところかな?"}
+{"sec": "map:150", "key": "I see you can take care of yourself well enough.", "en": "I see you can take care of yourself well enough.", "ja": "ちゃんと自分の身は自分で守れるようだな。"}
+{"sec": "map:150", "key": "Mind the Nuzleaf's Pitfalls. They can be quite annoying.", "en": "Mind the Nuzleaf's Pitfalls. They can be quite annoying.", "ja": "コノハナの落とし穴には気をつけろ。かなり厄介だからな。"}
+{"sec": "map:150", "key": "I'm all for welfare; I'd rather give them money than have them rob me.", "en": "I'm all for welfare; I'd rather give them money than have them rob me.", "ja": "福祉には賛成さ。奪われるくらいなら、金をくれてやった方がマシだからな。"}
+{"sec": "map:150", "key": "I don't really care if people are fulfilling themselves or not.", "en": "I don't really care if people are fulfilling themselves or not.", "ja": "人が自己実現してるかどうかなんて、俺には興味ないね。"}
+{"sec": "map:150", "key": "I'd turn 'em all into grist and build a castle out of it if I could, but I don't have the machine.", "en": "I'd turn 'em all into grist and build a castle out of it if I could, but I don't have the machine.", "ja": "できるならあいつら全員すりつぶして、それで城でも建てたいところだが、あいにくその機械がないんでな。"}
+{"sec": "map:150", "key": "Yes", "en": "Yes", "ja": "はい"}
+{"sec": "map:150", "key": "No", "en": "No", "ja": "いいえ"}

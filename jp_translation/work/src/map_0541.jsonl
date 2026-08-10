@@ -1,0 +1,19 @@
+{"sec": "map:541", "key": "It's a vending machine.\\nWhich drink would you like? \\G", "en": "It's a vending machine.\\nWhich drink would you like? \\G", "ja": "自動販売機だ。\\nどの飲み物にする? \\G"}
+{"sec": "map:541", "key": "\\GA Fresh Water dropped down!", "en": "\\GA Fresh Water dropped down!", "ja": "\\Gおいしいみずが落ちてきた!"}
+{"sec": "map:541", "key": "\\GBonus! Another Fresh Water dropped down.", "en": "\\GBonus! Another Fresh Water dropped down.", "ja": "\\Gボーナス! もう一本おいしいみずが落ちてきた。"}
+{"sec": "map:541", "key": "\\GYou have no room left in the bag.", "en": "\\GYou have no room left in the bag.", "ja": "\\Gバッグに空きがない。"}
+{"sec": "map:541", "key": "\\GYou don't have enough money.", "en": "\\GYou don't have enough money.", "ja": "\\Gお金が足りない。"}
+{"sec": "map:541", "key": "\\GA Soda Pop dropped down!", "en": "\\GA Soda Pop dropped down!", "ja": "\\Gサイコソーダが落ちてきた!"}
+{"sec": "map:541", "key": "\\GBonus! Another Soda Pop dropped down.", "en": "\\GBonus! Another Soda Pop dropped down.", "ja": "\\Gボーナス! もう一本サイコソーダが落ちてきた。"}
+{"sec": "map:541", "key": "\\GA Lemonade dropped down!", "en": "\\GA Lemonade dropped down!", "ja": "\\Gミックスオレが落ちてきた!"}
+{"sec": "map:541", "key": "\\GBonus! Another Lemonade dropped down.", "en": "\\GBonus! Another Lemonade dropped down.", "ja": "\\Gボーナス! もう一本ミックスオレが落ちてきた。"}
+{"sec": "map:541", "key": "Would you like to purchase a ticket? \\ch[321,-1,Grandview Station,Ivyline Station,Sunset Station,Heatherhill Station,Peony Station,Kingsbury Station,Shantyport Station]", "en": "Would you like to purchase a ticket? \\ch[321,-1,Grandview Station,Ivyline Station,Sunset Station,Heatherhill Station,Peony Station,Kingsbury Station,Shantyport Station]", "ja": "きっぷをお求めですか? \\ch[321,-1,グランドビュー駅,アイビーライン駅,サンセット駅,ヘザーヒル駅,ピオニー駅,キングスベリー駅,シャンティポート駅]"}
+{"sec": "map:541", "key": "It's always, always work now.", "en": "It's always, always work now.", "ja": "今はもう、いつも仕事、仕事。"}
+{"sec": "map:541", "key": "I don't want to go home. It's cold there.", "en": "I don't want to go home. It's cold there.", "ja": "家には帰りたくない。あそこは冷たいから。"}
+{"sec": "map:541", "key": "My wife is beyond displeased about my new hours, but she really isn't making me want to be there even when I'm off.", "en": "My wife is beyond displeased about my new hours, but she really isn't making me want to be there even when I'm off.", "ja": "妻は勤務時間が変わったことにかなり腹を立ててるけど、休みの日でさえ家にいたいと思わせてくれないんだよな。"}
+{"sec": "map:541", "key": "Hey, cutie. You got a boyfriend?", "en": "Hey, cutie. You got a boyfriend?", "ja": "よお、かわいこちゃん。彼氏はいるのか?"}
+{"sec": "map:541", "key": "What are you lookin' at?", "en": "What are you lookin' at?", "ja": "何見てんだよ?"}
+{"sec": "map:541", "key": "Fresh Water - $200", "en": "Fresh Water - $200", "ja": "おいしいみず - $200"}
+{"sec": "map:541", "key": "Soda Pop - $300", "en": "Soda Pop - $300", "ja": "サイコソーダ - $300"}
+{"sec": "map:541", "key": "Lemonade - $350", "en": "Lemonade - $350", "ja": "ミックスオレ - $350"}
+{"sec": "map:541", "key": "Cancel", "en": "Cancel", "ja": "キャンセル"}

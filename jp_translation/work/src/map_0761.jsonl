@@ -1,0 +1,74 @@
+{"sec": "map:761", "key": "ANNA: Hi, \\PN!", "en": "ANNA: Hi, \\PN!", "ja": "アンナ: あ、\\PN!"}
+{"sec": "map:761", "key": "And hello, train!", "en": "And hello, train!", "ja": "それと、列車さんこんにちは!"}
+{"sec": "map:761", "key": "I bet this'll do! I'll go get the others, okay?", "en": "I bet this'll do! I'll go get the others, okay?", "ja": "これでいけると思う! みんなを呼んでくるね!"}
+{"sec": "map:761", "key": "ANNA: Well? What do you think? Can we use it?", "en": "ANNA: Well? What do you think? Can we use it?", "ja": "アンナ: どう? これ、使えそう?"}
+{"sec": "map:761", "key": "CHARLOTTE: What, you think I know anything about this stuff?", "en": "CHARLOTTE: What, you think I know anything about this stuff?", "ja": "シャルロット: は? あたしがこういうのに詳しいとでも思ってんの?"}
+{"sec": "map:761", "key": "Good one.", "en": "Good one.", "ja": "冗談キツいって。"}
+{"sec": "map:761", "key": "But we sure can try.", "en": "But we sure can try.", "ja": "でも、やってみる価値はあるか。"}
+{"sec": "map:761", "key": "How hard can it be?", "en": "How hard can it be?", "ja": "どうせ大したことないでしょ。"}
+{"sec": "map:761", "key": "NOEL: This isn't close to the exit.", "en": "NOEL: This isn't close to the exit.", "ja": "ノエル: 出口には近くないですね。"}
+{"sec": "map:761", "key": "CHARLOTTE: Nope, but as long as the track is intact, all I really need to do is find the thing that makes it go forward and hope on all our lives it works.", "en": "CHARLOTTE: Nope, but as long as the track is intact, all I really need to do is find the thing that makes it go forward and hope on all our lives it works.", "ja": "シャルロット: そうね、でもレールさえ無事なら、前に進ませるものを見つけて、命がけで動くように祈るだけよ。"}
+{"sec": "map:761", "key": "CAIN: And how about them brakes?", "en": "CAIN: And how about them brakes?", "ja": "カイン: で、ブレーキのほうはどうすんの?"}
+{"sec": "map:761", "key": "CHARLOTTE: Who needs those?", "en": "CHARLOTTE: Who needs those?", "ja": "シャルロット: そんなもの誰が要るのよ?"}
+{"sec": "map:761", "key": "ANNA: So our first job has to be making sure the tracks connect, right?", "en": "ANNA: So our first job has to be making sure the tracks connect, right?", "ja": "アンナ: じゃあ最初にやることは、レールがちゃんとつながってるか確認することだね?"}
+{"sec": "map:761", "key": "SHELLY: I did see a lot of switches out there...", "en": "SHELLY: I did see a lot of switches out there...", "ja": "シェリー: 外にたくさん分岐器があったのを見ました……"}
+{"sec": "map:761", "key": "NOEL: Only twelve.", "en": "NOEL: Only twelve.", "ja": "ノエル: 十二個だけです。"}
+{"sec": "map:761", "key": "CAIN: Plus some of the rails are all broken up, right?", "en": "CAIN: Plus some of the rails are all broken up, right?", "ja": "カイン: それに、レールの一部は壊れてるんだろ?"}
+{"sec": "map:761", "key": "NOEL: That's advantageous.", "en": "NOEL: That's advantageous.", "ja": "ノエル: それは好都合ですね。"}
+{"sec": "map:761", "key": "SHELLY: Um... H-how so?", "en": "SHELLY: Um... H-how so?", "ja": "シェリー: あの……ど、どうしてですか?"}
+{"sec": "map:761", "key": "NOEL: If we ignore positions that lead to an immediate dead-end, the number of possible combinations is reduced from 46,656 to 8.", "en": "NOEL: If we ignore positions that lead to an immediate dead-end, the number of possible combinations is reduced from 46,656 to 8.", "ja": "ノエル: 即座に行き止まりになる位置を除外すれば、組み合わせの数は46,656通りから8通りまで減ります。"}
+{"sec": "map:761", "key": "CAIN: How do you know that?", "en": "CAIN: How do you know that?", "ja": "カイン: なんでそんなこと分かんの?"}
+{"sec": "map:761", "key": "NOEL: Isn't it obvious?", "en": "NOEL: Isn't it obvious?", "ja": "ノエル: 当然のことでは?"}
+{"sec": "map:761", "key": "CAIN: Yeah... No.", "en": "CAIN: Yeah... No.", "ja": "カイン: いや……全然。"}
+{"sec": "map:761", "key": "ANNA: So all we really need to do to find out if we can get the train to the rubble is check those eight combinations?", "en": "ANNA: So all we really need to do to find out if we can get the train to the rubble is check those eight combinations?", "ja": "アンナ: じゃあ、列車をがれきまで進められるか確かめるには、その8通りを試せばいいってこと?"}
+{"sec": "map:761", "key": "CHARLOTTE: All right, \\PN, you're up.", "en": "CHARLOTTE: All right, \\PN, you're up.", "ja": "シャルロット: よし、\\PN、あんたの出番よ。"}
+{"sec": "map:761", "key": "If more than one person does this, we're likely to mix stuff up.", "en": "If more than one person does this, we're likely to mix stuff up.", "ja": "複数人でやると、ごちゃごちゃになりそうだから。"}
+{"sec": "map:761", "key": "Look for a route for this train to get to the exit and have Noel check it over.", "en": "Look for a route for this train to get to the exit and have Noel check it over.", "ja": "この列車が出口まで行けるルートを探して、ノエルに確認してもらって。"}
+{"sec": "map:761", "key": "Then we can get this show on the road.", "en": "Then we can get this show on the road.", "ja": "それができたら、いよいよ出発ね。"}
+{"sec": "map:761", "key": "ANNA: We'll wait outside for you. C'mon, Noel~", "en": "ANNA: We'll wait outside for you. C'mon, Noel~", "ja": "アンナ: 外で待ってるね。ほら、ノエルも行くよ~"}
+{"sec": "map:761", "key": "CHARLOTTE: Look for a route for this train to get to the exit and have Noel check it over.", "en": "CHARLOTTE: Look for a route for this train to get to the exit and have Noel check it over.", "ja": "シャルロット: この列車が出口まで行けるルートを探して、ノエルに確認してもらって。"}
+{"sec": "map:761", "key": "HEATHER: ...", "en": "HEATHER: ...", "ja": "ヘザー: ……"}
+{"sec": "map:761", "key": "CAIN: I dunno about all this combination stuff; the only thing I can count is beats.", "en": "CAIN: I dunno about all this combination stuff; the only thing I can count is beats.", "ja": "カイン: 組み合わせとかよく分かんねーけど、オレが数えられるのはビートだけだな。"}
+{"sec": "map:761", "key": "So, your heart still qualifies~", "en": "So, your heart still qualifies~", "ja": "だから、お前のハートならまだ数えられるぜ~"}
+{"sec": "map:761", "key": "CAIN: Now we just have to hope Charlotte knows what she's doing, huh?", "en": "CAIN: Now we just have to hope Charlotte knows what she's doing, huh?", "ja": "カイン: あとはシャルロットが分かってることを祈るだけだな?"}
+{"sec": "map:761", "key": "Well, if these are my last moments, it's not so bad with you around!", "en": "Well, if these are my last moments, it's not so bad with you around!", "ja": "ま、これが最後の瞬間だとしても、お前がいてくれるなら悪くないぜ!"}
+{"sec": "map:761", "key": "CAIN: I'm not sure which I'm more concerned about:", "en": "CAIN: I'm not sure which I'm more concerned about: ", "ja": "カイン: どっちが心配か分かんねーな。"}
+{"sec": "map:761", "key": "What happened to the train, or the fact that Heather hasn't reacted even to that.", "en": "What happened to the train, or the fact that Heather hasn't reacted even to that.", "ja": "列車がどうなるかってことか、それともヘザーがそれにすら反応しないことか。"}
+{"sec": "map:761", "key": "SHELLY: Do you think there really is a way out?", "en": "SHELLY: Do you think there really is a way out?", "ja": "シェリー: 本当に、出られる道なんてあるんでしょうか?"}
+{"sec": "map:761", "key": "SHELLY: So... So we can get out after all?", "en": "SHELLY: So... So we can get out after all?", "ja": "シェリー: じゃあ……じゃあ、やっぱり出られるんですか?"}
+{"sec": "map:761", "key": "U-um, does that mean--", "en": "U-um, does that mean--", "ja": "あ、あの、それって――"}
+{"sec": "map:761", "key": "Was I useful at all?", "en": "Was I useful at all?", "ja": "わたし、少しは役に立てましたか?"}
+{"sec": "map:761", "key": "SHELLY: I-I'm really happy!", "en": "SHELLY: I-I'm really happy!", "ja": "シェリー: う、うれしいです!"}
+{"sec": "map:761", "key": "Okay, let's get out of here and get Heather to safety!", "en": "Okay, let's get out of here and get Heather to safety!", "ja": "さあ、ここを出て、ヘザーを安全な場所へ!"}
+{"sec": "map:761", "key": "SHELLY: Oh...", "en": "SHELLY: Oh... ", "ja": "シェリー: あ……"}
+{"sec": "map:761", "key": "Okay...", "en": "Okay...", "ja": "はい……"}
+{"sec": "map:761", "key": "I'll-- I'll try harder next time, okay?", "en": "I'll-- I'll try harder next time, okay?", "ja": "つ、次はもっと頑張りますから……"}
+{"sec": "map:761", "key": "I'm sorry...", "en": "I'm sorry...", "ja": "ごめんなさい……"}
+{"sec": "map:761", "key": "SHELLY: Let's get out of here and get Heather to safety!", "en": "SHELLY: Let's get out of here and get Heather to safety!", "ja": "シェリー: ここを出て、ヘザーを安全な場所へ!"}
+{"sec": "map:761", "key": "SHELLY: I'm sorry...", "en": "SHELLY: I'm sorry...", "ja": "シェリー: ごめんなさい……"}
+{"sec": "map:761", "key": "SHELLY: W-we didn't mess up, did we...?", "en": "SHELLY: W-we didn't mess up, did we...?", "ja": "シェリー: わ、わたしたち、失敗してませんよね……?"}
+{"sec": "map:761", "key": "CHARLOTTE: I hear the path's been blazed for us.", "en": "CHARLOTTE: I hear the path's been blazed for us.", "ja": "シャルロット: 道はもう切り開かれてるみたいね。"}
+{"sec": "map:761", "key": "You all set to do this?", "en": "You all set to do this?", "ja": "準備はいい?"}
+{"sec": "map:761", "key": "CHARLOTTE: Sweet.", "en": "CHARLOTTE: Sweet.", "ja": "シャルロット: よし。"}
+{"sec": "map:761", "key": "CHARLOTTE: All right, let's do this.", "en": "CHARLOTTE: All right, let's do this. ", "ja": "シャルロット: よし、やるわよ。"}
+{"sec": "map:761", "key": "*Tschk* This is your captain speaking.", "en": "*Tschk* This is your captain speaking.", "ja": "ザザッ……こちら機長です。"}
+{"sec": "map:761", "key": "We will be departing from the station shortly.", "en": "We will be departing from the station shortly.", "ja": "まもなく駅を出発いたします。"}
+{"sec": "map:761", "key": "Please keep all arms and legs securely inside the vehicle at all times,", "en": "Please keep all arms and legs securely inside the vehicle at all times,", "ja": "手足は常に車内にしっかりとお納めのうえ、"}
+{"sec": "map:761", "key": "And hang the fuck on because we're in for a hell of a ride.", "en": "And hang the fuck on because we're in for a hell of a ride.", "ja": "しっかりつかまってなさい、地獄みたいな乗り心地になるからね。"}
+{"sec": "map:761", "key": "SHELLY: U-um...", "en": "SHELLY: U-um...", "ja": "シェリー: あ　あの……"}
+{"sec": "map:761", "key": "CAIN: Did you change your mind about the brakes?", "en": "CAIN: Did you change your mind about the brakes?", "ja": "カイン: ブレーキのこと、気が変わったのか?"}
+{"sec": "map:761", "key": "CHARLOTTE: As if...", "en": "CHARLOTTE: As if...", "ja": "シャルロット: まさか……"}
+{"sec": "map:761", "key": "SHELLY: So... So what just happened?", "en": "SHELLY: So... So what just happened?", "ja": "シェリー: あの……今、何が起きたんですか?"}
+{"sec": "map:761", "key": "CHARLOTTE: Only one way to find out.", "en": "CHARLOTTE: Only one way to find out.", "ja": "シャルロット: それを知る方法は一つしかないわね。"}
+{"sec": "map:761", "key": "We got through the debris, but it doesn't seem like we can go further, so let's step out and take a look.", "en": "We got through the debris, but it doesn't seem like we can go further, so let's step out and take a look.", "ja": "がれきは抜けたけど、これ以上は進めなさそうだから、降りて見てみましょう。"}
+{"sec": "map:761", "key": "CHARLOTTE: No sweat. I'll be here when they drop.", "en": "CHARLOTTE: No sweat. I'll be here when they drop.", "ja": "シャルロット: 平気平気。落ちてきてもここで待ってるから。"}
+{"sec": "map:761", "key": "CHARLOTTE: Tch, brakes.", "en": "CHARLOTTE: Tch, brakes.", "ja": "シャルロット: チッ、ブレーキね。"}
+{"sec": "map:761", "key": "Just who does he think I am...", "en": "Just who does he think I am...", "ja": "あいつ、あたしを何だと思ってんのよ……"}
+{"sec": "map:761", "key": "NOEL: Good job arranging the path.", "en": "NOEL: Good job arranging the path.", "ja": "ノエル: 経路の設定、お疲れさまでした。"}
+{"sec": "map:761", "key": "NOEL: Anna, are you really okay?", "en": "NOEL: Anna, are you really okay?", "ja": "ノエル: アンナ、本当に大丈夫ですか?"}
+{"sec": "map:761", "key": "ANNA: All ready to set sail!?", "en": "ANNA: All ready to set sail!?", "ja": "アンナ: 出航準備、万端だよ!?"}
+{"sec": "map:761", "key": "Oh, and don't worry about me, I just slipped on a rock! I think.", "en": "Oh, and don't worry about me, I just slipped on a rock! I think.", "ja": "あ、あたしのことは心配しないで、石で滑っただけだから! たぶん。"}
+{"sec": "map:761", "key": "It shouldn't happen again!", "en": "It shouldn't happen again!", "ja": "もう二度と起きないはず!"}
+{"sec": "map:761", "key": "ANNA: Hey, does Nostra feel cold to you?", "en": "ANNA: Hey, does Nostra feel cold to you?", "ja": "アンナ: ねえ、ノストラって寒く感じない?"}
+{"sec": "map:761", "key": "Yes", "en": "Yes", "ja": "はい"}
+{"sec": "map:761", "key": "No", "en": "No", "ja": "いいえ"}

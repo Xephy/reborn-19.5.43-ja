@@ -1,0 +1,268 @@
+{"sec": "map:535", "key": "They say that fires are healthy for forests, because they make way for new growth.", "en": "They say that fires are healthy for forests, because they make way for new growth. ", "ja": "火事は森にとって健全なものだと言われる。新しい成長のための道を開くから。"}
+{"sec": "map:535", "key": "Seeing how Jasper has sprung back, I get the feeling that might be true after all.", "en": "Seeing how Jasper has sprung back, I get the feeling that might be true after all.", "ja": "ジャスパーがこうして立ち直ったのを見ると、それは本当なのかもしれないと思うよ。"}
+{"sec": "map:535", "key": "Sorry, residents only past this area.", "en": "Sorry, residents only past this area. ", "ja": "すみません、この先は住民の方のみとなっております。"}
+{"sec": "map:535", "key": "Oh, what's that?", "en": "Oh, what's that?", "ja": "おや、それは何だい?"}
+{"sec": "map:535", "key": "You found a lost Pokémon and the collar pointed to this address?", "en": "You found a lost Pokémon and the collar pointed to this address?", "ja": "迷子のポケモンを見つけて、その首輪がこの住所を指していたの?"}
+{"sec": "map:535", "key": "I suppose I can let you in to return it.", "en": "I suppose I can let you in to return it.", "ja": "それなら中に入って返してもらってもいいよ。"}
+{"sec": "map:535", "key": "Apartment #2 is just up these stairs.", "en": "Apartment #2 is just up these stairs.", "ja": "2号室はこの階段を上がってすぐだ。"}
+{"sec": "map:535", "key": "Please take care not to disturb the other residents.", "en": "Please take care not to disturb the other residents.", "ja": "他の住人の迷惑にならないよう気をつけてくれ。"}
+{"sec": "map:535", "key": "Apartment 201 is just up these stairs.", "en": "Apartment 201 is just up these stairs.", "ja": "201号室はこの階段を上がってすぐです。"}
+{"sec": "map:535", "key": "Ahaha... Hi, stranger who just walked into my apartment complex... Haha...", "en": "Ahaha... Hi, stranger who just walked into my apartment complex... Haha...", "ja": "あはは……どうも、いきなり私のアパートに入ってきた見知らぬ方……はは……"}
+{"sec": "map:535", "key": "Why are you staring at me.", "en": "Why are you staring at me.", "ja": "何でこっち見てるの。"}
+{"sec": "map:535", "key": "Look! I already have social anxiety. Just being down here is challenging for me!", "en": "Look! I already have social anxiety. Just being down here is challenging for me!", "ja": "ほら!私、もう社交不安があるの。ここに下りてくるだけでも一苦労なんだから!"}
+{"sec": "map:535", "key": "And it's not like I have anyone I could hang out with in this city...", "en": "And it's not like I have anyone I could hang out with in this city...", "ja": "それに、この街には一緒に遊べる人なんていないし……"}
+{"sec": "map:535", "key": "So... just let me be.", "en": "So... just let me be.", "ja": "だから……放っておいて。"}
+{"sec": "map:535", "key": "What, you know a way to meet people?", "en": "What, you know a way to meet people?", "ja": "何、人と出会う方法を知ってるの?"}
+{"sec": "map:535", "key": "Eh?! I can't volunteer! That's way too much interaction!", "en": "Eh?! I can't volunteer! That's way too much interaction!", "ja": "えっ!?ボランティアなんて無理!それって関わりすぎでしょ!"}
+{"sec": "map:535", "key": "B-but then again...", "en": "B-but then again...", "ja": "で、でも、それはそれとして……"}
+{"sec": "map:535", "key": "I won't get used to it if I just shy away from it.", "en": "I won't get used to it if I just shy away from it.", "ja": "避けてばかりじゃ、いつまで経っても慣れないもんね。"}
+{"sec": "map:535", "key": "And maybe I won't be so nervous if I have a project to collaborate with others on?", "en": "And maybe I won't be so nervous if I have a project to collaborate with others on?", "ja": "それに、誰かと一緒に取り組めるプロジェクトがあれば、そんなに緊張しなくなるかも?"}
+{"sec": "map:535", "key": "Uh... Okay! I'll try it! Um, good bye!", "en": "Uh... Okay! I'll try it! Um, good bye!", "ja": "えっと……わかった!やってみる!じゃ、じゃあね!"}
+{"sec": "map:535", "key": "It's just a plush...", "en": "It's just a plush...", "ja": "ただのぬいぐるみだ……"}
+{"sec": "map:535", "key": "\"Apt. 7\"", "en": "\"Apt. 7\"", "ja": "「7号室」"}
+{"sec": "map:535", "key": "\"Apt. 2\"", "en": "\"Apt. 2\"", "ja": "「2号室」"}
+{"sec": "map:535", "key": "\"Apt. 3\"", "en": "\"Apt. 3\"", "ja": "「3号室」"}
+{"sec": "map:535", "key": "\"Apt. 4\"", "en": "\"Apt. 4\"", "ja": "「4号室」"}
+{"sec": "map:535", "key": "\"Apt. 5\"", "en": "\"Apt. 5\"", "ja": "「5号室」"}
+{"sec": "map:535", "key": "\"Apt. 6\"", "en": "\"Apt. 6\"", "ja": "「6号室」"}
+{"sec": "map:535", "key": "Locked.", "en": "Locked.", "ja": "施錠されている。"}
+{"sec": "map:535", "key": "The TV is unplugged...", "en": "The TV is unplugged...", "ja": "テレビのコンセントは抜かれている……"}
+{"sec": "map:535", "key": "Zzz...", "en": "Zzz...", "ja": "すぅ……すぅ……"}
+{"sec": "map:535", "key": "GARDEVOIR: -Oh?-", "en": "GARDEVOIR: -Oh?-", "ja": "サーナイト: -あら?-"}
+{"sec": "map:535", "key": "-I must have left the door unlocked as I've been cleaning...-", "en": "-I must have left the door unlocked as I've been cleaning...-", "ja": "-掃除をしていて、鍵をかけ忘れていたようですね-"}
+{"sec": "map:535", "key": "-My apologies, stranger, but I should ask you to leave.-", "en": "-My apologies, stranger, but I should ask you to leave.-", "ja": "-申し訳ありませんが、見知らぬ方、出て行っていただけますか-"}
+{"sec": "map:535", "key": "-...Hm?-", "en": "-...Hm?-", "ja": "-……ん?-"}
+{"sec": "map:535", "key": "-You came here intentionally... because you found a collar with the address.-", "en": "-You came here intentionally... because you found a collar with the address.-", "ja": "-あなたは意図してここへ来たのですね……その首輪に書かれた住所を見つけたから-"}
+{"sec": "map:535", "key": "-A collar like that could have only belonged to one Pokémon.-", "en": "-A collar like that could have only belonged to one Pokémon.-", "ja": "-あの首輪は、たった一匹のポケモンのものでしかありえません-"}
+{"sec": "map:535", "key": "-\\PN, is it?-", "en": "-\\PN, is it?-", "ja": "-\\PN、そうですね?-"}
+{"sec": "map:535", "key": "-Please tell me, is she safe?-", "en": "-Please tell me, is she safe?-", "ja": "-教えてください、彼女は無事ですか?-"}
+{"sec": "map:535", "key": "-That Sylveon...-", "en": "-That Sylveon...-", "ja": "-あのニンフィアは……-"}
+{"sec": "map:535", "key": "-Ah, I can see you found her...-", "en": "-Ah, I can see you found her...-", "ja": "-ああ、見つけてくださったのですね……-"}
+{"sec": "map:535", "key": "-Locked away, alone?-", "en": "-Locked away, alone?-", "ja": "-閉じ込められて、一人ぼっちで?-"}
+{"sec": "map:535", "key": "-In a place like that...-", "en": "-In a place like that...-", "ja": "-あんな場所に……-"}
+{"sec": "map:535", "key": "-But as long as she is well now, that is as all right as what is all wrong could be.-", "en": "-But as long as she is well now, that is as all right as what is all wrong could be.-", "ja": "-でも、今彼女が無事であるなら、それはすべての誤りの中で、あり得る限りの正しさです-"}
+{"sec": "map:535", "key": "-My apologies, \\PN. I should not have parsed your memories on my impulse.-", "en": "-My apologies, \\PN. I should not have parsed your memories on my impulse.-", "ja": "-申し訳ありません、\\PN。衝動的にあなたの記憶を読み取るべきではありませんでした-"}
+{"sec": "map:535", "key": "-That was a disrespectful thing to do to a human.-", "en": "-That was a disrespectful thing to do to a human.-", "ja": "-それは人間に対して、大変失礼なことでした-"}
+{"sec": "map:535", "key": "-As an apology, please allow me to share some of my own with you.-", "en": "-As an apology, please allow me to share some of my own with you.-", "ja": "-おわびとして、私の記憶の一部をあなたと分かち合わせてください-"}
+{"sec": "map:535", "key": "-I will show you why that Sylveon should never return to this place.-", "en": "-I will show you why that Sylveon should never return to this place.-", "ja": "-なぜあのニンフィアが二度とあの場所に戻ってはならないのか、お見せしましょう-"}
+{"sec": "map:535", "key": "-It has been such a long time...-", "en": "-It has been such a long time...-", "ja": "-ずいぶん長い時間が経ちました……-"}
+{"sec": "map:535", "key": "-My trainer originally brought her here as a present to his daughter.-", "en": "-My trainer originally brought her here as a present to his daughter.-", "ja": "-私のトレーナーは、もともと彼女を娘への贈り物としてここへ連れてきました-"}
+{"sec": "map:535", "key": "-I have mixed thoughts on the idea of Pokémon being given as gifts to other humans.-", "en": "-I have mixed thoughts on the idea of Pokémon being given as gifts to other humans.-", "ja": "-ポケモンを他の人間への贈り物として扱うという考えには、複雑な思いがあります-"}
+{"sec": "map:535", "key": "-The idea of property and ownership between our species is as problematic as it is revolting,-", "en": "-The idea of property and ownership between our species is as problematic as it is revolting,-", "ja": "-所有や所有物という概念が、私たちの種の間にあることは問題であると同時に、忌まわしくもあります-"}
+{"sec": "map:535", "key": "-But on the other hand, is it not a darling thought that one's presence could be such a boon that it might be considered a gift?-", "en": "-But on the other hand, is it not a darling thought that one's presence could be such a boon that it might be considered a gift?-", "ja": "-しかし一方で、自分の存在そのものが贈り物と呼べるほどの恵みであるというのは、なんと愛おしい考えでしょうか-"}
+{"sec": "map:535", "key": "-But not all gifts turn out to be as they were expected.-", "en": "-But not all gifts turn out to be as they were expected.-", "ja": "-けれど、すべての贈り物が期待どおりの結末を迎えるわけではありません-"}
+{"sec": "map:535", "key": "-Especially not this one.-", "en": "-Especially not this one.-", "ja": "-特に、これは違いました-"}
+{"sec": "map:535", "key": "-Back then, she was called...-", "en": "-Back then, she was called...-", "ja": "-当時、彼女はこう呼ばれていました……-"}
+{"sec": "map:535", "key": "-Scarborough.-", "en": "-Scarborough.-", "ja": "-スカボロー-"}
+{"sec": "map:535", "key": "EDIE: Wowww.........", "en": "EDIE: Wowww.........", "ja": "イーディ: わあああ………"}
+{"sec": "map:535", "key": "It's really mine!?", "en": "It's really mine!?", "ja": "本当にあたしのなの!?"}
+{"sec": "map:535", "key": "LOTTIE: That's right.", "en": "LOTTIE: That's right. ", "ja": "ロッティ: そうよ。"}
+{"sec": "map:535", "key": "Papa said she's all yours, as long as you take care of her.", "en": "Papa said she's all yours, as long as you take care of her.", "ja": "パパが、あなたがちゃんと世話をするならこの子はあなたのものだって言ってたわ。"}
+{"sec": "map:535", "key": "EDIE: What's its name?!", "en": "EDIE: What's its name?!", "ja": "イーディ: 名前は何ていうの!?"}
+{"sec": "map:535", "key": "LOTTIE: Scarborough.", "en": "LOTTIE: Scarborough.", "ja": "ロッティ: スカボロー。"}
+{"sec": "map:535", "key": "EDIE: Eeeeehh?", "en": "EDIE: Eeeeehh?", "ja": "イーディ: ええええ?"}
+{"sec": "map:535", "key": "That's an ugly name.", "en": "That's an ugly name.", "ja": "ダサい名前。"}
+{"sec": "map:535", "key": "LOTTIE: Now, now... You wouldn't like it if someone said your name was ugly, would you?", "en": "LOTTIE: Now, now... You wouldn't like it if someone said your name was ugly, would you?", "ja": "ロッティ: これこれ……もし誰かにあなたの名前がダサいって言われたら、嫌でしょう?"}
+{"sec": "map:535", "key": "EDIE: Um, no, but if my name is ugly it doesn't matter whether I like it or not.", "en": "EDIE: Um, no, but if my name is ugly it doesn't matter whether I like it or not.", "ja": "イーディ: うーん、そうだけど、あたしの名前がダサくても、好きかどうかは関係ないもん。"}
+{"sec": "map:535", "key": "And besides, my name is cute!", "en": "And besides, my name is cute!", "ja": "それに、あたしの名前はかわいいし!"}
+{"sec": "map:535", "key": "All the neighbors said so.", "en": "All the neighbors said so.", "ja": "近所の人もみんなそう言ってたもん。"}
+{"sec": "map:535", "key": "LOTTIE: Nevertheless, that's her name.", "en": "LOTTIE: Nevertheless, that's her name.", "ja": "ロッティ: それでも、その子の名前はそれなの。"}
+{"sec": "map:535", "key": "Your father's friend had already named it that when he decided to pass it on.", "en": "Your father's friend had already named it that when he decided to pass it on.", "ja": "あなたのパパの友達が、譲る前にもうそう名づけてたのよ。"}
+{"sec": "map:535", "key": "Apparently he was picking up a present for his own daughter, and somehow managed to get two!", "en": "Apparently he was picking up a present for his own daughter, and somehow managed to get two!", "ja": "どうやら自分の娘への贈り物を用意しに行ったら、なぜか二匹も手に入れちゃったんですって!"}
+{"sec": "map:535", "key": "And you know how rude it is to change the name of a Pokémon that's been given to you.", "en": "And you know how rude it is to change the name of a Pokémon that's been given to you.", "ja": "それに、人からもらったポケモンの名前を変えるのは失礼だって知ってるでしょ。"}
+{"sec": "map:535", "key": "EDIE: Whatever, I guess.", "en": "EDIE: Whatever, I guess.", "ja": "イーディ: まあいいや。"}
+{"sec": "map:535", "key": "At least it's cute.", "en": "At least it's cute.", "ja": "少なくともかわいいし。"}
+{"sec": "map:535", "key": "Hey, Eevee.", "en": "Hey, Eevee.", "ja": "ねえ、イーブイ。"}
+{"sec": "map:535", "key": "You'll be best friends with me from now on, okay?", "en": "You'll be best friends with me from now on, okay?", "ja": "これからずっとあたしと親友だからね、いい?"}
+{"sec": "map:535", "key": "LOTTIE: I think it's still a little scared.", "en": "LOTTIE: I think it's still a little scared.", "ja": "ロッティ: まだちょっと怖がってるみたいね。"}
+{"sec": "map:535", "key": "Suddenly coming to a new place can be jarring for young Pokémon.", "en": "Suddenly coming to a new place can be jarring for young Pokémon.", "ja": "新しい場所に来たばかりだと、若いポケモンは驚いてしまうこともあるのよ。"}
+{"sec": "map:535", "key": "EDIE: What?", "en": "EDIE: What?", "ja": "イーディ: なに?"}
+{"sec": "map:535", "key": "There's no reason to be scared.", "en": "There's no reason to be scared.", "ja": "怖がる理由なんてないでしょ。"}
+{"sec": "map:535", "key": "EDIE: Here, okay?", "en": "EDIE: Here, okay?", "ja": "イーディ: ほら、いい?"}
+{"sec": "map:535", "key": "You're my Pokémon, and Pokémon are supposed to listen to their trainers.", "en": "You're my Pokémon, and Pokémon are supposed to listen to their trainers.", "ja": "あんたはあたしのポケモンで、ポケモンはトレーナーの言うことを聞くものなの。"}
+{"sec": "map:535", "key": "So when I say you don't need to be scared, you need to listen to me, okay?", "en": "So when I say you don't need to be scared, you need to listen to me, okay?", "ja": "だから、怖がらなくていいってあたしが言ったら、ちゃんと聞くのよ、いい?"}
+{"sec": "map:535", "key": "GARDEVOIR: -To say that Edie and Eevee were inseparable would be beyond stating the obvious.-", "en": "GARDEVOIR: -To say that Edie and Eevee were inseparable would be beyond stating the obvious.-", "ja": "サーナイト: -イーディとイーブイが片時も離れなかったと言えば、それは当たり前すぎる表現でしょう-"}
+{"sec": "map:535", "key": "-She never let Scarborough out of her sight, if she could help it.-", "en": "-She never let Scarborough out of her sight, if she could help it.-", "ja": "-彼女はできる限り、スカボローを片時も視界から離しませんでした-"}
+{"sec": "map:535", "key": "-But one might say she never really had sight of that young Pokémon anyway.-", "en": "-But one might say she never really had sight of that young Pokémon anyway.-", "ja": "-とはいえ、そもそもあの幼いポケモンの姿をきちんと見ていたことなど、一度もなかったとも言えるでしょうが-"}
+{"sec": "map:535", "key": "LOTTIE: Edie, did you feed Scarborough today already?", "en": "LOTTIE: Edie, did you feed Scarborough today already?", "ja": "ロッティ: イーディ、今日はもうスカボローにごはんあげた?"}
+{"sec": "map:535", "key": "EDIE: Huh? Oh...", "en": "EDIE: Huh? Oh...", "ja": "イーディ: え?あ……"}
+{"sec": "map:535", "key": "No, not yet.", "en": "No, not yet.", "ja": "ううん、まだ。"}
+{"sec": "map:535", "key": "LOTTIE: Edie!", "en": "LOTTIE: Edie!", "ja": "ロッティ: イーディ!"}
+{"sec": "map:535", "key": "It's almost sundown!", "en": "It's almost sundown!", "ja": "もうすぐ日が暮れるのよ!"}
+{"sec": "map:535", "key": "How would you feel if you had to go without food all day?", "en": "How would you feel if you had to go without food all day?", "ja": "一日中ごはん抜きにされたら、あなたはどんな気持ちになる?"}
+{"sec": "map:535", "key": "EDIE: It's fine, mom. I'll feed him.", "en": "EDIE: It's fine, mom. I'll feed him.", "ja": "イーディ: 大丈夫だよママ。あげてくるから。"}
+{"sec": "map:535", "key": "LOTTIE: \"Him\"?", "en": "LOTTIE: \"Him\"?", "ja": "ロッティ: 「彼」?"}
+{"sec": "map:535", "key": "I told you before, dear, Scarborough is a girl.", "en": "I told you before, dear, Scarborough is a girl.", "ja": "前にも言ったでしょう、スカボローは女の子よ。"}
+{"sec": "map:535", "key": "EDIE: No, he's not.", "en": "EDIE: No, he's not.", "ja": "イーディ: ううん、違うよ。"}
+{"sec": "map:535", "key": "Scarlett's a boy.", "en": "Scarlett's a boy.", "ja": "スカーレットは男の子。"}
+{"sec": "map:535", "key": "LOTTIE: \"Scarlett,\" now?", "en": "LOTTIE: \"Scarlett,\" now? ", "ja": "ロッティ: 「スカーレット」、って今度は?"}
+{"sec": "map:535", "key": "Isn't that a lady's name as well?", "en": "Isn't that a lady's name as well?", "ja": "それも女の子の名前じゃない?"}
+{"sec": "map:535", "key": "EDIE: Uh, no?", "en": "EDIE: Uh, no?", "ja": "イーディ: え、違うよ?"}
+{"sec": "map:535", "key": "It's Scarlett's name, and he's a boy, so it's a boy's name.", "en": "It's Scarlett's name, and he's a boy, so it's a boy's name.", "ja": "これはスカーレットの名前で、あの子は男の子だから、男の子の名前なの。"}
+{"sec": "map:535", "key": "Wow, adults can really be closed-minded...", "en": "Wow, adults can really be closed-minded...", "ja": "まったく、大人ってほんと頭固いんだから……"}
+{"sec": "map:535", "key": "LOTTIE: Whatever you say, pumpkin...", "en": "LOTTIE: Whatever you say, pumpkin...", "ja": "ロッティ: はいはい、好きに言いなさい……"}
+{"sec": "map:535", "key": "EDIE: Scarlett's gonna grow up and become a Sylveon, and we're gonna be just as strong as Papa and his!", "en": "EDIE: Scarlett's gonna grow up and become a Sylveon, and we're gonna be just as strong as Papa and his!", "ja": "イーディ: スカーレットは大きくなったらニンフィアになるの、そしたらパパとその子と同じくらい強くなるんだから!"}
+{"sec": "map:535", "key": "LOTTIE: A male Sylveon, huh?", "en": "LOTTIE: A male Sylveon, huh?", "ja": "ロッティ: オスのニンフィア、ねえ?"}
+{"sec": "map:535", "key": "EDIE: Sylveon can be male too!", "en": "EDIE: Sylveon can be male too!", "ja": "イーディ: ニンフィアはオスにもなれるもん!"}
+{"sec": "map:535", "key": "There's nothing wrong with that!", "en": "There's nothing wrong with that!", "ja": "それの何がおかしいの!"}
+{"sec": "map:535", "key": "LOTTIE: Well, you know how it evolves into Sylveon...", "en": "LOTTIE: Well, you know how it evolves into Sylveon... ", "ja": "ロッティ: まあ、ニンフィアへの進化の仕方は知ってるでしょう……"}
+{"sec": "map:535", "key": "But it won't do that unless you take proper care of it.", "en": "But it won't do that unless you take proper care of it.", "ja": "でも、ちゃんと世話をしてあげないと進化しないわよ。"}
+{"sec": "map:535", "key": "So start by making sure you feed her, all right?", "en": "So start by making sure you feed her, all right?", "ja": "だから、まずはちゃんとごはんをあげることから始めなさいね、いい?"}
+{"sec": "map:535", "key": "SCARBOROUGH: Ooh, that Pokémon looks like me!", "en": "SCARBOROUGH: Ooh, that Pokémon looks like me!", "ja": "スカボロー: わあ、あのポケモン、ぼくに似てる!"}
+{"sec": "map:535", "key": "I wonder what this show is about?!", "en": "I wonder what this show is about?!", "ja": "この番組、何についてなんだろう!?"}
+{"sec": "map:535", "key": "TV: \"Today on Evolution Revolution, we explore the unique properties of arguably the most versatile Pokémon known to date-- Eevee!", "en": "TV: \"Today on Evolution Revolution, we explore the unique properties of arguably the most versatile Pokémon known to date-- Eevee!", "ja": "テレビ: 「今回の『進化レボリューション』は、これまでで最も多才と言われるポケモン――イーブイのユニークな特性を探ります。"}
+{"sec": "map:535", "key": "As most trainers know, Eevee boasts the unique ability to evolve into one of as many as EIGHT different Pokémon!", "en": "As most trainers know, Eevee boasts the unique ability to evolve into one of as many as EIGHT different Pokémon!  ", "ja": "トレーナーならご存じの通り、イーブイは実に8種類ものポケモンに進化できるという珍しい能力を持っています!"}
+{"sec": "map:535", "key": "But just which of those evolutions is really the best?\"", "en": "But just which of those evolutions is really the best?\"", "ja": "でも、それらの進化形の中で本当にベストなのはどれなのでしょうか?」"}
+{"sec": "map:535", "key": "SCARBOROUGH: Wow, there's so many!", "en": "SCARBOROUGH: Wow, there's so many!", "ja": "スカボロー: わあ、こんなにたくさんあるんだ!"}
+{"sec": "map:535", "key": "But Edie only ever talks about Sylveon...", "en": "But Edie only ever talks about Sylveon...", "ja": "でもイーディはいつもニンフィアのことしか話さないんだよなあ……"}
+{"sec": "map:535", "key": "She's not here yet, right...?", "en": "She's not here yet, right...?", "ja": "彼女、まだここにいないよね……?"}
+{"sec": "map:535", "key": "SCARBOROUGH: There should be lots of other things I could become!", "en": "SCARBOROUGH: There should be lots of other things I could become!", "ja": "スカボロー: きっと他にもなれるものがたくさんあるはずだよ!"}
+{"sec": "map:535", "key": "SCARBOROUGH: Like Flareon!", "en": "SCARBOROUGH: Like Flareon!", "ja": "スカボロー: たとえばブースター!"}
+{"sec": "map:535", "key": "Flareon are really fluffy, and they're always super warm so they're great to hug and cuddle a lot!", "en": "Flareon are really fluffy, and they're always super warm so they're great to hug and cuddle a lot!", "ja": "ブースターってすごくふわふわで、いつも温かいから抱きしめたり甘えたりするのに最高なんだ!"}
+{"sec": "map:535", "key": "SCARBOROUGH: Or there's Jolteon!", "en": "SCARBOROUGH: Or there's Jolteon!", "ja": "スカボロー: それか、サンダース!"}
+{"sec": "map:535", "key": "I hear Jolteon's fur becomes pointy and zappity when it gets upset!", "en": "I hear Jolteon's fur becomes pointy and zappity when it gets upset!", "ja": "サンダースは怒ると毛が針みたいにとがってビリビリするんだって!"}
+{"sec": "map:535", "key": "That means no one can mess with it unless it lets them!", "en": "That means no one can mess with it unless it lets them!", "ja": "そうすれば、許可した相手以外は誰も邪魔できないってことだよね!"}
+{"sec": "map:535", "key": "SCARBOROUGH: Then there's Vaporeon!", "en": "SCARBOROUGH: Then there's Vaporeon!", "ja": "スカボロー: それからシャワーズ!"}
+{"sec": "map:535", "key": "If I became Vaporeon, I'd never have to worry about not being given water again, since I'd practically be made of the stuff!", "en": "If I became Vaporeon, I'd never have to worry about not being given water again, since I'd practically be made of the stuff!", "ja": "もしシャワーズになれたら、二度と水をもらえない心配なんてしなくていいんだ、だってほとんど水でできてるようなものだから!"}
+{"sec": "map:535", "key": "Plus, if I ever got scared, I could just dissolve and hide!", "en": "Plus, if I ever got scared, I could just dissolve and hide!", "ja": "それに、怖くなったらとろけて隠れちゃえるし!"}
+{"sec": "map:535", "key": "SCARBOROUGH: Leafeon is really cute too!", "en": "SCARBOROUGH: Leafeon is really cute too!", "ja": "スカボロー: リーフィアもすごくかわいいよね!"}
+{"sec": "map:535", "key": "Running through the forest surrounded by nature must be great!", "en": "Running through the forest surrounded by nature must be great!", "ja": "自然に囲まれて森を駆け回るなんて、絶対最高だろうな!"}
+{"sec": "map:535", "key": "I'd love to make the whole place my home and just roam as far and free as I wanted...", "en": "I'd love to make the whole place my home and just roam as far and free as I wanted...", "ja": "この場所全部を自分の家にして、行きたいだけ自由に走り回れたらいいのに……"}
+{"sec": "map:535", "key": "SCARBOROUGH: And Glaceon is so cool!", "en": "SCARBOROUGH: And Glaceon is so cool!", "ja": "スカボロー: それにグレイシアもすごくかっこいい!"}
+{"sec": "map:535", "key": "With a stare like that, it practically owns every room it walks into!", "en": "With a stare like that, it practically owns every room it walks into!", "ja": "あんな眼差しがあれば、入る部屋を全部支配できちゃうよね!"}
+{"sec": "map:535", "key": "Ice Types are always elegant and powerful...", "en": "Ice Types are always elegant and powerful...", "ja": "こおりタイプはいつだって優雅で強い……"}
+{"sec": "map:535", "key": "Do you think people could respect me like that, too?", "en": "Do you think people could respect me like that, too?", "ja": "みんな、ぼくのこともあんな風に尊敬してくれるかな?"}
+{"sec": "map:535", "key": "SCARBOROUGH: And Umbreon...", "en": "SCARBOROUGH: And Umbreon...", "ja": "スカボロー: それに、ブラッキーも……"}
+{"sec": "map:535", "key": "SCARBOROUGH: Umbreon is the paws-down coolest!!!", "en": "SCARBOROUGH: Umbreon is the paws-down coolest!!!", "ja": "スカボロー: ブラッキーは文句なしで一番かっこいい!!!"}
+{"sec": "map:535", "key": "The way it glows and melds into the night...!", "en": "The way it glows and melds into the night...!", "ja": "あの光り方、夜に溶け込むあの感じ……!"}
+{"sec": "map:535", "key": "I bet Umbreon can take anything anyone throws at it too!", "en": "I bet Umbreon can take anything anyone throws at it too!", "ja": "ブラッキーなら誰に何をされても平気そうだよね!"}
+{"sec": "map:535", "key": "I'd feel super safe with one!", "en": "I'd feel super safe with one!", "ja": "そばにいてくれたらすごく安心できると思う!"}
+{"sec": "map:535", "key": "SCARBOROUGH: Huh... But would I want to be an Umbreon, or just marry one?", "en": "SCARBOROUGH: Huh... But would I want to be an Umbreon, or just marry one?", "ja": "スカボロー: うーん……でもぼく、ブラッキーになりたいのかな、それともブラッキーと結婚したいだけなのかな?"}
+{"sec": "map:535", "key": "SCARBOROUGH: Finally, Espeon...", "en": "SCARBOROUGH: Finally, Espeon...", "ja": "スカボロー: 最後に、エーフィ……"}
+{"sec": "map:535", "key": "SCARBOROUGH: With their powers, they can see the future, protect themselves and others, and even reflect anything that comes at them...", "en": "SCARBOROUGH: With their powers, they can see the future, protect themselves and others, and even reflect anything that comes at them...", "ja": "スカボロー: あの力があれば、未来を見たり、自分や他人を守ったり、向かってくるものを何でも跳ね返したりできる……"}
+{"sec": "map:535", "key": "They're cute and cool, and basically one with the sunlight!", "en": "They're cute and cool, and basically one with the sunlight!", "ja": "かわいくてかっこよくて、まるで陽の光そのものみたいだ!"}
+{"sec": "map:535", "key": "SCARBOROUGH: Yeah...", "en": "SCARBOROUGH: Yeah...", "ja": "スカボロー: そうだ……"}
+{"sec": "map:535", "key": "Yeah, yeah, yeah!", "en": "Yeah, yeah, yeah!", "ja": "そう、そう、そうだよ!"}
+{"sec": "map:535", "key": "I want to be--", "en": "I want to be--", "ja": "ぼくがなりたいのは――"}
+{"sec": "map:535", "key": "...", "en": "...", "ja": "…………"}
+{"sec": "map:535", "key": "SCARBOROUGH: But why...?", "en": "SCARBOROUGH: But why...?", "ja": "スカボロー: でもどうして……?"}
+{"sec": "map:535", "key": "Do I have to...?", "en": "Do I have to...?", "ja": "ぼくじゃだめなの……?"}
+{"sec": "map:535", "key": "EDIE: I'm home!!!", "en": "EDIE: I'm home!!!", "ja": "イーディ: ただいまー!!!"}
+{"sec": "map:535", "key": "EDIE: Huh, Papa's not back yet again?", "en": "EDIE: Huh, Papa's not back yet again?", "ja": "イーディ: あれ、パパまた帰ってきてないの?"}
+{"sec": "map:535", "key": "EDIE: I wonder if he had another challenger...", "en": "EDIE: I wonder if he had another challenger...", "ja": "イーディ: また挑戦者でも来たのかな……"}
+{"sec": "map:535", "key": "Oh well. Scarlett!!!", "en": "Oh well. Scarlett!!!", "ja": "まあいっか。スカーレット!!!"}
+{"sec": "map:535", "key": "EDIE: Did you miss me?!", "en": "EDIE: Did you miss me?!", "ja": "イーディ: あたしのこと恋しかった!?"}
+{"sec": "map:535", "key": "You need to come out like a good boy and greet me properly when I get home!", "en": "You need to come out like a good boy and greet me properly when I get home!", "ja": "ちゃんといい子にお出迎えしなさいよね、帰ってきたときぐらい!"}
+{"sec": "map:535", "key": "Oops, did I leave the TV on?", "en": "Oops, did I leave the TV on?", "ja": "あれ、テレビつけっぱなしだった?"}
+{"sec": "map:535", "key": "EDIE: Oh, it's about Eeveelutions!", "en": "EDIE: Oh, it's about Eeveelutions!", "ja": "イーディ: あ、イーブイの進化の話だ!"}
+{"sec": "map:535", "key": "Huh? They're only talking about Espeon right now?", "en": "Huh? They're only talking about Espeon right now?", "ja": "え?今エーフィの話だけしてるの?"}
+{"sec": "map:535", "key": "Gross, who likes that thing?", "en": "Gross, who likes that thing?", "ja": "うわ、誰があんなのが好きなのよ?"}
+{"sec": "map:535", "key": "Don't tell me you were actually watching that.", "en": "Don't tell me you were actually watching that.", "ja": "まさか本気で見てたわけじゃないよね。"}
+{"sec": "map:535", "key": "EDIE: Here, come over here.", "en": "EDIE: Here, come over here.", "ja": "イーディ: ほら、こっちおいで。"}
+{"sec": "map:535", "key": "EDIE: You see this?", "en": "EDIE: You see this?", "ja": "イーディ: これ見える?"}
+{"sec": "map:535", "key": "This is a Sylveon.", "en": "This is a Sylveon.", "ja": "これがニンフィアだよ。"}
+{"sec": "map:535", "key": "This is what you need to become, Scarlett.", "en": "This is what you need to become, Scarlett.", "ja": "スカーレットはこれにならないとダメなの。"}
+{"sec": "map:535", "key": "Not that,", "en": "Not that,", "ja": "それじゃなくて、"}
+{"sec": "map:535", "key": "This.", "en": "This.", "ja": "これ。"}
+{"sec": "map:535", "key": "Okay?", "en": "Okay?", "ja": "わかった?"}
+{"sec": "map:535", "key": "SCARBOROUGH: Sylveon...", "en": "SCARBOROUGH: Sylveon...", "ja": "スカボロー: ニンフィア……"}
+{"sec": "map:535", "key": "Not Espeon...", "en": "Not Espeon... ", "ja": "エーフィじゃない……"}
+{"sec": "map:535", "key": "Not anything else...", "en": "Not anything else...", "ja": "他の何でもない……"}
+{"sec": "map:535", "key": "I have to become a Sylveon... don't I?", "en": "I have to become a Sylveon... don't I?", "ja": "ぼくはニンフィアにならなきゃいけないんだ……だよね?"}
+{"sec": "map:535", "key": "Maybe then she would love me enough to feed me, and take care of me...", "en": "Maybe then she would love me enough to feed me, and take care of me...", "ja": "そうすればきっと、彼女はぼくのことを愛して、ごはんをくれて、面倒を見てくれる……"}
+{"sec": "map:535", "key": "And she'd be happiest that way.", "en": "And she'd be happiest that way.", "ja": "それで、彼女は一番幸せになれるんだ。"}
+{"sec": "map:535", "key": "But...", "en": "But...", "ja": "でも……"}
+{"sec": "map:535", "key": "GARDEVOIR: -As you may know, ordinarily it is impossible for a Pokémon that does not love its Trainer to evolve through happiness.-", "en": "GARDEVOIR: -As you may know, ordinarily it is impossible for a Pokémon that does not love its Trainer to evolve through happiness.-", "ja": "サーナイト: -ご存じの通り、通常、トレーナーを愛していないポケモンが「なかよし度」による進化を遂げることはあり得ません-"}
+{"sec": "map:535", "key": "-But love takes more forms than happiness can account for,-", "en": "-But love takes more forms than happiness can account for,-", "ja": "-しかし、愛には幸福だけでは説明できない多くの形があります-"}
+{"sec": "map:535", "key": "-And as it turned out, Scarborough was far from an ordinary Pokémon after all.-", "en": "-And as it turned out, Scarborough was far from an ordinary Pokémon after all.-", "ja": "-そして結局のところ、スカボローは決して普通のポケモンではなかったのです-"}
+{"sec": "map:535", "key": "EDIE: Mom, mom!!!", "en": "EDIE: Mom, mom!!!", "ja": "イーディ: ママ、ママ!!!"}
+{"sec": "map:535", "key": "Scarlett did it!!!", "en": "Scarlett did it!!!", "ja": "スカーレットがやったよ!!!"}
+{"sec": "map:535", "key": "EDIE: He finally evolved into Sylveon!", "en": "EDIE: He finally evolved into Sylveon!", "ja": "イーディ: とうとうニンフィアに進化したの!"}
+{"sec": "map:535", "key": "LOTTIE: Well, I'll be darned...", "en": "LOTTIE: Well, I'll be darned...", "ja": "ロッティ: あらまあ……"}
+{"sec": "map:535", "key": "I must say, I'm surprised...", "en": "I must say, I'm surprised...", "ja": "これには驚いたわ……"}
+{"sec": "map:535", "key": "EDIE: I TOLD you it'd work out!", "en": "EDIE: I TOLD you it'd work out!", "ja": "イーディ: だから言ったでしょ、うまくいくって!"}
+{"sec": "map:535", "key": "LOTTIE: You sure did, pumpkin.", "en": "LOTTIE: You sure did, pumpkin.", "ja": "ロッティ: 確かに言ってたわね。"}
+{"sec": "map:535", "key": "EDIE: Because Scarlett loves me.", "en": "EDIE: Because Scarlett loves me.", "ja": "イーディ: だってスカーレットはあたしのこと愛してるもん。"}
+{"sec": "map:535", "key": "LOTTIE: I suppose... somehow, he does.", "en": "LOTTIE: I suppose... somehow, he does.", "ja": "ロッティ: そうね……どういうわけか、そうなんでしょうね。"}
+{"sec": "map:535", "key": "GARDEVOIR: -After that, everything should have settled down into a make-believe happily ever after.-", "en": "GARDEVOIR: -After that, everything should have settled down into a make-believe happily ever after.-", "ja": "サーナイト: -それから先は、作りごとめいた「めでたしめでたし」に落ち着くはずでした-"}
+{"sec": "map:535", "key": "-But nothing done for others ever works out quite as it should.-", "en": "-But nothing done for others ever works out quite as it should.-", "ja": "-けれど、他人のためにしたことが、思い通りに運ぶことなど決してないのです-"}
+{"sec": "map:535", "key": "SCARBOROUGH: If this is what love is like...", "en": "SCARBOROUGH: If this is what love is like...", "ja": "スカボロー: これが愛というものなら……"}
+{"sec": "map:535", "key": "???: LOTTIE! EDIE!", "en": "???: LOTTIE! EDIE!", "ja": "???: ロッティ!イーディ!"}
+{"sec": "map:535", "key": "LOTTIE: Barrie!", "en": "LOTTIE: Barrie!", "ja": "ロッティ: バリー!"}
+{"sec": "map:535", "key": "What's going on?!", "en": "What's going on?!", "ja": "何があったの!?"}
+{"sec": "map:535", "key": "BARRIE: Something is growing all across the ward!", "en": "BARRIE: Something is growing all across the ward!", "ja": "バリー: 何かがワード中に広がってる!"}
+{"sec": "map:535", "key": "Hang on! I'll get you guys out of here!", "en": "Hang on! I'll get you guys out of here!", "ja": "待ってろ!お前たちをここから連れ出す!"}
+{"sec": "map:535", "key": "Gardevoir, Azumarill!", "en": "Gardevoir, Azumarill! ", "ja": "サーナイト、マリルリ!"}
+{"sec": "map:535", "key": "Clear a path for us!", "en": "Clear a path for us!", "ja": "道を切り開いてくれ!"}
+{"sec": "map:535", "key": "LOTTIE: Edie, take Scarlett and go!", "en": "LOTTIE: Edie, take Scarlett and go!", "ja": "ロッティ: イーディ、スカーレットを連れて逃げなさい!"}
+{"sec": "map:535", "key": "EDIE: What about you!?", "en": "EDIE: What about you!?", "ja": "イーディ: お母さんは!?"}
+{"sec": "map:535", "key": "LOTTIE: I'll be right behind you!", "en": "LOTTIE: I'll be right behind you!", "ja": "ロッティ: すぐ後ろにいるから!"}
+{"sec": "map:535", "key": "But it's my job to get you out of here safe!", "en": "But it's my job to get you out of here safe!", "ja": "でも、あなたたちを無事に逃がすのがお母さんの役目なの!"}
+{"sec": "map:535", "key": "That's what love is!", "en": "That's what love is!", "ja": "それが愛ってものよ!"}
+{"sec": "map:535", "key": "SCARBOROUGH: I'd rather have never been loved at all.", "en": "SCARBOROUGH: I'd rather have never been loved at all.", "ja": "スカボロー: それなら、いっそ愛されたことなんてなければよかった。"}
+{"sec": "map:535", "key": "EDIE: Okay...!", "en": "EDIE: Okay...!", "ja": "イーディ: わかった……!"}
+{"sec": "map:535", "key": "Papa, I'm gonna jump!", "en": "Papa, I'm gonna jump!", "ja": "パパ、飛び降りるよ!"}
+{"sec": "map:535", "key": "BARRIE: I've got you!", "en": "BARRIE: I've got you!", "ja": "バリー: 受け止めた!"}
+{"sec": "map:535", "key": "SCARBOROUGH: Isn't it a Pokémon's right?", "en": "SCARBOROUGH: Isn't it a Pokémon's right?", "ja": "スカボロー: それがポケモンの権利ってものじゃないの?"}
+{"sec": "map:535", "key": "EDIE: Mom!", "en": "EDIE: Mom!", "ja": "イーディ: ママ!"}
+{"sec": "map:535", "key": "BARRIE: Lottie! Hang in there!", "en": "BARRIE: Lottie! Hang in there!", "ja": "バリー: ロッティ!しっかりしろ!"}
+{"sec": "map:535", "key": "LOTTIE: No, I'm okay!", "en": "LOTTIE: No, I'm okay!", "ja": "ロッティ: ううん、平気!"}
+{"sec": "map:535", "key": "I can't get out, but you two should go on ahead!", "en": "I can't get out, but you two should go on ahead!", "ja": "抜け出せないけど、二人は先に行って!"}
+{"sec": "map:535", "key": "Get to safety and come back for me; I couldn't move if I tried.", "en": "Get to safety and come back for me; I couldn't move if I tried.", "ja": "安全な場所に着いたら戻ってきて、あたしを助けて。動こうとしても動けないの。"}
+{"sec": "map:535", "key": "BARRIE: You know I can't--", "en": "BARRIE: You know I can't--", "ja": "バリー: できるわけ――"}
+{"sec": "map:535", "key": "SCARBOROUGH: It's their right to choose who they give their love to.", "en": "SCARBOROUGH: It's their right to choose who they give their love to.", "ja": "スカーボロー：誰に愛情を注ぐかを選ぶのは、あの子の権利よ。"}
+{"sec": "map:535", "key": "LOTTIE: Do it for Edie!", "en": "LOTTIE: Do it for Edie!", "ja": "ロッティ：エディーのためにやって!"}
+{"sec": "map:535", "key": "NOW!", "en": "NOW!", "ja": "今すぐ!"}
+{"sec": "map:535", "key": "SCARBOROUGH: But now...", "en": "SCARBOROUGH: But now...", "ja": "スカーボロー：でも、今は……"}
+{"sec": "map:535", "key": "EDIE: Mom's gonna be okay, right?", "en": "EDIE: Mom's gonna be okay, right?", "ja": "エディー：ママは大丈夫だよね?"}
+{"sec": "map:535", "key": "BARRIE: She will, pumpkin spice.", "en": "BARRIE: She will, pumpkin spice.", "ja": "バリー：大丈夫さ、ちびちゃん。"}
+{"sec": "map:535", "key": "She has to be.", "en": "She has to be.", "ja": "そうじゃなきゃ困る。"}
+{"sec": "map:535", "key": "EDIE: We'll go back for her, right?", "en": "EDIE: We'll go back for her, right?", "ja": "エディー：ママを迎えに行くよね?"}
+{"sec": "map:535", "key": "BARRIE: I'll go back for her.", "en": "BARRIE: I'll go back for her.", "ja": "バリー：迎えに行くとも。"}
+{"sec": "map:535", "key": "Just once we--", "en": "Just once we--", "ja": "ただ、いったん……"}
+{"sec": "map:535", "key": "SCARBOROUGH: I'm going to be like this forever, aren't I?", "en": "SCARBOROUGH: I'm going to be like this forever, aren't I?", "ja": "スカーボロー：わたし、ずっとこのままなのね。"}
+{"sec": "map:535", "key": "GARDEVOIR: -In the end, only Edie's mother survived.-", "en": "GARDEVOIR: -In the end, only Edie's mother survived.-", "ja": "サーナイト：―結局、生き残ったのはエディーの母親だけでした。―"}
+{"sec": "map:535", "key": "GARDEVOIR: -Most of my trainer's Pokémon were recovered or disposed of by Team Meteor,-", "en": "GARDEVOIR: -Most of my trainer's Pokémon were recovered or disposed of by Team Meteor,-", "ja": "サーナイト：―主人のポケモンの多くは、チームメテオに回収されるか、処分されました。―"}
+{"sec": "map:535", "key": "-But, separated by the girl, Scarborough escaped.-", "en": "-But, separated by the girl, Scarborough escaped.-", "ja": "―ですが、あの子と離ればなれになったスカーボローは、逃げ延びたのです。―"}
+{"sec": "map:535", "key": "-I can only assume she fended for herself for some time before finally being captured.-", "en": "-I can only assume she fended for herself for some time before finally being captured.-", "ja": "―しばらくは一人で生き延びていたのでしょうが、最後には捕らえられてしまったのだと思います。―"}
+{"sec": "map:535", "key": "LOTTIE: Gardevoir?", "en": "LOTTIE: Gardevoir?", "ja": "ロッティ：サーナイト?"}
+{"sec": "map:535", "key": "Is someone there?", "en": "Is someone there?", "ja": "誰かいるの?"}
+{"sec": "map:535", "key": "GARDEVOIR: -Perhaps you had better show her what you found.-", "en": "GARDEVOIR: -Perhaps you had better show her what you found.-", "ja": "サーナイト：―見つけたものを、あの方にお見せしたほうがよいでしょう。―"}
+{"sec": "map:535", "key": "-But please make no mistake.-", "en": "-But please make no mistake.-", "ja": "―ですが、勘違いなさらないでください。―"}
+{"sec": "map:535", "key": "-Scarborough does not belong in this house.-", "en": "-Scarborough does not belong in this house.-", "ja": "―スカーボローは、この家の子ではありません。―"}
+{"sec": "map:535", "key": "-Take her to a freedom she has yet to enjoy.-", "en": "-Take her to a freedom she has yet to enjoy.-", "ja": "―まだ知らぬ自由へと、あの子を連れていってあげてください。―"}
+{"sec": "map:535", "key": "GARDEVOIR: -Perhaps you had better show the mistress what you found.-", "en": "GARDEVOIR: -Perhaps you had better show the mistress what you found.-", "ja": "サーナイト：―見つけたものを、奥様にお見せしたほうがよいでしょう。―"}
+{"sec": "map:535", "key": "LOTTIE: Ah, a visitor?", "en": "LOTTIE: Ah, a visitor?", "ja": "ロッティ：あら、お客様?"}
+{"sec": "map:535", "key": "You'll have to excuse me for not being more accommodating...", "en": "You'll have to excuse me for not being more accommodating...", "ja": "あまりおもてなしできなくてごめんなさいね……"}
+{"sec": "map:535", "key": "It's been quite some time since my vitality has left me.", "en": "It's been quite some time since my vitality has left me.", "ja": "元気を失ってから、もうずいぶん経つのよ。"}
+{"sec": "map:535", "key": "How can I help you?", "en": "How can I help you?", "ja": "どんなご用かしら?"}
+{"sec": "map:535", "key": "\\PN handed over the Ribbon Collar.", "en": "\\PN handed over the Ribbon Collar.", "ja": "\\PNはリボンのくびわを渡した。"}
+{"sec": "map:535", "key": "LOTTIE: This...", "en": "LOTTIE: This...", "ja": "ロッティ：これは……"}
+{"sec": "map:535", "key": "LOTTIE: ...I see.", "en": "LOTTIE: ...I see. ", "ja": "ロッティ：……そう。"}
+{"sec": "map:535", "key": "Thank you for bringing this to me.", "en": "Thank you for bringing this to me.", "ja": "これを届けてくれてありがとう。"}
+{"sec": "map:535", "key": "Scarlett...", "en": "Scarlett... ", "ja": "スカーレット……"}
+{"sec": "map:535", "key": "Or... was it Scarborough?", "en": "Or... was it Scarborough?", "ja": "いえ……スカーボローだったかしら?"}
+{"sec": "map:535", "key": "Is she well?", "en": "Is she well?", "ja": "あの子は元気にしているの?"}
+{"sec": "map:535", "key": "LOTTIE: That's...", "en": "LOTTIE: That's... ", "ja": "ロッティ：それは……"}
+{"sec": "map:535", "key": "That's lovely to hear.", "en": "That's lovely to hear.", "ja": "それを聞けてうれしいわ。"}
+{"sec": "map:535", "key": "LOTTIE: I see...", "en": "LOTTIE: I see...", "ja": "ロッティ：そう……"}
+{"sec": "map:535", "key": "I suppose keeping her away from here would be best.", "en": "I suppose keeping her away from here would be best.", "ja": "あの子をこの家から遠ざけておくのが、いちばんいいのでしょうね。"}
+{"sec": "map:535", "key": "I know as well as any that my daughter was not as kind to her as she could have been.", "en": "I know as well as any that my daughter was not as kind to her as she could have been.", "ja": "うちの娘があの子にやさしくしてやれなかったことは、誰よりもよくわかっているの。"}
+{"sec": "map:535", "key": "But one can only lead a Horsea to water.", "en": "But one can only lead a Horsea to water.", "ja": "でも、シードラを水辺まで連れていくことしかできないものよ。"}
+{"sec": "map:535", "key": "...I suppose in the end, she fell in.", "en": "...I suppose in the end, she fell in.", "ja": "……結局、あの子は水に落ちてしまったのね。"}
+{"sec": "map:535", "key": "Thank you for taking the time to bring me what you've found.", "en": "Thank you for taking the time to bring me what you've found.", "ja": "わざわざ見つけたものを届けてくれて、本当にありがとう。"}
+{"sec": "map:535", "key": "Please take good care of Scarborough.", "en": "Please take good care of Scarborough.", "ja": "どうかスカーボローをよろしくお願いね。"}
+{"sec": "map:535", "key": "Can I offer you this for your trouble?", "en": "Can I offer you this for your trouble?", "ja": "お礼にこれを受け取ってもらえるかしら?"}
+{"sec": "map:535", "key": "I don't exactly make it out to the Department Store much these days.", "en": "I don't exactly make it out to the Department Store much these days.", "ja": "最近はデパートにもあまり出かけられなくてね。"}
+{"sec": "map:535", "key": "\\PN obtained a Department Store Sticker: Eevee!", "en": "\\PN obtained a Department Store Sticker: Eevee!", "ja": "\\PNはデパートシール「イーブイ」を手に入れた!"}
+{"sec": "map:535", "key": "LOTTIE: I'll be all right, as long as I have his Gardevoir to look out for me.", "en": "LOTTIE: I'll be all right, as long as I have his Gardevoir to look out for me.", "ja": "ロッティ：あの人のサーナイトが見守っていてくれる限り、わたしは大丈夫よ。"}
+{"sec": "map:535", "key": "In a way, it's sort of like he still is.", "en": "In a way, it's sort of like he still is.", "ja": "ある意味、あの人がまだいるようなものだもの。"}
+{"sec": "map:535", "key": "So you have to look out for her.", "en": "So you have to look out for her.", "ja": "だから、あなたはあの子を見守ってあげてね。"}
+{"sec": "map:535", "key": "I already failed to.", "en": "I already failed to.", "ja": "わたしはもう、それに失敗してしまったから。"}
+{"sec": "map:535", "key": "LOTTIE: ...Oh, so you don't have a Membership Card.", "en": "LOTTIE: ...Oh, so you don't have a Membership Card.", "ja": "ロッティ：……あら、メンバーズカードを持っていないのね。"}
+{"sec": "map:535", "key": "I suppose if you ever get one, this will be waiting for you.", "en": "I suppose if you ever get one, this will be waiting for you.", "ja": "いつか手に入れたときのために、これを取っておいてあげる。"}
+{"sec": "map:535", "key": "And me too.", "en": "And me too.", "ja": "わたしもね。"}
+{"sec": "map:535", "key": "Lord knows I don't go anywhere.", "en": "Lord knows I don't go anywhere.", "ja": "どうせどこにも出かけやしないもの。"}
+{"sec": "map:535", "key": "Did you come here for some reason?", "en": "Did you come here for some reason?", "ja": "何か用があって来たの?"}
+{"sec": "map:535", "key": "Yes", "en": "Yes", "ja": "はい"}
+{"sec": "map:535", "key": "No", "en": "No", "ja": "いいえ"}

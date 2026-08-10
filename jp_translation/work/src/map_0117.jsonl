@@ -1,0 +1,105 @@
+{"sec": "map:117", "key": "Hello! Welcome to the Onyx Arcade!", "en": "Hello! Welcome to the Onyx Arcade!", "ja": "こんにちは! オニキスゲームセンターへようこそ!"}
+{"sec": "map:117", "key": "Unfortunately, our player versus player systems are currently offline due to a system virus, but please feel free to enjoy the rest of our features!", "en": "Unfortunately, our player versus player systems are currently offline due to a system virus, but please feel free to enjoy the rest of our features!", "ja": "残念ながら、システムウイルスの影響で対戦システムは現在停止していますが、他の機能はぜひお楽しみください!"}
+{"sec": "map:117", "key": "Hello! Welcome to the Onyx Arcade, now fully operational!", "en": "Hello! Welcome to the Onyx Arcade, now fully operational!", "ja": "こんにちは! 全機能が復旧したオニキスゲームセンターへようこそ!"}
+{"sec": "map:117", "key": "This is the Pokémon Lottery Corner. I'm Rarity, your attendant today.", "en": "This is the Pokémon Lottery Corner. I'm Rarity, your attendant today.", "ja": "ここはポケモン宝くじコーナーです。本日の係員、レアリティです。"}
+{"sec": "map:117", "key": "If the drawn number matches the ID No. of any of your Pokémon, you could win fabulous gifts.", "en": "If the drawn number matches the ID No. of any of your Pokémon, you could win fabulous gifts.", "ja": "引いた番号が、お手持ちのポケモンのID番号と一致すれば、素敵な景品がもらえますよ。"}
+{"sec": "map:117", "key": "Would you like to check today's lucky number?", "en": "Would you like to check today's lucky number?", "ja": "本日のラッキーナンバーを確認しますか?"}
+{"sec": "map:117", "key": "First, I'll look up today's Pokémon Lottery Corner lucky number.", "en": "First, I'll look up today's Pokémon Lottery Corner lucky number.", "ja": "まず、本日のポケモン宝くじコーナーのラッキーナンバーを調べますね。"}
+{"sec": "map:117", "key": "...", "en": "...", "ja": "…………"}
+{"sec": "map:117", "key": "Your Lotto Ticket number is \\v[1].", "en": "Your Lotto Ticket number is \\v[1].", "ja": "あなたの宝くじ番号は\\v[1]です。"}
+{"sec": "map:117", "key": "Now, let's see if it matches the ID No. of any of your Pokémon.", "en": "Now, let's see if it matches the ID No. of any of your Pokémon.", "ja": "それでは、お手持ちのポケモンのID番号と一致するか確認しましょう。"}
+{"sec": "map:117", "key": "I'm sorry. You didn't get a match...", "en": "I'm sorry. You didn't get a match...", "ja": "残念、一致しませんでした……"}
+{"sec": "map:117", "key": "Please do visit again.", "en": "Please do visit again.", "ja": "またのご来店をお待ちしております。"}
+{"sec": "map:117", "key": "Congratulations!", "en": "Congratulations!", "ja": "おめでとうございます!"}
+{"sec": "map:117", "key": "The ID number of your team's \\v[2] matches your Lotto Ticket number!", "en": "The ID number of your team's \\v[2] matches your Lotto Ticket number!", "ja": "手持ちの\\v[2]のID番号が、宝くじ番号と一致しました!"}
+{"sec": "map:117", "key": "The ID number of your PC-boxed \\v[2] matches your Lotto Ticket number!", "en": "The ID number of your PC-boxed \\v[2] matches your Lotto Ticket number!", "ja": "ボックス内の\\v[2]のID番号が、宝くじ番号と一致しました!"}
+{"sec": "map:117", "key": "Oh my goodness, all five digits matched!", "en": "Oh my goodness, all five digits matched!", "ja": "なんと、5桁すべて一致です!"}
+{"sec": "map:117", "key": "You've won the jackpot prize!", "en": "You've won the jackpot prize!", "ja": "大当たり賞のプレゼントです!"}
+{"sec": "map:117", "key": "Please do visit again! Good-bye from Rarity, your attendant!", "en": "Please do visit again! Good-bye from Rarity, your attendant!", "ja": "またのご来店をお待ちしております! 係員のレアリティでした!"}
+{"sec": "map:117", "key": "\\rYou have no room left. Make room, then come see me.", "en": "\\rYou have no room left. Make room, then come see me.", "ja": "\\r空きがありません。スペースを空けてから、またお越しください。"}
+{"sec": "map:117", "key": "The last four digits matched, so you win the first prize!", "en": "The last four digits matched, so you win the first prize!", "ja": "下4桁が一致したので、1等のプレゼントです!"}
+{"sec": "map:117", "key": "You have no room left. Make room, then come see me.", "en": "You have no room left. Make room, then come see me.", "ja": "空きがありません。スペースを空けてから、またお越しください。"}
+{"sec": "map:117", "key": "The last three digits matched, so you win the second prize!", "en": "The last three digits matched, so you win the second prize!", "ja": "下3桁が一致したので、2等のプレゼントです!"}
+{"sec": "map:117", "key": "The last two digits matched, so you win the third prize!", "en": "The last two digits matched, so you win the third prize!", "ja": "下2桁が一致したので、3等のプレゼントです!"}
+{"sec": "map:117", "key": "The last digit matched, so you win the fourth prize!", "en": "The last digit matched, so you win the fourth prize!", "ja": "下1桁が一致したので、4等のプレゼントです!"}
+{"sec": "map:117", "key": "Oh, I see.\\nPlease do visit us again.", "en": "Oh, I see.\\nPlease do visit us again.", "ja": "そうですか。\\nまたのご来店をお待ちしております。"}
+{"sec": "map:117", "key": "You've already drawn a Lotto Ticket today. Please come back tomorrow.", "en": "You've already drawn a Lotto Ticket today. Please come back tomorrow.", "ja": "本日はもう宝くじを引いていますよ。また明日いらしてください。"}
+{"sec": "map:117", "key": "I've been waiting for you. Here's the item you won.", "en": "I've been waiting for you. Here's the item you won.", "ja": "お待ちしておりました。当選した景品をどうぞ。"}
+{"sec": "map:117", "key": "Why is the game down...", "en": "Why is the game down... ", "ja": "何でゲームが止まってるんだよ……"}
+{"sec": "map:117", "key": "My life has no meaning without online games.", "en": "My life has no meaning without online games.", "ja": "オンラインゲームがなきゃ、俺の人生に意味なんてない。"}
+{"sec": "map:117", "key": "I will be the best!!!", "en": "I will be the best!!!", "ja": "俺が絶対トップになってやる!!!"}
+{"sec": "map:117", "key": "...When the PvP system is back.", "en": "...When the PvP system is back.", "ja": "……対戦システムが復活したらな。"}
+{"sec": "map:117", "key": "Yes! I finally got promoted to Crystal!", "en": "Yes! I finally got promoted to Crystal!", "ja": "よし! やっとクリスタルに昇格した!"}
+{"sec": "map:117", "key": "I'll just gamble my life away until the real game is back.", "en": "I'll just gamble my life away until the real game is back.", "ja": "本物のゲームが戻ってくるまで、人生を賭けてギャンブルしとくか。"}
+{"sec": "map:117", "key": "I don't even care if I win or not. Here, have some coins.", "en": "I don't even care if I win or not. Here, have some coins.", "ja": "勝っても負けてもどうでもいいや。ほら、コインやるよ。"}
+{"sec": "map:117", "key": "\\PN received 130 coins!", "en": "\\PN received 130 coins!", "ja": "\\PNはコインを130枚もらった!"}
+{"sec": "map:117", "key": "All the regulars here are sad 'cuz their arcade game is down.", "en": "All the regulars here are sad 'cuz their arcade game is down.", "ja": "常連はみんな、ゲームが止まってて悲しんでるよ。"}
+{"sec": "map:117", "key": "Me? I got a better game right here. It's called Pokémon Reborn.", "en": "Me? I got a better game right here. It's called Pokémon Reborn.", "ja": "俺? 俺にはもっといいゲームがあるんだ。ポケモンリボーンっていうんだけどな。"}
+{"sec": "map:117", "key": "You probably haven't heard of it.", "en": "You probably haven't heard of it.", "ja": "たぶん聞いたことないだろうけど。"}
+{"sec": "map:117", "key": "The server is offline, and right when I had almost earned enough points to buy a new champion...", "en": "The server is offline, and right when I had almost earned enough points to buy a new champion...", "ja": "サーバーが落ちてるんだよ、あと少しで新しいチャンピオンが買えるポイントが貯まりそうだったのに……"}
+{"sec": "map:117", "key": "Here you can buy coins to play our games and win fabulous prizes!", "en": "Here you can buy coins to play our games and win fabulous prizes!", "ja": "ここではゲームで遊んで素敵な景品が当たるコインを購入できますよ!"}
+{"sec": "map:117", "key": "Coins can be purchased at 50 for $1000 or 500 for $10,000.", "en": "Coins can be purchased at 50 for $1000 or 500 for $10,000.", "ja": "コインは$1000で50枚、$10,000で500枚購入できます。"}
+{"sec": "map:117", "key": "\\G\\CNWould you like to buy some coins?", "en": "\\G\\CNWould you like to buy some coins?", "ja": "\\G\\CNコインを購入しますか?"}
+{"sec": "map:117", "key": "Thank you very much!", "en": "Thank you very much!", "ja": "誠にありがとうございます!"}
+{"sec": "map:117", "key": "I'm afraid you don't have the cash. Please come back soon!", "en": "I'm afraid you don't have the cash. Please come back soon!", "ja": "申し訳ありません、お金が足りないようです。またのお越しをお待ちしております!"}
+{"sec": "map:117", "key": "Enjoy the games!", "en": "Enjoy the games!", "ja": "ゲームを楽しんでくださいね!"}
+{"sec": "map:117", "key": "Oh, I'm sorry. In order to purchase coins, you must have a Coin Case first. Please return as soon as you obtain one!", "en": "Oh, I'm sorry. In order to purchase coins, you must have a Coin Case first. Please return as soon as you obtain one!", "ja": "あら、申し訳ありません。コインを購入するには、まずコインケースが必要です。手に入れ次第、またお越しください!"}
+{"sec": "map:117", "key": "Hello! Here, you can exchange your coins for fantastic prizes!", "en": "Hello! Here, you can exchange your coins for fantastic prizes!", "ja": "こんにちは! ここではコインを素敵な景品と交換できますよ!"}
+{"sec": "map:117", "key": "Which would you like?", "en": "Which would you like?", "ja": "どちらになさいますか?"}
+{"sec": "map:117", "key": "Your Coins: \\v[230] \\ch[62,-1,Snover- 600 Coins,Slugma- 1000 Coins,Mantyke- 1800 Coins,Nidoran M- 3500 Coins,Shinx- 5000 Coins]", "en": "Your Coins: \\v[230] \\ch[62,-1,Snover- 600 Coins,Slugma- 1000 Coins,Mantyke- 1800 Coins,Nidoran M- 3500 Coins,Shinx- 5000 Coins]", "ja": "所持コイン: \\v[230] \\ch[62,-1,ユキカブリ- 600コイン,マグマッグ- 1000コイン,タマンタ- 1800コイン,ニドラン♂- 3500コイン,コリンク- 5000コイン]"}
+{"sec": "map:117", "key": "Thank you! We hope you've enjoyed the Onyx Arcade experience!", "en": "Thank you! We hope you've enjoyed the Onyx Arcade experience!", "ja": "ありがとうございます! オニキスゲームセンターをお楽しみいただけたなら幸いです!"}
+{"sec": "map:117", "key": "I'm sorry, it seems you don't have the necessary coins for that prize yet.", "en": "I'm sorry, it seems you don't have the necessary coins for that prize yet.", "ja": "申し訳ありません、その景品に必要なコインがまだ足りないようです。"}
+{"sec": "map:117", "key": "Machine, why you no payout?!", "en": "Machine, why you no payout?!", "ja": "この機械、何で当たらないんだよ?!"}
+{"sec": "map:117", "key": "Come on, big money, big money... No Krabbies...", "en": "Come on, big money, big money... No Krabbies...", "ja": "来い、大当たり、大当たり……クラブは出るな……"}
+{"sec": "map:117", "key": "You're never too old to play games!", "en": "You're never too old to play games!", "ja": "ゲームを楽しむのに年なんて関係ないさ!"}
+{"sec": "map:117", "key": "Here! Have some coins to get started!", "en": "Here! Have some coins to get started!", "ja": "はい! 始めるためのコインをどうぞ!"}
+{"sec": "map:117", "key": "\\PN received 300 coins!", "en": "\\PN received 300 coins!", "ja": "\\PNはコインを300枚もらった!"}
+{"sec": "map:117", "key": "Hum. Which do you think is better, the slot machines or these Voltorb Flip games?", "en": "Hum. Which do you think is better, the slot machines or these Voltorb Flip games?", "ja": "うーん。スロットマシンと、このビリリダマめくり、どっちがいいと思う?"}
+{"sec": "map:117", "key": "I just won big! Let's see if I can turn it into a streak!", "en": "I just won big! Let's see if I can turn it into a streak!", "ja": "さっき大当たりしたんだ! この調子で連勝といくか!"}
+{"sec": "map:117", "key": "Cheers, mate!", "en": "Cheers, mate!", "ja": "乾杯だ、相棒!"}
+{"sec": "map:117", "key": "\\PN received 200 coins!", "en": "\\PN received 200 coins!", "ja": "\\PNはコインを200枚もらった!"}
+{"sec": "map:117", "key": "\\PN found 30 coins!", "en": "\\PN found 30 coins!", "ja": "\\PNはコインを30枚見つけた!"}
+{"sec": "map:117", "key": "\\PN found 20 coins!", "en": "\\PN found 20 coins!", "ja": "\\PNはコインを20枚見つけた!"}
+{"sec": "map:117", "key": "\\PN found 15 coins!", "en": "\\PN found 15 coins!", "ja": "\\PNはコインを15枚見つけた!"}
+{"sec": "map:117", "key": "\\PN found 55 coins!", "en": "\\PN found 55 coins!", "ja": "\\PNはコインを55枚見つけた!"}
+{"sec": "map:117", "key": "\\PN found 10 coins!", "en": "\\PN found 10 coins!", "ja": "\\PNはコインを10枚見つけた!"}
+{"sec": "map:117", "key": "\\PN found 45 coins!", "en": "\\PN found 45 coins!", "ja": "\\PNはコインを45枚見つけた!"}
+{"sec": "map:117", "key": "\\PN found 5 coins!", "en": "\\PN found 5 coins!", "ja": "\\PNはコインを5枚見つけた!"}
+{"sec": "map:117", "key": "\\PN found 115 coins!", "en": "\\PN found 115 coins!", "ja": "\\PNはコインを115枚見つけた!"}
+{"sec": "map:117", "key": "\\PN found 235 coins!", "en": "\\PN found 235 coins!", "ja": "\\PNはコインを235枚見つけた!"}
+{"sec": "map:117", "key": "Your Coins: \\v[230]", "en": "Your Coins: \\v[230]", "ja": "所持コイン: \\v[230]"}
+{"sec": "map:117", "key": "Oh! It looks like you already have that TM!", "en": "Oh! It looks like you already have that TM!", "ja": "あら! そのわざマシンはもうお持ちのようですね!"}
+{"sec": "map:117", "key": "Are you sure you want another one?", "en": "Are you sure you want another one?", "ja": "それでも、もう一つご希望ですか?"}
+{"sec": "map:117", "key": "Sorry, it seems you don't have room for that!", "en": "Sorry, it seems you don't have room for that!", "ja": "申し訳ありません、空きがないようです!"}
+{"sec": "map:117", "key": "We're gonna beat those Gearen City punks for sure!", "en": "We're gonna beat those Gearen City punks for sure!", "ja": "ギアレン・シティの奴らなんて、絶対倒してやるぜ!"}
+{"sec": "map:117", "key": "Hey! Stop feeding, you noob!", "en": "Hey! Stop feeding, you noob!", "ja": "おい! 敵にキル献上すんな、初心者かよ!"}
+{"sec": "map:117", "key": "Hey, you're right, this game is pretty fun!", "en": "Hey, you're right, this game is pretty fun!", "ja": "おい、確かにこのゲーム、結構面白いな!"}
+{"sec": "map:117", "key": "I mean, I'm super bad, but I should've started playing this a lot sooner!", "en": "I mean, I'm super bad, but I should've started playing this a lot sooner!", "ja": "まあ、めちゃくちゃ下手だけどさ、もっと早くやっとけばよかった!"}
+{"sec": "map:117", "key": "Stop squabbling, we need sight on the Earl.", "en": "Stop squabbling, we need sight on the Earl. ", "ja": "もめてる場合か、アールの視界を確保しないと。"}
+{"sec": "map:117", "key": "Heal please.", "en": "Heal please.", "ja": "回復頼む。"}
+{"sec": "map:117", "key": "Ugh, I've been playing for days straight and I'm tired of it.", "en": "Ugh, I've been playing for days straight and I'm tired of it.", "ja": "うわー、何日もぶっ通しでやってて、もう疲れたよ。"}
+{"sec": "map:117", "key": "But what else is there even to do?", "en": "But what else is there even to do?", "ja": "でも、他に何かすることあるか?"}
+{"sec": "map:117", "key": "Coral Gym is looking for help?", "en": "Coral Gym is looking for help?", "ja": "コーラルジムが助けを求めてる?"}
+{"sec": "map:117", "key": "Sure, I'll go help out.", "en": "Sure, I'll go help out.", "ja": "よし、手伝いに行くか。"}
+{"sec": "map:117", "key": "Maybe I'll remember what it's like to have a purpose in life or something.", "en": "Maybe I'll remember what it's like to have a purpose in life or something.", "ja": "人生の目的とかいうやつ、思い出せるかもな。"}
+{"sec": "map:117", "key": "\\PN found 0 coins!", "en": "\\PN found 0 coins!", "ja": "\\PNはコインを0枚見つけた!"}
+{"sec": "map:117", "key": "\\PN found 5000 coins!", "en": "\\PN found 5000 coins!", "ja": "\\PNはコインを5000枚見つけた!"}
+{"sec": "map:117", "key": "Do you and your Pokémon need a rest?", "en": "Do you and your Pokémon need a rest?", "ja": "あなたとポケモン、休憩は必要ですか?"}
+{"sec": "map:117", "key": "I've got nothing better to do while my granddaughter plays on the games.", "en": "I've got nothing better to do while my granddaughter plays on the games.", "ja": "孫がゲームで遊んでる間、他にやることもないからね。"}
+{"sec": "map:117", "key": "Let me take care of the little ones.", "en": "Let me take care of the little ones.", "ja": "小さい子たちの面倒はわたしに任せて。"}
+{"sec": "map:117", "key": "Play safe out there!", "en": "Play safe out there!", "ja": "安全に楽しんでね!"}
+{"sec": "map:117", "key": "HOST: Let's spin the wheel. See where it may fall? Give into temptation!", "en": "HOST: Let's spin the wheel. See where it may fall? Give into temptation!", "ja": "司会: さあ、ルーレットを回しましょう。どこに止まるかな? 誘惑に負けちゃいましょう!"}
+{"sec": "map:117", "key": "\\PN found 125 coins!", "en": "\\PN found 125 coins!", "ja": "\\PNはコインを125枚見つけた!"}
+{"sec": "map:117", "key": "Round and round and round and round and round and round and round.................", "en": "Round and round and round and round and round and round and round.................", "ja": "ぐるぐるぐるぐるぐるぐるぐる................."}
+{"sec": "map:117", "key": "Bah! Lost again. I hate these things.", "en": "Bah! Lost again. I hate these things.", "ja": "ちっ! また負けた。こういうの大嫌いだ。"}
+{"sec": "map:117", "key": "There's gotta be some kind of calculator for it...", "en": "There's gotta be some kind of calculator for it...", "ja": "何か計算する方法があるはずなんだけどな……"}
+{"sec": "map:117", "key": "This is where you win the big money!", "en": "This is where you win the big money!", "ja": "ここが大金を当てるところだ!"}
+{"sec": "map:117", "key": "Yes", "en": "Yes", "ja": "はい"}
+{"sec": "map:117", "key": "No", "en": "No", "ja": "いいえ"}
+{"sec": "map:117", "key": "50 Coins/$1000", "en": "50 Coins/$1000", "ja": "50コイン/$1000"}
+{"sec": "map:117", "key": "500 Coins/$10000", "en": "500 Coins/$10000", "ja": "500コイン/$10000"}
+{"sec": "map:117", "key": "No Thanks", "en": "No Thanks", "ja": "いいえ結構です"}
+{"sec": "map:117", "key": "TM Attract- 1000 Coins", "en": "TM Attract- 1000 Coins", "ja": "わざマシン メロメロ- 1000コイン"}
+{"sec": "map:117", "key": "TM Facade- 4000 Coins", "en": "TM Facade- 4000 Coins", "ja": "わざマシン からげんき- 4000コイン"}
+{"sec": "map:117", "key": "TM Substitute- 7000 Coins", "en": "TM Substitute- 7000 Coins", "ja": "わざマシン みがわり- 7000コイン"}
+{"sec": "map:117", "key": "Nothing", "en": "Nothing", "ja": "何もしない"}

@@ -1,0 +1,842 @@
+{"sec": "map:858", "key": "The cart has been completely emptied!", "en": "The cart has been completely emptied!", "ja": "台車がすっかり空になった!"}
+{"sec": "map:858", "key": "CHIEF: Yes, just back here.", "en": "CHIEF: Yes, just back here.", "ja": "チーフ: ええ、ちょうどこの裏です。"}
+{"sec": "map:858", "key": "CHIEF: The Red and Blue Orb, firmly secured for transport!", "en": "CHIEF: The Red and Blue Orb, firmly secured for transport!", "ja": "チーフ: 赤の秘宝と青の秘宝、輸送用にしっかり固定完了!"}
+{"sec": "map:858", "key": "This is the only entrance to the storage cart, so all you have to do is wait right here!", "en": "This is the only entrance to the storage cart, so all you have to do is wait right here!", "ja": "これが貯蔵車両への唯一の入り口です。ですから、ここでただ待っていてくれればいいんです!"}
+{"sec": "map:858", "key": "It might not be the most interesting, but police work is like that sometimes!", "en": "It might not be the most interesting, but police work is like that sometimes!", "ja": "一番面白い仕事とは言えませんが、警察の仕事とはそういうものです!"}
+{"sec": "map:858", "key": "All for the safety of the people, am I right?", "en": "All for the safety of the people, am I right?", "ja": "すべては人々の安全のためですからね?"}
+{"sec": "map:858", "key": "Now, since we're traveling with guests, how about you go and meet them?", "en": "Now, since we're traveling with guests, how about you go and meet them?", "ja": "さて、せっかくお客様たちと一緒に旅をしているんですから、挨拶に行ってみたらどうです?"}
+{"sec": "map:858", "key": "No need to mention what you're really here for, and I'll be keeping an eye on them for most of the ride, but as long as you're here, you may as well know who's on board!", "en": "No need to mention what you're really here for, and I'll be keeping an eye on them for most of the ride, but as long as you're here, you may as well know who's on board!", "ja": "本当の目的はわざわざ言う必要はありませんし、この旅の大半は私が彼らに目を光らせておきますから、いるうちに誰が乗っているか知っておくのもいいでしょう!"}
+{"sec": "map:858", "key": "Go on, have a social moment before your shift starts true!", "en": "Go on, have a social moment before your shift starts true!", "ja": "さあ、本格的にシフトが始まる前に、ちょっと社交でもしてきてください!"}
+{"sec": "map:858", "key": "CHIEF: If you're worried about me laying my grubby mitts on them-- don't be!", "en": "CHIEF: If you're worried about me laying my grubby mitts on them-- don't be!", "ja": "チーフ: 私が汚い手で彼らに手を出すんじゃないかと心配なら――大丈夫です!"}
+{"sec": "map:858", "key": "If I wanted to steal these, I could've done so at any point during arranging transport abroad for them,", "en": "If I wanted to steal these, I could've done so at any point during arranging transport abroad for them,", "ja": "もし盗むつもりなら、海外への輸送手配のどの段階でだって、とっくにやっていたはずですよ。"}
+{"sec": "map:858", "key": "And more importantly, what would a bloke like me do with something like this?", "en": "And more importantly, what would a bloke like me do with something like this?", "ja": "それに何より、私みたいな人間がこんな物を手に入れて、一体何をするというんです?"}
+{"sec": "map:858", "key": "Bah! All these legendary artifacts are more trouble than they're worth!", "en": "Bah! All these legendary artifacts are more trouble than they're worth!", "ja": "ふん! こういう伝説の遺物なんて、価値以上に厄介事のほうが多いんですから!"}
+{"sec": "map:858", "key": "You go on and meet the guests with a clear conscience!", "en": "You go on and meet the guests with a clear conscience!", "ja": "後ろめたい気持ちなんて捨てて、お客様たちに会ってきてください!"}
+{"sec": "map:858", "key": "But if you really don't want to, we can always trade now!", "en": "But if you really don't want to, we can always trade now!", "ja": "でも本当に行きたくないなら、今すぐ交代しても構いませんよ!"}
+{"sec": "map:858", "key": "Are you sure you don't want a moment to meet and greet?", "en": "Are you sure you don't want a moment to meet and greet?", "ja": "本当に挨拶する時間はいらないんですか?"}
+{"sec": "map:858", "key": "CHIEF: Just as well!", "en": "CHIEF: Just as well!", "ja": "チーフ: それならそれで結構!"}
+{"sec": "map:858", "key": "It'll be a long trip-- go on and socialize while you can!", "en": "It'll be a long trip-- go on and socialize while you can!", "ja": "長い旅になりますからね――行けるうちに社交しておいてください!"}
+{"sec": "map:858", "key": "CHIEF: Hrm... If you're sure, it's no problem!", "en": "CHIEF: Hrm... If you're sure, it's no problem!", "ja": "チーフ: うーむ……そう言うのなら、それでも問題ありません!"}
+{"sec": "map:858", "key": "CHIEF: Have you made all the rounds you want to already?", "en": "CHIEF: Have you made all the rounds you want to already?", "ja": "チーフ: もう挨拶したいところは全部回りましたか?"}
+{"sec": "map:858", "key": "CHIEF: Very good!", "en": "CHIEF: Very good!", "ja": "チーフ: よろしい!"}
+{"sec": "map:858", "key": "Let's trade off then.", "en": "Let's trade off then.", "ja": "では交代しましょう。"}
+{"sec": "map:858", "key": "I'll keep an eye on the guests-- you can keep an eye on the goods.", "en": "I'll keep an eye on the guests-- you can keep an eye on the goods.", "ja": "私はお客様たちに目を配ります――あなたは品物を見張っていてください。"}
+{"sec": "map:858", "key": "Between us, not a soul on board will have so much as a chance to swipe these!", "en": "Between us, not a soul on board will have so much as a chance to swipe these!", "ja": "二人でいれば、乗客の誰一人としてこれを盗み出すチャンスなんてありませんよ!"}
+{"sec": "map:858", "key": "Then I'll be off.", "en": "Then I'll be off.", "ja": "では、私はこれで。"}
+{"sec": "map:858", "key": "CHIEF: Take good care of the orbs!", "en": "CHIEF: Take good care of the orbs!", "ja": "チーフ: 秘宝をよろしく頼みますよ!"}
+{"sec": "map:858", "key": "I'll check in again in a bit-- perhaps even bring you something from the snack cart!", "en": "I'll check in again in a bit-- perhaps even bring you something from the snack cart!", "ja": "またしばらくしたら様子を見に来ます――もしかしたら軽食車両から何か持ってくるかもしれません!"}
+{"sec": "map:858", "key": "Until then!", "en": "Until then!", "ja": "それでは、また後で!"}
+{"sec": "map:858", "key": "The engine car is off limits to passengers.", "en": "The engine car is off limits to passengers.", "ja": "機関車の車両は乗客立ち入り禁止だ。"}
+{"sec": "map:858", "key": "Locked.", "en": "Locked.", "ja": "カギが　かかっている"}
+{"sec": "map:858", "key": "CRAUDBURRY: YOU.", "en": "CRAUDBURRY: YOU.", "ja": "クラウドバリー: あ・な・た。"}
+{"sec": "map:858", "key": "What are YOU doing here, hmmm?", "en": "What are YOU doing here, hmmm?", "ja": "一体あなたはここで何をしているの、ん～?"}
+{"sec": "map:858", "key": "Come to ruin the relaxing getaway of a kind, elderly woman?!", "en": "Come to ruin the relaxing getaway of a kind, elderly woman?!", "ja": "親切な老婦人ののんびりした休暇を台無しにしに来たの?!"}
+{"sec": "map:858", "key": "How DARE you even consider violating the sanctity of this train with your PUTRESCENCE!", "en": "How DARE you even consider violating the sanctity of this train with your PUTRESCENCE!", "ja": "よくもまあ、あなたのそのおぞましさで、この列車の神聖さを汚そうなんて考えられたものね!"}
+{"sec": "map:858", "key": "So much for the dining car!", "en": "So much for the dining car!", "ja": "食堂車もこれで台無しよ!"}
+{"sec": "map:858", "key": "They'd better decontaminate every square inch of this place after inviting GUTTER TRASH like YOU in!", "en": "They'd better decontaminate every square inch of this place after inviting GUTTER TRASH like YOU in!", "ja": "あ・な・たみたいなドブためのゴミを招き入れたんだから、この場所の隅から隅まで消毒してもらわないと!"}
+{"sec": "map:858", "key": "Get away from me at once!", "en": "Get away from me at once!", "ja": "今すぐ私から離れなさい!"}
+{"sec": "map:858", "key": "My poor nose can only take so much at once.", "en": "My poor nose can only take so much at once.", "ja": "私のかわいそうな鼻には限界があるのよ。"}
+{"sec": "map:858", "key": "CRAUDBURRY: Are you naturally this insufferable or is it just your mission to make your presence as OFFENSIVE as humanly possible?", "en": "CRAUDBURRY: Are you naturally this insufferable or is it just your mission to make your presence as OFFENSIVE as humanly possible?", "ja": "クラウドバリー: あなたはもともとそんなに我慢ならない人なの? それとも人間として可能な限り不快な存在になることが使命だとでも思ってるの?"}
+{"sec": "map:858", "key": "Begone!", "en": "Begone!", "ja": "消えなさい!"}
+{"sec": "map:858", "key": "SANDY: Oh, hi \\PN!", "en": "SANDY: Oh, hi \\PN!", "ja": "サンディ: あ、\\PNだ!"}
+{"sec": "map:858", "key": "Are you surprised to see me here?", "en": "Are you surprised to see me here?", "ja": "あたしがここにいるの、意外だった?"}
+{"sec": "map:858", "key": "It's true that I decided field work wasn't for me, but...", "en": "It's true that I decided field work wasn't for me, but...", "ja": "確かにフィールドワークはあたしに向いてないって決めたんだけどさ……"}
+{"sec": "map:858", "key": "Desk jobs are just so boring!", "en": "Desk jobs are just so boring!", "ja": "デスクワークはただただ退屈すぎる!"}
+{"sec": "map:858", "key": "Do you know how tiring it is to just sit there and organize papers all day?", "en": "Do you know how tiring it is to just sit there and organize papers all day?", "ja": "一日中座って書類を整理し続けるのがどれだけ疲れるかわかる?"}
+{"sec": "map:858", "key": "Waiting for the next Certified Cool Person to walk up and take the crazy jobs you're doling out?", "en": "Waiting for the next Certified Cool Person to walk up and take the crazy jobs you're doling out?", "ja": "次の「公認・イケてる人」が現れて、あんたが配ってるヤバい仕事を持っていくのを待つだけの毎日?"}
+{"sec": "map:858", "key": "It's like-- why aren't I out there doing that?", "en": "It's like-- why aren't I out there doing that?", "ja": "なんかさ――どうしてあたしは外に出てそれをやってないんだろうって思うわけ。"}
+{"sec": "map:858", "key": "But I KNOW why I'm not out there doing that-- it's because a Miltank pooped on me!", "en": "But I KNOW why I'm not out there doing that-- it's because a Miltank pooped on me!", "ja": "でもあたしがなんで外に出てそれをやってないか、自分でもわかってる――ミルタンクにうんこかけられたからだよ!"}
+{"sec": "map:858", "key": "But am I to live my life cowering in fear from one--", "en": "But am I to live my life cowering in fear from one--", "ja": "でもあたしはたった一頭のせいで、一生怖がって縮こまって生きていくべきなの――"}
+{"sec": "map:858", "key": "Heh, COW-ering...", "en": "Heh, COW-ering...", "ja": "ふふ、縮こ牛（うし）まって……"}
+{"sec": "map:858", "key": "...What was I saying?", "en": "...What was I saying?", "ja": "……なんの話だったっけ?"}
+{"sec": "map:858", "key": "Anyway, I couldn't take the pressure of mentally ping-ponging between wanting to get outside more and wanting to hide inside forever,", "en": "Anyway, I couldn't take the pressure of mentally ping-ponging between wanting to get outside more and wanting to hide inside forever,", "ja": "とにかく、もっと外に出たいのと永遠に引きこもっていたいのとの間で頭がピンポンし続けるプレッシャーに耐えられなくなって、"}
+{"sec": "map:858", "key": "So now I'm here on a moving train going in the opposite direction from all my problems!", "en": "So now I'm here on a moving train going in the opposite direction from all my problems!", "ja": "だから今、あたしは走ってる列車に乗って、自分の問題全部から正反対の方向に進んでるってわけ!"}
+{"sec": "map:858", "key": "Funny how life works, isn't it?", "en": "Funny how life works, isn't it?", "ja": "人生って面白いよね?"}
+{"sec": "map:858", "key": "SANDY: Hey, you don't think that there's Miltank in wherever this train is going, do you?", "en": "SANDY: Hey, you don't think that there's Miltank in wherever this train is going, do you?", "ja": "サンディ: ねえ、この列車の行き先にミルタンクはいないよね?"}
+{"sec": "map:858", "key": "JOHN: \\PN.", "en": "JOHN: \\PN.", "ja": "ジョン: \\PN。"}
+{"sec": "map:858", "key": "Curious to run into you here.", "en": "Curious to run into you here.", "ja": "ここで会うとはな。"}
+{"sec": "map:858", "key": "Rest assured, I harbor no particular resentment to you,", "en": "Rest assured, I harbor no particular resentment to you,", "ja": "安心しろ、お前に特に恨みはない、"}
+{"sec": "map:858", "key": "Even if your actions have resulted in the deaths of several of my past employers.", "en": "Even if your actions have resulted in the deaths of several of my past employers.", "ja": "お前の行動が原因で、俺の以前の雇い主が何人か死んでいるとしても、な。"}
+{"sec": "map:858", "key": "...", "en": "...", "ja": "…………"}
+{"sec": "map:858", "key": "On second thought, I may have some slight resentment towards you,", "en": "On second thought, I may have some slight resentment towards you,", "ja": "……いや、考え直すと、多少の恨みはあるかもしれん、"}
+{"sec": "map:858", "key": "But you may be relieved that I intend to deal with it professionally.", "en": "But you may be relieved that I intend to deal with it professionally.", "ja": "だがプロとしてそれに対処するつもりだから、安心していい。"}
+{"sec": "map:858", "key": "Good day.", "en": "Good day.", "ja": "ではな。"}
+{"sec": "map:858", "key": "JOHN: I said \"Good day.\"", "en": "JOHN: I said \"Good day.\"", "ja": "ジョン: 「ではな」と言ったんだ。"}
+{"sec": "map:858", "key": "EUSTACE: Greetings, peasant.", "en": "EUSTACE: Greetings, peasant.", "ja": "ユースタス: ご機嫌よう、平民よ。"}
+{"sec": "map:858", "key": "Make yourself useful and fetch me a drink, will you?", "en": "Make yourself useful and fetch me a drink, will you?", "ja": "役に立ちたいなら、飲み物でも取ってきてくれないか?"}
+{"sec": "map:858", "key": "Some kind of juice, I believe, would suit my palate.", "en": "Some kind of juice, I believe, would suit my palate.", "ja": "何かジュース、それが私の口に合うと思うのだが。"}
+{"sec": "map:858", "key": "Be forewarned though-- present me with Leppa Juice and I shall forcibly eject you from the train while it is still moving.", "en": "Be forewarned though-- present me with Leppa Juice and I shall forcibly eject you from the train while it is still moving.", "ja": "ただし忠告しておくが――ヒメリジュースを持ってきたら、まだ走行中のこの列車から力ずくで放り出すことになるぞ。"}
+{"sec": "map:858", "key": "Grepa Juice neither-- I don't know what else they put in that stuff, but it surely wasn't meant for human consumption.", "en": "Grepa Juice neither-- I don't know what else they put in that stuff, but it surely wasn't meant for human consumption.", "ja": "ウブジュースもだめだ――他に何が入っているのか知らないが、確実に人間の口に入れるためのものではない。"}
+{"sec": "map:858", "key": "And you will hold the Oran Juice as well. It is unsuitable for all occasions except the blandest of breakfasts.", "en": "And you will hold the Oran Juice as well. It is unsuitable for all occasions except the blandest of breakfasts.", "ja": "そしてオレンジュースも持ってこなくていい。あれは最も味気ない朝食以外、どんな場面にも合わない。"}
+{"sec": "map:858", "key": "Hop to it, garçon.", "en": "Hop to it, garçon.", "ja": "さあ動きたまえ、ギャルソン。"}
+{"sec": "map:858", "key": "We can't all stand around all day with stupid looks on our faces.", "en": "We can't all stand around all day with stupid looks on our faces.", "ja": "我々みんなが一日中間抜け面で突っ立っているわけにはいかないのだから。"}
+{"sec": "map:858", "key": "EUSTACE: Garçon?", "en": "EUSTACE: Garçon?", "ja": "ユースタス: ギャルソン?"}
+{"sec": "map:858", "key": "Where is my juice, garçon?", "en": "Where is my juice, garçon?", "ja": "私のジュースはどこだ、ギャルソン?"}
+{"sec": "map:858", "key": "The service here is truly abysmal.", "en": "The service here is truly abysmal.", "ja": "ここのサービスは本当にひどいものだな。"}
+{"sec": "map:858", "key": "JULIA: \\PN, I thought that was you who went by!", "en": "JULIA: \\PN, I thought that was you who went by!", "ja": "ジュリア: \\PN、通り過ぎたの、やっぱりあんただと思った!"}
+{"sec": "map:858", "key": "What a coincidence seeing you here!", "en": "What a coincidence seeing you here!", "ja": "こんなとこで会うなんてすごい偶然!"}
+{"sec": "map:858", "key": "I was invited for a trip abroad by someone, and would you believe it?", "en": "I was invited for a trip abroad by someone, and would you believe it?", "ja": "実はさ、ある人に海外旅行に誘われてたんだけど、信じられる?"}
+{"sec": "map:858", "key": "I got stood up!", "en": "I got stood up!", "ja": "すっぽかされたの!"}
+{"sec": "map:858", "key": "Me!", "en": "Me!", "ja": "このあたしが!"}
+{"sec": "map:858", "key": "Imagine a cheerleader getting stood up!", "en": "Imagine a cheerleader getting stood up!", "ja": "チアリーダーがすっぽかされるなんて考えられる?!"}
+{"sec": "map:858", "key": "I hope the guy recently realized he was gay, or else I want an explanation!!!", "en": "I hope the guy recently realized he was gay, or else I want an explanation!!!", "ja": "最近自分がゲイだって気づいたとかならまだいいけど、じゃなきゃ説明してもらわないと困る!!!"}
+{"sec": "map:858", "key": "And if he did realize he's gay, then I hope he's very happy with his life choices and finds a wonderful husband!!!!", "en": "And if he did realize he's gay, then I hope he's very happy with his life choices and finds a wonderful husband!!!!", "ja": "もし本当にゲイだって気づいたんだったら、その人生の選択で幸せになって、素敵な旦那さんを見つけてほしいな!!!!"}
+{"sec": "map:858", "key": "But not if the husband would've been interested in me instead!", "en": "But not if the husband would've been interested in me instead!", "ja": "でもその旦那さんがあたしのこと狙ってたとかじゃない限りね!"}
+{"sec": "map:858", "key": "It's a pity-- he seemed like such a sweet-talker, too...", "en": "It's a pity-- he seemed like such a sweet-talker, too...", "ja": "残念、けっこう口がうまい人だったのに……"}
+{"sec": "map:858", "key": "But no matter!", "en": "But no matter!", "ja": "でもまあいいの!"}
+{"sec": "map:858", "key": "I'm making the best of the situation!", "en": "I'm making the best of the situation!", "ja": "この状況を最大限に活かすから!"}
+{"sec": "map:858", "key": "And I've met a fine gentleman in his absence, and we are having a lovely time,", "en": "And I've met a fine gentleman in his absence, and we are having a lovely time,", "ja": "それにあの人がいない間に、素敵な紳士に出会えて、今めちゃくちゃ楽しい時間を過ごしてるし、"}
+{"sec": "map:858", "key": "So there, Mr.Stander-Upper! Take that!", "en": "So there, Mr.Stander-Upper! Take that!", "ja": "だからね、すっぽかしさん! ざまあみろ!"}
+{"sec": "map:858", "key": "JULIA: Maybe he just missed the train...", "en": "JULIA: Maybe he just missed the train...", "ja": "ジュリア: もしかしたら、あの人ただ列車に乗り遅れただけかも……"}
+{"sec": "map:858", "key": "I almost got on the wrong one-- but I blame him for telling me which it was so last minute!", "en": "I almost got on the wrong one-- but I blame him for telling me which it was so last minute!", "ja": "あたしも間違った列車に乗りそうになったんだけど――でもそれ、あの人がギリギリになってどれかを教えたせいだからね!"}
+{"sec": "map:858", "key": "Mrrgrgrr...", "en": "Mrrgrgrr...", "ja": "むぐぐぐ……"}
+{"sec": "map:858", "key": "MAXWELL: \\PN. Funny running into you here.", "en": "MAXWELL: \\PN. Funny running into you here.", "ja": "マクスウェル: \\PN。ここで会うとはな。"}
+{"sec": "map:858", "key": "I was just heading out on this train for a change of pace, when I met this lovely lady across from me--", "en": "I was just heading out on this train for a change of pace, when I met this lovely lady across from me--", "ja": "気分転換にこの列車に乗って出かけたら、向かいの席にいる素敵なレディに出会ってな――"}
+{"sec": "map:858", "key": "JULIA: Ohstopityou~", "en": "JULIA: Ohstopityou~", "ja": "ジュリア: もう、やめてよ～"}
+{"sec": "map:858", "key": "No, I'm kidding-- keep going--", "en": "No, I'm kidding-- keep going--", "ja": "なんちゃって――続けて――"}
+{"sec": "map:858", "key": "MAXWELL: For you, baby, I can keep going all night.", "en": "MAXWELL: For you, baby, I can keep going all night.", "ja": "マクスウェル: お前のためなら、一晩中でも続けてやるぜ、ベイビー。"}
+{"sec": "map:858", "key": "But let's take things slow, how about it?", "en": "But let's take things slow, how about it?", "ja": "だがゆっくりいこうぜ、な?"}
+{"sec": "map:858", "key": "Anyway, regardless of whatever history we have, I do hope you wouldn't ruin a personal outing just for the sake of some petty past drama.", "en": "Anyway, regardless of whatever history we have, I do hope you wouldn't ruin a personal outing just for the sake of some petty past drama.", "ja": "まあ、俺たちの間に何があろうと、しょうもない昔のドラマのために個人的な外出を台無しにするようなことはしないでほしいね。"}
+{"sec": "map:858", "key": "My boys are back at the ranch-- you'll get no trouble from our gang.", "en": "My boys are back at the ranch-- you'll get no trouble from our gang.", "ja": "うちの奴らは牧場に置いてきてる――俺たちの一味からトラブルになることはねえよ。"}
+{"sec": "map:858", "key": "Take care.", "en": "Take care.", "ja": "気をつけてな。"}
+{"sec": "map:858", "key": "ARCHER: Ah, \\PN.", "en": "ARCHER: Ah, \\PN.", "ja": "アーチャー: ああ、\\PN。"}
+{"sec": "map:858", "key": "I understand you're acquainted with my date tonight.", "en": "I understand you're acquainted with my date tonight.", "ja": "今夜のデート相手と知り合いだったとはな。"}
+{"sec": "map:858", "key": "I was just heading out on some business-- which I would ask for your discretion with regards to, lest I mention your own involvement--", "en": "I was just heading out on some business-- which I would ask for your discretion with regards to, lest I mention your own involvement--", "ja": "ちょっとした用件でこの列車に乗っていてね――お前もこれに関わっているようだから、口を慎んでもらいたいものだが――"}
+{"sec": "map:858", "key": "When I encountered this young treasure who had been abandoned by some lesser man.", "en": "When I encountered this young treasure who had been abandoned by some lesser man.", "ja": "そんな折に、どこぞの取るに足らない男に見捨てられた、若く貴重な人に出会ったんだ。"}
+{"sec": "map:858", "key": "I feel it is only just not to let her mourn her rejection alone.", "en": "I feel it is only just not to let her mourn her rejection alone.", "ja": "彼女が一人で失恋を悲しむのを放っておくのは不公平というものだろう。"}
+{"sec": "map:858", "key": "JULIA: Forget whoever that guy was!", "en": "JULIA: Forget whoever that guy was!", "ja": "ジュリア: あの男のことなんてもう忘れて!"}
+{"sec": "map:858", "key": "Tell me more about yourself!", "en": "Tell me more about yourself!", "ja": "あなたのこと、もっと聞かせて!"}
+{"sec": "map:858", "key": "ARCHER: Naturally, all in due time.", "en": "ARCHER: Naturally, all in due time.", "ja": "アーチャー: もちろん、そのうちすべて話そう。"}
+{"sec": "map:858", "key": "We have an entire voyage ahead of us to get to know each other, after all.", "en": "We have an entire voyage ahead of us to get to know each other, after all.", "ja": "なにせ、お互いを知るための旅がまだ丸ごと残っているのだから。"}
+{"sec": "map:858", "key": "In any case, I would appreciate if you granted us some privacy.", "en": "In any case, I would appreciate if you granted us some privacy.", "ja": "いずれにせよ、少し二人だけの時間をもらえるとありがたい。"}
+{"sec": "map:858", "key": "You'll find no unsavory business from me on this ride-- you have my word.", "en": "You'll find no unsavory business from me on this ride-- you have my word.", "ja": "この旅の間、私からは何もやましいことはしない――約束しよう。"}
+{"sec": "map:858", "key": "MAXWELL: Until we meet again.", "en": "MAXWELL: Until we meet again.", "ja": "マクスウェル: またな。"}
+{"sec": "map:858", "key": "ARCHER: Some space, if you will?", "en": "ARCHER: Some space, if you will?", "ja": "アーチャー: 少し場所を空けてもらえるか?"}
+{"sec": "map:858", "key": "How are we supposed to enjoy a moment between the two of us otherwise?", "en": "How are we supposed to enjoy a moment between the two of us otherwise?", "ja": "さもなければ、どうして二人きりの時間を楽しめると言うんだ?"}
+{"sec": "map:858", "key": "MAXWELL: My date appears to have pulled a vanishing act...", "en": "MAXWELL: My date appears to have pulled a vanishing act...", "ja": "マクスウェル: どうやら俺のデート相手は姿を消しちまったらしい……"}
+{"sec": "map:858", "key": "ARCHER: Curious.", "en": "ARCHER: Curious.", "ja": "アーチャー: 妙だな。"}
+{"sec": "map:858", "key": "Just where did she go...?", "en": "Just where did she go...?", "ja": "一体どこへ行ったんだ……?"}
+{"sec": "map:858", "key": "MAXWELL: Well, it seems like we're on opposite sides again, hm?", "en": "MAXWELL: Well, it seems like we're on opposite sides again, hm?", "ja": "マクスウェル: へぇ、また俺たちは敵同士ってわけか?"}
+{"sec": "map:858", "key": "But I'm innocent as innocent can be.", "en": "But I'm innocent as innocent can be.", "ja": "だが俺は潔白そのものだぜ。"}
+{"sec": "map:858", "key": "What've you got to ask me?", "en": "What've you got to ask me?", "ja": "何を聞きたいんだ?"}
+{"sec": "map:858", "key": "MAXWELL: You know, I don't think there's a point in denying this one.", "en": "MAXWELL: You know, I don't think there's a point in denying this one.", "ja": "マクスウェル: なあ、これに関しては否定しても意味がないと思うぜ。"}
+{"sec": "map:858", "key": "Either of the orbs has power enough that could give me the edge I need to bring the Magma Gang back to full glory.", "en": "Either of the orbs has power enough that could give me the edge I need to bring the Magma Gang back to full glory.", "ja": "どっちの秘宝も、マグマ団を完全な栄光に戻すのに必要な力を与えてくれるくらいの力を持ってる。"}
+{"sec": "map:858", "key": "That's just a no-brainer, right?", "en": "That's just a no-brainer, right?", "ja": "そんなの考えるまでもないだろ?"}
+{"sec": "map:858", "key": "I'd just be making myself look more suspicious if I lied about that.", "en": "I'd just be making myself look more suspicious if I lied about that.", "ja": "それについてうそをついても、自分を余計に怪しく見せるだけだしな。"}
+{"sec": "map:858", "key": "MAXWELL: I'd love to give you an alibi.", "en": "MAXWELL: I'd love to give you an alibi.", "ja": "マクスウェル: アリバイをあげたいところなんだけどな。"}
+{"sec": "map:858", "key": "I was sitting right here the whole time.", "en": "I was sitting right here the whole time.", "ja": "俺はずっとここに座ってたよ。"}
+{"sec": "map:858", "key": "Didn't move an inch, like a good little boy.", "en": "Didn't move an inch, like a good little boy.", "ja": "いい子ちゃんみたいに一歩も動かずにな。"}
+{"sec": "map:858", "key": "The problem is, the person who could corroborate that story disappeared herself,", "en": "The problem is, the person who could corroborate that story disappeared herself,", "ja": "問題は、その話を裏付けられるはずの相手が自分から姿を消しちまったことだ。"}
+{"sec": "map:858", "key": "Which I'm guessing leaves me in the shitter.", "en": "Which I'm guessing leaves me in the shitter.", "ja": "それで俺は困った立場に追い込まれてるってわけだ。"}
+{"sec": "map:858", "key": "She and I were having a lively conversation-- no idea why she'd just up and run off unless she got a very wrong idea...", "en": "She and I were having a lively conversation-- no idea why she'd just up and run off unless she got a very wrong idea...", "ja": "彼女とはずっと楽しく話してたんだが――何か大きな勘違いでもしない限り、急に走って逃げ出す理由なんて思いつかねえな……"}
+{"sec": "map:858", "key": "MAXWELL: Well...", "en": "MAXWELL: Well...", "ja": "マクスウェル: まあ……"}
+{"sec": "map:858", "key": "I hate to do this, but that Julia girl said some pretty suspicious things.", "en": "I hate to do this, but that Julia girl said some pretty suspicious things.", "ja": "こんなことしたくねえんだが、あのジュリアって子、かなり怪しいことを言ってたんだよ。"}
+{"sec": "map:858", "key": "She suggested how she could go head up to the front and make the lights go out herself-- and then low and behold, out they went.", "en": "She suggested how she could go head up to the front and make the lights go out herself-- and then low and behold, out they went.", "ja": "自分で先頭まで行って電気を消せるって言い出して――そしたらなんと本当に消えたんだ。"}
+{"sec": "map:858", "key": "But she was right here when that actually happened, so I don't imagine how she could've done that, unless...", "en": "But she was right here when that actually happened, so I don't imagine how she could've done that, unless...", "ja": "でも実際にそれが起きたとき彼女はここにいたわけだから、どうやってそれをやったのか想像もつかねえ、もし――"}
+{"sec": "map:858", "key": "She uses an Electrode, right?", "en": "She uses an Electrode, right?", "ja": "あいつ、デンヂムシを使うだろ?"}
+{"sec": "map:858", "key": "I'm imagining an interesting scenario in which she bowls it down the center of the train, scoring a strike in the engine room.", "en": "I'm imagining an interesting scenario in which she bowls it down the center of the train, scoring a strike in the engine room.", "ja": "想像してみると面白いシナリオだな。列車の中央にそいつを転がして、機関室でストライクを決めるってやつ。"}
+{"sec": "map:858", "key": "But I didn't see any of that, so best to discount it.", "en": "But I didn't see any of that, so best to discount it.", "ja": "だが俺はそんなの何も見てないから、話半分に聞いてくれよ。"}
+{"sec": "map:858", "key": "She's suspicious, but I don't think she's guilty.", "en": "She's suspicious, but I don't think she's guilty.", "ja": "怪しいのは確かだが、犯人だとは思わねえな。"}
+{"sec": "map:858", "key": "MAXWELL: Good luck on this one.", "en": "MAXWELL: Good luck on this one.", "ja": "マクスウェル: この件、うまくいくといいな。"}
+{"sec": "map:858", "key": "ARCHER: Ah, is it my turn for the interrogation?", "en": "ARCHER: Ah, is it my turn for the interrogation?", "ja": "アーチャー: ああ、私が尋問される番か?"}
+{"sec": "map:858", "key": "ARCHER: Indeed, these are the necessary questions to ask.", "en": "ARCHER: Indeed, these are the necessary questions to ask.", "ja": "アーチャー: 確かに、これは尋ねるべき当然の質問だな。"}
+{"sec": "map:858", "key": "But you already know the answer, don't you?", "en": "But you already know the answer, don't you?", "ja": "だがお前はもう答えを知っているのだろう?"}
+{"sec": "map:858", "key": "There's no point in denying what the influence of either of those orbs could do for my former gang.", "en": "There's no point in denying what the influence of either of those orbs could do for my former gang.", "ja": "どちらの秘宝の力も、かつての私の一味にとって何ができるか、否定しても意味がない。"}
+{"sec": "map:858", "key": "Perhaps we could finally do some good in the city again.", "en": "Perhaps we could finally do some good in the city again.", "ja": "もう一度この街のために何かできるようになるかもしれない。"}
+{"sec": "map:858", "key": "But would I really have come all this way just to cling to something like that?", "en": "But would I really have come all this way just to cling to something like that?", "ja": "だが私が、そんなもののためだけにわざわざここまで来たと思うか?"}
+{"sec": "map:858", "key": "Do you think so lowly of me?", "en": "Do you think so lowly of me?", "ja": "私をそこまで見くびっているのか?"}
+{"sec": "map:858", "key": "ARCHER: You're right to ask, but I dreaded you doing so nonetheless.", "en": "ARCHER: You're right to ask, but I dreaded you doing so nonetheless.", "ja": "アーチャー: 尋ねるのは当然だが、それでも聞かれるのは気が重かったよ。"}
+{"sec": "map:858", "key": "I've bided my time.", "en": "I've bided my time.", "ja": "私は機を待っていた。"}
+{"sec": "map:858", "key": "Even if I were going to steal the orbs, that was the wrong moment to do so.", "en": "Even if I were going to steal the orbs, that was the wrong moment to do so.", "ja": "たとえ秘宝を盗むつもりだったとしても、あの瞬間は行動には不向きだった。"}
+{"sec": "map:858", "key": "Too much chaos in a darkness we didn't plan.", "en": "Too much chaos in a darkness we didn't plan.", "ja": "計画外の闇の中で、混乱があまりに大きすぎた。"}
+{"sec": "map:858", "key": "Too many unknowns.", "en": "Too many unknowns.", "ja": "不確定要素が多すぎる。"}
+{"sec": "map:858", "key": "I sat right here and weighed my options-- but waited, nonetheless.", "en": "I sat right here and weighed my options-- but waited, nonetheless.", "ja": "私はここに座って選択肢を検討していた――しかし、結局は待つことにした。"}
+{"sec": "map:858", "key": "You'll find me innocent, and ideally my beautiful date would have been there to back me up...", "en": "You'll find me innocent, and ideally my beautiful date would have been there to back me up...", "ja": "私は潔白だと分かるだろう。理想を言えば、あの美しいデート相手にも証言してもらいたかったのだが……"}
+{"sec": "map:858", "key": "...However it appears she's the one who's run off.", "en": "...However it appears she's the one who's run off.", "ja": "……だが、姿を消したのは彼女自身のようだな。"}
+{"sec": "map:858", "key": "I do hope she didn't get too many ideas from our little talk...", "en": "I do hope she didn't get too many ideas from our little talk...", "ja": "私たちのちょっとした会話から、変な考えを起こしていなければいいのだが……"}
+{"sec": "map:858", "key": "ARCHER: Well, I hate to do this to a lady who I was just having a wonderful time with...", "en": "ARCHER: Well, I hate to do this to a lady who I was just having a wonderful time with...", "ja": "アーチャー: これは、つい先ほどまで素晴らしい時間を過ごしていたレディに対してするのは気が引けるのだが……"}
+{"sec": "map:858", "key": "But my date did disappear during the blackout.", "en": "But my date did disappear during the blackout.", "ja": "だが私のデート相手は、停電の間に姿を消したのだ。"}
+{"sec": "map:858", "key": "She and I were having a rousing, strictly hypothetical discussion.", "en": "She and I were having a rousing, strictly hypothetical discussion.", "ja": "彼女と私は、あくまで仮の話として、活発な議論をしていた。"}
+{"sec": "map:858", "key": "How would we rob this train, if we then decided to.", "en": "How would we rob this train, if we then decided to.", "ja": "もしこの列車を襲うとしたら、どうするか、と。"}
+{"sec": "map:858", "key": "\"If\" is the key operative here-- it was a lively conversation topic; not a genuine plan.", "en": "\"If\" is the key operative here-- it was a lively conversation topic; not a genuine plan.", "ja": "肝心なのは「もし」という部分だ――それは弾んだ会話の話題であって、本当の計画ではなかった。"}
+{"sec": "map:858", "key": "Or so I thought, but she did mention cutting the lights-- and thus the lights were cut.", "en": "Or so I thought, but she did mention cutting the lights-- and thus the lights were cut.", "ja": "そう思っていたのだが、彼女は明かりを切ることに言及していた――そして実際に、明かりは切られた。"}
+{"sec": "map:858", "key": "I followed through on no further part of the plan, but could she have arranged that from here?", "en": "I followed through on no further part of the plan, but could she have arranged that from here?", "ja": "私はそれ以上計画を進めることはなかったが、彼女はここからそれを仕組めたのだろうか?"}
+{"sec": "map:858", "key": "Without moving from her seat before the blackout?", "en": "Without moving from her seat before the blackout?", "ja": "停電の前、席から一歩も動かずに?"}
+{"sec": "map:858", "key": "For an Electric Type Gym Leader... Possible.", "en": "For an Electric Type Gym Leader... Possible.", "ja": "電気タイプのジムリーダーなら……可能かもしれない。"}
+{"sec": "map:858", "key": "I saw nothing, but it cannot be ruled out, can it?", "en": "I saw nothing, but it cannot be ruled out, can it?", "ja": "私は何も見なかったが、それを排除することはできないだろう?"}
+{"sec": "map:858", "key": "ARCHER: Best of luck.", "en": "ARCHER: Best of luck.", "ja": "アーチャー: 幸運を祈る。"}
+{"sec": "map:858", "key": "On duty and reporting!", "en": "On duty and reporting!", "ja": "任務中、報告します!"}
+{"sec": "map:858", "key": "The exit is secure!", "en": "The exit is secure!", "ja": "出口の安全は確保されています!"}
+{"sec": "map:858", "key": "The chief has brought us on to make sure this ride goes smoothly.", "en": "The chief has brought us on to make sure this ride goes smoothly.", "ja": "この旅を円滑に進めるため、チーフが我々を連れてきました。"}
+{"sec": "map:858", "key": "No suspicious activity at this time!", "en": "No suspicious activity at this time!", "ja": "現時点で不審な活動はありません!"}
+{"sec": "map:858", "key": "I caught this one sneaking up into the storage room during the blackout!", "en": "I caught this one sneaking up into the storage room during the blackout!", "ja": "停電の間に貯蔵室にこっそり忍び込んでいたのを捕まえました!"}
+{"sec": "map:858", "key": "We're gonna need you to stay right here, ma'am.", "en": "We're gonna need you to stay right here, ma'am.", "ja": "あなたにはここにとどまってもらう必要があります、お嬢さん。"}
+{"sec": "map:858", "key": "The chief is near the front of the train, currently investigating the disturbance.", "en": "The chief is near the front of the train, currently investigating the disturbance.", "ja": "チーフは現在、列車の先頭近くで騒ぎを調べています。"}
+{"sec": "map:858", "key": "SANDY: Please let me go!", "en": "SANDY: Please let me go!", "ja": "サンディ: お願い、放して!"}
+{"sec": "map:858", "key": "I just got lost looking for the little girl's room!", "en": "I just got lost looking for the little girl's room!", "ja": "お手洗いを探してただけなの!"}
+{"sec": "map:858", "key": "Have you noticed that this train doesn't seem to have one anywhere?!", "en": "Have you noticed that this train doesn't seem to have one anywhere?!", "ja": "この列車、お手洗いがどこにもないの、気づいてた?!"}
+{"sec": "map:858", "key": "SANDY: Am I cursed?", "en": "SANDY: Am I cursed?", "ja": "サンディ: あたし、呪われてる?"}
+{"sec": "map:858", "key": "Did a Hoopa jinx me?", "en": "Did a Hoopa jinx me?", "ja": "フーパに呪われたの?"}
+{"sec": "map:858", "key": "Is my fate to suffer misfortune after misfortune every time I so much as venture outside?", "en": "Is my fate to suffer misfortune after misfortune every time I so much as venture outside?", "ja": "外に一歩でも出るたびに不運に不運が重なるのがあたしの運命なわけ?"}
+{"sec": "map:858", "key": "SANDY: Don't tell me you suspect me too!", "en": "SANDY: Don't tell me you suspect me too!", "ja": "サンディ: まさかあんたまであたしを疑ってるんじゃないでしょうね!"}
+{"sec": "map:858", "key": "Okay, sure, I've been known to go to extremes for the sake of the environment--", "en": "Okay, sure, I've been known to go to extremes for the sake of the environment--", "ja": "そりゃ確かに、環境のためなら極端なことしてきたってうわさはあるよ――"}
+{"sec": "map:858", "key": "And, sure, the Blue Orb has been said to be a powerful water source and together with the Red Orb, could reshape the climate--", "en": "And, sure, the Blue Orb has been said to be a powerful water source and together with the Red Orb, could reshape the climate--", "ja": "それに、確かに、青の秘宝は強力な水源だって言われてて、赤の秘宝と一緒に使えば気候を変えられるって話も――"}
+{"sec": "map:858", "key": "And... sure, the condition of the climate is a growing threat that nobody seems to either know what to do about or care enough to help--", "en": "And... sure, the condition of the climate is a growing threat that nobody seems to either know what to do about or care enough to help--", "ja": "それに……確かに、気候の状態はどんどん深刻になってる脅威なのに、誰もどうすればいいかわからないか、助ける気もないみたいだけど――"}
+{"sec": "map:858", "key": "But that doesn't mean I was going back there to steal the orbs!", "en": "But that doesn't mean I was going back there to steal the orbs!", "ja": "だからってあたしが秘宝を盗みに戻ったってことにはならないでしょ!"}
+{"sec": "map:858", "key": "Although, if someone did steal the orbs, they should definitely use them to help the planet.", "en": "Although, if someone did steal the orbs, they should definitely use them to help the planet.", "ja": "まあ、もし誰かが秘宝を盗んだんだとしたら、絶対に地球を助けるために使うべきだと思うけど。"}
+{"sec": "map:858", "key": "That's just a true statement of fact.", "en": "That's just a true statement of fact.", "ja": "それはただの事実の話。"}
+{"sec": "map:858", "key": "Think about it?", "en": "Think about it?", "ja": "考えてみて?"}
+{"sec": "map:858", "key": "SANDY: Okay, so this isn't the most... positive... alibi, but.", "en": "SANDY: Okay, so this isn't the most... positive... alibi, but.", "ja": "サンディ: よし、あんまり……前向きな……アリバイじゃないんだけど、いい?"}
+{"sec": "map:858", "key": "At the time of the incident, I was being detained by that officer over there!", "en": "At the time of the incident, I was being detained by that officer over there!", "ja": "事件が起きたとき、あたしはあそこの警官に拘束されてたの!"}
+{"sec": "map:858", "key": "He caught me over here-- just looking for the bathroom, I swear!", "en": "He caught me over here-- just looking for the bathroom, I swear!", "ja": "あの人がここであたしを捕まえたんだよ――ただお手洗いを探してただけなのに、誓う!"}
+{"sec": "map:858", "key": "And he held me up the entire time until it was already too late--", "en": "And he held me up the entire time until it was already too late--", "ja": "それでもう手遅れになるまでずっと引き止められてて――"}
+{"sec": "map:858", "key": "Errr, I mean, until the lights came back on!", "en": "Errr, I mean, until the lights came back on!", "ja": "えっと、つまり、明かりがついた後まで!"}
+{"sec": "map:858", "key": "There's no way I could've had a chance to go get them!", "en": "There's no way I could've had a chance to go get them!", "ja": "秘宝を取りに行くチャンスなんて、あたしにはなかったってこと!"}
+{"sec": "map:858", "key": "SANDY: I'm glad you asked!", "en": "SANDY: I'm glad you asked!", "ja": "サンディ: 聞いてくれてありがとう!"}
+{"sec": "map:858", "key": "You remember that Ignosia Craudburry whose office we flooded?", "en": "You remember that Ignosia Craudburry whose office we flooded?", "ja": "あたしたちが事務所を水浸しにした、あのイグノシア・クラウドバリーのこと覚えてる?"}
+{"sec": "map:858", "key": "Turns out she's here, and I think she wants revenge!", "en": "Turns out she's here, and I think she wants revenge!", "ja": "実はあの人もこの列車にいてさ、たぶんふくしゅうしたいんだと思う!"}
+{"sec": "map:858", "key": "She started working from home after that, and I mayyy have intercepted some of her personal correspondences...", "en": "She started working from home after that, and I mayyy have intercepted some of her personal correspondences...", "ja": "あれ以来自宅で仕事するようになったみたいで、あたし、ちょっとあの人の個人的なやり取りを傍受しちゃったかも……"}
+{"sec": "map:858", "key": "She wants to sell the orbs to her corporate shills!", "en": "She wants to sell the orbs to her corporate shills!", "ja": "あの人、秘宝を取り巻きの企業に売りつけたいんだって!"}
+{"sec": "map:858", "key": "You know that Craudburry woman?", "en": "You know that Craudburry woman?", "ja": "あのクラウドバリーって女、知ってる?"}
+{"sec": "map:858", "key": "I happened to come into some information when looking around at her role in the city, and I think she wants the orbs!", "en": "I happened to come into some information when looking around at her role in the city, and I think she wants the orbs!", "ja": "この街での彼女の立場を調べてたときにたまたま情報が入ってきたんだけど、彼女が秘宝を狙ってると思う!"}
+{"sec": "map:858", "key": "Something about selling them off for corporate use--", "en": "Something about selling them off for corporate use--", "ja": "企業向けに売り払うとかなんとか――"}
+{"sec": "map:858", "key": "She has a history of illegal trading, and this is right up her alley!", "en": "She has a history of illegal trading, and this is right up her alley!", "ja": "あの人、違法取引の前歴があるし、まさに得意分野じゃない!"}
+{"sec": "map:858", "key": "And who knows what she'd buy with all the money she could get from selling them!", "en": "And who knows what she'd buy with all the money she could get from selling them!", "ja": "それを売って手に入れたお金で何を買うつもりなのか、想像もつかない!"}
+{"sec": "map:858", "key": "Don't trust anything she says!", "en": "Don't trust anything she says!", "ja": "あの人が言うことは何も信じちゃダメ!"}
+{"sec": "map:858", "key": "SANDY: Save me!", "en": "SANDY: Save me!", "ja": "サンディ: 助けて!"}
+{"sec": "map:858", "key": "JOHN: Agh!", "en": "JOHN: Agh!", "ja": "ジョン: うぐっ!"}
+{"sec": "map:858", "key": "What do you want?!", "en": "What do you want?!", "ja": "何が望みだ?!"}
+{"sec": "map:858", "key": "JOHN: Motives?! Motives for what?!", "en": "JOHN: Motives?! Motives for what?!", "ja": "ジョン: 動機だと?! 何のための動機だ?!"}
+{"sec": "map:858", "key": "What motive could I possibly have to steal the Red and Blue Orbs and use them to return Team Meteor to their former might?!", "en": "What motive could I possibly have to steal the Red and Blue Orbs and use them to return Team Meteor to their former might?!", "ja": "赤と青の秘宝を盗んで、それを使ってTeam Meteorをかつての力に戻すなんて、俺に一体どんな動機があるというんだ?!"}
+{"sec": "map:858", "key": "JOHN: Pshh-- I need no alibi, for I am innocent...", "en": "JOHN: Pshh-- I need no alibi, for I am innocent...", "ja": "ジョン: フン――俺にはアリバイなど必要ない。俺は潔白だからな……"}
+{"sec": "map:858", "key": "...And because although I confess, I may have charged towards the storage car with the intent of stealing just a glance at the orbs...", "en": "...And because although I confess, I may have charged towards the storage car with the intent of stealing just a glance at the orbs...", "ja": "……いや、白状しよう。秘宝をひと目盗み見るつもりで貯蔵車に突っ走ったかもしれない……"}
+{"sec": "map:858", "key": "I was assailed in the darkness--", "en": "I was assailed in the darkness--", "ja": "俺は暗闇の中で襲われた――"}
+{"sec": "map:858", "key": "By all of these boxes...", "en": "By all of these boxes...", "ja": "これら全部の箱にな……"}
+{"sec": "map:858", "key": "I tripped on one, stumbled back here...", "en": "I tripped on one, stumbled back here...", "ja": "そのうちの一つにつまずいて、ここまでよろめいてきて……"}
+{"sec": "map:858", "key": "Passed out, and then when the lights were back on, I thought it wisest to remain hidden...", "en": "Passed out, and then when the lights were back on, I thought it wisest to remain hidden...", "ja": "気を失って、それで明かりがついたときには、隠れているのが賢明だと思ってな……"}
+{"sec": "map:858", "key": "...It was not wise.", "en": "...It was not wise.", "ja": "……賢明ではなかったが。"}
+{"sec": "map:858", "key": "I may have hit my head...", "en": "I may have hit my head...", "ja": "頭を打ったかもしれん……"}
+{"sec": "map:858", "key": "JOHN: Hmph...", "en": "JOHN: Hmph...", "ja": "ジョン: フン……"}
+{"sec": "map:858", "key": "I haven't seen much of the others-- except for stepping on that boy as he was hollering about something or other.", "en": "I haven't seen much of the others-- except for stepping on that boy as he was hollering about something or other.", "ja": "他の奴らはあまり見ていない――何か叫んでいたあの少年を踏んづけた以外はな。"}
+{"sec": "map:858", "key": "I swear, that child screamed louder than some of our toughest cases at Dr. Connal's clinic...", "en": "I swear, that child screamed louder than some of our toughest cases at Dr. Connal's clinic...", "ja": "誓ってもいいが、あの子供はコナル博士の診療所での最悪の患者よりも大きな声で叫んでいたぞ……"}
+{"sec": "map:858", "key": "...Eustace, his name was?", "en": "...Eustace, his name was?", "ja": "……ユースタス、という名だったか?"}
+{"sec": "map:858", "key": "I believe I saw that screen name in the CC of the message I received about this train ride.", "en": "I believe I saw that screen name in the CC of the message I received about this train ride.", "ja": "この列車の件について受け取ったメッセージのCCで、そのスクリーンネームを見た気がする。"}
+{"sec": "map:858", "key": "\"EustaceOverlord,\" I believe it was.", "en": "\"EustaceOverlord,\" I believe it was.", "ja": "確か「ユースタス大王」とかいう名だった。"}
+{"sec": "map:858", "key": "What a devil child. He was certainly planning something.", "en": "What a devil child. He was certainly planning something.", "ja": "なんという小悪魔だ。確かに何かを企んでいたな。"}
+{"sec": "map:858", "key": "But I suspect several others of the notable passengers on this train received the same message I did.", "en": "But I suspect several others of the notable passengers on this train received the same message I did.", "ja": "だが、この列車に乗っている他の著名な乗客の何人かも、俺と同じメッセージを受け取っていたのではと疑っている。"}
+{"sec": "map:858", "key": "The orbs were aboard-- they could be stolen, it said.", "en": "The orbs were aboard-- they could be stolen, it said.", "ja": "秘宝が積まれている――盗めるぞ、とあった。"}
+{"sec": "map:858", "key": "There were five recipients of the message besides myself.", "en": "There were five recipients of the message besides myself.", "ja": "俺以外にも、そのメッセージの受信者が五人いた。"}
+{"sec": "map:858", "key": "Someone was clearly setting all of this up, but who could it be?", "en": "Someone was clearly setting all of this up, but who could it be?", "ja": "明らかに誰かがこれを全部仕組んでいる。だが一体誰なのだ?"}
+{"sec": "map:858", "key": "JOHN: Yes, allow me a respite...", "en": "JOHN: Yes, allow me a respite...", "ja": "ジョン: ああ、少し休ませてくれ……"}
+{"sec": "map:858", "key": "My head still aches...", "en": "My head still aches...", "ja": "まだ頭が痛む……"}
+{"sec": "map:858", "key": "EUSTACE: If you don't let me off this train right now, I swear on your mother's life I will sue you to the ends of the world and back.", "en": "EUSTACE: If you don't let me off this train right now, I swear on your mother's life I will sue you to the ends of the world and back.", "ja": "ユースタス: 今すぐこの列車から降ろしてくれなければ、貴様の母親の命に懸けて誓うが、世界の果てまで追いかけてでも訴えてやるからな。"}
+{"sec": "map:858", "key": "This is a violation of my rights, officer.", "en": "This is a violation of my rights, officer.", "ja": "これは私の権利の侵害だぞ、警官。"}
+{"sec": "map:858", "key": "You are keeping me here unlawfully and you will lose your job for it,", "en": "You are keeping me here unlawfully and you will lose your job for it,", "ja": "貴様は私を不法に拘束している。そのせいで職を失うことになるだろうな、"}
+{"sec": "map:858", "key": "And subsequently, your home-- your family-- your friends,", "en": "And subsequently, your home-- your family-- your friends,", "ja": "そしてその後、家も――家族も――友人も、"}
+{"sec": "map:858", "key": "Everything you know and have will be decimated all because of your one foolish arbitrary mistake to confine me here against my will.", "en": "Everything you know and have will be decimated all because of your one foolish arbitrary mistake to confine me here against my will.", "ja": "貴様の知る全て、持つ全てが、私を意に反してここに拘束するという、貴様の愚かで独断的な一つの過ちのせいで、粉々に打ち砕かれることになるだろう。"}
+{"sec": "map:858", "key": "Now let me go, officer.", "en": "Now let me go, officer.", "ja": "さあ、私を通せ、警官。"}
+{"sec": "map:858", "key": "K-kid please, I've been ordered not to let anyone leave the train.", "en": "K-kid please, I've been ordered not to let anyone leave the train.", "ja": "ぼ、坊ちゃん、お願いします、誰も列車から降ろすなと命令されてるんです。"}
+{"sec": "map:858", "key": "That's my job, there's nothing unlawful about it...", "en": "That's my job, there's nothing unlawful about it...", "ja": "それが私の仕事で、何も不法なことはしていません……"}
+{"sec": "map:858", "key": "...Right?", "en": "...Right?", "ja": "……ですよね?"}
+{"sec": "map:858", "key": "I can confidently say that no person has left or boarded the train since we departed the station!", "en": "I can confidently say that no person has left or boarded the train since we departed the station!", "ja": "私たちが駅を出発してから、誰一人として列車を降りたり乗ったりしていないと、自信を持って言えます!"}
+{"sec": "map:858", "key": "Whoever the culprit is, they must still be on board!", "en": "Whoever the culprit is, they must still be on board!", "ja": "犯人が誰であろうと、まだ乗船中に違いありません!"}
+{"sec": "map:858", "key": "...Not for lack of trying, though.", "en": "...Not for lack of trying, though.", "ja": "……もっとも、試みがなかったわけではないですが。"}
+{"sec": "map:858", "key": "As soon as the lights went out, that kid over there wouldn't shut up.", "en": "As soon as the lights went out, that kid over there wouldn't shut up.", "ja": "明かりが消えた瞬間から、あそこにいる少年がずっと黙らなかったんです。"}
+{"sec": "map:858", "key": "He kept screaming the entire time as if he were in some kind of mad panic.", "en": "He kept screaming the entire time as if he were in some kind of mad panic.", "ja": "まるで何かの狂乱パニックみたいに、ずっと叫び続けていました。"}
+{"sec": "map:858", "key": "At least we know he didn't leave the room...", "en": "At least we know he didn't leave the room...", "ja": "少なくとも、彼が部屋を出なかったことだけはわかります……"}
+{"sec": "map:858", "key": "The chief is investigating the disturbance ahead.", "en": "The chief is investigating the disturbance ahead.", "ja": "チーフは前方で騒ぎを調べている。"}
+{"sec": "map:858", "key": "Please do not disturb him unless you have something to report as well.", "en": "Please do not disturb him unless you have something to report as well.", "ja": "報告することがない限り、邪魔をしないように。"}
+{"sec": "map:858", "key": "CONDUCTOR: The Red Orb was buried in the devastated engine...", "en": "CONDUCTOR: The Red Orb was buried in the devastated engine...", "ja": "コンダクター: 赤の秘宝は、破壊された機関部に埋もれていた……"}
+{"sec": "map:858", "key": "There's a cavity where it could fit-- but how could it have gotten there?", "en": "There's a cavity where it could fit-- but how could it have gotten there?", "ja": "そこにぴったり収まりそうな空洞があるが――どうしてそこに入り込んだのか?"}
+{"sec": "map:858", "key": "I was in the room the whole time, though the cavity was obstructed from my view.", "en": "I was in the room the whole time, though the cavity was obstructed from my view.", "ja": "私はずっとこの部屋にいたが、その空洞は私の視界からは死角だった。"}
+{"sec": "map:858", "key": "I just don't understand...", "en": "I just don't understand...", "ja": "本当にわからない……"}
+{"sec": "map:858", "key": "CONDUCTOR: I'm not sure what's going on, but if you can help it, please don't drip on me?", "en": "CONDUCTOR: I'm not sure what's going on, but if you can help it, please don't drip on me?", "ja": "コンダクター: 何が起きているのかよくわかりませんが、できれば私に何か垂らさないでもらえますか?"}
+{"sec": "map:858", "key": "CRAUDBURRY: INCOMPETENTS!", "en": "CRAUDBURRY: INCOMPETENTS!", "ja": "クラウドバリー: 無能どもが!"}
+{"sec": "map:858", "key": "Can't even drive a simple train right!", "en": "Can't even drive a simple train right!", "ja": "簡単な列車すらまともに運転できないなんて!"}
+{"sec": "map:858", "key": "How do you mess that up!?", "en": "How do you mess that up!?", "ja": "どうしたらそんなヘマができるのよ!?"}
+{"sec": "map:858", "key": "It only goes in a predetermined straight line!", "en": "It only goes in a predetermined straight line!", "ja": "決められた一直線を進むだけなのに!"}
+{"sec": "map:858", "key": "But then drunkard fools can't even do that much-- is that what they all are?", "en": "But then drunkard fools can't even do that much-- is that what they all are?", "ja": "なのに酔っ払いの馬鹿どもはそれすらできない――みんなそうなの?"}
+{"sec": "map:858", "key": "BLATHERING IDIOTS probably can't so much as leave their front door without tripping down the stairs and slamming their head on the pavement!", "en": "BLATHERING IDIOTS probably can't so much as leave their front door without tripping down the stairs and slamming their head on the pavement!", "ja": "口ばっかりの間抜けどもは、階段でつまずいて頭を舗道にたたきつけずに玄関から出ることすらできないんでしょうよ!"}
+{"sec": "map:858", "key": "Probably explains the BRAIN DAMAGE necessary to fail at such a simple task.", "en": "Probably explains the BRAIN DAMAGE necessary to fail at such a simple task.", "ja": "そんな単純な仕事に失敗するなんて、脳に障害があるとしか思えないわね。"}
+{"sec": "map:858", "key": "Does old Craudburry need to come in there and show you morons how it's done?!", "en": "Does old Craudburry need to come in there and show you morons how it's done?!", "ja": "このクラウドバリー様が乗り込んで、あんたたち愚か者にやり方を教えてあげなきゃいけないの?!"}
+{"sec": "map:858", "key": "Roll up my sleeves and press the shiny green 'GO' button for you since APPARENTLY that's too much for you primitive MEATSACKS to comprehend!", "en": "Roll up my sleeves and press the shiny green 'GO' button for you since APPARENTLY that's too much for you primitive MEATSACKS to comprehend!", "ja": "袖まくって、そのピカピカの緑の「発進」ボタンを押してあげようかしら。どうせあんたたち原始人の肉塊には、それすら理解できないみたいだから!"}
+{"sec": "map:858", "key": "CONDUCTOR: Goodness, I barely know what happened...", "en": "CONDUCTOR: Goodness, I barely know what happened...", "ja": "コンダクター: いやはや、何が起きたのかほとんどわかりません……"}
+{"sec": "map:858", "key": "But if I can help in any way, I'm happy to cooperate.", "en": "But if I can help in any way, I'm happy to cooperate.", "ja": "ですが、何かお手伝いできることがあれば、喜んで協力します。"}
+{"sec": "map:858", "key": "CONDUCTOR: We're currently a short distance north of the 1R253 Scrapyard.", "en": "CONDUCTOR: We're currently a short distance north of the 1R253 Scrapyard.", "ja": "コンダクター: 現在、1R253廃品置き場のすぐ北にいます。"}
+{"sec": "map:858", "key": "Technically, we've left the Reborn region, but we haven't gotten far.", "en": "Technically, we've left the Reborn region, but we haven't gotten far.", "ja": "厳密には、もうリボーン地方を出ていますが、遠くまでは来ていません。"}
+{"sec": "map:858", "key": "The area we're in is called the Greater Tourmaline Desert-- it's a wasteland of sandstorms and nothingness.", "en": "The area we're in is called the Greater Tourmaline Desert-- it's a wasteland of sandstorms and nothingness.", "ja": "この地域はグレータートルマリン砂漠と呼ばれています――砂嵐と何もない荒野です。"}
+{"sec": "map:858", "key": "Travelling on foot in this area is usually impossible, unlike the inner Tourmaline area within the Reborn region.", "en": "Travelling on foot in this area is usually impossible, unlike the inner Tourmaline area within the Reborn region.", "ja": "リボーン地方内のトルマリン地域とは違い、この地域を徒歩で移動するのは通常不可能です。"}
+{"sec": "map:858", "key": "Here, the distance is too great, and the sandstorms too fierce.", "en": "Here, the distance is too great, and the sandstorms too fierce.", "ja": "ここでは距離が長すぎるし、砂嵐も激しすぎます。"}
+{"sec": "map:858", "key": "There's nothing for miles.", "en": "There's nothing for miles.", "ja": "何マイルも何もありません。"}
+{"sec": "map:858", "key": "They always told us about how more and more accidents happen around the Scrapyard...", "en": "They always told us about how more and more accidents happen around the Scrapyard...", "ja": "廃品置き場の周辺でどんどん事故が増えているって、いつも聞かされてましたが……"}
+{"sec": "map:858", "key": "It seems we'll be counted among them...", "en": "It seems we'll be counted among them...", "ja": "どうやら私たちもその仲間入りをするみたいですね……"}
+{"sec": "map:858", "key": "CONDUCTOR: I'm doing the best I can, and we at least got power restored to the cars, but I'm afraid the engine is a goner.", "en": "CONDUCTOR: I'm doing the best I can, and we at least got power restored to the cars, but I'm afraid the engine is a goner.", "ja": "コンダクター: できる限りのことはしていますし、少なくとも車両の電力は復旧できましたが、機関部はもうダメだと思います。"}
+{"sec": "map:858", "key": "We're completely grounded, and I suspect no repairs short of a completely new engine car are going to change that.", "en": "We're completely grounded, and I suspect no repairs short of a completely new engine car are going to change that.", "ja": "完全に立ち往生していて、機関車を丸ごと新しくする以外に修理の方法はないと思われます。"}
+{"sec": "map:858", "key": "Fortunately, the comm system is intact, and we've been able to radio for aid.", "en": "Fortunately, the comm system is intact, and we've been able to radio for aid.", "ja": "幸い、通信システムは無事で、救援を無線で呼ぶことができました。"}
+{"sec": "map:858", "key": "A rescue train is departing from Grandview Station.", "en": "A rescue train is departing from Grandview Station.", "ja": "グランドビュー駅から救援列車が出発しています。"}
+{"sec": "map:858", "key": "We'll load up the passengers and crew, and get everyone home safely.", "en": "We'll load up the passengers and crew, and get everyone home safely.", "ja": "乗客と乗務員を乗せて、みんなを無事に家まで送り届けます。"}
+{"sec": "map:858", "key": "But until it arrives, we've nothing to do but wait.", "en": "But until it arrives, we've nothing to do but wait.", "ja": "ですが到着するまでは、待つ以外にすることがありません。"}
+{"sec": "map:858", "key": "For better or worse, that likely holds true for the culprit as well.", "en": "For better or worse, that likely holds true for the culprit as well.", "ja": "良くも悪くも、それは犯人にとっても同じことのはずです。"}
+{"sec": "map:858", "key": "They're trapped here just as much as any of us.", "en": "They're trapped here just as much as any of us.", "ja": "私たちと同じように、犯人もここに閉じ込められているのですから。"}
+{"sec": "map:858", "key": "CONDUCTOR: My attention was squarely on the controls the entire time before the incident-- but I'm afraid I barely know what happened.", "en": "CONDUCTOR: My attention was squarely on the controls the entire time before the incident-- but I'm afraid I barely know what happened.", "ja": "コンダクター: 事件の直前まで完全に操縦に集中していましたが、何が起きたのかほとんどわかりません。"}
+{"sec": "map:858", "key": "The entire car went dark, and I heard a strange noise.", "en": "The entire car went dark, and I heard a strange noise.", "ja": "車両全体が真っ暗になって、奇妙な音を聞きました。"}
+{"sec": "map:858", "key": "It sounded like a Pokémon's attack-- but not one I've ever heard before...", "en": "It sounded like a Pokémon's attack-- but not one I've ever heard before...", "ja": "ポケモンの技のような音でしたが――今まで聞いたことのないものでした……"}
+{"sec": "map:858", "key": "Reflexively, I slammed on the brakes--", "en": "Reflexively, I slammed on the brakes--", "ja": "反射的にブレーキを踏み込みました――"}
+{"sec": "map:858", "key": "Or more like I hit them in a panic, but good thing I did!", "en": "Or more like I hit them in a panic, but good thing I did!", "ja": "というかパニックでたたいたって感じですが、それでよかったです!"}
+{"sec": "map:858", "key": "The train came to a stop just as the engine began to make all kinds of unpleasant noises.", "en": "The train came to a stop just as the engine began to make all kinds of unpleasant noises.", "ja": "機関部があらゆる不快な音を立て始めた瞬間、列車は止まりました。"}
+{"sec": "map:858", "key": "Fearing the worst, I took cover in the back landing just in time to see shards of metal and glass fly forward with a boom.", "en": "Fearing the worst, I took cover in the back landing just in time to see shards of metal and glass fly forward with a boom.", "ja": "最悪の事態を恐れて後方の踊り場に避難しましたが、ちょうどそのとき金属とガラスの破片がドンという音とともに前方へ飛んでいくのが見えました。"}
+{"sec": "map:858", "key": "Once the train and the sounds both came to a stop, I was able to restore power quickly, and the room was as you saw it now.", "en": "Once the train and the sounds both came to a stop, I was able to restore power quickly, and the room was as you saw it now.", "ja": "列車と音の両方が止まった後、すぐに電力を復旧できました。それで部屋は今あなたが見た通りの状態になっていたんです。"}
+{"sec": "map:858", "key": "I'll continue searching to see if I can find out any more about the cause of the engine failure though.", "en": "I'll continue searching to see if I can find out any more about the cause of the engine failure though.", "ja": "機関部の故障の原因についてもっと何かわかるか、引き続き調べてみます。"}
+{"sec": "map:858", "key": "CONDUCTOR: Just as well.", "en": "CONDUCTOR: Just as well.", "ja": "コンダクター: それでは。"}
+{"sec": "map:858", "key": "Good luck out there.", "en": "Good luck out there.", "ja": "そちらもがんばってください。"}
+{"sec": "map:858", "key": "CHIEF: Great galloping Golisopods... How could this have happened?", "en": "CHIEF: Great galloping Golisopods... How could this have happened?", "ja": "チーフ: なんてこった、グソクムシャもかくやという慌てぶりだ……一体どうしてこんなことに?"}
+{"sec": "map:858", "key": "Oh, \\PN!", "en": "Oh, \\PN!", "ja": "おお、\\PN!"}
+{"sec": "map:858", "key": "I swear, you scared the daylights out of me...", "en": "I swear, you scared the daylights out of me...", "ja": "いやはや、心臓が飛び出るほど驚きましたよ……"}
+{"sec": "map:858", "key": "Tell me the orbs are safe!", "en": "Tell me the orbs are safe!", "ja": "秘宝は無事だと言ってください!"}
+{"sec": "map:858", "key": ".", "en": ".", "ja": "."}
+{"sec": "map:858", "key": ". .", "en": ". .", "ja": ". ."}
+{"sec": "map:858", "key": ". . .", "en": ". . .", "ja": ". . ."}
+{"sec": "map:858", "key": "Stolen?!", "en": "Stolen?!", "ja": "盗まれた?!"}
+{"sec": "map:858", "key": "Both of them!?", "en": "Both of them!?", "ja": "両方とも!?"}
+{"sec": "map:858", "key": "Right under your nose?!?!?!", "en": "Right under your nose?!?!?!", "ja": "すぐそばで見張っていたのに?!?!?!"}
+{"sec": "map:858", "key": "How could this have happened...", "en": "How could this have happened...", "ja": "どうしてこんなことに……"}
+{"sec": "map:858", "key": "We took every preparation...", "en": "We took every preparation...", "ja": "あらゆる準備をしたはずなのに……"}
+{"sec": "map:858", "key": "Nevertheless! We must mount an investigation immediately!", "en": "Nevertheless! We must mount an investigation immediately!", "ja": "それでも! すぐに捜査を開始しなければ!"}
+{"sec": "map:858", "key": "I already ordered everyone to stay on board as soon as the lights went out!", "en": "I already ordered everyone to stay on board as soon as the lights went out!", "ja": "明かりが消えた瞬間、全員に船内にとどまるよう命じたのに!"}
+{"sec": "map:858", "key": "CONDUCTOR: Moreover, we're just a little north of Tourmaline, and there's a vicious sandstorm raging right now.", "en": "CONDUCTOR: Moreover, we're just a little north of Tourmaline, and there's a vicious sandstorm raging right now.", "ja": "コンダクター: それに、ここはトルマリンのすぐ北で、今まさに凶暴な砂嵐が吹き荒れています。"}
+{"sec": "map:858", "key": "Even if we wanted to leave and seek help on foot, it would be nigh impossible.", "en": "Even if we wanted to leave and seek help on foot, it would be nigh impossible.", "ja": "たとえ徒歩で助けを求めに行こうとしても、ほぼ不可能でしょう。"}
+{"sec": "map:858", "key": "CHIEF: Then the culprit must still be on board!", "en": "CHIEF: Then the culprit must still be on board!", "ja": "チーフ: では犯人はまだ船内にいるはずです!"}
+{"sec": "map:858", "key": "We must find them and recover the items at once!", "en": "We must find them and recover the items at once!", "ja": "今すぐ犯人を見つけて、盗まれた品を取り戻さなければ!"}
+{"sec": "map:858", "key": "We'll begin the investigation immediately!", "en": "We'll begin the investigation immediately!", "ja": "直ちに捜査を開始します!"}
+{"sec": "map:858", "key": "Talk to everyone, find out everything you can, and report back to me when you've finished!", "en": "Talk to everyone, find out everything you can, and report back to me when you've finished!", "ja": "全員に話を聞いて、わかることは全部調べて、終わったら私に報告してください!"}
+{"sec": "map:858", "key": "CRAUDBURRY: WHAT do you want?!", "en": "CRAUDBURRY: WHAT do you want?!", "ja": "クラウドバリー: な、何が望みなの?!"}
+{"sec": "map:858", "key": "CRAUDBURRY: Motives?", "en": "CRAUDBURRY: Motives?", "ja": "クラウドバリー: 動機ですって?"}
+{"sec": "map:858", "key": "What motive could I possibly have to--", "en": "What motive could I possibly have to--", "ja": "私に一体どんな動機があるっていうの――"}
+{"sec": "map:858", "key": "Ohh, you must mean the motives of the other MAGGOTS on this train!", "en": "Ohh, you must mean the motives of the other MAGGOTS on this train!", "ja": "ああ、この列車に乗ってる他のウジ虫どもの動機のことね!"}
+{"sec": "map:858", "key": "Well how about that Sandy girl?", "en": "Well how about that Sandy girl?", "ja": "じゃああのサンディって娘はどうなの?"}
+{"sec": "map:858", "key": "That RAVENOUS ANIMAL flooded my entire office!", "en": "That RAVENOUS ANIMAL flooded my entire office!", "ja": "あの飢えた獣が私の事務所を丸ごと水浸しにしたのよ!"}
+{"sec": "map:858", "key": "I hear she goes to extremes to get what she wants, with no regard to the SENSELESS DAMAGE she causes!", "en": "I hear she goes to extremes to get what she wants, with no regard to the SENSELESS DAMAGE she causes!", "ja": "自分が引き起こす無意味な被害なんてお構いなしに、欲しいものを手に入れるためなら極端なことをするって聞いてるわ!"}
+{"sec": "map:858", "key": "She's always going on and on about environment this, environment that-- I swear even a MIGHTYENA with a DISLOCATED JAW yaps less than she does!", "en": "She's always going on and on about environment this, environment that-- I swear even a MIGHTYENA with a DISLOCATED JAW yaps less than she does!", "ja": "いっつも環境がどうの環境がどうの言い続けてて――あごの外れたグラエナだってあの子よりはマシにほえると思うわ!"}
+{"sec": "map:858", "key": "I bet a mangy MUTT like her would jump at anything to get her grimey mitts on the Blue Orb!", "en": "I bet a mangy MUTT like her would jump at anything to get her grimey mitts on the Blue Orb!", "ja": "あの薄汚い野良犬みたいな子なら、青の秘宝を汚い手で手に入れるためなら何にでも飛びつくに決まってる!"}
+{"sec": "map:858", "key": "Imagine the TERRORIST ACTIVISM she could pull with that thing!", "en": "Imagine the TERRORIST ACTIVISM she could pull with that thing!", "ja": "あんなものであの子がやらかすテロまがいの活動を想像してみなさいな!"}
+{"sec": "map:858", "key": "The statistics she could BIAS!", "en": "The statistics she could BIAS!", "ja": "どれだけの統計をねつ造できることか!"}
+{"sec": "map:858", "key": "All that power for what?!", "en": "All that power for what?!", "ja": "そんな力を得て何になるっていうの?!"}
+{"sec": "map:858", "key": "For a stinking MYTH.", "en": "For a stinking MYTH.", "ja": "くだらない神話のためだけに。"}
+{"sec": "map:858", "key": "BAH.", "en": "BAH.", "ja": "バカバカしい。"}
+{"sec": "map:858", "key": "CRAUDBURRY: Alibi?", "en": "CRAUDBURRY: Alibi?", "ja": "クラウドバリー: アリバイですって?"}
+{"sec": "map:858", "key": "ALIBI?!", "en": "ALIBI?!", "ja": "アリバイ?!"}
+{"sec": "map:858", "key": "You DARE accuse someone like ME?!", "en": "You DARE accuse someone like ME?!", "ja": "よくもこの私を疑ったわね?!"}
+{"sec": "map:858", "key": "I'll have you know, FILTH, that I am an UPSTANDING CITIZEN of this WRETCHED community, and I would NEVER resort to such a HEINOUS undertaking such as PETTY THIEVERY, unlike GUTTER TRASH such as you, the likes of which would sooner SPEW VOMIT upon the street and SLURP IT UP before ever so much as thinking ONCE about the COMMON GOOD and BASTIONS of JUSTICE such as I, a CITY AMBASSADOR whose very station it is to ensure that SHITSTAINS like you are SNUFFED OUT like a FART in the very wind you TAINT with the MALIGNANT ODOR you call your PRESENCE, and in doing so SHIT UPON THE GRAVE of every RESPECTABLE LEADER such as myself who ever lived before your MISERABLE GUTRAT of a father and the SLOVENLY WAISTCLOTH you call your mother even first decided to COPULATE like the SLIMY ROACHES you all are and thereby DEFECATE upon this PUTRID CITY in the first place, SYSTEMATICALLY DEGRADING whatever MISERABLY LITTLE hint of PROGRESS there had been in the first place, like dumping CORROSIVE ACID on a FESTERING WOUND, HEMOGLOBINS OSCILLATING VIOLENTLY in a PATHETIC EFFORT to heal what little SEARED FLESH still remains, only to be SPAT ON by a SCATHING INSECT who forgot it hadn't SPIT UP its last MORSEL OF BILE!", "en": "I'll have you know, FILTH, that I am an UPSTANDING CITIZEN of this WRETCHED community, and I would NEVER resort to such a HEINOUS undertaking such as PETTY THIEVERY, unlike GUTTER TRASH such as you, the likes of which would sooner SPEW VOMIT upon the street and SLURP IT UP before ever so much as thinking ONCE about the COMMON GOOD and BASTIONS of JUSTICE such as I, a CITY AMBASSADOR whose very station it is to ensure that SHITSTAINS like you are SNUFFED OUT like a FART in the very wind you TAINT with the MALIGNANT ODOR you call your PRESENCE, and in doing so SHIT UPON THE GRAVE of every RESPECTABLE LEADER such as myself who ever lived before your MISERABLE GUTRAT of a father and the SLOVENLY WAISTCLOTH you call your mother even first decided to COPULATE like the SLIMY ROACHES you all are and thereby DEFECATE upon this PUTRID CITY in the first place, SYSTEMATICALLY DEGRADING whatever MISERABLY LITTLE hint of PROGRESS there had been in the first place, like dumping CORROSIVE ACID on a FESTERING WOUND, HEMOGLOBINS OSCILLATING VIOLENTLY in a PATHETIC EFFORT to heal what little SEARED FLESH still remains, only to be SPAT ON by a SCATHING INSECT who forgot it hadn't SPIT UP its last MORSEL OF BILE!", "ja": "言っておくけど、汚らわしい子、私はこの惨めったらしい地域社会の立派な一員であって、あんたのようなドブのゴミとは違って、こそ泥のような下劣な行いになんて絶対に手を出さないの。あんたたちみたいなのは、路上におうとして、それを自分ですすってから、公共の利益や私のような正義のとりでのことをちらとでも考えるような人種でしょうけど、私は市の代表として、あんたみたいなクソ染みが、あんたの言う「存在」とやらが放つ悪臭で汚した風の中で、へのように消し飛ばされるようにする使命があるのよ。そうすることで、あんたの惨めなクズ野郎の父親と、あんたが母親と呼ぶだらしない腰巻きが、あんたたち全員そっくりのぬめったゴキブリみたいに交尾しようと最初に決めて、この腐った街にクソをまき散らすより前から生きてきた私のような立派な指導者全員の墓の上にクソをかけるようなものなの。それによって、もともとわずかしかなかった進歩の芽を、腐りかけた傷口に腐食性の酸をぶちまけるみたいに体系的に堕落させ、まだ残るわずかに焼けただれた肉を治そうと必死にのたうつ血液の中で、最後の胆汁のかけらを吐き出したことすら忘れた、辛辣な虫けらに唾を吐きかけられるだけなんだから!"}
+{"sec": "map:858", "key": "ASS.", "en": "ASS.", "ja": "クソ野郎。"}
+{"sec": "map:858", "key": "CRAUDBURRY: What others?", "en": "CRAUDBURRY: What others?", "ja": "クラウドバリー: 他の人たちですって?"}
+{"sec": "map:858", "key": "BAHHHH.", "en": "BAHHHH.", "ja": "フンッ。"}
+{"sec": "map:858", "key": "I've barely seen a sopping soul besides you and the other busybody officers since boarding this CLATTERING TIN CAN of a train.", "en": "I've barely seen a sopping soul besides you and the other busybody officers since boarding this CLATTERING TIN CAN of a train.", "ja": "このガタガタうるさいブリキ缶みたいな列車に乗ってから、あんたとお節介な警官たち以外、まともに人の姿なんてほとんど見てないわ。"}
+{"sec": "map:858", "key": "No one wants to come talk to old Craudburry--", "en": "No one wants to come talk to old Craudburry--", "ja": "誰もこの年寄りのクラウドバリーに話しかけに来ようともしない――"}
+{"sec": "map:858", "key": "No respect for the elders!", "en": "No respect for the elders!", "ja": "年長者への敬意ってものがないのね!"}
+{"sec": "map:858", "key": "Not even when she's in the snack cart!", "en": "Not even when she's in the snack cart!", "ja": "軽食車両にいるときでさえ、誰も来ないなんて!"}
+{"sec": "map:858", "key": "What, am I TAINTING the food?!", "en": "What, am I TAINTING the food?!", "ja": "何、私が食べ物を汚染するとでも思ってるの?!"}
+{"sec": "map:858", "key": "Just by STANDING near it?!", "en": "Just by STANDING near it?!", "ja": "ただ近くに立ってるだけで?!"}
+{"sec": "map:858", "key": "Do they think I'm YOU?", "en": "Do they think I'm YOU?", "ja": "あんたと同じだとでも思ってるわけ?"}
+{"sec": "map:858", "key": "And the one person who DID show up, in the middle of the blackout no less, was that TITS-FOR-BRAINS BIMBO Gym Leader!", "en": "And the one person who DID show up, in the middle of the blackout no less, was that TITS-FOR-BRAINS BIMBO Gym Leader!", "ja": "そしてわざわざ来た唯一の人間が、よりによって停電の真っ最中に来た、あの胸だけが取り柄の脳みそすっからかんのジムリーダーだったのよ!"}
+{"sec": "map:858", "key": "She barely even counts as company on her least- destructive days!", "en": "She barely even counts as company on her least- destructive days!", "ja": "あの子、一番おとなしいときですら会話の相手にすらならないんだから!"}
+{"sec": "map:858", "key": "BAAAAAAAAAAAAAAAAAAH.", "en": "BAAAAAAAAAAAAAAAAAAH.", "ja": "フンーーーーーーーーッ。"}
+{"sec": "map:858", "key": "CRAUDBURRY: Then bugger off, SLIME!", "en": "CRAUDBURRY: Then bugger off, SLIME!", "ja": "クラウドバリー: だからさっさとどこかへ消えなさい、汚らわしい!"}
+{"sec": "map:858", "key": "EUSTACE: Excuse me? The juice?", "en": "EUSTACE: Excuse me? The juice?", "ja": "ユースタス: 失礼、何だって? ジュースの話か?"}
+{"sec": "map:858", "key": "EUSTACE: What possible motives could I, a child barely grown into his breeches, possibly have for undertaking a perilous heist to steal a priceless, all-powerful artifact or two?", "en": "EUSTACE: What possible motives could I, a child barely grown into his breeches, possibly have for undertaking a perilous heist to steal a priceless, all-powerful artifact or two?", "ja": "ユースタス: まだズボンにも慣れきっていない子供の私が、値がつけられないほど強力な秘宝を、それも二つも盗み出すという危険極まりない仕事に、一体どんな動機を持ちうるというのか?"}
+{"sec": "map:858", "key": "The notion is simply preposterous.", "en": "The notion is simply preposterous.", "ja": "そんな考えはあまりにも馬鹿げている。"}
+{"sec": "map:858", "key": "I am on this train as it is the first leg of my round- world journey.", "en": "I am on this train as it is the first leg of my round- world journey.", "ja": "私がこの列車に乗っているのは、世界一周の旅の第一段階だからだ。"}
+{"sec": "map:858", "key": "I'll have you know I have a scholarship. This is for my education and worldliness.", "en": "I'll have you know I have a scholarship. This is for my education and worldliness.", "ja": "言っておくが、私は奨学金を得ているのだ。これは私の教育と見聞を広めるためのものだ。"}
+{"sec": "map:858", "key": "Granted, the organization responsible for giving me the scholarship is not aware that they have done so,", "en": "Granted, the organization responsible for giving me the scholarship is not aware that they have done so,", "ja": "もっとも、その奨学金を出した団体は、自分たちがそうしたことを認識していないのだが、"}
+{"sec": "map:858", "key": "But I would never do something as foolish as squander a chance for a perfectly good education.", "en": "But I would never do something as foolish as squander a chance for a perfectly good education.", "ja": "せっかくの申し分ない教育の機会を無駄にするような愚かなまねを、私がするはずがない。"}
+{"sec": "map:858", "key": "Especially not for something as droll as the Red and Blue Orbs!", "en": "Especially not for something as droll as the Red and Blue Orbs!", "ja": "ましてや赤と青の秘宝などという退屈なもののためになど、なおさらだ!"}
+{"sec": "map:858", "key": "Even if they are... insecurely guarded...", "en": "Even if they are... insecurely guarded...", "ja": "たとえそれが……ろくに警備されていなかったとしても……"}
+{"sec": "map:858", "key": "Worth thousands...", "en": "Worth thousands...", "ja": "何千もの価値があるとしても……"}
+{"sec": "map:858", "key": "And unfathomably powerful...", "en": "And unfathomably powerful...", "ja": "そして計り知れない力を持っているとしても……"}
+{"sec": "map:858", "key": "...I simply would not do it.", "en": "...I simply would not do it.", "ja": "……私は絶対にやらない。"}
+{"sec": "map:858", "key": "EUSTACE: Yes, yes, if it's an alibi you want, look no further than the flat-brained buffoon standing by the door.", "en": "EUSTACE: Yes, yes, if it's an alibi you want, look no further than the flat-brained buffoon standing by the door.", "ja": "ユースタス: そうそう、アリバイが欲しいなら、あの扉のそばに立っている脳みそ空っぽの道化を見るといい。"}
+{"sec": "map:858", "key": "I've seen Stunfisk with more intellectual depth than he.", "en": "I've seen Stunfisk with more intellectual depth than he.", "ja": "マッギョのほうがまだ知的な深みがあるくらいだ。"}
+{"sec": "map:858", "key": "This clod refused to let me off the train for what may as well have been hours even after we'd come to a full stop!", "en": "This clod refused to let me off the train for what may as well have been hours even after we'd come to a full stop!", "ja": "あの間抜けは、列車が完全に停止した後も、何時間もかと思うほど私を降ろそうとしなかった。"}
+{"sec": "map:858", "key": "Sandstorms this, perimeter that!", "en": "Sandstorms this, perimeter that!", "ja": "砂嵐がどうの、境界線がどうのと!"}
+{"sec": "map:858", "key": "Even while the lights were still out, he was still incessantly annoying!", "en": "Even while the lights were still out, he was still incessantly annoying!", "ja": "明かりが消えている間でさえ、あいつはずっとうるさく私に絡んできていた!"}
+{"sec": "map:858", "key": "Of course, there's no use in asking why I wanted to leave the train...", "en": "Of course, there's no use in asking why I wanted to leave the train...", "ja": "もちろん、私がなぜ列車を降りたかったのかを尋ねる必要はない……"}
+{"sec": "map:858", "key": "It's definitely not because I am afraid of the dark...", "en": "It's definitely not because I am afraid of the dark...", "ja": "断じて暗闇が怖いからではない……"}
+{"sec": "map:858", "key": "Only babies are afraid of the dark...", "en": "Only babies are afraid of the dark...", "ja": "暗闇を怖がるのは赤ん坊だけだ……"}
+{"sec": "map:858", "key": "... And I, of course, am a gentleman.", "en": "... And I, of course, am a gentleman.", "ja": "……そして私は、もちろん、紳士なのだからな。"}
+{"sec": "map:858", "key": "EUSTACE: Ah, a reasonable line of questioning.", "en": "EUSTACE: Ah, a reasonable line of questioning.", "ja": "ユースタス: ああ、まっとうな質問だな。"}
+{"sec": "map:858", "key": "Yes, I believe I have evidence enough to implicate at least one other individual on this train,", "en": "Yes, I believe I have evidence enough to implicate at least one other individual on this train,", "ja": "そうだ、私にはこの列車の少なくとも一人を有罪に問うだけの証拠がある、"}
+{"sec": "map:858", "key": "Though if you give me an hour or two I'm sure I could gather and plant enough to have the whole company convicted.", "en": "Though if you give me an hour or two I'm sure I could gather and plant enough to have the whole company convicted. ", "ja": "もっとも、一、二時間もらえれば、乗客全員を有罪にするだけの証拠を集めて仕込むこともできるだろうがな。"}
+{"sec": "map:858", "key": "Regardless, for the current time, I would direct you to that man in the dark robes-- John, I believe his name was.", "en": "Regardless, for the current time, I would direct you to that man in the dark robes-- John, I believe his name was.", "ja": "とにかく、今のところは、あの黒いローブの男に注目してもらいたい――ジョン、といったか。"}
+{"sec": "map:858", "key": "When the lights went out, he ran through this place like syphilis through a brothel.", "en": "When the lights went out, he ran through this place like syphilis through a brothel.", "ja": "明かりが消えたとき、あいつは売春宿を駆け抜ける性病のようにこの場所を走り回っていた。"}
+{"sec": "map:858", "key": "Mom told me not to use that expression, but I told her that all language is a self-referential structure of arguments in increasing emotional intensities and I had several more intense expressions ready for her if she tried to stop me.", "en": "Mom told me not to use that expression, but I told her that all language is a self-referential structure of arguments in increasing emotional intensities and I had several more intense expressions ready for her if she tried to stop me.", "ja": "母には、そんな表現は使うなと言われたが、私は言語というのは感情の強度を高めていく自己参照的な論法の構造なのだと母に言い返し、もし止めようとするならもっと強烈な表現を用意していると伝えておいた。"}
+{"sec": "map:858", "key": "Anyway, the oaf practically tripped over me.", "en": "Anyway, the oaf practically tripped over me.", "ja": "とにかく、あの間抜けは私につまずきかけた。"}
+{"sec": "map:858", "key": "Dithered out some apologies, but didn't bother to stop running.", "en": "Dithered out some apologies, but didn't bother to stop running.", "ja": "もごもごと謝りながらも、走るのを止めようとはしなかった。"}
+{"sec": "map:858", "key": "Shows you where his priorities lie!", "en": "Shows you where his priorities lie!", "ja": "あいつの優先順位がどこにあるか、よくわかるというものだ!"}
+{"sec": "map:858", "key": "I'm sure he was making a break for it straight to the back for the orbs.", "en": "I'm sure he was making a break for it straight to the back for the orbs.", "ja": "きっとまっすぐ後方の秘宝を狙って逃げようとしていたに違いない。"}
+{"sec": "map:858", "key": "Go ahead and arrest him first; you can thank me later.", "en": "Go ahead and arrest him first; you can thank me later.", "ja": "まずあいつを逮捕するといい。礼は後で構わない。"}
+{"sec": "map:858", "key": "EUSTACE: If that's all, I'll be having my juice now, thank you.", "en": "EUSTACE: If that's all, I'll be having my juice now, thank you.", "ja": "ユースタス: それだけなら、私はもうジュースをいただくとしよう、失礼。"}
+{"sec": "map:858", "key": "JULIA: Hi! I'm not under arrest, am I?", "en": "JULIA: Hi! I'm not under arrest, am I?", "ja": "ジュリア: どうも! あたし、逮捕されるわけじゃないよね?"}
+{"sec": "map:858", "key": "I'm too young and peppy to go to jail!", "en": "I'm too young and peppy to go to jail!", "ja": "刑務所に行くにはあたし若すぎるし、元気すぎるもん!"}
+{"sec": "map:858", "key": "JULIA: I have no reason to steal the orbs!", "en": "JULIA: I have no reason to steal the orbs!", "ja": "ジュリア: 秘宝を盗む理由なんてないもん!"}
+{"sec": "map:858", "key": "Honest!", "en": "Honest!", "ja": "本当だよ!"}
+{"sec": "map:858", "key": "Now, I know what you're thinking-- there was an explosion, so it had to be me, right?", "en": "Now, I know what you're thinking-- there was an explosion, so it had to be me, right?", "ja": "わかってる、あなたが何を考えてるか――爆発が起きたから、あたしのせいに違いないって、でしょ?"}
+{"sec": "map:858", "key": "And that's fair!", "en": "And that's fair!", "ja": "それはそうだよね!"}
+{"sec": "map:858", "key": "That's a reasonable course of thought no one could blame you for having!", "en": "That's a reasonable course of thought no one could blame you for having!", "ja": "誰もあなたを責められない、筋の通った考え方だと思う!"}
+{"sec": "map:858", "key": "But even I'm not dumb enough to actually blow up the train we're moving on!", "en": "But even I'm not dumb enough to actually blow up the train we're moving on!", "ja": "でもさすがにあたしだって、自分たちが乗ってる列車を本気で爆破するほどバカじゃないよ!"}
+{"sec": "map:858", "key": "What if there was a chain reaction and every individual car blew up like in those movies creating a freak accident and killing everyone!?", "en": "What if there was a chain reaction and every individual car blew up like in those movies creating a freak accident and killing everyone!?", "ja": "もし連鎖反応が起きて、映画みたいに全部の車両が次々爆発して、大事故になってみんな死んじゃったらどうするの!?"}
+{"sec": "map:858", "key": "I'm an arsonist, not a mass-murderer!", "en": "I'm an arsonist, not a mass-murderer!", "ja": "あたしは放火魔であって、大量殺人犯じゃないんだから!"}
+{"sec": "map:858", "key": "JULIA: Okay, this is gonna sound bad, but I can explain--", "en": "JULIA: Okay, this is gonna sound bad, but I can explain--", "ja": "ジュリア: よし、これ、ひどく聞こえるだろうけど、ちゃんと説明できるから――"}
+{"sec": "map:858", "key": "During the black out...", "en": "During the black out...", "ja": "停電の間……"}
+{"sec": "map:858", "key": "I was...", "en": "I was...", "ja": "あたし……"}
+{"sec": "map:858", "key": "...hiding under a table.", "en": "...hiding under a table.", "ja": "……テーブルの下に隠れてたの。"}
+{"sec": "map:858", "key": "It's not because I was scared! Promise!", "en": "It's not because I was scared! Promise!", "ja": "怖かったからじゃないよ! 誓う!"}
+{"sec": "map:858", "key": "It's just-- I didn't expect the lights to be out for so long, I thought it would be a brief flicker--", "en": "It's just-- I didn't expect the lights to be out for so long, I thought it would be a brief flicker--", "ja": "ただ――あんなに長く電気が消えるとは思わなくて、ちょっとしたチカチカだと思ってたの――"}
+{"sec": "map:858", "key": "So I thought, it would be funny if when the lights went out, I ducked under the table-- and then they come back on,", "en": "So I thought, it would be funny if when the lights went out, I ducked under the table-- and then they come back on,", "ja": "だから、電気が消えたときにテーブルの下に潜って――それでまた電気がついて、"}
+{"sec": "map:858", "key": "And then my date would be like \"Huh? Where'd she go?\"", "en": "And then my date would be like \"Huh? Where'd she go?\"", "ja": "デート相手が「あれ? どこ行った?」って言って、"}
+{"sec": "map:858", "key": "And then I'd pop up and be like \"Boo!\" and I'd have totally got him!", "en": "And then I'd pop up and be like \"Boo!\" and I'd have totally got him!", "ja": "そこであたしが「わっ!」って飛び出すの、絶対ウケると思ってさ!"}
+{"sec": "map:858", "key": "But then the lights never came back up and then I thought it might be a while but I had already committed to the bit,", "en": "But then the lights never came back up and then I thought it might be a while but I had already committed to the bit,", "ja": "でも電気が全然戻らなくて、これ結構長引きそうって思ったけど、もうやると決めちゃったし、"}
+{"sec": "map:858", "key": "And so I thought maybe the lights will stay out for a while, maybe I can just go get a snack while I'm waiting for them to come back,", "en": "And so I thought maybe the lights will stay out for a while, maybe I can just go get a snack while I'm waiting for them to come back,", "ja": "だから、まあしばらくこのままかもしれないから、戻るまでの間におやつでも取りに行こうって思って、"}
+{"sec": "map:858", "key": "So I crawled out and came back and then the lights turned on and now I'm under arrest, you have to help me, I just wanted to \"Boo!\" him!!!", "en": "So I crawled out and came back and then the lights turned on and now I'm under arrest, you have to help me, I just wanted to \"Boo!\" him!!!", "ja": "だからはい出て、戻ってきたら電気がついてて、今こうして逮捕されそうになってるってわけ。助けて、あたしはただ「わっ!」ってやりたかっただけなの!!!"}
+{"sec": "map:858", "key": "JULIA: It was Ms. Craudburry in the Ballroom with the Candlestick!!!", "en": "JULIA: It was Ms. Craudburry in the Ballroom with the Candlestick!!!", "ja": "ジュリア: 犯人はボールルームでクラウドバリーさんがしょく台で!!!"}
+{"sec": "map:858", "key": "No, I don't know that.", "en": "No, I don't know that.", "ja": "ううん、実際に知ってるわけじゃないよ。"}
+{"sec": "map:858", "key": "But that would be funny.", "en": "But that would be funny.", "ja": "でもそれ面白いよね。"}
+{"sec": "map:858", "key": "I don't think this train even has a ballroom.", "en": "I don't think this train even has a ballroom.", "ja": "そもそもこの列車にボールルームなんてないと思うし。"}
+{"sec": "map:858", "key": "Or a candlestick.", "en": "Or a candlestick.", "ja": "しょく台もね。"}
+{"sec": "map:858", "key": "Anyway, okay, this is going to sound really bad, but I'd rather you hear it from me than him.", "en": "Anyway, okay, this is going to sound really bad, but I'd rather you hear it from me than him.", "ja": "とにかく、よし、これ本当にひどく聞こえるだろうけど、あの人からじゃなくてあたしから聞いたほうがいいと思う。"}
+{"sec": "map:858", "key": "Me and that guy were totally talking about how we'd rob this train.", "en": "Me and that guy were totally talking about how we'd rob this train.", "ja": "あたしとあの男、この列車を襲う方法について本気で話してたの。"}
+{"sec": "map:858", "key": "Just hypothetically!", "en": "Just hypothetically!", "ja": "あくまで仮定の話としてね!"}
+{"sec": "map:858", "key": "Entirely hypothetically!", "en": "Entirely hypothetically!", "ja": "完全に仮定の話!"}
+{"sec": "map:858", "key": "We said I could go distract the conductor-- NOT blow up the engine-- and maybe turn the lights out, while he snuck into the back to nab the orbs.", "en": "We said I could go distract the conductor-- NOT blow up the engine-- and maybe turn the lights out, while he snuck into the back to nab the orbs.", "ja": "あたしが運転士の気をそらして――機関部を爆破するんじゃなくて――電気を消せるかもって話してて、その間に彼が後ろにこっそり忍び込んで秘宝を盗む、みたいな感じ。"}
+{"sec": "map:858", "key": "But it was just for fun conversation!", "en": "But it was just for fun conversation!", "ja": "でもそれはただの楽しい会話だったの!"}
+{"sec": "map:858", "key": "We weren't going to go through with it!", "en": "We weren't going to go through with it!", "ja": "実際にやるつもりなんて全然なかったんだから!"}
+{"sec": "map:858", "key": "And for the record, he brought it up, not me!", "en": "And for the record, he brought it up, not me!", "ja": "それに念のため言っておくけど、言い出したのは彼のほうで、あたしじゃないから!"}
+{"sec": "map:858", "key": "JULIA: ...Will you at least visit me in jail?", "en": "JULIA: ...Will you at least visit me in jail?", "ja": "ジュリア: ……せめて刑務所に面会には来てくれる?"}
+{"sec": "map:858", "key": "CHIEF: This is a most lamentable turn of events...", "en": "CHIEF: This is a most lamentable turn of events...", "ja": "チーフ: これは実に嘆かわしい事態です……"}
+{"sec": "map:858", "key": "After all of our work, how could we still have failed to secure the orbs...?", "en": "After all of our work, how could we still have failed to secure the orbs...?", "ja": "これだけの準備をしたというのに、それでも秘宝を守り切れないとは……?"}
+{"sec": "map:858", "key": "CHIEF: It's completely baffling...", "en": "CHIEF: It's completely baffling...", "ja": "チーフ: まったく理解できません……"}
+{"sec": "map:858", "key": "The orbs were secured in this case, to which only I have the key.", "en": "The orbs were secured in this case, to which only I have the key.", "ja": "秘宝はこのケースの中に保管されていて、鍵を持っているのは私だけです。"}
+{"sec": "map:858", "key": "No one has taken the key from me, yet there's no signs of damage on the case...", "en": "No one has taken the key from me, yet there's no signs of damage on the case...", "ja": "私から鍵を奪った者はいないのに、ケースには損傷の痕跡すらありません……"}
+{"sec": "map:858", "key": "How could they have just disappeared?", "en": "How could they have just disappeared?", "ja": "一体どうやって消え失せたというのでしょう?"}
+{"sec": "map:858", "key": "And where are they now?", "en": "And where are they now?", "ja": "そして今どこにあるのでしょうか?"}
+{"sec": "map:858", "key": "CHIEF: Indeed, I was keeping a close eye on the passengers in the time leading up to the blackout.", "en": "CHIEF: Indeed, I was keeping a close eye on the passengers in the time leading up to the blackout.", "ja": "チーフ: 確かに、停電に至るまでの間、乗客たちには目を光らせていました。"}
+{"sec": "map:858", "key": "Not too much of anything happened, but I'll tell you everything I did notice.", "en": "Not too much of anything happened, but I'll tell you everything I did notice.", "ja": "これといって何も起きませんでしたが、私が気づいたことは全てお話しします。"}
+{"sec": "map:858", "key": "The child, Eustace, seemed to be making a fuss about everything he could-- ordering even my officers this way and that for the most trivial of things!", "en": "The child, Eustace, seemed to be making a fuss about everything he could-- ordering even my officers this way and that for the most trivial of things!", "ja": "あの子供、ユースタスは、あらゆることに大騒ぎしているようでした――ささいなことで私の部下たちをあちこち呼びつけて!"}
+{"sec": "map:858", "key": "I had wondered if he had been trying to occupy their attention for something-- but he is just a child after all...", "en": "I had wondered if he had been trying to occupy their attention for something-- but he is just a child after all...", "ja": "何かのために部下たちの気を引こうとしていたのではと思いましたが――結局のところ、ただの子供ですからね……"}
+{"sec": "map:858", "key": "Ms. Craudburry was making a similar stink.", "en": "Ms. Craudburry was making a similar stink.", "ja": "クラウドバリーさんも似たような騒ぎを起こしていました。"}
+{"sec": "map:858", "key": "She kept walking out to the center car, but as soon as she saw me, she would just yell something about the food being miserable, and head back.", "en": "She kept walking out to the center car, but as soon as she saw me, she would just yell something about the food being miserable, and head back.", "ja": "何度も中央の車両に歩いていっては、私を見るなり食べ物が最悪だと何かわめいて、引き返していきましたね。"}
+{"sec": "map:858", "key": "I saw several others pass by, to and from the dining cart...", "en": "I saw several others pass by, to and from the dining cart...", "ja": "食堂車を行き来する何人かの姿も見ました……"}
+{"sec": "map:858", "key": "But thinking about it, a couple of them, such as Sandy and John, may have ended on the opposite side from where they started...", "en": "But thinking about it, a couple of them, such as Sandy and John, may have ended on the opposite side from where they started...", "ja": "ですが考えてみると、サンディやジョンのような何人かは、出発した側とは反対側に着いていたような気もします……"}
+{"sec": "map:858", "key": "I also noticed Julia and that gang leader consorting-- whispering a bit here and there.", "en": "I also noticed Julia and that gang leader consorting-- whispering a bit here and there.", "ja": "ジュリアとあのギャングのリーダーが親しげにしているのも見ました――あちこちで少しささやき合っていましたよ。"}
+{"sec": "map:858", "key": "I couldn't hear what they were saying, but I felt it best not to intervene in a date without more evidence.", "en": "I couldn't hear what they were saying, but I felt it best not to intervene in a date without more evidence.", "ja": "何を話しているかまでは聞こえませんでしたが、もっと証拠がない限りはデートに割って入らないほうがいいと思いまして。"}
+{"sec": "map:858", "key": "After a time, the lights went out.", "en": "After a time, the lights went out.", "ja": "しばらくして、明かりが消えました。"}
+{"sec": "map:858", "key": "I sent my men forward just in case, and went to check on the engine room at once.", "en": "I sent my men forward just in case, and went to check on the engine room at once.", "ja": "念のため部下たちを前方に向かわせ、私自身はすぐに機関室を確認しに行きました。"}
+{"sec": "map:858", "key": "It's as you know it from there.", "en": "It's as you know it from there.", "ja": "それ以降は、あなたのご存知の通りです。"}
+{"sec": "map:858", "key": "CHIEF: Our initial investigation has turned up six possible suspects.", "en": "CHIEF: Our initial investigation has turned up six possible suspects.", "ja": "チーフ: 最初の捜査で、六人の容疑者が浮上しました。"}
+{"sec": "map:858", "key": "First, Ms. Craudburry.", "en": "First, Ms. Craudburry.", "ja": "まず、クラウドバリーさん。"}
+{"sec": "map:858", "key": "A shrewd shrew, we're aware she's engaged in illegal underground trading in the past.", "en": "A shrewd shrew, we're aware she's engaged in illegal underground trading in the past.", "ja": "抜け目のないたぬきで、過去に違法な闇取引に手を染めていたことがわかっています。"}
+{"sec": "map:858", "key": "Second, Sandy, the reserve Ground Type Gym Leader.", "en": "Second, Sandy, the reserve Ground Type Gym Leader.", "ja": "次に、地面タイプの補欠ジムリーダー、サンディ。"}
+{"sec": "map:858", "key": "While it's a shame to suspect a league member, she's shown a past willingness to violate the law for admittedly well-intentioned activism.", "en": "While it's a shame to suspect a league member, she's shown a past willingness to violate the law for admittedly well-intentioned activism.", "ja": "リーグのメンバーを疑うのは心苦しいのですが、彼女には、動機は善意だったとはいえ法を破ることをいとわなかった過去があります。"}
+{"sec": "map:858", "key": "Third, former Aqua Gang leader Archer.", "en": "Third, former Aqua Gang leader Archer.", "ja": "三番目、元アクア団リーダー、アーチャー。"}
+{"sec": "map:858", "key": "Third, former Magma Gang leader Maxwell.", "en": "Third, former Magma Gang leader Maxwell.", "ja": "三番目、元マグマ団リーダー、マクスウェル。"}
+{"sec": "map:858", "key": "His gang has been dissolved, but he has an extensive history of heists, and it's hard to deny the orbs could have a particular relevance to him...", "en": "His gang has been dissolved, but he has an extensive history of heists, and it's hard to deny the orbs could have a particular relevance to him...", "ja": "彼の一味は解散していますが、強盗の前歴は豊富で、秘宝が彼にとって特に意味を持つ可能性は否定しがたいものがあります……"}
+{"sec": "map:858", "key": "Fourth, a former Orderly and Team Meteor operative named John.", "en": "Fourth, a former Orderly and Team Meteor operative named John.", "ja": "四番目、元オーダリーでTeam Meteorの工作員だったジョン。"}
+{"sec": "map:858", "key": "He was released on bail after being captured during the Agate City raid-- lord only knows how he got the funds for it...", "en": "He was released on bail after being captured during the Agate City raid-- lord only knows how he got the funds for it...", "ja": "アゲートシティでの襲撃で捕らえられた後、保釈されています――一体どうやって保釈金を用意したのか、神のみぞ知る……"}
+{"sec": "map:858", "key": "He claims to have left Meteor behind, but I find it difficult to trust him nonetheless.", "en": "He claims to have left Meteor behind, but I find it difficult to trust him nonetheless.", "ja": "Meteorから抜けたと本人は主張していますが、それでも信用しがたいものがあります。"}
+{"sec": "map:858", "key": "Fifth, Electric Reborn Gym Leader Julia.", "en": "Fifth, Electric Reborn Gym Leader Julia.", "ja": "五番目、電気タイプのリボーンジムリーダー、ジュリア。"}
+{"sec": "map:858", "key": "We've let her get away with a lot due to her status and influence, but forget thinking twice-- we'd be lucky if she thought once about blowing something up.", "en": "We've let her get away with a lot due to her status and influence, but forget thinking twice-- we'd be lucky if she thought once about blowing something up.", "ja": "彼女の地位と影響力のおかげでいろいろ大目に見てきましたが、二度考えるどころか、彼女が何かを爆破する前に一度でも考えていてくれたら幸運というものです。"}
+{"sec": "map:858", "key": "The state of the engine room unfortunately makes her a prime suspect.", "en": "The state of the engine room unfortunately makes her a prime suspect.", "ja": "機関室の状況は、残念ながら彼女を最有力容疑者にしています。"}
+{"sec": "map:858", "key": "Finally, Eustace, a child from the Lapis Ward.", "en": "Finally, Eustace, a child from the Lapis Ward.", "ja": "最後に、ラピスワード出身の子供、ユースタス。"}
+{"sec": "map:858", "key": "Eustace has no documented criminal record, but he seems to be a particularly... troubled... child, as well as an intelligent one.", "en": "Eustace has no documented criminal record, but he seems to be a particularly... troubled... child, as well as an intelligent one.", "ja": "ユースタスには記録上の前科はありませんが、特に……問題を抱えた……子供であると同時に、頭も切れるようです。"}
+{"sec": "map:858", "key": "A dangerous combination-- and it manifests in an apparent total ethical blindness which has led him to skirt several laws already.", "en": "A dangerous combination-- and it manifests in an apparent total ethical blindness which has led him to skirt several laws already.", "ja": "危険な組み合わせです――そしてそれは、いくつもの法をすでにすり抜けてきた、まったくの倫理観の欠如という形で表れています。"}
+{"sec": "map:858", "key": "In each incident, he's been completely absolved on legal technicalities. To be honest, the child is terrifying when he wants to be.", "en": "In each incident, he's been completely absolved on legal technicalities. To be honest, the child is terrifying when he wants to be.", "ja": "どの事件でも、法律上の抜け穴で完全に無罪放免になっています。正直なところ、あの子供は本気を出すと恐ろしいものがあります。"}
+{"sec": "map:858", "key": "That's it-- regrettably, it's a full house of fools.", "en": "That's it-- regrettably, it's a full house of fools.", "ja": "以上です――残念ながら、愚か者ぞろいのフルハウスですね。"}
+{"sec": "map:858", "key": "There's always a chance that someone else could be involved, but to our research, these six seem the most likely by far.", "en": "There's always a chance that someone else could be involved, but to our research, these six seem the most likely by far.", "ja": "他にも関わっている者がいる可能性は常にありますが、我々の調査では、この六人が最も疑わしいと言えるでしょう。"}
+{"sec": "map:858", "key": "CHIEF: You're done investigating already?", "en": "CHIEF: You're done investigating already?", "ja": "チーフ: もう捜査は終わったのですか?"}
+{"sec": "map:858", "key": "Are you quite sure?", "en": "Are you quite sure?", "ja": "本当に確かですか?"}
+{"sec": "map:858", "key": "CHIEF: It's best to be thorough!", "en": "CHIEF: It's best to be thorough!", "ja": "チーフ: 徹底的に調べるのが一番です!"}
+{"sec": "map:858", "key": "Leave no stone unturned!", "en": "Leave no stone unturned!", "ja": "一つも見落としのないように!"}
+{"sec": "map:858", "key": "Not that there are too many stones on-board, I hope...", "en": "Not that there are too many stones on-board, I hope...", "ja": "もっとも、この船内にそう石なんて多くあるとは思いませんが……"}
+{"sec": "map:858", "key": "CHIEF: There is much to be done at once!", "en": "CHIEF: There is much to be done at once!", "ja": "チーフ: やるべきことがたくさんありますよ!"}
+{"sec": "map:858", "key": "Chief! The Red Orb has been found!", "en": "Chief! The Red Orb has been found!", "ja": "チーフ! 赤の秘宝が見つかりました!"}
+{"sec": "map:858", "key": "CHIEF: Truly!?", "en": "CHIEF: Truly!?", "ja": "チーフ: 本当ですか!?"}
+{"sec": "map:858", "key": "Excellent news! Let us assemble at once!", "en": "Excellent news! Let us assemble at once!", "ja": "素晴らしい知らせです! すぐに集合しましょう!"}
+{"sec": "map:858", "key": "Bring the orb, and all of the primary suspects to the dining cart!", "en": "Bring the orb, and all of the primary suspects to the dining cart!", "ja": "秘宝と、主要な容疑者全員を食堂車へ連れてきてください!"}
+{"sec": "map:858", "key": "I'll be there at once!", "en": "I'll be there at once!", "ja": "私もすぐに向かいます!"}
+{"sec": "map:858", "key": "Huh? Aren't you the champion?", "en": "Huh? Aren't you the champion?", "ja": "え? あなた、もしかしてチャンピオン?"}
+{"sec": "map:858", "key": "Wow...", "en": "Wow...", "ja": "うわぁ……"}
+{"sec": "map:858", "key": "What's happened...?", "en": "What's happened...?", "ja": "一体何が起きたの……?"}
+{"sec": "map:858", "key": "Something was stolen and you're investigating it?", "en": "Something was stolen and you're investigating it?", "ja": "何か盗まれて、それを調べてるの?"}
+{"sec": "map:858", "key": "I haven't moved from this spot the entire time, so I don't know if I can say anything that would be terribly helpful...", "en": "I haven't moved from this spot the entire time, so I don't know if I can say anything that would be terribly helpful...", "ja": "私、この場所からずっと動いてないから、あまり役に立つことは言えないと思うけど……"}
+{"sec": "map:858", "key": "Oh! But, you know that loud elderly woman in the other cart?", "en": "Oh! But, you know that loud elderly woman in the other cart?", "ja": "あ! でも、あの別の車両にいるうるさいおばあさん、知ってる?"}
+{"sec": "map:858", "key": "She kept pacing back and forth here, never went too far--", "en": "She kept pacing back and forth here, never went too far--", "ja": "あの人、ここを何度も行ったり来たりしてたけど、あんまり遠くには行かなかった――"}
+{"sec": "map:858", "key": "But I noticed that even in her huffiest huff she really seemed held up by her body-- like she couldn't go that fast.", "en": "But I noticed that even in her huffiest huff she really seemed held up by her body-- like she couldn't go that fast.", "ja": "でも気づいたのは、一番いらついてるときでさえ、あの人の体はすごく重そうで――そんなに速く動けなさそうだったってこと。"}
+{"sec": "map:858", "key": "I think there's no way she could've made it all the way to the storage cart in the time the lights were out if that's really the fastest she can go...", "en": "I think there's no way she could've made it all the way to the storage cart in the time the lights were out if that's really the fastest she can go...", "ja": "もしあれが本当に最速だとしたら、電気が消えてた時間で貯蔵車まで行けるとは思えない……"}
+{"sec": "map:858", "key": "Does that help?", "en": "Does that help?", "ja": "これ、役に立った?"}
+{"sec": "map:858", "key": "Why couldn't the pretty Gym Leader have come over to talk to me instead?", "en": "Why couldn't the pretty Gym Leader have come over to talk to me instead?", "ja": "どうしてあの可愛いジムリーダーの子じゃなくて、私のところに来てくれなかったんだろう?"}
+{"sec": "map:858", "key": "Why that guy?", "en": "Why that guy?", "ja": "なんであの男なの?"}
+{"sec": "map:858", "key": "Hey, something happened, right?", "en": "Hey, something happened, right?", "ja": "ねえ、何かあったんでしょ?"}
+{"sec": "map:858", "key": "You might wanna check out the couple sitting across from me.", "en": "You might wanna check out the couple sitting across from me.", "ja": "あたしの向かいに座ってたカップルを調べてみたら?"}
+{"sec": "map:858", "key": "I don't think they know the meaning about the word subtlety--", "en": "I don't think they know the meaning about the word subtlety--", "ja": "あの二人、控えめってものを知らないみたいでさ――"}
+{"sec": "map:858", "key": "Before the lights went out, they were talking pretty loudly about pulling off some kind of stunt with this train.", "en": "Before the lights went out, they were talking pretty loudly about pulling off some kind of stunt with this train.", "ja": "電気が消える前、この列車で何か企んでるみたいに大声で話してたよ。"}
+{"sec": "map:858", "key": "Suspects 1 and 2 if you ask me.", "en": "Suspects 1 and 2 if you ask me.", "ja": "あたしに言わせりゃ、容疑者は一番と二番だね。"}
+{"sec": "map:858", "key": "I'm annoyed.", "en": "I'm annoyed.", "ja": "むかつく。"}
+{"sec": "map:858", "key": "That couple in there was definitely talking about pulling off a heist on this train.", "en": "That couple in there was definitely talking about pulling off a heist on this train.", "ja": "あそこにいたカップル、絶対にこの列車で強盗をやらかそうって話してた。"}
+{"sec": "map:858", "key": "When the lights went out, I was so sure they were going to do it-- and that guy has been annoying me the whole ride.", "en": "When the lights went out, I was so sure they were going to do it-- and that guy has been annoying me the whole ride.", "ja": "電気が消えたとき、絶対やるつもりだって確信したよ――それにあの男、旅の間中ずっとうざかったし。"}
+{"sec": "map:858", "key": "I was gonna stick my leg out and trip him in the dark as soon as he started walking back to the storage car!", "en": "I was gonna stick my leg out and trip him in the dark as soon as he started walking back to the storage car!", "ja": "あいつが貯蔵車に向かって歩き出した瞬間、暗闇の中で足を出して転ばせてやろうと思ってたのに!"}
+{"sec": "map:858", "key": "But he never did.", "en": "But he never did.", "ja": "でも結局あいつはそうしなかった。"}
+{"sec": "map:858", "key": "A few others came and went, but he really was right there the whole time...", "en": "A few others came and went, but he really was right there the whole time...", "ja": "他にも何人か行き来してたけど、あいつは本当にずっとそこにいたんだよ……"}
+{"sec": "map:858", "key": "How I wish I could've seen him fall flat on his face...", "en": "How I wish I could've seen him fall flat on his face...", "ja": "あいつが顔からすっ転ぶところ、見たかったなぁ……"}
+{"sec": "map:858", "key": "Champion \\PN,", "en": "Champion \\PN,", "ja": "チャンピオン\\PN、"}
+{"sec": "map:858", "key": "I don't have any evidence that your league colleague is definitely responsible for blowing up the engine,", "en": "I don't have any evidence that your league colleague is definitely responsible for blowing up the engine,", "ja": "あなたのリーグの仲間が機関部を爆破した犯人だと断言できる証拠は持っていませんが、"}
+{"sec": "map:858", "key": "I'm just saying, I'd be more surprised if she didn't do it.", "en": "I'm just saying, I'd be more surprised if she didn't do it.", "ja": "ただ、彼女がやってなかったら逆に驚くだろうな、とは思いますね。"}
+{"sec": "map:858", "key": "I was standing on guard back here at the time of the incident!", "en": "I was standing on guard back here at the time of the incident!", "ja": "事件の時、あたしはこの後方で見張りをしてました!"}
+{"sec": "map:858", "key": "First, I caught Sandy attempting to run into the storage room.", "en": "First, I caught Sandy attempting to run into the storage room.", "ja": "最初に、サンディが貯蔵室に駆け込もうとしているのを捕まえました。"}
+{"sec": "map:858", "key": "Then, someone else ran by me, but I couldn't catch them!", "en": "Then, someone else ran by me, but I couldn't catch them!", "ja": "それから、他の誰かが横を走り抜けていったんですが、捕まえられませんでした!"}
+{"sec": "map:858", "key": "I heard a great deal of shuffling, a deep voice cried out, and then no more.", "en": "I heard a great deal of shuffling, a deep voice cried out, and then no more.", "ja": "大きな物音、低い叫び声が聞こえて、それきり静かになりました。"}
+{"sec": "map:858", "key": "Notably, I did not hear the back door of the storage cart open...", "en": "Notably, I did not hear the back door of the storage cart open...", "ja": "注目すべきは、貯蔵車の裏口が開く音は聞かなかったということです……"}
+{"sec": "map:858", "key": "But there seemed to be screaming coming from two carts down the line, so I wonder if that simply masked it...", "en": "But there seemed to be screaming coming from two carts down the line, so I wonder if that simply masked it...", "ja": "でも二両ほど先で悲鳴のような声がしていたので、それにかき消されただけかもしれないと思っています……"}
+{"sec": "map:858", "key": "SANDY: It wasn't me! You have to believe me!", "en": "SANDY: It wasn't me! You have to believe me!", "ja": "サンディ: あたしじゃない! 信じて!"}
+{"sec": "map:858", "key": "CHIEF: Is Sandy the culprit?", "en": "CHIEF: Is Sandy the culprit?", "ja": "チーフ: サンディが犯人ですか?"}
+{"sec": "map:858", "key": "SANDY: Wait, no, \\PN!", "en": "SANDY: Wait, no, \\PN!", "ja": "サンディ: 待って、違う、\\PN!"}
+{"sec": "map:858", "key": "You're making a mistake!", "en": "You're making a mistake!", "ja": "あんた間違ってる!"}
+{"sec": "map:858", "key": "It shouldn't have to be that way-- but there's still time! I'll change your mind yet!", "en": "It shouldn't have to be that way-- but there's still time!  I'll change your mind yet!", "ja": "こんなことにならなくてよかったのに――でもまだ時間はある! あんたの考え、絶対変えてみせるから!"}
+{"sec": "map:858", "key": "All I ever wanted was to protect the planet, and I couldn't even do that!!!", "en": "All I ever wanted was to protect the planet, and I couldn't even do that!!!", "ja": "あたしがずっと望んでたのは地球を守ることだけなのに、それすらできなかった!!!"}
+{"sec": "map:858", "key": "CHIEF: I see. Go on.", "en": "CHIEF: I see. Go on.", "ja": "チーフ: なるほど。続けて。"}
+{"sec": "map:858", "key": "SANDY: The water coming out from your bag...", "en": "SANDY: The water coming out from your bag... ", "ja": "サンディ: あんたのバッグから出てる水……"}
+{"sec": "map:858", "key": "Do you think it's pristine?", "en": "Do you think it's pristine?", "ja": "それ、純粋なものだと思う?"}
+{"sec": "map:858", "key": "Spring mineral, maybe?", "en": "Spring mineral, maybe?", "ja": "もしかして、天然のミネラルウォーターとか?"}
+{"sec": "map:858", "key": "CRAUDBURRY: RRRRRRRRRRRRRRRRRRRRRR.", "en": "CRAUDBURRY: RRRRRRRRRRRRRRRRRRRRRR.", "ja": "クラウドバリー: ンンンンンンンンンンンンンンンンンンン。"}
+{"sec": "map:858", "key": "CHIEF: Is Craudburry the culprit?", "en": "CHIEF: Is Craudburry the culprit?", "ja": "チーフ: クラウドバリーが犯人ですか?"}
+{"sec": "map:858", "key": "CRAUDBURRY: How DARE you MISERABLE--", "en": "CRAUDBURRY: How DARE you MISERABLE--", "ja": "クラウドバリー: よくもこの惨めな――"}
+{"sec": "map:858", "key": "You DECREPIT little--", "en": "You DECREPIT little--", "ja": "このボロボロの――"}
+{"sec": "map:858", "key": "You--", "en": "You--", "ja": "あんた――"}
+{"sec": "map:858", "key": "RAGGHDFDNAKSDSL!!!!!", "en": "RAGGHDFDNAKSDSL!!!!!", "ja": "ラアアアグッッハッフダフナクサドッスル!!!!"}
+{"sec": "map:858", "key": "YARGGHARBFORGLRRGHGGHGH!", "en": "YARGGHARBFORGLRRGHGGHGH!", "ja": "ヤァァァグッハーブフォグルルルグッグッグ!"}
+{"sec": "map:858", "key": "CRAUDBURRY: Back in my day, we didn't HAVE your fancy plastic water bottles!", "en": "CRAUDBURRY: Back in my day, we didn't HAVE your fancy plastic water bottles!", "ja": "クラウドバリー: 私の若い頃は、あんたたちの気取ったプラスチックボトルの水なんてなかったのよ!"}
+{"sec": "map:858", "key": "If we didn't have our own canteen, we had to drink the SWEAT from our own ARMPITS!", "en": "If we didn't have our own canteen, we had to drink the SWEAT from our own ARMPITS!", "ja": "自分の水筒を持っていなければ、自分のわきの下から出る汗を飲むしかなかったんだから!"}
+{"sec": "map:858", "key": "BAAAAAAAH.", "en": "BAAAAAAAH.", "ja": "フンーーーーーーーーッ。"}
+{"sec": "map:858", "key": "JOHN: Please, \\PN.", "en": "JOHN: Please, \\PN.", "ja": "ジョン: 頼むぞ、\\PN。"}
+{"sec": "map:858", "key": "Accuse an innocent man if you will.", "en": "Accuse an innocent man if you will.", "ja": "何なら無実の男を疑うがいい。"}
+{"sec": "map:858", "key": "Even this setback will not stop the return of Team Meteor.", "en": "Even this setback will not stop the return of Team Meteor.", "ja": "たとえこのつまずきがあろうと、Team Meteorの復活は止まらない。"}
+{"sec": "map:858", "key": "CHIEF: Is John the culprit?", "en": "CHIEF: Is John the culprit?", "ja": "チーフ: ジョンが犯人ですか?"}
+{"sec": "map:858", "key": "JOHN: The obvious choice-- but a foolish and misguided one.", "en": "JOHN: The obvious choice-- but a foolish and misguided one.", "ja": "ジョン: いかにも見え透いた選択だ――だが愚かで見当違いなものでもある。"}
+{"sec": "map:858", "key": "Nevertheless, I will fight for the glory of Meteor!", "en": "Nevertheless, I will fight for the glory of Meteor!", "ja": "それでも、俺はMeteorの栄光のために戦う!"}
+{"sec": "map:858", "key": "Again with your belligerent opposition...", "en": "Again with your belligerent opposition...", "ja": "また貴様の好戦的な反抗か……"}
+{"sec": "map:858", "key": "JOHN: So, it would seem you beat us to the punch...", "en": "JOHN: So, it would seem you beat us to the punch...", "ja": "ジョン: ふむ、どうやら我々より先に出し抜かれたようだな……"}
+{"sec": "map:858", "key": "EUSTACE: You can't touch me.", "en": "EUSTACE: You can't touch me.", "ja": "ユースタス: 私には手出しできんぞ。"}
+{"sec": "map:858", "key": "Don't even try.", "en": "Don't even try.", "ja": "試みるだけ無駄だ。"}
+{"sec": "map:858", "key": "CHIEF: Is Eustace the culprit?", "en": "CHIEF: Is Eustace the culprit?", "ja": "チーフ: ユースタスが犯人ですか?"}
+{"sec": "map:858", "key": "EUSTACE: Preposterous.", "en": "EUSTACE: Preposterous.", "ja": "ユースタス: バカげている。"}
+{"sec": "map:858", "key": "I've seen Dunsparce with more deductive ability than you.", "en": "I've seen Dunsparce with more deductive ability than you.", "ja": "ノコッチのほうがまだ推理力があるだろう。"}
+{"sec": "map:858", "key": "I'll prove the difference in our intellect forcibly.", "en": "I'll prove the difference in our intellect forcibly.", "ja": "私たちの知性の差を力ずくで証明してやろう。"}
+{"sec": "map:858", "key": "This is balderdash. Someone see this farce put out at once! I insist!", "en": "This is balderdash. Someone see this farce put out at once! I insist!", "ja": "くだらん。誰かこの茶番をさっさと消してくれ! そう主張する!"}
+{"sec": "map:858", "key": "EUSTACE: A classic caper, isn't it?", "en": "EUSTACE: A classic caper, isn't it?", "ja": "ユースタス: よくある古典的な事件だな?"}
+{"sec": "map:858", "key": "The detective-- the thief.", "en": "The detective-- the thief.", "ja": "探偵――泥棒。"}
+{"sec": "map:858", "key": "Do not think yourself commendable.", "en": "Do not think yourself commendable.", "ja": "自分を称賛に値すると思うなよ。"}
+{"sec": "map:858", "key": "I would've done it much better.", "en": "I would've done it much better.", "ja": "私ならもっとうまくやっていたはずだ。"}
+{"sec": "map:858", "key": "Next time you attempt a heist, contact me.", "en": "Next time you attempt a heist, contact me.", "ja": "今度強盗をたくらむときは、私に連絡することだ。"}
+{"sec": "map:858", "key": "For 95% of the profits, I'll see it done flawlessly.", "en": "For 95% of the profits, I'll see it done flawlessly.", "ja": "利益の95パーセントをよこせば、完璧にやり遂げてやろう。"}
+{"sec": "map:858", "key": "The cop-- the thief.", "en": "The cop-- the thief.", "ja": "警官――泥棒。"}
+{"sec": "map:858", "key": "MAXWELL: Are we doing this again?", "en": "MAXWELL: Are we doing this again?", "ja": "マクスウェル: またこれをやるのか?"}
+{"sec": "map:858", "key": "CHIEF: Is Maxwell the culprit?", "en": "CHIEF: Is Maxwell the culprit?", "ja": "チーフ: マクスウェルが犯人ですか?"}
+{"sec": "map:858", "key": "MAXWELL: I should've figured you'd be determined to stand against me to the bitter end.", "en": "MAXWELL: I should've figured you'd be determined to stand against me to the bitter end.", "ja": "マクスウェル: お前は最後まで俺に逆らい続けるだろうと思っておくべきだったな。"}
+{"sec": "map:858", "key": "So be it! Let's rage it out like a wildfire!", "en": "So be it! Let's rage it out like a wildfire!", "ja": "それでいい! 山火事みたいに派手に暴れようぜ!"}
+{"sec": "map:858", "key": "Another loss, then... Hmph.", "en": "Another loss, then... Hmph.", "ja": "また負けか……フン。"}
+{"sec": "map:858", "key": "ARCHER: It's quite obvious that I would be the wrong decision, but go on if you will.", "en": "ARCHER: It's quite obvious that I would be the wrong decision, but go on if you will.", "ja": "アーチャー: 私を選ぶのは明らかに間違いだが、そうしたいならどうぞ。"}
+{"sec": "map:858", "key": "CHIEF: Is Archer the culprit?", "en": "CHIEF: Is Archer the culprit?", "ja": "チーフ: アーチャーが犯人ですか?"}
+{"sec": "map:858", "key": "ARCHER: So you've made your choice-- and a wrong one.", "en": "ARCHER: So you've made your choice-- and a wrong one.", "ja": "アーチャー: 選んだようだな――そして間違った選択を。"}
+{"sec": "map:858", "key": "Fear not, \\PN.", "en": "Fear not, \\PN.", "ja": "恐れるな、\\PN。"}
+{"sec": "map:858", "key": "I won't let you make the wrong choice!", "en": "I won't let you make the wrong choice!", "ja": "お前に間違った選択をさせはしない!"}
+{"sec": "map:858", "key": "Do you even understand the consequences of your actions?", "en": "Do you even understand the consequences of your actions?", "ja": "自分の行動の結果を、本当に理解しているのか?"}
+{"sec": "map:858", "key": "MAXWELL: I see what you've done.", "en": "MAXWELL: I see what you've done.", "ja": "マクスウェル: お前がやったこと、わかってるぞ。"}
+{"sec": "map:858", "key": "ARCHER: It looks like you're the real Aqua Gang now.", "en": "ARCHER: It looks like you're the real Aqua Gang now.", "ja": "アーチャー: 今や、お前こそが本物のアクア団というわけだな。"}
+{"sec": "map:858", "key": "JULIA: C'mon, you wouldn't actually do me in like this-- after everything we've been through?", "en": "JULIA: C'mon, you wouldn't actually do me in like this-- after everything we've been through?", "ja": "ジュリア: ちょっと、あたしたちがこれまで一緒に過ごしてきたのに――こんなふうに仕留めようとするの?"}
+{"sec": "map:858", "key": "All the fun times, the explosions--", "en": "All the fun times, the explosions--", "ja": "楽しい時間も、爆発も全部――"}
+{"sec": "map:858", "key": "Or no, I suppose that's the problem here, huh...", "en": "Or no, I suppose that's the problem here, huh...", "ja": "いや、それが問題なのかもね……"}
+{"sec": "map:858", "key": "CHIEF: Is Julia the culprit?", "en": "CHIEF: Is Julia the culprit?", "ja": "チーフ: ジュリアが犯人ですか?"}
+{"sec": "map:858", "key": "JULIA: I am heartbroken!", "en": "JULIA: I am heartbroken!", "ja": "ジュリア: 傷ついた!"}
+{"sec": "map:858", "key": "This is betrayal!", "en": "This is betrayal!", "ja": "これは裏切りだよ!"}
+{"sec": "map:858", "key": "I won't take this lying down!", "en": "I won't take this lying down!", "ja": "黙って引き下がったりしないから!"}
+{"sec": "map:858", "key": "\\PN, prepare for a counter-assault!", "en": "\\PN, prepare for a counter-assault!", "ja": "\\PN、反撃の覚悟をして!"}
+{"sec": "map:858", "key": "Nooo! My freedom-- My freedom is slipping away!", "en": "Nooo! My freedom-- My freedom is slipping away!", "ja": "いやーーっ! あたしの自由が――自由が消えてく!"}
+{"sec": "map:858", "key": "JULIA: Water you doing?!", "en": "JULIA: Water you doing?!", "ja": "ジュリア: バッグから何が出てるって?!"}
+{"sec": "map:858", "key": "You have to check your bag quickly, or we're all shore to be in trouble!", "en": "You have to check your bag quickly, or we're all shore to be in trouble!", "ja": "急いでバッグをチェックしないと、あたしたちみんな流されちゃうよ!"}
+{"sec": "map:858", "key": "If you can't search yourself, I can do a pat-drown on you!", "en": "If you can't search yourself, I can do a pat-drown on you!", "ja": "自分で調べられないなら、あたしがビシャッとチェックしてあげてもいいよ!"}
+{"sec": "map:858", "key": "But seriously, if it keeps overflowing, this investigation's going to be all washed up!", "en": "But seriously, if it keeps overflowing, this investigation's going to be all washed up!", "ja": "でも本気で言うけど、あふれ続けたら、この捜査、水の泡になっちゃうよ!"}
+{"sec": "map:858", "key": "Dive into your bag now!", "en": "Dive into your bag now!", "ja": "今すぐバッグに飛び込んで確認して!"}
+{"sec": "map:858", "key": "The Blue Orb could not be found in the possession of any of the primary suspects, but it's possible it was hidden somewhere like the Red Orb!", "en": "The Blue Orb could not be found in the possession of any of the primary suspects, but it's possible it was hidden somewhere like the Red Orb!", "ja": "青の秘宝は主要容疑者の誰からも見つからなかったが、赤の秘宝のようにどこかに隠されている可能性がある!"}
+{"sec": "map:858", "key": "The Blue Orb... Could it be?", "en": "The Blue Orb... Could it be?", "ja": "青の秘宝……もしかして?"}
+{"sec": "map:858", "key": "The chief has ordered that no one here is to leave the car until the situation is resolved.", "en": "The chief has ordered that no one here is to leave the car until the situation is resolved.", "ja": "チーフは、事態が解決するまで誰もこの車両を離れないよう命じている。"}
+{"sec": "map:858", "key": "CHIEF: Report!", "en": "CHIEF: Report!", "ja": "チーフ: 報告を!"}
+{"sec": "map:858", "key": "CONDUCTOR: I have the Red Orb right here!", "en": "CONDUCTOR: I have the Red Orb right here!", "ja": "コンダクター: 赤の秘宝はここにあります!"}
+{"sec": "map:858", "key": "I was trying to see what repairs I could make to the engine, and I just...", "en": "I was trying to see what repairs I could make to the engine, and I just...", "ja": "機関部の修理ができないか見ていたら、"}
+{"sec": "map:858", "key": "Found it, inside.", "en": "Found it, inside.", "ja": "中に入っているのを見つけたんです。"}
+{"sec": "map:858", "key": "CHIEF: Inside the engine, you say?", "en": "CHIEF: Inside the engine, you say?", "ja": "チーフ: 機関部の中にあったと言うのですか?"}
+{"sec": "map:858", "key": "CONDUCTOR: Yes, sir.", "en": "CONDUCTOR: Yes, sir.", "ja": "コンダクター: はい、そうです。"}
+{"sec": "map:858", "key": "I have no idea how it could have gotten there-- the front end wasn't even accessible until I cleared away some of the debris.", "en": "I have no idea how it could have gotten there-- the front end wasn't even accessible until I cleared away some of the debris.", "ja": "どうやってそこに入ったのか、まったく見当もつきません――がれきを少し片付けるまで、前方には近づくことすらできなかったんです。"}
+{"sec": "map:858", "key": "CHIEF: Give it here.", "en": "CHIEF: Give it here.", "ja": "チーフ: こちらに渡してください。"}
+{"sec": "map:858", "key": "CHIEF: Hrrrm...", "en": "CHIEF: Hrrrm...", "ja": "チーフ: ふうむ……"}
+{"sec": "map:858", "key": "I see! There's not a mark on it!", "en": "I see! There's not a mark on it!", "ja": "なるほど! 傷ひとつありませんね!"}
+{"sec": "map:858", "key": "Even if it were sturdy enough to remain undamaged, if it were present at the time the engine exploded, we'd expect to see some kind of soot or grime on it!", "en": "Even if it were sturdy enough to remain undamaged, if it were present at the time the engine exploded, we'd expect to see some kind of soot or grime on it!", "ja": "無傷でいられるほど頑丈だったとしても、爆発の瞬間にそこにあったのなら、すすや汚れが付いていておかしくないはずです!"}
+{"sec": "map:858", "key": "This must have been placed in the engine at some point after the initial destruction!", "en": "This must have been placed in the engine at some point after the initial destruction!", "ja": "これは最初の破壊の後、どこかの時点で機関部に置かれたに違いありません!"}
+{"sec": "map:858", "key": "EUSTACE: Obviously.", "en": "EUSTACE: Obviously. ", "ja": "ユースタス: 当然だな。"}
+{"sec": "map:858", "key": "Even a Basculin could deduce that.", "en": "Even a Basculin could deduce that.", "ja": "バスラオでもそれくらい推理できるだろう。"}
+{"sec": "map:858", "key": "CHIEF: Silence, child.", "en": "CHIEF: Silence, child.", "ja": "チーフ: 静かに、坊や。"}
+{"sec": "map:858", "key": "You'll speak when spoken to.", "en": "You'll speak when spoken to.", "ja": "話しかけられたときだけ話しなさい。"}
+{"sec": "map:858", "key": "EUSTACE: And whenever else I please.", "en": "EUSTACE: And whenever else I please.", "ja": "ユースタス: そして私が話したいときにも、な。"}
+{"sec": "map:858", "key": "CHIEF: Officer, did your search yield anything?", "en": "CHIEF: Officer, did your search yield anything?", "ja": "チーフ: 警官、捜索で何か見つかりましたか?"}
+{"sec": "map:858", "key": "OFFICER: No, sir!", "en": "OFFICER: No, sir!", "ja": "警官: いいえ、何も!"}
+{"sec": "map:858", "key": "We thoroughly searched all six primary suspects, and there is no sign of the Blue Orb!", "en": "We thoroughly searched all six primary suspects, and there is no sign of the Blue Orb!", "ja": "主要容疑者六人を徹底的に捜索しましたが、青の秘宝の痕跡はありませんでした!"}
+{"sec": "map:858", "key": "CRAUDBURRY: And you violated at least EIGHT privacy laws in the process!", "en": "CRAUDBURRY: And you violated at least EIGHT privacy laws in the process!", "ja": "クラウドバリー: それに、その過程で少なくとも八つのプライバシー法を犯したわね!"}
+{"sec": "map:858", "key": "Young man couldn't resist getting a pat and feel in on this lady, could you?", "en": "Young man couldn't resist getting a pat and feel in on this lady, could you?", "ja": "若いの、この私にボディタッチせずにはいられなかったんでしょう?"}
+{"sec": "map:858", "key": "Can't say I blame you, but I don't want your GRUBBY PAWS coming near me any time in the future!", "en": "Can't say I blame you, but I don't want your GRUBBY PAWS coming near me any time in the future!", "ja": "責めるつもりはないけど、これから先、あんたの汚らしい手を私に近づけてほしくないわね!"}
+{"sec": "map:858", "key": "OFFICER: I took no pleasure in it, ma'am.", "en": "OFFICER: I took no pleasure in it, ma'am.", "ja": "警官: 少しも楽しんでなどいませんよ、お嬢様。"}
+{"sec": "map:858", "key": "With all due respect, I would rather eat the entire Tourmaline Desert one spoonful of sand at a time than touch you again.", "en": "With all due respect, I would rather eat the entire Tourmaline Desert one spoonful of sand at a time than touch you again.", "ja": "失礼ながら、あなたにもう一度触れるくらいなら、トルマリン砂漠をスプーン一杯ずつ全部食べたほうがマシです。"}
+{"sec": "map:858", "key": "CRAUDBURRY: You FOUL-MOUTHED BARBARIAN!", "en": "CRAUDBURRY: You FOUL-MOUTHED BARBARIAN!", "ja": "クラウドバリー: この口の悪い蛮族が!"}
+{"sec": "map:858", "key": "When we get back to the city, I'll SUE YOU SIDEWAYS!", "en": "When we get back to the city, I'll SUE YOU SIDEWAYS!", "ja": "街に戻ったら、あんたを徹底的に訴えてやる!"}
+{"sec": "map:858", "key": "I'll make you REGRET the day you ever crawled out of your mother's STINKING HOLE and--", "en": "I'll make you REGRET the day you ever crawled out of your mother's STINKING HOLE and--", "ja": "自分の母親の臭い穴からはい出てきた日を後悔させてやるわ、それと――"}
+{"sec": "map:858", "key": "CHIEF: Ma'am.", "en": "CHIEF: Ma'am.", "ja": "チーフ: お嬢様。"}
+{"sec": "map:858", "key": "If you speak one more word, I will personally throw you out of this train and strand you in the desert.", "en": "If you speak one more word, I will personally throw you out of this train and strand you in the desert.", "ja": "もう一言でも発したら、私自らこの列車からあなたを放り出して、砂漠に置き去りにしますよ。"}
+{"sec": "map:858", "key": "CHIEF: The Red Orb was found at the opposite side of the train from where it was stolen.", "en": "CHIEF: The Red Orb was found at the opposite side of the train from where it was stolen.", "ja": "チーフ: 赤の秘宝は、盗まれた場所とは反対側で見つかりました。"}
+{"sec": "map:858", "key": "The Blue Orb is still missing.", "en": "The Blue Orb is still missing.", "ja": "青の秘宝はまだ行方不明です。"}
+{"sec": "map:858", "key": "I'm beginning to have my suspicions...", "en": "I'm beginning to have my suspicions...", "ja": "疑いが芽生えてきました……"}
+{"sec": "map:858", "key": "But before that, \\PN...", "en": "But before that, \\PN...", "ja": "だがその前に、\\PN……"}
+{"sec": "map:858", "key": "Tell me the results of your investigation.", "en": "Tell me the results of your investigation.", "ja": "あなたの捜査結果を聞かせてください。"}
+{"sec": "map:858", "key": "Presumably you spoke to each of these suspects.", "en": "Presumably you spoke to each of these suspects.", "ja": "容疑者全員と話したはずですね。"}
+{"sec": "map:858", "key": "Please now talk to the person you find most suspicious here.", "en": "Please now talk to the person you find most suspicious here.", "ja": "では、ここで最も怪しいと思う人物と話してください。"}
+{"sec": "map:858", "key": "CHIEF: Simply talk to the person that you find most suspicious, and we'll go from there.", "en": "CHIEF: Simply talk to the person that you find most suspicious, and we'll go from there.", "ja": "チーフ: 単純に、最も怪しいと思う人物と話してください。そこから進めましょう。"}
+{"sec": "map:858", "key": "Any one of them will do, no?", "en": "Any one of them will do, no?", "ja": "誰でも構いませんよね?"}
+{"sec": "map:858", "key": "CHIEF: Go on-- talk to any of the suspects.", "en": "CHIEF: Go on-- talk to any of the suspects.", "ja": "チーフ: さあ――容疑者の誰かと話してください。"}
+{"sec": "map:858", "key": "Whoever you find most suspicious.", "en": "Whoever you find most suspicious.", "ja": "最も怪しいと思う相手なら誰でも。"}
+{"sec": "map:858", "key": "CHIEF: You... keep talking to me.", "en": "CHIEF: You... keep talking to me.", "ja": "チーフ: あなた……私にばかり話しかけますね。"}
+{"sec": "map:858", "key": "Don't tell me...", "en": "Don't tell me...", "ja": "まさか……"}
+{"sec": "map:858", "key": "Could it be that you actually find me to be suspicious?", "en": "Could it be that you actually find me to be suspicious?", "ja": "もしかして、この私を怪しいと思っているのですか?"}
+{"sec": "map:858", "key": "CHIEF: Oh-ho.", "en": "CHIEF: Oh-ho.", "ja": "チーフ: おやおや。"}
+{"sec": "map:858", "key": "You are right, young Champion, to be suspicious of everyone and everything!", "en": "You are right, young Champion, to be suspicious of everyone and everything!", "ja": "その通りです、若きチャンピオン、あらゆる人とあらゆる物を疑うのは正しい姿勢です!"}
+{"sec": "map:858", "key": "Make no assumptions!", "en": "Make no assumptions!", "ja": "決めつけをしないこと!"}
+{"sec": "map:858", "key": "Take nothing for granted!", "en": "Take nothing for granted!", "ja": "当たり前だと思わないこと!"}
+{"sec": "map:858", "key": "These are the hallmarks of a truly astute detective!", "en": "These are the hallmarks of a truly astute detective!", "ja": "これこそが真に鋭い探偵の証です!"}
+{"sec": "map:858", "key": "But I'm afraid your cunning will not be rewarded this time.", "en": "But I'm afraid your cunning will not be rewarded this time.", "ja": "ですが残念ながら、今回はその機知も報われないでしょう。"}
+{"sec": "map:858", "key": "Officer!", "en": "Officer!", "ja": "警官!"}
+{"sec": "map:858", "key": "Please search the accused.", "en": "Please search the accused.", "ja": "被疑者の身体検査をお願いします。"}
+{"sec": "map:858", "key": "OFFICER: Y-you mean... you, sir?", "en": "OFFICER: Y-you mean... you, sir?", "ja": "警官: そ、それはつまり……あなたのことですか?"}
+{"sec": "map:858", "key": "CHIEF: Precisely!", "en": "CHIEF: Precisely!", "ja": "チーフ: その通り!"}
+{"sec": "map:858", "key": "The Blue Orb is still missing!", "en": "The Blue Orb is still missing!", "ja": "青の秘宝はまだ見つかっていません!"}
+{"sec": "map:858", "key": "If I am the culprit, I should have it on my person, should I not?", "en": "If I am the culprit, I should have it on my person, should I not?", "ja": "もし私が犯人なら、私自身が持っているはずでしょう?"}
+{"sec": "map:858", "key": "OFFICER: All clean, sir!", "en": "OFFICER: All clean, sir!", "ja": "警官: 何もありません、閣下!"}
+{"sec": "map:858", "key": "CHIEF: So you see, it couldn't be me!", "en": "CHIEF: So you see, it couldn't be me!", "ja": "チーフ: ほら、私であるはずがないでしょう!"}
+{"sec": "map:858", "key": "For if it were, where could I have hidden the Blue Orb?!", "en": "For if it were, where could I have hidden the Blue Orb?!", "ja": "もし私だとしたら、一体どこに青の秘宝を隠せたというのです?!"}
+{"sec": "map:858", "key": "Until you can answer that, there's simply--", "en": "Until you can answer that, there's simply--", "ja": "それに答えられるまで、単純に――"}
+{"sec": "map:858", "key": "CHIEF: ...", "en": "CHIEF: ...", "ja": "チーフ: ……"}
+{"sec": "map:858", "key": "JULIA: Um, \\PN?", "en": "JULIA: Um, \\PN?", "ja": "ジュリア: あの、\\PN?"}
+{"sec": "map:858", "key": "Why is water coming out of your bag?", "en": "Why is water coming out of your bag?", "ja": "なんであんたのバッグから水が出てるの?"}
+{"sec": "map:858", "key": "CRAUDBURRY: BAH. Youth these days don't even know how to store WATER right.", "en": "CRAUDBURRY: BAH. Youth these days don't even know how to store WATER right.", "ja": "クラウドバリー: フンッ。最近の若者は水の保存方法すら知らないのね。"}
+{"sec": "map:858", "key": "SANDY: \\PN, check your bag!", "en": "SANDY: \\PN, check your bag!", "ja": "サンディ: \\PN、バッグを確認して!"}
+{"sec": "map:858", "key": "CHIEF: Ha-ha!", "en": "CHIEF: Ha-ha!", "ja": "チーフ: ハハッ!"}
+{"sec": "map:858", "key": "Of course not!", "en": "Of course not!", "ja": "もちろん違いますよ!"}
+{"sec": "map:858", "key": "That would be ridiculous after all,", "en": "That would be ridiculous after all,", "ja": "そんなの、あまりにばかげていますからね、"}
+{"sec": "map:858", "key": "But a good joke, \\PN!", "en": "But a good joke, \\PN!", "ja": "でもいいジョークです、\\PN!"}
+{"sec": "map:858", "key": "Quality humor from a quality champion.", "en": "Quality humor from a quality champion.", "ja": "さすがチャンピオン、上質なユーモアだ。"}
+{"sec": "map:858", "key": "CHIEF: Order! Order, I say!", "en": "CHIEF: Order! Order, I say!", "ja": "チーフ: 静粛に! 静粛にと言っているんです!"}
+{"sec": "map:858", "key": "This is NOT due process!", "en": "This is NOT due process!", "ja": "これは正当な手続きではありません!"}
+{"sec": "map:858", "key": "Everyone stand down!", "en": "Everyone stand down!", "ja": "全員、動きを止めてください!"}
+{"sec": "map:858", "key": "We'll take the accused into custody, and then--", "en": "We'll take the accused into custody, and then--", "ja": "被疑者を拘束します。そして――"}
+{"sec": "map:858", "key": "CHIEF: I believe you should check your bag, young Champion.", "en": "CHIEF: I believe you should check your bag, young Champion.", "ja": "チーフ: 若きチャンピオン、あなたはバッグを確認すべきだと思いますよ。"}
+{"sec": "map:858", "key": "You may have just what we're looking for...", "en": "You may have just what we're looking for...", "ja": "探していたものが入っているかもしれません……"}
+{"sec": "map:858", "key": "CHIEF: ...Why now, of all times...", "en": "CHIEF: ...Why now, of all times...", "ja": "チーフ: ……よりによって、なぜ今……"}
+{"sec": "map:858", "key": "CHIEF: Impossible!", "en": "CHIEF: Impossible!", "ja": "チーフ: まさか!"}
+{"sec": "map:858", "key": "The Blue Orb was in your bag all along?!", "en": "The Blue Orb was in your bag all along?!", "ja": "青の秘宝はずっとあなたのバッグの中に?!"}
+{"sec": "map:858", "key": "How could this be?", "en": "How could this be?", "ja": "どうしてこんなことに?"}
+{"sec": "map:858", "key": "Quickly, give it here, and we'll have restored the set!", "en": "Quickly, give it here, and we'll have restored the set!", "ja": "さあ早く、こちらに渡してください。これでセットがそろいます!"}
+{"sec": "map:858", "key": "\\PN handed over the Blue Orb.", "en": "\\PN handed over the Blue Orb.", "ja": "\\PNは青の秘宝を差し出した。"}
+{"sec": "map:858", "key": "EUSTACE: Officer, do you mean to say that we've been accused of thievery despite the fact that the orb's caretaker had it the entire time?", "en": "EUSTACE: Officer, do you mean to say that we've been accused of thievery despite the fact that the orb's caretaker had it the entire time?", "ja": "ユースタス: 警官、秘宝の管理人がずっと持っていたのに、私たちは窃盗の容疑をかけられていたと、そう言いたいのか?"}
+{"sec": "map:858", "key": "How dare you waste all of our time and energy on this?!", "en": "How dare you waste all of our time and energy on this?!", "ja": "よくもこれだけ私たちの時間と労力を無駄にしてくれたな!?"}
+{"sec": "map:858", "key": "Some of us have places to be, you know!", "en": "Some of us have places to be, you know!", "ja": "私たちの中には行く場所がある者もいるのだぞ!"}
+{"sec": "map:858", "key": "JOHN: You had nowhere to be, child-- we are all trapped on this train.", "en": "JOHN: You had nowhere to be, child-- we are all trapped on this train.", "ja": "ジョン: お前には行く場所などなかっただろう、坊や――我々は皆この列車に閉じ込められているのだ。"}
+{"sec": "map:858", "key": "ARCHER: Pardon me, but something is amiss here.", "en": "ARCHER: Pardon me, but something is amiss here.", "ja": "アーチャー: 失礼だが、何かがおかしい。"}
+{"sec": "map:858", "key": "For what purpose, exactly, did \\PN even have it?", "en": "For what purpose, exactly, did \\PN even have it?", "ja": "そもそも\\PNは、何の目的でそれを持っていたんだ?"}
+{"sec": "map:858", "key": "What was the endgame here?", "en": "What was the endgame here?", "ja": "この一件の最終目的は何だったんだ?"}
+{"sec": "map:858", "key": "MAXWELL: Wait, why did \\PN even have the orb?", "en": "MAXWELL: Wait, why did \\PN even have the orb?", "ja": "マクスウェル: 待てよ、なんで\\PNが秘宝を持ってたんだ?"}
+{"sec": "map:858", "key": "What was the point of any of this?", "en": "What was the point of any of this?", "ja": "これ全部、一体何のためだったんだ?"}
+{"sec": "map:858", "key": "CHIEF: As it were, I do have my own theories about that...", "en": "CHIEF: As it were, I do have my own theories about that...", "ja": "チーフ: それについては、私なりの推理がありますよ……"}
+{"sec": "map:858", "key": "Let us consider, \\PN was trusted and assigned to guard the orbs, but was not given proper custody of them.", "en": "Let us consider, \\PN was trusted and assigned to guard the orbs, but was not given proper custody of them.", "ja": "考えてみましょう、\\PNは信頼されて秘宝の護衛を任されましたが、正式な管理権は与えられていませんでした。"}
+{"sec": "map:858", "key": "After the lights went out, \\PN came forward to the engine to report that they had been stolen.", "en": "After the lights went out, \\PN came forward to the engine to report that they had been stolen.", "ja": "明かりが消えた後、\\PNは秘宝が盗まれたと報告しに機関部までやってきました。"}
+{"sec": "map:858", "key": "I left to investigate... and the Red Orb would later be found in the engine room!", "en": "I left to investigate... and the Red Orb would later be found in the engine room!", "ja": "私は調査のために離れました……そして後に赤の秘宝が機関室で見つかったのです!"}
+{"sec": "map:858", "key": "Conductor!", "en": "Conductor!", "ja": "コンダクター!"}
+{"sec": "map:858", "key": "Was there any point after I left the room during which \\PN could have stowed the Red Orb safely away in the debris?", "en": "Was there any point after I left the room during which \\PN could have stowed the Red Orb safely away in the debris?", "ja": "私が部屋を離れた後、\\PNが赤の秘宝をがれきの中に安全にしまい込む機会はありましたか?"}
+{"sec": "map:858", "key": "Perhaps if you looked away for just the wrong moment...", "en": "Perhaps if you looked away for just the wrong moment...", "ja": "もしかすると、ほんの一瞬、目を離した瞬間があったのでは……"}
+{"sec": "map:858", "key": "CONDUCTOR: Uh, well... I don't know.", "en": "CONDUCTOR: Uh, well... I don't know.", "ja": "コンダクター: えっと、その……わかりません。"}
+{"sec": "map:858", "key": "I don't think so?", "en": "I don't think so?", "ja": "ないと思いますが?"}
+{"sec": "map:858", "key": "The compartment that it was found in was blocked from the front, so it would've been difficult.", "en": "The compartment that it was found in was blocked from the front, so it would've been difficult.", "ja": "見つかった区画は前方から塞がれていたので、それは難しかったと思います。"}
+{"sec": "map:858", "key": "CHIEF: But can you say, with 100% certainty that \\PN couldn't have hidden it there?", "en": "CHIEF: But can you say, with 100% certainty that \\PN couldn't have hidden it there?", "ja": "チーフ: しかし、\\PNがそこに隠せなかったと100パーセント断言できますか?"}
+{"sec": "map:858", "key": "One hundred percent, Conductor! Not one less!", "en": "One hundred percent, Conductor! Not one less!", "ja": "100パーセントですよ、コンダクター! 1パーセントも欠けることなく!"}
+{"sec": "map:858", "key": "CONDUCTOR: I... guess I can't be that certain?", "en": "CONDUCTOR: I... guess I can't be that certain?", "ja": "コンダクター: そこまでは……断言できないかもしれません?"}
+{"sec": "map:858", "key": "CHIEF: There you have it!", "en": "CHIEF: There you have it!", "ja": "チーフ: そら、ご覧なさい!"}
+{"sec": "map:858", "key": "\\PN must have been plotting to steal the orbs all along!", "en": "\\PN must have been plotting to steal the orbs all along! ", "ja": "\\PNは最初から秘宝を盗む計画を立てていたに違いありません!"}
+{"sec": "map:858", "key": "Frame an innocent, and come back to collect them later...", "en": "Frame an innocent, and come back to collect them later...", "ja": "無実の者に罪をなすりつけて、後で回収しに戻る……"}
+{"sec": "map:858", "key": "It's just a stroke of luck that there wasn't a chance to hide the Blue Orb!", "en": "It's just a stroke of luck that there wasn't a chance to hide the Blue Orb!", "ja": "青の秘宝を隠す機会がなかったのは、単なる運の良さです!"}
+{"sec": "map:858", "key": "Perhaps this could have been expected...", "en": "Perhaps this could have been expected...", "ja": "もしかすると、これは予想できたことかもしれません……"}
+{"sec": "map:858", "key": "For the Champion, who is used to always winning--", "en": "For the Champion, who is used to always winning--", "ja": "いつも勝つことに慣れているチャンピオンには――"}
+{"sec": "map:858", "key": "Used to always getting everything there is to get, simply because it exists...", "en": "Used to always getting everything there is to get, simply because it exists...", "ja": "存在するものすべてを、ただそこにあるという理由だけで手に入れることに慣れている者には……"}
+{"sec": "map:858", "key": "It is only understandable, though tragic, that such a person should fall victim to entitlement...", "en": "It is only understandable, though tragic, that such a person should fall victim to entitlement...", "ja": "そのような人物が特権意識の犠牲になるのは、悲劇ではあっても理解できることです……"}
+{"sec": "map:858", "key": "JULIA: Hold on, your story doesn't make sense!", "en": "JULIA: Hold on, your story doesn't make sense!", "ja": "ジュリア: ちょっと待って、あんたの話、筋が通ってないよ!"}
+{"sec": "map:858", "key": "You said \\PN stole the orbs when the lights went out, but how did they even make the lights go out when they were all the way at the other end of the train?!", "en": "You said \\PN stole the orbs when the lights went out, but how did they even make the lights go out when they were all the way at the other end of the train?!", "ja": "明かりが消えたときに\\PNが秘宝を盗んだって言うけど、列車の反対側の端にいたのに、どうやって明かりを消せたっていうの?!"}
+{"sec": "map:858", "key": "ARCHER: ...I have one idea.", "en": "ARCHER: ...I have one idea.", "ja": "アーチャー: ……ひとつ考えがある。"}
+{"sec": "map:858", "key": "It's as you yourself said in our hypothetical discussion-- one person could flip the lights, while another steals the orbs.", "en": "It's as you yourself said in our hypothetical discussion-- one person could flip the lights, while another steals the orbs.", "ja": "お前自身が我々の仮定の会話の中で言っていた通りだ――一人が明かりを消し、もう一人が秘宝を盗む。"}
+{"sec": "map:858", "key": "Simple, really.", "en": "Simple, really.", "ja": "実に単純だな。"}
+{"sec": "map:858", "key": "MAXWELL: ...Well, I hate to do this...", "en": "MAXWELL: ...Well, I hate to do this...", "ja": "マクスウェル: ……こんなことしたくねえんだが……"}
+{"sec": "map:858", "key": "But weren't you the one who said that you could distract the Conductor long enough to flip the lights and give someone else cover to steal them?", "en": "But weren't you the one who said that you could distract the Conductor long enough to flip the lights and give someone else cover to steal them?", "ja": "お前、コンダクターの気をそらして明かりを消す時間を稼ぎ、他の誰かに盗む機会をカバーできるって言ってなかったか?"}
+{"sec": "map:858", "key": "JULIA: You!", "en": "JULIA: You!", "ja": "ジュリア: あんた!"}
+{"sec": "map:858", "key": "How could you!?", "en": "How could you!?", "ja": "よくもそんな!"}
+{"sec": "map:858", "key": "I was going to KISS you!", "en": "I was going to KISS you!", "ja": "あんたにキスしてあげようとしてたのに!"}
+{"sec": "map:858", "key": "That was a private, and strictly theoretical discussion!!!", "en": "That was a private, and strictly theoretical discussion!!!", "ja": "あれは二人だけの、あくまで仮定の話だったのに!!!"}
+{"sec": "map:858", "key": "ARCHER: Please calm down.", "en": "ARCHER: Please calm down.", "ja": "アーチャー: 落ち着いてくれ。"}
+{"sec": "map:858", "key": "I am not accusing you.", "en": "I am not accusing you.", "ja": "お前を責めているわけではない。"}
+{"sec": "map:858", "key": "I am just saying that it's possible \\PN has an accomplice.", "en": "I am just saying that it's possible \\PN has an accomplice.", "ja": "ただ、\\PNに共犯者がいる可能性があると言っているだけだ。"}
+{"sec": "map:858", "key": "MAXWELL: Listen, I'm not saying you did it.", "en": "MAXWELL: Listen, I'm not saying you did it.", "ja": "マクスウェル: なあ、お前がやったって言ってるわけじゃねえよ。"}
+{"sec": "map:858", "key": "I'm just saying, it's possible \\PN has an accomplice.", "en": "I'm just saying, it's possible \\PN has an accomplice.", "ja": "ただ、\\PNに共犯者がいる可能性があるって言ってるだけだ。"}
+{"sec": "map:858", "key": "CHIEF: A fair point, which raises the question: Just how did the lights go out?", "en": "CHIEF: A fair point, which raises the question: Just how did the lights go out?", "ja": "チーフ: もっともな指摘ですね。それが疑問を生みます。一体どうやって明かりが消えたのでしょう?"}
+{"sec": "map:858", "key": "Were they turned off manually? Or forcibly cut?", "en": "Were they turned off manually? Or forcibly cut?", "ja": "手動で切られたのか? それとも強制的に切断されたのか?"}
+{"sec": "map:858", "key": "Conductor?", "en": "Conductor?", "ja": "コンダクター?"}
+{"sec": "map:858", "key": "CONDUCTOR: I don't think they were flipped--", "en": "CONDUCTOR: I don't think they were flipped--", "ja": "コンダクター: スイッチが切られたとは思えません――"}
+{"sec": "map:858", "key": "There was no one else there at the time, at least as far as I knew.", "en": "There was no one else there at the time, at least as far as I knew.", "ja": "少なくとも私の知る限り、その時あの場所には他に誰もいませんでした。"}
+{"sec": "map:858", "key": "CHIEF: I would like to check for myself to be certain.", "en": "CHIEF: I would like to check for myself to be certain.", "ja": "チーフ: 念のため、私自身の目で確かめたいと思います。"}
+{"sec": "map:858", "key": "EUSTACE: Did a Pyukumuku throw up on all of your brains or are you each just naturally this stupid?", "en": "EUSTACE: Did a Pyukumuku throw up on all of your brains or are you each just naturally this stupid?", "ja": "ユースタス: お前たち全員、脳みそにナマコブシに吐きかけられでもしたのか、それとも生まれつきそこまで愚かなのか?"}
+{"sec": "map:858", "key": "\\PN wouldn't have needed an accomplice to steal what they were already tasked to guard.", "en": "\\PN wouldn't have needed an accomplice to steal what they were already tasked to guard.", "ja": "\\PNは、もともと護衛を任されていたものを盗むのに、共犯者など必要としないだろう。"}
+{"sec": "map:858", "key": "In fact, the lights would never have needed to go out at all.", "en": "In fact, the lights would never have needed to go out at all.", "ja": "実際、明かりを消す必要すら、そもそもなかったはずだ。"}
+{"sec": "map:858", "key": "It raises too much attention.", "en": "It raises too much attention.", "ja": "それはむしろ余計な注目を集めるだけだ。"}
+{"sec": "map:858", "key": "JOHN: It's about plausible deniability.", "en": "JOHN: It's about plausible deniability.", "ja": "ジョン: それは「もっともらしい否認」というものだ。"}
+{"sec": "map:858", "key": "CRAUDBURRY: Don't talk to ME about plausible deniability!", "en": "CRAUDBURRY: Don't talk to ME about plausible deniability!", "ja": "クラウドバリー: この私に「もっともらしい否認」なんて語らないでちょうだい!"}
+{"sec": "map:858", "key": "Plausible deniability is all that my GODFORSAKEN employers ever care about!", "en": "Plausible deniability is all that my GODFORSAKEN employers ever care about!", "ja": "もっともらしい否認とやらこそ、私のあの呪われた雇い主どもが気にかけていることのすべてなのよ!"}
+{"sec": "map:858", "key": "\"How much plastic byproduct can we dump without violating the law,\" this, \"offshore tax account that\"--", "en": "\"How much plastic byproduct can we dump without violating the law,\" this, \"offshore tax account that\"--", "ja": "「法を犯さずにどれだけプラスチック廃棄物を捨てられるか」だの、「あのオフショア税務口座」だの――"}
+{"sec": "map:858", "key": "Just \"CHANGE THE POLICY\" they say, as if anyone in this WRETCHED CITY listens to the wisdom of an old woman?!", "en": "Just \"CHANGE THE POLICY\" they say, as if anyone in this WRETCHED CITY listens to the wisdom of an old woman?!", "ja": "「方針を変えろ」とただ言うだけ、この惨めな街の誰かが老いた女の知恵に耳を傾けるとでも思ってるみたいに!?"}
+{"sec": "map:858", "key": "SANDY: What wisdom!?", "en": "SANDY: What wisdom!?", "ja": "サンディ: 何が知恵よ!?"}
+{"sec": "map:858", "key": "You want to make it easier to damage the environment so your employer can make more money?!", "en": "You want to make it easier to damage the environment so your employer can make more money?!", "ja": "雇い主がもっとお金を稼げるように、環境を壊しやすくしたいってだけでしょ!?"}
+{"sec": "map:858", "key": "What do you even gain from that?!", "en": "What do you even gain from that?!", "ja": "それであんた自身は何を得るっていうの!?"}
+{"sec": "map:858", "key": "CRAUDBURRY: Don't you DARE talk to me like that you SNIVELLING RODENT!", "en": "CRAUDBURRY: Don't you DARE talk to me like that you SNIVELLING RODENT!", "ja": "クラウドバリー: よくもそんな口の利き方を、この泣き虫のネズミが!"}
+{"sec": "map:858", "key": "I know your type.", "en": "I know your type.", "ja": "あんたみたいなのはよく知ってるわ。"}
+{"sec": "map:858", "key": "If I so much as take a second to BREATHE, you'll shove so many GODDAMN MORALS down my THROAT that it'll activate my GAG REFLEX.", "en": "If I so much as take a second to BREATHE, you'll shove so many GODDAMN MORALS down my THROAT that it'll activate my GAG REFLEX.", "ja": "一瞬でも息をつこうものなら、あんたはあの忌々しい道徳とやらを、私の吐き気反射が起きるまで喉に押し込んでくるんでしょう。"}
+{"sec": "map:858", "key": "ARCHER: Please stop talking.", "en": "ARCHER: Please stop talking.", "ja": "アーチャー: 頼むから、その話はやめてくれ。"}
+{"sec": "map:858", "key": "MAXWELL: Lady, you're the last person I wanna hear talk about gag reflexes.", "en": "MAXWELL: Lady, you're the last person I wanna hear talk about gag reflexes.", "ja": "マクスウェル: あんた、吐き気反射なんて言葉を一番聞きたくない相手なんだけどな。"}
+{"sec": "map:858", "key": "CRAUDBURRY: And what's THAT supposed to mean?", "en": "CRAUDBURRY: And what's THAT supposed to mean?", "ja": "クラウドバリー: それ、どういう意味かしら?"}
+{"sec": "map:858", "key": "EUSTACE: Minimizing costs is just smart business sense.", "en": "EUSTACE: Minimizing costs is just smart business sense.", "ja": "ユースタス: コストを最小化するのは単なる健全なビジネス感覚だ。"}
+{"sec": "map:858", "key": "Leave it to the others to clean up the subsequent issues.", "en": "Leave it to the others to clean up the subsequent issues.", "ja": "後始末は他の連中に任せればいい。"}
+{"sec": "map:858", "key": "JULIA: Guys?", "en": "JULIA: Guys?", "ja": "ジュリア: ねえ、みんな?"}
+{"sec": "map:858", "key": "SANDY: That carelessness is going to translate into irreversible harm within just a few decades!", "en": "SANDY: That carelessness is going to translate into irreversible harm within just a few decades!", "ja": "サンディ: その無頓着さが、たった数十年で取り返しのつかない被害になるんだよ!"}
+{"sec": "map:858", "key": "EUSTACE: Someone will fix it.", "en": "EUSTACE: Someone will fix it.", "ja": "ユースタス: 誰かが直すだろう。"}
+{"sec": "map:858", "key": "CRAUDBURRY: I'll have you KNOW, young man, that back in MY day I was the most COVETED flower in the garden!", "en": "CRAUDBURRY: I'll have you KNOW, young man, that back in MY day I was the most COVETED flower in the garden!", "ja": "クラウドバリー: 言っておくけど、若いの、私の若い頃は庭で一番求められる花だったのよ!"}
+{"sec": "map:858", "key": "EUSTACE: Those content to be mere peons will always take care of the real problems, while those who have the intellect to rise above will profit.", "en": "EUSTACE: Those content to be mere peons will always take care of the real problems, while those who have the intellect to rise above will profit.", "ja": "ユースタス: 単なる下働きで満足する者たちが、いつも本当の問題を片付けてくれる。その間に、それを超える知性を持つ者たちが利益を得るのだ。"}
+{"sec": "map:858", "key": "SANDY: That's not acceptable!", "en": "SANDY: That's not acceptable!", "ja": "サンディ: そんなの許されない!"}
+{"sec": "map:858", "key": "JOHN: Wanton destruction will always have its consequences.", "en": "JOHN: Wanton destruction will always have its consequences.", "ja": "ジョン: 野放図な破壊には、必ず代償が伴う。"}
+{"sec": "map:858", "key": "JULIA: Guys!", "en": "JULIA: Guys!", "ja": "ジュリア: みんな!"}
+{"sec": "map:858", "key": "CRAUDBURRY: Every stud from here to JOHTO was lining up to get a piece of lil' CRAUDBURRY!", "en": "CRAUDBURRY: Every stud from here to JOHTO was lining up to get a piece of lil' CRAUDBURRY!", "ja": "クラウドバリー: ここからジョウトまで、あらゆる男が小さなクラウドバリーの一部を求めて列をなしてたのよ!"}
+{"sec": "map:858", "key": "ARCHER: I'm literally begging you to stop.", "en": "ARCHER: I'm literally begging you to stop.", "ja": "アーチャー: 頼むから本当にやめてくれ。"}
+{"sec": "map:858", "key": "MAXWELL: You really need to stop.", "en": "MAXWELL: You really need to stop.", "ja": "マクスウェル: マジでもうやめたほうがいいぞ。"}
+{"sec": "map:858", "key": "EUSTACE: When I've ascended to the top of the corporate ladder, you'll see!", "en": "EUSTACE: When I've ascended to the top of the corporate ladder, you'll see!", "ja": "ユースタス: 私が企業の頂点に上り詰めたとき、見ているがいい!"}
+{"sec": "map:858", "key": "SANDY: Even if a moral obligation means nothing to you, it's critical to look out for the environment on which we ourselves depend for livelihood!", "en": "SANDY: Even if a moral obligation means nothing to you, it's critical to look out for the environment on which we ourselves depend for livelihood!", "ja": "サンディ: たとえ道徳的義務があんたにとって何の意味もなくても、私たち自身の生活が依存している環境を守ることは絶対に大事なの!"}
+{"sec": "map:858", "key": "CRAUDBURRY: And you better BELIEVE I was worth every holler!", "en": "CRAUDBURRY: And you better BELIEVE I was worth every holler!", "ja": "クラウドバリー: そして、私がどんな騒ぎにも見合う価値があったって、しっかり信じてもらわないと!"}
+{"sec": "map:858", "key": "I've got a technique whelps like you aren't anywhere NEAR ready for--", "en": "I've got a technique whelps like you aren't anywhere NEAR ready for--", "ja": "あんたたちひよっこには、まだまだ手の届かないテクニックがあるんだから――"}
+{"sec": "map:858", "key": "JULIA: GUYS!!!!", "en": "JULIA: GUYS!!!!", "ja": "ジュリア: みんな!!!!"}
+{"sec": "map:858", "key": "JULIA: ...Geez, if I'd known it was going to work that well, I would've turned on the caps lock sooner and saved us all the trauma.", "en": "JULIA: ...Geez, if I'd known it was going to work that well, I would've turned on the caps lock sooner and saved us all the trauma.", "ja": "ジュリア: ……はあ、こんなに効くってわかってたら、もっと早くカプスロックオンにして、みんなのトラウマを防いであげたのに。"}
+{"sec": "map:858", "key": "CRAUDBURRY: It's the best way to get attention and keep it, sweetheart-- take it from me.", "en": "CRAUDBURRY: It's the best way to get attention and keep it, sweetheart-- take it from me.", "ja": "クラウドバリー: 注目を集めて維持するにはこれが一番なのよ、あなた――私が保証するわ。"}
+{"sec": "map:858", "key": "JULIA: Nevermind!", "en": "JULIA: Nevermind!", "ja": "ジュリア: もういいや!"}
+{"sec": "map:858", "key": "Anyway-- guys!!!", "en": "Anyway-- guys!!!", "ja": "それより――みんな!!!"}
+{"sec": "map:858", "key": "Where did the chief go?!", "en": "Where did the chief go?!", "ja": "チーフはどこに行ったの?!"}
+{"sec": "map:858", "key": "OFFICER: The recovery train has arrived!", "en": "OFFICER: The recovery train has arrived!", "ja": "警官: 救援列車が到着しました!"}
+{"sec": "map:858", "key": "We can begin evacuating passengers back to Reborn City!", "en": "We can begin evacuating passengers back to Reborn City!", "ja": "乗客をリボーンシティへ避難させることができます!"}
+{"sec": "map:858", "key": "OFFICER: The chief has disappeared!", "en": "OFFICER: The chief has disappeared!", "ja": "警官: チーフが消えました!"}
+{"sec": "map:858", "key": "There's a huge portal in the engine car instead!", "en": "There's a huge portal in the engine car instead!", "ja": "代わりに機関車の車両に巨大なポータルがあります!"}
+{"sec": "map:858", "key": "OFFICER: Urgent message from Reborn City!", "en": "OFFICER: Urgent message from Reborn City!", "ja": "警官: リボーンシティから緊急連絡です!"}
+{"sec": "map:858", "key": "The police chief was discovered tied up and disrobed in his bathroom!", "en": "The police chief was discovered tied up and disrobed in his bathroom!", "ja": "警察のチーフは、自宅のバスルームで縛られ、服を脱がされた状態で発見されました!"}
+{"sec": "map:858", "key": "SANDY: What?!", "en": "SANDY: What?!", "ja": "サンディ: え?!"}
+{"sec": "map:858", "key": "The police chief took a portal to Reborn City just to get naked and practice shibari in his bathroom?!?!", "en": "The police chief took a portal to Reborn City just to get naked and practice shibari in his bathroom?!?!", "ja": "警察のチーフは、わざわざポータルを使ってリボーンシティに戻って、自分のバスルームで裸になって緊縛の練習をしてたってこと?!?!"}
+{"sec": "map:858", "key": "OFFICER: No ma'am! The Chief that boarded this train was an imposter!", "en": "OFFICER: No ma'am! The Chief that boarded this train was an imposter!", "ja": "警官: 違います、お嬢様! この列車に乗っていたチーフは偽者だったんです!"}
+{"sec": "map:858", "key": "JULIA: Who cut the lights now?!", "en": "JULIA: Who cut the lights now?!", "ja": "ジュリア: 今度は誰が電気を消したの!?"}
+{"sec": "map:858", "key": "CONDUCTOR: The back-up power supply probably ran dry... One second please...", "en": "CONDUCTOR: The back-up power supply probably ran dry... One second please...", "ja": "コンダクター: 予備電源が切れかけているのかもしれません……少々お待ちを……"}
+{"sec": "map:858", "key": "SANDY: The Blue Orb was in \\PN's backpack all along!?", "en": "SANDY: The Blue Orb was in \\PN's backpack all along!?", "ja": "サンディ: 青の秘宝、ずっと\\PNのリュックの中にあったの!?"}
+{"sec": "map:858", "key": "CRAUDBURRY: BAAAAAH. Shoulda known FILTH like that would be the GOOD FOR NOTHING thief!", "en": "CRAUDBURRY: BAAAAAH. Shoulda known FILTH like that would be the GOOD FOR NOTHING thief!", "ja": "クラウドバリー: フンーーーッ。あんな汚らしいのが、あのろくでなしの泥棒だってのは見抜いておくべきだったわね!"}
+{"sec": "map:858", "key": "EUSTACE: You really couldn't think of anywhere better to hide it?", "en": "EUSTACE: You really couldn't think of anywhere better to hide it?", "ja": "ユースタス: 本当に、もっとましな隠し場所は思いつかなかったのか?"}
+{"sec": "map:858", "key": "CHIEF: Hold on, that orb may not be the genuine article.", "en": "CHIEF: Hold on, that orb may not be the genuine article.", "ja": "チーフ: 待ってください、その秘宝は本物ではないかもしれません。"}
+{"sec": "map:858", "key": "Allow me to confirm...", "en": "Allow me to confirm...", "ja": "確認させてください……"}
+{"sec": "map:858", "key": "The Chief took the Blue Orb!", "en": "The Chief took the Blue Orb!", "ja": "チーフは青の秘宝を奪い取った!"}
+{"sec": "map:858", "key": "CHIEF: And-- good bye.", "en": "CHIEF: And-- good bye.", "ja": "チーフ: では――さようなら。"}
+{"sec": "map:858", "key": "SANDY: What-- he just took it out of your hands and left?!", "en": "SANDY: What-- he just took it out of your hands and left?!", "ja": "サンディ: え――今、あんたの手からひったくって、そのまま行っちゃったの?!"}
+{"sec": "map:858", "key": "That's so cheap! How could this happen!?", "en": "That's so cheap! How could this happen!?", "ja": "そんなの安っぽすぎ! どうしてこんなことになるの!?"}
+{"sec": "map:858", "key": "What lazy writing!", "en": "What lazy writing!", "ja": "なんて手抜きな展開なの!"}
+{"sec": "map:858", "key": "JULIA: Quick, after him!", "en": "JULIA: Quick, after him!", "ja": "ジュリア: 早く、追いかけて!"}
+{"sec": "map:858", "key": "CHIEF: What's going on here?!", "en": "CHIEF: What's going on here?!", "ja": "チーフ: ここで何が起きているんです?!"}
+{"sec": "map:858", "key": "CRAUDBURRY: \\PN has EXPOSED themselves as the LYING, FILTHY CHEAT they are!", "en": "CRAUDBURRY: \\PN has EXPOSED themselves as the LYING, FILTHY CHEAT they are!", "ja": "クラウドバリー: \\PNが、自分こそがうそつきで汚らわしい詐欺師だってことを、自ら暴露したのよ!"}
+{"sec": "map:858", "key": "JOHN: The Blue Orb was in their bag all along...", "en": "JOHN: The Blue Orb was in their bag all along...", "ja": "ジョン: 青の秘宝は、ずっと奴のバッグの中にあった……"}
+{"sec": "map:858", "key": "EUSTACE: A predictable and utterly blase move.", "en": "EUSTACE: A predictable and utterly blase move.", "ja": "ユースタス: 予想通りの、実にありきたりな手だな。"}
+{"sec": "map:858", "key": "Come! Let us put a stop to this devilry by force!", "en": "Come! Let us put a stop to this devilry by force!", "ja": "さあ! この悪行を、力ずくで止めてやろう!"}
+{"sec": "map:858", "key": "The respectable citizens we are, we shall upend the Blue Orb from your sullied hands for everyone's sake!", "en": "The respectable citizens we are, we shall upend the Blue Orb from your sullied hands for everyone's sake!", "ja": "立派な市民たる我々が、皆のために、お前の汚れた手から青の秘宝を取り戻すのだ!"}
+{"sec": "map:858", "key": "HOOPA: Haaa!!!", "en": "HOOPA: Haaa!!!", "ja": "フーパ: ハァァ!!!"}
+{"sec": "map:858", "key": "CHIEF: What's this? Why--", "en": "CHIEF: What's this? Why--", "ja": "チーフ: これは何だ? なぜ――"}
+{"sec": "map:858", "key": "CRAUDBURRY: The RAT is showing their TRUE colors, a COMRADE in the CRIME!!", "en": "CRAUDBURRY: The RAT is showing their TRUE colors, a COMRADE in the CRIME!!", "ja": "クラウドバリー: このネズミが本性を現したわ、犯罪の仲間だったのね!!"}
+{"sec": "map:858", "key": "EUSTACE: So you've summoned reinforcements then.", "en": "EUSTACE: So you've summoned reinforcements then.", "ja": "ユースタス: では援軍を呼んだというわけか。"}
+{"sec": "map:858", "key": "So be it! We will fight you together so that you may not make a mockery of all that is right and just.", "en": "So be it! We will fight you together so that you may not make a mockery of all that is right and just.", "ja": "それならそれで構わない! お前が正義と道理をあざけ笑わせないよう、我々が力を合わせて戦おう。"}
+{"sec": "map:858", "key": "Must you get in the way, child?", "en": "Must you get in the way, child?", "ja": "ジョン: 邪魔をするつもりか、坊主。"}
+{"sec": "map:858", "key": "Be mindful of your tone when speaking to your superiors, peon.", "en": "Be mindful of your tone when speaking to your superiors, peon.", "ja": "ユースタス: 目上の者に話す口調には気をつけろよ、下働き。"}
+{"sec": "map:858", "key": "EUSTACE: Curse you, dark robe.", "en": "EUSTACE: Curse you, dark robe.", "ja": "ユースタス: 呪われてしまえ、黒ローブ。"}
+{"sec": "map:858", "key": "Your incompetence is a blight upon all that you fight along.", "en": "Your incompetence is a blight upon all that you fight along.", "ja": "貴様の無能さは、共に戦う者すべてにとっての疫病神だ。"}
+{"sec": "map:858", "key": "JOHN: A whelp has no place to say such things.", "en": "JOHN: A whelp has no place to say such things.", "ja": "ジョン: 小僧にそんなことを言う資格はない。"}
+{"sec": "map:858", "key": "CHIEF: Stop this all at once!", "en": "CHIEF: Stop this all at once!", "ja": "チーフ: 今すぐ全部やめなさい!"}
+{"sec": "map:858", "key": "JULIA: We're all fighting now, right?!", "en": "JULIA: We're all fighting now, right?!", "ja": "ジュリア: みんな今戦ってるんだよね?!"}
+{"sec": "map:858", "key": "I wanna join in too!", "en": "I wanna join in too!", "ja": "あたしも参加したい!"}
+{"sec": "map:858", "key": "JULIA: Arch, you help too!", "en": "JULIA: Arch, you help too!", "ja": "ジュリア: アーチ、あなたも手伝って!"}
+{"sec": "map:858", "key": "ARCHER: If this is what we're doing...", "en": "ARCHER: If this is what we're doing...", "ja": "アーチャー: これをやるというなら……"}
+{"sec": "map:858", "key": "I believe we should be hearing what the accused has to say for themselves before we--", "en": "I believe we should be hearing what the accused has to say for themselves before we--", "ja": "その前に被疑者本人の言い分を聞くべきだと――"}
+{"sec": "map:858", "key": "JULIA: Dogpile!!!!!!!", "en": "JULIA: Dogpile!!!!!!!", "ja": "ジュリア: 総攻撃!!!!!!"}
+{"sec": "map:858", "key": "And now for the explosive finale!", "en": "And now for the explosive finale!", "ja": "さあ　ここからが　爆発のフィナーレだよっ!"}
+{"sec": "map:858", "key": "I believe we agreed to explicitly not do that?", "en": "I believe we agreed to explicitly not do that?", "ja": "アーチャー: それは絶対にしないと約束したはずでは?"}
+{"sec": "map:858", "key": "JULIA: Max, you help too!", "en": "JULIA: Max, you help too!", "ja": "ジュリア: マックス、あなたも手伝って!"}
+{"sec": "map:858", "key": "MAXWELL: It's been a while since I was called that.", "en": "MAXWELL: It's been a while since I was called that.", "ja": "マクスウェル: その呼び方、久しぶりに聞いたな。"}
+{"sec": "map:858", "key": "Just as well.", "en": "Just as well.", "ja": "まあいいさ。"}
+{"sec": "map:858", "key": "\\PN, this one's for glory!", "en": "\\PN, this one's for glory!", "ja": "\\PN、これは栄光をかけた戦いだ!"}
+{"sec": "map:858", "key": "Babe, no.", "en": "Babe, no.", "ja": "マクスウェル: ベイビー、勘弁してくれ。"}
+{"sec": "map:858", "key": "CRAUDBURRY: WEAKLINGS.", "en": "CRAUDBURRY: WEAKLINGS.", "ja": "クラウドバリー: 弱虫どもが。"}
+{"sec": "map:858", "key": "JULIA: Nooooooooooooooooo...", "en": "JULIA: Nooooooooooooooooo...", "ja": "ジュリア: いやーーーーーーーーーーー……"}
+{"sec": "map:858", "key": "CHIEF: Stand down!", "en": "CHIEF: Stand down!", "ja": "チーフ: 動きを止めろ!"}
+{"sec": "map:858", "key": "CRAUDBURRY: Let old Craudburry show you SNIVELLING WUSSLINGS how it's DONE.", "en": "CRAUDBURRY: Let old Craudburry show you SNIVELLING WUSSLINGS how it's DONE.", "ja": "クラウドバリー: このクラウドバリー様が、泣き虫のひよっこどもにやり方を見せてやるわ。"}
+{"sec": "map:858", "key": "YOU!!!", "en": "YOU!!!", "ja": "あんた!!!"}
+{"sec": "map:858", "key": "SANDY: N-not me...?", "en": "SANDY: N-not me...?", "ja": "サンディ: え、あたし……?"}
+{"sec": "map:858", "key": "CRAUDBURRY: YES, YOU.", "en": "CRAUDBURRY: YES, YOU.", "ja": "クラウドバリー: そう、あんたよ。"}
+{"sec": "map:858", "key": "With the OBNOXIOUS voice and DISORGANIZED HAIR.", "en": "With the OBNOXIOUS voice and DISORGANIZED HAIR.", "ja": "その耳障りな声と、ボサボサの髪の。"}
+{"sec": "map:858", "key": "SANDY: You're bringing my hair into this?!", "en": "SANDY: You're bringing my hair into this?!", "ja": "サンディ: 髪のことまで持ち出す!?"}
+{"sec": "map:858", "key": "CHIEF: I said, \"Stand down!\"", "en": "CHIEF: I said, \"Stand down!\"", "ja": "チーフ: 「動きを止めろ」と言ったんです!"}
+{"sec": "map:858", "key": "CRAUDBURRY: FRONT AND CENTER or I'll BRAND you like a FARM ANIMAL.", "en": "CRAUDBURRY: FRONT AND CENTER or I'll BRAND you like a FARM ANIMAL.", "ja": "クラウドバリー: 前に出てきなさい、さもないと家畜みたいに焼き印を押すわよ。"}
+{"sec": "map:858", "key": "SANDY: WaitnoIdon'tactuallywantto--", "en": "SANDY: WaitnoIdon'tactuallywantto--", "ja": "サンディ: ちょっとまってあたし別にそんなつもりじゃ――"}
+{"sec": "map:858", "key": "YRRGBRRLRLARGH!!!", "en": "YRRGBRRLRLARGH!!!", "ja": "クラウドバリー: ヤァグブラールラルガー!!!"}
+{"sec": "map:858", "key": "Please help me, I never wanted to be on her side, whatever I did wrong to deserve this I'm so sorry and I'll do anything I can to make it up just get me away from her quickly-- I think she's frothing on me!!!", "en": "Please help me, I never wanted to be on her side, whatever I did wrong to deserve this I'm so sorry and I'll do anything I can to make it up just get me away from her quickly-- I think she's frothing on me!!!", "ja": "サンディ: 助けて、あたし全然この人の味方になりたかったわけじゃないの。何をやらかしてこんな目に遭ってるのかわからないけどごめんなさい、償えることは何でもするから早くこの人から離して――泡吹いてる気がする!!!"}
+{"sec": "map:858", "key": "CRAUDBURRY: RARRNGJORGRGNR", "en": "CRAUDBURRY: RARRNGJORGRGNR", "ja": "クラウドバリー: ラアァングジョルグルグナル"}
+{"sec": "map:858", "key": "SANDY: Please help, she's bubbling over like a fourth grade volcano experiment-- I think I'm going to contract rabies from her and die!?!?!", "en": "SANDY: Please help, she's bubbling over like a fourth grade volcano experiment-- I think I'm going to contract rabies from her and die!?!?! ", "ja": "サンディ: 助けて、小学生の火山実験みたいに泡だらけになってる――このままだと狂犬病がうつって死んじゃう!?!?!"}
+{"sec": "map:858", "key": "CHIEF: ORDER!", "en": "CHIEF: ORDER!", "ja": "チーフ: 静粛に!"}
+{"sec": "map:858", "key": "You cannot all jump at each and every gun just because the missing item has shown itself!", "en": "You cannot all jump at each and every gun just because the missing item has shown itself!", "ja": "なくなっていたはずの品が現れたからといって、みんなでいちいち飛びついてはいけません!"}
+{"sec": "map:858", "key": "CHIEF: \\PN, please give me the Blue Orb.", "en": "CHIEF: \\PN, please give me the Blue Orb.", "ja": "チーフ: \\PN、青の秘宝を渡してください。"}
+{"sec": "map:858", "key": "I will take the matter from here and settle it!", "en": "I will take the matter from here and settle it!", "ja": "ここから先は私が引き取って解決します!"}
+{"sec": "map:858", "key": "CHIEF: Thank you,", "en": "CHIEF: Thank you,", "ja": "チーフ: ありがとうございます、"}
+{"sec": "map:858", "key": "And now I will be going.", "en": "And now I will be going.", "ja": "では、私はこれで失礼します。"}
+{"sec": "map:858", "key": "SANDY: Wait, wait, what?!", "en": "SANDY: Wait, wait, what?!", "ja": "サンディ: 待って待って、え?!"}
+{"sec": "map:858", "key": "JOHN: Just where did that creature disappear to now?", "en": "JOHN: Just where did that creature disappear to now?", "ja": "ジョン: あの生き物は、今度は一体どこへ消えたんだ?"}
+{"sec": "map:858", "key": "He took the Red Orb from within the engine wreckage and escaped through one of Hoopa's portals!", "en": "He took the Red Orb from within the engine wreckage and escaped through one of Hoopa's portals!", "ja": "奴は機関部の残骸から赤の秘宝を取り出し、フーパのポータルの一つを通って逃げていった!"}
+{"sec": "map:858", "key": "CONDUCTOR: Quickly now-- the reserve power won't last!", "en": "CONDUCTOR: Quickly now-- the reserve power won't last!", "ja": "コンダクター: 急いでください――予備電源はもう長く持ちません!"}
+{"sec": "map:858", "key": "You give chase to the chief--", "en": "You give chase to the chief--", "ja": "あなたはチーフを追ってください――"}
+{"sec": "map:858", "key": "I mean, the thief!", "en": "I mean, the thief!", "ja": "いや、泥棒を、という意味です!"}
+{"sec": "map:858", "key": "We'll take care of things here and get all of the passengers to safety!", "en": "We'll take care of things here and get all of the passengers to safety!", "ja": "私たちはここに残って、乗客全員を安全な場所へ避難させます!"}
+{"sec": "map:858", "key": "CONDUCTOR: We'll take care of things here and get all of the passengers to safety!", "en": "CONDUCTOR: We'll take care of things here and get all of the passengers to safety!", "ja": "コンダクター: 私たちはここに残って、乗客全員を安全な場所へ避難させます!"}
+{"sec": "map:858", "key": "...?", "en": "...?", "ja": "……?"}
+{"sec": "map:858", "key": "Look! \\PN has the Blue Orb!", "en": "Look! \\PN has the Blue Orb!", "ja": "見て! \\PNが青の秘宝を持ってる!"}
+{"sec": "map:858", "key": "What, \\PN stole the Blue Orb?!", "en": "What, \\PN stole the Blue Orb?!", "ja": "え、\\PNが青の秘宝を盗んだの?!"}
+{"sec": "map:858", "key": "I always told you \\PN was a NO GOOD, ROTTEN LITTLE THIEVING--", "en": "I always told you \\PN was a NO GOOD, ROTTEN LITTLE THIEVING--", "ja": "だから言ったでしょ、\\PNはろくでもない、腐りきったコソ泥――"}
+{"sec": "map:858", "key": "Silence!!!", "en": "Silence!!!", "ja": "静かに!!!"}
+{"sec": "map:858", "key": "No", "en": "No", "ja": "いいえ"}
+{"sec": "map:858", "key": "Yes", "en": "Yes", "ja": "はい"}
+{"sec": "map:858", "key": "Motives", "en": "Motives", "ja": "動機"}
+{"sec": "map:858", "key": "Alibi", "en": "Alibi", "ja": "アリバイ"}
+{"sec": "map:858", "key": "Others", "en": "Others", "ja": "その他"}
+{"sec": "map:858", "key": "Whereabouts", "en": "Whereabouts", "ja": "居場所"}
+{"sec": "map:858", "key": "Status", "en": "Status", "ja": "状況"}
+{"sec": "map:858", "key": "Incident", "en": "Incident", "ja": "事件"}
+{"sec": "map:858", "key": "Orbs", "en": "Orbs", "ja": "秘宝"}
+{"sec": "map:858", "key": "Monitoring", "en": "Monitoring", "ja": "監視"}
+{"sec": "map:858", "key": "Suspects", "en": "Suspects", "ja": "容疑者"}
+{"sec": "map:858", "key": "Done Investigating", "en": "Done Investigating", "ja": "捜査終了"}

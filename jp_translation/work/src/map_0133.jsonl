@@ -1,0 +1,291 @@
+{"sec": "map:133", "key": "Greetings, I am the Chief of the Reborn City Police Department.", "en": "Greetings, I am the Chief of the Reborn City Police Department.", "ja": "ようこそ。私はリボーンシティ警察の署長だ。"}
+{"sec": "map:133", "key": "Although civilian affairs are of the highest importance to me, I'm afraid I cannot take any requests at this time.", "en": "Although civilian affairs are of the highest importance to me, I'm afraid I cannot take any requests at this time.", "ja": "民間の要望は何より重要だと考えているが、今は依頼を受けることができない。"}
+{"sec": "map:133", "key": "Our police force is already highly overextended, and I'm afraid we cannot spare the manpower at the moment.", "en": "Our police force is already highly overextended, and I'm afraid we cannot spare the manpower at the moment.", "ja": "すでに警察はぎりぎりの人員でやっており、今は人手を割く余裕がないのだ。"}
+{"sec": "map:133", "key": "Especially with more turning up missing every day.", "en": "Especially with more turning up missing every day.", "ja": "ましてや、日に日に行方不明者が増えている状況ではな。"}
+{"sec": "map:133", "key": "OFFICER: Reporting for next assignment, sir!", "en": "OFFICER: Reporting for next assignment, sir!", "ja": "警官: 次の任務のため参りました!"}
+{"sec": "map:133", "key": "OFFICER: Oh! You're-- I heard about you!", "en": "OFFICER: Oh! You're-- I heard about you! ", "ja": "警官: あっ! あなたは……うわさは聞いています!"}
+{"sec": "map:133", "key": "I was stationed outside of Obsidia when Florinia asked for you to go through.", "en": "I was stationed outside of Obsidia when Florinia asked for you to go through.", "ja": "フロリニアがあなたを通したいと言ったとき、私はオブシディアの外に配置されていました。"}
+{"sec": "map:133", "key": "And weren't you the one who eventually ended up saving Obsidia?", "en": "And weren't you the one who eventually ended up saving Obsidia?", "ja": "それに、最終的にオブシディアを救ったのもあなたでしたよね?"}
+{"sec": "map:133", "key": "CHIEF: Eh? You're saying it was this person?", "en": "CHIEF: Eh? You're saying it was this person?", "ja": "署長: ん? この者だと言うのか?"}
+{"sec": "map:133", "key": "OFFICER: I'm sure of it! Gym Leader Florinia said that they'd help out.", "en": "OFFICER: I'm sure of it! Gym Leader Florinia said that they'd help out.", "ja": "警官: 間違いありません! ジムリーダーのフロリニアが、この方が力になってくれると言っていました。"}
+{"sec": "map:133", "key": "CHIEF: Is that so?", "en": "CHIEF: Is that so? ", "ja": "署長: そうか。"}
+{"sec": "map:133", "key": "OFFICER: Hey, have you come to the Jasper Ward to help here, too?", "en": "OFFICER: Hey, have you come to the Jasper Ward to help here, too?", "ja": "警官: あの、ジャスパーワードにも力を貸しに来てくれたんですか?"}
+{"sec": "map:133", "key": "CHIEF: Hmm...", "en": "CHIEF: Hmm...", "ja": "署長: うーむ……"}
+{"sec": "map:133", "key": "Being that they are not officially enlisted, I cannot require others to act on any orders.", "en": "Being that they are not officially enlisted, I cannot require others to act on any orders.", "ja": "正式な所属ではない以上、命令に従うよう強制することはできん。"}
+{"sec": "map:133", "key": "However, civilian, I will afford you special permission to move freely about the area.", "en": "However, civilian, I will afford you special permission to move freely about the area. ", "ja": "しかし民間人よ、この一帯を自由に動き回る特別許可を与えよう。"}
+{"sec": "map:133", "key": "In return, I do ask one favor.", "en": "In return, I do ask one favor.", "ja": "その代わり、ひとつ頼みたいことがある。"}
+{"sec": "map:133", "key": "As I mentioned, more and more of our force turn up missing each day.", "en": "As I mentioned, more and more of our force turn up missing each day.", "ja": "先ほども言ったが、日に日に行方不明になる隊員が増えている。"}
+{"sec": "map:133", "key": "Currently, we have five officers unaccounted for, known previously to be searching in the Jasper and Beryl Wards.", "en": "Currently, we have five officers unaccounted for, known previously to be searching in the Jasper and Beryl Wards.", "ja": "現在、ジャスパーワードとベリルワードを捜索していたはずの警官5名が、行方不明のままだ。"}
+{"sec": "map:133", "key": "If you happen to find them, please send them back, or let us know immediately.", "en": "If you happen to find them, please send them back, or let us know immediately.", "ja": "もし見つけたら、こちらへ帰すか、すぐに知らせてほしい。"}
+{"sec": "map:133", "key": "Thank you.", "en": "Thank you.", "ja": "頼んだぞ。"}
+{"sec": "map:133", "key": "Officer, stand by. I'll have new orders for you momentarily.", "en": "Officer, stand by. I'll have new orders for you momentarily.", "ja": "警官、待機せよ。すぐに新たな命令を出す。"}
+{"sec": "map:133", "key": "OFFICER: Yes, sir.", "en": "OFFICER: Yes, sir.", "ja": "警官: はい!"}
+{"sec": "map:133", "key": "CHIEF: Good luck. I do hope you find them.", "en": "CHIEF: Good luck. I do hope you find them.", "ja": "署長: 幸運を祈る。彼らが見つかることを願っている。"}
+{"sec": "map:133", "key": "CHIEF: Two have returned now. But three are still missing.", "en": "CHIEF: Two have returned now. But three are still missing.", "ja": "署長: 二人は戻ってきた。だが、まだ三人が行方不明だ。"}
+{"sec": "map:133", "key": "CHIEF: You found one! But we're still missing four.", "en": "CHIEF: You found one! But we're still missing four.", "ja": "署長: 一人見つけたか! だが、まだ四人足りない。"}
+{"sec": "map:133", "key": "CHIEF: Three are back! Are things finally starting to look up? Well, there's still two.", "en": "CHIEF: Three are back! Are things finally starting to look up? Well, there's still two.", "ja": "署長: 三人戻ってきた! ようやく好転してきたか。だが、まだ二人残っている。"}
+{"sec": "map:133", "key": "CHIEF: Ah! There's only one more to find!", "en": "CHIEF: Ah! There's only one more to find!", "ja": "署長: おお! 残るはあと一人だ!"}
+{"sec": "map:133", "key": "CHIEF: By Jove, kid, you've done it! You found our entire missing police force!", "en": "CHIEF: By Jove, kid, you've done it! You found our entire missing police force!", "ja": "署長: なんと、やったな! 行方不明の警官を全員見つけてくれたのか!"}
+{"sec": "map:133", "key": "Well, there is the matter of the officer who died in service...", "en": "Well, there is the matter of the officer who died in service... ", "ja": "ただ、殉職した隊員のことがある……"}
+{"sec": "map:133", "key": "You found his Growlithe, did you not?", "en": "You found his Growlithe, did you not?", "ja": "彼のガーディを見つけてくれたのではなかったか?"}
+{"sec": "map:133", "key": "Like in many other regions, all of our officers are issued Growlithe as partner Pokémon. But now that its Trainer is gone, that Growlithe...", "en": "Like in many other regions, all of our officers are issued Growlithe as partner Pokémon. But now that its Trainer is gone, that Growlithe...", "ja": "他の多くの地方と同じく、当署の隊員には皆パートナーとしてガーディが支給されている。だが、トレーナーがいなくなった今、そのガーディは……"}
+{"sec": "map:133", "key": "I would feel it an insult to the memory of my former officer to simply give that Growlithe to another new recruit.", "en": "I would feel it an insult to the memory of my former officer to simply give that Growlithe to another new recruit.", "ja": "あのガーディを新人にただ譲るのは、亡き隊員への侮辱のように思えてな。"}
+{"sec": "map:133", "key": "It may be difficult to understand, but if you would, please feel free to take Growlithe with you. You were the one to find it after all.", "en": "It may be difficult to understand, but if you would, please feel free to take Growlithe with you. You were the one to find it after all.", "ja": "わかりにくいかもしれんが、よければそのガーディを連れていってやってくれ。見つけたのは、他ならぬ君なのだから。"}
+{"sec": "map:133", "key": "And after everything you've done for us...", "en": "And after everything you've done for us... ", "ja": "それに、君にはこれまで色々と世話になった……"}
+{"sec": "map:133", "key": "Consider it a token of appreciation.", "en": "Consider it a token of appreciation. ", "ja": "これは感謝の印だと思ってくれ。"}
+{"sec": "map:133", "key": "You're now an honorary member of the Reborn City Police Department!", "en": "You're now an honorary member of the Reborn City Police Department!", "ja": "君は今この瞬間から、リボーンシティ警察の名誉隊員だ!"}
+{"sec": "map:133", "key": "CHIEF: It may be difficult to understand, but if you would, please feel free to take Growlithe with you. You were the one to find it after all.", "en": "CHIEF: It may be difficult to understand, but if you would, please feel free to take Growlithe with you.  You were the one to find it after all.", "ja": "署長: わかりにくいかもしれんが、よければそのガーディを連れていってやってくれ。見つけたのは、他ならぬ君なのだから。"}
+{"sec": "map:133", "key": "And after everything you've done for us... Consider it a token of appreciation.", "en": "And after everything you've done for us... Consider it a token of appreciation. ", "ja": "それに、君にはこれまで色々と世話になった……これは感謝の印だと思ってくれ。"}
+{"sec": "map:133", "key": "CHIEF: Back in full force, the Reborn City Police Department is ready to serve!", "en": "CHIEF: Back in full force, the Reborn City Police Department is ready to serve!", "ja": "署長: 全力を取り戻したリボーンシティ警察は、いつでも力になるぞ!"}
+{"sec": "map:133", "key": "CHIEF: Greetings, civilian!", "en": "CHIEF: Greetings, civilian!", "ja": "署長: おお、民間人よ!"}
+{"sec": "map:133", "key": "With everyone's help and new volunteers, our force is back at full power!", "en": "With everyone's help and new volunteers, our force is back at full power!", "ja": "皆の協力と新たな志願者のおかげで、我々の戦力は全快した!"}
+{"sec": "map:133", "key": "If anything is troubling you, please don't hesitate to inform us.", "en": "If anything is troubling you, please don't hesitate to inform us.", "ja": "何か困ったことがあれば、遠慮なく知らせてくれ。"}
+{"sec": "map:133", "key": "We are committed to keeping this city a peaceful place once and for all!", "en": "We are committed to keeping this city a peaceful place once and for all!", "ja": "この街の平和を守り抜くことを、我々は誓う!"}
+{"sec": "map:133", "key": "Ahh, so you're interested in that \"Corin-Rouge\" character, are you?", "en": "Ahh, so you're interested in that \"Corin-Rouge\" character, are you?", "ja": "ああ、あの「コリン・ルージュ」とかいう男に興味があるのか。"}
+{"sec": "map:133", "key": "He's a confounding one, to be sure.", "en": "He's a confounding one, to be sure.", "ja": "実に厄介な男でな。"}
+{"sec": "map:133", "key": "He is a flashy individual, but skilled at hiding and get- aways, so we've tracked much of his movement, though never been able to catch him.", "en": "He is a flashy individual, but skilled at hiding and get- aways, so we've tracked much of his movement, though never been able to catch him.", "ja": "派手な男だが、身を隠すことと逃げることには長けていてな。動きは相当つかんでいるものの、いまだに捕まえられずにいる。"}
+{"sec": "map:133", "key": "Now that we've got many other obstacles out of the way, we've already begun to turn a focus onto him.", "en": "Now that we've got many other obstacles out of the way, we've already begun to turn a focus onto him.", "ja": "他の障害の多くを片づけた今、我々はすでに奴に焦点を絞り始めている。"}
+{"sec": "map:133", "key": "If you'd like to take vanguard in the operation, it would be a great help!", "en": "If you'd like to take vanguard in the operation, it would be a great help!", "ja": "もし作戦の先陣を切ってくれるなら、大いに助かる!"}
+{"sec": "map:133", "key": "Here's the situation:", "en": "Here's the situation:", "ja": "状況はこうだ。"}
+{"sec": "map:133", "key": "We've received an increasing number of reports about his whereabouts.", "en": "We've received an increasing number of reports about his whereabouts.", "ja": "奴の居場所についての報告が、次々と寄せられている。"}
+{"sec": "map:133", "key": "That is, the numbers are so fast-increasing, it puts him in three different places at once!", "en": "That is, the numbers are so fast-increasing, it puts him in three different places at once!", "ja": "というのも、あまりにも急増していて、同時に三か所にいることになってしまうのだ!"}
+{"sec": "map:133", "key": "The reports all came in around the same time, but for wildly different places. I'd like you to investigate them.", "en": "The reports all came in around the same time, but for wildly different places. I'd like you to investigate them.", "ja": "報告はほぼ同時に届いたが、場所はまるで違っている。それぞれ調べてきてほしい。"}
+{"sec": "map:133", "key": "First, he was sighted around Malchous Forest.", "en": "First, he was sighted around Malchous Forest.", "ja": "まず、マルコウス森林公園付近で目撃された。"}
+{"sec": "map:133", "key": "A moment later, we heard he was on a small islet in Azurine Lake.", "en": "A moment later, we heard he was on a small islet in Azurine Lake.", "ja": "その少し後、アズリン湖の小島にいるとの報告が入った。"}
+{"sec": "map:133", "key": "Finally, an officer reportedly saw him around the same time at Sunset Circle in Peridot.", "en": "Finally, an officer reportedly saw him around the same time at Sunset Circle in Peridot.", "ja": "さらに、同じ頃ペリドットのサンセットサークルで目撃したという警官もいる。"}
+{"sec": "map:133", "key": "Most of our officers are still occupied on the multitude of other tasks, so I shall leave it to you!", "en": "Most of our officers are still occupied on the multitude of other tasks, so I shall leave it to you!", "ja": "ほとんどの隊員はまだ他の任務にかかりきりでな、これは君に任せよう!"}
+{"sec": "map:133", "key": "CHIEF: Good to see you again, old friend!", "en": "CHIEF: Good to see you again, old friend!", "ja": "署長: また会えたな、旧友よ!"}
+{"sec": "map:133", "key": "Thanks to your efforts, the Reborn City Police Department is back at full operation!", "en": "Thanks to your efforts, the Reborn City Police Department is back at full operation!", "ja": "君のおかげで、リボーンシティ警察は完全復活した!"}
+{"sec": "map:133", "key": "If you'd like to take vanguard in the operation, I'm sure we could catch him in no time at all!", "en": "If you'd like to take vanguard in the operation, I'm sure we could catch him in no time at all!", "ja": "作戦の先陣を切ってくれるなら、あっという間に奴を捕まえられるはずだ!"}
+{"sec": "map:133", "key": "Most of our officers are still occupied on the multitude of other tasks, so I shall entrust this task to you.", "en": "Most of our officers are still occupied on the multitude of other tasks, so I shall entrust this task to you.", "ja": "ほとんどの隊員はまだ他の任務にかかりきりでな、この件は君に任せよう。"}
+{"sec": "map:133", "key": "CHIEF: Here's the situation:", "en": "CHIEF: Here's the situation:", "ja": "署長: 状況はこうだ。"}
+{"sec": "map:133", "key": "We've received an increasing number of reports about his where-abouts.", "en": "We've received an increasing number of reports about his where-abouts.", "ja": "奴の居場所についての報告が、次々と寄せられている。"}
+{"sec": "map:133", "key": "Please investigate the areas and try to apprehend him!", "en": "Please investigate the areas and try to apprehend him!", "ja": "それぞれの場所を調べて、奴を捕らえてくれ!"}
+{"sec": "map:133", "key": "CHIEF: Well? How has it gone?", "en": "CHIEF: Well? How has it gone?", "ja": "署長: どうだ? 首尾は?"}
+{"sec": "map:133", "key": "Hrm, so the three sightings were all decoys...", "en": "Hrm, so the three sightings were all decoys...", "ja": "ふむ、三つの目撃情報はすべて陽動だったか……"}
+{"sec": "map:133", "key": "That crafty Corin...", "en": "That crafty Corin... ", "ja": "あのずるがしこいコリンめ……"}
+{"sec": "map:133", "key": "So the clues you gathered were:", "en": "So the clues you gathered were:", "ja": "君が集めた手がかりは、こうだったな。"}
+{"sec": "map:133", "key": "\"Find him in the place where mists settle!\"", "en": "\"Find him in the place where mists settle!\"", "ja": "「霧の立ちこめる場所で見つけよ!」"}
+{"sec": "map:133", "key": "\"Find him in a place where Trainers fight!\"", "en": "\"Find him in a place where Trainers fight!\"", "ja": "「トレーナーたちが戦う場所で見つけよ!」"}
+{"sec": "map:133", "key": "And \"Find him buried in a pocket of peonies!\"", "en": "And \"Find him buried in a pocket of peonies!\"", "ja": "そして「ぼたんの咲く一角に埋もれて見つけよ!」"}
+{"sec": "map:133", "key": "How cryptic... Can you crack this caper, Trainer?", "en": "How cryptic... Can you crack this caper, Trainer?", "ja": "実に謎めいているな……トレーナーよ、この一件を解いてみせられるか?"}
+{"sec": "map:133", "key": "I leave it in your capable hands.", "en": "I leave it in your capable hands.", "ja": "頼りにしているぞ。"}
+{"sec": "map:133", "key": "What?! The Corin at the riddle was a decoy too?!", "en": "What?! The Corin at the riddle was a decoy too?!", "ja": "何だと?! 謎に出てきたコリンも陽動だったのか?!"}
+{"sec": "map:133", "key": "That sneaky Seviper...", "en": "That sneaky Seviper...", "ja": "あのずる賢いハブネークめ……"}
+{"sec": "map:133", "key": "So one of the suspected clones was the real Corin!", "en": "So one of the suspected clones was the real Corin!", "ja": "つまり、疑わしき影武者のうちの一体が、本物のコリンだったのか!"}
+{"sec": "map:133", "key": "The one at Malchous Forest, the one at Sunset Circle, and the one around Azurine Lake...", "en": "The one at Malchous Forest, the one at Sunset Circle, and the one around Azurine Lake...", "ja": "マルコウス森林公園にいた奴、サンセットサークルにいた奴、そしてアズリン湖付近にいた奴……"}
+{"sec": "map:133", "key": "If he was trying to buy time, he would probably choose the place that had the best escape route.", "en": "If he was trying to buy time, he would probably choose the place that had the best escape route.", "ja": "時間稼ぎが目的だったなら、逃げ道が一番良い場所を選んだはずだ。"}
+{"sec": "map:133", "key": "You have to hurry, \\PN!", "en": "You have to hurry, \\PN!", "ja": "急ぐんだ、\\PN!"}
+{"sec": "map:133", "key": "CHIEF: Any news on the Corin-Rouge case?", "en": "CHIEF: Any news on the Corin-Rouge case?", "ja": "署長: コリン・ルージュの件で、何か進展は?"}
+{"sec": "map:133", "key": "...", "en": "...", "ja": "…………"}
+{"sec": "map:133", "key": "So he was able to flee the city...", "en": "So he was able to flee the city...", "ja": "つまり、街を逃げ出せたということか……"}
+{"sec": "map:133", "key": "I see. Then it's out of our hands.", "en": "I see. Then it's out of our hands.", "ja": "なるほど。ならば、もう我々の手には負えん。"}
+{"sec": "map:133", "key": "Well, don't feel too bad about it, sport.", "en": "Well, don't feel too bad about it, sport.", "ja": "まあ、そう気を落とすな。"}
+{"sec": "map:133", "key": "You did well in finding him.", "en": "You did well in finding him.", "ja": "よく見つけ出してくれた。"}
+{"sec": "map:133", "key": "And one way or another, he's gone, so he won't be hurting anyone here for a while.", "en": "And one way or another, he's gone, so he won't be hurting anyone here for a while.", "ja": "ともあれ奴はいなくなった。しばらくはここで誰かを傷つけることもないだろう。"}
+{"sec": "map:133", "key": "Still... I suspect he won't stray too far.", "en": "Still... I suspect he won't stray too far.", "ja": "とはいえ……そう遠くへは行っていないはずだ。"}
+{"sec": "map:133", "key": "He knows this area like the back of his hand, meaning he'll probably come back after laying low for a while.", "en": "He knows this area like the back of his hand, meaning he'll probably come back after laying low for a while.", "ja": "この辺りを知り尽くしている男だ。しばらく身を潜めた後、また戻ってくるだろう。"}
+{"sec": "map:133", "key": "Considering the direction he took...", "en": "Considering the direction he took...", "ja": "奴が向かった方角を考えると……"}
+{"sec": "map:133", "key": "There might still be a chance to find him.", "en": "There might still be a chance to find him.", "ja": "まだ見つけ出せる見込みはある。"}
+{"sec": "map:133", "key": "Of course, the one most suited to the job is you.", "en": "Of course, the one most suited to the job is you.", "ja": "もちろん、この仕事に一番向いているのは君だ。"}
+{"sec": "map:133", "key": "Just make sure to drag him back here so we can lock the lout up!", "en": "Just make sure to drag him back here so we can lock the lout up!", "ja": "必ずここまで引きずってこい、あのならず者をおりに放り込んでやる!"}
+{"sec": "map:133", "key": "Ah, I know!", "en": "Ah, I know!", "ja": "ああ、そうだ!"}
+{"sec": "map:133", "key": "If you're going to chase him north into the Tourmaline Desert, maybe these can help protect you.", "en": "If you're going to chase him north into the Tourmaline Desert, maybe these can help protect you.", "ja": "トルマリン砂漠まで奴を追うつもりなら、これが役に立つかもしれん。"}
+{"sec": "map:133", "key": "CHIEF: Good luck out there!", "en": "CHIEF: Good luck out there!", "ja": "署長: 気をつけてな!"}
+{"sec": "map:133", "key": "CHIEF: I suspect Corin-Rouge won't stray too far.", "en": "CHIEF: I suspect Corin-Rouge won't stray too far.", "ja": "署長: コリン・ルージュは、そう遠くへは行っていないはずだ。"}
+{"sec": "map:133", "key": "CHIEF: Ho, there!", "en": "CHIEF: Ho, there!", "ja": "署長: おお、来たか!"}
+{"sec": "map:133", "key": "That knave Corin-Rouge seems to have had a change of heart!", "en": "That knave Corin-Rouge seems to have had a change of heart!", "ja": "あの悪党コリン・ルージュに、心境の変化があったようでな!"}
+{"sec": "map:133", "key": "He just showed up one day and held out his hands for us!", "en": "He just showed up one day and held out his hands for us!", "ja": "ある日ふらりと現れて、自分から両手を差し出してきたんだ!"}
+{"sec": "map:133", "key": "Didn't speak a word or even make direct eye contact.", "en": "Didn't speak a word or even make direct eye contact.", "ja": "一言も話さず、目も合わせなかった。"}
+{"sec": "map:133", "key": "I don't suppose you know anything about all that, eh?", "en": "I don't suppose you know anything about all that, eh?", "ja": "君は何か心当たりがあるんじゃないか?"}
+{"sec": "map:133", "key": "GROWLITHE: Grrowrrr...", "en": "GROWLITHE: Grrowrrr...", "ja": "ガーディ: ガウゥ……"}
+{"sec": "map:133", "key": "GROWLITHE: Growrithe!", "en": "GROWLITHE: Growrithe!", "ja": "ガーディ: ガーウ!"}
+{"sec": "map:133", "key": "Let's see... If I remember right, we had two officers stationed in Jasper, and three in Beryl, all of whom went missing.", "en": "Let's see... If I remember right, we had two officers stationed in Jasper, and three in Beryl, all of whom went missing.", "ja": "ええと……確かジャスパーに二人、ベリルに三人配置していて、全員行方不明だったな。"}
+{"sec": "map:133", "key": "So that's everything. Right.", "en": "So that's everything. Right. ", "ja": "つまり、それで全部だ。よし。"}
+{"sec": "map:133", "key": "Let's get this city back on track.", "en": "Let's get this city back on track.", "ja": "この街を元通りにするとしよう。"}
+{"sec": "map:133", "key": "Thanks for helping me out back there!", "en": "Thanks for helping me out back there!", "ja": "さっきは助かったよ!"}
+{"sec": "map:133", "key": "OFFICER: Hey, you see the guy across the counter?", "en": "OFFICER: Hey, you see the guy across the counter?", "ja": "警官: なあ、カウンターの向こうにいる奴、見えるか?"}
+{"sec": "map:133", "key": "He's been feeling really down ever since Team Meteor stole his Growlithe. I wanna do something to help him.", "en": "He's been feeling really down ever since Team Meteor stole his Growlithe. I wanna do something to help him.", "ja": "メテオ団にガーディを盗まれてから、あいつずっと落ち込んでてさ。何とかしてやりたいんだ。"}
+{"sec": "map:133", "key": "I know the Chief won't give him the spare Growlithe that we had, but I think there's a way around that.", "en": "I know the Chief won't give him the spare Growlithe that we had, but I think there's a way around that.", "ja": "署長はうちの予備のガーディをあいつに譲るつもりはないみたいだけど、抜け道があると思うんだ。"}
+{"sec": "map:133", "key": "Would you be willing to breed that Growlithe and give me one of the kiddos? I'll take an egg or a pup, either way.", "en": "Would you be willing to breed that Growlithe and give me one of the kiddos? I'll take an egg or a pup, either way.", "ja": "あのガーディを繁殖させて、子供を一匹分けてもらえないか? タマゴでも子犬でも、どっちでもいいんだ。"}
+{"sec": "map:133", "key": "OFFICER: No, no. It's a lot to ask, I understand.", "en": "OFFICER: No, no. It's a lot to ask, I understand.", "ja": "警官: いや、いや。無理な頼みだってのはわかってる。"}
+{"sec": "map:133", "key": "OFFICER: You'll really give it to him?", "en": "OFFICER: You'll really give it to him?", "ja": "警官: 本当に譲ってくれるのか?"}
+{"sec": "map:133", "key": "Thank you so much! I'm sure this will really make a difference for him!", "en": "Thank you so much! I'm sure this will really make a difference for him!", "ja": "本当にありがとう! きっとあいつのためになるよ!"}
+{"sec": "map:133", "key": "Say, I picked up an abandoned Egg a while ago and I've been holding onto it for a while.", "en": "Say, I picked up an abandoned Egg a while ago and I've been holding onto it for a while.", "ja": "そういえば、前に捨てられていたタマゴを拾って、ずっと持っていたんだ。"}
+{"sec": "map:133", "key": "Couldn't tell you what'll come of it, but why don't you take that in return?", "en": "Couldn't tell you what'll come of it, but why don't you take that in return?", "ja": "何が生まれるかはわからないけど、代わりにこれを受け取ってくれないか?"}
+{"sec": "map:133", "key": "\\PN traded Growlithe for an egg!", "en": "\\PN traded Growlithe for an egg!", "ja": "\\PNはガーディをタマゴと交換した!"}
+{"sec": "map:133", "key": "OFFICER: ...Huh, doesn't this pup look a little different than normal?", "en": "OFFICER: ...Huh, doesn't this pup look a little different than normal?", "ja": "警官: ……あれ、この子犬、いつもと少し違って見えないか?"}
+{"sec": "map:133", "key": "I mean, it is clearly a Growlithe so it will do.", "en": "I mean, it is clearly a Growlithe so it will do.", "ja": "まあ、間違いなくガーディだし、それで十分さ。"}
+{"sec": "map:133", "key": "OFFICER: ...Huh, doesn't this egg look a little different than normal?", "en": "OFFICER: ...Huh, doesn't this egg look a little different than normal?", "ja": "警官: ……あれ、このタマゴ、いつもと少し違って見えないか?"}
+{"sec": "map:133", "key": "I mean, if you say it's a Growlithe I'll believe you though.", "en": "I mean, if you say it's a Growlithe I'll believe you though.", "ja": "まあ、君がガーディだって言うなら、信じるけどさ。"}
+{"sec": "map:133", "key": "Thank you, truly, for everything you've done for us!", "en": "Thank you, truly, for everything you've done for us!", "ja": "本当に、色々ありがとう!"}
+{"sec": "map:133", "key": "OFFICER: Thank you for everything you've done for us, truly.", "en": "OFFICER: Thank you for everything you've done for us, truly.", "ja": "警官: 本当に、色々ありがとう。"}
+{"sec": "map:133", "key": "That young Growlithe is a fierce pup!", "en": "That young Growlithe is a fierce pup!", "ja": "あの若いガーディは、勇ましい子犬だ!"}
+{"sec": "map:133", "key": "Once that Growlithe hatches, I hope he sees he never has to be without a partner.", "en": "Once that Growlithe hatches, I hope he sees he never has to be without a partner.", "ja": "あのガーディがかえったら、もう相棒に困ることはないんだって、わかってもらえるといいな。"}
+{"sec": "map:133", "key": "I'm so glad you found me.", "en": "I'm so glad you found me. ", "ja": "見つけてくれて、本当に良かった。"}
+{"sec": "map:133", "key": "Now if only there weren't more missing.", "en": "Now if only there weren't more missing.", "ja": "あとは、もう行方不明者が出なければいいんだが。"}
+{"sec": "map:133", "key": "Now maybe things can start moving back to normal.", "en": "Now maybe things can start moving back to normal.", "ja": "これで、ようやく元通りに戻り始められるかもしれない。"}
+{"sec": "map:133", "key": "I'm so glad to be out of that place.", "en": "I'm so glad to be out of that place.", "ja": "あそこから出られて、本当に良かった。"}
+{"sec": "map:133", "key": "Ah, hello again!", "en": "Ah, hello again!", "ja": "ああ、また会ったな!"}
+{"sec": "map:133", "key": "When the city restoration began, lots of people stepped up to train as officers.", "en": "When the city restoration began, lots of people stepped up to train as officers.", "ja": "街の復興が始まると、たくさんの人が警官になろうと名乗りを上げた。"}
+{"sec": "map:133", "key": "Seems like it just took a little push to get people to take this city's safety into their own hands!", "en": "Seems like it just took a little push to get people to take this city's safety into their own hands!", "ja": "ちょっとしたきっかけさえあれば、みんな自分たちでこの街の安全を守ろうとするものなんだな!"}
+{"sec": "map:133", "key": "Hey, you wanna know something?", "en": "Hey, you wanna know something?", "ja": "なあ、ちょっと聞いてくれよ。"}
+{"sec": "map:133", "key": "Remember when you were fighting that Meteor who had cornered me? He had a Growlithe.", "en": "Remember when you were fighting that Meteor who had cornered me? He had a Growlithe.", "ja": "俺を追い詰めてたメテオ団の奴と戦ってただろ? あいつ、ガーディを連れてたんだ。"}
+{"sec": "map:133", "key": "That was actually my Growlithe that he took from me.", "en": "That was actually my Growlithe that he took from me.", "ja": "あれ、実は俺から奪われた俺のガーディだったんだよ。"}
+{"sec": "map:133", "key": "What's more, we had that spare Growlithe from the officer we lost, but... The chief decided to give it to you instead of me.", "en": "What's more, we had that spare Growlithe from the officer we lost, but... The chief decided to give it to you instead of me.", "ja": "それに、亡くなった隊員から残った予備のガーディがいたんだけど……署長は俺じゃなくて君に譲ることに決めたんだ。"}
+{"sec": "map:133", "key": "How annoying...", "en": "How annoying...", "ja": "まったく、腹立たしいよ……"}
+{"sec": "map:133", "key": "I can hardly believe it myself, but my buddy there just gave me a Growlithe pup!", "en": "I can hardly believe it myself, but my buddy there just gave me a Growlithe pup!", "ja": "自分でも信じられないんだけど、あそこの相棒がガーディの子犬をくれたんだ!"}
+{"sec": "map:133", "key": "I can hardly believe it myself, but my buddy there just gave me a Growlithe Egg!", "en": "I can hardly believe it myself, but my buddy there just gave me a Growlithe Egg!", "ja": "自分でも信じられないんだけど、あそこの相棒がガーディのタマゴをくれたんだ!"}
+{"sec": "map:133", "key": "I mean, it's not the same one I had before... But I'm really looking forward to raising my partner myself.", "en": "I mean, it's not the same one I had before... But I'm really looking forward to raising my partner myself.", "ja": "前のとは違う子だけど……自分の手で相棒を育てられるのが、本当に楽しみなんだ。"}
+{"sec": "map:133", "key": "Maybe someday we'll be able to bring that thief to justice.", "en": "Maybe someday we'll be able to bring that thief to justice.", "ja": "いつか、あの泥棒を法の裁きにかけられる日が来るといいな。"}
+{"sec": "map:133", "key": "Hello again!", "en": "Hello again!", "ja": "また会ったな!"}
+{"sec": "map:133", "key": "But between my Growlithe and I, I'm sure we could handle it all ourselves anyway!", "en": "But between my Growlithe and I, I'm sure we could handle it all ourselves anyway!", "ja": "でも、俺とガーディがいれば、どうにか自分たちだけでもやっていけるはずさ!"}
+{"sec": "map:133", "key": "Phew...", "en": "Phew...", "ja": "ふう……"}
+{"sec": "map:133", "key": "GROWLITHE: Row...", "en": "GROWLITHE: Row...", "ja": "ガーディ: ガウ……"}
+{"sec": "map:133", "key": "Growlithe is looking at you obediently. Do you want to take Growlithe with you?", "en": "Growlithe is looking at you obediently. Do you want to take Growlithe with you?", "ja": "ガーディが素直な目でこちらを見ている。ガーディを連れていきますか?"}
+{"sec": "map:133", "key": "GROWLITHE: Rithe...", "en": "GROWLITHE: Rithe...", "ja": "ガーディ: ウォン……"}
+{"sec": "map:133", "key": "I was hoping things might slow down after the recent busts and recoops...", "en": "I was hoping things might slow down after the recent busts and recoops...", "ja": "最近の摘発や立て直しが済んだら、少しは落ち着くかと思っていたんだが……"}
+{"sec": "map:133", "key": "But the bomb, a suicide, a desperate call from the orphanage of all places...", "en": "But the bomb, a suicide, a desperate call from the orphanage of all places...", "ja": "爆弾騒ぎに自殺、それに孤児院からの切羽詰まった通報まで……"}
+{"sec": "map:133", "key": "Looks like more overtime.", "en": "Looks like more overtime.", "ja": "また残業になりそうだ。"}
+{"sec": "map:133", "key": "AMARIA: \\PN?", "en": "AMARIA: \\PN?", "ja": "アマリア: \\PN?"}
+{"sec": "map:133", "key": "Cain was just looking for you!", "en": "Cain was just looking for you!", "ja": "ちょうどカインが君を探していたところなの!"}
+{"sec": "map:133", "key": "CAIN: No luck; I can't find--", "en": "CAIN: No luck; I can't find--", "ja": "カイン: だめだ、見つからな――"}
+{"sec": "map:133", "key": "...Hi, \\PN!", "en": "...Hi, \\PN!", "ja": "……やあ、\\PN!"}
+{"sec": "map:133", "key": "CAIN: You are such a sight for sore eyes.", "en": "CAIN: You are such a sight for sore eyes.", "ja": "カイン: 会えて本当にうれしいよ。"}
+{"sec": "map:133", "key": "CAIN: I found him!", "en": "CAIN: I found him!", "ja": "カイン: 彼を見つけた!"}
+{"sec": "map:133", "key": "CAIN: I found her!", "en": "CAIN: I found her!", "ja": "カイン: 彼女を見つけた!"}
+{"sec": "map:133", "key": "CAIN: I found them!", "en": "CAIN: I found them!", "ja": "カイン: あの子を見つけた!"}
+{"sec": "map:133", "key": "CAIN: Any progress?", "en": "CAIN: Any progress?", "ja": "カイン: 何か進展は?"}
+{"sec": "map:133", "key": "AMARIA: Not yet...", "en": "AMARIA: Not yet...", "ja": "アマリア: まだよ……"}
+{"sec": "map:133", "key": "So I'm glad at least you've had some luck.", "en": "So I'm glad at least you've had some luck.", "ja": "だから、あなただけでも運が良くてうれしいわ。"}
+{"sec": "map:133", "key": "CAIN: When Meteor showed up, Anna tossed me this weird chip and told me to run for it.", "en": "CAIN: When Meteor showed up, Anna tossed me this weird chip and told me to run for it.", "ja": "カイン: メテオ団が現れたとき、アンナがこの奇妙なチップを僕に投げてよこして、逃げろって言ったんだ。"}
+{"sec": "map:133", "key": "I didn't know what to do with it, so I was lucky that I ran into Amaria almost immediately.", "en": "I didn't know what to do with it, so I was lucky that I ran into Amaria almost immediately.", "ja": "どうすればいいかわからなくてさ、すぐにアマリアに出会えたのは運が良かったよ。"}
+{"sec": "map:133", "key": "Frankly, I have no idea where it even came from.", "en": "Frankly, I have no idea where it even came from.", "ja": "正直、これがどこから来たのかも見当がつかないんだ。"}
+{"sec": "map:133", "key": "AMARIA: Currently I'm just trying to get anything off of it...", "en": "AMARIA: Currently I'm just trying to get anything off of it...", "ja": "アマリア: 今は、そこから何か読み取れないか試しているところなの……"}
+{"sec": "map:133", "key": "This stuff isn't exactly my strong suit.", "en": "This stuff isn't exactly my strong suit.", "ja": "こういうのは、あまり得意じゃなくて。"}
+{"sec": "map:133", "key": "That's okay though; they should be here any second...", "en": "That's okay though; they should be here any second...", "ja": "でも大丈夫、もうすぐここに来るはずだから……"}
+{"sec": "map:133", "key": "???: A good performer never misses their cue!", "en": "???: A good performer never misses their cue!", "ja": "???: 名パフォーマーは、決して出番を逃さないものさ!"}
+{"sec": "map:133", "key": "CAIN: Wait, Ace?!", "en": "CAIN: Wait, Ace?!", "ja": "カイン: まさか、エース?!"}
+{"sec": "map:133", "key": "ACE: Center stage and in the spotlight!", "en": "ACE: Center stage and in the spotlight!", "ja": "エース: センターステージ、スポットライトの中へ!"}
+{"sec": "map:133", "key": "CAIN: Why here-- now!?", "en": "CAIN: Why here-- now!?", "ja": "カイン: どうしてここに――今なんだ!?"}
+{"sec": "map:133", "key": "I'll back you up, \\PN--", "en": "I'll back you up, \\PN--", "ja": "僕が援護する、\\PN――"}
+{"sec": "map:133", "key": "AMARIA: No, it's okay.", "en": "AMARIA: No, it's okay.", "ja": "アマリア: いいの、大丈夫。"}
+{"sec": "map:133", "key": "CAIN: What do you mean, \"it's okay\"?", "en": "CAIN: What do you mean, \"it's okay\"?", "ja": "カイン: 「大丈夫」ってどういうことだよ?"}
+{"sec": "map:133", "key": "You were at Rhodochrine-- They're with Team Meteor!", "en": "You were at Rhodochrine-- They're with Team Meteor!", "ja": "ロドクラインにいただろ――そいつはメテオ団の一員だぞ!"}
+{"sec": "map:133", "key": "ACE: Correction-- I WAS with Team Meteor.", "en": "ACE: Correction-- I WAS with Team Meteor.", "ja": "エース: 訂正しよう――「だった」のさ、メテオ団の一員は。"}
+{"sec": "map:133", "key": "CAIN: ...What?", "en": "CAIN: ...What?", "ja": "カイン: ……は?"}
+{"sec": "map:133", "key": "AMARIA: Ace saved my life.", "en": "AMARIA: Ace saved my life.", "ja": "アマリア: エースが、わたしの命を救ってくれたの。"}
+{"sec": "map:133", "key": "CAIN: What???", "en": "CAIN: What???", "ja": "カイン: は???"}
+{"sec": "map:133", "key": "Hold on, wait; can we talk about this?", "en": "Hold on, wait; can we talk about this?", "ja": "待って、ちょっと待って、これって話し合う必要があるんじゃ?"}
+{"sec": "map:133", "key": "AMARIA: I suppose I should explain...", "en": "AMARIA: I suppose I should explain...", "ja": "アマリア: 説明したほうが良さそうね……"}
+{"sec": "map:133", "key": "AMARIA: After I made an opening for \\PN and Borealis to escape, I faced off against that woman.", "en": "AMARIA: After I made an opening for \\PN and Borealis to escape, I faced off against that woman.", "ja": "アマリア: \\PNとボレアリスが逃げる隙を作った後、わたしはあの女と向き合ったの。"}
+{"sec": "map:133", "key": "Lin--", "en": "Lin--", "ja": "リン――"}
+{"sec": "map:133", "key": "That's her name.", "en": "That's her name.", "ja": "それが、あの女の名前。"}
+{"sec": "map:133", "key": "The battle was...", "en": "The battle was...", "ja": "戦いは……"}
+{"sec": "map:133", "key": "In a word, embarrassing.", "en": "In a word, embarrassing.", "ja": "一言で言えば、みっともないものだったわ。"}
+{"sec": "map:133", "key": "ACE: ...And that's the story of how I was fired!", "en": "ACE: ...And that's the story of how I was fired!", "ja": "エース: ……というわけで、それがボクがクビになったいきさつさ!"}
+{"sec": "map:133", "key": "By the time I dragged her to the base, it was already too late.", "en": "By the time I dragged her to the base, it was already too late.", "ja": "彼女を引きずって基地へ連れ帰った頃には、もう手遅れだったんだよ。"}
+{"sec": "map:133", "key": "AMARIA: In the end, they helped me escape.", "en": "AMARIA: In the end, they helped me escape.", "ja": "アマリア: 結局、エースはわたしが逃げるのを手伝ってくれたの。"}
+{"sec": "map:133", "key": "That woman... was not going to stop.", "en": "That woman... was not going to stop.", "ja": "あの女は……止まる気配がまるでなかった。"}
+{"sec": "map:133", "key": "I think it's very possible they saved my life.", "en": "I think it's very possible they saved my life.", "ja": "エースがわたしの命を救ってくれたというのは、十分にあり得る話だと思うわ。"}
+{"sec": "map:133", "key": "And, as you can see, I still have both of the Sapphire Bracelets.", "en": "And, as you can see, I still have both of the Sapphire Bracelets.", "ja": "それに見ての通り、サファイアブレスレットは今も二つとも、わたしの手元にあるの。"}
+{"sec": "map:133", "key": "I don't understand why these are so important, but...", "en": "I don't understand why these are so important, but...", "ja": "これがなぜそんなに重要なのかはわからないけれど……"}
+{"sec": "map:133", "key": "There's no doubt in my mind that Ace has earned our trust.", "en": "There's no doubt in my mind that Ace has earned our trust.", "ja": "エースが信頼に値することは、わたしの中では疑いようがないわ。"}
+{"sec": "map:133", "key": "CAIN: Huh...", "en": "CAIN: Huh...", "ja": "カイン: へえ……"}
+{"sec": "map:133", "key": "ACE: They wasted no time in replacing me.", "en": "ACE: They wasted no time in replacing me.", "ja": "エース: 連中はボクの後釜を、あっという間に用意していてね。"}
+{"sec": "map:133", "key": "ACE: For years, I'd toiled-- slaving over a steaming command line console for their ambitions!", "en": "ACE: For years, I'd toiled-- slaving over a steaming command line console for their ambitions!", "ja": "エース: 何年もの間、ボクは彼らの野望のために、湯気の立つコマンドラインコンソールに向かって身を粉にしてきたんだ!"}
+{"sec": "map:133", "key": "And for what?!", "en": "And for what?!", "ja": "それなのに、何のためだったっていうんだ?!"}
+{"sec": "map:133", "key": "To be cast aside like the ticket to last week's show!", "en": "To be cast aside like the ticket to last week's show!", "ja": "先週の公演のチケットみたいに、あっさり捨てられるためだったのかい!"}
+{"sec": "map:133", "key": "CAIN: ...Command line?", "en": "CAIN: ...Command line?", "ja": "カイン: ……コマンドライン?"}
+{"sec": "map:133", "key": "ACE: Agent Ace, master magician and technological systems extraordinaire, at your service~!", "en": "ACE: Agent Ace, master magician and technological systems extraordinaire, at your service~!", "ja": "エース: エージェント・エース、たぐいまれな手品師にして卓越したシステム技術者、参上~!"}
+{"sec": "map:133", "key": "CAIN: Those two things don't exactly go together...", "en": "CAIN: Those two things don't exactly go together...", "ja": "カイン: その二つ、あんまりかみ合ってない気がするけど……"}
+{"sec": "map:133", "key": "ACE: Ah, so the layperson would think!", "en": "ACE: Ah, so the layperson would think!", "ja": "エース: ああ、素人はそう思うものさ!"}
+{"sec": "map:133", "key": "And yet what are each but an amalgamation of mysteries?", "en": "And yet what are each but an amalgamation of mysteries?", "ja": "けれど、そのどちらも、突き詰めれば神秘の集合体にすぎないのさ。"}
+{"sec": "map:133", "key": "Ever-powerful to the public eye, and yet to the practicioner, but a simple system of logic and processes!", "en": "Ever-powerful to the public eye, and yet to the practicioner, but a simple system of logic and processes!", "ja": "世間の目には絶大な力に映っても、使い手にとっては、論理と手順の単純な体系にすぎないんだよ!"}
+{"sec": "map:133", "key": "If you ask me, the 'black' in 'black magic' is just the background of the command prompt window.", "en": "If you ask me, the 'black' in 'black magic' is just the background of the command prompt window.", "ja": "ボクに言わせれば、「黒魔術」の「黒」なんて、コマンドプロンプトの背景色のことさ。"}
+{"sec": "map:133", "key": "CAIN: Uh... huh.", "en": "CAIN: Uh... huh.", "ja": "カイン: あ……そう。"}
+{"sec": "map:133", "key": "ACE: But where was I?", "en": "ACE: But where was I?", "ja": "エース: ええと、話はどこまでだったかな?"}
+{"sec": "map:133", "key": "Oh-- yes, dramatically moping.", "en": "Oh-- yes, dramatically moping.", "ja": "ああ――そうだ、劇的に落ち込んでいたところだったね。"}
+{"sec": "map:133", "key": "Woe is me, ever am I cast asunder by the masters I once served-- and blah, blah, blah...", "en": "Woe is me, ever am I cast asunder by the masters I once served-- and blah, blah, blah...", "ja": "ああ、悲しきかな、かつて仕えた主たちに見捨てられたこのボク――うんぬんかんぬん……"}
+{"sec": "map:133", "key": "The point is they kicked me out on the curb and filled the position in the same breath.", "en": "The point is they kicked me out on the curb and filled the position in the same breath.", "ja": "要するに、連中はボクを追い出すと同時に、後任をすぐに埋めたってわけさ。"}
+{"sec": "map:133", "key": "Apparently the new girl is just going by \"T\" for now.", "en": "Apparently the new girl is just going by \"T\" for now.", "ja": "新しい子は今のところ「T」とだけ名乗っているらしいよ。"}
+{"sec": "map:133", "key": "How banal!", "en": "How banal!", "ja": "何て平凡な!"}
+{"sec": "map:133", "key": "How dull!", "en": "How dull!", "ja": "何てつまらない!"}
+{"sec": "map:133", "key": "How utterly whatever!", "en": "How utterly whatever!", "ja": "もう、どうでもいいくらいだ!"}
+{"sec": "map:133", "key": "So anyway, what's this about a data chip?", "en": "So anyway, what's this about a data chip?", "ja": "それで、そのデータチップって何の話?"}
+{"sec": "map:133", "key": "AMARIA: Apparently it's important, but I have no idea how to open any of these files...", "en": "AMARIA: Apparently it's important, but I have no idea how to open any of these files...", "ja": "アマリア: 重要なものらしいんだけど、このファイルの開き方が全然わからなくて……"}
+{"sec": "map:133", "key": "ACE: Ah, step aside!", "en": "ACE: Ah, step aside!", "ja": "エース: ああ、そこをどいて!"}
+{"sec": "map:133", "key": "There's magic to be worked here!", "en": "There's magic to be worked here!", "ja": "ここで魔法をひとつ、お見せしようじゃないか!"}
+{"sec": "map:133", "key": "CAIN: You're really just going to turn around and help us?", "en": "CAIN: You're really just going to turn around and help us?", "ja": "カイン: 本当に、あっさり手を貸してくれるつもりなのか?"}
+{"sec": "map:133", "key": "ACE: Quite right, little hero!", "en": "ACE: Quite right, little hero!", "ja": "エース: その通り、小さな英雄くん!"}
+{"sec": "map:133", "key": "You'll find I'm a bit of a wild card~", "en": "You'll find I'm a bit of a wild card~", "ja": "ボクって、結構な食わせ者なのさ~"}
+{"sec": "map:133", "key": "I'll admit it's not entirely selfless;", "en": "I'll admit it's not entirely selfless;", "ja": "まあ、完全に無私ってわけでもないけどね。"}
+{"sec": "map:133", "key": "I'd rather be out and about fighting the good fight than rotting backstage in some cell.", "en": "I'd rather be out and about fighting the good fight than rotting backstage in some cell.", "ja": "どこかの独房の舞台裏で朽ち果てるより、外に出て正義の戦いに加わっていたいのさ。"}
+{"sec": "map:133", "key": "You know how the police are, with their \"deals\".", "en": "You know how the police are, with their \"deals\".", "ja": "警察の「取引」がどんなものかは、知ってるだろう?"}
+{"sec": "map:133", "key": "Isn't that right, Officer Gavin~?", "en": "Isn't that right, Officer Gavin~?", "ja": "そうだよね、ギャビン巡査~?"}
+{"sec": "map:133", "key": "OFFICER: ...Your information had better be good.", "en": "OFFICER: ...Your information had better be good.", "ja": "警官: ……お前の情報が正しいことを祈るぜ。"}
+{"sec": "map:133", "key": "ACE: My information is the BEST!", "en": "ACE: My information is the BEST!", "ja": "エース: ボクの情報はいつだって最高さ!"}
+{"sec": "map:133", "key": "ACE: You'll have to forgive his attitude, of course.", "en": "ACE: You'll have to forgive his attitude, of course.", "ja": "エース: 彼の態度は大目に見てやってくれ、もちろん。"}
+{"sec": "map:133", "key": "The boys in blue are really hurting for some leads now that boring old Borealis is out of the business.", "en": "The boys in blue are really hurting for some leads now that boring old Borealis is out of the business.", "ja": "つまらない老いぼれのボレアリスが引退した今、お巡りさんたちは手がかり不足で困り果てているのさ。"}
+{"sec": "map:133", "key": "Old boy had been dogging them for months, and it's not as if we haven't kept them busy in recent times.", "en": "Old boy had been dogging them for months, and it's not as if we haven't kept them busy in recent times.", "ja": "あのじいさんは何か月も彼らを追い回していたし、最近だってこっちが暇をさせなかったわけじゃないからね。"}
+{"sec": "map:133", "key": "Aha!", "en": "Aha!", "ja": "あはっ!"}
+{"sec": "map:133", "key": "1--", "en": "1--", "ja": "1――"}
+{"sec": "map:133", "key": "2--", "en": "2--", "ja": "2――"}
+{"sec": "map:133", "key": "And-- poof!", "en": "And-- poof!", "ja": "そして――ぽん!"}
+{"sec": "map:133", "key": "Your files forgot how to be encrypted,", "en": "Your files forgot how to be encrypted, ", "ja": "君のファイルは、暗号化のやり方を忘れてしまい、"}
+{"sec": "map:133", "key": "And learned to spread their glorious truths to the world!", "en": "And learned to spread their glorious truths to the world!", "ja": "代わりに、輝かしい真実を世界に広める術を覚えたのさ!"}
+{"sec": "map:133", "key": "AMARIA: How did you do that?", "en": "AMARIA: How did you do that?", "ja": "アマリア: どうやったの、それ?"}
+{"sec": "map:133", "key": "ACE: I just unzipped them.", "en": "ACE: I just unzipped them.", "ja": "エース: ただ解凍しただけさ。"}
+{"sec": "map:133", "key": "AMARIA: ...", "en": "AMARIA: ...", "ja": "アマリア: ……"}
+{"sec": "map:133", "key": "ACE: Kidding~", "en": "ACE: Kidding~", "ja": "エース: 冗談だよ~"}
+{"sec": "map:133", "key": "ACE: They are yours to explore!", "en": "ACE: They are yours to explore!", "ja": "エース: さあ、好きに調べてくれたまえ!"}
+{"sec": "map:133", "key": "I recognize much of this as the very same data I purged from Mosswater.", "en": "I recognize much of this as the very same data I purged from Mosswater.", "ja": "この中身の多くは、ボクがモスウォーターで消去したのと同じデータだと思うよ。"}
+{"sec": "map:133", "key": "I should've guessed that snake had a backup.", "en": "I should've guessed that snake had a backup.", "ja": "あの蛇野郎がバックアップを取っているって、気づくべきだったな。"}
+{"sec": "map:133", "key": "He must've been planning to turn tail long before the curtain closed for proper.", "en": "He must've been planning to turn tail long before the curtain closed for proper.", "ja": "幕が正式に下りるずっと前から、逃げ出す算段をつけていたに違いない。"}
+{"sec": "map:133", "key": "And now I'm here.", "en": "And now I'm here.", "ja": "そして今、ボクはここにいる。"}
+{"sec": "map:133", "key": "Funny how things work out.", "en": "Funny how things work out.", "ja": "物事って、面白いように転がるものだね。"}
+{"sec": "map:133", "key": "AMARIA: Three other PULSEs...?", "en": "AMARIA: Three other PULSEs...?", "ja": "アマリア: 他に三体のPULSE……?"}
+{"sec": "map:133", "key": "ACE: Hm? Three?", "en": "ACE: Hm? Three?", "ja": "エース: ん? 三体?"}
+{"sec": "map:133", "key": "AMARIA: It says here that there's three more plans underway immediately.", "en": "AMARIA: It says here that there's three more plans underway immediately.", "ja": "アマリア: ここに、他にも三つの計画が今まさに進行中だって書いてあるの。"}
+{"sec": "map:133", "key": "ACE: That's... curious.", "en": "ACE: That's... curious.", "ja": "エース: それは……興味深いね。"}
+{"sec": "map:133", "key": "AMARIA: They're setting one up at Apophyll Beach...", "en": "AMARIA: They're setting one up at Apophyll Beach...", "ja": "アマリア: ひとつはアポフィルビーチに設置しようとしていて……"}
+{"sec": "map:133", "key": "There's one... in Byxbysion Wasteland?", "en": "There's one... in Byxbysion Wasteland?", "ja": "もうひとつは……ビクスビジョン荒地?"}
+{"sec": "map:133", "key": "CAIN: What.", "en": "CAIN: What.", "ja": "カイン: は。"}
+{"sec": "map:133", "key": "AMARIA: And one...", "en": "AMARIA: And one...", "ja": "アマリア: それから、もうひとつ……"}
+{"sec": "map:133", "key": "In the Peridot Ward of Reborn City.", "en": "In the Peridot Ward of Reborn City.", "ja": "リボーンシティのペリドットワードに。"}
+{"sec": "map:133", "key": "But that's just down the stairs--", "en": "But that's just down the stairs--", "ja": "でも、それってすぐ階段の下じゃない――"}
+{"sec": "map:133", "key": "You knew about this?", "en": "You knew about this?", "ja": "知ってたの、これ?"}
+{"sec": "map:133", "key": "ACE: Some of it.", "en": "ACE: Some of it.", "ja": "エース: 一部はね。"}
+{"sec": "map:133", "key": "Surprisingly, not all!", "en": "Surprisingly, not all!", "ja": "意外にも、全部じゃないんだよ!"}
+{"sec": "map:133", "key": "I wonder what else they've kept from me...", "en": "I wonder what else they've kept from me...", "ja": "連中がボクに隠してきたことが、他に何があるんだろうね……"}
+{"sec": "map:133", "key": "CAIN: Hold on--", "en": "CAIN: Hold on--", "ja": "カイン: 待って――"}
+{"sec": "map:133", "key": "Before anything, what about the kids?", "en": "Before anything, what about the kids?", "ja": "その前に、あの子たちはどうなるんだ?"}
+{"sec": "map:133", "key": "I was hoping Anna had hidden some clue on how to rescue them here--", "en": "I was hoping Anna had hidden some clue on how to rescue them here--", "ja": "アンナが、彼らを助け出す手がかりをどこかに隠しておいてくれてないかと思ったんだけど――"}
+{"sec": "map:133", "key": "But what are we going to do about them?", "en": "But what are we going to do about them?", "ja": "でも、あの子たちのことはどうするんだ?"}
+{"sec": "map:133", "key": "ACE: If you want my opinion on the matter--", "en": "ACE: If you want my opinion on the matter--", "ja": "エース: ボクの意見を聞きたいなら――"}
+{"sec": "map:133", "key": "CAIN: And I'm not sure if I do--", "en": "CAIN: And I'm not sure if I do--", "ja": "カイン: 聞きたいかどうか、正直わからないけど――"}
+{"sec": "map:133", "key": "ACE: Don't worry about it!", "en": "ACE: Don't worry about it!", "ja": "エース: 心配いらないさ!"}
+{"sec": "map:133", "key": "CAIN: Five kids just got kidnapped by a terrorist organization and you're saying \"don't worry about it\"?", "en": "CAIN: Five kids just got kidnapped by a terrorist organization and you're saying \"don't worry about it\"?", "ja": "カイン: テロ組織に子供が五人も誘拐されたんだぞ、それで「心配いらない」って?"}
+{"sec": "map:133", "key": "ACE: I was dismissed, but I've still been listening in on their correspondences~", "en": "ACE: I was dismissed, but I've still been listening in on their correspondences~", "ja": "エース: クビにはなったけど、連中のやり取りは今もこっそり盗み聞きしていてね~"}
+{"sec": "map:133", "key": "Turns out that without me, they aren't so big on cybersecurity.", "en": "Turns out that without me, they aren't so big on cybersecurity.", "ja": "ボクがいなくなったら、サイバーセキュリティなんてまるでお粗末なものさ。"}
+{"sec": "map:133", "key": "The kids are being held for that old doctor from the Lapis Ward.", "en": "The kids are being held for that old doctor from the Lapis Ward.", "ja": "あの子たちは、ラピスワードの老医師のために捕らえられているんだ。"}
+{"sec": "map:133", "key": "It's not the most pleasant circumstance, but he has strictly forbidden them from being harmed.", "en": "It's not the most pleasant circumstance, but he has strictly forbidden them from being harmed.", "ja": "快適とは言い難い状況だけど、彼は子供たちを傷つけることを固く禁じている。"}
+{"sec": "map:133", "key": "They'll be safe.", "en": "They'll be safe.", "ja": "安全なはずさ。"}
+{"sec": "map:133", "key": "AMARIA: The more pressing matter is the safety of the people.", "en": "AMARIA: The more pressing matter is the safety of the people.", "ja": "アマリア: それより差し迫った問題は、街の人たちの安全よ。"}
+{"sec": "map:133", "key": "Those PULSE Tangrowth machines ruined entire wards!", "en": "Those PULSE Tangrowth machines ruined entire wards!", "ja": "あのPULSEモジャンボの機械は、ワードをまるごと壊滅させたのよ!"}
+{"sec": "map:133", "key": "If there's another one in the city, we can't just ignore it!", "en": "If there's another one in the city, we can't just ignore it!", "ja": "もしこの街に他にもあるなら、放っておくわけにはいかないわ!"}
+{"sec": "map:133", "key": "ACE: Reasonable.", "en": "ACE: Reasonable.", "ja": "エース: もっともだね。"}
+{"sec": "map:133", "key": "The factory it's housed in isn't far from here.", "en": "The factory it's housed in isn't far from here.", "ja": "それが設置されている工場は、ここから遠くないよ。"}
+{"sec": "map:133", "key": "If you'd like, I can show you how to break in.", "en": "If you'd like, I can show you how to break in.", "ja": "よければ、忍び込む方法を教えてあげよう。"}
+{"sec": "map:133", "key": "AMARIA: Let's not waste any time.", "en": "AMARIA: Let's not waste any time.", "ja": "アマリア: 時間を無駄にはできないわ。"}
+{"sec": "map:133", "key": "All of us together-- are you with me?", "en": "All of us together-- are you with me?", "ja": "みんなで一緒に――協力してくれる?"}
+{"sec": "map:133", "key": "ACE: I'm happy to be the Ace up your sleeve~", "en": "ACE: I'm happy to be the Ace up your sleeve~", "ja": "エース: 喜んで、切り札のエースになろうじゃないか~"}
+{"sec": "map:133", "key": "Besides, I have some questions of my own I'd like to get answers for.", "en": "Besides, I have some questions of my own I'd like to get answers for.", "ja": "それに、ボク自身にも聞きたいことがあるしね。"}
+{"sec": "map:133", "key": "CAIN: I'm worried, but...", "en": "CAIN: I'm worried, but...", "ja": "カイン: 心配だけど……"}
+{"sec": "map:133", "key": "Let's do it.", "en": "Let's do it.", "ja": "やろう。"}
+{"sec": "map:133", "key": "The sooner we shut down those PULSEs, the sooner we can save the others.", "en": "The sooner we shut down those PULSEs, the sooner we can save the others.", "ja": "あのPULSEを早く止められれば、それだけ早く他のみんなを救えるはずだ。"}
+{"sec": "map:133", "key": "ACE: Then let's reconvene at Blacksteam!", "en": "ACE: Then let's reconvene at Blacksteam!", "ja": "エース: なら、ブラックスチームで落ち合おう!"}
+{"sec": "map:133", "key": "It's the factory nearest here, just a jaunt down the stairs and off to the side.", "en": "It's the factory nearest here, just a jaunt down the stairs and off to the side.", "ja": "ここから一番近い工場さ、階段を降りて少し脇へ行くだけだよ。"}
+{"sec": "map:133", "key": "Bring your Ace-game~", "en": "Bring your Ace-game~", "ja": "エースの本領を見せてくれよ~"}
+{"sec": "map:133", "key": "Yes", "en": "Yes", "ja": "はい"}
+{"sec": "map:133", "key": "No", "en": "No", "ja": "いいえ"}

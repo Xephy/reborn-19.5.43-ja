@@ -141,6 +141,10 @@ sync.sh         パッチ一式を実機へ配布
 
 チェックポイントは必ず `apply_batch.py → dejoyo.py → build.py → sync.sh` の順。
 
+リリースは `make_release.py <タグ>` で `dist/` に zip を作り、タグを打って
+GitHub Releases に添付する。zip の中身は `sync.sh` の配布リストから組み立てるので、
+実機へ配るものと配布物が食い違うことはない。
+
 `sync.sh` は Windows 版と Linux（AppImage）版の両方へ配る。
 配布先のパスはスクリプト冒頭の `WIN` / `LIN` を書き換える。
 
@@ -159,6 +163,7 @@ sync.sh         パッチ一式を実機へ配布
 | `build_type_icons.py` | 日本語のタイプアイコンを英語版から生成 |
 | `build_pulsedex_images.py` | 日本語のパルス図鑑ページを英語版から生成 |
 | `recover_from_dat.py` | 既存の .dat から JSONL を復元 |
+| `make_release.py` | 配布用 zip を `sync.sh` の一覧から作る |
 
 ### 書き戻し時の検証
 

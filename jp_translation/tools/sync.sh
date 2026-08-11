@@ -46,6 +46,18 @@ FILES=(
   # fields.dat, which are compiled once and shared by every language.
   "Scripts/FieldNotes.rb"
   "Scripts/Reborn/FieldNoteCompiler.rb"
+  # Messages that never went through _INTL: the message helpers now look the
+  # text up themselves, and the rest are wrapped at the call site.
+  "Scripts/Messages.rb"
+  "Scripts/TextEntry.rb"
+  "Scripts/Options.rb"
+  "Scripts/Storage.rb"
+  "Scripts/Party.rb"
+  "Scripts/PurifyChamber.rb"
+  "Scripts/Updater.rb"
+  "Scripts/Reborn/RebornScripts.rb"
+  "Scripts/Reborn/TrainerSelect.rb"
+  "Scripts/Randomizer/RandomizerUtils.rb"
 )
 
 # Whole directories, mirrored file by file. The type badges have their label

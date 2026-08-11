@@ -1,7 +1,7 @@
 # Pokémon Reborn 19.5.43 日本語化パッチ
 
 Pokémon Reborn（RPG Maker XP / Pokémon Essentials, mkxp-z）の日本語化。
-マップ会話・UI・システムテキストを含む **80,217 / 80,309 行（99.9%）** を翻訳済み。
+マップ会話・UI・システムテキストを含む **80,598 / 80,691 行（99.9%）** を翻訳済み。
 
 **対象バージョン: 19.5.43 専用。** マップIDと行インデックスに依存しているため、
 他のバージョンに当てると内容がずれる。
@@ -10,7 +10,7 @@ Pokémon Reborn（RPG Maker XP / Pokémon Essentials, mkxp-z）の日本語化�
 
 ## 導入
 
-ゲームのインストール先に、次の17ファイルと1ディレクトリを同じ階層構造で上書きコピーする。
+ゲームのインストール先に、次の27ファイルと1ディレクトリを同じ階層構造で上書きコピーする。
 
 ```
 patch/Data/japanese.dat
@@ -30,6 +30,16 @@ Scripts/Battler.rb
 Scripts/BattleData.rb
 Scripts/FieldNotes.rb
 Scripts/Reborn/FieldNoteCompiler.rb
+Scripts/Messages.rb
+Scripts/TextEntry.rb
+Scripts/Options.rb
+Scripts/Storage.rb
+Scripts/Party.rb
+Scripts/PurifyChamber.rb
+Scripts/Updater.rb
+Scripts/Reborn/RebornScripts.rb
+Scripts/Reborn/TrainerSelect.rb
+Scripts/Randomizer/RandomizerUtils.rb
 patch/Graphics/Icons/ja/        （タイプアイコン19枚）
 ```
 
@@ -101,6 +111,33 @@ messages.dat のハッシュを引き直す仕組みになっている。
 アイコンとバトル中の文字表示が食い違うことはない。`???` は訳が原文と同じなので
 生成しない（`ja/` に無ければ英語版にフォールバックする）。
 
+### `_INTL` を通っていない文字列
+
+`messages.dat` に載るのは、スクリプト中の `_INTL("...")` / `_ISPRINTF("...")` の
+**リテラル**をコンパイル時に拾ったものだけ。つまり素の文字列をそのまま
+`Kernel.pbMessage("...")` に渡している箇所は、表にキーが存在せず永久に英語のままになる。
+Reborn には実際にそういう箇所が150件ほどあった。
+
+- `Kernel.pbMessage` / `pbMessageChooseNumber` / `pbMessageFreeText` は、受け取った
+  文字列（と選択肢の配列）を表で引き直すようにした（`Kernel.pbLocalize`）。
+  訳済みの文字列はキーではないのでそのまま返る。これで呼び出し側を触らずに83件を回収できる
+- オプション画面の説明文はオプションに素の文字列として持たせてあるので、
+  テキストボックスへ渡す直前で引く
+- チャンピオン防衛戦の挑戦者のセリフは `$game_variables` に代入されてから
+  `\v[n]` で表示されるので、代入時に `_INTL` を通す
+- 文字列連結や `#{}` で組み立てているものは、どうやってもキーにならないので
+  `_INTL("...{1}...", 変数)` の形に書き換えた
+
+追加したキーは `work/src/22c_system_texts.jsonl`（セクション22）。
+
+同じ理由で、`Data/fields.dat` に焼き込まれているバトル中のフィールドメッセージ
+（フィールド発動時の一文、わざ・タイプが強化／弱体化されたときの一文、フィールドが
+変化したときの一文）も表にキーが無く英語のままだった。これは `_INTL(変数)` の形で
+表示されているので、キーを `work/src/22d_field_messages.jsonl` に足すだけで直る。
+229件。言い回しは旧版の館内資料（map_0428）に合わせてある。
+同じ検査は `python3 jp_translation/tools/find_untranslated.py` で再現できる。
+Reborn が更新されたときはこれを走らせれば、英語のまま残る箇所が一覧で出る。
+
 ### 一度だけコンパイルされるデータ（フィールドノート）
 
 フィールドノートの本文は `Scripts/Reborn/FieldNoteCompiler.rb` の中の英語リテラルで、
@@ -129,6 +166,7 @@ Ruby で確認済み）。
 | Twitch Plays Pokémon パロディの入力コマンド列 | 4 |
 | ラテン語の銘（`Tempus rerum imperator.` 等） | 3 |
 | 伏せ字・顔文字・略号（`XXXXXxxxx`, `:wink:`, `LCCC`） | 4 |
+| フィールドの文字化け演出（`.0P pl$ nerf!-//`） | 1 |
 
 ---
 
@@ -155,6 +193,7 @@ sync.sh         パッチ一式を実機へ配布
 | `make_batch.py` / `apply_batch.py` | 翻訳バッチの発行と書き戻し |
 | `dejoyo.py` | 常用外漢字の正規化。残ったものは報告して exit 1 |
 | `check_joyo.py` | 常用漢字チェック |
+| `find_untranslated.py` | 表を通らず英語のまま出る文字列を検出 |
 | `fitcheck.py` / `fit_lines.py` | メッセージウィンドウ幅の検証と自動改行 |
 | `build_glossary.py` | ゲームデータから公式日本語名の用語集を生成 |
 | `build_type_icons.py` | 日本語のタイプアイコンを英語版から生成 |
@@ -216,5 +255,5 @@ sync.sh         パッチ一式を実機へ配布
 リポジトリのルートはゲームのインストール先そのもの。`.gitignore` はホワイトリスト方式で、
 `/*` で全体を除外してから必要なパスだけを戻している。ゲーム本体（Audio / Graphics /
 Data / エンジンDLL）は含まれない。`Scripts/` もディレクトリごとではなく、改変した
-15ファイルだけを名指しで許可している。ルートに新しいファイルを置くときは
+25ファイルだけを名指しで許可している。ルートに新しいファイルを置くときは
 `.gitignore` に `!` 付きで追記しないと無視されるので注意。

@@ -1,0 +1,153 @@
+{"sec": 22, "key": "AME: So, you want {1}, the {2} Pokémon?", "en": "AME: So, you want {1}, the {2} Pokémon?", "ja": "アメ: それじゃ、{2}ポケモンの{1}でいいのね?"}
+{"sec": 22, "key": "Adjusts textbox height according to text.", "en": "Adjusts textbox height according to text.", "ja": "文章の量に合わせてテキストボックスの高さを変える。"}
+{"sec": 22, "key": "Ahah... That's okay! Next time, your title is as good as mine!", "en": "Ahah... That's okay! Next time, your title is as good as mine!", "ja": "あはは……いいんです! 次はそのタイトル、わたしがいただきますから!"}
+{"sec": 22, "key": "All passwords included in this passwordpack are already turned on. Do you want to turn all of them off?", "en": "All passwords included in this passwordpack are already turned on. Do you want to turn all of them off?", "ja": "このパスワードパックのパスワードはすべて有効になっている。すべて無効にしますか?"}
+{"sec": 22, "key": "Allows turbo speed to go beyond refresh rate by skipping frames.", "en": "Allows turbo speed to go beyond refresh rate by skipping frames.", "ja": "フレームを間引いて、ターボ速度をリフレッシュレート以上に上げる。"}
+{"sec": 22, "key": "Are you sure you want to quit?", "en": "Are you sure you want to quit?", "ja": "本当に終了しますか?"}
+{"sec": 22, "key": "Are you sure you wish to overwrite the data in \\\\Randomizer Data\\\\\\c[0]?\nThe data will be lost forever \\\r(a long time!) \\c[0]and may \\\raffect other saves!", "en": "Are you sure you wish to overwrite the data in \\\\Randomizer Data\\\\\\c[0]?\nThe data will be lost forever \\\r(a long time!) \\c[0]and may \\\raffect other saves!", "ja": "\\\\Randomizer Data\\\\\\c[0]のデータを上書きしますか?\nデータは永久に失われ \\\n(とても長い間!) \\c[0]他のセーブデータにも \\\n影響するかもしれない!"}
+{"sec": 22, "key": "Audio plays from both or one ear", "en": "Audio plays from both or one ear", "ja": "音を両耳で鳴らすか、片方だけで鳴らすか。"}
+{"sec": 22, "key": "Awwhh, after I already swept all of the other E4, too?", "en": "Awwhh, after I already swept all of the other E4, too?", "ja": "えぇー、ほかのエリートフォーは全員なぎ倒したのに?"}
+{"sec": 22, "key": "Awwhhh, are you done with me already?", "en": "Awwhhh, are you done with me already?", "ja": "えぇ〜、もうオレとはおしまいなのぉ?"}
+{"sec": 22, "key": "Boo.", "en": "Boo.", "ja": "ちぇっ。"}
+{"sec": 22, "key": "Buck up and get your game face on! I've made it this far, so I don't want anything less than your best!", "en": "Buck up and get your game face on! I've made it this far, so I don't want anything less than your best!", "ja": "しゃんとして本気の顔を見せろよ! オレはここまで来たんだ、全力以外は認めねえぞ!"}
+{"sec": 22, "key": "Can't Multi-Move a Pokémon from your party.", "en": "Can't Multi-Move a Pokémon from your party.", "ja": "手持ちのポケモンはまとめてうごかせない。"}
+{"sec": 22, "key": "Can't Multi-Move while holding a Pokémon.", "en": "Can't Multi-Move while holding a Pokémon.", "ja": "ポケモンを持っている間はまとめてうごかせない。"}
+{"sec": 22, "key": "Choose a field to face your challenger on.", "en": "Choose a field to face your challenger on.", "ja": "挑戦者と戦うフィールドを選んでください。"}
+{"sec": 22, "key": "Choose destination...", "en": "Choose destination...", "ja": "行き先を選んでください..."}
+{"sec": 22, "key": "Choose whether to be prompted to give a nickname to a Pokémon when you obtain it.", "en": "Choose whether to be prompted to give a nickname to a Pokémon when you obtain it.", "ja": "ポケモンを手に入れたとき、ニックネームをつけるか聞くかどうか。"}
+{"sec": 22, "key": "Clear multiselection", "en": "Clear multiselection", "ja": "複数選択を解除"}
+{"sec": 22, "key": "Connecting to server...\n(Press C / Enter / Space)", "en": "Connecting to server...\n(Press C / Enter / Space)", "ja": "サーバーに接続中...\n(C / Enter / スペースキーを押す)"}
+{"sec": 22, "key": "Connection successful.", "en": "Connection successful.", "ja": "接続に成功した。"}
+{"sec": 22, "key": "Continue viewing holograms?", "en": "Continue viewing holograms?", "ja": "ホログラムを見続けますか?"}
+{"sec": 22, "key": "Controls Discord rich presence. If on, shows game info on Discord.", "en": "Controls Discord rich presence. If on, shows game info on Discord.", "ja": "Discord連携の設定。オンにするとゲームの情報をDiscordに表示する。"}
+{"sec": 22, "key": "Disables animated tiles and day/night tint to prevent lag. Requires a reload to take effect.", "en": "Disables animated tiles and day/night tint to prevent lag. Requires a reload to take effect.", "ja": "動くタイルと昼夜の色調を無効にして処理落ちを防ぐ。反映には再読み込みが必要。"}
+{"sec": 22, "key": "Disables battle animations, screen flashes and shakes for photosensitivity.", "en": "Disables battle animations, screen flashes and shakes for photosensitivity.", "ja": "光過敏の人のために、戦闘アニメと画面の点滅・振動を無効にする。"}
+{"sec": 22, "key": "Disconnected from the server.", "en": "Disconnected from the server.", "ja": "サーバーとの接続が切れた。"}
+{"sec": 22, "key": "Do you allow wonder-traded Pokémon to hold their nicknames?", "en": "Do you allow wonder-traded Pokémon to hold their nicknames?", "ja": "ワンダートレードで来たポケモンのニックネームをそのままにしますか?"}
+{"sec": 22, "key": "Doubles", "en": "Doubles", "ja": "ダブル"}
+{"sec": 22, "key": "Eggs only", "en": "Eggs only", "ja": "タマゴのみ"}
+{"sec": 22, "key": "Enables a delay before text skipping begins.", "en": "Enables a delay before text skipping begins.", "ja": "テキストスキップが始まるまでに少し待つ。"}
+{"sec": 22, "key": "Enables bike and surf music to play", "en": "Enables bike and surf music to play", "ja": "自転車となみのりの音楽を鳴らす"}
+{"sec": 22, "key": "Exit and save selected settings.", "en": "Exit and save selected settings.", "ja": "設定を保存して終了する。"}
+{"sec": 22, "key": "Expect me back some day. Self improvement isn't something one can just stop working at.", "en": "Expect me back some day. Self improvement isn't something one can just stop working at.", "ja": "またいつか来る。自分を鍛えることに、終わりはないからな。"}
+{"sec": 22, "key": "Game speed multiplier while in Turbo Mode. Higher values require Frame skip to work.", "en": "Game speed multiplier while in Turbo Mode. Higher values require Frame skip to work.", "ja": "ターボモード中のゲーム速度の倍率。高い値にはフレームスキップが必要。"}
+{"sec": 22, "key": "Go inside to update the events.", "en": "Go inside to update the events.", "ja": "イベントを更新するには中に入ること。"}
+{"sec": 22, "key": "Good. That's a performance to be proud of.", "en": "Good. That's a performance to be proud of.", "ja": "よし。誇っていい戦いぶりだったわ。"}
+{"sec": 22, "key": "Hah! You did all right this time, but you better not get comfy!", "en": "Hah! You did all right this time, but you better not get comfy!", "ja": "ハッ! 今回はまあまあだったな。だが調子に乗るなよ!"}
+{"sec": 22, "key": "Hah. Fair enough. Good show.", "en": "Hah. Fair enough. Good show.", "ja": "ハッ。納得だ。いい戦いだった。"}
+{"sec": 22, "key": "Hello again, Champion. I know we just fought... but I've got something different I'd like to try.", "en": "Hello again, Champion. I know we just fought... but I've got something different I'd like to try.", "ja": "また会ったね、チャンピオン。戦ったばかりだけど……ちょっと違うことを試してみたいんだ。"}
+{"sec": 22, "key": "Hello, Champion! I'm here for a routine inspection for the sake of the League... And by that I mean, put 'em up!", "en": "Hello, Champion! I'm here for a routine inspection for the sake of the League... And by that I mean, put 'em up!", "ja": "こんにちは、チャンピオン! リーグのための定期検査に来ました……つまり、構えてください!"}
+{"sec": 22, "key": "Hey! You already beat me once, but I got bored since then so you better be ready for take-off time 2!", "en": "Hey! You already beat me once, but I got bored since then so you better be ready for take-off time 2!", "ja": "ねぇ! 一度は負けたけど、あれから退屈しちゃって。第2回・離陸のお時間、覚悟しなさいよ!"}
+{"sec": 22, "key": "Hey, bet you never thought you'd see me here! I've got a lot of lost time to make up for, so I'm gonna do my best!", "en": "Hey, bet you never thought you'd see me here! I've got a lot of lost time to make up for, so I'm gonna do my best!", "ja": "ねぇ、ここでわたしに会うなんて思わなかったでしょ! 遅れを取り戻さなきゃいけないから、全力でいくよ!"}
+{"sec": 22, "key": "Hey, take care of yourself, okay? I can't have you losing before I beat you!", "en": "Hey, take care of yourself, okay? I can't have you losing before I beat you!", "ja": "あの、体に気をつけてくださいね? わたしが勝つ前に負けられたら困りますから!"}
+{"sec": 22, "key": "Hey, thought you could use help warming this place up. What do you say, wanna redecorate?", "en": "Hey, thought you could use help warming this place up. What do you say, wanna redecorate?", "ja": "ねぇ、ここを暖めるのに手を貸そうかと思って。どう、模様替えしない?"}
+{"sec": 22, "key": "Heyyyyy Champ, thought you might be bored!", "en": "Heyyyyy Champ, thought you might be bored!", "ja": "やっほ〜チャンピオン、退屈してるんじゃないかと思ってさぁ!"}
+{"sec": 22, "key": "Hides private information for safety and compatibility.", "en": "Hides private information for safety and compatibility.", "ja": "安全性と互換性のために個人情報を隠す。"}
+{"sec": 22, "key": "I can come back, right? You'd better be ready for me next time!", "en": "I can come back, right? You'd better be ready for me next time!", "ja": "また来てもいいよね? 次は覚悟しといてよ!"}
+{"sec": 22, "key": "I finally made it! You, and my brother, and everyone else... I'm gonna prove how strong I can be now!", "en": "I finally made it! You, and my brother, and everyone else... I'm gonna prove how strong I can be now!", "ja": "ついにここまで来ました! あなたにも、兄さんにも、みんなにも……わたしがどれだけ強くなれたか、証明してみせます!"}
+{"sec": 22, "key": "I guess you've got it handled. Maybe I'll come back around sometime.", "en": "I guess you've got it handled. Maybe I'll come back around sometime.", "ja": "ちゃんとやれてるみたいだね。またそのうち顔を出すかも。"}
+{"sec": 22, "key": "I'll be back next time I drop in on my sister. Stay sharp.", "en": "I'll be back next time I drop in on my sister. Stay sharp.", "ja": "姉さんのところに寄るとき、また来るわ。気を抜かないで。"}
+{"sec": 22, "key": "I'll see you around. The top dog? Doesn't stay down long.", "en": "I'll see you around. The top dog? Doesn't stay down long.", "ja": "またな。トップに立つ男は、そう長くは沈まねえんだよ。"}
+{"sec": 22, "key": "I'm so excited I could make it this far!", "en": "I'm so excited I could make it this far!", "ja": "ここまで来られて、すごくうれしい!"}
+{"sec": 22, "key": "Include eggs in the search?", "en": "Include eggs in the search?", "ja": "検索にタマゴを含めますか?"}
+{"sec": 22, "key": "Invalid version.", "en": "Invalid version.", "ja": "バージョンが正しくない。"}
+{"sec": 22, "key": "It feels good to be keenly aware of my standing. Thank you for the extra time.", "en": "It feels good to be keenly aware of my standing. Thank you for the extra time.", "ja": "自分の立ち位置がはっきり分かるのは気持ちがいいね。時間を取ってくれてありがとう。"}
+{"sec": 22, "key": "It was probably inevitable that we'd find ourselves here. Let's make sure you haven't gone soft.", "en": "It was probably inevitable that we'd find ourselves here. Let's make sure you haven't gone soft.", "ja": "こうなるのは避けられなかったんでしょうね。あなたが鈍っていないか、確かめさせてもらうわ。"}
+{"sec": 22, "key": "It's good to do this on our own terms! Just like so long ago, right?", "en": "It's good to do this on our own terms! Just like so long ago, right?", "ja": "こうして自分たちのやり方で戦えるのはいいですね! ずっと昔と同じように、でしょう?"}
+{"sec": 22, "key": "It's good to see that the future is in good hands. I look forward to being a part of it alongside you~", "en": "It's good to see that the future is in good hands. I look forward to being a part of it alongside you~", "ja": "未来が確かな手にゆだねられていると分かって安心したよ。君と共にその一部でいられるのが楽しみだ〜"}
+{"sec": 22, "key": "It's surreal to see you here. Surreal to be here. How about it, then?", "en": "It's surreal to see you here. Surreal to be here. How about it, then?", "ja": "お前がここにいるのは不思議な気分だ。俺がここにいるのもな。それで、やるか?"}
+{"sec": 22, "key": "Keeps save data in the game EXE folder.", "en": "Keeps save data in the game EXE folder.", "ja": "セーブデータをゲームのEXEと同じフォルダに保存する。"}
+{"sec": 22, "key": "Logging in...\n(Press C / Enter / Space)", "en": "Logging in...\n(Press C / Enter / Space)", "ja": "ログイン中...\n(C / Enter / スペースキーを押す)"}
+{"sec": 22, "key": "Login attempt timeout.", "en": "Login attempt timeout.", "ja": "ログインがタイムアウトした。"}
+{"sec": 22, "key": "Login was successful!", "en": "Login was successful!", "ja": "ログインに成功した!"}
+{"sec": 22, "key": "Mass Release", "en": "Mass Release", "ja": "まとめてにがす"}
+{"sec": 22, "key": "Move multiselection", "en": "Move multiselection", "ja": "複数選択を移動"}
+{"sec": 22, "key": "Next week's weather: blizzard", "en": "Next week's weather: blizzard", "ja": "来週の天気: ふぶき"}
+{"sec": 22, "key": "Next week's weather: chilly", "en": "Next week's weather: chilly", "ja": "来週の天気: 冷え込み"}
+{"sec": 22, "key": "Next week's weather: dry spell", "en": "Next week's weather: dry spell", "ja": "来週の天気: 日照り"}
+{"sec": 22, "key": "Next week's weather: showers", "en": "Next week's weather: showers", "ja": "来週の天気: にわか雨"}
+{"sec": 22, "key": "Next week's weather: variety", "en": "Next week's weather: variety", "ja": "来週の天気: 変わりやすい"}
+{"sec": 22, "key": "Next week's weather: wet", "en": "Next week's weather: wet", "ja": "来週の天気: 雨がち"}
+{"sec": 22, "key": "No eggs", "en": "No eggs", "ja": "タマゴを除く"}
+{"sec": 22, "key": "No space left in the PC", "en": "No space left in the PC", "ja": "パソコンに空きがない"}
+{"sec": 22, "key": "No space left in the PC.", "en": "No space left in the PC.", "ja": "パソコンに空きがない。"}
+{"sec": 22, "key": "Not bad. I can live with this.", "en": "Not bad. I can live with this.", "ja": "悪くないわ。これで納得しておく。"}
+{"sec": 22, "key": "Note: The game has detected you were previously playing a randomizer. Your old randomizer data will no longer function.", "en": "Note: The game has detected you were previously playing a randomizer. Your old randomizer data will no longer function.", "ja": "注意: 以前ランダマイザーで遊んでいたことを検出した。古いランダマイザーのデータはもう使えない。"}
+{"sec": 22, "key": "Okay, Champion! You're in your palace at the Hall of Champions! Show me the true spirit of Reborn's Champion!", "en": "Okay, Champion! You're in your palace at the Hall of Champions! Show me the true spirit of Reborn's Champion!", "ja": "さあ、チャンピオン! ここは君の城、チャンピオンの間だ! リボーンのチャンピオンの真髄を見せてくれ!"}
+{"sec": 22, "key": "Okayyyy, maybe I'll drop in again sometime. Try not to miss me too much?", "en": "Okayyyy, maybe I'll drop in again sometime. Try not to miss me too much?", "ja": "はいはぁ〜い、またそのうち寄らせてもらうよぉ。オレがいなくて寂しがりすぎないでね?"}
+{"sec": 22, "key": "Only works outside.", "en": "Only works outside.", "ja": "外でしか使えない。"}
+{"sec": 22, "key": "Other player disconnected.", "en": "Other player disconnected.", "ja": "相手プレイヤーの接続が切れた。"}
+{"sec": 22, "key": "Pick a team to fight.", "en": "Pick a team to fight.", "ja": "戦う相手のチームを選んでください。"}
+{"sec": 22, "key": "Preserves overwritten files on each save for later recovery.", "en": "Preserves overwritten files on each save for later recovery.", "ja": "セーブのたびに上書き前のファイルを残し、あとから復元できるようにする。"}
+{"sec": 22, "key": "Registration was successful!", "en": "Registration was successful!", "ja": "登録が完了しました!"}
+{"sec": 22, "key": "Remember to take regular breaks!", "en": "Remember to take regular breaks!", "ja": "ときどき休憩を取りましょう!"}
+{"sec": 22, "key": "Save failed.", "en": "Save failed.", "ja": "セーブに失敗した。"}
+{"sec": 22, "key": "Saved the game!", "en": "Saved the game!", "ja": "ゲームをセーブした!"}
+{"sec": 22, "key": "Select weather type", "en": "Select weather type", "ja": "天気の種類を選ぶ"}
+{"sec": 22, "key": "Seriously, they should just put me as the last one already. Anyway, good game! Next time you're mine though!!!", "en": "Seriously, they should just put me as the last one already. Anyway, good game! Next time you're mine though!!!", "ja": "ホント、もうアタシを最後に置けばいいのに。まあいいや、いい勝負だった! でも次はアタシのものだからね!!!"}
+{"sec": 22, "key": "Server is not online or your internet connection has a problem.", "en": "Server is not online or your internet connection has a problem.", "ja": "サーバーがオフラインか、インターネット接続に問題があります。"}
+{"sec": 22, "key": "Sets default position of cursor in battle.", "en": "Sets default position of cursor in battle.", "ja": "戦闘中のカーソルの初期位置を設定する。"}
+{"sec": 22, "key": "Sets the rate at which unreal time passes.", "en": "Sets the rate at which unreal time passes.", "ja": "アンリアルタイムの進む速さを設定する。"}
+{"sec": 22, "key": "Show animations during battle.", "en": "Show animations during battle.", "ja": "戦闘中にアニメを表示する。"}
+{"sec": 22, "key": "Shows an in-game clock that displays the current time.", "en": "Shows an in-game clock that displays the current time.", "ja": "現在の時刻を示すゲーム内の時計を表示する。"}
+{"sec": 22, "key": "Shows boxes around move if boosted or decreased by field effect.", "en": "Shows boxes around move if boosted or decreased by field effect.", "ja": "フィールド効果で威力が上下するわざを枠で囲んで示す。"}
+{"sec": 22, "key": "Singles", "en": "Singles", "ja": "シングル"}
+{"sec": 22, "key": "Skip battle?", "en": "Skip battle?", "ja": "バトルをスキップしますか?"}
+{"sec": 22, "key": "So that's how it measures up then.", "en": "So that's how it measures up then.", "ja": "なるほど、これが実力の差というわけですか。"}
+{"sec": 22, "key": "Some passwords included in this paswordpack are already applied, all will be applied now.", "en": "Some passwords included in this paswordpack are already applied, all will be applied now.", "ja": "このパスワードパックの一部はすでに適用されています。まとめてすべて適用します。"}
+{"sec": 22, "key": "Something has gone wrong. It might be possible that you've both challenged each other instead of one waiting for a challenge.", "en": "Something has gone wrong. It might be possible that you've both challenged each other instead of one waiting for a challenge.", "ja": "問題が発生しました。どちらかが待つのではなく、お互いに申し込んでしまった可能性があります。"}
+{"sec": 22, "key": "Surprise.", "en": "Surprise.", "ja": "驚いた?"}
+{"sec": 22, "key": "The 'No Items' password is on, so items can't be used in battle.", "en": "The 'No Items' password is on, so items can't be used in battle.", "ja": "「どうぐ禁止」のパスワードが有効なので、バトルで道具は使えません。"}
+{"sec": 22, "key": "The Plot forbids this right now.", "en": "The Plot forbids this right now.", "ja": "今はストーリーの都合でできない。"}
+{"sec": 22, "key": "The email you entered has already been used to register an account, you can only have one acount per email.", "en": "The email you entered has already been used to register an account, you can only have one acount per email.", "ja": "入力したメールアドレスはすでに登録に使われています。1つのメールアドレスにつきアカウントは1つだけです。"}
+{"sec": 22, "key": "The game has finished generating your randomizer files.", "en": "The game has finished generating your randomizer files.", "ja": "ランダマイザーのファイルの生成が完了しました。"}
+{"sec": 22, "key": "The game will now generate your randomizer files.", "en": "The game will now generate your randomizer files.", "ja": "これからランダマイザーのファイルを生成します。"}
+{"sec": 22, "key": "The maximum number of backup save files to keep. (101 is infinite)", "en": "The maximum number of backup save files to keep. (101 is infinite)", "ja": "残しておくバックアップの最大数。(101で無制限)"}
+{"sec": 22, "key": "The password entered is incorrect.", "en": "The password entered is incorrect.", "ja": "入力したパスワードが違います。"}
+{"sec": 22, "key": "The password you entered does not match, please try again.", "en": "The password you entered does not match, please try again.", "ja": "入力したパスワードが一致しません。もう一度入力してください。"}
+{"sec": 22, "key": "The server is full; please try again later.", "en": "The server is full; please try again later.", "ja": "サーバーが満員です。しばらくしてからもう一度お試しください。"}
+{"sec": 22, "key": "The trade partner is using a different game.", "en": "The trade partner is using a different game.", "ja": "交換相手は別のゲームをプレイしています。"}
+{"sec": 22, "key": "The trade partner is using a different version of the game.", "en": "The trade partner is using a different version of the game.", "ja": "交換相手は別のバージョンのゲームをプレイしています。"}
+{"sec": 22, "key": "The user exited the trade.", "en": "The user exited the trade.", "ja": "相手が交換を中断しました。"}
+{"sec": 22, "key": "The username entered does not exist.", "en": "The username entered does not exist.", "ja": "入力したユーザー名は存在しません。"}
+{"sec": 22, "key": "The username is already taken, please try a different username.", "en": "The username is already taken, please try a different username.", "ja": "そのユーザー名はすでに使われています。別のユーザー名を入力してください。"}
+{"sec": 22, "key": "The username you entered does not match, please try again.", "en": "The username you entered does not match, please try again.", "ja": "入力したユーザー名が一致しません。もう一度入力してください。"}
+{"sec": 22, "key": "The weather has been set.", "en": "The weather has been set.", "ja": "天気を設定した。"}
+{"sec": 22, "key": "There is not enough space here.", "en": "There is not enough space here.", "ja": "ここには十分な空きがない。"}
+{"sec": 22, "key": "There it is! The Champion keeps the throne another day!", "en": "There it is! The Champion keeps the throne another day!", "ja": "それだよ! チャンピオンは今日も王座を守り抜いたね!"}
+{"sec": 22, "key": "This Pokémon is holding an item. Do you want to remove it?", "en": "This Pokémon is holding an item. Do you want to remove it?", "ja": "このポケモンは道具を持っている。外しますか?"}
+{"sec": 22, "key": "This account has been banned.", "en": "This account has been banned.", "ja": "このアカウントは利用停止されています。"}
+{"sec": 22, "key": "This account is already logged in.", "en": "This account is already logged in.", "ja": "このアカウントはすでにログインしています。"}
+{"sec": 22, "key": "To be honest, I just wanted an excuse to get out of the office. You won't mind if I come back around, right?", "en": "To be honest, I just wanted an excuse to get out of the office. You won't mind if I come back around, right?", "ja": "正直に言うと、オフィスを抜け出す口実がほしかっただけなんです。また来てもいいですよね?"}
+{"sec": 22, "key": "Uses in-game time instead of computer clock.", "en": "Uses in-game time instead of computer clock.", "ja": "パソコンの時計ではなくゲーム内の時間を使う。"}
+{"sec": 22, "key": "Well, that's enough of a distraction. I have work to get back to.", "en": "Well, that's enough of a distraction. I have work to get back to.", "ja": "さて、気晴らしはここまで。あたしは仕事に戻るわ。"}
+{"sec": 22, "key": "What do you want to find?", "en": "What do you want to find?", "ja": "何を探しますか?"}
+{"sec": 22, "key": "What team should {1} use?", "en": "What team should {1} use?", "ja": "{1}にはどのチームを使わせますか?"}
+{"sec": 22, "key": "Which form would you like to view?", "en": "Which form would you like to view?", "ja": "どのすがたを表示しますか?"}
+{"sec": 22, "key": "Which gender would you like to view?", "en": "Which gender would you like to view?", "ja": "どちらの性別を表示しますか?"}
+{"sec": 22, "key": "Which one of {1}'s teams would you like to face?", "en": "Which one of {1}'s teams would you like to face?", "ja": "{1}のどのチームと戦いますか?"}
+{"sec": 22, "key": "Which sprite would you like to view?", "en": "Which sprite would you like to view?", "ja": "どのスプライトを表示しますか?"}
+{"sec": 22, "key": "Would you like to re-randomize your game?", "en": "Would you like to re-randomize your game?", "ja": "ゲームをもう一度ランダマイズしますか?"}
+{"sec": 22, "key": "Would you like to switch sets?", "en": "Would you like to switch sets?", "ja": "セットを切り替えますか?"}
+{"sec": 22, "key": "You can enable and adjust unreal time in Options menu.", "en": "You can enable and adjust unreal time in Options menu.", "ja": "アンリアルタイムはオプションで有効にしたり調整したりできます。"}
+{"sec": 22, "key": "You can't return a Pokémon that knows a TMX move to the PC.", "en": "You can't return a Pokémon that knows a TMX move to the PC.", "ja": "ひでんマシンのわざを覚えたポケモンはパソコンに戻せない。"}
+{"sec": 22, "key": "You cannot battle with yourself.", "en": "You cannot battle with yourself.", "ja": "自分自身とは対戦できません。"}
+{"sec": 22, "key": "You cannot trade with yourself.", "en": "You cannot trade with yourself.", "ja": "自分自身とは交換できません。"}
+{"sec": 22, "key": "You haven't found any Coins! Are you sure you want to quit?", "en": "You haven't found any Coins! Are you sure you want to quit?", "ja": "コインを1枚も見つけていない! 本当にやめますか?"}
+{"sec": 22, "key": "You lost the battle.", "en": "You lost the battle.", "ja": "バトルに負けた。"}
+{"sec": 22, "key": "You need to be able to use the first Pokémon in your party.", "en": "You need to be able to use the first Pokémon in your party.", "ja": "手持ちの1番目のポケモンが使える状態でなければならない。"}
+{"sec": 22, "key": "You will still be unable to access any online features. Are you sure you wish to continue without randomizing?", "en": "You will still be unable to access any online features. Are you sure you wish to continue without randomizing?", "ja": "それでもオンライン機能は使えません。ランダマイズせずに続けますか?"}
+{"sec": 22, "key": "You won the battle.", "en": "You won the battle.", "ja": "バトルに勝った。"}
+{"sec": 22, "key": "Your IP has been banned.", "en": "Your IP has been banned.", "ja": "このIPアドレスは利用停止されています。"}
+{"sec": 22, "key": "Your opponent either declined or did not respond.", "en": "Your opponent either declined or did not respond.", "ja": "相手が断ったか、応答しませんでした。"}
+{"sec": 22, "key": "Your version is outdated; please download the latest version.", "en": "Your version is outdated; please download the latest version.", "ja": "バージョンが古いです。最新のバージョンをダウンロードしてください。"}
+{"sec": 22, "key": "\\se[]{1} {2}%\\wtnp[0]", "en": "\\se[]{1} {2}%\\wtnp[0]", "ja": "\\se[]{1} {2}%\\wtnp[0]"}
+{"sec": 22, "key": "{1} to {2} is empty.", "en": "{1} to {2} is empty.", "ja": "{1}から{2}までは空だ。"}
+{"sec": 22, "key": "{1} to {2} was sorted.", "en": "{1} to {2} was sorted.", "ja": "{1}から{2}までを並べ替えた。"}
+{"sec": 22, "key": "The Magical Seed shielded {1} against damage!", "en": "The Magical Seed shielded {1} against damage!", "ja": "マジカルシードが {1}への ダメージを 防いだ!"}
+{"sec": 22, "key": "The Telluric Seed shielded {1} against damage!", "en": "The Telluric Seed shielded {1} against damage!", "ja": "テルリックシードが {1}への ダメージを 防いだ!"}
+{"sec": 22, "key": "{1} accepts the crowd's help!", "en": "{1} accepts the crowd's help!", "ja": "{1}は 観客の 声援を 受けた!"}
+{"sec": 22, "key": "{1} primed a trap!", "en": "{1} primed a trap!", "ja": "{1}は わなを しかけた!"}
+{"sec": 22, "key": "{1} raised its Fire power!", "en": "{1} raised its Fire power!", "ja": "{1}は ほのおの 力を 高めた!"}
+{"sec": 22, "key": "{1} transformed into the Water type!", "en": "{1} transformed into the Water type!", "ja": "{1}は みずタイプに 変化した!"}
+{"sec": 22, "key": "{1}'s Telluric Seed is getting it pumped!", "en": "{1}'s Telluric Seed is getting it pumped!", "ja": "{1}の テルリックシードで 気合が 入った!"}

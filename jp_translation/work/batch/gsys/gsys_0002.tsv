@@ -1,0 +1,66 @@
+22c_system_texts#80		Preserves overwritten files on each save for later recovery.
+22c_system_texts#81		Registration was successful!
+22c_system_texts#82		Remember to take regular breaks!
+22c_system_texts#83		Save failed.
+22c_system_texts#84		Saved the game!
+22c_system_texts#85		Select weather type
+22c_system_texts#86		Seriously, they should just put me as the last one already. Anyway, good game! Next time you're mine though!!!
+22c_system_texts#87		Server is not online or your internet connection has a problem.
+22c_system_texts#88		Sets default position of cursor in battle.
+22c_system_texts#89		Sets the rate at which unreal time passes.
+22c_system_texts#90		Show animations during battle.
+22c_system_texts#91		Shows an in-game clock that displays the current time.
+22c_system_texts#92		Shows boxes around move if boosted or decreased by field effect.
+22c_system_texts#93		Singles
+22c_system_texts#94		Skip battle?
+22c_system_texts#95		So that's how it measures up then.
+22c_system_texts#96		Some passwords included in this paswordpack are already applied, all will be applied now.
+22c_system_texts#97		Something has gone wrong. It might be possible that you've both challenged each other instead of one waiting for a challenge.
+22c_system_texts#98		Surprise.
+22c_system_texts#99		The 'No Items' password is on, so items can't be used in battle.
+22c_system_texts#100		The Plot forbids this right now.
+22c_system_texts#101		The email you entered has already been used to register an account, you can only have one acount per email.
+22c_system_texts#102		The game has finished generating your randomizer files.
+22c_system_texts#103		The game will now generate your randomizer files.
+22c_system_texts#104		The maximum number of backup save files to keep. (101 is infinite)
+22c_system_texts#105		The password entered is incorrect.
+22c_system_texts#106		The password you entered does not match, please try again.
+22c_system_texts#107		The server is full; please try again later.
+22c_system_texts#108		The trade partner is using a different game.
+22c_system_texts#109		The trade partner is using a different version of the game.
+22c_system_texts#110		The user exited the trade.
+22c_system_texts#111		The username entered does not exist.
+22c_system_texts#112		The username is already taken, please try a different username.
+22c_system_texts#113		The username you entered does not match, please try again.
+22c_system_texts#114		The weather has been set.
+22c_system_texts#115		There is not enough space here.
+22c_system_texts#116		There it is! The Champion keeps the throne another day!
+22c_system_texts#117		This Pokémon is holding an item. Do you want to remove it?
+22c_system_texts#118		This account has been banned.
+22c_system_texts#119		This account is already logged in.
+22c_system_texts#120		To be honest, I just wanted an excuse to get out of the office. You won't mind if I come back around, right?
+22c_system_texts#121		Uses in-game time instead of computer clock.
+22c_system_texts#122		Well, that's enough of a distraction. I have work to get back to.
+22c_system_texts#123		What do you want to find?
+22c_system_texts#124		What team should {1} use?
+22c_system_texts#125		Which form would you like to view?
+22c_system_texts#126		Which gender would you like to view?
+22c_system_texts#127		Which one of {1}'s teams would you like to face?
+22c_system_texts#128		Which sprite would you like to view?
+22c_system_texts#129		Would you like to re-randomize your game?
+22c_system_texts#130		Would you like to switch sets?
+22c_system_texts#131		You can enable and adjust unreal time in Options menu.
+22c_system_texts#132		You can't return a Pokémon that knows a TMX move to the PC.
+22c_system_texts#133		You cannot battle with yourself.
+22c_system_texts#134		You cannot trade with yourself.
+22c_system_texts#135		You haven't found any Coins! Are you sure you want to quit?
+22c_system_texts#136		You lost the battle.
+22c_system_texts#137		You need to be able to use the first Pokémon in your party.
+22c_system_texts#138		You will still be unable to access any online features. Are you sure you wish to continue without randomizing?
+22c_system_texts#139		You won the battle.
+22c_system_texts#140		Your IP has been banned.
+22c_system_texts#141		Your opponent either declined or did not respond.
+22c_system_texts#142		Your version is outdated; please download the latest version.
+22c_system_texts#143		\se[]{1} {2}%\wtnp[0]
+22c_system_texts#144		{1} to {2} is empty.
+22c_system_texts#145		{1} to {2} was sorted.

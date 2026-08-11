@@ -24,10 +24,22 @@
 !/Scripts/Battler.rb
 !/Scripts/BattleData.rb
 !/Scripts/FieldNotes.rb
+!/Scripts/Messages.rb
+!/Scripts/TextEntry.rb
+!/Scripts/Options.rb
+!/Scripts/Storage.rb
+!/Scripts/Party.rb
+!/Scripts/PurifyChamber.rb
+!/Scripts/Updater.rb
 !/Scripts/Reborn/
 /Scripts/Reborn/*
 !/Scripts/Reborn/Settings.rb
 !/Scripts/Reborn/FieldNoteCompiler.rb
+!/Scripts/Reborn/RebornScripts.rb
+!/Scripts/Reborn/TrainerSelect.rb
+!/Scripts/Randomizer/
+/Scripts/Randomizer/*
+!/Scripts/Randomizer/RandomizerUtils.rb
 
 # Byte-compiled Python from running the tools; not part of the patch.
 __pycache__/

@@ -10,6 +10,9 @@ net and stay English forever:
   * an `_INTL` whose key is built at run time by string concatenation or `#{}`
     interpolation - the key that gets looked up never matches the one that was
     scraped
+  * an `_INTL` literal containing an escaped backslash - the compiler unescapes
+    with blind gsubs, so it registers a different key from the one Ruby builds,
+    and the line is stuck in English however it is translated
 
 Both are reported here, along with `_INTL` literals that simply have no
 translation yet. Run it after touching the scripts, or against a new Reborn
@@ -57,6 +60,40 @@ def unescape(s):
              .replace('\\"', '"').replace('\\\\', '\\'))
 
 
+def ruby_value(raw):
+    """What the literal actually evaluates to at run time.
+
+    The compiler's unescaping above is a series of blind gsubs, so a literal
+    containing an escaped backslash comes out differently from the string Ruby
+    builds - "...\\n..." is backslash-n to Ruby but is turned into a newline by
+    the compiler. The key that gets registered then never matches the key that
+    is looked up, and the line is stuck in English however it is translated.
+    """
+    out = []
+    i = 0
+    while i < len(raw):
+        c = raw[i]
+        if c == '\\' and i + 1 < len(raw):
+            n = raw[i + 1]
+            if n in 'nrte':
+                out.append({'n': '\n', 'r': '\r', 't': '\t', 'e': '\x1b'}[n])
+            elif n.isdigit():
+                j, digits = i + 1, ''
+                while j < len(raw) and len(digits) < 3 and raw[j] in '01234567':
+                    digits += raw[j]
+                    j += 1
+                out.append(chr(int(digits, 8)))
+                i = j
+                continue
+            else:
+                out.append(n)
+            i += 2
+            continue
+        out.append(c)
+        i += 1
+    return ''.join(out)
+
+
 def script_list():
     src = open(BOOTSTRAP, encoding='utf-8').read()
     block = src.split('SCRIPTS = [', 1)[1].split('\n]', 1)[0]
@@ -86,6 +123,7 @@ def main():
 
     keys = known_keys()
     no_key = {}          # displayable literal with no entry at all
+    unreachable = []     # registered under a key the game never looks up
     untranslated = {}    # entry exists but ja is empty
     runtime_key = []     # _INTL whose key is assembled at run time
 
@@ -97,7 +135,13 @@ def main():
             if line.lstrip().startswith('#'):
                 continue
             for m in INTL_LITERAL.finditer(line):
-                key = msgtypes.string_to_key(unescape(m.group(1)))
+                raw = m.group(1)
+                if '\\\\' in raw:
+                    compiled = msgtypes.string_to_key(unescape(raw))
+                    runtime = msgtypes.string_to_key(ruby_value(raw))
+                    if compiled != runtime and runtime not in keys:
+                        unreachable.append((f'{script}:{n}', runtime))
+                key = msgtypes.string_to_key(unescape(raw))
                 if not key or not HAS_LETTERS.search(key):
                     continue
                 if key not in keys:
@@ -131,10 +175,14 @@ def main():
     for key in sorted(untranslated):
         print(f'  {untranslated[key]:44} {key!r}')
     print()
+    print(f'{len(unreachable)} literal(s) registered under a key the game never looks up')
+    for where, key in unreachable:
+        print(f'  {where:44} {key!r}')
+    print()
     print(f'{len(runtime_key)} key(s) assembled at run time (cannot be looked up)')
     for where, text in runtime_key:
         print(f'  {where:44} {text[:96]}')
-    return 1 if (no_key or untranslated) else 0
+    return 1 if (no_key or untranslated or unreachable) else 0
 
 
 if __name__ == '__main__':

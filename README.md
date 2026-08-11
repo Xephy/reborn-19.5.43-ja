@@ -6,7 +6,7 @@
 
 Pokémon Reborn（RPG Maker XP / Pokémon Essentials, mkxp-z）を日本語で遊ぶためのパッチ。
 ストーリー会話からバトルメッセージ、UI、フィールド効果の説明まで
-**80,598 / 80,691 行（99.9%）** を翻訳してあります。
+**82,088 / 82,181 行（99.9%）** を翻訳してあります。
 
 タイトル画面から英語 / 日本語をいつでも切り替えられます。英語に戻せば文章はすべて
 元のまま表示されます（ゲーム全体のフォントだけは同梱のものに置き換わります）。
@@ -43,7 +43,7 @@ patch/Graphics/Pictures/PulseDex/ja/        パルス図鑑のページ 14枚
 patch/Graphics/Pictures/Pokedex/ja/         図鑑のタイプバッジ 19枚
 patch/Graphics/Pictures/Battle/ja/          バトルの行動選択ボタン
 
-Scripts/Battle.rb              Scripts/Options.rb
+Scripts/Battle.rb              Scripts/OrgBattle.rb
 Scripts/Battle_Effects.rb      Scripts/Party.rb
 Scripts/Battle_Move.rb         Scripts/PBIntl.rb
 Scripts/Battle_MoveEffects.rb  Scripts/PokedexScene.rb
@@ -60,9 +60,10 @@ Scripts/ItemEffects.rb         Scripts/Reborn/FieldNoteCompiler.rb
 Scripts/Items.rb               Scripts/Reborn/RebornScripts.rb
 Scripts/Load.rb                Scripts/Reborn/Settings.rb
 Scripts/Messages.rb            Scripts/Reborn/TrainerSelect.rb
+Scripts/Options.rb
 ```
 
-`patch/` 以下の6つと、`Scripts/` 以下の34ファイルです。
+`patch/` 以下の6つと、`Scripts/` 以下の35ファイルです。
 `patch/` はゲームが標準で読み込む差分フォルダなので、既存のファイルは消えません。
 
 ### 2. 言語を切り替える
@@ -89,6 +90,7 @@ Scripts/Messages.rb            Scripts/Reborn/TrainerSelect.rb
 - ポケモン・わざ・とくせい・どうぐ・分類・タイプの名前（**公式日本語名**）
 - わざ・とくせい・どうぐの説明文、図鑑の説明文
 - バトル中のメッセージ、わざ選択画面、フィールド効果の発動メッセージ
+- トレーナーの戦闘前後のセリフ（本編・バトルタワー系とも）
 - ポケモン詳細画面、手持ち、バッグ、PCボックス、オプション、セーブ画面
 - ポケモン図鑑（分類・図鑑説明・タイプバッジ）
 - ポケギア（フィールドノート、パルス図鑑、タウンマップ）

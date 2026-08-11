@@ -30,6 +30,7 @@ JOYO = 'jp_translation/tools/joyo.txt'
 SRC = 'jp_translation/work/src'
 
 WORDS = [
+    ('青天の霹靂', '寝耳に水'),
     ('自己欺瞞', '自己ぎまん'),
     ('赤色矮星', '赤色わい星'),
     ('屠殺場', 'と畜場'),

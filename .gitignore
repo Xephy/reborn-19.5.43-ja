@@ -41,6 +41,7 @@
 !/Scripts/Battle_Effects.rb
 !/Scripts/Battle_ZMove.rb
 !/Scripts/ItemEffects.rb
+!/Scripts/OrgBattle.rb
 !/Scripts/Reborn/
 /Scripts/Reborn/*
 !/Scripts/Reborn/Settings.rb

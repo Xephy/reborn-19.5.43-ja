@@ -75,6 +75,9 @@ FILES=(
   "Scripts/Battle_Effects.rb"
   "Scripts/Battle_ZMove.rb"
   "Scripts/ItemEffects.rb"
+  # Battle Tower: the intro line is stashed in a game variable and shown
+  # with a variable reference, which never reaches the message table.
+  "Scripts/OrgBattle.rb"
 )
 
 # Whole directories, mirrored file by file. The type badges have their label

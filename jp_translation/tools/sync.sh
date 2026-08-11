@@ -61,6 +61,10 @@ FILES=(
   # PULSE dex: the entry names are plain strings and each page is one
   # picture with the description drawn into it.
   "Scripts/PulseDex.rb"
+  # Area names: every caller read MapInfos directly, so the map-name
+  # message section was filled at compile time and never read back.
+  "Scripts/Game_Map.rb"
+  "Scripts/Field.rb"
 )
 
 # Whole directories, mirrored file by file. The type badges have their label

@@ -32,6 +32,8 @@
 !/Scripts/PurifyChamber.rb
 !/Scripts/Updater.rb
 !/Scripts/PulseDex.rb
+!/Scripts/Game_Map.rb
+!/Scripts/Field.rb
 !/Scripts/Reborn/
 /Scripts/Reborn/*
 !/Scripts/Reborn/Settings.rb

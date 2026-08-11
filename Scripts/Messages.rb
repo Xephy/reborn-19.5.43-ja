@@ -919,7 +919,12 @@ def pbGetBasicMapNameFromId(id)
   begin
     return "" if !$cache.mapinfos
 
-    return $cache.mapinfos[id].name
+    # Map names have their own message section, filled from MapInfos at compile
+    # time, but nothing was reading it back: every caller went straight to
+    # $cache.mapinfos, so the area signpost, the save screen and the summary's
+    # "met at" line were all stuck with the English name. get falls back to the
+    # original when a map has no translation.
+    return pbGetMessage(MessageTypes::MapNames, id)
   rescue
     return ""
   end

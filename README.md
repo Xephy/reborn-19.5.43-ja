@@ -10,7 +10,7 @@ Pokémon Reborn（RPG Maker XP / Pokémon Essentials, mkxp-z）の日本語化�
 
 ## 導入
 
-ゲームのインストール先に、次の28ファイルと2ディレクトリを同じ階層構造で上書きコピーする。
+ゲームのインストール先に、次の30ファイルと2ディレクトリを同じ階層構造で上書きコピーする。
 
 ```
 patch/Data/japanese.dat
@@ -41,6 +41,8 @@ Scripts/Reborn/RebornScripts.rb
 Scripts/Reborn/TrainerSelect.rb
 Scripts/Randomizer/RandomizerUtils.rb
 Scripts/PulseDex.rb
+Scripts/Game_Map.rb
+Scripts/Field.rb
 patch/Graphics/Icons/ja/                （タイプアイコン19枚）
 patch/Graphics/Pictures/PulseDex/ja/    （パルス図鑑14枚）
 ```
@@ -119,6 +121,17 @@ messages.dat のハッシュを引き直す仕組みになっている。
 日本語名を描き直す。タイプ名は `work/src/11_types.jsonl` から読むので、
 アイコンとバトル中の文字表示が食い違うことはない。`???` は訳が原文と同じなので
 生成しない（`ja/` に無ければ英語版にフォールバックする）。
+
+### 表はあるのに誰も読んでいなかったセクション
+
+地名（マップ名）は `MapInfos` からセクション20へ書き出されていたのに、**読み出す側が
+1つも無かった**。`Game_Map#name` も `pbGetBasicMapNameFromId` も
+`$cache.mapinfos[id].name` を直接見ていたため、エリア移動時の看板・セーブ画面・
+ポケモンの「出会った場所」が全部英語のままだった。訳自体は851件そろっていたので、
+この2つを `pbGetMessage(MessageTypes::MapNames, id)` 経由にするだけで直る。
+
+`Field.rb` の「直前のマップと同じ名前なら看板を出さない」判定も同じ関数を使うよう
+そろえてある（片方だけ訳されると比較が成立しなくなるため）。
 
 ### `_INTL` を通っていない文字列
 
@@ -265,5 +278,5 @@ sync.sh         パッチ一式を実機へ配布
 リポジトリのルートはゲームのインストール先そのもの。`.gitignore` はホワイトリスト方式で、
 `/*` で全体を除外してから必要なパスだけを戻している。ゲーム本体（Audio / Graphics /
 Data / エンジンDLL）は含まれない。`Scripts/` もディレクトリごとではなく、改変した
-26ファイルだけを名指しで許可している。ルートに新しいファイルを置くときは
+28ファイルだけを名指しで許可している。ルートに新しいファイルを置くときは
 `.gitignore` に `!` 付きで追記しないと無視されるので注意。

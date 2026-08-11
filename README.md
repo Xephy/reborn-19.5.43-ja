@@ -42,24 +42,26 @@ patch/Graphics/Icons/ja/                    タイプアイコン 19枚
 patch/Graphics/Pictures/PulseDex/ja/        パルス図鑑のページ 14枚
 patch/Graphics/Pictures/Pokedex/ja/         図鑑のタイプバッジ 19枚
 
+Scripts/Battle.rb              Scripts/Options.rb
+Scripts/Battle_Effects.rb      Scripts/Party.rb
 Scripts/Battle_Move.rb         Scripts/PBIntl.rb
 Scripts/Battle_MoveEffects.rb  Scripts/PokedexScene.rb
 Scripts/Battle_Scene.rb        Scripts/PulseDex.rb
-Scripts/BattleData.rb          Scripts/PurifyChamber.rb
-Scripts/Battler.rb             Scripts/SpriteWindow.rb
-Scripts/BattleSwap.rb          Scripts/Storage.rb
-Scripts/DrawText.rb            Scripts/Summary.rb
-Scripts/Field.rb               Scripts/System.rb
-Scripts/FieldNotes.rb          Scripts/TextEntry.rb
-Scripts/Game_Map.rb            Scripts/Updater.rb
-Scripts/Items.rb               Scripts/Randomizer/RandomizerUtils.rb
-Scripts/Load.rb                Scripts/Reborn/FieldNoteCompiler.rb
-Scripts/Messages.rb            Scripts/Reborn/RebornScripts.rb
-Scripts/Options.rb             Scripts/Reborn/Settings.rb
-Scripts/Party.rb               Scripts/Reborn/TrainerSelect.rb
+Scripts/Battle_ZMove.rb        Scripts/PurifyChamber.rb
+Scripts/BattleData.rb          Scripts/SpriteWindow.rb
+Scripts/Battler.rb             Scripts/Storage.rb
+Scripts/BattleSwap.rb          Scripts/Summary.rb
+Scripts/DrawText.rb            Scripts/System.rb
+Scripts/Field.rb               Scripts/TextEntry.rb
+Scripts/FieldNotes.rb          Scripts/Updater.rb
+Scripts/Game_Map.rb            Scripts/Randomizer/RandomizerUtils.rb
+Scripts/ItemEffects.rb         Scripts/Reborn/FieldNoteCompiler.rb
+Scripts/Items.rb               Scripts/Reborn/RebornScripts.rb
+Scripts/Load.rb                Scripts/Reborn/Settings.rb
+Scripts/Messages.rb            Scripts/Reborn/TrainerSelect.rb
 ```
 
-`patch/` 以下の5つと、`Scripts/` 以下の30ファイルです。
+`patch/` 以下の5つと、`Scripts/` 以下の34ファイルです。
 `patch/` はゲームが標準で読み込む差分フォルダなので、既存のファイルは消えません。
 
 ### 2. 言語を切り替える

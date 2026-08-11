@@ -31,7 +31,10 @@ def listed_paths():
 
     def block(name):
         body = src.split(f'{name}=(', 1)[1].split('\n)', 1)[0]
-        return re.findall(r'"([^"]+)"', body)
+        # Comment lines in the array quote things too ("sharply"/"harshly"), so
+        # they are dropped before the paths are picked out.
+        lines = [l for l in body.split('\n') if not l.strip().startswith('#')]
+        return re.findall(r'"([^"]+)"', '\n'.join(lines))
 
     return block('FILES'), block('DIRS')
 

@@ -37,6 +37,10 @@
 !/Scripts/Field.rb
 !/Scripts/PokedexScene.rb
 !/Scripts/BattleSwap.rb
+!/Scripts/Battle.rb
+!/Scripts/Battle_Effects.rb
+!/Scripts/Battle_ZMove.rb
+!/Scripts/ItemEffects.rb
 !/Scripts/Reborn/
 /Scripts/Reborn/*
 !/Scripts/Reborn/Settings.rb

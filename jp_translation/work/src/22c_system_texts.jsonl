@@ -151,3 +151,15 @@
 {"sec": 22, "key": "{1} raised its Fire power!", "en": "{1} raised its Fire power!", "ja": "{1}は ほのおの 力を 高めた!"}
 {"sec": 22, "key": "{1} transformed into the Water type!", "en": "{1} transformed into the Water type!", "ja": "{1}は みずタイプに 変化した!"}
 {"sec": 22, "key": "{1}'s Telluric Seed is getting it pumped!", "en": "{1}'s Telluric Seed is getting it pumped!", "ja": "{1}の テルリックシードで 気合が 入った!"}
+{"sec": 22, "key": "Sp. Attack", "en": "Sp. Attack", "ja": "特攻"}
+{"sec": 22, "key": "Sp. Defense", "en": "Sp. Defense", "ja": "特防"}
+{"sec": 22, "key": "Special Attack", "en": "Special Attack", "ja": "特攻"}
+{"sec": 22, "key": "Special Defense", "en": "Special Defense", "ja": "特防"}
+{"sec": 22, "key": "Accuracy", "en": "Accuracy", "ja": "命中率"}
+{"sec": 22, "key": "Evasion", "en": "Evasion", "ja": "回避率"}
+{"sec": 22, "key": "sharply ", "en": "sharply ", "ja": "ぐーんと"}
+{"sec": 22, "key": "drastically ", "en": "drastically ", "ja": "ぐぐーんと"}
+{"sec": 22, "key": "harshly ", "en": "harshly ", "ja": "がくっと"}
+{"sec": 22, "key": "dramatically ", "en": "dramatically ", "ja": "がくーんと"}
+{"sec": 22, "key": "{1}'s Moody raised its {2}!", "en": "{1}'s Moody raised its {2}!", "ja": "{1}のムラっけで{2}が上がった!"}
+{"sec": 22, "key": "{1}'s Moody sharply raised its {2}!", "en": "{1}'s Moody sharply raised its {2}!", "ja": "{1}のムラっけで{2}がぐーんと上がった!"}

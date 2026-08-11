@@ -69,6 +69,12 @@ FILES=(
   # the data object instead of their message sections.
   "Scripts/PokedexScene.rb"
   "Scripts/BattleSwap.rb"
+  # Stat-change messages: the stat names and the "sharply"/"harshly"
+  # adverbs were hard-coded English spliced into translated sentences.
+  "Scripts/Battle.rb"
+  "Scripts/Battle_Effects.rb"
+  "Scripts/Battle_ZMove.rb"
+  "Scripts/ItemEffects.rb"
 )
 
 # Whole directories, mirrored file by file. The type badges have their label

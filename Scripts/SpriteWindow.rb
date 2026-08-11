@@ -995,10 +995,35 @@ end
 
 # Finds the real path for an image file.  This includes paths in encrypted
 # archives.  Returns nil if the path can't be found.
+# Cache of localized-art lookups, keyed by the extensionless path. A miss is
+# cached as nil, so each image is probed on disk at most once per session.
+JAPANESE_BITMAPS = {}
+
+# Some art has its wording baked in — the type badges are 64x28 images with the
+# type name drawn on them — and cannot go through the message tables. The
+# Japanese versions sit in a `ja` folder beside the originals. Redirecting here
+# rather than at the thirty-odd call sites also covers the <icon=...> tags in
+# the field notes, which never pass through them.
+def pbJapaneseBitmap(noext)
+  return JAPANESE_BITMAPS[noext] if JAPANESE_BITMAPS.key?(noext)
+
+  found = nil
+  localized = File.dirname(noext) + "/ja/" + File.basename(noext)
+  RTP.eachPathFor(localized) { |path|
+    found = path + ".png" if fileExists?(path + ".png")
+  }
+  JAPANESE_BITMAPS[noext] = found
+  return found
+end
+
 def pbResolveBitmap(x)
   return nil if !x
 
   noext = x.gsub(/\.(bmp|png|gif|jpg|jpeg)$/, "")
+  if pbJapaneseMessages?
+    localized = pbJapaneseBitmap(noext)
+    return localized if localized
+  end
   filename = nil
   #  RTP.eachPathFor(x) {|path|
   #     filename=pbTryString(path) if !filename

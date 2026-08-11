@@ -10,7 +10,7 @@ Pokémon Reborn（RPG Maker XP / Pokémon Essentials, mkxp-z）の日本語化�
 
 ## 導入
 
-ゲームのインストール先に、次の17ファイルを同じ階層構造で上書きコピーする。
+ゲームのインストール先に、次の17ファイルと1ディレクトリを同じ階層構造で上書きコピーする。
 
 ```
 patch/Data/japanese.dat
@@ -30,6 +30,7 @@ Scripts/Battler.rb
 Scripts/BattleData.rb
 Scripts/FieldNotes.rb
 Scripts/Reborn/FieldNoteCompiler.rb
+patch/Graphics/Icons/ja/        （タイプアイコン19枚）
 ```
 
 ゲーム内のオプションで言語を「日本語」に切り替える。
@@ -42,7 +43,7 @@ LANGUAGES = [
 ]
 ```
 
-`jp_translation/tools/sync.sh` は、この17ファイルを Windows 版と Linux（AppImage）版の
+`jp_translation/tools/sync.sh` は、これらを Windows 版と Linux（AppImage）版の
 両方へ配る。配布先のパスはスクリプト冒頭の `WIN` / `LIN` を書き換える。
 
 ### 元に戻す
@@ -84,6 +85,21 @@ messages.dat のハッシュを引き直す仕組みになっている。
 翻訳した文字列をそのまま描くと空白の箱になる。`pbNarrowFontName` は日本語のときだけ
 システムフォント（かな・漢字を持つ唯一のフォント）を返す。スモール体は
 `Lv.` と HP の数字しか描かないので触っていない。
+
+### 文字が絵に焼き込まれているもの（タイプアイコン）
+
+タイプは文字列ではなく 64x28 の画像で、`Graphics/Icons/typeFIRE.png` のように
+タイプ名が絵に描き込まれている。メッセージ表の対象外なので、日本語版の画像を
+`patch/Graphics/Icons/ja/` に置き、`pbResolveBitmap` が日本語のときだけ
+同名ファイルの `ja/` 版を先に探すようにした。呼び出し側（約30箇所）を1つも触らずに
+すみ、フィールドノートの `<icon=typeFIRE>` にも同時に効く。結果はセッション中
+キャッシュするので、画像1枚につきディスクを見るのは1回だけ。
+
+画像は `jp_translation/tools/build_type_icons.py` が英語版から生成する。
+文字の乗る範囲（6〜21行 x 2〜61列）を地の色で塗りつぶし、同じ白＋1pxの影で
+日本語名を描き直す。タイプ名は `work/src/11_types.jsonl` から読むので、
+アイコンとバトル中の文字表示が食い違うことはない。`???` は訳が原文と同じなので
+生成しない（`ja/` に無ければ英語版にフォールバックする）。
 
 ### 一度だけコンパイルされるデータ（フィールドノート）
 
@@ -141,6 +157,7 @@ sync.sh         パッチ一式を実機へ配布
 | `check_joyo.py` | 常用漢字チェック |
 | `fitcheck.py` / `fit_lines.py` | メッセージウィンドウ幅の検証と自動改行 |
 | `build_glossary.py` | ゲームデータから公式日本語名の用語集を生成 |
+| `build_type_icons.py` | 日本語のタイプアイコンを英語版から生成 |
 | `recover_from_dat.py` | 既存の .dat から JSONL を復元 |
 
 ### 書き戻し時の検証

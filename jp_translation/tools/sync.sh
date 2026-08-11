@@ -48,6 +48,12 @@ FILES=(
   "Scripts/Reborn/FieldNoteCompiler.rb"
 )
 
+# Whole directories, mirrored file by file. The type badges have their label
+# drawn into the image, so there is one PNG per type rather than a string.
+DIRS=(
+  "patch/Graphics/Icons/ja"
+)
+
 push() {
   local dest="$1" label="$2"
   if [ ! -d "$dest" ]; then
@@ -66,6 +72,18 @@ push() {
       echo "    updated  $f"
       n=$((n + 1))
     fi
+  done
+  for d in "${DIRS[@]}"; do
+    for f in "$SRC/$d"/*; do
+      [ -f "$f" ] || continue
+      local rel="$d/$(basename "$f")"
+      if ! cmp -s "$f" "$dest/$rel" 2>/dev/null; then
+        mkdir -p "$dest/$d"
+        cp "$f" "$dest/$rel"
+        echo "    updated  $rel"
+        n=$((n + 1))
+      fi
+    done
   done
   echo "  $label: $n file(s) updated"
 }

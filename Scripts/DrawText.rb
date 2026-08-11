@@ -707,7 +707,10 @@ def getFormattedText(
         elsif control == "icon" # Icon
           if !endtag
             param = param.sub(/\s+$/, "")
-            graphic = "Graphics/Icons/#{param}"
+            # Resolved rather than handed to Bitmap.new raw, so that art with
+            # baked-in wording (the type badges in the field notes) can be
+            # swapped for a localized copy. Falls back to the path unchanged.
+            graphic = pbBitmapName("Graphics/Icons/#{param}")
             controls[i] = nil
             break
           end

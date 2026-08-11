@@ -42,6 +42,8 @@ patch/Graphics/Icons/ja/                    タイプアイコン 19枚
 patch/Graphics/Pictures/PulseDex/ja/        パルス図鑑のページ 14枚
 patch/Graphics/Pictures/Pokedex/ja/         図鑑のタイプバッジ 19枚
 patch/Graphics/Pictures/Battle/ja/          バトルの行動選択ボタン
+patch/Graphics/Pictures/ja/                 状態異常バッジ（一覧用）
+patch/Graphics/Pictures/Party/ja/           状態異常バッジ 6枚
 
 Scripts/Battle.rb              Scripts/OrgBattle.rb
 Scripts/Battle_Effects.rb      Scripts/Party.rb
@@ -95,7 +97,7 @@ Scripts/Options.rb
 - ポケモン図鑑（分類・図鑑説明・タイプバッジ）
 - ポケギア（フィールドノート、パルス図鑑、タウンマップ）
 - エリア移動時の地名表示
-- タイプアイコン、パルス図鑑のページ、バトルの行動選択ボタン（文字が絵に描き込まれているため画像を作り直しています）
+- タイプアイコン、パルス図鑑のページ、バトルの行動選択ボタン、状態異常バッジ（文字が絵に描き込まれているため画像を作り直しています）
 
 ### 英語のまま残るもの
 
@@ -126,6 +128,8 @@ Scripts/Options.rb
   `patch/Fonts/pokemonemerald.ttf` を削除してください（日本語は表示できなくなります）
 - ポケモン図鑑と検索画面の枠に描かれた `EXIT` `NAV` `SEARCH` は英語のままです
   （絵の一部で、背景が単色でないため差し替えていません）
+- ポケルスのバッジは `PKRS` のままです（44pxの枠に「ポケルス」の4文字が収まらず、
+  読めるサイズになりませんでした）
 - 表示崩れが残っている可能性があります。長い訳文は自動で縮小・改行するように
   していますが、全画面を網羅的に確認したわけではありません
 

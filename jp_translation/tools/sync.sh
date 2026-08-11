@@ -58,12 +58,16 @@ FILES=(
   "Scripts/Reborn/RebornScripts.rb"
   "Scripts/Reborn/TrainerSelect.rb"
   "Scripts/Randomizer/RandomizerUtils.rb"
+  # PULSE dex: the entry names are plain strings and each page is one
+  # picture with the description drawn into it.
+  "Scripts/PulseDex.rb"
 )
 
 # Whole directories, mirrored file by file. The type badges have their label
 # drawn into the image, so there is one PNG per type rather than a string.
 DIRS=(
   "patch/Graphics/Icons/ja"
+  "patch/Graphics/Pictures/PulseDex/ja"
 )
 
 push() {

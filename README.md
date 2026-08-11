@@ -10,7 +10,7 @@ Pokémon Reborn（RPG Maker XP / Pokémon Essentials, mkxp-z）の日本語化�
 
 ## 導入
 
-ゲームのインストール先に、次の27ファイルと1ディレクトリを同じ階層構造で上書きコピーする。
+ゲームのインストール先に、次の28ファイルと2ディレクトリを同じ階層構造で上書きコピーする。
 
 ```
 patch/Data/japanese.dat
@@ -40,7 +40,9 @@ Scripts/Updater.rb
 Scripts/Reborn/RebornScripts.rb
 Scripts/Reborn/TrainerSelect.rb
 Scripts/Randomizer/RandomizerUtils.rb
-patch/Graphics/Icons/ja/        （タイプアイコン19枚）
+Scripts/PulseDex.rb
+patch/Graphics/Icons/ja/                （タイプアイコン19枚）
+patch/Graphics/Pictures/PulseDex/ja/    （パルス図鑑14枚）
 ```
 
 ゲーム内のオプションで言語を「日本語」に切り替える。
@@ -104,6 +106,13 @@ messages.dat のハッシュを引き直す仕組みになっている。
 同名ファイルの `ja/` 版を先に探すようにした。呼び出し側（約30箇所）を1つも触らずに
 すみ、フィールドノートの `<icon=typeFIRE>` にも同時に効く。結果はセッション中
 キャッシュするので、画像1枚につきディスクを見るのは1回だけ。
+
+同じ理由でパルス図鑑のページも1件1枚の 512x384 画像で、タイトル・タイプ・とくせい・
+説明文がすべて絵に描き込まれている。`build_pulsedex_images.py` が英語版を下敷きに
+3つの文字領域だけを地の色で塗りつぶして描き直す。種族名・タイプ名・とくせい名は
+`work/src` の翻訳から引くのでゲーム内の表記と食い違わない。説明文だけ
+`tools/pulsedex_ja.json` に持たせてある。アルセウスのページは意図的に枠外へ
+はみ出す演出なので、行間と溢れ方をそのまま再現している。
 
 画像は `jp_translation/tools/build_type_icons.py` が英語版から生成する。
 文字の乗る範囲（6〜21行 x 2〜61列）を地の色で塗りつぶし、同じ白＋1pxの影で
@@ -197,6 +206,7 @@ sync.sh         パッチ一式を実機へ配布
 | `fitcheck.py` / `fit_lines.py` | メッセージウィンドウ幅の検証と自動改行 |
 | `build_glossary.py` | ゲームデータから公式日本語名の用語集を生成 |
 | `build_type_icons.py` | 日本語のタイプアイコンを英語版から生成 |
+| `build_pulsedex_images.py` | 日本語のパルス図鑑ページを英語版から生成 |
 | `recover_from_dat.py` | 既存の .dat から JSONL を復元 |
 
 ### 書き戻し時の検証
@@ -255,5 +265,5 @@ sync.sh         パッチ一式を実機へ配布
 リポジトリのルートはゲームのインストール先そのもの。`.gitignore` はホワイトリスト方式で、
 `/*` で全体を除外してから必要なパスだけを戻している。ゲーム本体（Audio / Graphics /
 Data / エンジンDLL）は含まれない。`Scripts/` もディレクトリごとではなく、改変した
-25ファイルだけを名指しで許可している。ルートに新しいファイルを置くときは
+26ファイルだけを名指しで許可している。ルートに新しいファイルを置くときは
 `.gitignore` に `!` 付きで追記しないと無視されるので注意。

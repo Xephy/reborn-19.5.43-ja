@@ -1,0 +1,139 @@
+{
+ "Pulse_Garbodor": {
+  "species_en": "Garbodor",
+  "ability_en": "Gooey",
+  "t1": "POISON",
+  "t2": null,
+  "type_en": {
+   "POISON": "Poison"
+  }
+ },
+ "Pulse_Magnezone": {
+  "species_en": "Magnezone",
+  "ability_en": "Levitate",
+  "t1": "ELECTRIC",
+  "t2": "STEEL",
+  "type_en": {
+   "ELECTRIC": "Electric",
+   "STEEL": "Steel"
+  }
+ },
+ "Pulse_Avalugg": {
+  "species_en": "Avalugg",
+  "ability_en": "Solid Rock",
+  "t1": "ICE",
+  "t2": null,
+  "type_en": {
+   "ICE": "Ice"
+  }
+ },
+ "Pulse_Swalot": {
+  "species_en": "Swalot",
+  "ability_en": "Water Absorb",
+  "t1": "POISON",
+  "t2": "WATER",
+  "type_en": {
+   "POISON": "Poison",
+   "WATER": "Water"
+  }
+ },
+ "Pulse_Muk": {
+  "species_en": "Muk",
+  "ability_en": "Protean",
+  "t1": "POISON",
+  "t2": "DARK",
+  "type_en": {
+   "POISON": "Poison",
+   "DARK": "Dark"
+  }
+ },
+ "Pulse_Tangrowth_A": {
+  "species_en": "Tangrowth",
+  "ability_en": "Stamina",
+  "t1": "GRASS",
+  "t2": "ROCK",
+  "type_en": {
+   "GRASS": "Grass",
+   "ROCK": "Rock"
+  }
+ },
+ "Pulse_Tangrowth_B": {
+  "species_en": "Tangrowth",
+  "ability_en": "Arena Trap",
+  "t1": "GRASS",
+  "t2": "GROUND",
+  "type_en": {
+   "GRASS": "Grass",
+   "GROUND": "Ground"
+  }
+ },
+ "Pulse_Tangrowth_C": {
+  "species_en": "Tangrowth",
+  "ability_en": "Filter",
+  "t1": "GRASS",
+  "t2": "POISON",
+  "type_en": {
+   "GRASS": "Grass",
+   "POISON": "Poison"
+  }
+ },
+ "Pulse_Camerupt": {
+  "species_en": "Camerupt",
+  "ability_en": "Sturdy",
+  "t1": "FIRE",
+  "t2": "GHOST",
+  "type_en": {
+   "FIRE": "Fire",
+   "GHOST": "Ghost"
+  }
+ },
+ "Pulse_Abra": {
+  "species_en": "Abra",
+  "ability_en": "Magic Guard",
+  "t1": "PSYCHIC",
+  "t2": "STEEL",
+  "type_en": {
+   "PSYCHIC": "Psychic",
+   "STEEL": "Steel"
+  }
+ },
+ "Pulse_Hypno": {
+  "species_en": "Hypno",
+  "ability_en": "No Guard",
+  "t1": "PSYCHIC",
+  "t2": "DARK",
+  "type_en": {
+   "PSYCHIC": "Psychic",
+   "DARK": "Dark"
+  }
+ },
+ "Pulse_Mime": {
+  "species_en": "Mr. Mime",
+  "ability_en": "Wonder Guard",
+  "t1": "DARK",
+  "t2": "GHOST",
+  "type_en": {
+   "DARK": "Dark",
+   "GHOST": "Ghost"
+  }
+ },
+ "Pulse_Clawitzer": {
+  "species_en": "Clawitzer",
+  "ability_en": "Contrary",
+  "t1": "WATER",
+  "t2": "DRAGON",
+  "type_en": {
+   "WATER": "Water",
+   "DRAGON": "Dragon"
+  }
+ },
+ "Arc_Pulse": {
+  "species_en": "Arceus",
+  "ability_en": "Multitype",
+  "t1": "NORMAL",
+  "t2": null,
+  "type_en": {
+   "NORMAL": "Normal"
+  }
+ }
+}

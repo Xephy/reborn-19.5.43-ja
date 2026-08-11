@@ -3360,6 +3360,20 @@ class PokeBattle_Battle
     end
   end
 
+  # The trainer's parting line is held on the battle as plain text and was shown
+  # exactly as stored, so it stayed English even though every one of them is in
+  # the end-speech section. A normal battle takes it from the trainer data
+  # (registered in that section); the organized battles set it from a literal,
+  # which lands in the script-text table instead - so both are tried. \PN is
+  # expanded afterwards, as before.
+  def pbTrainerSpeech(text)
+    return "" if !text || text == ""
+
+    ret = pbGetMessageFromHash(MessageTypes::EndSpeechLose, text)
+    ret = _INTL(ret) if ret == text
+    return ret.gsub(/\\[Pp][Nn]/, self.pbPlayer.name)
+  end
+
   def pbDisplayBrief(msg)
     @scene.pbDisplayMessage(msg, true)
   end
@@ -6496,11 +6510,11 @@ class PokeBattle_Battle
             pbDisplayPaused(_INTL("{1} defeated\r\n{2}!", self.pbPlayer.name, @opponent.fullname))
           end
           @scene.pbShowOpponent(0)
-          pbDisplayAutoPaused(@endspeech.gsub(/\\[Pp][Nn]/, self.pbPlayer.name))
+          pbDisplayAutoPaused(pbTrainerSpeech(@endspeech))
           if @opponent.is_a?(Array)
             @scene.pbHideOpponent
             @scene.pbShowOpponent(1)
-            pbDisplayAutoPaused(@endspeech2.gsub(/\\[Pp][Nn]/, self.pbPlayer.name))
+            pbDisplayAutoPaused(pbTrainerSpeech(@endspeech2))
           end
           # Calculate money gained for winning
           if @internalbattle
@@ -6615,11 +6629,11 @@ class PokeBattle_Battle
           pbDisplayAutoPaused(_INTL("{1} blacked out!", self.pbPlayer.name)) if !canlose
         elsif @decision == 2
           @scene.pbShowOpponent(0)
-          pbDisplayAutoPaused(@endspeechwin.gsub(/\\[Pp][Nn]/, self.pbPlayer.name))
+          pbDisplayAutoPaused(pbTrainerSpeech(@endspeechwin))
           if @opponent.is_a?(Array)
             @scene.pbHideOpponent
             @scene.pbShowOpponent(1)
-            pbDisplayAutoPaused(@endspeechwin2.gsub(/\\[Pp][Nn]/, self.pbPlayer.name))
+            pbDisplayAutoPaused(pbTrainerSpeech(@endspeechwin2))
           end
         elsif @decision == 5
           PBDebug.log("***[Draw game]") if $INTERNAL

@@ -78,6 +78,8 @@ FILES=(
   # Battle Tower: the intro line is stashed in a game variable and shown
   # with a variable reference, which never reaches the message table.
   "Scripts/OrgBattle.rb"
+  # Inspect screen: stat labels were padded English spliced into the report.
+  "Scripts/Battle_Inspect.rb"
 )
 
 # Whole directories, mirrored file by file. The type badges have their label

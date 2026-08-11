@@ -45,6 +45,9 @@ DEV_TOOLS = {
 STRING = re.compile(r'"((?:[^"\\]|\\.)*)"')
 # Same shape as pbAddRgssScriptTexts, so the same literals are picked up.
 INTL_LITERAL = re.compile(r'(?:_INTL|_ISPRINTF)\s*\(\s*"((?:[^\\"]*\\"?)*[^"]*)"')
+# `(_INTL "x", y)` is a legal call the compiler's own scraper misses, so the key
+# is never registered even though the line is translated at run time.
+INTL_NO_PAREN = re.compile(r'(?:_INTL|_ISPRINTF)\s+"((?:[^\\"]*\\"?)*[^"]*)"')
 INTL_CALL = re.compile(r'(?:_INTL|_ISPRINTF)\s*\(\s*$')
 MESSAGE_CALL = re.compile(
     r'\b(?:Kernel\.)?(?:pbMessage|pbConfirmMessage|pbConfirmMessageSerious|'
@@ -134,7 +137,7 @@ def main():
         for n, line in enumerate(open(path, encoding='utf-8', errors='replace'), 1):
             if line.lstrip().startswith('#'):
                 continue
-            for m in INTL_LITERAL.finditer(line):
+            for m in list(INTL_LITERAL.finditer(line)) + list(INTL_NO_PAREN.finditer(line)):
                 raw = m.group(1)
                 if '\\\\' in raw:
                     compiled = msgtypes.string_to_key(unescape(raw))

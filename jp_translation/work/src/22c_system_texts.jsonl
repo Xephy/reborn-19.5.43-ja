@@ -174,3 +174,22 @@
 {"sec": 22, "key": "Rain began to fall!", "en": "Rain began to fall!", "ja": "雨が 降りはじめた!"}
 {"sec": 22, "key": "The dimensions were changed!", "en": "The dimensions were changed!", "ja": "次元が 書き換えられた!"}
 {"sec": 22, "key": "Toxic Spikes was set up!", "en": "Toxic Spikes was set up!", "ja": "どくびしが まかれた!"}
+{"sec": 22, "key": "HP: {1}/{2}", "en": "HP: {1}/{2}", "ja": "HP:  {1}/{2}"}
+{"sec": 22, "key": "Attack:", "en": "Attack:", "ja": "こうげき:"}
+{"sec": 22, "key": "Defense:", "en": "Defense:", "ja": "ぼうぎょ:"}
+{"sec": 22, "key": "Sp.Attack:", "en": "Sp.Attack:", "ja": "とくこう:"}
+{"sec": 22, "key": "Sp.Defense:", "en": "Sp.Defense:", "ja": "とくぼう:"}
+{"sec": 22, "key": "Speed:", "en": "Speed:", "ja": "すばやさ:"}
+{"sec": 22, "key": "Accuracy: {1}%", "en": "Accuracy: {1}%", "ja": "めいちゅう:  {1}%"}
+{"sec": 22, "key": "Evasion: {1}%", "en": "Evasion: {1}%", "ja": "かいひ:      {1}%"}
+{"sec": 22, "key": "Crit. Rate: {1}% +{2}/3", "en": "Crit. Rate: {1}% +{2}/3", "ja": "急所率:      {1}%  +{2}/3"}
+{"sec": 22, "key": "Attack: {1}", "en": "Attack: {1}", "ja": "こうげき: {1}"}
+{"sec": 22, "key": "Defense: {1}", "en": "Defense: {1}", "ja": "ぼうぎょ: {1}"}
+{"sec": 22, "key": "Sp.Attack: {1}", "en": "Sp.Attack: {1}", "ja": "とくこう: {1}"}
+{"sec": 22, "key": "Sp.Defense: {1}", "en": "Sp.Defense: {1}", "ja": "とくぼう: {1}"}
+{"sec": 22, "key": "Speed: {1}", "en": "Speed: {1}", "ja": "すばやさ: {1}"}
+{"sec": 22, "key": "Inspecting {1}:", "en": "Inspecting {1}:", "ja": "{1}を調べる:"}
+{"sec": 22, "key": "Ability Negated", "en": "Ability Negated", "ja": "とくせい無効"}
+{"sec": 22, "key": "Permanent", "en": "Permanent", "ja": "永続"}
+{"sec": 22, "key": "turns", "en": "turns", "ja": "ターン"}
+{"sec": 22, "key": "Field Duration: {1} turns", "en": "Field Duration: {1} turns", "ja": "フィールド残りターン: {1}"}

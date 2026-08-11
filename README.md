@@ -45,8 +45,9 @@ patch/Graphics/Pictures/Battle/ja/          バトルの行動選択ボタン
 patch/Graphics/Pictures/ja/                 状態異常バッジ（一覧用）
 patch/Graphics/Pictures/Party/ja/           状態異常バッジ 6枚
 
-Scripts/Battle.rb              Scripts/OrgBattle.rb
-Scripts/Battle_Effects.rb      Scripts/Party.rb
+Scripts/Battle.rb              Scripts/Options.rb
+Scripts/Battle_Effects.rb      Scripts/OrgBattle.rb
+Scripts/Battle_Inspect.rb      Scripts/Party.rb
 Scripts/Battle_Move.rb         Scripts/PBIntl.rb
 Scripts/Battle_MoveEffects.rb  Scripts/PokedexScene.rb
 Scripts/Battle_Scene.rb        Scripts/PulseDex.rb
@@ -62,10 +63,9 @@ Scripts/ItemEffects.rb         Scripts/Reborn/FieldNoteCompiler.rb
 Scripts/Items.rb               Scripts/Reborn/RebornScripts.rb
 Scripts/Load.rb                Scripts/Reborn/Settings.rb
 Scripts/Messages.rb            Scripts/Reborn/TrainerSelect.rb
-Scripts/Options.rb
 ```
 
-`patch/` 以下の6つと、`Scripts/` 以下の35ファイルです。
+`patch/` 以下の8つと、`Scripts/` 以下の36ファイルです。
 `patch/` はゲームが標準で読み込む差分フォルダなので、既存のファイルは消えません。
 
 ### 2. 言語を切り替える

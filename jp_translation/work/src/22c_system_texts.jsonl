@@ -163,3 +163,4 @@
 {"sec": 22, "key": "dramatically ", "en": "dramatically ", "ja": "がくーんと"}
 {"sec": 22, "key": "{1}'s Moody raised its {2}!", "en": "{1}'s Moody raised its {2}!", "ja": "{1}のムラっけで{2}が上がった!"}
 {"sec": 22, "key": "{1}'s Moody sharply raised its {2}!", "en": "{1}'s Moody sharply raised its {2}!", "ja": "{1}のムラっけで{2}がぐーんと上がった!"}
+{"sec": 22, "key": "Graphics/Pictures/Battle/battleCommandButtons", "en": "Graphics/Pictures/Battle/battleCommandButtons", "ja": "Graphics/Pictures/Battle/ja/battleCommandButtons"}

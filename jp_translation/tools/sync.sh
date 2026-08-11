@@ -83,6 +83,7 @@ DIRS=(
   "patch/Graphics/Icons/ja"
   "patch/Graphics/Pictures/PulseDex/ja"
   "patch/Graphics/Pictures/Pokedex/ja"
+  "patch/Graphics/Pictures/Battle/ja"
 )
 
 push() {

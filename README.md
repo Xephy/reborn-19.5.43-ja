@@ -41,6 +41,7 @@ patch/Fonts/pokemonemerald.ttf              かな・漢字入りのフォント
 patch/Graphics/Icons/ja/                    タイプアイコン 19枚
 patch/Graphics/Pictures/PulseDex/ja/        パルス図鑑のページ 14枚
 patch/Graphics/Pictures/Pokedex/ja/         図鑑のタイプバッジ 19枚
+patch/Graphics/Pictures/Battle/ja/          バトルの行動選択ボタン
 
 Scripts/Battle.rb              Scripts/Options.rb
 Scripts/Battle_Effects.rb      Scripts/Party.rb
@@ -61,7 +62,7 @@ Scripts/Load.rb                Scripts/Reborn/Settings.rb
 Scripts/Messages.rb            Scripts/Reborn/TrainerSelect.rb
 ```
 
-`patch/` 以下の5つと、`Scripts/` 以下の34ファイルです。
+`patch/` 以下の6つと、`Scripts/` 以下の34ファイルです。
 `patch/` はゲームが標準で読み込む差分フォルダなので、既存のファイルは消えません。
 
 ### 2. 言語を切り替える
@@ -92,7 +93,7 @@ Scripts/Messages.rb            Scripts/Reborn/TrainerSelect.rb
 - ポケモン図鑑（分類・図鑑説明・タイプバッジ）
 - ポケギア（フィールドノート、パルス図鑑、タウンマップ）
 - エリア移動時の地名表示
-- タイプアイコンとパルス図鑑のページ（文字が絵に描き込まれているため画像を作り直しています）
+- タイプアイコン、パルス図鑑のページ、バトルの行動選択ボタン（文字が絵に描き込まれているため画像を作り直しています）
 
 ### 英語のまま残るもの
 

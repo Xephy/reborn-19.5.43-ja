@@ -471,7 +471,11 @@ class PokemonPokedexScene
         weight = $cache.pkmn[species, lastSeenForm].Weight
         # Pushing national species, name, height, weight, index number
         shift = DEXINDEXOFFSETS.include?(region)
-        dexlist.push([species, $cache.pkmn[species, lastSeenForm].name, height, weight, $cache.pkmn[species, lastSeenForm].dexnum, shift])
+        # The list is drawn from this entry and also sorted and filtered on it,
+        # so the translated name has to go in rather than the data one: putting
+        # the English name here left the list in English and made the "by name"
+        # sort and the initial-letter search disagree with what is on screen.
+        dexlist.push([species, getMonName(species, lastSeenForm), height, weight, $cache.pkmn[species, lastSeenForm].dexnum, shift])
       end
     end
     return dexlist

@@ -2001,15 +2001,15 @@
 {"sec": 22, "key": "Owned:<r>{1:d}", "en": "Owned:<r>{1:d}", "ja": "つかまえた:<r>{1:d}"}
 {"sec": 22, "key": "<ac>{1:s}</ac>", "en": "<ac>{1:s}</ac>", "ja": "<ac>{1:s}</ac>"}
 {"sec": 22, "key": "<ac>{1:s} - Search results</ac>", "en": "<ac>{1:s} - Search results</ac>", "ja": "<ac>{1:s} - 検索結果</ac>"}
-{"sec": 22, "key": "ABC", "en": "ABC", "ja": "ABC"}
-{"sec": 22, "key": "DEF", "en": "DEF", "ja": "DEF"}
-{"sec": 22, "key": "GHI", "en": "GHI", "ja": "GHI"}
-{"sec": 22, "key": "JKL", "en": "JKL", "ja": "JKL"}
-{"sec": 22, "key": "MNO", "en": "MNO", "ja": "MNO"}
-{"sec": 22, "key": "PQR", "en": "PQR", "ja": "PQR"}
-{"sec": 22, "key": "STU", "en": "STU", "ja": "STU"}
-{"sec": 22, "key": "VWX", "en": "VWX", "ja": "VWX"}
-{"sec": 22, "key": "YZ", "en": "YZ", "ja": "YZ"}
+{"sec": 22, "key": "ABC", "en": "ABC", "ja": "アイウエオ"}
+{"sec": 22, "key": "DEF", "en": "DEF", "ja": "カガキギクグケゲコゴ"}
+{"sec": 22, "key": "GHI", "en": "GHI", "ja": "サザシジスズセゼソゾ"}
+{"sec": 22, "key": "JKL", "en": "JKL", "ja": "タダチヂツヅテデトド"}
+{"sec": 22, "key": "MNO", "en": "MNO", "ja": "ナニヌネノ"}
+{"sec": 22, "key": "PQR", "en": "PQR", "ja": "ハバパヒビピフブプヘベペホボポ"}
+{"sec": 22, "key": "STU", "en": "STU", "ja": "マミムメモ"}
+{"sec": 22, "key": "VWX", "en": "VWX", "ja": "ヤユヨ"}
+{"sec": 22, "key": "YZ", "en": "YZ", "ja": "ラリルレロワヲン"}
 {"sec": 22, "key": "Search", "en": "Search", "ja": "検索"}
 {"sec": 22, "key": "Name: {1:s}", "en": "Name: {1:s}", "ja": "名前: {1:s}"}
 {"sec": 22, "key": "Color: {1:s}", "en": "Color: {1:s}", "ja": "色: {1:s}"}
@@ -2020,7 +2020,7 @@
 {"sec": 22, "key": "Sort", "en": "Sort", "ja": "並べ替え"}
 {"sec": 22, "key": "Start Sort", "en": "Start Sort", "ja": "並べ替え開始"}
 {"sec": 22, "key": "Search for Pokémon based on selected parameters.", "en": "Search for Pokémon based on selected parameters.", "ja": "選んだ条件でポケモンを検索する。"}
-{"sec": 22, "key": "List by the first letter in the name.\nSpotted Pokémon only.", "en": "List by the first letter in the name.\r\nSpotted Pokémon only.", "ja": "名前の頭文字で一覧表示。\r\n見つけたポケモンのみ。"}
+{"sec": 22, "key": "List by the first letter in the name.\nSpotted Pokémon only.", "en": "List by the first letter in the name.\r\nSpotted Pokémon only.", "ja": "名前の最初の文字で絞りこむ。\n見つけたポケモンのみ。"}
 {"sec": 22, "key": "List by body color.\nSpotted Pokémon only.", "en": "List by body color.\r\nSpotted Pokémon only.", "ja": "体の色で一覧表示。\r\n見つけたポケモンのみ。"}
 {"sec": 22, "key": "List by type.\nOwned Pokémon only.", "en": "List by type.\r\nOwned Pokémon only.", "ja": "タイプで一覧表示。\r\n捕まえたポケモンのみ。"}
 {"sec": 22, "key": "Select the Pokédex listing mode.", "en": "Select the Pokédex listing mode.", "ja": "ポケモン図鑑の表示モードを選ぶ。"}
@@ -2072,13 +2072,13 @@
 {"sec": 22, "key": "White", "en": "White", "ja": "ホワイト"}
 {"sec": 22, "key": "Pink", "en": "Pink", "ja": "ピンク"}
 {"sec": 22, "key": "Numeric Mode", "en": "Numeric Mode", "ja": "番号順モード"}
-{"sec": 22, "key": "A to Z Mode", "en": "A to Z Mode", "ja": "アルファベット順モード"}
+{"sec": 22, "key": "A to Z Mode", "en": "A to Z Mode", "ja": "五十音順モード"}
 {"sec": 22, "key": "Heaviest Mode", "en": "Heaviest Mode", "ja": "重い順モード"}
 {"sec": 22, "key": "Lightest Mode", "en": "Lightest Mode", "ja": "軽い順モード"}
 {"sec": 22, "key": "Tallest Mode", "en": "Tallest Mode", "ja": "高い順モード"}
 {"sec": 22, "key": "Smallest Mode", "en": "Smallest Mode", "ja": "低い順モード"}
 {"sec": 22, "key": "Pokémon are listed according to their number.", "en": "Pokémon are listed according to their number.", "ja": "ポケモンを番号順に並べる。"}
-{"sec": 22, "key": "Spotted and owned Pokémon are listed alphabetically.", "en": "Spotted and owned Pokémon are listed alphabetically.", "ja": "見つけた・捕まえたポケモンをアルファベット順に並べる。"}
+{"sec": 22, "key": "Spotted and owned Pokémon are listed alphabetically.", "en": "Spotted and owned Pokémon are listed alphabetically.", "ja": "見つけた・捕まえたポケモンを五十音順に並べる。"}
 {"sec": 22, "key": "Owned Pokémon are listed from heaviest to lightest.", "en": "Owned Pokémon are listed from heaviest to lightest.", "ja": "捕まえたポケモンを重い順に並べる。"}
 {"sec": 22, "key": "Owned Pokémon are listed from lightest to heaviest.", "en": "Owned Pokémon are listed from lightest to heaviest.", "ja": "捕まえたポケモンを軽い順に並べる。"}
 {"sec": 22, "key": "Owned Pokémon are listed from tallest to smallest.", "en": "Owned Pokémon are listed from tallest to smallest.", "ja": "捕まえたポケモンを高い順に並べる。"}

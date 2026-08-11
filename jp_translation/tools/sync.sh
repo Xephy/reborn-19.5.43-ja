@@ -57,6 +57,9 @@ FILES=(
   "Scripts/Updater.rb"
   "Scripts/Reborn/RebornScripts.rb"
   "Scripts/Reborn/TrainerSelect.rb"
+  # Reopens Scene_FieldNotes and replaces the whole list menu, so the
+  # field names have to be looked up there as well.
+  "Scripts/Reborn/RebornPokegear.rb"
   "Scripts/Randomizer/RandomizerUtils.rb"
   # PULSE dex: the entry names are plain strings and each page is one
   # picture with the description drawn into it.

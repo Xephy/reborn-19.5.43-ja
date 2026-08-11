@@ -193,3 +193,7 @@
 {"sec": 22, "key": "Permanent", "en": "Permanent", "ja": "永続"}
 {"sec": 22, "key": "turns", "en": "turns", "ja": "ターン"}
 {"sec": 22, "key": "Field Duration: {1} turns", "en": "Field Duration: {1} turns", "ja": "フィールド残りターン: {1}"}
+{"sec": 22, "key": "<c3=5fade2,1b4f72>Elemental Fields", "en": "<c3=5fade2,1b4f72>Elemental Fields", "ja": "<c3=5fade2,1b4f72>元素のフィールド"}
+{"sec": 22, "key": "<c3=52dc5c,006205>Telluric Fields", "en": "<c3=52dc5c,006205>Telluric Fields", "ja": "<c3=52dc5c,006205>大地のフィールド"}
+{"sec": 22, "key": "<c3=ec7063,7b241c>Synthetic Fields", "en": "<c3=ec7063,7b241c>Synthetic Fields", "ja": "<c3=ec7063,7b241c>人工のフィールド"}
+{"sec": 22, "key": "<c3=bb8fce,5b2c6f>Magical Fields", "en": "<c3=bb8fce,5b2c6f>Magical Fields", "ja": "<c3=bb8fce,5b2c6f>魔法のフィールド"}

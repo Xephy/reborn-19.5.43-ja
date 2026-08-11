@@ -49,6 +49,7 @@
 !/Scripts/Reborn/FieldNoteCompiler.rb
 !/Scripts/Reborn/RebornScripts.rb
 !/Scripts/Reborn/TrainerSelect.rb
+!/Scripts/Reborn/RebornPokegear.rb
 !/Scripts/Randomizer/
 /Scripts/Randomizer/*
 !/Scripts/Randomizer/RandomizerUtils.rb

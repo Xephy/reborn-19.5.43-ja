@@ -197,3 +197,30 @@
 {"sec": 22, "key": "<c3=52dc5c,006205>Telluric Fields", "en": "<c3=52dc5c,006205>Telluric Fields", "ja": "<c3=52dc5c,006205>大地のフィールド"}
 {"sec": 22, "key": "<c3=ec7063,7b241c>Synthetic Fields", "en": "<c3=ec7063,7b241c>Synthetic Fields", "ja": "<c3=ec7063,7b241c>人工のフィールド"}
 {"sec": 22, "key": "<c3=bb8fce,5b2c6f>Magical Fields", "en": "<c3=bb8fce,5b2c6f>Magical Fields", "ja": "<c3=bb8fce,5b2c6f>魔法のフィールド"}
+{"sec": 22, "key": "That is not a password.", "en": "That is not a password.", "ja": "そのパスワードは存在しない。"}
+{"sec": 22, "key": "Abusing debug to bypass Data Chip requirement.", "en": "Abusing debug to bypass Data Chip requirement.", "ja": "デバッグでデータチップの消費を回避した。"}
+{"sec": 22, "key": "No Data Chip available to boot up the system.", "en": "No Data Chip available to boot up the system.", "ja": "システムを起動できるデータチップがない。"}
+{"sec": 22, "key": "This will consume a Data Chip. Do you want to continue?", "en": "This will consume a Data Chip. Do you want to continue?", "ja": "データチップを1つ消費します。続けますか?"}
+{"sec": 22, "key": "Known passwords\\nAvailable data chips: {1}", "en": "Known passwords\\nAvailable data chips: {1}", "ja": "判明しているパスワード\\n使えるデータチップ: {1}"}
+{"sec": 22, "key": "Known passwords", "en": "Known passwords", "ja": "判明しているパスワード"}
+{"sec": 22, "key": "This password restricts online features.", "en": "This password restricts online features.", "ja": "このパスワードはオンライン機能を制限する。"}
+{"sec": 22, "key": "Password has been disabled.", "en": "Password has been disabled.", "ja": "パスワードを無効にした。"}
+{"sec": 22, "key": "Password has been enabled.", "en": "Password has been enabled.", "ja": "パスワードを有効にした。"}
+{"sec": 22, "key": "Select the level offset amount.", "en": "Select the level offset amount.", "ja": "レベルの増減値を選んでください。"}
+{"sec": 22, "key": "Select the level percentage adjustment.", "en": "Select the level percentage adjustment.", "ja": "レベルの倍率を選んでください。"}
+{"sec": 22, "key": "Select the experience percentage adjustment.", "en": "Select the experience percentage adjustment.", "ja": "経験値の倍率を選んでください。"}
+{"sec": 22, "key": "Accessed the Password Menu.", "en": "Accessed the Password Menu.", "ja": "パスワードメニューを開いた。"}
+{"sec": 22, "key": "Enable Unreal Time in Options to use the waiting feature.", "en": "Enable Unreal Time in Options to use the waiting feature.", "ja": "待機機能を使うには オプションでアンリアルタイムを有効にしてください。"}
+{"sec": 22, "key": "Please exit the area to properly update its events.", "en": "Please exit the area to properly update its events.", "ja": "イベントを正しく更新するため 一度このエリアから出てください。"}
+{"sec": 22, "key": "Do you wish to rest for a while or until some time?", "en": "Do you wish to rest for a while or until some time?", "ja": "しばらく休みますか? それとも時間を指定しますか?"}
+{"sec": 22, "key": "For a while.", "en": "For a while.", "ja": "しばらく休む"}
+{"sec": 22, "key": "Until some time.", "en": "Until some time.", "ja": "時間を指定する"}
+{"sec": 22, "key": "I changed my mind.", "en": "I changed my mind.", "ja": "やっぱりやめる"}
+{"sec": 22, "key": "How many hours would you like to rest?", "en": "How many hours would you like to rest?", "ja": "何時間 休みますか?"}
+{"sec": 22, "key": "When would you like to wake up?", "en": "When would you like to wake up?", "ja": "何時に 起きますか?"}
+{"sec": 22, "key": "Nevermind", "en": "Nevermind", "ja": "やめる"}
+{"sec": 22, "key": "At which hour?", "en": "At which hour?", "ja": "何時にしますか?"}
+{"sec": 22, "key": "Rainbow Scent is not active.", "en": "Rainbow Scent is not active.", "ja": "にじいろのかおりは 効果が切れている。"}
+{"sec": 22, "key": "Wild encounters are set to {1}%.", "en": "Wild encounters are set to {1}%.", "ja": "野生ポケモンの出現率は {1}% になっている。"}
+{"sec": 22, "key": "Would you like to change it?", "en": "Would you like to change it?", "ja": "変更しますか?"}
+{"sec": 22, "key": "Wild encounters are now set to {1}%.", "en": "Wild encounters are now set to {1}%.", "ja": "野生ポケモンの出現率を {1}% にした。"}

@@ -13,6 +13,8 @@ net and stay English forever:
   * an `_INTL` literal containing an escaped backslash - the compiler unescapes
     with blind gsubs, so it registers a different key from the one Ruby builds,
     and the line is stuck in English however it is translated
+  * an `_INTL` written with single quotes - the compiler only scrapes double
+    quoted literals, so no key is registered for it either
 
 Both are reported here, along with `_INTL` literals that simply have no
 translation yet. Run it after touching the scripts, or against a new Reborn
@@ -48,6 +50,14 @@ INTL_LITERAL = re.compile(r'(?:_INTL|_ISPRINTF)\s*\(\s*"((?:[^\\"]*\\"?)*[^"]*)"
 # `(_INTL "x", y)` is a legal call the compiler's own scraper misses, so the key
 # is never registered even though the line is translated at run time.
 INTL_NO_PAREN = re.compile(r'(?:_INTL|_ISPRINTF)\s+"((?:[^\\"]*\\"?)*[^"]*)"')
+# Single quotes are a legal Ruby literal but pbAddRgssScriptTexts only scans for
+# double quoted ones, so these never reach the table either. Ruby does not
+# process escapes inside them beyond \' and \\.
+SQ_MESSAGE = re.compile(
+    r"\b(?:Kernel\.)?(?:pbMessage|pbConfirmMessage|pbConfirmMessageSerious|"
+    r"pbChoice|pbMessageChooseNumber|pbMessageFreeText|pbDisplay\w*)\s*\(\s*"
+    r"'((?:[^'\\]|\\.)*)'")
+SQ_INTL = re.compile(r"(?:_INTL|_ISPRINTF)\s*\(?\s*'((?:[^'\\]|\\.)*)'")
 INTL_CALL = re.compile(r'(?:_INTL|_ISPRINTF)\s*\(\s*$')
 MESSAGE_CALL = re.compile(
     r'\b(?:Kernel\.)?(?:pbMessage|pbConfirmMessage|pbConfirmMessageSerious|'
@@ -137,6 +147,13 @@ def main():
         for n, line in enumerate(open(path, encoding='utf-8', errors='replace'), 1):
             if line.lstrip().startswith('#'):
                 continue
+            for m in SQ_INTL.finditer(line):
+                key = msgtypes.string_to_key(m.group(1).replace("\\'", "'"))
+                if key and HAS_LETTERS.search(key):
+                    if key not in keys:
+                        no_key.setdefault(key, f'{script}:{n}')
+                    elif not keys[key]:
+                        untranslated.setdefault(key, f'{script}:{n}')
             for m in list(INTL_LITERAL.finditer(line)) + list(INTL_NO_PAREN.finditer(line)):
                 raw = m.group(1)
                 if '\\\\' in raw:
@@ -155,6 +172,13 @@ def main():
                 runtime_key.append((f'{script}:{n}', line.strip()))
             if not MESSAGE_CALL.search(line):
                 continue
+            for m in SQ_MESSAGE.finditer(line):
+                key = msgtypes.string_to_key(m.group(1).replace("\\'", "'"))
+                if key and HAS_LETTERS.search(key) and '#{' not in key:
+                    if key not in keys:
+                        no_key.setdefault(key, f'{script}:{n}')
+                    elif not keys[key]:
+                        untranslated.setdefault(key, f'{script}:{n}')
             for m in STRING.finditer(line):
                 if INTL_CALL.search(line[:m.start()]):
                     continue

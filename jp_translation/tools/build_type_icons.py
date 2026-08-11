@@ -1,11 +1,10 @@
 # -*- coding: utf-8 -*-
-"""Draw the Japanese type badges into patch/Graphics/Icons/ja/.
+"""Draw the Japanese type badges into patch/Graphics/*/ja/.
 
-The 64x28 type badges have their label baked into the image, so they cannot be
-translated through the message tables the way everything else is. Each badge is
-rebuilt from the English one: the label area is repainted with the badge's own
-fill colour and the Japanese name is drawn back in the same white-with-a-
-one-pixel-shadow style.
+Two sets: the 64x28 badges used in battle and on the summary screen, and the
+96x32 ones the Pokédex draws on an entry. Both have the type name painted into
+the image, and both are rebuilt the same way — the label band is repainted with
+the badge's own fill colour and the Japanese name is drawn back in.
 
 The badges are a flat bar. Rows 6..21 x columns 2..61 hold nothing but the
 label and the fill behind it (verified against typeICE, whose label is narrow
@@ -26,6 +25,8 @@ from PIL import Image, ImageDraw, ImageFont
 
 SRC = 'Graphics/Icons'
 OUT = 'patch/Graphics/Icons/ja'
+DEX_SRC = 'Graphics/Pictures/Pokedex'
+DEX_OUT = 'patch/Graphics/Pictures/Pokedex/ja'
 FONT = 'patch/Fonts/pokemonemerald.ttf'
 TYPES_JSONL = 'jp_translation/work/src/11_types.jsonl'
 
@@ -36,6 +37,14 @@ BOX = (2, 6, 62, 22)          # x0, y0, x1, y1 (exclusive ends)
 MAX_TEXT_WIDTH = BOX[2] - BOX[0] - 2
 MAX_SIZE = 18
 MIN_SIZE = 12
+
+# The Pokédex badge is the same design at twice the scale: a 2px black border,
+# a 2px bevel inside it, and the label on the flat fill between them.
+DEX_BOX = (4, 4, 92, 28)
+DEX_MAX_TEXT_WIDTH = DEX_BOX[2] - DEX_BOX[0] - 4
+DEX_MAX_SIZE = 24
+DEX_MIN_SIZE = 16
+DEX_SHADOW_OFFSET = 2
 
 
 def type_names():
@@ -60,18 +69,41 @@ def fill_colour(px):
     return counts.most_common(1)[0][0]
 
 
-def render_label(text):
+def render_label(text, max_width=MAX_TEXT_WIDTH, max_size=MAX_SIZE, min_size=MIN_SIZE):
     """The label as a 1-bit mask, stepped down until it fits the badge."""
-    for size in range(MAX_SIZE, MIN_SIZE - 1, -1):
+    for size in range(max_size, min_size - 1, -1):
         font = ImageFont.truetype(FONT, size)
-        mask = Image.new('1', (128, 32), 0)
+        mask = Image.new('1', (192, 48), 0)
         d = ImageDraw.Draw(mask)
         d.fontmode = '1'                      # no antialiasing: the art is flat
         d.text((8, 4), text, font=font, fill=1)
         box = mask.getbbox()
-        if box and box[2] - box[0] <= MAX_TEXT_WIDTH:
+        if box and box[2] - box[0] <= max_width:
             return mask.crop(box)
-    raise SystemExit(f'{text!r} does not fit even at {MIN_SIZE}px')
+    raise SystemExit(f'{text!r} does not fit even at {min_size}px')
+
+
+def build_dex(name, label):
+    im = Image.open(f'{DEX_SRC}/pokedex{name}.png').convert('RGBA')
+    px = im.load()
+    # Sample the two rows above the label rather than the whole box: on a badge
+    # with a long English word the white of the text outnumbers the fill.
+    counts = collections.Counter(px[x, y] for x in range(DEX_BOX[0], DEX_BOX[2])
+                                 for y in range(DEX_BOX[1], DEX_BOX[1] + 2))
+    fill = counts.most_common(1)[0][0]
+    for x in range(DEX_BOX[0], DEX_BOX[2]):
+        for y in range(DEX_BOX[1], DEX_BOX[3]):
+            px[x, y] = fill
+
+    mask = render_label(label, DEX_MAX_TEXT_WIDTH, DEX_MAX_SIZE, DEX_MIN_SIZE)
+    ox = DEX_BOX[0] + (DEX_BOX[2] - DEX_BOX[0] - mask.width - DEX_SHADOW_OFFSET) // 2
+    oy = DEX_BOX[1] + (DEX_BOX[3] - DEX_BOX[1] - mask.height - DEX_SHADOW_OFFSET) // 2
+    for dx, dy, colour in ((DEX_SHADOW_OFFSET, DEX_SHADOW_OFFSET, (112, 120, 120, 255)),
+                           (0, 0, WHITE)):
+        layer = Image.new('RGBA', im.size, (0, 0, 0, 0))
+        layer.paste(colour, (ox + dx, oy + dy), mask)
+        im = Image.alpha_composite(im, layer)
+    return im
 
 
 def build(name, label):
@@ -109,6 +141,23 @@ def main():
         print(f'  {path:20} {label}')
         written += 1
     print(f'{written} badge(s) written to {OUT}; {skipped} left in English')
+
+    os.makedirs(DEX_OUT, exist_ok=True)
+    written = skipped = 0
+    for path in sorted(os.listdir(DEX_SRC)):
+        if not path.startswith('pokedex') or not path.endswith('.png'):
+            continue
+        name = path[len('pokedex'):-len('.png')]
+        if not name.isupper():
+            continue          # backgrounds and widgets, not type badges
+        label = names.get(name)
+        if not label:
+            skipped += 1
+            continue
+        build_dex(name, label).save(f'{DEX_OUT}/{path}')
+        print(f'  {path:20} {label}')
+        written += 1
+    print(f'{written} badge(s) written to {DEX_OUT}; {skipped} left in English')
 
 
 if __name__ == '__main__':

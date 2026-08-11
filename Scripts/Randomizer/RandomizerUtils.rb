@@ -848,7 +848,7 @@ def printRandomizedStarter(species)
   newSpecies = $rndcache.starters[species]
   name = getMonName(newSpecies[:species])
   form = newSpecies[:form]
-  kind = $cache.pkmn[newSpecies[:species], form].kind
+  kind = getMonKind(newSpecies[:species], form)
   Kernel.pbMessage(_INTL("AME: So, you want {1}, the {2} Pokémon?", name, kind))
 end
 

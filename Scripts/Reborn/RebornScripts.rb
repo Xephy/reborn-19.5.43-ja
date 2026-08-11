@@ -1897,7 +1897,7 @@ def pbCustomStarterMessage()
     return
   end
   name = $cache.pkmn[species, 0].name
-  kind = $cache.pkmn[species, 0].kind
+  kind = getMonKind(species, 0)
   Kernel.pbMessage(_INTL("That must be {1}, the {2} Pokémon!", name, kind))
 end
 

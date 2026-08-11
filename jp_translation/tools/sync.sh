@@ -65,6 +65,10 @@ FILES=(
   # message section was filled at compile time and never read back.
   "Scripts/Game_Map.rb"
   "Scripts/Field.rb"
+  # Pokédex: the classification and the dex entry were read straight off
+  # the data object instead of their message sections.
+  "Scripts/PokedexScene.rb"
+  "Scripts/BattleSwap.rb"
 )
 
 # Whole directories, mirrored file by file. The type badges have their label
@@ -72,6 +76,7 @@ FILES=(
 DIRS=(
   "patch/Graphics/Icons/ja"
   "patch/Graphics/Pictures/PulseDex/ja"
+  "patch/Graphics/Pictures/Pokedex/ja"
 )
 
 push() {

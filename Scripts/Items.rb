@@ -20,6 +20,21 @@ def getMonName(species, form = 0)
   return pbGetMessageFromHash(MessageTypes::Species, name)
 end
 
+# The Pokédex classification ("Seed Pokémon") and the dex entry have their own
+# message sections, but the dex screen was reading them straight off the data
+# object, so both stayed English no matter what was translated.
+def getMonKind(species, form = 0)
+  return "" if $cache.pkmn[species, form].nil?
+
+  return pbGetMessageFromHash(MessageTypes::Kinds, $cache.pkmn[species, form].kind)
+end
+
+def getMonDexEntry(species, form = 0)
+  return "" if $cache.pkmn[species, form].nil?
+
+  return pbGetMessageFromHash(MessageTypes::Entries, $cache.pkmn[species, form].dexentry)
+end
+
 def getItemName(item)
   if item.is_a?(Integer)
     item = $cache.items.keys[item - 1]

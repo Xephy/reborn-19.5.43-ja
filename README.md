@@ -40,25 +40,26 @@ patch/Data/japanese.dat                     翻訳データ
 patch/Fonts/pokemonemerald.ttf              かな・漢字入りのフォント
 patch/Graphics/Icons/ja/                    タイプアイコン 19枚
 patch/Graphics/Pictures/PulseDex/ja/        パルス図鑑のページ 14枚
+patch/Graphics/Pictures/Pokedex/ja/         図鑑のタイプバッジ 19枚
 
-Scripts/BattleData.rb          Scripts/Options.rb
-Scripts/Battle_Move.rb         Scripts/Party.rb
-Scripts/Battle_MoveEffects.rb  Scripts/PulseDex.rb
-Scripts/Battle_Scene.rb        Scripts/PurifyChamber.rb
+Scripts/Battle_Move.rb         Scripts/PBIntl.rb
+Scripts/Battle_MoveEffects.rb  Scripts/PokedexScene.rb
+Scripts/Battle_Scene.rb        Scripts/PulseDex.rb
+Scripts/BattleData.rb          Scripts/PurifyChamber.rb
 Scripts/Battler.rb             Scripts/SpriteWindow.rb
-Scripts/DrawText.rb            Scripts/Storage.rb
-Scripts/Field.rb               Scripts/Summary.rb
-Scripts/FieldNotes.rb          Scripts/System.rb
-Scripts/Game_Map.rb            Scripts/TextEntry.rb
-Scripts/Items.rb               Scripts/Updater.rb
-Scripts/Load.rb                Scripts/Randomizer/RandomizerUtils.rb
-Scripts/Messages.rb            Scripts/Reborn/FieldNoteCompiler.rb
-Scripts/PBIntl.rb              Scripts/Reborn/RebornScripts.rb
-                               Scripts/Reborn/Settings.rb
-                               Scripts/Reborn/TrainerSelect.rb
+Scripts/BattleSwap.rb          Scripts/Storage.rb
+Scripts/DrawText.rb            Scripts/Summary.rb
+Scripts/Field.rb               Scripts/System.rb
+Scripts/FieldNotes.rb          Scripts/TextEntry.rb
+Scripts/Game_Map.rb            Scripts/Updater.rb
+Scripts/Items.rb               Scripts/Randomizer/RandomizerUtils.rb
+Scripts/Load.rb                Scripts/Reborn/FieldNoteCompiler.rb
+Scripts/Messages.rb            Scripts/Reborn/RebornScripts.rb
+Scripts/Options.rb             Scripts/Reborn/Settings.rb
+Scripts/Party.rb               Scripts/Reborn/TrainerSelect.rb
 ```
 
-`patch/` 以下の4つと、`Scripts/` 以下の28ファイルです。
+`patch/` 以下の5つと、`Scripts/` 以下の30ファイルです。
 `patch/` はゲームが標準で読み込む差分フォルダなので、既存のファイルは消えません。
 
 ### 2. 言語を切り替える
@@ -86,6 +87,7 @@ Scripts/PBIntl.rb              Scripts/Reborn/RebornScripts.rb
 - わざ・とくせい・どうぐの説明文、図鑑の説明文
 - バトル中のメッセージ、わざ選択画面、フィールド効果の発動メッセージ
 - ポケモン詳細画面、手持ち、バッグ、PCボックス、オプション、セーブ画面
+- ポケモン図鑑（分類・図鑑説明・タイプバッジ）
 - ポケギア（フィールドノート、パルス図鑑、タウンマップ）
 - エリア移動時の地名表示
 - タイプアイコンとパルス図鑑のページ（文字が絵に描き込まれているため画像を作り直しています）
@@ -117,6 +119,8 @@ Scripts/PBIntl.rb              Scripts/Reborn/RebornScripts.rb
 - **フォントが置き換わります。** かな・漢字を持つフォントが必要なため、英語表示のときも
   同梱の M+ FONTS で描画されます。元の書体に戻したい場合は
   `patch/Fonts/pokemonemerald.ttf` を削除してください（日本語は表示できなくなります）
+- ポケモン図鑑と検索画面の枠に描かれた `EXIT` `NAV` `SEARCH` は英語のままです
+  （絵の一部で、背景が単色でないため差し替えていません）
 - 表示崩れが残っている可能性があります。長い訳文は自動で縮小・改行するように
   していますが、全画面を網羅的に確認したわけではありません
 

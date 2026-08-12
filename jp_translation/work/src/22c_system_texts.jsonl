@@ -247,3 +247,58 @@
 {"sec": 22, "key": "Evening", "en": "Evening", "ja": "夕方"}
 {"sec": 22, "key": "Morning", "en": "Morning", "ja": "朝"}
 {"sec": 22, "key": "{1}  {2}  {3}", "en": "{1}  {2}  {3}", "ja": "{3}{2}日 ({1})"}
+{"sec": 22, "key": "C / Enter / Space:   Interact, Select", "en": "C / Enter / Space:   Interact, Select", "ja": "C / Enter / Space:   調べる、決定"}
+{"sec": 22, "key": "C / Enter:   Interact, Select", "en": "C / Enter:   Interact, Select", "ja": "C / Enter:   調べる、決定"}
+{"sec": 22, "key": "X / Escape:   Menu, Back, Skip Text", "en": "X / Escape:   Menu, Back, Skip Text", "ja": "X / Escape:   メニュー、戻る、早送り"}
+{"sec": 22, "key": "A:   Mega, Z-Move, Sort, Misc.", "en": "A:   Mega, Z-Move, Sort, Misc.", "ja": "A:   メガ、Zワザ、並べ替え、他"}
+{"sec": 22, "key": "S:   Use Item, Battle Field Notes", "en": "S:   Use Item, Battle Field Notes", "ja": "S:   どうぐ、フィールドノート"}
+{"sec": 22, "key": "S:   Use Item", "en": "S:   Use Item", "ja": "S:   どうぐを使う"}
+{"sec": 22, "key": "D:   Coordinates, Battle PULSE Notes", "en": "D:   Coordinates, Battle PULSE Notes", "ja": "D:   座標、パルスノート"}
+{"sec": 22, "key": "D:   Quick Save, Battle PULSE Notes", "en": "D:   Quick Save, Battle PULSE Notes", "ja": "D:   即セーブ、パルスノート"}
+{"sec": 22, "key": "D:   Quick Save", "en": "D:   Quick Save", "ja": "D:   即セーブ"}
+{"sec": 22, "key": "Q / PgUp:   Previous Page, Self Inspect", "en": "Q / PgUp:   Previous Page, Self Inspect", "ja": "Q / PgUp:   前のページ、自分を見る"}
+{"sec": 22, "key": "W / PgDn:   Next Page, Foe Inspect", "en": "W / PgDn:   Next Page, Foe Inspect", "ja": "W / PgDn:   次のページ、相手を見る"}
+{"sec": 22, "key": "Ctrl + Q / W:   Skip 10 pages up or down", "en": "Ctrl + Q / W:   Skip 10 pages up or down", "ja": "Ctrl + Q / W:   10ページ単位で移動"}
+{"sec": 22, "key": "Home / End:   Jump to the first or last item", "en": "Home / End:   Jump to the first or last item", "ja": "Home / End:   先頭または末尾へ"}
+{"sec": 22, "key": "Tab / M:   Toggle Turbo Mode", "en": "Tab / M:   Toggle Turbo Mode", "ja": "Tab / M:   高速モードの切り替え"}
+{"sec": 22, "key": "Tab / Alt / M:   Toggle Turbo Mode", "en": "Tab / Alt / M:   Toggle Turbo Mode", "ja": "Tab / Alt / M:   高速モードの切り替え"}
+{"sec": 22, "key": "Shift (hold) / Z:   Run", "en": "Shift (hold) / Z:   Run", "ja": "Shift (長押し) / Z:   走る"}
+{"sec": 22, "key": "F1:   Configure controls", "en": "F1:   Configure controls", "ja": "F1:   キーの割り当て"}
+{"sec": 22, "key": "F7:   Mute, Unmute", "en": "F7:   Mute, Unmute", "ja": "F7:   消音の切り替え"}
+{"sec": 22, "key": "Q:   Previous Page, Self Inspect", "en": "Q:   Previous Page, Self Inspect", "ja": "Q:   前のページ、自分を見る"}
+{"sec": 22, "key": "W:   Next Page, Foe Inspect", "en": "W:   Next Page, Foe Inspect", "ja": "W:   次のページ、相手を見る"}
+{"sec": 22, "key": "T:   Toggle Turbo Mode", "en": "T:   Toggle Turbo Mode", "ja": "T:   高速モードの切り替え"}
+{"sec": 22, "key": "Z:   Toggle Run", "en": "Z:   Toggle Run", "ja": "Z:   走るの切り替え"}
+{"sec": 22, "key": "M:   Mute, Unmute", "en": "M:   Mute, Unmute", "ja": "M:   消音の切り替え"}
+{"sec": 22, "key": "Z (hold):   Smart Travel", "en": "Z (hold):   Smart Travel", "ja": "Z (長押し):   自動移動"}
+{"sec": 22, "key": "D (hold):   Quick Save", "en": "D (hold):   Quick Save", "ja": "D (長押し):   即セーブ"}
+{"sec": 22, "key": "D (hold):   Coordinates", "en": "D (hold):   Coordinates", "ja": "D (長押し):   座標"}
+{"sec": 22, "key": "F12:   Soft Reset", "en": "F12:   Soft Reset", "ja": "F12:   リセット"}
+{"sec": 22, "key": "Cross / A:   Interact, Select", "en": "Cross / A:   Interact, Select", "ja": "Cross / A:   調べる、決定"}
+{"sec": 22, "key": "Circle / B:   Menu, Back, Skip Text", "en": "Circle / B:   Menu, Back, Skip Text", "ja": "Circle / B:   メニュー、戻る、早送り"}
+{"sec": 22, "key": "Square / X:   Use Item, Battle Field Notes", "en": "Square / X:   Use Item, Battle Field Notes", "ja": "Square / X:   どうぐ、フィールドノート"}
+{"sec": 22, "key": "Square / X:   Use Item", "en": "Square / X:   Use Item", "ja": "Square / X:   どうぐを使う"}
+{"sec": 22, "key": "Triangle / Y:   Mega, Z-Move, Sort, Misc.", "en": "Triangle / Y:   Mega, Z-Move, Sort, Misc.", "ja": "Triangle / Y:   メガ、Zワザ、並べ替え、他"}
+{"sec": 22, "key": "L1:   Previous Page, Self Inspect", "en": "L1:   Previous Page, Self Inspect", "ja": "L1:   前のページ、自分を見る"}
+{"sec": 22, "key": "R1:   Next Page, Foe Inspect", "en": "R1:   Next Page, Foe Inspect", "ja": "R1:   次のページ、相手を見る"}
+{"sec": 22, "key": "R2 + L1 / R1:   Skip 10 pages up or down", "en": "R2 + L1 / R1:   Skip 10 pages up or down", "ja": "R2 + L1 / R1:   10ページ単位で移動"}
+{"sec": 22, "key": "L2 (hold) / Back:   Turbo Mode", "en": "L2 (hold) / Back:   Turbo Mode", "ja": "L2 (長押し) / Back:   高速モード"}
+{"sec": 22, "key": "R2 (hold) / Start:   Run", "en": "R2 (hold) / Start:   Run", "ja": "R2 (長押し) / Start:   走る"}
+{"sec": 22, "key": "Start (hold):   Smart Travel", "en": "Start (hold):   Smart Travel", "ja": "Start (長押し):   自動移動"}
+{"sec": 22, "key": "L2:   Toggle Turbo Mode", "en": "L2:   Toggle Turbo Mode", "ja": "L2:   高速モードの切り替え"}
+{"sec": 22, "key": "R2:   Toggle Run", "en": "R2:   Toggle Run", "ja": "R2:   走るの切り替え"}
+{"sec": 22, "key": "R2 (hold):   Smart Travel", "en": "R2 (hold):   Smart Travel", "ja": "R2 (長押し):   自動移動"}
+{"sec": 22, "key": "LS:   Mute, Unmute", "en": "LS:   Mute, Unmute", "ja": "LS:   消音の切り替え"}
+{"sec": 22, "key": "RS:   Coordinates, Battle PULSE Notes", "en": "RS:   Coordinates, Battle PULSE Notes", "ja": "RS:   座標、パルスノート"}
+{"sec": 22, "key": "RS:   Quick Save, Battle PULSE Notes", "en": "RS:   Quick Save, Battle PULSE Notes", "ja": "RS:   即セーブ、パルスノート"}
+{"sec": 22, "key": "RS:   Quick Save", "en": "RS:   Quick Save", "ja": "RS:   即セーブ"}
+{"sec": 22, "key": "Guide:   Soft Reset", "en": "Guide:   Soft Reset", "ja": "Guide:   リセット"}
+{"sec": 22, "key": "RS (hold):   Quick Save", "en": "RS (hold):   Quick Save", "ja": "RS (長押し):   即セーブ"}
+{"sec": 22, "key": "RS (hold):   Coordinates", "en": "RS (hold):   Coordinates", "ja": "RS (長押し):   座標"}
+{"sec": 22, "key": "Keyboard Defaults", "en": "Keyboard Defaults", "ja": "キーボードの操作"}
+{"sec": 22, "key": "Gamepad Defaults", "en": "Gamepad Defaults", "ja": "ゲームパッドの操作"}
+{"sec": 22, "key": "Basic Controls", "en": "Basic Controls", "ja": "基本の操作"}
+{"sec": 22, "key": "Note that some gamepad buttons may not be recognized by JoiPlay.", "en": "Note that some gamepad buttons may not be recognized by JoiPlay.", "ja": "JoiPlay では認識されないボタンがあります。"}
+{"sec": 22, "key": "Normal Save", "en": "Normal Save", "ja": "通常セーブ"}
+{"sec": 22, "key": "Autosave", "en": "Autosave", "ja": "オートセーブ"}
+{"sec": 22, "key": "Grandview Station", "en": "Grandview Station", "ja": "グランドビュー駅"}

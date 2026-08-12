@@ -22,6 +22,13 @@ Reborn 本体が更新されたら、対象バージョンの部分を上げて 
   （「現在の天気」「次の天気」）。`IconSprite#setBitmap` は `pbResolveBitmap` を
   通らないので、`pbBitmapName` 経由に変更している
 
+### 操作設定
+
+- キーボード／ゲームパッドの操作一覧（48行）を日本語にした。`pbDrawTextPositions` で
+  直接描かれる素の文字列で、メッセージ関数を通らないため従来の検査に掛からなかった
+- セーブ選択画面の `Normal Save` / `Autosave`、オープニングの切符の `Grandview Station`
+  も同じ検査で見つかったので対応した
+
 ### Reborn 側の不具合修正
 
 - 天気アイコンが表示されない問題を修正。天気の名前が `_INTL` を通ったうえで

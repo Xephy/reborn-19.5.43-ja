@@ -30,6 +30,7 @@
 !/Scripts/Messages.rb
 !/Scripts/TextEntry.rb
 !/Scripts/Options.rb
+!/Scripts/Controls.rb
 !/Scripts/Storage.rb
 !/Scripts/Party.rb
 !/Scripts/PurifyChamber.rb

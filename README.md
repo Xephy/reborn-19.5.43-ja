@@ -6,7 +6,7 @@
 
 Pokémon Reborn（RPG Maker XP / Pokémon Essentials, mkxp-z）を日本語で遊ぶためのパッチ。
 ストーリー会話からバトルメッセージ、UI、フィールド効果の説明まで
-**82,171 / 82,264 行（99.9%）** を翻訳してあります。
+**82,226 / 82,319 行（99.9%）** を翻訳してあります。
 
 タイトル画面から英語 / 日本語をいつでも切り替えられます。英語に戻せば文章はすべて
 元のまま表示されます（ゲーム全体のフォントだけは同梱のものに置き換わります）。
@@ -56,18 +56,19 @@ Scripts/Battle_MoveEffects.rb  Scripts/Randomizer/RandomizerUtils.rb
 Scripts/Battle_Scene.rb        Scripts/Reborn/FieldNoteCompiler.rb
 Scripts/Battle_ZMove.rb        Scripts/Reborn/RebornPokegear.rb
 Scripts/Battler.rb             Scripts/Reborn/RebornScripts.rb
-Scripts/DrawText.rb            Scripts/Reborn/Settings.rb
-Scripts/Field.rb               Scripts/Reborn/TrainerSelect.rb
-Scripts/FieldNotes.rb          Scripts/SpriteWindow.rb
-Scripts/Game_Map.rb            Scripts/Storage.rb
-Scripts/ItemEffects.rb         Scripts/Summary.rb
-Scripts/Items.rb               Scripts/System.rb
-Scripts/Load.rb                Scripts/TextEntry.rb
-Scripts/Messages.rb            Scripts/TimeWeather.rb
-Scripts/Options.rb             Scripts/Updater.rb
+Scripts/Controls.rb            Scripts/Reborn/Settings.rb
+Scripts/DrawText.rb            Scripts/Reborn/TrainerSelect.rb
+Scripts/Field.rb               Scripts/SpriteWindow.rb
+Scripts/FieldNotes.rb          Scripts/Storage.rb
+Scripts/Game_Map.rb            Scripts/Summary.rb
+Scripts/ItemEffects.rb         Scripts/System.rb
+Scripts/Items.rb               Scripts/TextEntry.rb
+Scripts/Load.rb                Scripts/TimeWeather.rb
+Scripts/Messages.rb            Scripts/Updater.rb
+Scripts/Options.rb
 ```
 
-`patch/` 以下の9つと、`Scripts/` 以下の38ファイルです。
+`patch/` 以下の9つと、`Scripts/` 以下の39ファイルです。
 `patch/` はゲームが標準で読み込む差分フォルダなので、既存のファイルは消えません。
 
 ### 2. 言語を切り替える

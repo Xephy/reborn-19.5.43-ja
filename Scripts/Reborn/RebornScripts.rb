@@ -36,7 +36,7 @@ def pbTicketText(textno)
     [playerGender, (Graphics.width / 2) + 26, 32 + 166, 0, baseColor, shadowColor],
     ["8R750", (Graphics.width / 2) - 83, 32 + 189, 0, baseColor, shadowColor],
     ["5D", (Graphics.width / 2) + 98, 32 + 189, 0, baseColor, shadowColor],
-    ["Grandview Station", (Graphics.width / 2) - 73, 32 + 216, 0, baseColor, shadowColor],
+    [_INTL("Grandview Station"), (Graphics.width / 2) - 73, 32 + 216, 0, baseColor, shadowColor],
     ["ONE", (Graphics.width / 2) - 60, 32 + 241, 0, baseColor, shadowColor],
     ["SGL", (Graphics.width / 2) + 98, 32 + 241, 0, baseColor, shadowColor],
   ]

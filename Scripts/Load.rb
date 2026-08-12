@@ -278,8 +278,8 @@ class PokemonLoadScene
       @sprites["overlay2"].bitmap.font.size = 22
       textpos = []
       textpos.push([@savefiles[arrayindex][1], Graphics.width / 2 - @savefiles[arrayindex][1].length / 2 * 10, 30, 0, Color.new(0, 0, 0), Color.new(125, 125, 125)])
-      textpos.push(["Normal Save", 55, Graphics.height / 3 + 12, 0, Color.new(255, 255, 255), Color.new(125, 125, 125)])
-      textpos.push(["Autosave", 350, Graphics.height / 3 + 12, 0, Color.new(255, 255, 255), Color.new(125, 125, 125)])
+      textpos.push([_INTL("Normal Save"), 55, Graphics.height / 3 + 12, 0, Color.new(255, 255, 255), Color.new(125, 125, 125)])
+      textpos.push([_INTL("Autosave"), 350, Graphics.height / 3 + 12, 0, Color.new(255, 255, 255), Color.new(125, 125, 125)])
       textpos.push([@savefiles[arrayindex][4], 30, Graphics.height / 3 + 35, 0, Color.new(255, 255, 255), Color.new(125, 125, 125)])
       textpos.push([@savefiles[arrayindex][5], 315, Graphics.height / 3 + 35, 0, Color.new(255, 255, 255), Color.new(125, 125, 125)])
       pbDrawTextPositions(@sprites["overlay"].bitmap, textpos)

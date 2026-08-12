@@ -58,6 +58,15 @@ SQ_MESSAGE = re.compile(
     r"pbChoice|pbMessageChooseNumber|pbMessageFreeText|pbDisplay\w*)\s*\(\s*"
     r"'((?:[^'\\]|\\.)*)'")
 SQ_INTL = re.compile(r"(?:_INTL|_ISPRINTF)\s*\(?\s*'((?:[^'\\]|\\.)*)'")
+# Text drawn straight onto a bitmap never goes near a message function, so the
+# checks above cannot see it. The drawing helpers take ["text", x, y, ...]
+# tuples, so look for an array literal that starts with a displayable string in
+# any file that draws.
+DRAW_TUPLE = re.compile(r'\[\s*"((?:[^"\\]|\\.)*)"\s*,\s*[\w@$(]')
+# The same tuple shape carries image paths for pbDrawImagePositions; those are
+# asset keys, not text.
+ASSET_PATH = re.compile(r'/|\.(?:png|jpg|gif|bmp)$')
+DRAWS_TEXT = re.compile(r'pbDrawTextPositions|pbDrawImagePositions|drawTextEx')
 INTL_CALL = re.compile(r'(?:_INTL|_ISPRINTF)\s*\(\s*$')
 MESSAGE_CALL = re.compile(
     r'\b(?:Kernel\.)?(?:pbMessage|pbConfirmMessage|pbConfirmMessageSerious|'
@@ -65,6 +74,11 @@ MESSAGE_CALL = re.compile(
 # An _INTL whose key is assembled at run time can never match what was scraped.
 BUILT_KEY = re.compile(r'(?:_INTL|_ISPRINTF)\s*\(\s*(?:"[^"]*"\s*\+|[A-Za-z_@$])')
 HAS_LETTERS = re.compile(r'[A-Za-z]{2}')
+
+# Printed on the train ticket in the opening, alongside the codes "8R750" and
+# "5D". They are stub abbreviations - most likely one-way and single - and read
+# as printing on a ticket rather than as a sentence, so they stay as they are.
+INTENTIONAL_ENGLISH = {'ONE', 'SGL'}
 
 
 def unescape(s):
@@ -144,9 +158,24 @@ def main():
         if not a.all and script in DEV_TOOLS:
             continue
         path = f'Scripts/{script}.rb'
-        for n, line in enumerate(open(path, encoding='utf-8', errors='replace'), 1):
+        src = open(path, encoding='utf-8', errors='replace').read()
+        draws = bool(DRAWS_TEXT.search(src))
+        for n, line in enumerate(src.split('\n'), 1):
             if line.lstrip().startswith('#'):
                 continue
+            if draws:
+                for m in DRAW_TUPLE.finditer(line):
+                    if INTL_CALL.search(line[:m.start() + 1]):
+                        continue
+                    key = msgtypes.string_to_key(unescape(m.group(1)))
+                    if not key or not HAS_LETTERS.search(key) or '#{' in key:
+                        continue
+                    if ASSET_PATH.search(key) or key in INTENTIONAL_ENGLISH:
+                        continue
+                    if key not in keys:
+                        no_key.setdefault(key, f'{script}:{n}')
+                    elif not keys[key]:
+                        untranslated.setdefault(key, f'{script}:{n}')
             for m in SQ_INTL.finditer(line):
                 key = msgtypes.string_to_key(m.group(1).replace("\\'", "'"))
                 if key and HAS_LETTERS.search(key):

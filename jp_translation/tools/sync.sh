@@ -51,6 +51,9 @@ FILES=(
   "Scripts/Messages.rb"
   "Scripts/TextEntry.rb"
   "Scripts/Options.rb"
+  # Controls screens: the keyboard/gamepad lists are bare strings drawn with
+  # pbDrawTextPositions, so no key was ever registered for them.
+  "Scripts/Controls.rb"
   "Scripts/Storage.rb"
   "Scripts/Party.rb"
   "Scripts/PurifyChamber.rb"

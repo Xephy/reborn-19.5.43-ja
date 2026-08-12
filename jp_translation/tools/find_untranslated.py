@@ -85,6 +85,11 @@ HAS_LETTERS = re.compile(r'[A-Za-z]{2}')
 # Printed on the train ticket in the opening, alongside the codes "8R750" and
 # "5D". They are stub abbreviations - most likely one-way and single - and read
 # as printing on a ticket rather than as a sentence, so they stay as they are.
+# Trainer Pokemon nicknames whose glyphs are the joke: leetspeak, an emoticon,
+# or a plain number. Katakana would destroy what they are, so they stay.
+NICKNAMES_AS_IS = {':)', 'CL:4R1-C3', 'HOW2BASIC', 'Hottie ;)', 'MEGAZ0RD',
+                   'No.1', 'No.2', 'No.3', 'No.4', 'No.5', 'No.6'}
+
 INTENTIONAL_ENGLISH = {'ONE', 'SGL'}
 
 # Names held by the data objects ($cache.items[x].name and friends) are the

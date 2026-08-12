@@ -1896,7 +1896,9 @@ def pbCustomStarterMessage()
     Kernel.pbMessage(_INTL("So you chose this Pokémon?"))
     return
   end
-  name = $cache.pkmn[species, 0].name
+  # kind already goes through its message section; the species name was read
+  # straight off the data object and stayed English in the same sentence.
+  name = getMonName(species, 0)
   kind = getMonKind(species, 0)
   Kernel.pbMessage(_INTL("That must be {1}, the {2} Pokémon!", name, kind))
 end

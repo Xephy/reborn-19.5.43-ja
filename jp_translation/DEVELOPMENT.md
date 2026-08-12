@@ -58,6 +58,28 @@ messages.dat のハッシュを引き直す仕組みになっている。
 性格変更メニューの `_INTL` リテラル経由でセクション22に入っている。
 `getNatureName` をそこから引くようにした。
 
+### 1b. データオブジェクトの名前を表引きせずに使う
+
+`$cache.items[item].name` などはデータ側の**英語名**そのもの。表を引くのは
+`getItemName` / `getMonName` / `getMoveName` / `getAbilityName` / `getTypeName` の
+アクセサだけで、生で参照した値が画面に出ると英語のまま残る。
+
+**`Kernel.pbMessage` の `pbLocalize` では救えない。** あれが引き直すのは
+セクション22（スクリプトテキスト）で、どうぐ名はセクション7、種族名はセクション1と
+別の表にあるため。
+
+実際に3件あった。
+
+| 場所 | 症状 |
+|---|---|
+| `Items.rb` `pbChooseItemFromList` | むしよけスプレーが切れた時の選択肢が `Repel` / `Super Repel` / `Max Repel` |
+| `Reborn/RebornScripts.rb` | 最初のポケモン確認の「それは {1}、{2}ポケモンだね!」の種族名だけ英語 |
+| `Storage.rb` | PCの検索で持ち物だけ英語名と照合していて、日本語で検索しても当たらない |
+
+`find_untranslated.py` が `$cache.<表>[...].name` の生参照を検出する。英語のままで
+正しいもの（アクセサ本体、`TM94` から数字を取り出す並べ替え、開発者向けのエクスポート、
+読み上げ）は理由つきで許可リストに入れてある。
+
 ### 2. `_INTL` を通っていない素の文字列
 
 messages.dat に載るのは、スクリプト中の `_INTL("...")` / `_ISPRINTF("...")` の

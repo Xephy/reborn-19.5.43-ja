@@ -80,6 +80,25 @@ HAS_LETTERS = re.compile(r'[A-Za-z]{2}')
 # as printing on a ticket rather than as a sentence, so they stay as they are.
 INTENTIONAL_ENGLISH = {'ONE', 'SGL'}
 
+# Names held by the data objects ($cache.items[x].name and friends) are the
+# English ones; only the get*Name accessors put them through their message
+# section. A raw reference that reaches the screen stays English, and
+# Kernel.pbMessage cannot rescue it - that retries the script-text section,
+# not the item/species/move sections. Flag every raw reference, minus the
+# places that legitimately want English.
+DATA_NAME = re.compile(r'\$cache\.(?:items|moves|pkmn|abil|ttypes|types)\[[^\]]*\]\.(?:name|fullName)')
+DATA_NAME_OK = {
+    # The accessors themselves - this is where the lookup happens.
+    'Items:19', 'Items:42', 'Items:73', 'Items:104', 'Items:110',
+    # Sort comparators: they parse the number out of "TM94"/"HM03".
+    'Bag:607', 'Bag:610', 'Bag:613', 'Bag:616',
+    # Randomizer writes developer export files, not screen text.
+    'Randomizer/Randomizer:533', 'Randomizer/Randomizer:550',
+    'Randomizer/Randomizer:660',
+    # Screen reader output, which is English throughout.
+    'PokedexScene:808', 'PokedexScene:810',
+}
+
 
 def unescape(s):
     """Ruby's double-quote escapes, in the order pbAddRgssScriptTexts undoes them."""
@@ -153,6 +172,7 @@ def main():
     unreachable = []     # registered under a key the game never looks up
     untranslated = {}    # entry exists but ja is empty
     runtime_key = []     # _INTL whose key is assembled at run time
+    raw_name = []        # data-object name that never reaches its message section
 
     for script in script_list():
         if not a.all and script in DEV_TOOLS:
@@ -163,6 +183,9 @@ def main():
         for n, line in enumerate(src.split('\n'), 1):
             if line.lstrip().startswith('#'):
                 continue
+            for m in DATA_NAME.finditer(line):
+                if f'{script}:{n}' not in DATA_NAME_OK:
+                    raw_name.append((f'{script}:{n}', line.strip()[:90]))
             if draws:
                 for m in DRAW_TUPLE.finditer(line):
                     if INTL_CALL.search(line[:m.start() + 1]):
@@ -235,10 +258,14 @@ def main():
     for where, key in unreachable:
         print(f'  {where:44} {key!r}')
     print()
+    print(f'{len(raw_name)} data-object name(s) used without their message section')
+    for where, text in raw_name:
+        print(f'  {where:44} {text}')
+    print()
     print(f'{len(runtime_key)} key(s) assembled at run time (cannot be looked up)')
     for where, text in runtime_key:
         print(f'  {where:44} {text[:96]}')
-    return 1 if (no_key or untranslated or unreachable) else 0
+    return 1 if (no_key or untranslated or unreachable or raw_name) else 0
 
 
 if __name__ == '__main__':

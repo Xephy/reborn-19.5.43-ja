@@ -830,7 +830,10 @@ class PokemonStorageScreen
             if poke.item.nil?
               next
             else
-              value = $cache.items[poke.item].name
+              # The other two search modes match against translated text
+              # (nickname, species), so the held item has to be translated too
+              # or a Japanese search term can never match it.
+              value = getItemName(poke.item)
             end
           end
 

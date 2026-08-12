@@ -759,7 +759,10 @@ def pbChooseItemFromList(message, variable, *args)
   items = []
   for item in args
     if $PokemonBag.pbQuantity(item) > 0
-      commands.push($cache.items[item].name)
+      # The data object holds the English name; getItemName looks it up in the
+      # item message section. Kernel.pbMessage cannot rescue this one - it only
+      # retries through the script-text section, not the item section.
+      commands.push(getItemName(item))
       items.push(item)
     end
   end

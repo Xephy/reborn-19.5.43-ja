@@ -224,3 +224,26 @@
 {"sec": 22, "key": "Wild encounters are set to {1}%.", "en": "Wild encounters are set to {1}%.", "ja": "野生ポケモンの出現率は {1}% になっている。"}
 {"sec": 22, "key": "Would you like to change it?", "en": "Would you like to change it?", "ja": "変更しますか?"}
 {"sec": 22, "key": "Wild encounters are now set to {1}%.", "en": "Wild encounters are now set to {1}%.", "ja": "野生ポケモンの出現率を {1}% にした。"}
+{"sec": 22, "key": "Sun", "en": "Sun", "ja": "日"}
+{"sec": 22, "key": "Mon", "en": "Mon", "ja": "月"}
+{"sec": 22, "key": "Tue", "en": "Tue", "ja": "火"}
+{"sec": 22, "key": "Wed", "en": "Wed", "ja": "水"}
+{"sec": 22, "key": "Thu", "en": "Thu", "ja": "木"}
+{"sec": 22, "key": "Fri", "en": "Fri", "ja": "金"}
+{"sec": 22, "key": "Sat", "en": "Sat", "ja": "土"}
+{"sec": 22, "key": "Jan", "en": "Jan", "ja": "1月"}
+{"sec": 22, "key": "Feb", "en": "Feb", "ja": "2月"}
+{"sec": 22, "key": "Mar", "en": "Mar", "ja": "3月"}
+{"sec": 22, "key": "Apr", "en": "Apr", "ja": "4月"}
+{"sec": 22, "key": "Jun", "en": "Jun", "ja": "6月"}
+{"sec": 22, "key": "Jul", "en": "Jul", "ja": "7月"}
+{"sec": 22, "key": "Aug", "en": "Aug", "ja": "8月"}
+{"sec": 22, "key": "Sep", "en": "Sep", "ja": "9月"}
+{"sec": 22, "key": "Oct", "en": "Oct", "ja": "10月"}
+{"sec": 22, "key": "Nov", "en": "Nov", "ja": "11月"}
+{"sec": 22, "key": "Dec", "en": "Dec", "ja": "12月"}
+{"sec": 22, "key": "Day", "en": "Day", "ja": "昼"}
+{"sec": 22, "key": "Night", "en": "Night", "ja": "夜"}
+{"sec": 22, "key": "Evening", "en": "Evening", "ja": "夕方"}
+{"sec": 22, "key": "Morning", "en": "Morning", "ja": "朝"}
+{"sec": 22, "key": "{1}  {2}  {3}", "en": "{1}  {2}  {3}", "ja": "{3}{2}日 ({1})"}

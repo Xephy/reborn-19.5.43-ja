@@ -78,6 +78,9 @@ FILES=(
   "Scripts/Battle_Effects.rb"
   "Scripts/Battle_ZMove.rb"
   "Scripts/ItemEffects.rb"
+  # Pokegear "Time & Weather": the weather words double as bitmap filenames,
+  # and the date line came straight from strftime, which is English-only.
+  "Scripts/TimeWeather.rb"
   # Battle Tower: the intro line is stashed in a game variable and shown
   # with a variable reference, which never reaches the message table.
   "Scripts/OrgBattle.rb"

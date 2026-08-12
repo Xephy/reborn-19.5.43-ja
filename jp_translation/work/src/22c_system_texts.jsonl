@@ -347,3 +347,13 @@
 {"sec": 22, "key": "All in all, you weren't just another brick in the wall.", "en": "All in all, you weren't just another brick in the wall.", "ja": "結局のところ、お前はただの壁のレンガじゃなかったってことだ。"}
 {"sec": 22, "key": "Hm... I see... Very powerful...", "en": "Hm... I see... Very powerful...", "ja": "ふむ……なるほど……実に強い……"}
 {"sec": 22, "key": "That was quite a good battle!", "en": "That was quite a good battle!", "ja": "とてもいい勝負でしたわ!"}
+{"sec": 22, "key": "Your team", "en": "Your team", "ja": "味方"}
+{"sec": 22, "key": "The opposing team", "en": "The opposing team", "ja": "相手"}
+{"sec": 22, "key": "{1}'s Reflect faded!", "en": "{1}'s Reflect faded!", "ja": "{1}の リフレクターが 消えた!"}
+{"sec": 22, "key": "{1}'s Light Screen faded!", "en": "{1}'s Light Screen faded!", "ja": "{1}の ひかりのかべが 消えた!"}
+{"sec": 22, "key": "{1}'s Aurora Veil faded!", "en": "{1}'s Aurora Veil faded!", "ja": "{1}の オーロラベールが 消えた!"}
+{"sec": 22, "key": "{1}'s Arenite Wall faded!", "en": "{1}'s Arenite Wall faded!", "ja": "{1}の アレナイトウォールが 消えた!"}
+{"sec": 22, "key": "{1} is no longer protected by Safeguard!", "en": "{1} is no longer protected by Safeguard!", "ja": "{1}は しんぴのまもりに 守られなくなった!"}
+{"sec": 22, "key": "{1}'s Mist faded!", "en": "{1}'s Mist faded!", "ja": "{1}の しろいきりが 消えた!"}
+{"sec": 22, "key": "{1}'s tailwind stopped blowing!", "en": "{1}'s tailwind stopped blowing!", "ja": "{1}の おいかぜが やんだ!"}
+{"sec": 22, "key": "{1}'s Lucky Chant faded!", "en": "{1}'s Lucky Chant faded!", "ja": "{1}の おまじないの 効果が消えた!"}

@@ -5850,61 +5850,67 @@ class PokeBattle_Battle
       pbGainEXP
       return
     end
-    texts = ["Your", "The opposing"]
+    # The side word used to be interpolated into each sentence, which meant
+    # the literal the compiler registered was "#{texts[i]} team's ..." while
+    # the key looked up at run time was the finished sentence. They can never
+    # match, so every one of these lines was stuck in English. Passing the
+    # word as {1} keeps the English output identical and makes the template a
+    # real literal.
+    texts = [_INTL("Your team"), _INTL("The opposing team")]
     # Reflect
     for i in 0...2
       next if sides[i].effects[:Reflect] == 0
 
       sides[i].effects[:Reflect] -= 1
-      pbDisplay(_INTL("#{texts[i]} team's Reflect faded!")) if sides[i].effects[:Reflect] == 0
+      pbDisplay(_INTL("{1}'s Reflect faded!", texts[i])) if sides[i].effects[:Reflect] == 0
     end
     # Light Screen
     for i in 0...2
       next if sides[i].effects[:LightScreen] == 0
 
       sides[i].effects[:LightScreen] -= 1
-      pbDisplay(_INTL("#{texts[i]} team's Light Screen faded!")) if sides[i].effects[:LightScreen] == 0
+      pbDisplay(_INTL("{1}'s Light Screen faded!", texts[i])) if sides[i].effects[:LightScreen] == 0
     end
     # Aurora Veil
     for i in 0...2
       next if sides[i].effects[:AuroraVeil] == 0
 
       sides[i].effects[:AuroraVeil] -= 1
-      pbDisplay(_INTL("#{texts[i]} team's Aurora Veil faded!")) if sides[i].effects[:AuroraVeil] == 0
+      pbDisplay(_INTL("{1}'s Aurora Veil faded!", texts[i])) if sides[i].effects[:AuroraVeil] == 0
     end
     for i in 0...2
       next if sides[i].effects[:AreniteWall] == 0
 
       sides[i].effects[:AreniteWall] -= 1
-      pbDisplay(_INTL("#{texts[i]} team's Arenite Wall faded!")) if sides[i].effects[:AreniteWall] == 0
+      pbDisplay(_INTL("{1}'s Arenite Wall faded!", texts[i])) if sides[i].effects[:AreniteWall] == 0
     end
     # Safeguard
     for i in 0...2
       next if sides[i].effects[:Safeguard] == 0
 
       sides[i].effects[:Safeguard] -= 1
-      pbDisplay(_INTL("#{texts[i]} team is no longer protected by Safeguard!")) if sides[i].effects[:Safeguard] == 0
+      pbDisplay(_INTL("{1} is no longer protected by Safeguard!", texts[i])) if sides[i].effects[:Safeguard] == 0
     end
     # Mist
     for i in 0...2
       next if sides[i].effects[:Mist] == 0
 
       sides[i].effects[:Mist] -= 1
-      pbDisplay(_INTL("#{texts[i]} team's Mist faded!")) if sides[i].effects[:Mist] == 0
+      pbDisplay(_INTL("{1}'s Mist faded!", texts[i])) if sides[i].effects[:Mist] == 0
     end
     # Tailwind
     for i in 0...2
       next if sides[i].effects[:Tailwind] == 0
 
       sides[i].effects[:Tailwind] -= 1
-      pbDisplay(_INTL("#{texts[i]} team's tailwind stopped blowing!")) if sides[i].effects[:Tailwind] == 0
+      pbDisplay(_INTL("{1}'s tailwind stopped blowing!", texts[i])) if sides[i].effects[:Tailwind] == 0
     end
     # Lucky Chant
     for i in 0...2
       next if sides[i].effects[:LuckyChant] == 0
 
       sides[i].effects[:LuckyChant] -= 1
-      pbDisplay(_INTL("#{texts[i]} team's Lucky Chant faded!")) if sides[i].effects[:LuckyChant] == 0
+      pbDisplay(_INTL("{1}'s Lucky Chant faded!", texts[i])) if sides[i].effects[:LuckyChant] == 0
     end
     # Mud Sport
     if @state.effects[:MudSport] > 0

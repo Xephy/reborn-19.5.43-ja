@@ -136,6 +136,34 @@ Reborn には150件ほどあった。
 `pbChooseList` / `pbChooseItemFromList` を呼ぶ行について、**引数の位置を問わず**
 すべてのリテラルを見る。`@sprites["msgwindow"]` のような添字は除外している。
 
+### 2d. `#{}` で組み立てたテンプレート
+
+`Battle.rb` の壁・補助効果が切れるメッセージ8種がこれだった。
+
+```ruby
+texts = ["Your", "The opposing"]
+pbDisplay(_INTL("#{texts[i]} team's Light Screen faded!"))
+```
+
+`#{}` は `_INTL` に渡る**前**に展開されるので、コンパイラが登録するのは
+`#{texts[i]} team's Light Screen faded!` という文字列そのもの。実行時のキーは
+`The opposing team's Light Screen faded!` で、**永久に一致しない**。
+
+側を表す語を完全な語にして `{1}` で渡す形に書き換えた。英語の出力は元と同一。
+
+```ruby
+texts = [_INTL("Your team"), _INTL("The opposing team")]
+pbDisplay(_INTL("{1}'s Light Screen faded!", texts[i]))
+```
+
+対象はリフレクター／ひかりのかべ／オーロラベール／アレナイトウォール／
+しんぴのまもり／しろいきり／おいかぜ／おまじないの8種。
+
+`find_untranslated.py` は以前からこれを「実行時に組み立てられるキー」として
+報告していたが、報告の中に `_INTL(変数)` の正常な用法（`fields.dat` の文字列など）が
+多数混ざるため埋もれていた。**`#{` を含むものは常に不具合**なので、そこだけ拾って
+確認するとよい。
+
 ### 3. 訳文に英語の部品が差し込まれる
 
 テンプレート自体は訳せていても、`{1}` `{2}` に埋める部品が英語だと結局まざる。

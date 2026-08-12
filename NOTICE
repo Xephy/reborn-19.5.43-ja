@@ -92,8 +92,12 @@ Development / Shared Resources / External Resources などのクレジット一�
 > **Do not replace base game files if you don't have to.**
 
 **現時点の本パッチはこの方針に沿っていません。** `Scripts/` 以下のファイルを丸ごと
-差し替えています。`patch/Mods/` 方式への移行は
-[jp_translation/DEVELOPMENT.md](jp_translation/DEVELOPMENT.md) に検討結果を記載しています。
+差し替えています。`patch/Mods/` 方式への移行は技術的には可能であることを確認しましたが、
+メソッド全体の書き写しが必要で効果が限定的なため見送りました。経緯は
+[jp_translation/DEVELOPMENT.md](jp_translation/DEVELOPMENT.md) に記載しています。
+
+このため、**アンインストールには元のスクリプトの復元が必要**です。
+`jp_translation/backup/19.5.43-scripts/` に無改変の控えを置いてあります。
 
 ---
 

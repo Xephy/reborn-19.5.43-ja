@@ -67,6 +67,26 @@ class RObj(object):
 # Reader
 # --------------------------------------------------------------------------
 
+class Bignum(int):
+    """A Ruby Bignum.
+
+    Marshal stores integers outside roughly +/-2**30 as 'l' rather than 'i', so
+    the distinction has to survive a load/dump round trip - writing one back as
+    'i' would silently corrupt it. Behaves as an ordinary int otherwise.
+    """
+    __slots__ = ()
+
+
+def _hashable(k):
+    """Ruby lets an Array be a Hash key; Python does not, so use a tuple.
+
+    The writer emits a tuple as an Array, so the round trip is unaffected.
+    """
+    if isinstance(k, list):
+        return tuple(_hashable(x) for x in k)
+    return k
+
+
 class Reader(object):
     def __init__(self, b):
         self.b = b
@@ -117,6 +137,15 @@ class Reader(object):
             return False
         if t == 0x69:                                    # 'i' Integer
             return self.long()
+        if t == 0x6c:                                    # 'l' Bignum
+            neg = self.byte() == 0x2d                     # '+' or '-'
+            words = self.long()                           # count of 16-bit words
+            raw = self.b[self.i:self.i + words * 2]
+            self.i += words * 2
+            v = Bignum(-int.from_bytes(raw, 'little') if neg
+                       else int.from_bytes(raw, 'little'))
+            self.objects.append(v)
+            return v
         if t == 0x3a:                                    # ':' Symbol
             s = Sym(self.bytestr().decode('utf-8', 'replace'))
             self.symbols.append(s)
@@ -148,7 +177,7 @@ class Reader(object):
             h = {}
             self.objects.append(h)
             for _ in range(n):
-                k = self.parse()
+                k = _hashable(self.parse())
                 h[k] = self.parse()
             return h
         if t == 0x75:                                    # 'u' user-defined
@@ -264,6 +293,13 @@ class Writer(object):
             out.write(b'F')
         elif isinstance(obj, Sym):
             self.symbol(str(obj))
+        elif isinstance(obj, Bignum):
+            out.write(b'l')
+            out.write(b'-' if obj < 0 else b'+')
+            v = abs(int(obj))
+            n = max(1, (v.bit_length() + 15) // 16)
+            _w_long(out, n)
+            out.write(v.to_bytes(n * 2, 'little'))
         elif isinstance(obj, int):
             out.write(b'i')
             _w_long(out, obj)

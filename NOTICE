@@ -57,7 +57,43 @@ Only `jp_translation/tools/**` is this project's own work (MIT, see
 | `jp_translation/backup/**` | Reborn のオリジナルのスクリプトとメッセージデータの無改変の控え。パッチを元に戻すために置いています |
 
 これらの翻訳・再配布は、**原作を置き換えるものではなく原作に付随するもの**である
-という前提で行っています。**再配布の前に Reborn 開発チームの方針を確認してください。**
+という前提で行っています。
+
+### 素材利用について公式が示している条件
+
+Reborn 公式 FAQ <https://www.rebornevo.com/pr/gamefaq/> の記載:
+
+> **I'm making my own game-- can I use some of Reborn's resources?**
+>
+> As long as you credit for anything used per any specifics in the Readme, you
+> can borrow whatever you need as long as they are not used for the purpose of
+> spreading hate and intolerance.
+
+条件は**クレジット表記**と、**憎悪・不寛容の助長に使わないこと**の2点です。本パッチは
+どちらも満たしています。
+
+ただし正確に言えば、この設問は「自分のゲームを作る場合」を想定したものです。**翻訳
+パッチの配布そのものについては FAQ に記載がなく**、再配布・ミラー・翻訳・Mod の項目も
+ありません。委ねられている `Readme.txt` にもライセンス条項はなく、内容は Core
+Development / Shared Resources / External Resources などのクレジット一覧です。
+したがって「Readme の指定」は、そこに挙げられた人々への謝辞と解釈しています。
+本パッチは Amethyst 氏および Reborn 開発チームを明記し、個々の担当者については
+ゲームに同梱される `Readme.txt` のクレジット一覧を参照先とします。
+
+### 改造方法について公式が示している方針
+
+同梱の `Modding.txt` の記載:
+
+> You can add extra scripts, and override others, by adding them into
+> **patch/Mods** directory. Only the individual functions and methods in the
+> provided files override the base game, not entire files.
+>
+> This should be the preferred way to install mods from now on.
+> **Do not replace base game files if you don't have to.**
+
+**現時点の本パッチはこの方針に沿っていません。** `Scripts/` 以下のファイルを丸ごと
+差し替えています。`patch/Mods/` 方式への移行は
+[jp_translation/DEVELOPMENT.md](jp_translation/DEVELOPMENT.md) に検討結果を記載しています。
 
 ---
 

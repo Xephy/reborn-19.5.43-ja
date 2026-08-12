@@ -6,7 +6,7 @@
 
 Pokémon Reborn（RPG Maker XP / Pokémon Essentials, mkxp-z）を日本語で遊ぶためのパッチ。
 ストーリー会話からバトルメッセージ、UI、フィールド効果の説明まで
-**82,226 / 82,319 行（99.9%）** を翻訳してあります。
+**82,445 / 82,538 行（99.9%）** を翻訳してあります。
 
 タイトル画面から英語 / 日本語をいつでも切り替えられます。英語に戻せば文章はすべて
 元のまま表示されます（ゲーム全体のフォントだけは同梱のものに置き換わります）。
@@ -17,7 +17,7 @@ Pokémon Reborn（RPG Maker XP / Pokémon Essentials, mkxp-z）を日本語で�
 
 | | |
 |---|---|
-| パッチのバージョン | **v19.5.43-ja.3** |
+| パッチのバージョン | **v19.5.43-ja.4** |
 | 対象 | **Pokémon Reborn 19.5.43 専用** |
 | 動作環境 | Windows 版 / Linux（AppImage）版 |
 | 必要なもの | `mkxp.json` に `"patches": ["patch"]` があること（19.5.43 では標準で入っています） |
@@ -31,7 +31,7 @@ Pokémon Reborn（RPG Maker XP / Pokémon Essentials, mkxp-z）を日本語で�
 
 ### 1. ファイルをコピーする
 
-Releases から `reborn-19.5.43-ja.3.zip` を取得し、ゲームのインストール先
+Releases から `reborn-19.5.43-ja.4.zip` を取得し、ゲームのインストール先
 （`Game.exe` / `Game.AppImage` のある場所）で展開します。中身は次のとおりで、
 **同じ階層構造のまま**上書きされます。
 
@@ -64,11 +64,11 @@ Scripts/Game_Map.rb            Scripts/Summary.rb
 Scripts/ItemEffects.rb         Scripts/System.rb
 Scripts/Items.rb               Scripts/TextEntry.rb
 Scripts/Load.rb                Scripts/TimeWeather.rb
-Scripts/Messages.rb            Scripts/Updater.rb
-Scripts/Options.rb
+Scripts/Messages.rb            Scripts/Trainers.rb
+Scripts/Options.rb             Scripts/Updater.rb
 ```
 
-`patch/` 以下の9つと、`Scripts/` 以下の39ファイルです。
+`patch/` 以下の9つと、`Scripts/` 以下の40ファイルです。
 `patch/` はゲームが標準で読み込む差分フォルダなので、既存のファイルは消えません。
 
 ### 2. 言語を切り替える

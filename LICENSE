@@ -6,6 +6,11 @@ rebuilt images, the modified engine scripts and the bundled font are all
 derived from third-party works and are governed by the terms of those works.
 See NOTICE for the component-by-component breakdown.
 
+このライセンスが及ぶのは `jp_translation/tools/` 以下、本プロジェクトが書いた
+ツールだけです。訳文・再生成した画像・改変したスクリプト・同梱フォントには
+及びません。いずれも第三者の著作物の翻案であり、それぞれの条件に従います。
+構成要素ごとの帰属は NOTICE を参照してください。
+
 ---
 
 MIT License

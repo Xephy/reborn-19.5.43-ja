@@ -1,77 +1,105 @@
 # NOTICE
 
+## Attribution (English summary)
+
 This repository is a **fan-made, unofficial Japanese translation patch** for the
 fan game *Pokémon Reborn*. It is not endorsed by, affiliated with, or provided
 by Nintendo, The Pokémon Company, GAME FREAK, Creatures Inc., or the Pokémon
-Reborn development team.
+Reborn development team. The game itself is **not included**.
 
-Most of what is in here is not the patch author's work. This file records what
-belongs to whom, component by component.
+Most of the material here belongs to others:
+
+- **Pokémon Reborn** — Amethyst and the Reborn development team.
+  Modified engine scripts, the game's script as translation keys, and images
+  repainted from the original art.
+- **Pokémon** — Nintendo, The Pokémon Company, GAME FREAK, Creatures Inc.
+  Official Japanese names and descriptive text.
+- **PixelMplus / M+ BITMAP FONTS** — itouhiro; M+ FONTS PROJECT.
+  The kana and kanji of the bundled font. M+ FONT LICENSE.
+- **PokemonEmerald** — aztecwarrior28, after crystalwalrein, via FontStruct.
+  The Latin glyphs of the bundled font. **CC BY-SA 3.0**; the bundled font is
+  passed on under the same terms.
+
+Only `jp_translation/tools/**` is this project's own work (MIT, see
+[LICENSE](LICENSE)). Details in Japanese follow.
 
 ---
 
-## 1. Work of this project
+これは *Pokémon Reborn* の**ファンによる非公式の日本語化パッチ**です。
+任天堂・株式会社ポケモン・ゲームフリーク・クリーチャーズ、および Pokémon Reborn
+開発チームが公認・提供するものではなく、いずれとも関係がありません。
 
-| Path | Rights | Terms |
+このリポジトリの大部分は他者の著作物です。何が誰のものかを構成要素ごとに記します。
+
+---
+
+## 1. 本プロジェクトの著作物
+
+| パス | 権利者 | 条件 |
 |---|---|---|
-| `jp_translation/tools/**` | Xephy | MIT — see [LICENSE](LICENSE) |
+| `jp_translation/tools/**` | Xephy | MIT — [LICENSE](LICENSE) 参照 |
 
-Everything below is a third-party work, or a derivative of one.
+以下はすべて第三者の著作物、またはその翻案です。
 
 ---
 
 ## 2. Pokémon Reborn
 
-*Pokémon Reborn* is a fan game by Amethyst and the Reborn development team.
-The game itself is **not included in this repository**; obtain it from the
-official site.
+*Pokémon Reborn* は Amethyst 氏および Reborn 開発チームによるファンゲームです。
+**ゲーム本体は同梱していません。** 公式サイトから入手してください。
 
-| Path | What it is |
+| パス | 内容 |
 |---|---|
-| `Scripts/**.rb` | Modified source of Pokémon Reborn / Pokémon Essentials. Only the files this patch changes are kept here, not the full tree. |
-| `patch/Data/japanese.dat` | The translated message tables. Every entry is keyed by Reborn's original English line, so the file embeds the game's script. |
-| `jp_translation/work/src/**`, `work/batch/**`, `work/answers/**` | The same text as editable sources — Reborn's complete English script alongside the translation. |
-| `patch/Graphics/**` | Reborn's images with their embedded text repainted in Japanese. Derivative of the original art. |
-| `jp_translation/backup/**` | Unmodified copies of Reborn's original scripts and message data, kept so the patch can be reverted. |
+| `Scripts/**.rb` | Pokémon Reborn / Pokémon Essentials のソースの改変版。本パッチが変更するファイルのみで、ツリー全体ではありません |
+| `patch/Data/japanese.dat` | 翻訳済みメッセージテーブル。各エントリは Reborn の英語原文をキーにしているため、ゲームの脚本を内包します |
+| `jp_translation/work/src/**`, `work/batch/**`, `work/answers/**` | 上と同じ内容の編集用ソース。Reborn の英語スクリプト全文と訳文が並びます |
+| `patch/Graphics/**` | Reborn の画像の焼き込み文字を日本語に描き替えたもの。原画の翻案物です |
+| `jp_translation/backup/**` | Reborn のオリジナルのスクリプトとメッセージデータの無改変の控え。パッチを元に戻すために置いています |
 
-Translating and redistributing this material is done on the understanding that
-it accompanies, and does not replace, the original game. **Confirm the Reborn
-team's position before redistributing.**
+これらの翻訳・再配布は、**原作を置き換えるものではなく原作に付随するもの**である
+という前提で行っています。**再配布の前に Reborn 開発チームの方針を確認してください。**
 
-## 3. Pokémon
+---
 
-*Pokémon* is a registered trademark of Nintendo, The Pokémon Company, GAME
-FREAK and Creatures Inc. The translation uses the **official Japanese names**
-of Pokémon, moves, abilities, items and types, and — for entries that exist in
-the official games — official Japanese descriptive text. Those rights belong to
-the companies above.
+## 3. ポケモン
 
-`jp_translation/tools/pokeapi_csv/` is **deliberately not committed**. It holds
-that official text, and it is only an input to `build_glossary.py` and
-`build_descriptions.py`. Both download it on demand from
-<https://github.com/PokeAPI/pokeapi> when it is missing.
+**ポケモン**は任天堂・株式会社ポケモン・ゲームフリーク・クリーチャーズの登録商標です。
+訳文にはポケモン・わざ・とくせい・どうぐ・タイプの**公式日本語名**を使用し、本家に
+存在する項目については**公式の日本語説明文**を用いています。これらの権利は上記各社に
+帰属します。
 
-## 4. Bundled font — `patch/Fonts/pokemonemerald.ttf`
+`jp_translation/tools/pokeapi_csv/` は**意図的に追跡から外しています。**
+その公式テキストそのものであり、かつ `build_glossary.py` と
+`build_descriptions.py` の入力でしかないためです。両者は無ければ
+<https://github.com/PokeAPI/pokeapi> から自動で取得します。
 
-This replaces Reborn's font of the same name, which has no kana or kanji.
+---
 
-It is a merge of two existing faces. Neither is the work of this project.
+## 4. 同梱フォント `patch/Fonts/pokemonemerald.ttf`
 
-### Japanese glyphs — PixelMplus / M+ BITMAP FONTS
+仮名・漢字を持たない Reborn 標準の同名フォントを差し替えるものです。
+**2つの既存フォントの合成**であり、どちらも本プロジェクトの著作物ではありません。
 
-The name table declares:
+### 仮名・漢字 — PixelMplus / M+ BITMAP FONTS
+
+name テーブルの記載:
 
     Copyright (C) 2013 M+ Font Project
     Family      PokemonEmerald
     Unique ID   PokemonEmerald;JP
     Version     2013.0602
 
-`2013.0602` is the release date of **PixelMplus 20130602** by itouhiro — a
-TrueType outline conversion of **M+ BITMAP FONTS** covering JIS levels 1 and 2.
-That is the origin of the kana and kanji.
+`2013.0602` は itouhiro 氏の **PixelMplus 20130602** のリリース日です。
+**M+ BITMAP FONTS** を TrueType アウトライン化した、JIS 第1・第2水準を含む
+フォントで、これが仮名・漢字の出自です。
 
-These are covered by the **M+ FONT LICENSE** (SPDX: `mplus`), the pre-2021 M+
-terms, quoted in full:
+適用されるのは **M+ FONT LICENSE**（SPDX: `mplus`、2021年より前の M+ の条件）。
+公式の日本語文と英語文の全文:
+
+    これらのフォントはフリー（自由な）ソフトウエアです。
+    あらゆる改変の有無に関わらず、また商業的な利用であっても、
+    自由にご利用、複製、再配布することができますが、
+    全て無保証とさせていただきます。
 
     M+ FONTS Copyright (C) 2002-2013 M+ FONTS PROJECT
 
@@ -82,43 +110,41 @@ terms, quoted in full:
 
     THESE FONTS ARE PROVIDED "AS IS" WITHOUT WARRANTY.
 
-Note that this is the **older** M+ project, hosted at
-<https://mplus-fonts.osdn.jp/>. The present-day M+ project at
-<https://mplusfonts.github.io/> (M PLUS 1/2, M PLUS Code) is a later,
-Google-supported redesign released under the SIL Open Font License, and is
-**not** what this font is built from.
+なお、これは<https://mplus-fonts.osdn.jp/> にあった**旧**プロジェクトです。
+現行の <https://mplusfonts.github.io/>（M PLUS 1/2、M PLUS Code）は Google の
+支援による後年の再設計で SIL Open Font License、**このフォントの由来ではありません。**
 
 - PixelMplus — <https://github.com/itouhiro/PixelMplus>
 
-### Latin glyphs — PokemonEmerald (CC BY-SA 3.0)
+### 英数字 — PokemonEmerald（CC BY-SA 3.0）
 
-The font this one replaces, Reborn's own `Fonts/pokemonemerald.ttf`, declares:
+差し替え元である Reborn の `Fonts/pokemonemerald.ttf` の記載:
 
     Copyright aztecwarrior28 2020
     "Pokémon Emerald Pro" by "crystalwalrein", built with FontStruct
     License     Creative Commons Attribution Share Alike
                 http://creativecommons.org/licenses/by-sa/3.0/
 
-The bundled font's Latin glyphs are that face. Rasterising `A-Z a-z 0-9` from
-both files at 16px produces **byte-identical** output, and the advance widths
-match exactly, so the Latin side was carried over rather than redrawn.
+同梱フォントの英数字はこれと同一です。両ファイルから `A-Z a-z 0-9` を 16px で
+ラスタライズすると出力が**バイト単位で一致**し、送り幅も完全に一致するため、
+描き直しではなくそのまま引き継がれたものと判断しました。
 
-- aztecwarrior28, via FontStruct — <https://fontstruct.com/fontstructors/show/1606234/aztecwarrior28>
-- crystalwalrein, via FontStruct — <https://fontstruct.com/fontstructors/show/387548/crystalwalrein>
+- aztecwarrior28 — <https://fontstruct.com/fontstructors/show/1606234/aztecwarrior28>
+- crystalwalrein — <https://fontstruct.com/fontstructors/show/387548/crystalwalrein>
 
-### Consequence
+### 帰結
 
-The bundled file states no license of its own, and who merged the two faces is
-unknown to this project. Because the Latin glyphs carry CC BY-SA 3.0, the
-ShareAlike condition is taken to reach the merged font: it is passed on under
-**CC BY-SA 3.0**, with attribution as above. The Japanese glyphs are separately
-free under the M+ terms quoted above.
+同梱ファイル自体はライセンスを名乗っておらず、誰が両者を合成したのかは本プロジェクト
+では追跡できませんでした。英数字に CC BY-SA 3.0 が付いている以上、**継承条件は合成後の
+フォント全体に及ぶ**ものとして扱い、上記の帰属表示のうえ **CC BY-SA 3.0** で再配布します。
+仮名・漢字は M+ の条件により、これとは別に自由です。
 
-Reborn ships the same CC BY-SA face, so this patch is in the same position as
-the game it patches. If you redistribute the font on its own, verify this for
-yourself rather than relying on this summary.
+CC BY-SA 3.0 Unported は英語の法文が正本です。全文は上記 URL を参照してください。
+
+Reborn 本体が同じ CC BY-SA のフォントを同梱しているため、本パッチはパッチ対象の
+ゲームと同じ立場にあります。**フォント単体で再配布する場合は、この要約に頼らず
+自分で確認してください。**
 
 ---
 
-No warranty of any kind is given for this patch, and no liability is accepted
-for any damage arising from its use.
+本パッチにはいかなる保証もありません。利用によって生じた損害について責任を負いません。

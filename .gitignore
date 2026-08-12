@@ -32,6 +32,7 @@
 !/Scripts/Options.rb
 !/Scripts/Controls.rb
 !/Scripts/Storage.rb
+!/Scripts/Trainers.rb
 !/Scripts/Party.rb
 !/Scripts/PurifyChamber.rb
 !/Scripts/Updater.rb

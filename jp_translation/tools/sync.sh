@@ -55,6 +55,9 @@ FILES=(
   # pbDrawTextPositions, so no key was ever registered for them.
   "Scripts/Controls.rb"
   "Scripts/Storage.rb"
+  # Trainer Pokemon nicknames are bare English in trainers.dat and overwrite
+  # the translated name the constructor sets.
+  "Scripts/Trainers.rb"
   "Scripts/Party.rb"
   "Scripts/PurifyChamber.rb"
   "Scripts/Updater.rb"

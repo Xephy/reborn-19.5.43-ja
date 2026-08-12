@@ -275,6 +275,7 @@ GitHub Releases に添付する。zip の中身は `sync.sh` の配布リスト�
 | `build_command_buttons.py` | 日本語のバトル行動選択ボタンを英語版から生成 |
 | `build_status_badges.py` | 日本語の状態異常バッジを英語版から生成 |
 | `build_pulsedex_images.py` | 日本語のパルス図鑑ページを英語版から生成 |
+| `build_timeweather_bg.py` | 「時間と天気」の背景ラベルを日本語で描き直す |
 | `recover_from_dat.py` | 既存の .dat から JSONL を復元 |
 | `make_release.py` | 配布用 zip を `sync.sh` の一覧から作る |
 

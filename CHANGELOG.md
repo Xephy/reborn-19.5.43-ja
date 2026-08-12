@@ -18,6 +18,10 @@ Reborn 本体が更新されたら、対象バージョンの部分を上げて 
 - 時間帯（`Day` / `Night` / `Evening` / `Morning`）は `_INTL` を通っていなかったので
   キーごと追加
 
+- 背景画像に焼き込まれた `CURRENT WEATHER` / `WEATHER AT` を日本語に描き直した
+  （「現在の天気」「次の天気」）。`IconSprite#setBitmap` は `pbResolveBitmap` を
+  通らないので、`pbBitmapName` 経由に変更している
+
 ### Reborn 側の不具合修正
 
 - 天気アイコンが表示されない問題を修正。天気の名前が `_INTL` を通ったうえで

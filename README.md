@@ -44,6 +44,7 @@ patch/Graphics/Pictures/Pokedex/ja/         図鑑のタイプバッジ 19枚
 patch/Graphics/Pictures/Battle/ja/          バトルの行動選択ボタン
 patch/Graphics/Pictures/ja/                 状態異常バッジ（一覧用）
 patch/Graphics/Pictures/Party/ja/           状態異常バッジ 6枚
+patch/Graphics/Pictures/Pokegear/TimeWeather/ja/  「時間と天気」の背景
 
 Scripts/Battle.rb              Scripts/OrgBattle.rb
 Scripts/BattleData.rb          Scripts/PBIntl.rb
@@ -66,7 +67,7 @@ Scripts/Messages.rb            Scripts/TimeWeather.rb
 Scripts/Options.rb             Scripts/Updater.rb
 ```
 
-`patch/` 以下の8つと、`Scripts/` 以下の38ファイルです。
+`patch/` 以下の9つと、`Scripts/` 以下の38ファイルです。
 `patch/` はゲームが標準で読み込む差分フォルダなので、既存のファイルは消えません。
 
 ### 2. 言語を切り替える
@@ -96,7 +97,7 @@ Scripts/Options.rb             Scripts/Updater.rb
 - トレーナーの戦闘前後のセリフ（本編・バトルタワー系とも）
 - ポケモン詳細画面、手持ち、バッグ、PCボックス、オプション、セーブ画面
 - ポケモン図鑑（分類・図鑑説明・タイプバッジ）
-- ポケギア（フィールドノート、パルス図鑑、タウンマップ）
+- ポケギア（フィールドノート、パルス図鑑、タウンマップ、時間と天気）
 - エリア移動時の地名表示
 - タイプアイコン、パルス図鑑のページ、バトルの行動選択ボタン、状態異常バッジ（文字が絵に描き込まれているため画像を作り直しています）
 

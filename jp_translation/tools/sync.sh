@@ -97,6 +97,9 @@ DIRS=(
   "patch/Graphics/Pictures/Battle/ja"
   "patch/Graphics/Pictures/ja"
   "patch/Graphics/Pictures/Party/ja"
+  # Pokegear "Time & Weather": CURRENT WEATHER / WEATHER AT are painted
+  # into the background image.
+  "patch/Graphics/Pictures/Pokegear/TimeWeather/ja"
 )
 
 push() {

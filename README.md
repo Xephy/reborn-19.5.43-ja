@@ -6,7 +6,7 @@
 
 Pokémon Reborn（RPG Maker XP / Pokémon Essentials, mkxp-z）を日本語で遊ぶためのパッチ。
 ストーリー会話からバトルメッセージ、UI、フィールド効果の説明まで
-**82,455 / 82,548 行（99.9%）** を翻訳してあります。
+**82,475 / 82,568 行（99.9%）** を翻訳してあります。
 
 タイトル画面から英語 / 日本語をいつでも切り替えられます。英語に戻せば文章はすべて
 元のまま表示されます（ゲーム全体のフォントだけは同梱のものに置き換わります）。
@@ -17,7 +17,7 @@ Pokémon Reborn（RPG Maker XP / Pokémon Essentials, mkxp-z）を日本語で�
 
 | | |
 |---|---|
-| パッチのバージョン | **v19.5.43-ja.4** |
+| パッチのバージョン | **v19.5.43-ja.5** |
 | 対象 | **Pokémon Reborn 19.5.43 専用** |
 | 動作環境 | Windows 版 / Linux（AppImage）版 |
 | 必要なもの | `mkxp.json` に `"patches": ["patch"]` があること（19.5.43 では標準で入っています） |
@@ -31,7 +31,7 @@ Pokémon Reborn（RPG Maker XP / Pokémon Essentials, mkxp-z）を日本語で�
 
 ### 1. ファイルをコピーする
 
-Releases から `reborn-19.5.43-ja.4.zip` を取得し、ゲームのインストール先
+Releases から `reborn-19.5.43-ja.5.zip` を取得し、ゲームのインストール先
 （`Game.exe` / `Game.AppImage` のある場所）で展開します。中身は次のとおりで、
 **同じ階層構造のまま**上書きされます。
 

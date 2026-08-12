@@ -46,27 +46,27 @@ patch/Graphics/Pictures/ja/                 状態異常バッジ（一覧用）
 patch/Graphics/Pictures/Party/ja/           状態異常バッジ 6枚
 
 Scripts/Battle.rb              Scripts/OrgBattle.rb
-Scripts/Battle_Effects.rb      Scripts/Party.rb
-Scripts/Battle_Inspect.rb      Scripts/PBIntl.rb
-Scripts/Battle_Move.rb         Scripts/PokedexScene.rb
-Scripts/Battle_MoveEffects.rb  Scripts/PulseDex.rb
-Scripts/Battle_Scene.rb        Scripts/PurifyChamber.rb
-Scripts/Battle_ZMove.rb        Scripts/SpriteWindow.rb
-Scripts/BattleData.rb          Scripts/Storage.rb
-Scripts/Battler.rb             Scripts/Summary.rb
-Scripts/BattleSwap.rb          Scripts/System.rb
-Scripts/DrawText.rb            Scripts/TextEntry.rb
-Scripts/Field.rb               Scripts/Updater.rb
-Scripts/FieldNotes.rb          Scripts/Randomizer/RandomizerUtils.rb
-Scripts/Game_Map.rb            Scripts/Reborn/FieldNoteCompiler.rb
-Scripts/ItemEffects.rb         Scripts/Reborn/RebornPokegear.rb
-Scripts/Items.rb               Scripts/Reborn/RebornScripts.rb
-Scripts/Load.rb                Scripts/Reborn/Settings.rb
-Scripts/Messages.rb            Scripts/Reborn/TrainerSelect.rb
-Scripts/Options.rb
+Scripts/BattleData.rb          Scripts/PBIntl.rb
+Scripts/BattleSwap.rb          Scripts/Party.rb
+Scripts/Battle_Effects.rb      Scripts/PokedexScene.rb
+Scripts/Battle_Inspect.rb      Scripts/PulseDex.rb
+Scripts/Battle_Move.rb         Scripts/PurifyChamber.rb
+Scripts/Battle_MoveEffects.rb  Scripts/Randomizer/RandomizerUtils.rb
+Scripts/Battle_Scene.rb        Scripts/Reborn/FieldNoteCompiler.rb
+Scripts/Battle_ZMove.rb        Scripts/Reborn/RebornPokegear.rb
+Scripts/Battler.rb             Scripts/Reborn/RebornScripts.rb
+Scripts/DrawText.rb            Scripts/Reborn/Settings.rb
+Scripts/Field.rb               Scripts/Reborn/TrainerSelect.rb
+Scripts/FieldNotes.rb          Scripts/SpriteWindow.rb
+Scripts/Game_Map.rb            Scripts/Storage.rb
+Scripts/ItemEffects.rb         Scripts/Summary.rb
+Scripts/Items.rb               Scripts/System.rb
+Scripts/Load.rb                Scripts/TextEntry.rb
+Scripts/Messages.rb            Scripts/TimeWeather.rb
+Scripts/Options.rb             Scripts/Updater.rb
 ```
 
-`patch/` 以下の8つと、`Scripts/` 以下の37ファイルです。
+`patch/` 以下の8つと、`Scripts/` 以下の38ファイルです。
 `patch/` はゲームが標準で読み込む差分フォルダなので、既存のファイルは消えません。
 
 ### 2. 言語を切り替える

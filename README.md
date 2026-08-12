@@ -152,11 +152,15 @@ Scripts/Options.rb
 
 | | |
 |---|---|
-| `patch/Fonts/pokemonemerald.ttf` | 実体は **M+ FONTS**（Copyright (C) 2013 M+ Font Project, 8,120グリフ）。改変・再配布を無制限に許可するライセンスで、著作権表示はフォント内部の name テーブルに保持しています |
+| `patch/Fonts/pokemonemerald.ttf` | 仮名・漢字は **M+ FONTS**（Copyright (C) 2013 M+ Font Project）。差し替え元の Reborn 標準フォントは aztecwarrior28 氏が FontStruct で作成した **CC BY-SA 3.0** のフォントで、同名・同デザインのため両者に謝辞を記しています。詳細と未確認事項は [NOTICE](NOTICE) を参照 |
 | `patch/Data/japanese.dat` | Pokémon Reborn の脚本の翻案物 |
 | `patch/Graphics/**` | Reborn の画像を下敷きに文字を差し替えたもの |
 | `Scripts/*.rb` | Reborn / Pokémon Essentials のソースの改変版 |
 | `jp_translation/work/src/` | Reborn の英語スクリプト全文を含みます（リポジトリのみ。配布 zip には入りません） |
+| `jp_translation/backup/` | Reborn のオリジナルファイルの控え（元に戻すため。リポジトリのみ） |
+
+自作部分（`jp_translation/tools/`）は MIT ライセンスです。
+それ以外の帰属は **[NOTICE](NOTICE)** にまとめてあります。
 
 **ゲーム本体は同梱していません。** 再配布する場合もパッチのみとし、
 Reborn 本体は公式サイトから入手してください。

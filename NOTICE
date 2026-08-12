@@ -1,0 +1,93 @@
+# NOTICE
+
+This repository is a **fan-made, unofficial Japanese translation patch** for the
+fan game *Pokémon Reborn*. It is not endorsed by, affiliated with, or provided
+by Nintendo, The Pokémon Company, GAME FREAK, Creatures Inc., or the Pokémon
+Reborn development team.
+
+Most of what is in here is not the patch author's work. This file records what
+belongs to whom, component by component.
+
+---
+
+## 1. Work of this project
+
+| Path | Rights | Terms |
+|---|---|---|
+| `jp_translation/tools/**` | Xephy | MIT — see [LICENSE](LICENSE) |
+
+Everything below is a third-party work, or a derivative of one.
+
+---
+
+## 2. Pokémon Reborn
+
+*Pokémon Reborn* is a fan game by Amethyst and the Reborn development team.
+The game itself is **not included in this repository**; obtain it from the
+official site.
+
+| Path | What it is |
+|---|---|
+| `Scripts/**.rb` | Modified source of Pokémon Reborn / Pokémon Essentials. Only the files this patch changes are kept here, not the full tree. |
+| `patch/Data/japanese.dat` | The translated message tables. Every entry is keyed by Reborn's original English line, so the file embeds the game's script. |
+| `jp_translation/work/src/**`, `work/batch/**`, `work/answers/**` | The same text as editable sources — Reborn's complete English script alongside the translation. |
+| `patch/Graphics/**` | Reborn's images with their embedded text repainted in Japanese. Derivative of the original art. |
+| `jp_translation/backup/**` | Unmodified copies of Reborn's original scripts and message data, kept so the patch can be reverted. |
+
+Translating and redistributing this material is done on the understanding that
+it accompanies, and does not replace, the original game. **Confirm the Reborn
+team's position before redistributing.**
+
+## 3. Pokémon
+
+*Pokémon* is a registered trademark of Nintendo, The Pokémon Company, GAME
+FREAK and Creatures Inc. The translation uses the **official Japanese names**
+of Pokémon, moves, abilities, items and types, and — for entries that exist in
+the official games — official Japanese descriptive text. Those rights belong to
+the companies above.
+
+`jp_translation/tools/pokeapi_csv/` is **deliberately not committed**. It holds
+that official text, and it is only an input to `build_glossary.py` and
+`build_descriptions.py`. Both download it on demand from
+<https://github.com/PokeAPI/pokeapi> when it is missing.
+
+## 4. Bundled font — `patch/Fonts/pokemonemerald.ttf`
+
+This replaces Reborn's font of the same name, which has no kana or kanji.
+
+Its name table declares:
+
+    Copyright (C) 2013 M+ Font Project
+    Family      PokemonEmerald
+    Unique ID   PokemonEmerald;JP
+    Version     2013.0602
+
+so the Japanese glyphs come from the **M+ FONTS Project**. The M+ license of
+that era grants unlimited permission to use, copy, modify and redistribute the
+fonts, commercially or not, with no warranty.
+
+The file it replaces — Reborn's `Fonts/pokemonemerald.ttf` — declares:
+
+    Copyright aztecwarrior28 2020
+    "Pokémon Emerald Pro" by "crystalwalrein", built with FontStruct
+    License     Creative Commons Attribution Share Alike
+                http://creativecommons.org/licenses/by-sa/3.0/
+
+The bundled file carries the same family name and adds Japanese glyphs to that
+design, so it appears to combine M+ glyphs with the FontStruct *PokemonEmerald*
+face. Both are credited here on that basis.
+
+**Unverified:** the bundled file itself states no license, and its exact
+provenance is unknown to this project. If the CC BY-SA 3.0 terms reach the
+Latin glyphs, the ShareAlike condition attaches to the font. Verify before
+redistributing the font outside this patch.
+
+Credits, regardless of which terms apply:
+
+- M+ FONTS Project — <https://mplusfonts.github.io/>
+- aztecwarrior28 and crystalwalrein, via FontStruct — <https://fontstruct.com/>
+
+---
+
+No warranty of any kind is given for this patch, and no liability is accepted
+for any damage arising from its use.

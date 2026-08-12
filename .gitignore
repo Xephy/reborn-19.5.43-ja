@@ -6,6 +6,8 @@
 !.gitignore
 !/README.md
 !/CHANGELOG.md
+!/LICENSE
+!/NOTICE
 !/jp_translation/
 !/patch/
 
@@ -56,3 +58,7 @@
 
 # Byte-compiled Python from running the tools; not part of the patch.
 __pycache__/
+
+# Official Pokémon text, fetched on demand by build_glossary.py /
+# build_descriptions.py. Not ours to redistribute; see NOTICE.
+jp_translation/tools/pokeapi_csv/

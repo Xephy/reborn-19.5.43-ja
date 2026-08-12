@@ -247,12 +247,21 @@ GitHub Releases に添付する。zip の中身は `sync.sh` の配布リスト�
 | `find_untranslated.py` | 表を通らず英語のまま出る文字列を検出 |
 | `fitcheck.py` / `fit_lines.py` | メッセージウィンドウ幅の検証と自動改行 |
 | `build_glossary.py` | ゲームデータから公式日本語名の用語集を生成 |
+| `build_descriptions.py` | 説明文セクションを公式日本語テキストで埋める |
 | `build_type_icons.py` | 日本語のタイプアイコンを英語版から生成 |
 | `build_command_buttons.py` | 日本語のバトル行動選択ボタンを英語版から生成 |
 | `build_status_badges.py` | 日本語の状態異常バッジを英語版から生成 |
 | `build_pulsedex_images.py` | 日本語のパルス図鑑ページを英語版から生成 |
 | `recover_from_dat.py` | 既存の .dat から JSONL を復元 |
 | `make_release.py` | 配布用 zip を `sync.sh` の一覧から作る |
+
+`build_glossary.py` と `build_descriptions.py` は PokeAPI の CSV を読む。この CSV は
+**本家ポケモンの公式テキストそのもの**なのでリポジトリには入れていない（`.gitignore`）。
+無ければ両者の `ensure_csv()` が
+<https://github.com/PokeAPI/pokeapi> から自動で取得する（初回のみ約23MB）。
+どちらも一度だけ回す生成器で、成果物は `work/glossary.json` と
+`work/src/02・03・06・08・10_*.jsonl` に焼き込み済み。
+日常の `apply_batch.py → dejoyo.py → build.py → sync.sh` は CSV を参照しない。
 
 ### 書き戻し時の検証
 

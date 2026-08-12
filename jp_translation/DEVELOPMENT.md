@@ -97,6 +97,18 @@ Reborn には150件ほどあった。
 - 文字列連結や `#{}` で組み立てているものはどうやってもキーにならないので
   `_INTL("...{1}...", 変数)` の形に書き換えた
 
+### 2c. テキストが第1引数ではない補助関数
+
+`UIHelper.pbChooseNumber(helpwindow, 'How many do you want to use?', max)` のように、
+**表示文字列が第2引数**に来る補助関数がある。`pbMessage` 系の第1引数だけを見ていた
+検査はこれを拾えず、しかも単一引用符なのでコンパイラにも登録されていなかった。
+アメ類・栄養ドリンク・きのみなど `ItemHandlers::MultipleAtOnce` の個数を聞く場面で
+英語のまま出ていた。
+
+`find_untranslated.py` は `pbChooseNumber` / `pbInputNumber` / `pbShowCommands` /
+`pbChooseList` / `pbChooseItemFromList` を呼ぶ行について、**引数の位置を問わず**
+すべてのリテラルを見る。`@sprites["msgwindow"]` のような添字は除外している。
+
 ### 3. 訳文に英語の部品が差し込まれる
 
 テンプレート自体は訳せていても、`{1}` `{2}` に埋める部品が英語だと結局まざる。

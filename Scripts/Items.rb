@@ -693,7 +693,7 @@ def pbUseItem(bag, item, bagscene = nil)
                 viewport.z = 99999
                 helpwindow = Window_UnformattedTextPokemon.new("")
                 helpwindow.viewport = viewport
-                amount = UIHelper.pbChooseNumber(helpwindow, 'How many do you want to use?', bag.pbQuantity(item))
+                amount = UIHelper.pbChooseNumber(helpwindow, _INTL("How many do you want to use?"), bag.pbQuantity(item))
                 helpwindow.dispose
                 viewport.dispose
                 ret = true

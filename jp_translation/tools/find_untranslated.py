@@ -58,6 +58,13 @@ SQ_MESSAGE = re.compile(
     r"pbChoice|pbMessageChooseNumber|pbMessageFreeText|pbDisplay\w*)\s*\(\s*"
     r"'((?:[^'\\]|\\.)*)'")
 SQ_INTL = re.compile(r"(?:_INTL|_ISPRINTF)\s*\(?\s*'((?:[^'\\]|\\.)*)'")
+# Prompt helpers take their text somewhere other than the first argument
+# (UIHelper.pbChooseNumber(window, "text", max)), so the first-argument rules
+# above miss them. On a line that calls one, look at every literal.
+HELPER_CALL = re.compile(
+    r'\b(?:UIHelper\.)?(?:pbChooseNumber|pbInputNumber|pbShowCommands|'
+    r'pbChooseList|pbChooseItemFromList)\s*\(')
+ANY_LITERAL = re.compile(r'"((?:[^"\\]|\\.)*)"' + r"|'((?:[^'\\]|\\.)*)'")
 # Text drawn straight onto a bitmap never goes near a message function, so the
 # checks above cannot see it. The drawing helpers take ["text", x, y, ...]
 # tuples, so look for an array literal that starts with a displayable string in
@@ -183,6 +190,23 @@ def main():
         for n, line in enumerate(src.split('\n'), 1):
             if line.lstrip().startswith('#'):
                 continue
+            if HELPER_CALL.search(line):
+                for m in ANY_LITERAL.finditer(line):
+                    if INTL_CALL.search(line[:m.start() + 1]):
+                        continue
+                    # A literal used as a subscript is a hash key, not text.
+                    if line[:m.start()].rstrip().endswith('['):
+                        continue
+                    lit = m.group(1) if m.group(1) is not None else m.group(2)
+                    key = msgtypes.string_to_key(unescape(lit))
+                    if not key or not HAS_LETTERS.search(key) or '#{' in key:
+                        continue
+                    if ASSET_PATH.search(key) or key in INTENTIONAL_ENGLISH:
+                        continue
+                    if key not in keys:
+                        no_key.setdefault(key, f'{script}:{n}')
+                    elif not keys[key]:
+                        untranslated.setdefault(key, f'{script}:{n}')
             for m in DATA_NAME.finditer(line):
                 if f'{script}:{n}' not in DATA_NAME_OK:
                     raw_name.append((f'{script}:{n}', line.strip()[:90]))

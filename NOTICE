@@ -55,37 +55,68 @@ that official text, and it is only an input to `build_glossary.py` and
 
 This replaces Reborn's font of the same name, which has no kana or kanji.
 
-Its name table declares:
+It is a merge of two existing faces. Neither is the work of this project.
+
+### Japanese glyphs — PixelMplus / M+ BITMAP FONTS
+
+The name table declares:
 
     Copyright (C) 2013 M+ Font Project
     Family      PokemonEmerald
     Unique ID   PokemonEmerald;JP
     Version     2013.0602
 
-so the Japanese glyphs come from the **M+ FONTS Project**. The M+ license of
-that era grants unlimited permission to use, copy, modify and redistribute the
-fonts, commercially or not, with no warranty.
+`2013.0602` is the release date of **PixelMplus 20130602** by itouhiro — a
+TrueType outline conversion of **M+ BITMAP FONTS** covering JIS levels 1 and 2.
+That is the origin of the kana and kanji.
 
-The file it replaces — Reborn's `Fonts/pokemonemerald.ttf` — declares:
+These are covered by the **M+ FONT LICENSE** (SPDX: `mplus`), the pre-2021 M+
+terms, quoted in full:
+
+    M+ FONTS Copyright (C) 2002-2013 M+ FONTS PROJECT
+
+    These fonts are free software.
+
+    Unlimited permission is granted to use, copy, and distribute them, with or
+    without modification, either commercially or noncommercially.
+
+    THESE FONTS ARE PROVIDED "AS IS" WITHOUT WARRANTY.
+
+Note that this is the **older** M+ project, hosted at
+<https://mplus-fonts.osdn.jp/>. The present-day M+ project at
+<https://mplusfonts.github.io/> (M PLUS 1/2, M PLUS Code) is a later,
+Google-supported redesign released under the SIL Open Font License, and is
+**not** what this font is built from.
+
+- PixelMplus — <https://github.com/itouhiro/PixelMplus>
+
+### Latin glyphs — PokemonEmerald (CC BY-SA 3.0)
+
+The font this one replaces, Reborn's own `Fonts/pokemonemerald.ttf`, declares:
 
     Copyright aztecwarrior28 2020
     "Pokémon Emerald Pro" by "crystalwalrein", built with FontStruct
     License     Creative Commons Attribution Share Alike
                 http://creativecommons.org/licenses/by-sa/3.0/
 
-The bundled file carries the same family name and adds Japanese glyphs to that
-design, so it appears to combine M+ glyphs with the FontStruct *PokemonEmerald*
-face. Both are credited here on that basis.
+The bundled font's Latin glyphs are that face. Rasterising `A-Z a-z 0-9` from
+both files at 16px produces **byte-identical** output, and the advance widths
+match exactly, so the Latin side was carried over rather than redrawn.
 
-**Unverified:** the bundled file itself states no license, and its exact
-provenance is unknown to this project. If the CC BY-SA 3.0 terms reach the
-Latin glyphs, the ShareAlike condition attaches to the font. Verify before
-redistributing the font outside this patch.
+- aztecwarrior28, via FontStruct — <https://fontstruct.com/fontstructors/show/1606234/aztecwarrior28>
+- crystalwalrein, via FontStruct — <https://fontstruct.com/fontstructors/show/387548/crystalwalrein>
 
-Credits, regardless of which terms apply:
+### Consequence
 
-- M+ FONTS Project — <https://mplusfonts.github.io/>
-- aztecwarrior28 and crystalwalrein, via FontStruct — <https://fontstruct.com/>
+The bundled file states no license of its own, and who merged the two faces is
+unknown to this project. Because the Latin glyphs carry CC BY-SA 3.0, the
+ShareAlike condition is taken to reach the merged font: it is passed on under
+**CC BY-SA 3.0**, with attribution as above. The Japanese glyphs are separately
+free under the M+ terms quoted above.
+
+Reborn ships the same CC BY-SA face, so this patch is in the same position as
+the game it patches. If you redistribute the font on its own, verify this for
+yourself rather than relying on this summary.
 
 ---
 

@@ -152,7 +152,7 @@ Scripts/Options.rb
 
 | | |
 |---|---|
-| `patch/Fonts/pokemonemerald.ttf` | 仮名・漢字は **M+ FONTS**（Copyright (C) 2013 M+ Font Project）。差し替え元の Reborn 標準フォントは aztecwarrior28 氏が FontStruct で作成した **CC BY-SA 3.0** のフォントで、同名・同デザインのため両者に謝辞を記しています。詳細と未確認事項は [NOTICE](NOTICE) を参照 |
+| `patch/Fonts/pokemonemerald.ttf` | 2つのフォントの合成。仮名・漢字は itouhiro 氏の **PixelMplus 20130602**（M+ BITMAP FONTS 由来、**M+ FONT LICENSE**）。英数字は Reborn 標準フォントと同一で、aztecwarrior28 氏が FontStruct で作成した **CC BY-SA 3.0** のもの。継承条件に従い、本フォントも CC BY-SA 3.0 で再配布します。詳細は [NOTICE](NOTICE) |
 | `patch/Data/japanese.dat` | Pokémon Reborn の脚本の翻案物 |
 | `patch/Graphics/**` | Reborn の画像を下敷きに文字を差し替えたもの |
 | `Scripts/*.rb` | Reborn / Pokémon Essentials のソースの改変版 |

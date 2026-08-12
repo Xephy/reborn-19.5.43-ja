@@ -17,7 +17,7 @@ Pokémon Reborn（RPG Maker XP / Pokémon Essentials, mkxp-z）を日本語で�
 
 | | |
 |---|---|
-| パッチのバージョン | **v19.5.43-ja.2** |
+| パッチのバージョン | **v19.5.43-ja.3** |
 | 対象 | **Pokémon Reborn 19.5.43 専用** |
 | 動作環境 | Windows 版 / Linux（AppImage）版 |
 | 必要なもの | `mkxp.json` に `"patches": ["patch"]` があること（19.5.43 では標準で入っています） |
@@ -31,7 +31,7 @@ Pokémon Reborn（RPG Maker XP / Pokémon Essentials, mkxp-z）を日本語で�
 
 ### 1. ファイルをコピーする
 
-Releases から `reborn-19.5.43-ja.2.zip` を取得し、ゲームのインストール先
+Releases から `reborn-19.5.43-ja.3.zip` を取得し、ゲームのインストール先
 （`Game.exe` / `Game.AppImage` のある場所）で展開します。中身は次のとおりで、
 **同じ階層構造のまま**上書きされます。
 
@@ -83,7 +83,7 @@ Scripts/Options.rb
 ## 元に戻す
 
 `jp_translation/backup/19.5.43-scripts/` に改変前のスクリプトが入っています。
-これらを `Scripts/` へ書き戻し、コピーした `patch/` 以下の4つを削除すれば元通りです。
+これらを `Scripts/` へ書き戻し、コピーした `patch/` 以下の9つを削除すれば元通りです。
 
 セーブデータは英語版と共通で、言語を切り替えても壊れません。
 

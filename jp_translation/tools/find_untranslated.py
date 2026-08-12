@@ -32,6 +32,7 @@ import sys
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import msgtypes  # noqa: E402
+import rmarshal  # noqa: E402
 
 SRC = 'jp_translation/work/src'
 BOOTSTRAP = 'Scripts/Reborn/Bootstrap.rb'
@@ -110,6 +111,50 @@ DATA_NAME_OK = {
     # Screen reader output, which is English throughout.
     'PokedexScene:808', 'PokedexScene:810',
 }
+
+
+def hand_added_map_keys():
+    """Map-section keys this project invented, and whether section 22 backs them.
+
+    Reborn's own compiler registers a key for every message command in a map,
+    and those always resolve. A key added by hand does not go through that
+    compiler, and at least once it did not resolve at run time even though the
+    built file contained it - the Grand Hall sparring speeches, which are
+    assigned to a game variable by a script line rather than shown by a message
+    command.
+
+    The reliable second path is the script-text section: pbTrainerSpeech falls
+    back to _INTL when the end-speech section misses. So a hand-added map key
+    has to be mirrored there, and this reports any that are not.
+    """
+    orig = rmarshal.load('Data/messages.dat')[0]
+    sec22 = {}
+    unbacked = []
+    for path in sorted(os.listdir(SRC)):
+        if not path.endswith('.jsonl'):
+            continue
+        for line in open(os.path.join(SRC, path), encoding='utf-8'):
+            if not line.strip():
+                continue
+            r = json.loads(line)
+            if r['sec'] == 22 and isinstance(r['key'], str):
+                sec22[msgtypes.string_to_key(r['key'])] = True
+    for path in sorted(os.listdir(SRC)):
+        if not path.startswith('map_') or not path.endswith('.jsonl'):
+            continue
+        mid = int(path[4:-6])
+        known = orig[mid] if isinstance(orig, list) and mid < len(orig) and orig[mid] else {}
+        known = set(known.keys()) if hasattr(known, 'keys') else set()
+        for line in open(os.path.join(SRC, path), encoding='utf-8'):
+            if not line.strip():
+                continue
+            r = json.loads(line)
+            if not isinstance(r.get('key'), str):
+                continue
+            key = msgtypes.string_to_key(r['key'])
+            if key not in known and key not in sec22:
+                unbacked.append((f'map:{mid}', r['key']))
+    return unbacked
 
 
 def unescape(s):
@@ -287,6 +332,11 @@ def main():
     for where, key in unreachable:
         print(f'  {where:44} {key!r}')
     print()
+    unbacked = hand_added_map_keys()
+    print(f'{len(unbacked)} hand-added map key(s) with no section-22 backup')
+    for where, key in unbacked:
+        print(f'  {where:44} {key[:70]!r}')
+    print()
     print(f'{len(raw_name)} data-object name(s) used without their message section')
     for where, text in raw_name:
         print(f'  {where:44} {text}')
@@ -294,7 +344,8 @@ def main():
     print(f'{len(runtime_key)} key(s) assembled at run time (cannot be looked up)')
     for where, text in runtime_key:
         print(f'  {where:44} {text[:96]}')
-    return 1 if (no_key or untranslated or unreachable or raw_name) else 0
+    return 1 if (no_key or untranslated or unreachable or raw_name
+                 or unbacked) else 0
 
 
 if __name__ == '__main__':

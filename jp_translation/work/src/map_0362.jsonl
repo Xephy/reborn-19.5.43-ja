@@ -67,7 +67,7 @@
 {"sec": "map:362", "key": "???: What's coincidence?", "en": "???: What's coincidence?", "ja": "???: 何が偶然なの?"}
 {"sec": "map:362", "key": "AMARIA: Oh, hi Tania!", "en": "AMARIA: Oh, hi Tania!", "ja": "アマリア: あら、ターニャ!"}
 {"sec": "map:362", "key": "Tania, this is the \\PN I told you about.", "en": "Tania, this is the \\PN I told you about. ", "ja": "ターニャ、この子が話してた\\PNよ。"}
-{"sec": "map:362", "key": "\\PN, Titania~", "en": "\\PN, Titania~", "ja": "\\PN、こちらティタニア〜"}
+{"sec": "map:362", "key": "\\PN, Titania~", "en": "\\PN, Titania~", "ja": "\\PN、こちらティタニア～"}
 {"sec": "map:362", "key": "TITANIA: We've met.", "en": "TITANIA: We've met.", "ja": "ティタニア: もう会ってるわ。"}
 {"sec": "map:362", "key": "TITANIA: Hi.", "en": "TITANIA: Hi.", "ja": "ティタニア: どうも。"}
 {"sec": "map:362", "key": "TITANIA: Ignore the mess; we weren't expecting company.", "en": "TITANIA: Ignore the mess; we weren't expecting company.", "ja": "ティタニア: 散らかっててごめんなさい、お客さんが来るとは思ってなかったから。"}
@@ -87,11 +87,11 @@
 {"sec": "map:362", "key": "Here, let's go!", "en": "Here, let's go!", "ja": "さあ、行きましょう!"}
 {"sec": "map:362", "key": "TITANIA: Nope, you're staying put.", "en": "TITANIA: Nope, you're staying put.", "ja": "ティタニア: だめ、あなたはここにいなさい。"}
 {"sec": "map:362", "key": "You need to rest.", "en": "You need to rest.", "ja": "休まないといけないんだから。"}
-{"sec": "map:362", "key": "AMARIA: Ahah... Okay~", "en": "AMARIA: Ahah... Okay~", "ja": "アマリア: あはは……分かったわ〜"}
+{"sec": "map:362", "key": "AMARIA: Ahah... Okay~", "en": "AMARIA: Ahah... Okay~", "ja": "アマリア: あはは……分かったわ～"}
 {"sec": "map:362", "key": "We think I might've cracked a couple ribs after the incident with Solaris...", "en": "We think I might've cracked a couple ribs after the incident with Solaris...", "ja": "ソラリスとの一件で、ろっ骨を何本かひびが入ったかもしれないの……"}
 {"sec": "map:362", "key": "But it'll be okay! I'm sure I'll be back in action soon!", "en": "But it'll be okay! I'm sure I'll be back in action soon!", "ja": "でも大丈夫! すぐにまた動けるようになるはずよ!"}
 {"sec": "map:362", "key": "TITANIA: Up this way, \\PN.", "en": "TITANIA: Up this way, \\PN.", "ja": "ティタニア: こっちよ、\\PN。"}
-{"sec": "map:362", "key": "AMARIA: Tania may be a little distant, but she's really a sweetheart~", "en": "AMARIA: Tania may be a little distant, but she's really a sweetheart~", "ja": "アマリア: ターニャは少しよそよそしいところもあるけど、本当は優しい子なのよ〜"}
+{"sec": "map:362", "key": "AMARIA: Tania may be a little distant, but she's really a sweetheart~", "en": "AMARIA: Tania may be a little distant, but she's really a sweetheart~", "ja": "アマリア: ターニャは少しよそよそしいところもあるけど、本当は優しい子なのよ～"}
 {"sec": "map:362", "key": "AMARIA: Samson's the Fighting Type Leader.", "en": "AMARIA: Samson's the Fighting Type Leader.", "ja": "アマリア: サムソンはかくとうタイプのリーダーよ。"}
 {"sec": "map:362", "key": "But you've been tearing through badges, right?", "en": "But you've been tearing through badges, right?", "ja": "でも、あなたはもうバッジを次々集めてるんでしょう?"}
 {"sec": "map:362", "key": "I'm sure you won't have any trouble!", "en": "I'm sure you won't have any trouble!", "ja": "きっと問題ないはずよ!"}
@@ -119,7 +119,7 @@
 {"sec": "map:362", "key": "Can anything break the forcefield around Labradorra?", "en": "Can anything break the forcefield around Labradorra? ", "ja": "ラブラドラを包む　力場を　破る手立ては　あるのでしょうか?"}
 {"sec": "map:362", "key": "What will happen to the resistance in Calcenon?", "en": "What will happen to the resistance in Calcenon?", "ja": "カルセノンの　抵抗勢力は　どうなってしまうのでしょう?"}
 {"sec": "map:362", "key": "Stay tuned to find out!", "en": "Stay tuned to find out!", "ja": "続報にご期待ください!"}
-{"sec": "map:362", "key": "XOXO ~ Gossip Gardevoir", "en": "XOXO ~ Gossip Gardevoir", "ja": "XOXO 〜 ゴシップ・サーナイトより"}
+{"sec": "map:362", "key": "XOXO ~ Gossip Gardevoir", "en": "XOXO ~ Gossip Gardevoir", "ja": "XOXO ～ ゴシップ・サーナイトより"}
 {"sec": "map:362", "key": "AMARIA: The PULSE...", "en": "AMARIA: The PULSE... ", "ja": "アマリア: PULSEって……"}
 {"sec": "map:362", "key": "It's just like with that Muk.", "en": "It's just like with that Muk.", "ja": "あのベトベトンの時と同じね。"}
 {"sec": "map:362", "key": "HARDY: Maybe we oughta go up there and help the resistance out.", "en": "HARDY: Maybe we oughta go up there and help the resistance out.", "ja": "ハーディ: 俺たちもあっちに行って、抵抗運動に力を貸すべきじゃないか。"}
@@ -242,7 +242,7 @@
 {"sec": "map:362", "key": "Will you tell me you've always been honest?", "en": "Will you tell me you've always been honest?", "ja": "ずっと正直だったなんて、言えるの?"}
 {"sec": "map:362", "key": "Can you really look me in the eyes and say that to me?", "en": "Can you really look me in the eyes and say that to me?", "ja": "本当に、わたしの目を見てそう言えるの?"}
 {"sec": "map:362", "key": "AMARIA: I knew it.", "en": "AMARIA: I knew it.", "ja": "アマリア: やっぱりね。"}
-{"sec": "map:362", "key": "Ahahahaha~...", "en": "Ahahahaha~...", "ja": "あはははは〜……"}
+{"sec": "map:362", "key": "Ahahahaha~...", "en": "Ahahahaha~...", "ja": "あはははは～……"}
 {"sec": "map:362", "key": "And here I've been, drinking up every single thing you've ever told me.", "en": "And here I've been, drinking up every single thing you've ever told me.", "ja": "わたし、あなたの言うことを何もかも、うのみにしてきたのよね。"}
 {"sec": "map:362", "key": "Even when I thought I knew better,", "en": "Even when I thought I knew better,", "ja": "本当は分かってるつもりの時でさえ、"}
 {"sec": "map:362", "key": "I let myself believe it, because I couldn't stand to tear myself away from you.", "en": "I let myself believe it, because I couldn't stand to tear myself away from you.", "ja": "あなたから離れるなんて耐えられなくて、自分に信じ込ませてた。"}

@@ -67,7 +67,7 @@
 {"sec": "map:414", "key": "Locked.", "en": "Locked.", "ja": "鍵がかかっている。"}
 {"sec": "map:414", "key": "LIN: The Doctor will see you now.", "en": "LIN: The Doctor will see you now.", "ja": "リン: 先生がお呼びよ。"}
 {"sec": "map:414", "key": "CAL: Tch, I didn't intend to get hung up so quickly...", "en": "CAL: Tch, I didn't intend to get hung up so quickly...", "ja": "キャル: チッ、こんなに早く足止め食らうつもりはなかったんだけどな……"}
-{"sec": "map:414", "key": "JULIA: Today's the day to set the score~\\nAll in all, we'll win the war~!", "en": "JULIA: Today's the day to set the score~\\nAll in all, we'll win the war~!", "ja": "ジュリア: 今日は決着をつける日〜\\nAllつまり、わたしたちが戦争に勝つ日ってこと〜!"}
+{"sec": "map:414", "key": "JULIA: Today's the day to set the score~\\nAll in all, we'll win the war~!", "en": "JULIA: Today's the day to set the score~\\nAll in all, we'll win the war~!", "ja": "ジュリア: 今日は決着をつける日～\\nAllつまり、わたしたちが戦争に勝つ日ってこと～!"}
 {"sec": "map:414", "key": "Medicham is focused on the battle!", "en": "Medicham is focused on the battle!", "ja": "チャーレムは戦いに集中している!"}
 {"sec": "map:414", "key": "Electrode is focused on the battle!", "en": "Electrode is focused on the battle!", "ja": "マルマインは戦いに集中している!"}
 {"sec": "map:414", "key": "HARDY: Oi, if you're gonna hold me up, you better at least point me the way when I'm done with ya!", "en": "HARDY: Oi, if you're gonna hold me up, you better at least point me the way when I'm done with ya!", "ja": "ハーディ: おい、俺の足止めするつもりなら、片付けた後くらい道案内してくれよな!"}
@@ -266,7 +266,7 @@
 {"sec": "map:414", "key": "AMARIA: See, it's not so bad.", "en": "AMARIA: See, it's not so bad.", "ja": "アマリア: ほら、そんなに悪くないでしょう。"}
 {"sec": "map:414", "key": "But I'm sure you don't want me hanging around for long.", "en": "But I'm sure you don't want me hanging around for long.", "ja": "でも、わたしにあんまり長くうろついてほしくないんでしょう。"}
 {"sec": "map:414", "key": "Then I'll catch up with the others.", "en": "Then I'll catch up with the others.", "ja": "なら、他のみんなに追いつくわね。"}
-{"sec": "map:414", "key": "Good luck~", "en": "Good luck~", "ja": "頑張って〜"}
+{"sec": "map:414", "key": "Good luck~", "en": "Good luck~", "ja": "頑張って～"}
 {"sec": "map:414", "key": "Wherein the Lord sleeps, there does his dreams, our world make.", "en": "Wherein the Lord sleeps, there does his dreams, our world make.", "ja": "主が眠りたもう場所において、その夢こそが我らの世界を形作る。"}
 {"sec": "map:414", "key": "Is this really the way for us? To lose at every turn with divine guidance?", "en": "Is this really the way for us? To lose at every turn with divine guidance?", "ja": "これが本当に我らの道なのか? 神の導きを受けながら、常に敗れ続けるとは。"}
 {"sec": "map:414", "key": "CAL: Here we go again...", "en": "CAL: Here we go again...", "ja": "キャル: また始まるのか……"}
@@ -446,11 +446,11 @@
 {"sec": "map:414", "key": "Things should be okay here now,", "en": "Things should be okay here now,", "ja": "もうここは大丈夫なはずだけど、"}
 {"sec": "map:414", "key": "But a lot of their members are still retreating through this building.", "en": "But a lot of their members are still retreating through this building.", "ja": "この建物を通って撤退してるメンバーがまだたくさんいるの。"}
 {"sec": "map:414", "key": "Shall we finish the job?", "en": "Shall we finish the job?", "ja": "仕上げに行きましょうか?"}
-{"sec": "map:414", "key": "You can go ahead; I'll be right behind you~", "en": "You can go ahead; I'll be right behind you~", "ja": "先に行っていいわよ、すぐ後ろから行くから〜"}
+{"sec": "map:414", "key": "You can go ahead; I'll be right behind you~", "en": "You can go ahead; I'll be right behind you~", "ja": "先に行っていいわよ、すぐ後ろから行くから～"}
 {"sec": "map:414", "key": "AMARIA: Oh, but just for the record?", "en": "AMARIA: Oh, but just for the record?", "ja": "アマリア: あ、でも念のため言っておくと?"}
 {"sec": "map:414", "key": "If you have anything you need to do, you should probably do it now.", "en": "If you have anything you need to do, you should probably do it now.", "ja": "何かやらなきゃいけないことがあるなら、今のうちにやっておいたほうがいいわよ。"}
-{"sec": "map:414", "key": "No reason or anything~", "en": "No reason or anything~", "ja": "特に理由はないんだけど〜"}
-{"sec": "map:414", "key": "AMARIA: Don't say I didn't warn you~", "en": "AMARIA: Don't say I didn't warn you~", "ja": "アマリア: 警告しなかったなんて言わせないから〜"}
+{"sec": "map:414", "key": "No reason or anything~", "en": "No reason or anything~", "ja": "特に理由はないんだけど～"}
+{"sec": "map:414", "key": "AMARIA: Don't say I didn't warn you~", "en": "AMARIA: Don't say I didn't warn you~", "ja": "アマリア: 警告しなかったなんて言わせないから～"}
 {"sec": "map:414", "key": "FLORA: If only I could take a look at a living PULSE specimen...", "en": "FLORA: If only I could take a look at a living PULSE specimen...", "ja": "フローラ: 生きてるPULSEの標本さえ見られたら……"}
 {"sec": "map:414", "key": "I should have enough data and references with what I've salvaged.", "en": "I should have enough data and references with what I've salvaged.", "ja": "回収したデータと資料は、もう十分にあるはずなんだけど。"}
 {"sec": "map:414", "key": "I just need one that's still alive so I can see what's causing the mutative physical stress...", "en": "I just need one that's still alive so I can see what's causing the mutative physical stress...", "ja": "変異的な身体ストレスの原因を突き止めるには、まだ生きてる個体が必要なのよ……"}
@@ -508,7 +508,7 @@
 {"sec": "map:414", "key": "SAPHIRA: What look?", "en": "SAPHIRA: What look?", "ja": "サファイラ: どの顔?"}
 {"sec": "map:414", "key": "CHARLOTTE: Like the 'how' that's hanging is about to start being a 'who' instead.", "en": "CHARLOTTE: Like the 'how' that's hanging is about to start being a 'who' instead.", "ja": "シャルロット: 「どう」じゃなくて「誰を」つるすかって顔。"}
 {"sec": "map:414", "key": "SAPHIRA: Unfortunately, any plans to install a gallows probably won't win me any favors in the legal guardianship department.", "en": "SAPHIRA: Unfortunately, any plans to install a gallows probably won't win me any favors in the legal guardianship department.", "ja": "サファイラ: 残念だけど、絞首台を設置する計画なんて、法的後見人としての評価を上げてはくれないでしょうね。"}
-{"sec": "map:414", "key": "CHARLOTTE: Adrienn and \\PN are on your side; it'll be fine~", "en": "CHARLOTTE: Adrienn and \\PN are on your side; it'll be fine~", "ja": "シャルロット: アドリエンヌと\\PNが味方についてるんだから、大丈夫よ〜"}
+{"sec": "map:414", "key": "CHARLOTTE: Adrienn and \\PN are on your side; it'll be fine~", "en": "CHARLOTTE: Adrienn and \\PN are on your side; it'll be fine~", "ja": "シャルロット: アドリエンヌと\\PNが味方についてるんだから、大丈夫よ～"}
 {"sec": "map:414", "key": "SAPHIRA: Hooray for nepotism.", "en": "SAPHIRA: Hooray for nepotism.", "ja": "サファイラ: 縁故万歳ってわけね。"}
 {"sec": "map:414", "key": "CHARLOTTE: Oh, stop it.", "en": "CHARLOTTE: Oh, stop it.", "ja": "シャルロット: もう、やめてよ。"}
 {"sec": "map:414", "key": "It's about trust.", "en": "It's about trust.", "ja": "信頼の問題でしょ。"}

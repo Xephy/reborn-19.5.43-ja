@@ -123,6 +123,17 @@ class PokemonSummaryScene
     @page = 3
     @sprites["background"] = IconSprite.new(0, 0, @viewport)
     @sprites["overlay"] = BitmapSprite.new(Graphics.width, Graphics.height, @viewport)
+    # Kept hidden until the player flips to the skills page with Left/Right,
+    # which is the only reason this scene needs a battler sprite at all.
+    @sprites["pokemon"] = PokemonSprite.new(@viewport)
+    @sprites["pokemon"].setPokemonBitmap(@pokemon)
+    @sprites["pokemon"].mirror = false
+    @sprites["pokemon"].color = Color.new(0, 0, 0, 0)
+    pbPositionPokemonSprite(@sprites["pokemon"], 40, 144)
+    if @pokemon.species == :EXEGGUTOR && @pokemon.form == 1
+      @sprites["pokemon"].y += 100
+    end
+    @sprites["pokemon"].visible = false
     @sprites["pokeicon"] = PokemonBoxIcon.new(@pokemon, @viewport)
     @sprites["pokeicon"].x = 14
     @sprites["pokeicon"].y = 52
@@ -680,6 +691,42 @@ class PokemonSummaryScene
     end
   end
 
+  # Which type-effectiveness badge belongs beside a move on the moves page, or
+  # -1 for none. Only answers while the battle scene has told us who the player
+  # is looking at, so an out-of-battle summary is left alone.
+  #
+  # The move is rebuilt as a battle move so this goes through exactly the same
+  # pbType and pbTypeModifier the fight menu uses; a benched Pokémon has no
+  # battler, so the one currently out stands in as the attacker. That only
+  # matters for Scrappy, which is read off the attacker.
+  def moveEffectIcon(pbmove)
+    return -1 if $Settings.type_matchup_hints != 1
+
+    target = $typematchup_target
+    return -1 if !target || target.pokemon.nil? || target.isFainted?
+    return -1 if !pbmove || pbmove.move.nil?
+
+    attacker = target.pbOppositeOpposing
+    return -1 if !attacker
+
+    move = PokeBattle_Move.pbFromPBMove(target.battle, pbmove, @pokemon)
+    return -1 if move.basedamage <= 0
+
+    movetype = move.pbType(attacker, move.type)
+    mod = move.pbTypeModifier(movetype, attacker, target)
+    return 5 if mod == 0
+    return -1 if (0x6A..0x73).include?(move.function) || [0xD4, 0xE1].include?(move.function)
+    return 0 if mod > 8
+    return 1 if mod == 8
+    return 2 if mod == 4
+    return 3 if mod == 2
+    return 4 if mod < 2
+
+    return -1
+  rescue
+    return -1
+  end
+
   def drawPageFive(pokemon)
     overlay = @sprites["overlay"].bitmap
     overlay.clear
@@ -725,6 +772,10 @@ class PokemonSummaryScene
       if pokemon.moves[i].move != nil
         imagepos.push([sprintf("Graphics/Icons/type%s", pokemon.moves[i].type), 248, yPos + 2, 0, 0, 64, 28])
         textpos.push([getMoveShortName(pokemon.moves[i].move), 316, yPos, 0, DarkBase, DarkShadow])
+        effect = moveEffectIcon(pokemon.moves[i])
+        if effect >= 0
+          imagepos.push(["Graphics/Pictures/Battle/typeeffect", 468, yPos + 2, 0, effect * 24, 24, 24])
+        end
         if pokemon.moves[i].totalpp > 0
           textpos.push([_ISPRINTF("PP"), 342, yPos + 32, 0, DarkBase, DarkShadow])
           textpos.push([sprintf("%d/%d", pokemon.moves[i].pp, pokemon.moves[i].totalpp), 460, yPos + 32, 1, DarkBase, DarkShadow])
@@ -961,10 +1012,38 @@ class PokemonSummaryScene
     ret = 0
     maxmove = (moveToLearn != 0) ? 4 : 3
     lastread = nil
+    skillspage = false
+    currentmove = lambda { (selmove == 4) ? moveToLearn : @pokemon.moves[selmove].move }
+    showmoves = lambda {
+      @sprites["pokemon"].visible = false if @sprites["pokemon"]
+      @sprites["pokeicon"].visible = true
+      @sprites["movesel"].visible = true
+      drawSelectedMove(@pokemon, moveToLearn, currentmove.call)
+    }
     loop do
       Graphics.update
       Input.update
       pbUpdate
+      # Deciding which move to drop needs the Pokémon's Attack and Sp. Atk, so
+      # Left/Right flip to the skills page and back. Nothing can be confirmed
+      # from there; the only way out is back to the move list.
+      if skillspage
+        if Input.trigger?(Input::LEFT) || Input.trigger?(Input::RIGHT) ||
+           Input.trigger?(Input::B) || Input.trigger?(Input::C)
+          skillspage = false
+          showmoves.call
+          lastread = nil
+        end
+        next
+      end
+      if Input.trigger?(Input::LEFT) || Input.trigger?(Input::RIGHT)
+        skillspage = true
+        @sprites["movesel"].visible = false
+        @sprites["pokeicon"].visible = false
+        @sprites["pokemon"].visible = true if @sprites["pokemon"]
+        drawPageThree(@pokemon)
+        next
+      end
       if lastread != selmove
         if selmove == 4
           readobj = PBMove.new(moveToLearn) if moveToLearn != 0

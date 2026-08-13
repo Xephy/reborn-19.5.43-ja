@@ -388,6 +388,7 @@ class FightMenuButtons < BitmapSprite
     @zmovebitmap = AnimatedBitmap.new(_INTL("Graphics/Pictures/Battle/battleZMove"))
     @goodmovebitmap = AnimatedBitmap.new(_INTL("Graphics/Pictures/Battle/fieldUp"))
     @badmovebitmap = AnimatedBitmap.new(_INTL("Graphics/Pictures/Battle/fieldDown"))
+    @typeeffectbitmap = AnimatedBitmap.new(_INTL("Graphics/Pictures/Battle/typeeffect"))
     refresh(index, moves, 0, 0, 0)
   end
 
@@ -397,6 +398,7 @@ class FightMenuButtons < BitmapSprite
     @zmovebitmap.dispose
     @goodmovebitmap.dispose
     @badmovebitmap.dispose
+    @typeeffectbitmap.dispose
     super
   end
 
@@ -490,6 +492,12 @@ class FightMenuButtons < BitmapSprite
       case pbFieldNotesBattle(moves[i])
         when 1 then self.bitmap.blt(x + 2, y + 2, @goodmovebitmap.bitmap, Rect.new(0, 0, @goodmovebitmap.bitmap.width, @goodmovebitmap.bitmap.height))
         when 2 then self.bitmap.blt(x + 2, y + 2, @badmovebitmap.bitmap, Rect.new(0, 0, @badmovebitmap.bitmap.width, @badmovebitmap.bitmap.height))
+      end
+      # The field outline above already wraps the whole button, so the type
+      # badge sits inside its top-right corner rather than adding a second one.
+      effect = pbTypeEffectIcon(moves[i], battler)
+      if effect >= 0
+        self.bitmap.blt(x + 164, y + 4, @typeeffectbitmap.bitmap, Rect.new(0, effect * 24, 24, 24))
       end
     end
     # Step the name font down until the longest of the four fits its button.
@@ -3684,6 +3692,10 @@ class PokeBattle_Scene
   def pbSwitch(index, lax, cancancel)
     party = @battle.pbParty(index)
     partypos = @battle.partyorder
+    # Lets the summary screen show the same effectiveness badges as the move
+    # buttons while the player is picking who to send out. Cleared on the way
+    # out so nothing leaks into an out-of-battle summary.
+    $typematchup_target = @battle.battlers[index].pbOppositeOpposing rescue nil
     ret = -1
     pbShowWindow(BLANK)
     pbSetMessageMode(true)
@@ -3734,6 +3746,7 @@ class PokeBattle_Scene
     pbSetMessageMode(false)
     # back to main battle screen
     pbFadeInAndShow(@sprites, visiblesprites)
+    $typematchup_target = nil
     @battle.logSwitch(index, ret) if ret >= 0
     return ret
   end
@@ -4677,6 +4690,41 @@ class PokeBattle_Scene
       pbBGMPlay("Victory!")
     end
   end
+end
+
+# Which type-effectiveness badge belongs on a move button, or -1 for none.
+# 0 = ★4x, 1 = ◎2x, 2 = ○1x, 3 = △1/2x, 4 = ▼1/4x, 5 = ×no effect.
+#
+# pbTypeModifier hands back the product of the two per-type multipliers,
+# where 2 is neutral for one type and 4 is neutral overall.
+#
+# Only the type chart is consulted, which is deliberate: abilities like
+# Levitate or Flash Fire are not public knowledge, and the mainline games do
+# not reveal them either. Field effects are covered, because pbTypeModifier
+# already folds in the ones that rewrite the chart (Holy, Cave, Inverse and
+# so on) and the button's own type is the field-adjusted one.
+def pbTypeEffectIcon(move, attacker)
+  return -1 if $Settings.type_matchup_hints != 1
+  return -1 if !move || !attacker || move.basedamage <= 0
+
+  opponent = attacker.pbOppositeOpposing
+  return -1 if !opponent || opponent.pokemon.nil? || opponent.isFainted?
+
+  movetype = move.pbType(attacker, move.type)
+  mod = move.pbTypeModifier(movetype, attacker, opponent)
+  return 5 if mod == 0
+  # Fixed-damage moves ignore how effective the type is, so only the immunity
+  # is worth showing for them.
+  return -1 if (0x6A..0x73).include?(move.function) || [0xD4, 0xE1].include?(move.function)
+  return 0 if mod > 8
+  return 1 if mod == 8
+  return 2 if mod == 4
+  return 3 if mod == 2
+  return 4 if mod < 2
+
+  return -1
+rescue
+  return -1
 end
 
 def pbFieldNotesBattle(move)

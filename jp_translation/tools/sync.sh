@@ -25,6 +25,9 @@ LIN="${REBORN_JA_LINUX:-$(dirname "$SRC")/Reborn-19.5.0-linux}"
 FILES=(
   "patch/Fonts/pokemonemerald.ttf"
   "patch/Data/japanese.dat"
+  # Type-effectiveness badges for the battle move buttons, drawn by
+  # build_effect_badges.py. Only shown once the "aishou" password is entered.
+  "patch/Graphics/Pictures/Battle/typeeffect.png"
   "Scripts/DrawText.rb"
   "Scripts/System.rb"
   "Scripts/Load.rb"

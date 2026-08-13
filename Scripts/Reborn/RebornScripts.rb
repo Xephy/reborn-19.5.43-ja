@@ -647,9 +647,39 @@ def makeDoubles?(opp = nil)
   return !opp || opp.length > 1
 end
 
+# Passwords added by the Japanese patch. They are kept out of PASSWORD_HASH
+# because that table maps to game switches, and every switch number up to the
+# reserved block at 2335 is already spoken for - squatting on the handful that
+# are left would collide with the next Reborn release. These live in $Settings
+# instead, so they also survive across save files.
+JA_PASSWORD_HASH = {
+  "aishou" => :type_matchup_hints,
+  "aisho" => :type_matchup_hints,
+}
+
+# The menu identifies a password by the id its table maps to, which for these
+# is a $Settings name rather than a switch number. Anywhere Reborn would read
+# $game_switches[id] has to come here instead, or the password reads as off
+# however many times it has been switched on.
+def pbJaPasswordId?(id)
+  return JA_PASSWORD_HASH.value?(id)
+end
+
+def pbJaPasswordOn?(id)
+  return false if !pbJaPasswordId?(id)
+
+  return $Settings.send(id) == 1
+end
+
 def addPassword(entrytext)
   # add stuff to password array if cass makes a thing for that
   entrytext.downcase!
+
+  if JA_PASSWORD_HASH[entrytext]
+    setting = JA_PASSWORD_HASH[entrytext]
+    $Settings.send("#{setting}=", $Settings.send(setting) == 1 ? 0 : 1)
+    return
+  end
 
   # Check if string is in hashes
   if PASSWORD_HASH[entrytext]
@@ -761,6 +791,9 @@ def addPassword(entrytext)
 end
 
 def checkPasswordActivation(entrytext)
+  if JA_PASSWORD_HASH[entrytext]
+    return pbJaPasswordOn?(JA_PASSWORD_HASH[entrytext])
+  end
   if PASSWORD_HASH[entrytext]
     return $game_switches[PASSWORD_HASH[entrytext]]
   end
@@ -810,7 +843,7 @@ def pbPasswordsMenu(maxOperations = nil)
     for id, pw in ids
       alreadyKnown = alreadyKnown && passwords[id] ? true : false
       # Toggle the password
-      active = $game_switches[id] ? true : false
+      active = pbJaPasswordId?(id) ? pbJaPasswordOn?(id) : ($game_switches[id] ? true : false)
       passwords[id] = {
         'password': pw,
         'active': active
@@ -829,6 +862,13 @@ end
 
 def pbGetPasswordIds(password)
   retval = {}
+  # The menu rejects anything this method does not recognise before
+  # addPassword ever runs, so the patch's own passwords have to answer here
+  # too. The setting name stands in for the switch id the others return.
+  if JA_PASSWORD_HASH[password]
+    retval[JA_PASSWORD_HASH[password]] = password
+    return retval
+  end
   id = PASSWORD_HASH[password]
   if id
     retval[id] = password
@@ -909,6 +949,18 @@ def pbGetKnownOrActivePasswords
     retval[id] = {
       'password': knownPasswords[id] || pw,
       'active': active
+    }
+  end
+  # The patch's own passwords are stored in $Settings rather than a switch, so
+  # they are listed separately. Only once active: leaving them out until then
+  # keeps them out of sight of players who never asked for them.
+  for pw, setting in JA_PASSWORD_HASH
+    next if retval[setting]
+    next if !pbJaPasswordOn?(setting)
+
+    retval[setting] = {
+      'password': pw,
+      'active': true
     }
   end
   return retval

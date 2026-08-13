@@ -234,6 +234,7 @@ class PokemonOptions
   attr_accessor :backup
   attr_accessor :maxBackup
   attr_accessor :field_effects_highlights
+  attr_accessor :type_matchup_hints
   attr_accessor :remember_commands
   attr_accessor :photosensitive
   attr_accessor :autosave
@@ -273,6 +274,9 @@ class PokemonOptions
     @backup      = 0 if @backup.nil? # Backup on/off
     @maxBackup   = 50 if @maxBackup.nil?
     @field_effects_highlights = 0 if @field_effects_highlights.nil? # Field effect UI highlights on/off
+    # Japanese patch: type effectiveness badges on the move buttons. Off unless
+    # the "aishou" password is entered; there is no menu entry for it.
+    @type_matchup_hints       = 0 if @type_matchup_hints.nil?
     @remember_commands        = 0 if @remember_commands.nil?
     @photosensitive           = 0 if @photosensitive.nil? # a mode that disables flashes and shakes (0=off, 1=on)
     @autorunning              = 0 if @autorunning.nil? # 0 is on, 1 is off

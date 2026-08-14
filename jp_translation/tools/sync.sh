@@ -34,6 +34,11 @@ FILES=(
   "Scripts/PBIntl.rb"
   "Scripts/Reborn/Settings.rb"
   "Scripts/Summary.rb"
+  # Type badges on the move screens were blitted straight from AnimatedBitmap,
+  # which takes the path as given and so never reached Graphics/Icons/ja/.
+  "Scripts/MoveRelearner.rb"
+  "Scripts/MoveTutor.rb"
+  "Scripts/MovesetRestorer.rb"
   # Nature names and ability descriptions on the summary screen came straight
   # from the data objects instead of the message tables.
   "Scripts/Items.rb"

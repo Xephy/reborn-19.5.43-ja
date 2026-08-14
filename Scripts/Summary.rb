@@ -962,12 +962,14 @@ class PokemonSummaryScene
     ]
     type1rect = Rect.new(0, 0, 64, 28)
     type2rect = Rect.new(0, 0, 64, 28)
+    # AnimatedBitmap takes the path as given, so unlike pbDrawImagePositions it
+    # never reaches the Japanese copies under Graphics/Icons/ja/.
     if pokemon.type2.nil? || pokemon.type1 == pokemon.type2
-      type1image = AnimatedBitmap.new(sprintf("Graphics/Icons/type%s", pokemon.type1))
+      type1image = AnimatedBitmap.new(pbBitmapName(sprintf("Graphics/Icons/type%s", pokemon.type1)))
       overlay.blt(130, 78, type1image.bitmap, type1rect)
     else
-      type1image = AnimatedBitmap.new(sprintf("Graphics/Icons/type%s", pokemon.type1))
-      type2image = AnimatedBitmap.new(sprintf("Graphics/Icons/type%s", pokemon.type2))
+      type1image = AnimatedBitmap.new(pbBitmapName(sprintf("Graphics/Icons/type%s", pokemon.type1)))
+      type2image = AnimatedBitmap.new(pbBitmapName(sprintf("Graphics/Icons/type%s", pokemon.type2)))
       overlay.blt(96, 78, type1image.bitmap, type1rect)
       overlay.blt(166, 78, type2image.bitmap, type2rect)
     end

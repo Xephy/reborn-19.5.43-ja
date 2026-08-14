@@ -19,6 +19,9 @@
 !/Scripts/Load.rb
 !/Scripts/PBIntl.rb
 !/Scripts/Summary.rb
+!/Scripts/MoveRelearner.rb
+!/Scripts/MoveTutor.rb
+!/Scripts/MovesetRestorer.rb
 !/Scripts/Items.rb
 !/Scripts/SpriteWindow.rb
 !/Scripts/Battle_Move.rb

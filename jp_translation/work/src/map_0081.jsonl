@@ -24,7 +24,7 @@
 {"sec": "map:81", "key": "I don't want to go back there.", "en": "I don't want to go back there.", "ja": "あそこにはもう戻りたくない。"}
 {"sec": "map:81", "key": "CAIN: ...Still, we have to, right?", "en": "CAIN: ...Still, we have to, right?", "ja": "カイン: …それでも、行かなきゃだよね?"}
 {"sec": "map:81", "key": "CAIN: There. The gate's open for all now.", "en": "CAIN: There. The gate's open for all now.", "ja": "カイン: よし。これで門はみんなに開かれた。"}
-{"sec": "map:81", "key": "If only it would've held Team Meteor in the first place.", "en": "If only it would've held Team Meteor in the first place.", "ja": "そもそもこれでミート団を閉じ込めておけてればよかったのにな。"}
+{"sec": "map:81", "key": "If only it would've held Team Meteor in the first place.", "en": "If only it would've held Team Meteor in the first place.", "ja": "そもそもこれでメテオ団を閉じ込めておけてればよかったのにな。"}
 {"sec": "map:81", "key": "CAIN: ...No more hesitating.", "en": "CAIN: ...No more hesitating.", "ja": "カイン: …もう迷ってる場合じゃない。"}
 {"sec": "map:81", "key": "Better do everything we can.", "en": "Better do everything we can.", "ja": "できることは全部やろう。"}
 {"sec": "map:81", "key": "...And better hope it's enough.", "en": "...And better hope it's enough.", "ja": "…それで足りることを祈るしかないね。"}
@@ -33,12 +33,12 @@
 {"sec": "map:81", "key": "Look, I know you have every reason to hate me, but hear me out.", "en": "Look, I know you have every reason to hate me, but hear me out.", "ja": "なあ、君が俺を憎む理由なら山ほどあるってわかってる。でも聞いてくれ。"}
 {"sec": "map:81", "key": "Please believe that I never meant for this to happen.", "en": "Please believe that I never meant for this to happen.", "ja": "こんな結果になるつもりはなかったんだ、信じてほしい。"}
 {"sec": "map:81", "key": "Kiki never would have--", "en": "Kiki never would have--", "ja": "キキがこんなことになるなんて――"}
-{"sec": "map:81", "key": "I didn't go to Apophyll to infiltrate it for Team Meteor.", "en": "I didn't go to Apophyll to infiltrate it for Team Meteor.", "ja": "ミート団のためにアポフィルに潜入しようとして行ったわけじゃないんだ。"}
+{"sec": "map:81", "key": "I didn't go to Apophyll to infiltrate it for Team Meteor.", "en": "I didn't go to Apophyll to infiltrate it for Team Meteor.", "ja": "メテオ団のためにアポフィルに潜入しようとして行ったわけじゃないんだ。"}
 {"sec": "map:81", "key": "I really did want to change.", "en": "I really did want to change. ", "ja": "本当に変わりたかった。"}
 {"sec": "map:81", "key": "And-- I did.", "en": "And-- I did.", "ja": "それに――実際に変われた。"}
 {"sec": "map:81", "key": "I think...", "en": "I think...", "ja": "…と思う。"}
 {"sec": "map:81", "key": "It feels like every time I finally get on track, something else happens to kick me off of it.", "en": "It feels like every time I finally get on track, something else happens to kick me off of it.", "ja": "やっと軌道に乗ったと思うたびに、また別の何かが起きて弾き出される気がするんだ。"}
-{"sec": "map:81", "key": "Team Meteor found out where I was, so they gave me orders to set up the PULSE.", "en": "Team Meteor found out where I was, so they gave me orders to set up the PULSE.", "ja": "ミート団に居場所がばれて、パルスを設置しろって命令されたんだ。"}
+{"sec": "map:81", "key": "Team Meteor found out where I was, so they gave me orders to set up the PULSE.", "en": "Team Meteor found out where I was, so they gave me orders to set up the PULSE.", "ja": "メテオ団に居場所がばれて、パルスを設置しろって命令されたんだ。"}
 {"sec": "map:81", "key": "You all and Kiki tried so hard to stop it...", "en": "You all and Kiki tried so hard to stop it...", "ja": "君たちもキキも、それを止めようと必死に頑張った…"}
 {"sec": "map:81", "key": "...But I had sabotaged the machine in the first place.", "en": "...But I had sabotaged the machine in the first place.", "ja": "…でも実は、俺が最初からあの機械に細工してたんだ。"}
 {"sec": "map:81", "key": "I didn't want anyone to get hurt.", "en": "I didn't want anyone to get hurt. ", "ja": "誰も傷つけたくなかった。"}
@@ -60,7 +60,7 @@
 {"sec": "map:81", "key": "CAL: I... had to steal that in order to haul the machinery up there.", "en": "CAL: I... had to steal that in order to haul the machinery up there.", "ja": "キャル: 俺は…あそこに機材を運び上げるために、それを盗まなきゃならなかった。"}
 {"sec": "map:81", "key": "I regretted it immediately.", "en": "I regretted it immediately.", "ja": "すぐに後悔した。"}
 {"sec": "map:81", "key": "Even more when I found out--", "en": "Even more when I found out--", "ja": "それに、知った時はもっと――"}
-{"sec": "map:81", "key": "Team Meteor is holding Shelly.", "en": "Team Meteor is holding Shelly.", "ja": "ミート団がシェリーを捕らえてる。"}
+{"sec": "map:81", "key": "Team Meteor is holding Shelly.", "en": "Team Meteor is holding Shelly.", "ja": "メテオ団がシェリーを捕らえてる。"}
 {"sec": "map:81", "key": "I want to charge in there, break her out, and tear them a new one.", "en": "I want to charge in there, break her out, and tear them a new one.", "ja": "あそこに乗り込んで彼女を助け出して、あいつらをぶちのめしたい。"}
 {"sec": "map:81", "key": "...But I won't.", "en": "...But I won't.", "ja": "…でもやらない。"}
 {"sec": "map:81", "key": "I have to find a way to be better than my fears and impulses.", "en": "I have to find a way to be better than my fears and impulses.", "ja": "自分の恐れや衝動より、もっとましな自分になる方法を見つけなきゃいけないんだ。"}

@@ -24,16 +24,14 @@ def pbSetTextMessages
   begin
     t = Time.now.to_i
     texts = []
-    begin
-      for script in $RGSS_SCRIPTS
-        if Time.now.to_i - t >= 5
-          t = Time.now.to_i
-          Graphics.update
-        end
-        scr = Zlib::Inflate.inflate(script[2])
-        pbAddRgssScriptTexts(texts, scr)
+    for script in SCRIPTS
+      next if script.nil?
+      if Time.now.to_i - t >= 5
+        t = Time.now.to_i
+        Graphics.update
       end
-    rescue
+      src = File.read("Scripts/#{script}.rb")
+      pbAddRgssScriptTexts(texts, src)
     end
     # Must add messages because this code is used by both game system and Editor
     MessageTypes.addMessagesAsHash(MessageTypes::ScriptTexts, texts)
@@ -196,7 +194,7 @@ def pbEachIntlSection(file)
     if lineno == 1 && line[0] == 0xEF && line[1] == 0xBB && line[2] == 0xBF
       line = line[3, line.length - 3]
     end
-    if !line[/^\#/] && !line[/^\s*$/]
+    if !line[/^\#\#\#/] && !line[/^\s*$/]
       if line[re]
         if havesection
           yield lastsection, sectionname
@@ -455,8 +453,8 @@ class Messages
     #    return if !@messages
     origMessages = Messages.new("Data/messages.dat")
     File.open(outfile, "wb") { |f|
-      f.write("# To localize this text for a particular language, please\r\n")
-      f.write("# translate every second line of this file.\r\n")
+      f.write("### To localize this text for a particular language, please\r\n")
+      f.write("### translate every second line of this file.\r\n")
       if origMessages.messages[0]
         for i in 0...origMessages.messages[0].length
           msgs = origMessages.messages[0][i]
@@ -618,14 +616,14 @@ module MessageTypes
   Types             = 11
   TrainerTypes      = 12
   TrainerNames      = 13
-  BeginSpeech       = 14
-  EndSpeechWin      = 15
+  BeginSpeech       = 14 # unused
+  AceSpeech         = 15
   EndSpeechLose     = 16
   RegionNames       = 17
   PlaceNames        = 18
   PlaceDescriptions = 19
   MapNames          = 20
-  PhoneMessages     = 21
+  PhoneMessages     = 21 # unused
   ScriptTexts       = 22
   @@messages         = Messages.new
   @@messagesFallback = Messages.new("Data/messages.dat", true)
@@ -643,7 +641,7 @@ module MessageTypes
   end
 
   def self.writeObject(f, msgs, secname)
-    Messages.denormalizeValue(str)
+    @@messages.writeObject(f, msgs, secname)
   end
 
   def self.extract(outfile)

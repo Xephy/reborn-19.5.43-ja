@@ -432,11 +432,14 @@ class PokemonSummaryScene
       memo += _INTL("<c3=F83820,E09890>Faraway place\n")
     end
     if pokemon.obtainMode
-      mettext = [_INTL("Met at Lv. {1}.", pokemon.obtainLevel),
-                 _INTL("Egg received."),
-                 _INTL("Traded at Lv. {1}.", pokemon.obtainLevel),
-                 "",
-                 _INTL("Had a fateful encounter at Lv. {1}.", pokemon.obtainLevel)][pokemon.obtainMode]
+      mettext = [
+        _INTL("Met at Lv. {1}.", pokemon.obtainLevel),
+        _INTL("Egg received."),
+        _INTL("Traded at Lv. {1}.", pokemon.obtainLevel),
+        _INTL("Caught at Lv. {1}.", pokemon.obtainLevel),
+        _INTL("Had a fateful encounter at Lv. {1}.", pokemon.obtainLevel),
+        _INTL("Snagged at Lv. {1}.", pokemon.obtainLevel),
+      ][pokemon.obtainMode]
       memo += sprintf("<c3=404040,B0B0B0>%s\n", mettext)
       if pokemon.obtainMode == 1 # hatched
         if pokemon.timeEggHatched
@@ -457,46 +460,7 @@ class PokemonSummaryScene
       end
     end
     if shownature
-      bestiv = 0
-      tiebreaker = pokemon.personalID % 6
-      for i in 0...6
-        if pokemon.iv[i] == pokemon.iv[bestiv]
-          bestiv = i if i >= tiebreaker && bestiv < tiebreaker
-        elsif pokemon.iv[i] > pokemon.iv[bestiv]
-          bestiv = i
-        end
-      end
-      characteristic = [_INTL("Loves to eat."),
-                        _INTL("Often dozes off."),
-                        _INTL("Often scatters things."),
-                        _INTL("Scatters things often."),
-                        _INTL("Likes to relax."),
-                        _INTL("Proud of its power."),
-                        _INTL("Likes to thrash about."),
-                        _INTL("A little quick tempered."),
-                        _INTL("Likes to fight."),
-                        _INTL("Quick tempered."),
-                        _INTL("Sturdy body."),
-                        _INTL("Capable of taking hits."),
-                        _INTL("Highly persistent."),
-                        _INTL("Good endurance."),
-                        _INTL("Good perseverance."),
-                        _INTL("Likes to run."),
-                        _INTL("Alert to sounds."),
-                        _INTL("Impetuous and silly."),
-                        _INTL("Somewhat of a clown."),
-                        _INTL("Quick to flee."),
-                        _INTL("Highly curious."),
-                        _INTL("Mischievous."),
-                        _INTL("Thoroughly cunning."),
-                        _INTL("Often lost in thought."),
-                        _INTL("Very finicky."),
-                        _INTL("Strong willed."),
-                        _INTL("Somewhat vain."),
-                        _INTL("Strongly defiant."),
-                        _INTL("Hates to lose."),
-                        _INTL("Somewhat stubborn.")][bestiv * 5 + pokemon.iv[bestiv] % 5]
-      memo += sprintf("<c3=404040,B0B0B0>%s\n", characteristic)
+      memo += sprintf("<c3=404040,B0B0B0>%s\n", getCharacteristic(pokemon))
       # if $cache.natures[pokemon.nature].like != $cache.natures[pokemon.nature].dislike
       #  memo+=sprintf("<c3=404040,B0B0B0>It likes <c3=F83820,E09890>%s<c3=404040,B0B0B0> food.\n",$cache.natures[pokemon.nature].like)
       #  memo+=sprintf("<c3=404040,B0B0B0>It dislikes <c3=F83820,E09890>%s<c3=404040,B0B0B0> food.\n",$cache.natures[pokemon.nature].dislike)
@@ -506,6 +470,51 @@ class PokemonSummaryScene
     end
     drawFormattedTextEx(overlay, 232, 78, 276, memo)
     drawMarkings(overlay, 15, 291, 72, 20, pokemon.markings)
+  end
+
+  def getCharacteristic(pokemon)
+    characteristics = [
+      _INTL("Loves to eat."),
+      _INTL("Often dozes off."),
+      _INTL("Often scatters things."),
+      _INTL("Scatters things often."),
+      _INTL("Likes to relax."),
+      _INTL("Proud of its power."),
+      _INTL("Likes to thrash about."),
+      _INTL("A little quick tempered."),
+      _INTL("Likes to fight."),
+      _INTL("Quick tempered."),
+      _INTL("Sturdy body."),
+      _INTL("Capable of taking hits."),
+      _INTL("Highly persistent."),
+      _INTL("Good endurance."),
+      _INTL("Good perseverance."),
+      _INTL("Highly curious."),
+      _INTL("Mischievous."),
+      _INTL("Thoroughly cunning."),
+      _INTL("Often lost in thought."),
+      _INTL("Very finicky."),
+      _INTL("Strong willed."),
+      _INTL("Somewhat vain."),
+      _INTL("Strongly defiant."),
+      _INTL("Hates to lose."),
+      _INTL("Somewhat stubborn."),
+      _INTL("Likes to run."),
+      _INTL("Alert to sounds."),
+      _INTL("Impetuous and silly."),
+      _INTL("Somewhat of a clown."),
+      _INTL("Quick to flee."),
+    ]
+    bestiv = 0
+    tiebreaker = pokemon.personalID % 6
+    for i in 0...6
+      if pokemon.iv[i] == pokemon.iv[bestiv]
+        bestiv = i if i >= tiebreaker && bestiv < tiebreaker
+      elsif pokemon.iv[i] > pokemon.iv[bestiv]
+        bestiv = i
+      end
+    end
+    return characteristics[bestiv * 5 + pokemon.iv[bestiv] % 5]
   end
 
   def drawPageThree(pokemon)
@@ -722,7 +731,7 @@ class PokemonSummaryScene
       end
       yPos += 64
     end
-    imagepos.push(["Graphics/Pictures/Summary/summary5zmovebtn", 324, 60, 0, 0, -1, -1]) if pokemon.zmoves != nil && pokemon.zmoves.any? {|x| x != nil}
+    imagepos.push(["Graphics/Pictures/Summary/summary5zmovebtn", 324, 60, 0, 0, -1, -1]) if pokemon.zmoves != nil && pokemon.zmoves.any? { |x| x != nil }
     pbDrawTextPositions(overlay, textpos)
     pbDrawImagePositions(overlay, imagepos)
     drawMarkings(overlay, 15, 291, 72, 20, pokemon.markings)
@@ -797,26 +806,23 @@ class PokemonSummaryScene
 
   def moveToString(move, moveobj)
     movedata = $game_switches[:Randomized_Challenge] && $Randomizer.randomMoves ? $rndcache.moves[move] : $cache.moves[move]
-    string = movedata.name
-    string = string + ", " + movedata.type.name + " type, "
-    if movedata.category == :physical
-      string = string + "Physical, "
-      string = string + movedata.basedamage.to_s + " power, "
-    end
-    if movedata.category == :special
-      string = string + "Special, "
-      string = string + movedata.basedamage.to_s + " power, "
-    end
-    if movedata.category == :status
-      string = string + "Status, "
+    string = getMoveName(move)
+    string += ", " + movedata.type.name + " type, "
+    string += movedata.category.to_s.capitalize + ", "
+    if movedata.category != :status
+      if movedata.basedamage == 1
+        string += "Unknown power, "
+      else
+        string += movedata.basedamage.to_s + " power, "
+      end
     end
     if movedata.accuracy == 0
-      string = string + "Perfect accuracy, "
+      string += "Perfect accuracy, "
     else
-      string = string + movedata.accuracy.to_s + " accuracy, "
+      string += movedata.accuracy.to_s + " accuracy, "
     end
-    string = string + moveobj.pp.to_s + " out of " + moveobj.totalpp.to_s + " PP, "
-    string = string + movedata.desc
+    string += moveobj.pp.to_s + " out of " + moveobj.totalpp.to_s + " PP, "
+    string += movedata.desc
   end
 
   def drawSelectedMove(pokemon, moveToLearn, move)
@@ -845,7 +851,7 @@ class PokemonSummaryScene
     end
     imagepos = [["Graphics/Pictures/category", 166, 124, 0, cattype * 28, 64, 28]]
     z = @zmovepage ? "" : "z"
-    imagepos.push(["Graphics/Pictures/Summary/summary5#{z}movebtn", 324, 60, 0, 0, -1, -1]) if pokemon.zmoves != nil && pokemon.zmoves.any? {|x| x != nil} && moveToLearn == 0
+    imagepos.push(["Graphics/Pictures/Summary/summary5#{z}movebtn", 324, 60, 0, 0, -1, -1]) if pokemon.zmoves != nil && pokemon.zmoves.any? { |x| x != nil } && moveToLearn == 0
     pbDrawImagePositions(overlay, imagepos)
     drawTextEx(overlay, 4, 218, 238, 5, getMoveDesc(move), DarkBase, DarkShadow)
   end
@@ -1014,6 +1020,7 @@ class PokemonSummaryScene
       @sprites["movepresel"].z += 1 if @sprites["movepresel"].index == @sprites["movesel"].index
       if Input.trigger?(Input::B)
         break if !switching
+
         @sprites["movepresel"].visible = false
         switching = false
       end
@@ -1037,7 +1044,7 @@ class PokemonSummaryScene
           @zmovepage && !zmoves[selmove].nil? ? drawSelectedZeeMove(@pokemon, moves[selmove].move, zmoves[selmove].move) : drawSelectedMove(@pokemon, 0, moves[selmove].move)
         end
       end
-      if Input.trigger?(Input::X) && zmoves != nil && zmoves.any? {|x| x != nil}
+      if Input.trigger?(Input::X) && zmoves != nil && zmoves.any? { |x| x != nil }
         @zmovepage = !@zmovepage
         @zmovepage && !zmoves[selmove].nil? ? drawSelectedZeeMove(@pokemon, moves[selmove].move, zmoves[selmove].move) : drawSelectedMove(@pokemon, 0, moves[selmove].move)
       end
@@ -1153,7 +1160,7 @@ class PokemonSummaryScene
         end
       end
       if Input.trigger?(Input::X)
-        if @page == 4 && !@zmovepage && @pokemon.zmoves != nil && @pokemon.zmoves.any? {|x| x != nil}
+        if @page == 4 && !@zmovepage && @pokemon.zmoves != nil && @pokemon.zmoves.any? { |x| x != nil }
           @zmovepage = true
           drawZMovePage(@pokemon)
         elsif @zmovepage
@@ -1264,35 +1271,4 @@ class PokemonSummary
     @scene.pbEndScene
     return ret
   end
-end
-
-def getStatusZMoveDesc(move)
-  effect = PBStuff::ZSTATUSEFFECTS[move]
-  if effect.length == 2
-    statname = [nil, "Attack", "Defense", "Sp. Atk", "Sp. Def", "Speed", "Accuracy", "Evasion"][effect[0]]
-    statamount = [nil, "", "sharply ", "drastically "][effect[1]]
-    desc = "Z-Power additionally " + statamount + "raises the user's " + statname + " stat."
-  elsif effect[0] == :allstat1
-    desc = "Z-Power additionally raises all of the user's stats."
-  elsif effect[0] == :crit1
-    desc = "Z-Power additionally raises the user's critical-hit rate."
-  elsif effect[0] == :reset
-    desc = "Z-Power additionally eliminates any stat drops applied to the user."
-  elsif effect[0] == :heal
-    desc = "Z-Power additionally fully restores the user's HP."
-  elsif effect[0] == :heal2
-    desc = "Z-Power additionally fully restores the HP of the ally the user switches into."
-  elsif effect[0] == :centre
-    desc = "Z-Power additionally causes the user to become the centre of attention."
-  else
-    desc = "Z-Power does not grant any additional effects."
-  end
-  if move == :CURSE
-    desc += " Ghost-type user is fully healed instead."
-  elsif [:COPYCAT, :MEFIRST, :MIRRORMOVE].include?(move)
-    desc += " Copied damaging move becomes a Z-Move."
-  elsif [:ASSIST, :METRONOME, :NATUREPOWER, :SLEEPTALK].include?(move)
-    desc += " Called damaging move becomes a Z-Move."
-  end
-  return desc
 end

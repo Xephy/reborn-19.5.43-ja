@@ -210,7 +210,7 @@ def getLastParam(array, default)
 end
 
 def isWaitChar(x)
-  return (x == "\001" || x == "\002")
+  return x == "\001" || x == "\002"
 end
 
 FORMATREGEXP = /<(\/?)([Cc]|[Cc][2]|[Cc][33]|[Oo]|[Ff][Nn]|[Bb][Rr]|[Ff][Ss]|[Ii]|[Bb]|[Rr]|[Pp][Gg]|[Pp][Oo][Gg]|[Uu]|[Ss]|[Ii][Cc][Oo][Nn]|[Ii][Mm][Gg]|[Aa][Cc]|[Aa][Rr]|[Aa][Ll]|[Oo][Uu][Tt][Ll][Nn]|[Oo][Uu][Tt][Ll][Nn][2])(\s*\=\s*([^>]*))?>/

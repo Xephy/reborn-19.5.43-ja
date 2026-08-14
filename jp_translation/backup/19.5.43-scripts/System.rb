@@ -29,11 +29,11 @@ def pbSetUpSystem
     pbSetResizeFactor($Settings.screensize)
   end
   MessageConfig.pbSetSystemFontName("PokemonEmerald")
+end
 
+def pbSetLanguage
   if LANGUAGES.length >= 2
-    if !havedata
-      $Settings.language = pbChooseLanguage
-    end
+    $Settings.language = pbChooseLanguage
     pbLoadMessages("Data/" + LANGUAGES[$Settings.language][1])
   end
 end
@@ -85,21 +85,19 @@ module Input
 
     # JoiPlay doesn't accept literals but only key codes. 84 is the key code for T which I use for turbo on JoiPlay.
     # Alt is force-disabled from triggering turbo if blindstep is active since they use Alt+Tab often and can't unbind it.
-    if (!$joiplay && !Input.text_input && trigger?(Input::E) && (!$game_switches || !$game_switches[:Blindstep] || !triggerex?(:LALT))) || ($joiplay && triggerex?(84))
+    if (!$joiplay && !Input.text_input && defined?(Input::E) && trigger?(Input::E) && (!$game_switches || !$game_switches[:Blindstep] || !triggerex?(:LALT))) || ($joiplay && triggerex?(84))
       Graphics.toggleTurbo
       Graphics.turboIcon
     end
 
     # JoiPlay doesn't accept literals but only key codes. 77 is the key code for M which I use for mute on JoiPlay.
-    if (!$joiplay && !Input.text_input && trigger?(Input::F)) || ($joiplay && triggerex?(77))
+    if (!$joiplay && !Input.text_input && defined?(Input::F) && trigger?(Input::F)) || ($joiplay && triggerex?(77))
       $game_system.toggle_mute if $game_system
     end
 
     unless $joiplay
       # Use turbo while Gamepad L2 button is pressed.
-      if Input::Controller.axes_trigger[0] > 0.0
-        pbDynamicTurbo(Input::Controller.axes_trigger[0])
-      end
+      pbDynamicTurbo(Input::Controller.axes_trigger[0])
     end
 
     if $DEBUG
@@ -136,6 +134,7 @@ end
 Graphics.frame_rate = 40 * $Settings.turboSpeedMultiplier if $speed_up
 
 def pbDynamicTurbo(value)
+  value = 1.0 - value if $speed_up
   Graphics.frame_rate = 40 * (1 + (value * ($Settings.turboSpeedMultiplier - 1)))
 end
 

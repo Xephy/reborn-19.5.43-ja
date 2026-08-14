@@ -83,8 +83,16 @@ Scripts/Options.rb             Scripts/Updater.rb
 
 ## 元に戻す
 
-`jp_translation/backup/19.5.43-scripts/` に改変前のスクリプトが入っています。
-これらを `Scripts/` へ書き戻し、コピーした `patch/` 以下の10個を削除すれば元通りです。
+書き換えたスクリプトを元に戻し、コピーした `patch/` 以下の10個を削除すれば元通りです。
+
+改変前のスクリプトは**配布 zip には入っていません**。次のどちらかから入手してください。
+
+- リポジトリの [`jp_translation/backup/19.5.43-scripts/`](jp_translation/backup/19.5.43-scripts)
+- Reborn 公式の更新ファイル
+  <https://www.rebornevo.com/downloads/rebornremote/Reborn_19.5/patch.zip>
+  （ゲーム内のアップデータが使っているものと同じ。`Scripts/` 以下がそのまま入っています）
+
+どちらも Reborn 19.5.43 の原本で、内容は同一です。
 
 セーブデータは英語版と共通で、言語を切り替えても壊れません。
 

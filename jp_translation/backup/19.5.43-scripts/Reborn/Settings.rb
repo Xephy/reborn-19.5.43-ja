@@ -65,9 +65,11 @@ NEWBERRYPLANTS        = true
 #   Moving between two maps that have the exact same name won't show the
 #      location signpost anyway, so you don't need to list those maps here.
 #===============================================================================
-NOSIGNPOSTS = [119, 125, 119, 124, 124, 120, 120, 121, 85, 87, 94, 95,
-               238, 545, 238, 546, 638, 639, 638, 647, 85, 88, 85, 91, 85, 89,
-               85, 90]
+NOSIGNPOSTS = [
+  120, 121, 123, 516,
+  238, 545, 238, 546, 638, 639, 638, 647,
+  85, 88, 85, 91, 85, 89, 85, 90,
+]
 
 #===============================================================================
 # * Whether outdoor maps should be shaded according to the time of day.

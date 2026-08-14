@@ -424,7 +424,8 @@ class PokemonLoad
       end
       return
     rescue => e
-      raise sprintf("If you're seeing this message, your save file is corrupted:\n%s\n%s: %s", savefile, e.class, e.message)
+      @currentsave = nil
+      raise sprintf("Corrupted save file:\n%s\n%s: %s", File.realpath(savefile), e.class, e.message)
     end
   end
 
@@ -470,19 +471,22 @@ class PokemonLoad
     savefile = RTP.getSaveSlotPath($Unidata[:saveslot])
 
     if safeExists?(savefile)
-      pbTryLoadFile(savefile)
-      if !@currentsave.is_a?(Hash)
-        print "Corrupted save file: " + File.realpath(savefile)
-        exit
+      begin
+        pbTryLoadFile(savefile)
+      rescue => e
+        print e.message
       end
-      trainer = @currentsave[:Trainer]
-      framecount = @currentsave[:playtime]
-      $game_system = @currentsave[:system]
-      mapid = @currentsave[:map_id]
+      if @currentsave.is_a?(Hash)
+        trainer = @currentsave[:Trainer]
+        framecount = @currentsave[:playtime]
+        $game_system = @currentsave[:system]
+        mapid = @currentsave[:map_id]
 
-      commands[cmdContinue = commands.length] = _INTL("Continue")
+        commands[cmdContinue = commands.length] = _INTL("Continue")
+      end
     end
 
+    Updater.waitForVersionCheck
     if Updater.shouldUseBuiltInUpdater?
       versionStatus = Updater.getVersionStatus
       if versionStatus == 3
@@ -507,7 +511,7 @@ class PokemonLoad
       commands[cmdLanguage = commands.length] = _INTL("Language")
     end
     # commands[cmdQuit=commands.length]=_INTL("Quit Game")
-    @scene.pbStartScene(commands, safeExists?(savefile), trainer, framecount, mapid)
+    @scene.pbStartScene(commands, @currentsave.is_a?(Hash), trainer, framecount, mapid)
     @scene.pbSetParty(trainer)
     @scene.pbStartScene2
     loop do
@@ -522,6 +526,7 @@ class PokemonLoad
             @scene.pbEndScene
             return
             pbSetUpSystem
+            pbSetLanguage
             scene = PokemonLoadScene.new
             screen = PokemonLoad.new(scene)
             screen.pbStartLoadScreen
@@ -562,16 +567,7 @@ class PokemonLoad
         $game_map.update
 
         # find next available slot
-        j = 0
-        loop do
-          j += 1
-          checksave = RTP.getSaveSlotPath(j)
-          if !safeExists?(checksave)
-            $Unidata[:saveslot] = j
-            saveClientData
-            break
-          end
-        end
+        createSaveSlot
         return
       elsif cmdChooseSaveFile >= 0 && command == cmdChooseSaveFile
         # convertSaveFolder
@@ -661,12 +657,14 @@ class PokemonLoad
             tempsave = saveslots[@selected][0]
             savefile = saveslots[@selected][5]
             if savefile.start_with?("Anna's Wish")
+              createSaveSlot
               return startPlayingSaveFile(RTP.getSaveFileName(savefile))
             end
 
             $Unidata[:saveslot] = tempsave
             @scene.pbEndScene
             pbSetUpSystem
+            pbSetLanguage
             scene = PokemonLoadScene.new
             screen = PokemonLoad.new(scene)
             screen.pbStartLoadScreen
@@ -810,6 +808,19 @@ class PokemonLoad
     $game_player.center($game_player.x, $game_player.y)
     return true
   end
+
+  def createSaveSlot
+    j = 0
+    loop do
+      j += 1
+      checksave = RTP.getSaveSlotPath(j)
+      if !safeExists?(checksave)
+        $Unidata[:saveslot] = j
+        saveClientData
+        break
+      end
+    end
+  end
 end
 
 def saveinfo(savefile)
@@ -857,12 +868,9 @@ def checkConversions
     enforceTrainerType
   end
 
-  # Restrict online play
-  restrictOnlineFeatures
-
   # Last check through for old temp conversions, most of these methods should be able to be
   # safely removed after a while.
-  if !$game_system.game_version
+  if !$game_system.game_version || (Reborn && $game_system.game_version == "e19.16")
     # updating storage boxes, can be removed after a while
     if $PokemonStorage && $PokemonStorage.boxes.length < STORAGEBOXES
       $PokemonStorage.upTotalBoxes(STORAGEBOXES)
@@ -870,7 +878,6 @@ def checkConversions
     tempConvertNatures
     if Rejuv
       $Trainer.achievements = Achievements.new() if !$Trainer.achievements
-      powerconstructhunt($PokemonStorage, $Trainer.party, $PokemonGlobal.daycare)
     end
     $Trainer.pokedex.updateGenderFormEntries # ensure things are updated, remove after a bit ig
 
@@ -884,6 +891,7 @@ def checkConversions
       else
         if Kernel.pbConfirmMessageSerious("You will still be unable to access any online features. Are you sure you wish to continue without randomizing?")
           $game_switches[:Disabled_Randomizer] = true
+          $game_switches[:Randomized_Challenge] = false
         else
           pbFadeOutIn(99999) {
             RandomizerScene.new(RandomizerSettings.new)
@@ -892,6 +900,10 @@ def checkConversions
         end
       end
     end
+  end
+
+  if Reborn && $game_switches[:Randomized_Challenge] && checkVersionOlderThan("19.5.9")
+    $game_switches[:Randomizer_Wonder_Guard_Fix] = true
   end
 
   if !$game_switches[:Disabled_Randomizer] && $game_switches[:Randomized_Challenge]
@@ -918,6 +930,9 @@ def checkConversions
     end
     $rndcache = Cache_Randomizer.new()
   end
+
+  # Restrict online play
+  restrictOnlineFeatures
 
   # New conversions based on game version.
   if Reborn
@@ -976,6 +991,10 @@ def checkConversions
         }
       end
     end
+
+    for mon in findAllPokemon
+      # Migrate legacy mon data
+    end
   end
 
   if Rejuv
@@ -985,4 +1004,12 @@ def checkConversions
   if Desolation
 
   end
+end
+
+def checkVersionOlderThan(version)
+  # currentVersion = Gem::Version.new(GAMEVERSION)
+  checkVersion = Gem::Version.new(version)
+  saveVersion = Gem::Version.new($game_system.game_version)
+
+  return saveVersion <= checkVersion
 end

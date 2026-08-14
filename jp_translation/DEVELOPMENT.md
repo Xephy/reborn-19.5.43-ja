@@ -407,6 +407,16 @@ sync.sh         パッチ一式を実機へ配布
 GitHub Releases に添付する。zip の中身は `sync.sh` の配布リストから組み立てるので、
 実機へ配るものと配布物が食い違うことはない。
 
+`make_release.py` は zip を作ったあと、作成者を特定できる文字列が混入していないかを
+検査する。アカウント名は実行時に機械から取り、それ以外は `/home/<名前>` や
+`C:\Users\<名前>` といったパスの形で捕まえる（検査したい名前を公開ファイルに
+書かずに済ませるため）。追加したい語は環境変数 `REBORN_JA_SCRUB` で渡す。
+見つかった場合は zip を削除して異常終了する。
+
+差し戻し用の原本が1本でも欠けていると `make_release.py` は止まる。原本が
+**現行の Reborn と同一か**までは見ないので、本体が更新されたら
+`check_backups.py --download` を回して確認する。
+
 `sync.sh` は Windows 版と Linux（AppImage）版の両方へ配る。
 配布先のパスはスクリプト冒頭の `WIN` / `LIN` を書き換える。
 
@@ -419,6 +429,8 @@ GitHub Releases に添付する。zip の中身は `sync.sh` の配布リスト�
 | `make_batch.py` / `apply_batch.py` | 翻訳バッチの発行と書き戻し |
 | `dejoyo.py` | 常用外漢字の正規化。残ったものは報告して exit 1 |
 | `check_joyo.py` | 常用漢字チェック |
+| `check_font.py` | 同梱フォントに無い文字の検出（豆腐の作り込み防止） |
+| `check_backups.py` | 差し戻し用の原本が揃っていて、かつ Reborn の現行版と同一かを検査 |
 | `find_untranslated.py` | 表を通らず英語のまま出る文字列を検出 |
 | `fitcheck.py` / `fit_lines.py` | メッセージウィンドウ幅の検証と自動改行 |
 | `build_glossary.py` | ゲームデータから公式日本語名の用語集を生成 |

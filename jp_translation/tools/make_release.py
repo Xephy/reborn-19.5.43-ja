@@ -69,6 +69,20 @@ def check_dat_is_current():
                  % (BUILT_DAT, '\n  '.join(sorted(newer))))
 
 
+def check_backups_present():
+    """The README's revert instructions have to work for everything shipped.
+
+    Only presence is checked here; whether a kept copy is still the one Reborn
+    ships needs Reborn's own patch.zip, which check_backups.py will fetch.
+    """
+    from check_backups import backup_dir, check_present
+    directory, _ = backup_dir()
+    missing = check_present(directory)
+    if missing:
+        sys.exit('no untouched copy kept in %s, so the patch cannot be undone:'
+                 '\n  %s' % (directory, '\n  '.join(missing)))
+
+
 def scrub_terms():
     """Literal strings that must not appear, worked out at run time.
 
@@ -118,6 +132,7 @@ def main():
     a = ap.parse_args()
 
     check_dat_is_current()
+    check_backups_present()
     files, dirs = listed_paths()
 
     members = list(files)

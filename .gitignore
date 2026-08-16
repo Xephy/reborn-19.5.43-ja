@@ -51,6 +51,7 @@
 !/Scripts/TimeWeather.rb
 !/Scripts/OrgBattle.rb
 !/Scripts/Battle_Inspect.rb
+!/Scripts/RegionMap.rb
 !/Scripts/Reborn/
 /Scripts/Reborn/*
 !/Scripts/Reborn/Settings.rb

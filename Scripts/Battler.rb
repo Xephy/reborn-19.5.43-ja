@@ -5195,7 +5195,7 @@ class PokeBattle_Battler
         choices[choices.length] = i if @battle.pbCanSwitchLax?(user.index, i, false)
       end
       if choices.length != 0
-        @battle.pbDisplay(_INTL("#{target.pbThis}'s Red Card activates!"))
+        @battle.pbDisplay(_INTL("{1}'s Red Card activates!", target.pbThis))
         target.pbDisposeItem(false)
         if user.ability == :SUCTIONCUPS
           @battle.pbDisplay(_INTL("{1} anchored itself with {2}!", user.pbThis, getAbilityName(user.ability)))
@@ -5211,11 +5211,11 @@ class PokeBattle_Battler
     # Eject Button
     if target.hasWorkingItem(:EJECTBUTTON) && !target.damagestate.substitute && target.damagestate.calcdamage > 0 && user.ability != :SHEERFORCE && target.forcedSwitch == false && @battle.switching == false
       if !target.isFainted? && @battle.pbCanChooseNonActive?(target.index) && !@battle.pbAllFainted?(@battle.pbParty(target.index))
-        @battle.pbDisplay(_INTL("#{target.pbThis}'s Eject Button activates!"))
+        @battle.pbDisplay(_INTL("{1}'s Eject Button activates!", target.pbThis))
         target.pbDisposeItem(false, false)
         # @battle.pbDisplay(_INTL("{1} went back to {2}!",target.pbThis,@battle.pbGetOwner(target.index).name))
         if @battle.FE == :COLOSSEUM
-          @battle.pbDisplay(_INTL("But #{target.pbThis} cannot retreat."))
+          @battle.pbDisplay(_INTL("But {1} cannot retreat.", target.pbThis))
         else
           target.userSwitch = true
         end
@@ -5224,10 +5224,10 @@ class PokeBattle_Battler
     # Eject Pack
     if target.hasWorkingItem(:EJECTPACK) && target.statLowered
       if !target.isFainted? && @battle.pbCanChooseNonActive?(target.index) && !@battle.pbAllFainted?(@battle.pbParty(target.index))
-        @battle.pbDisplay(_INTL("#{target.pbThis}'s Eject Pack activates!"))
+        @battle.pbDisplay(_INTL("{1}'s Eject Pack activates!", target.pbThis))
         target.pbDisposeItem(false, false)
         if @battle.FE == :COLOSSEUM
-          @battle.pbDisplay(_INTL("But #{target.pbThis} cannot retreat."))
+          @battle.pbDisplay(_INTL("But {1} cannot retreat.", target.pbThis))
         else
           target.userSwitch = true
         end
@@ -5851,9 +5851,9 @@ class PokeBattle_Battler
         if user.hasWorkingItem(:BLUNDERPOLICY)
           if user.pbIncreaseStat(PBStats::SPEED, 2, abilitymessage: false, statsource: user)
             if user.ability == :CONTRARY
-              @battle.pbDisplay(_INTL("The Blunder Policy harshly lowered #{user.pbThis}'s Speed!"))
+              @battle.pbDisplay(_INTL("The Blunder Policy harshly lowered {1}'s Speed!", user.pbThis))
             else
-              @battle.pbDisplay(_INTL("The Blunder Policy sharply raised #{user.pbThis}'s Speed!"))
+              @battle.pbDisplay(_INTL("The Blunder Policy sharply raised {1}'s Speed!", user.pbThis))
             end
             user.pbDisposeItem(false)
           end
@@ -5867,9 +5867,9 @@ class PokeBattle_Battler
       if user.hasWorkingItem(:THROATSPRAY) && basemove.isSoundBased? && user.hp > 0
         if user.pbIncreaseStat(PBStats::SPATK, 1, abilitymessage: false, statsource: user)
           if user.ability == :CONTRARY
-            @battle.pbDisplay(_INTL("The Throat Spray lowered #{user.pbThis}'s Special Attack!"))
+            @battle.pbDisplay(_INTL("The Throat Spray lowered {1}'s Special Attack!", user.pbThis))
           else
-            @battle.pbDisplay(_INTL("The Throat Spray raised #{user.pbThis}'s Special Attack!"))
+            @battle.pbDisplay(_INTL("The Throat Spray raised {1}'s Special Attack!", user.pbThis))
           end
           user.pbDisposeItem(false)
         end
@@ -5951,10 +5951,10 @@ class PokeBattle_Battler
       # Eject Pack
       if user.hasWorkingItem(:EJECTPACK) && user.statLowered
         if !user.isFainted? && @battle.pbCanChooseNonActive?(user.index) && !@battle.pbAllFainted?(@battle.pbParty(user.index))
-          @battle.pbDisplay(_INTL("#{user.pbThis}'s Eject Pack activates!"))
+          @battle.pbDisplay(_INTL("{1}'s Eject Pack activates!", user.pbThis))
           user.pbDisposeItem(false, false)
           if @battle.FE == :COLOSSEUM
-            @battle.pbDisplay(_INTL("But #{user.pbThis} cannot retreat."))
+            @battle.pbDisplay(_INTL("But {1} cannot retreat.", user.pbThis))
           else
             user.userSwitch = true
           end

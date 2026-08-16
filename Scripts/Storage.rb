@@ -899,7 +899,13 @@ class PokemonStorageScreen
       _INTL("Item"),
       _INTL("Total IV"),
     ]
-    command = pbShowCommands(_INTL("How would you like to sort\n#{minbox == maxbox ? $PokemonStorage[minbox].name : "{1} to {2}"}?", $PokemonStorage[minbox].name, $PokemonStorage[maxbox].name), commands)
+    prompt = if minbox == maxbox
+               _INTL("How would you like to sort\n{1}?", $PokemonStorage[minbox].name)
+             else
+               _INTL("How would you like to sort\n{1} to {2}?",
+                     $PokemonStorage[minbox].name, $PokemonStorage[maxbox].name)
+             end
+    command = pbShowCommands(prompt, commands)
     return -1 if command == -1
 
     pokemon = []

@@ -1486,7 +1486,7 @@ ItemHandlers::UseOnPokemon.add(:EVTUNER, proc { |item, pokemon, scene|
           scene.pbDisplay(_INTL("Can't swap a stat with itself!"))
           break
         elsif cmd2 >= 0 && cmd2 < stats.length # chose second stat
-          if Kernel.pbConfirmMessage(_INTL("Do you want to swap #{pokemon.name}'s #{stats[cmd]} stat with its #{stats[cmd2]} stat?"))
+          if Kernel.pbConfirmMessage(_INTL("Do you want to swap {1}'s {2} stat with its {3} stat?", pokemon.name, stats[cmd], stats[cmd2]))
             pokemon.ev[cmd], pokemon.ev[cmd2] = pokemon.ev[cmd2], pokemon.ev[cmd]
             scene.pbDisplay(_INTL("Swapped the two stats EVs around!"))
             pbTopRightWindow(
@@ -1534,7 +1534,7 @@ ItemHandlers::UseOnPokemon.add(:EVBOOSTER, proc { |item, pokemon, scene|
         scene.pbDisplay(_INTL("The {1} stat is already maxed!", stats[cmd]))
         next
       end
-      if Kernel.pbConfirmMessage(_INTL("Do you want to boost #{pokemon.name}'s #{stats[cmd]} stat?"))
+      if Kernel.pbConfirmMessage(_INTL("Do you want to boost {1}'s {2} stat?", pokemon.name, stats[cmd]))
         evs_left = 510 - pokemon.ev.sum
         if evs_left > 252 - pokemon.ev[cmd] || $game_switches[:No_Total_EV_Cap]
           pokemon.ev[cmd] = 252

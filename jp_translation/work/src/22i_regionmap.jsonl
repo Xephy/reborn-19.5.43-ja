@@ -1,0 +1,3 @@
+{"sec": 22, "key": "←:Map / ↑↓:Select", "en": "←:Map / ↑↓:Select", "ja": "←：地図　↑↓：選択", "note": "Region Map control hint (RegionMap.rb pbRefreshHint)"}
+{"sec": 22, "key": "←:Map / ↑↓:Select / C:Fly", "en": "←:Map / ↑↓:Select / C:Fly", "ja": "←：地図　↑↓：選択　C：とぶ", "note": "Region Map control hint (RegionMap.rb pbRefreshHint)"}
+{"sec": 22, "key": "B:List / Arrows:Move", "en": "B:List / Arrows:Move", "ja": "B：一覧へ　十字キー：移動", "note": "Region Map control hint (RegionMap.rb pbRefreshHint)"}

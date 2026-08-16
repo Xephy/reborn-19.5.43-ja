@@ -171,7 +171,7 @@ class PokeBattle_Move_001 < PokeBattle_Move
   def pbEffect(attacker, opponent, hitnum = 0, alltargets = nil, showanimation = true)
     if @move == :CELEBRATE
       ret = super(attacker, opponent, hitnum, alltargets, showanimation)
-      @battle.pbDisplay(_INTL("Congratulations, #{$Trainer.name}!"))
+      @battle.pbDisplay(_INTL("Congratulations, {1}!", $Trainer.name))
       return ret
     end
 
@@ -768,7 +768,7 @@ class PokeBattle_Move_016 < PokeBattle_Move
     end
 
     if !@battle.pbCheckSideAbility(:AROMAVEIL, opponent).nil? && !opponent.moldbroken
-      @battle.pbDisplay(_INTL("The Aroma Veil protects #{opponent.pbThis} from infatuation!"))
+      @battle.pbDisplay(_INTL("The Aroma Veil protects {1} from infatuation!", opponent.pbThis))
       return -1
     end
     pbShowAnimation(@move, attacker, opponent, hitnum, alltargets, showanimation)
@@ -4546,7 +4546,7 @@ class PokeBattle_Move_0A5 < PokeBattle_Move
   def pbEffect(attacker, opponent, hitnum = 0, alltargets = nil, showanimation = true)
     if @battle.FE == :CHESS && @move == :FALSESURRENDER
       if !@battle.pbCheckSideAbility(:AROMAVEIL, opponent).nil? && !opponent.moldbroken
-        @battle.pbDisplay(_INTL("The Aroma Veil protects #{opponent.pbThis} from being taunted!"))
+        @battle.pbDisplay(_INTL("The Aroma Veil protects {1} from being taunted!", opponent.pbThis))
       elsif opponent.ability == :OBLIVIOUS && !opponent.moldbroken
         @battle.pbDisplay(_INTL("It doesn't affect {1}...", opponent.pbThis(true)))
       elsif opponent.effects[:Taunt] <= 0
@@ -4958,7 +4958,7 @@ class PokeBattle_Move_0B7 < PokeBattle_Move
       return -1
     end
     if !@battle.pbCheckSideAbility(:AROMAVEIL, opponent).nil? && !opponent.moldbroken
-      @battle.pbDisplay(_INTL("The Aroma Veil protects #{opponent.pbThis} from torment!"))
+      @battle.pbDisplay(_INTL("The Aroma Veil protects {1} from torment!", opponent.pbThis))
       return -1
     end
     pbShowAnimation(@move, attacker, opponent, hitnum, alltargets, showanimation)
@@ -5013,7 +5013,7 @@ class PokeBattle_Move_0B9 < PokeBattle_Move
       return -1
     end
     if !@battle.pbCheckSideAbility(:AROMAVEIL, opponent).nil? && !opponent.moldbroken
-      @battle.pbDisplay(_INTL("The Aroma Veil protects #{opponent.pbThis} from disabling!"))
+      @battle.pbDisplay(_INTL("The Aroma Veil protects {1} from disabling!", opponent.pbThis))
       return -1
     end
     for i in opponent.moves
@@ -5041,7 +5041,7 @@ class PokeBattle_Move_0BA < PokeBattle_Move
       return -1
     end
     if !@battle.pbCheckSideAbility(:AROMAVEIL, opponent).nil? && !opponent.moldbroken
-      @battle.pbDisplay(_INTL("The Aroma Veil protects #{opponent.pbThis} from being taunted!"))
+      @battle.pbDisplay(_INTL("The Aroma Veil protects {1} from being taunted!", opponent.pbThis))
       return -1
     end
     # UPDATE 11/16/2013
@@ -5067,7 +5067,7 @@ class PokeBattle_Move_0BB < PokeBattle_Move
       return -1
     end
     if !@battle.pbCheckSideAbility(:AROMAVEIL, opponent).nil? && !opponent.moldbroken
-      @battle.pbDisplay(_INTL("The Aroma Veil protects #{opponent.pbThis} from being blocked!"))
+      @battle.pbDisplay(_INTL("The Aroma Veil protects {1} from being blocked!", opponent.pbThis))
       return -1
     end
     pbShowAnimation(@move, attacker, opponent, hitnum, alltargets, showanimation)
@@ -5089,7 +5089,7 @@ class PokeBattle_Move_0BC < PokeBattle_Move
       return -1
     end
     if !@battle.pbCheckSideAbility(:AROMAVEIL, opponent).nil? && !opponent.moldbroken
-      @battle.pbDisplay(_INTL("The Aroma Veil protects #{opponent.pbThis} from the encore!"))
+      @battle.pbDisplay(_INTL("The Aroma Veil protects {1} from the encore!", opponent.pbThis))
       return -1
     end
 
@@ -6347,11 +6347,11 @@ class PokeBattle_Move_0E1 < PokeBattle_Move
 
   def pbEffect(attacker, opponent, hitnum = 0, alltargets = nil, showanimation = true)
     if pbMoveFailed(attacker, opponent)
-      @battle.pbDisplay(_INTL("#{opponent.pbThis} protected itself!"))
+      @battle.pbDisplay(_INTL("{1} protected itself!", opponent.pbThis))
       return -1
     end
     if opponent.hasType?(:GHOST)
-      @battle.pbDisplay(_INTL("It doesn't affect foe #{opponent.pbThis}!"))
+      @battle.pbDisplay(_INTL("It doesn't affect foe {1}!", opponent.pbThis))
       return -1
     end
     ret = pbEffectFixedDamage(attacker.hp, attacker, opponent, hitnum, alltargets, showanimation)
@@ -8192,9 +8192,9 @@ class PokeBattle_Move_11F < PokeBattle_Move
       if i.hasWorkingItem(:ROOMSERVICE)
         if i.pbReduceStat(PBStats::SPEED, 1, abilitymessage: false, statdropper: i)
           if i.ability == :CONTRARY && !i.moldbroken
-            @battle.pbDisplay(_INTL("The Room Service raised #{i.pbThis}'s Speed!"))
+            @battle.pbDisplay(_INTL("The Room Service raised {1}'s Speed!", i.pbThis))
           else
-            @battle.pbDisplay(_INTL("The Room Service lowered #{i.pbThis}'s Speed!"))
+            @battle.pbDisplay(_INTL("The Room Service lowered {1}'s Speed!", i.pbThis))
           end
           i.pbDisposeItem(false)
         end

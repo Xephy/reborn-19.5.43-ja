@@ -29,6 +29,7 @@ Pokémon Reborn 日本語化パッチの内部資料。導入手順は [../READM
 | `22d_field_messages.jsonl` | `fields.dat` のバトル中フィールドメッセージ | 229 |
 | `22e_pulsedex.jsonl` | パルス図鑑の一覧エントリ名 | 14 |
 | `22f_bt_speeches.jsonl` | バトルタワー系トレーナーのセリフ | 1,154 |
+| `22h_interp_keys.jsonl` | Ruby 補間 `#{...}` を含んでいた `_INTL` 文字列の正しいキー | 38 |
 | `13b_bt_trainer_names.jsonl` | 同トレーナーの名前（セクション13） | 309 |
 
 いずれもセクション22（スクリプトテキスト）に足している。`_INTL` は未知のキーを
@@ -163,6 +164,51 @@ pbDisplay(_INTL("{1}'s Light Screen faded!", texts[i]))
 報告していたが、報告の中に `_INTL(変数)` の正常な用法（`fields.dat` の文字列など）が
 多数混ざるため埋もれていた。**`#{` を含むものは常に不具合**なので、そこだけ拾って
 確認するとよい。
+
+補間される値の取りうる範囲が閉じている場合は、スクリプトを書き換えずに
+**展開後のキーを全通り登録する**ほうが安い。どうぐ入手時の
+
+```ruby
+_INTL("{1} put the \\c[1]{2}\\c[0]\r\nin the <icon=bagPocket#{pocket}>\\c[1]{3}\\c[0] Pocket.", ...)
+```
+
+は `pocket` が `pbPocketNames`（`Reborn/Settings.rb`）の 1〜8 に限られるので、
+`22h_interp_keys.jsonl` に 8 ポケット × 単数/複数の 16 件を入れて解決した。
+`Scripts/Field.rb` を配布物に足さずに済む代わりに、**ポケットが増えたら追随が要る**。
+`Settings.rb` 自体をこのプロジェクトが配布しているので、そこが変わったときに気付ける。
+
+なお `build.py` はハッシュ節に対して `messages.dat` に無いキーも受け付けるため、
+この手の追加は新しい `*.jsonl` を 1 枚置くだけでよい。キーは実行時の生文字列
+（`\r\n` のまま）を書けばよく、`string_to_key` の正規化は `build.py` が行う
+—— Ruby の `^`/`$` は行アンカーなので `\r\n` は空白1個ではなく `\n` になる点に注意。
+
+補間される値がポケモン名やボックス名のように**開いている**場合はキーを列挙できない。
+`apply_script_patches.py` の `INTERP_EDITS` にスクリプト書き換えを宣言してある。
+
+| ファイル | 内容 |
+|---|---|
+| `Battler.rb` | レッドカード／だっしゅつボタン／だっしゅつパック／からぶりほけん／のどスプレー |
+| `Battle_MoveEffects.rb` | アロマベール6種、ルームサービス、いのちがけ失敗時の2行、`Congratulations,`（`CELEBRATE`） |
+| `ItemEffects.rb` | 努力値の入れ替え・上昇の確認メッセージ |
+| `Storage.rb` | ボックス並べ替えの確認（三項演算子が `_INTL` の**中**にあり、どちらの分岐も引けなかった） |
+
+置換テキストをマーカーに使えないものが1件ある。`{1} protected itself!` は
+他5箇所で既に使われているので、`new` がファイルに元から存在し「適用済み」と
+誤判定される。囲みの `if` ごと置換対象にして一意にしてある。
+
+翻訳文は `#{}` 付きのキーに対して既に入っていたので、式→`{n}` の対応をそのまま
+移した。ただし Aroma Veil の `from being blocked!` は
+`Block`（とおせんぼう）ではなく **`Heal Block`（かいふくふうじ）** の
+`PokeBattle_Move_0BB` なので、「封じ込め」から訳し直した。
+
+未対応で残しているもの:
+
+* `Online/Trade.rb`・`Online/Connect&Register&Login&New.rb` の21件。
+  オンライン対戦・交換専用で、コミュニティのサーバーが要るため実機確認ができない。
+  うち8件は `_INTL("#{pkmn.name}")` のように**訳す語が無い**ただの包み方の誤りで、
+  `{n}` 化しても意味がない。
+* `MinigameTilePuzzles.rb:173` の `_INTL("Graphics/Pictures/Tile Puzzle/tiles#{@board}")`。
+  これは表示文字列ではなく**画像のパス**。訳してはいけないので `#{}` のままでよい。
 
 ### 3. 訳文に英語の部品が差し込まれる
 
@@ -431,6 +477,7 @@ GitHub Releases に添付する。zip の中身は `sync.sh` の配布リスト�
 | `check_joyo.py` | 常用漢字チェック |
 | `check_font.py` | 同梱フォントに無い文字の検出（豆腐の作り込み防止） |
 | `check_backups.py` | 差し戻し用の原本が揃っていて、かつ Reborn の現行版と同一かを検査 |
+| `apply_script_patches.py` | エンジンスクリプトへの改変を宣言的に再適用（書き込み前に `ruby -c`） |
 | `find_untranslated.py` | 表を通らず英語のまま出る文字列を検出 |
 | `fitcheck.py` / `fit_lines.py` | メッセージウィンドウ幅の検証と自動改行 |
 | `build_glossary.py` | ゲームデータから公式日本語名の用語集を生成 |
@@ -469,6 +516,51 @@ GitHub Releases に添付する。zip の中身は `sync.sh` の配布リスト�
 
 答案ファイルは行単位ではなく**レコード単位**で読む。原文に改行を含む行があり、
 1レコードが複数行にまたがるため（`id<TAB>` で始まらない行は前の行の続きとみなす）。
+
+### Ruby の構文検査
+
+`apply_script_patches.py` は、その実行で書き換えたファイルを**ディスクに書く前に**
+`ruby -c` に通す。**スクリプトが1つでも構文エラーだとゲームが起動しなくなる**ため、
+1件でも落ちたら**何も書かずに中止して exit 1** する。中途半端に当たった木より
+未適用の木のほうがましだから。
+
+```
+  ** 構文エラー  Scripts/RegionMap.rb
+                 Scripts/RegionMap.rb:628: syntax error, unexpected end-of-input, expecting `end'
+
+1 ファイルが壊れているため、書き込みを中止しました。
+```
+
+一時ファイルに書いて検査するが、エラー中の一時パスは本来のパスに置換して表示する。
+
+`ruby` が PATH に無ければ**注意を出して飛ばす**（この検査のためだけに Ruby を必須には
+しない）。`--no-syntax-check` で明示的に無効化、`RUBY=/path/to/ruby` で任意の実行系を指定できる。
+
+検査するのは**構文だけ**。RGSS のクラスは存在しないので実行はせず、
+`Window_CommandPokemon.newWithSize` の引数順のような **API の誤用は検出できない**。
+そこは実機で見るしかない。
+
+導入は sudo 不要。Ruby 本家が CI 用に配っているビルド済み tarball を使う。
+apt の Ruby は 3.0 だが、mkxp-z が積んでいるのは **3.1**（`x64-msvcrt-ruby310.dll`）なので
+そちらに合わせてある。
+
+```bash
+curl -L -o /tmp/ruby.tar.gz \
+  https://github.com/ruby/ruby-builder/releases/download/toolcache/ruby-3.1.6-ubuntu-22.04.tar.gz
+tar xzf /tmp/ruby.tar.gz -C ~/.local && mv ~/.local/x64 ~/.local/ruby-3.1.6
+
+cat > ~/.local/bin/ruby <<'EOF'
+#!/bin/sh
+RUBY_HOME="$HOME/.local/ruby-3.1.6"
+export LD_LIBRARY_PATH="$RUBY_HOME/lib${LD_LIBRARY_PATH:+:$LD_LIBRARY_PATH}"
+exec "$RUBY_HOME/bin/ruby" "$@"
+EOF
+chmod +x ~/.local/bin/ruby
+```
+
+このビルドは rpath を持たないので、同梱の `libruby.so.3.1` を
+`LD_LIBRARY_PATH` で指す必要がある。上のラッパーはそれを隠すためのもの。
+展開後で 62MB、ゲーム本体とは無関係な `~/.local` 配下なのでリポジトリは汚れない。
 
 ---
 

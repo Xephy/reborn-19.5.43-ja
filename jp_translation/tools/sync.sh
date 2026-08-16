@@ -63,6 +63,9 @@ FILES=(
   # pbDrawTextPositions, so no key was ever registered for them.
   "Scripts/Controls.rb"
   "Scripts/Storage.rb"
+  # Region Map: the map moved to the left half and a fly-destination list was
+  # added on the right, with the list selection and the map cursor in sync.
+  "Scripts/RegionMap.rb"
   # Trainer Pokemon nicknames are bare English in trainers.dat and overwrite
   # the translated name the constructor sets.
   "Scripts/Trainers.rb"

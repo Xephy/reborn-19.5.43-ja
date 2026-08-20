@@ -2706,8 +2706,8 @@
 {"sec": 22, "key": "Ability {1} is being forced.", "en": "Ability {1} is being forced.", "ja": "特性{1}は強制されています。"}
 {"sec": 22, "key": "Nature {1} is natural.", "en": "Nature {1} is natural.", "ja": "性格{1}は自然な値です。"}
 {"sec": 22, "key": "Nature {1} is being forced.", "en": "Nature {1} is being forced.", "ja": "性格{1}は強制されています。"}
-{"sec": 22, "key": "shiny", "en": "shiny", "ja": "色違い"}
-{"sec": 22, "key": "normal", "en": "normal", "ja": "通常"}
+{"sec": 22, "key": "shiny", "en": "shiny", "ja": ""}
+{"sec": 22, "key": "normal", "en": "normal", "ja": ""}
 {"sec": 22, "key": "Shininess ({1}) is natural.", "en": "Shininess ({1}) is natural.", "ja": "色違い ({1}) は自然な値です。"}
 {"sec": 22, "key": "Shininess ({1}) is being forced.", "en": "Shininess ({1}) is being forced.", "ja": "色違い ({1}) は強制されています。"}
 {"sec": 22, "key": "Make shiny", "en": "Make shiny", "ja": "色違いにする"}

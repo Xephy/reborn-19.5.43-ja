@@ -357,3 +357,5 @@
 {"sec": 22, "key": "{1}'s Mist faded!", "en": "{1}'s Mist faded!", "ja": "{1}の しろいきりが 消えた!"}
 {"sec": 22, "key": "{1}'s tailwind stopped blowing!", "en": "{1}'s tailwind stopped blowing!", "ja": "{1}の おいかぜが やんだ!"}
 {"sec": 22, "key": "{1}'s Lucky Chant faded!", "en": "{1}'s Lucky Chant faded!", "ja": "{1}の おまじないの 効果が消えた!"}
+{"sec": 22, "key": "[Exit]", "en": "[Exit]", "ja": "[やめる]"}
+{"sec": 22, "key": "[Add password]", "en": "[Add password]", "ja": "[パスワードを追加]"}

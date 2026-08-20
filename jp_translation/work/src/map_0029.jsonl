@@ -24,7 +24,7 @@
 {"sec": "map:29", "key": "FLORINIA: ...", "en": "FLORINIA: ...", "ja": "フロリニア: ……"}
 {"sec": "map:29", "key": "Answer accepted.", "en": "Answer accepted.", "ja": "回答を受理する。"}
 {"sec": "map:29", "key": "Full credit.", "en": "Full credit.", "ja": "満点だ。"}
-{"sec": "map:29", "key": "On the authority of this speaker, these two will be permitted passage to the Obsidia Ward.", "en": "On the authority of this speaker, these two will be permitted passage to the Obsidia Ward.", "ja": "この話者の権限において、この二名にオブシディアワードへの通行を許可する。"}
+{"sec": "map:29", "key": "On the authority of this speaker, these two will be permitted passage to the Obsidia Ward.", "en": "On the authority of this speaker, these two will be permitted passage to the Obsidia Ward.", "ja": "この話者の権限において、この二名にオブシディア区への通行を許可する。"}
 {"sec": "map:29", "key": "Objections?", "en": "Objections?", "ja": "異議は?"}
 {"sec": "map:29", "key": "GUARD: No, ma'am.", "en": "GUARD: No, ma'am.", "ja": "ガード: ありません。"}
 {"sec": "map:29", "key": "Go right on ahead. Good luck in there.", "en": "Go right on ahead. Good luck in there.", "ja": "どうぞお進みください。ご武運を。"}
@@ -151,7 +151,7 @@
 {"sec": "map:29", "key": "Hello there! Fancy a battle?", "en": "Hello there! Fancy a battle?", "ja": "こんにちは! バトルでもどう?"}
 {"sec": "map:29", "key": "W-what?", "en": "W-what?", "ja": "な、何?"}
 {"sec": "map:29", "key": "This wasn't supposed to happen! Ame...", "en": "This wasn't supposed to happen! Ame...", "ja": "こんなはずじゃなかったのに! アメ……"}
-{"sec": "map:29", "key": "The sudden growth has caused the ground to split apart all over the ward... This is terrible...", "en": "The sudden growth has caused the ground to split apart all over the ward... This is terrible...", "ja": "急激な成長で、ワード中の地面が裂けてしまって……ひどいことになってる……"}
+{"sec": "map:29", "key": "The sudden growth has caused the ground to split apart all over the ward... This is terrible...", "en": "The sudden growth has caused the ground to split apart all over the ward... This is terrible...", "ja": "急激な成長で、区じゅうの地面が裂けてしまって……ひどいことになってる……"}
 {"sec": "map:29", "key": "Hm... Obsidia seems to have stabilized quickly...", "en": "Hm... Obsidia seems to have stabilized quickly...", "ja": "うーん……オブシディアは、意外と早く安定したみたいね……"}
 {"sec": "map:29", "key": "LILLIPUP: Liiiii... Ruff!", "en": "LILLIPUP: Liiiii... Ruff!", "ja": "ヨーテリー: リィィ……ワン!"}
 {"sec": "map:29", "key": "Lillipup ran away again!", "en": "Lillipup ran away again!", "ja": "ヨーテリーがまた逃げちゃった!"}

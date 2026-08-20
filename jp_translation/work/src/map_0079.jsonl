@@ -1,4 +1,4 @@
-{"sec": "map:79", "key": "We'll handle the situation. Stay back if you have no immediate business in the ward.", "en": "We'll handle the situation. Stay back if you have no immediate business in the ward.", "ja": "状況はこちらで対処します。このワードに急ぎの用がなければ、下がっていてください。"}
+{"sec": "map:79", "key": "We'll handle the situation. Stay back if you have no immediate business in the ward.", "en": "We'll handle the situation. Stay back if you have no immediate business in the ward.", "ja": "状況はこちらで対処します。この区に急ぎの用がなければ、下がっていてください。"}
 {"sec": "map:79", "key": "No other bombs have been found. Please remain calm.", "en": "No other bombs have been found. Please remain calm.", "ja": "他に爆弾は見つかっていません。落ち着いてください。"}
 {"sec": "map:79", "key": "Nothing to see here; move along.", "en": "Nothing to see here; move along.", "ja": "ここには見るものはありません。移動してください。"}
 {"sec": "map:79", "key": "I don't know, but judging by the landing of the rubble, it seems most likely that the bomb was placed underneath the Stairway.", "en": "I don't know, but judging by the landing of the rubble, it seems most likely that the bomb was placed underneath the Stairway.", "ja": "分からないけど、がれきの落ち方から見て、爆弾は大階段の下に仕掛けられてたっぽいね。"}
@@ -58,7 +58,7 @@
 {"sec": "map:79", "key": "That right there is why the bad guys keep getting away--", "en": "That right there is why the bad guys keep getting away--", "ja": "だからこそ、悪党どもが逃げ続けられるんだ――"}
 {"sec": "map:79", "key": "Because no one on our side has the backbone to stop them.", "en": "Because no one on our side has the backbone to stop them.", "ja": "こっち側に、あいつらを止める根性のある奴が誰もいねえからな。"}
 {"sec": "map:79", "key": "I guess they're not ready for people of my caliber.", "en": "I guess they're not ready for people of my caliber.", "ja": "オレほどの器の人間には、まだ対応できねえってわけか。"}
-{"sec": "map:79", "key": "There's another gym in the Lapis Ward, so I'm gonna get ready to bust it in.", "en": "There's another gym in the Lapis Ward, so I'm gonna get ready to bust it in.", "ja": "ラピスワードに別のジムがあるから、そこをたたき潰す準備でもするか。"}
+{"sec": "map:79", "key": "There's another gym in the Lapis Ward, so I'm gonna get ready to bust it in.", "en": "There's another gym in the Lapis Ward, so I'm gonna get ready to bust it in.", "ja": "ラピス区に別のジムがあるから、そこをたたき潰す準備でもするか。"}
 {"sec": "map:79", "key": "Later, loser.", "en": "Later, loser.", "ja": "じゃあな、負け犬。"}
 {"sec": "map:79", "key": "Introducing!", "en": "Introducing!", "ja": "紹介しよう!"}
 {"sec": "map:79", "key": "Presenting!", "en": "Presenting!", "ja": "お披露目だ!"}
@@ -233,7 +233,7 @@
 {"sec": "map:79", "key": "ADRIENN: I'm confused.", "en": "ADRIENN: I'm confused.", "ja": "アドリエンヌ: 混乱しているの。"}
 {"sec": "map:79", "key": "Where are we?", "en": "Where are we?", "ja": "ここはどこ?"}
 {"sec": "map:79", "key": "CAIN: Uh, Reborn City?", "en": "CAIN: Uh, Reborn City?", "ja": "カイン: え、リボーンシティだけど?"}
-{"sec": "map:79", "key": "This is the North Obsidia Ward.", "en": "This is the North Obsidia Ward.", "ja": "ここは北オブシディアワードだよ。"}
+{"sec": "map:79", "key": "This is the North Obsidia Ward.", "en": "This is the North Obsidia Ward.", "ja": "ここは北オブシディア区だよ。"}
 {"sec": "map:79", "key": "Haven't you been here before?", "en": "Haven't you been here before?", "ja": "来たことなかったっけ?"}
 {"sec": "map:79", "key": "ADRIENN: This isn't the city.", "en": "ADRIENN: This isn't the city.", "ja": "アドリエンヌ: これは街じゃないわ。"}
 {"sec": "map:79", "key": "This isn't... Reborn.", "en": "This isn't... Reborn.", "ja": "これは…リボーンじゃない。"}
@@ -269,7 +269,7 @@
 {"sec": "map:79", "key": "Of course ~I~ knew all along.", "en": "Of course ~I~ knew all along. ", "ja": "もちろん~わたくし~はずっと前から知っておりましたけれど。"}
 {"sec": "map:79", "key": "There was a stand-in for a time, but...", "en": "There was a stand-in for a time, but...", "ja": "しばらく代役の方がいらっしゃいましたけれど…"}
 {"sec": "map:79", "key": "Well, it seems xe'll be taking xyr position back now!", "en": "Well, it seems xe'll be taking xyr position back now!", "ja": "どうやら、この方が立場を取り戻すことになりそうですわね!"}
-{"sec": "map:79", "key": "CAIN: Then, xe must mean the Coral Ward Gym!", "en": "CAIN: Then, xe must mean the Coral Ward Gym!", "ja": "カイン: じゃあ、コーラルワードのジムのことだ!"}
+{"sec": "map:79", "key": "CAIN: Then, xe must mean the Coral Ward Gym!", "en": "CAIN: Then, xe must mean the Coral Ward Gym!", "ja": "カイン: じゃあ、コーラル区のジムのことだ!"}
 {"sec": "map:79", "key": "RADOMUS: Indeed. Let's go.", "en": "RADOMUS: Indeed. Let's go.", "ja": "ラドマス: その通りだ。行こう。"}
 {"sec": "map:79", "key": "Shall we head there together?", "en": "Shall we head there together?", "ja": "一緒に向かおうか?"}
 {"sec": "map:79", "key": "???: Yo.", "en": "???: Yo.", "ja": "???: よぉ。"}

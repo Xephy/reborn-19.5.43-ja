@@ -9,13 +9,13 @@
 {"sec": "map:133", "key": "CHIEF: Eh? You're saying it was this person?", "en": "CHIEF: Eh? You're saying it was this person?", "ja": "署長: ん? この者だと言うのか?"}
 {"sec": "map:133", "key": "OFFICER: I'm sure of it! Gym Leader Florinia said that they'd help out.", "en": "OFFICER: I'm sure of it! Gym Leader Florinia said that they'd help out.", "ja": "警官: 間違いありません! ジムリーダーのフロリニアが、この方が力になってくれると言っていました。"}
 {"sec": "map:133", "key": "CHIEF: Is that so?", "en": "CHIEF: Is that so? ", "ja": "署長: そうか。"}
-{"sec": "map:133", "key": "OFFICER: Hey, have you come to the Jasper Ward to help here, too?", "en": "OFFICER: Hey, have you come to the Jasper Ward to help here, too?", "ja": "警官: あの、ジャスパーワードにも力を貸しに来てくれたんですか?"}
+{"sec": "map:133", "key": "OFFICER: Hey, have you come to the Jasper Ward to help here, too?", "en": "OFFICER: Hey, have you come to the Jasper Ward to help here, too?", "ja": "警官: あの、ジャスパー区にも力を貸しに来てくれたんですか?"}
 {"sec": "map:133", "key": "CHIEF: Hmm...", "en": "CHIEF: Hmm...", "ja": "署長: うーむ……"}
 {"sec": "map:133", "key": "Being that they are not officially enlisted, I cannot require others to act on any orders.", "en": "Being that they are not officially enlisted, I cannot require others to act on any orders.", "ja": "正式な所属ではない以上、命令に従うよう強制することはできん。"}
 {"sec": "map:133", "key": "However, civilian, I will afford you special permission to move freely about the area.", "en": "However, civilian, I will afford you special permission to move freely about the area. ", "ja": "しかし民間人よ、この一帯を自由に動き回る特別許可を与えよう。"}
 {"sec": "map:133", "key": "In return, I do ask one favor.", "en": "In return, I do ask one favor.", "ja": "その代わり、ひとつ頼みたいことがある。"}
 {"sec": "map:133", "key": "As I mentioned, more and more of our force turn up missing each day.", "en": "As I mentioned, more and more of our force turn up missing each day.", "ja": "先ほども言ったが、日に日に行方不明になる隊員が増えている。"}
-{"sec": "map:133", "key": "Currently, we have five officers unaccounted for, known previously to be searching in the Jasper and Beryl Wards.", "en": "Currently, we have five officers unaccounted for, known previously to be searching in the Jasper and Beryl Wards.", "ja": "現在、ジャスパーワードとベリルワードを捜索していたはずの警官5名が、行方不明のままだ。"}
+{"sec": "map:133", "key": "Currently, we have five officers unaccounted for, known previously to be searching in the Jasper and Beryl Wards.", "en": "Currently, we have five officers unaccounted for, known previously to be searching in the Jasper and Beryl Wards.", "ja": "現在、ジャスパー区とベリル区を捜索していたはずの警官5名が、行方不明のままだ。"}
 {"sec": "map:133", "key": "If you happen to find them, please send them back, or let us know immediately.", "en": "If you happen to find them, please send them back, or let us know immediately.", "ja": "もし見つけたら、こちらへ帰すか、すぐに知らせてほしい。"}
 {"sec": "map:133", "key": "Thank you.", "en": "Thank you.", "ja": "頼んだぞ。"}
 {"sec": "map:133", "key": "Officer, stand by. I'll have new orders for you momentarily.", "en": "Officer, stand by. I'll have new orders for you momentarily.", "ja": "警官、待機せよ。すぐに新たな命令を出す。"}
@@ -252,7 +252,7 @@
 {"sec": "map:133", "key": "There's one... in Byxbysion Wasteland?", "en": "There's one... in Byxbysion Wasteland?", "ja": "もうひとつは……ビクスビジョン荒地?"}
 {"sec": "map:133", "key": "CAIN: What.", "en": "CAIN: What.", "ja": "カイン: は。"}
 {"sec": "map:133", "key": "AMARIA: And one...", "en": "AMARIA: And one...", "ja": "アマリア: それから、もうひとつ……"}
-{"sec": "map:133", "key": "In the Peridot Ward of Reborn City.", "en": "In the Peridot Ward of Reborn City.", "ja": "リボーンシティのペリドットワードに。"}
+{"sec": "map:133", "key": "In the Peridot Ward of Reborn City.", "en": "In the Peridot Ward of Reborn City.", "ja": "リボーンシティのペリドット区に。"}
 {"sec": "map:133", "key": "But that's just down the stairs--", "en": "But that's just down the stairs--", "ja": "でも、それってすぐ階段の下じゃない――"}
 {"sec": "map:133", "key": "You knew about this?", "en": "You knew about this?", "ja": "知ってたの、これ?"}
 {"sec": "map:133", "key": "ACE: Some of it.", "en": "ACE: Some of it.", "ja": "エース: 一部はね。"}
@@ -268,11 +268,11 @@
 {"sec": "map:133", "key": "CAIN: Five kids just got kidnapped by a terrorist organization and you're saying \"don't worry about it\"?", "en": "CAIN: Five kids just got kidnapped by a terrorist organization and you're saying \"don't worry about it\"?", "ja": "カイン: テロ組織に子供が五人も誘拐されたんだぞ、それで「心配いらない」って?"}
 {"sec": "map:133", "key": "ACE: I was dismissed, but I've still been listening in on their correspondences~", "en": "ACE: I was dismissed, but I've still been listening in on their correspondences~", "ja": "エース: クビにはなったけど、連中のやり取りは今もこっそり盗み聞きしていてね~"}
 {"sec": "map:133", "key": "Turns out that without me, they aren't so big on cybersecurity.", "en": "Turns out that without me, they aren't so big on cybersecurity.", "ja": "ボクがいなくなったら、サイバーセキュリティなんてまるでお粗末なものさ。"}
-{"sec": "map:133", "key": "The kids are being held for that old doctor from the Lapis Ward.", "en": "The kids are being held for that old doctor from the Lapis Ward.", "ja": "あの子たちは、ラピスワードの老医師のために捕らえられているんだ。"}
+{"sec": "map:133", "key": "The kids are being held for that old doctor from the Lapis Ward.", "en": "The kids are being held for that old doctor from the Lapis Ward.", "ja": "あの子たちは、ラピス区の老医師のために捕らえられているんだ。"}
 {"sec": "map:133", "key": "It's not the most pleasant circumstance, but he has strictly forbidden them from being harmed.", "en": "It's not the most pleasant circumstance, but he has strictly forbidden them from being harmed.", "ja": "快適とは言い難い状況だけど、彼は子供たちを傷つけることを固く禁じている。"}
 {"sec": "map:133", "key": "They'll be safe.", "en": "They'll be safe.", "ja": "安全なはずさ。"}
 {"sec": "map:133", "key": "AMARIA: The more pressing matter is the safety of the people.", "en": "AMARIA: The more pressing matter is the safety of the people.", "ja": "アマリア: それより差し迫った問題は、街の人たちの安全よ。"}
-{"sec": "map:133", "key": "Those PULSE Tangrowth machines ruined entire wards!", "en": "Those PULSE Tangrowth machines ruined entire wards!", "ja": "あのPULSEモジャンボの機械は、ワードをまるごと壊滅させたのよ!"}
+{"sec": "map:133", "key": "Those PULSE Tangrowth machines ruined entire wards!", "en": "Those PULSE Tangrowth machines ruined entire wards!", "ja": "あのPULSEモジャンボの機械は、区をまるごと壊滅させたのよ!"}
 {"sec": "map:133", "key": "If there's another one in the city, we can't just ignore it!", "en": "If there's another one in the city, we can't just ignore it!", "ja": "もしこの街に他にもあるなら、放っておくわけにはいかないわ!"}
 {"sec": "map:133", "key": "ACE: Reasonable.", "en": "ACE: Reasonable.", "ja": "エース: もっともだね。"}
 {"sec": "map:133", "key": "The factory it's housed in isn't far from here.", "en": "The factory it's housed in isn't far from here.", "ja": "それが設置されている工場は、ここから遠くないよ。"}

@@ -15,6 +15,9 @@ net and stay English forever:
     and the line is stuck in English however it is translated
   * an `_INTL` written with single quotes - the compiler only scrapes double
     quoted literals, so no key is registered for it either
+  * an `_INTL` / `_I` written inside a map event's Script command - the
+    compiler scrapes the script files and the maps' message commands, but
+    never the Ruby that map events carry, so again no key is registered
 
 Both are reported here, along with `_INTL` literals that simply have no
 translation yet. Run it after touching the scripts, or against a new Reborn
@@ -82,6 +85,15 @@ MESSAGE_CALL = re.compile(
 # An _INTL whose key is assembled at run time can never match what was scraped.
 BUILT_KEY = re.compile(r'(?:_INTL|_ISPRINTF)\s*\(\s*(?:"[^"]*"\s*\+|[A-Za-z_@$])')
 HAS_LETTERS = re.compile(r'[A-Za-z]{2}')
+
+# A map event can carry Ruby of its own (command code 355, continued by 655).
+# Nothing scrapes that, so a localization call written there registers no key.
+# `_I` reads the map's own hash and `_INTL` reads section 22, so the two routes
+# are captured separately - group 1 is the map route, group 2 section 22.
+EVENT_LITERAL = r'(?:"(?:[^"\\]|\\.)*"|\'(?:[^\'\\]|\\.)*\')'
+EVENT_INTL = re.compile(
+    r'(?:\b_I\(|\b_MAPINTL\(\s*[^,]+,)\s*(' + EVENT_LITERAL + r')'
+    r'|\b_(?:INTL|ISPRINTF)\s*\(\s*(' + EVENT_LITERAL + r')', re.S)
 
 # Printed on the train ticket in the opening, alongside the codes "8R750" and
 # "5D". They are stub abbreviations - most likely one-way and single - and read
@@ -155,6 +167,91 @@ def hand_added_map_keys():
             if key not in known and key not in sec22:
                 unbacked.append((f'map:{mid}', r['key']))
     return unbacked
+
+
+def event_script_keys():
+    """`_INTL` / `_I` literals written inside a map event's Script command.
+
+    Reborn's compiler scrapes the script files and the *message* commands of
+    every map. A map event can also carry Ruby (command code 355, continued by
+    655), and nothing scrapes that, so a localization call written there has no
+    key in messages.dat however correct the call is.
+
+    Which table answers depends on the call: `_INTL` reads section 22, while
+    `_I` is `_MAPINTL($game_map.map_id, ...)` and reads only that map's hash -
+    section 22 is not a fallback for it. So each literal is checked against the
+    table its own call site will look in.
+    """
+    sec22 = {}
+    permap = {}
+    for path in sorted(os.listdir(SRC)):
+        if not path.endswith('.jsonl'):
+            continue
+        for line in open(os.path.join(SRC, path), encoding='utf-8'):
+            if not line.strip():
+                continue
+            r = json.loads(line)
+            if not isinstance(r.get('key'), str):
+                continue
+            key = msgtypes.string_to_key(r['key'])
+            sec = r['sec']
+            if sec == 22:
+                sec22[key] = r['ja']
+            elif isinstance(sec, str) and sec.startswith('map:'):
+                permap.setdefault(int(sec[4:]), {})[key] = r['ja']
+
+    missing, untranslated = [], []
+    for name in sorted(os.listdir('Data')):
+        m = re.fullmatch(r'Map(\d+)\.rxdata', name)
+        if not m:
+            continue
+        mid = int(m.group(1))
+        for where, script in event_scripts(os.path.join('Data', name), mid):
+            for call in EVENT_INTL.finditer(script):
+                raw = call.group(1) or call.group(2)
+                if raw is None or '#{' in raw:
+                    continue
+                body = raw[1:-1]
+                if raw[0] == '"':
+                    body = unescape(body)
+                else:
+                    body = body.replace("\\'", "'").replace('\\\\', '\\')
+                key = msgtypes.string_to_key(body)
+                if not key or not HAS_LETTERS.search(key):
+                    continue
+                table = permap.get(mid, {}) if call.group(1) is not None else sec22
+                if key not in table:
+                    missing.append((where, key))
+                elif not table[key]:
+                    untranslated.append((where, key))
+    return missing, untranslated
+
+
+def event_scripts(path, mid):
+    """Yield (where, ruby) for every Script command block in a map's events."""
+    out = []
+    events = robj_attr(rmarshal.load(path), '@events') or {}
+    for eid, ev in events.items():
+        label = f'map{mid}/ev{eid} {robj_attr(ev, "@name")}'
+        for page in robj_attr(ev, '@pages') or []:
+            block = []
+            for cmd in robj_attr(page, '@list') or []:
+                if robj_attr(cmd, '@code') in (355, 655):
+                    block.append(robj_attr(cmd, '@parameters')[0])
+                elif block:
+                    out.append((label, '\n'.join(block)))
+                    block = []
+            if block:
+                out.append((label, '\n'.join(block)))
+    return out
+
+
+def robj_attr(obj, name):
+    """Read one instance variable off an rmarshal RObj (keys are symbols)."""
+    for key, value in obj.data.items():
+        if str(key) == name:
+            return value
+    return None
 
 
 def unescape(s):
@@ -337,6 +434,15 @@ def main():
     for where, key in unbacked:
         print(f'  {where:44} {key[:70]!r}')
     print()
+    ev_missing, ev_untranslated = event_script_keys()
+    print(f'{len(ev_missing)} literal(s) in a map event script with no key')
+    for where, key in ev_missing:
+        print(f'  {where:44} {key[:70]!r}')
+    print()
+    print(f'{len(ev_untranslated)} literal(s) in a map event script still untranslated')
+    for where, key in ev_untranslated:
+        print(f'  {where:44} {key[:70]!r}')
+    print()
     print(f'{len(raw_name)} data-object name(s) used without their message section')
     for where, text in raw_name:
         print(f'  {where:44} {text}')
@@ -345,7 +451,7 @@ def main():
     for where, text in runtime_key:
         print(f'  {where:44} {text[:96]}')
     return 1 if (no_key or untranslated or unreachable or raw_name
-                 or unbacked) else 0
+                 or unbacked or ev_missing or ev_untranslated) else 0
 
 
 if __name__ == '__main__':

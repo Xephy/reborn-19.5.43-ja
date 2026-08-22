@@ -163,6 +163,21 @@ def build_natures(scripts_dir):
     return {}
 
 
+# フィールドノート (ポケギア内アプリ「フィールドノート」の本文) は 880 行ほど
+# あり、dict.json に混ぜると無関係な長文で辞書が肥大する。攻略サイト側でも
+# 引く場所が1ページだけなので、別ファイルに書き出す。
+#
+# キーは英語の原文そのもの。サイト側は Data/fieldnotes.dat (英語のまま
+# コンパイルされたもの) を読んでフィールドごとに束ね、この表で訳を当てる。
+def build_field_notes():
+    table = {}
+    for row in load_jsonl("22b_field_notes"):
+        en, ja = row.get("en"), row.get("ja")
+        if en and ja and ja != en:
+            table[en] = ja
+    return dict(sorted(table.items()))
+
+
 def build_map_names():
     table = {}
     for row in load_jsonl(MAP_FILE):
@@ -289,11 +304,13 @@ def main():
     cats["natures"] = build_natures(args.scripts)
     stats["natures"] = len(cats["natures"])
     maps = build_map_names()
+    field_notes = build_field_notes()
 
     print("辞書を組み立てました:")
     for cat, n in stats.items():
         print(f"    {cat:16} {n:6}")
     print(f"    {'map_names':16} {len(maps):6}")
+    print(f"    {'field_notes':16} {len(field_notes):6}  (別ファイル)")
 
     if filled:
         print("\n  フィールド名を補完: " + ", ".join(f"{en}={ja}" for en, ja in filled))
@@ -322,6 +339,22 @@ def main():
     total = sum(stats.values()) + len(maps)
     size = args.output.stat().st_size
     print(f"\n  -> {args.output}  ({total:,} 語 / {size / 1024:.0f} KB)")
+
+    notes_path = args.output.parent / "field-notes.json"
+    notes_path.write_text(
+        json.dumps(
+            {
+                "_comment": "jp_translation/tools/export_web_dict.py が生成。直接編集しないこと。",
+                "_source": "Pokemon Reborn 日本語化パッチ (非公式ファン翻訳)",
+                "_license": "翻訳テキストは MIT ではない。同梱リポジトリの NOTICE を参照。",
+                "notes": field_notes,
+            },
+            ensure_ascii=False, indent=1, sort_keys=False,
+        ) + "\n",
+        encoding="utf-8",
+    )
+    print(f"  -> {notes_path}  ({len(field_notes):,} 行 / "
+          f"{notes_path.stat().st_size / 1024:.0f} KB)")
 
 
 if __name__ == "__main__":

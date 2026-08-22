@@ -178,6 +178,29 @@ def build_field_notes():
     return dict(sorted(table.items()))
 
 
+# PULSE 図鑑。説明文は画像に焼き込まれているので、通常のメッセージ表には
+# 出てこない。攻略サイトでは HTML で組み直すため、訳文と付随情報を渡す。
+def build_pulsedex():
+    ja_path = HERE / "pulsedex_ja.json"
+    meta_path = HERE / "pulsedex_meta.json"
+    if not ja_path.exists() or not meta_path.exists():
+        return {}
+    ja = json.loads(ja_path.read_text(encoding="utf-8"))
+    meta = json.loads(meta_path.read_text(encoding="utf-8"))
+    out = {}
+    for key, desc in ja.items():
+        if key.startswith("_"):
+            continue
+        m = meta.get(key, {})
+        out[key] = {
+            "desc": desc,
+            "species_en": m.get("species_en"),
+            "ability_en": m.get("ability_en"),
+            "types": [t for t in (m.get("t1"), m.get("t2")) if t],
+        }
+    return out
+
+
 def build_map_names():
     table = {}
     for row in load_jsonl(MAP_FILE):
@@ -305,12 +328,14 @@ def main():
     stats["natures"] = len(cats["natures"])
     maps = build_map_names()
     field_notes = build_field_notes()
+    pulsedex = build_pulsedex()
 
     print("辞書を組み立てました:")
     for cat, n in stats.items():
         print(f"    {cat:16} {n:6}")
     print(f"    {'map_names':16} {len(maps):6}")
     print(f"    {'field_notes':16} {len(field_notes):6}  (別ファイル)")
+    print(f"    {'pulsedex':16} {len(pulsedex):6}  (別ファイル)")
 
     if filled:
         print("\n  フィールド名を補完: " + ", ".join(f"{en}={ja}" for en, ja in filled))
@@ -355,6 +380,21 @@ def main():
     )
     print(f"  -> {notes_path}  ({len(field_notes):,} 行 / "
           f"{notes_path.stat().st_size / 1024:.0f} KB)")
+
+    if pulsedex:
+        pulse_path = args.output.parent / "pulsedex.json"
+        pulse_path.write_text(
+            json.dumps(
+                {
+                    "_comment": "jp_translation/tools/export_web_dict.py が生成。直接編集しないこと。",
+                    "_source": "Pokemon Reborn 日本語化パッチ (非公式ファン翻訳)",
+                    "entries": pulsedex,
+                },
+                ensure_ascii=False, indent=1, sort_keys=False,
+            ) + "\n",
+            encoding="utf-8",
+        )
+        print(f"  -> {pulse_path}  ({len(pulsedex)} 件)")
 
 
 if __name__ == "__main__":
